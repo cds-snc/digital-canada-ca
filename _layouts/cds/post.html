@@ -1,0 +1,55 @@
+---
+layout: cds/default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <div class="post-header">
+
+    <span class="blogpost-pretitle">
+      <a href="{{site.data.menu[page.lang].blog.url}}">{{site.data.menu[page.lang].blog.name}}</a>
+    </span>
+    <h2>{{ page.title }}</h2>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        {{ page.date | date: date_format }}
+      </time>
+      {% if page.author %}
+      <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span itemprop="name">{{ page.author }}</span>
+      </span>
+      {% endif %}</p>
+  </div>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% assign posts=site.posts | where:"lang",page.lang %}
+
+  <div class="previous-next-nav">
+    <div class="previous">
+      {% for post in posts %}
+          {% if prev %}
+            <a href="{{ post.url }}">Previous</a>
+          {% endif %}
+          {% assign prev = false %}
+          {% if post.id == page.id %}
+            {% assign prev = true %}
+          {% endif %}
+      {% endfor %}
+    </div>
+    <div class="next">
+      {% for post in posts reversed %}
+        {% if next %}
+          <a href="{{ post.url }}">Next</a>
+            {% break %}
+        {% endif %}
+        {% assign next = false %}
+        {% if post.id == page.id %}
+          {% assign next = true %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</article>

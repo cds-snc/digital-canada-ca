@@ -1,0 +1,161 @@
+@media screen {
+    .engagement-report {
+
+        // Mini version of the heading container, for use on the summary page.
+        // Shared class with heading-container
+        a.heading-container.mini-heading-container {
+            margin-top  : 0;
+            padding-top : 80px 10px 40px 10px;
+            min-height  : 180px;
+
+            @media screen and (min-width: 768px) { min-height: 200px; }
+
+            @media screen and (min-width: 992px) {
+                min-height: 220px;
+                padding-left: 20px;
+            }
+
+            // Bootstrap lg breakpoint
+            @media screen and (min-width: 1200px) {
+                min-height: 190px;
+                padding-left: 10px;
+            }
+
+            .padded-multiline {
+                bottom      : 10px;
+                font-size   : 20px;
+                font-weight : bold; 
+
+                @media screen and (min-width: 500px) {
+                    font-size   : 24px;
+                    line-height : 1.45;
+                } 
+
+                // Bootstrap md breakpoint
+                @media screen and (min-width: 992px) {
+                    font-size: 28px;
+                    line-height: 1.45;
+                    bottom: 20px;
+                }
+
+                // Bootstrap lg breakpoint
+                @media screen and (min-width: 1200px) {
+                    font-size: 21px;
+                    line-height: 1.4;
+                    bottom: 10px;
+                }
+                
+            }
+
+            &:hover, &:focus { box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.08); }
+        }
+    }
+
+    .summary-heading-background { 
+        background: url("img/v2/horizon-v2.jpg") no-repeat center right / cover $primary-color;
+        border-color: $primary-color;
+        min-height: 200px;  
+        margin-top: 1em;
+    }
+
+    .homepage-feature {
+        font-size: 18px;
+
+        a.light-link {
+            color: #b6cce8;
+
+            &:visited { color: #d3bde8; }
+        }
+        
+        
+        &.report {
+            background-color    : $primary-color;
+            color               : #fff;
+            
+            .homepage-feature-image {
+                display         : block;
+                margin-top      : 15px;
+                margin-bottom   : 15px;
+                
+                background      : url(img/v2/horizon-v2.jpg) no-repeat center right / cover $primary-color;
+
+
+                @media screen and (min-width: 500px) {
+                    min-height  : 250px;
+                } 
+
+                // Bootstrap md breakpoint
+                @media screen and (min-width: 992px) {
+                    min-height  : 300px;
+                }
+
+                // Bootstrap lg breakpoint
+                @media screen and (min-width: 1200px) {
+                    min-height  : 350px;
+                }
+
+            }
+
+            
+
+
+        }
+
+        .budget-intro-text {
+            padding: 1.5em 1em; 
+            font-size: 18px;
+        }
+
+
+        @media screen and (min-width: 500px) {
+            .homepage-feature-text { 
+                padding: 1.5em 1em;
+                padding-top: 0;
+
+                .report-title {
+                    font-size: 26px;
+                }
+            }
+        } 
+
+        // Bootstrap md breakpoint
+        @media screen and (min-width: 992px) {
+            .homepage-feature-text { 
+                padding: 2.5em 2em; 
+
+                .report-title {
+                    font-size: 26px;
+                }
+            }
+
+            .budget-intro-text {
+                font-size: 20px;
+            }
+        }
+
+        // Bootstrap lg breakpoint
+        @media screen and (min-width: 1200px) {
+            .homepage-feature-text { 
+                padding: 3.5em 2.5em; 
+
+                .report-title {
+                    font-size: 30px;
+                }
+            }
+
+        }
+
+        &.signup {
+            background-color    : #2b2b28; // rgba(21, 21, 18, 0.9); // #3a3a3a; //#1d2f21;
+            color               : #fff;
+            margin-top          : 1em;
+            margin-bottom       : 2em;
+        }
+        
+
+    }
+
+}
+
+
+

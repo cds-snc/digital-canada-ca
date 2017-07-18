@@ -1,0 +1,173 @@
+exec:
+  - name: Anatole Papadopoulos
+    title:
+      en: Executive Director
+      fr: Directeur exécutif
+    image-name: anatole-papadopoulos.jpg
+    twitter: anatolep
+    linkedin: anatole-papadopoulos-845a431
+    email: Anatole.Papadopoulos@tbs-sct.gc.ca
+
+  - name: Lena Trudeau
+    title: 
+      en: Senior Advisor
+      fr: Conseillère principal
+    image-name: lena-trudeau.jpg
+    twitter: ltrudeau
+    linkedin: ltrudeau
+    email: Lena.Trudeau@tbs-sct.gc.ca
+
+  - name: Pascale Elvas
+    title: 
+      en: Director
+      fr: Directrice
+    image-name: pascale-elvas.jpg
+    twitter: PascaleElvas
+    linkedin: pascaleelvas
+    email: Pascale.Elvas@tbs-sct.gc.ca
+
+  - name: Ryan Androsoff
+    title: 
+      en: Deputy Director and Product Lead
+      fr: Directeur adjoint et gestionnaire des produits
+    image-name: ryan-androsoff.jpg
+    twitter: RyanAndrosoff
+    linkedin: ryanandrosoff
+    email: Ryan.Androsoff@tbs-sct.gc.ca
+
+  - name: Wendy Luciani
+    title: 
+      en: Partnership Lead
+      fr: Gestionnaire des partenariats
+    image-name: wendy-luciani.jpg
+    twitter: wmluciani
+    linkedin: wmluciani
+    email: Wendy.Luciani@tbs-sct.gc.ca
+team:
+  - name: Dave Samojlenko
+    title:
+      en: Developer | DevOps
+      fr: Développeur | Dév. opération
+    image-name: dave-samojlenko.jpg
+    twitter: dsamojlenko
+    github: dsamojlenko
+
+  - name: James Mickle
+    title:
+      en: Policy | Research
+      fr: Politique | Recherche
+    image-name: james-mickle.jpg
+    twitter: james_mickle
+    linkedin: james-mickle-4b012796
+
+  - name: John Millons
+    title:
+      en: Policy | Engagement
+      fr: Politique | Mobilisation
+    image-name: john-millons.jpg
+    twitter: JohnMillons
+    email: John.Millons@tbs-sct.gc.ca
+
+  - name: Mario Garneau
+    title:
+      en: Tech | Delivery
+      fr: Technologie | Prestation
+    image-name: mario-garneau.jpg
+    twitter: mcman12
+    linkedin: mario-garneau-76895412a
+    email: Mario.Garneau@tbs-sct.gc.ca
+    github: mcman12
+
+  - name: Megan Beretta
+    title:
+      en: Communications | Community
+      fr: Communications | Collectivité
+    image-name: megan-beretta.jpg
+    twitter: megberetta 
+    linkedin: meganberetta
+    email: megan.beretta@tbs-sct.gc.ca
+
+  - name: Meera Makim Cunningham
+    title: 
+      en: Operations | Staffing
+      fr: Opérations | Dotation
+    image-name: meera-cunningham.jpg
+    email: Meera.Cunningham@tbs-sct.gc.ca
+
+  - name: Shelley Bagg
+    title:
+      en: Operations | Administration
+      fr: Opérations | Administration 
+    image-name: shelley-bagg.jpg
+    email: Shelley.Bagg@tbs-sct.gc.ca
+
+  - name: Mike Williamson
+    title:
+      en: Developer | Data
+      fr: Développeur | Données
+    image-name: mike-williamson.jpg
+    twitter: dexterchief
+    email: mike.williamson@tbs-sct.gc.ca
+    github: sleepycat
+
+  - name: Mithula Naik
+    title:
+      en: Design | Insights
+      fr: Conception | Insights
+    image-name: mithula-naik.jpg
+    twitter: MithulaNaik
+    linkedin: mithulanaik
+
+  - name: Nick Makuch
+    title:
+      en: Design | Multimedia 
+      fr: Design | Multimédia
+    image-name: nick-makuch.jpg
+    twitter: makuch_nick
+    email: nick.makuch@tbs-sct.gc.ca
+
+  - name: Sean Boots
+    title: 
+      en: Tech | Advice
+      fr: Technologie | Conseil
+    image-name: sean-boots.jpg
+    twitter: sboots
+    linkedin: seanboots
+    github: sboots
+
+  - name: Stéphane Tourangeau
+    title:
+      en: Communications │ Learning
+      fr: Communications | Apprentissage
+    image-name: stephane-tourangeau.jpg
+    twitter: stourang
+    linkedin: stephanetourangeau
+    email: stephane.tourangeau@tbs-sct.gc.ca
+
+  - name: Stevie-Ray Talbot
+    title:
+      en: Policy | Data
+      fr: Politique | Données
+    image-name: stevie-ray-talbot.jpg
+    twitter: StevieRayTalbot
+    email: Steven.Talbot@tbs-sct.gc.ca
+
+
+  - name: Yeremia Djaja
+    title:
+      en: User Experience (UX) | Developer
+      fr: Expérience utilisateur (EU) | Développeur 
+    image-name: yeremia-djaja.jpg
+    twitter: YeremiaD
+    linkedin: yeremia-djaja-325b30a4
+    github: yeremia-d
+
+  # - name: 
+  #   title:
+  #     en:
+  #     fr: 
+  #   image-name:
+  #   twitter:
+  #   linkedin:
+  #   email:
+  #   github:

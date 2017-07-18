@@ -1,0 +1,126 @@
+#themenav {
+    min-height: 70px;
+
+    .nav-link { font-size: 14px; }
+
+    .nav-link,
+    .vertical-align-middle {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    @media (max-width: 767px) { margin-left: -15px; margin-right: -15px; }
+
+    .nav {
+        &:after, 
+        &:before { content: none; }
+
+        & > li, 
+        & > li > a { display: block; position: relative; }
+
+        & > li > a {
+            color: inherit;
+            
+            &:hover, 
+            &:focus {
+                background-color: inherit;
+                text-decoration: none;
+            }
+
+            &:active, 
+            &:visited { color: inherit; }
+        }
+    }
+
+    nav::-webkit-scrollbar {
+        display: none !important;
+    }
+
+    .scroll {
+        user-select: none;
+        white-space: nowrap;
+        overflow-x: auto;
+        overflow: -moz-scrollbars-none;
+        -webkit-overflow-scrolling: touch;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
+    
+        &.secondary {
+            background-color: $primary-color;
+            color: #fff;
+            text-align: center;
+
+            @media (max-width: 767px) {
+                -webkit-box-shadow: inset 0px 0px 31px 1px rgba(0, 0, 0, 0.75);
+                -moz-box-shadow: inset 0px 0px 31px 1px rgba(0, 0, 0, 0.75);
+                box-shadow: inset 0px 0px 31px 1px rgba(0, 0, 0, 0.75);
+
+                &:before, &:after { top: 90px; height: 75px; }
+            }
+            
+            a { color: #fff; }
+
+            &.affix { background-color: #333; }
+            
+            li {
+                display: inline-block;
+
+                a { display: inline-block; padding: 0 1.54%; }
+
+                &.active a { color: #efefef !important; }
+            }
+
+            .nav-link {
+                padding                     : 15px 15px;
+                text-align                  : center;
+                text-transform              : uppercase;
+                transition                  : color 0.2s;
+                transition                  : background-color 0.2s;
+                transition-timing-function  : ease;
+
+                @media (min-width: 1200px) { padding-left: 4%; padding-right: 4%; }
+
+                // Bootstrap lg breakpoint
+                @media screen and (min-width: 1200px) {
+                    padding: 20px 20px;
+                    font-size: 16px;
+                    padding-bottom: 17px;
+                    line-height: 20px;
+                    letter-spacing: 0.07em;
+                }
+
+                &:hover { background-color: transparent; color: #dedede !important; }
+            }
+        }
+
+        &::-webkit-scrollbar, &::-webkit-scrollbar-track { display: none; }
+    }
+
+    .affix {
+        background-color    : #3d3d3d;
+        box-shadow          : 0px 9px 9px -5px rgba(0, 0, 0, 0.56);
+        text-align          : center;
+        top                 : 0;
+        left                : 0;
+        width               : 100%;
+        z-index             : 1000 !important;  // Previously 9999
+        -webkit-box-shadow  : 0px 9px 9px -5px rgba(0, 0, 0, 0.56);
+        -moz-box-shadow     : 0px 9px 9px -5px rgba(0, 0, 0, 0.56);
+
+        .nav-link, li.active {
+            &:hover, &:focus, &:active, .nav-link {
+
+                background-color: $active-nav-background-colour;
+
+                // &.section--engagement    { background-color: $engagement-color; }
+                // &.section--organizing    { background-color: $organizing-color; }
+                // &.section--talent        { background-color: $talent-color; }
+                // &.section--design        { background-color: $design-color; }
+                // &.section--foundations   { background-color: $foundations-color; }
+                // &.section--yourthoughts  { background-color: $yourthoughts-color; }
+            }
+        }
+    }
+}
+
+// Specific overrides
+.engagement-report ul.nav li + li { margin-top: 0; }

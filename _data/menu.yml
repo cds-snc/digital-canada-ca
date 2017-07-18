@@ -1,0 +1,32 @@
+en:
+  home:
+    name: "Home"
+    url: "/"
+  how_we_work:
+    name: "How we work"
+    url: "/how-we-work"
+  our_team:
+    name: "Our team"
+    url: "/our-team"
+  blog:
+    name: "Blog"
+    url: "/blog"
+  contact:
+    name: "Contact"
+    url: "/contact"
+fr:
+  home:
+    name: "Accueil"
+    url: "/"
+  how_we_work:
+    name: "Ce que nous faisons"
+    url: "/ce-que-nous-faisons"
+  our_team:
+    name: "Notre équipe"
+    url: "/notre-equipe"
+  blog:
+    name: "Blogue"
+    url: "/blogue"
+  contact:
+    name: "Contactez-nous"
+    url: "/contactez-nous"

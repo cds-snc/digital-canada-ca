@@ -1,0 +1,317 @@
+
+
+
+
+
+
+.font-color-white { color: $white; }
+
+.icon-text-list { margin-bottom: 3rem; }
+
+.button-center { text-align: center; }
+
+.button {
+	
+	position: relative;
+	display: inline-block;
+	font-weight: 400;
+	padding: 1rem 1.5rem;
+	border: $primary-color 2px solid;
+	border-radius: 1rem;
+	background: $primary-color;
+	transition: all 0.3s ease-in-out;
+	color: $secondary-color;
+	margin: 2rem 0;
+	font-size: 1.75rem;
+
+	&:hover {
+		border-color: $secondary-color;
+		background: $secondary-color;
+		color: $primary-color;
+	}
+
+	&.outline {
+		background: none;
+		color: $white;
+		border-color: $white;
+
+		&:hover {
+			background: $primary-color;
+			color: $secondary-color;
+			border-color: $primary-color;
+		}
+	}
+
+}
+
+
+
+
+
+
+
+.our-team--listing {
+	border-top: $medium-grey 5px solid;
+	max-width: 100% !important;
+}
+
+
+.contact-info {
+	list-style: none;
+	margin: 0;
+	padding: 0;  
+
+@include mobile_only {
+	margin: 0 2rem;
+}
+	li {margin: 2rem 0 2rem 2rem;
+	}
+
+	i {
+		padding: 1.8rem;
+		border: $primary-color 2px solid;
+		border-radius: 50%;
+		text-align: center;
+		font-size: 2rem;
+	}
+
+.contact-icon {
+	display: inline-block;
+}
+
+.text {
+	display: inline-block;
+	margin-left: 1.5rem;
+	font-size: 2rem;
+}
+}
+
+.contact-info-container {
+	max-width: 40rem;
+	margin: 0 auto;
+}
+
+
+///// TEAM LISTING
+
+.team-listing {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	
+	@include tablet {
+		
+	}
+
+	&.exec {
+		padding-bottom: 5rem;
+		margin-bottom: 2rem;
+		border-bottom: $medium-grey 5px solid;
+	}
+
+	.team-member {
+		position: relative;
+		border-bottom: $medium-grey 2px solid;
+		padding: 2.5rem 0;
+		transition: background 0.75s ease;
+
+		@include tablet {
+			padding: 3.5rem 0;
+		}
+
+		@include desktop {
+			&:hover {
+				background: #EFEFEF;
+			}
+		}
+
+	}
+
+	.photo {
+		display: block;
+		margin: 0rem auto 1.5rem auto;
+		height: 15rem;
+		width: 15rem;
+		border: $primary-color 3px solid;
+		background: url('img/cds/profile-images/default.png') no-repeat center center;
+		background-size: cover;
+		border-radius: 50%;
+
+		@include tablet {
+			height: 18rem;
+			width: 18rem;
+			border-width: 5px;
+		}
+	}
+
+	.name, .title, .social-links {
+		display: block;
+		position: relative;
+	}
+
+	.name {
+		font-size: 2.35rem;
+		font-weight: 300;
+	}
+
+	.title {
+		font-size: 1.5rem;
+		color: #4c4c4c;
+	}
+
+	.social-links {
+		margin-top: 4rem;
+
+		@include tablet {
+			margin-top: 3.5rem;
+		}
+	}
+
+	.social-icons a {
+		display: inline-block;
+		padding: 1rem 1.35rem;
+		border: $secondary-color 2px solid;
+		border-radius: 50%;
+		margin: 0 0.5rem;
+		transition: all 0.3s ease-in-out;
+
+		&:hover {
+			background: $secondary-color;
+			color: $primary-color;
+		}
+	}
+}
+
+.icon-list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+	@include desktop {
+		margin: 1rem 5rem;
+	}
+
+	.item {
+		position: relative;
+		border: $primary-color 3px solid;
+		margin: 5rem 1rem;
+		
+
+		@include tablet {
+			border: 0;
+		}
+
+		@include desktop {
+			margin: 7rem 1rem;
+		}
+	}
+
+	.item-text {
+		display: block;
+		padding: 5.5rem 1.5rem 1.5rem 1.5rem;
+
+		@include tablet {
+			padding: 0 0 0 11rem;
+		}
+
+		@include desktop {
+			padding: 0 0 0 12rem;
+		}
+		
+	}
+
+	.item-icon {
+		position: absolute;
+		top: -4rem;
+		left: 50%;
+		transform: translateX(-50%);
+		background: $primary-color;
+		border-radius:50%;
+		padding: 2rem;
+
+		@include tablet {
+			left: 0;
+			transform: none;
+			top:-2.5rem;
+			background: none;
+			border: $primary-color 4px solid;
+
+		}
+
+		@include desktop {
+			padding: 2.5rem;
+			top: -3rem;
+		}
+
+		i {
+			font-size: 3.5rem;
+		}
+	}
+
+	h3 {
+		margin: 0;
+		text-align: center;
+		font-size: 2.5rem;
+		margin-bottom: 1.5rem;
+
+		@include tablet {
+			text-align: left;
+			font-size: 3rem;
+		}
+
+		@include desktop {
+			font-size: 3.5rem;
+		}
+	}
+}
+
+// Blogpost page
+.page-blogpost {
+	h2 {
+		font-size: 4.5rem;
+		font-weight: 100;
+		margin-top: 0;
+		margin-top: 1.5rem;
+	}
+
+	.blogpost-pretitle {
+		font-size: 2rem;
+		text-transform: uppercase;
+		font-weight: bold;
+		position: relative;
+
+
+		&:after {
+			content: '';
+			position: absolute;
+			display: block;
+			background: $primary-color;
+			width: 100%;
+			height: 3px;
+			bottom: -0.5rem;
+			left: 0;
+		}
+
+	}
+
+	.post-meta {
+		margin: 2.5rem 0;
+		position: relative;
+		display: block;
+	}
+
+	time {
+		margin-bottom: 1.75rem;
+		font-size: 2rem;
+		font-weight: 100 !important;
+	}
+
+	p {
+		margin-bottom: 2.75rem;
+		line-height: 1.6em;
+		font-size: 2.15rem;
+	}
+}
+
+

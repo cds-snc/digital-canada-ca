@@ -1,0 +1,4 @@
+@mixin image-header($imagePath, $color) {
+    background: url($imagePath) no-repeat center right / cover $color;
+    border-color: $color;
+}

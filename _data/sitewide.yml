@@ -1,0 +1,11 @@
+base-url: "http://digital.canada.ca"
+email: cds-snc@tbs-sct.gc.ca
+twitter:
+  en: CDS_GC
+  fr: SNC_GC
+youtube: cds
+github: cds-snc
+
+language_full:
+  en: "English"
+  fr: "Français"

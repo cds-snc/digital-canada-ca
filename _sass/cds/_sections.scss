@@ -1,0 +1,567 @@
+////////////////////////////////////////////////////
+//
+// FRONTPAGE 
+//
+////////////////////////////////////////////////////
+
+.homepage--intro {
+	text-align: center;
+
+	.container {
+		max-width: 80rem;
+	}
+
+	@include desktop { 
+		padding: 8rem; 
+	}
+
+	.text {
+		color: $black; 
+		font-weight: 200; 
+		font-size: 2.15rem; 
+		line-height: 1.35em; 
+		
+
+		@include tablet {
+			margin-top	: 0.5rem;
+			font-size: 2.25rem; 
+		}
+
+		@include desktop {
+			margin-top: 1.5rem;
+			font-size	: 2.5rem;
+			font-weight: 300;
+			
+		}
+	}
+
+	.lead {
+		color: #6c6464; 
+		font-size:2.5rem;
+
+		@include tablet {
+			font-size: 2.75rem;
+		}
+
+		@include desktop {
+			font-size: 3.25rem;
+		}
+	}
+	
+}
+
+.homepage--what-we-do {
+	border-top	: $medium-grey 1px solid;
+	text-align	: center;
+
+	.icon-text {
+		margin-top: 1.5rem;
+
+		@include tablet 	{ margin-bottom	: 4rem; }
+		@include desktop 	{ margin-top	: 1rem; }
+	}
+
+	h3 {
+		
+		font-weight : 100;
+		line-height : 2.75rem;
+		margin 		: 2rem 0;
+
+		@include tablet {
+			font-size	: 2.4rem;
+			font-weight	: 300;
+			line-height	: 3.2rem;
+			margin-top	: 5rem;
+		}
+	}
+
+	i {
+		border 			: $primary-color 5px solid;
+		border-radius	: 50%;
+		font-size 		: 5.5rem;
+		margin-bottom 	: 1rem;
+		margin-top 		: 2rem;
+		padding 		: 3rem;
+
+		@include desktop {
+			font-size 	: 7rem;
+			padding 	: 3.5rem;
+		}
+	}
+
+	.text { 
+		font-size: 2.5rem;
+		margin-top: 1.0rem;
+	}
+}
+
+.homepage--intro-cds {
+
+	.intro-video {
+		margin-bottom: 1rem;
+
+		@include tablet { margin-bottom: 3rem; }
+	}
+	
+	.our-team {
+
+		@include tablet { border-top: lighten($medium-grey, 3) 5px solid; }
+
+		h3 {
+			@include mobile_only {
+				border-top: $medium-grey 1px solid;
+				padding-top: 3rem;
+			}
+		}
+	}
+}
+
+.homepage--our-team {
+	//background 		: -webkit-gradient(linear, 0 top, 0 bottom, from(rgba($black,0.85)), to(rgba($black,0.85))), url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat, $dark-grey;
+	//background 		: -webkit-gradient(linear, 0 top, 0 bottom, from(rgba($black,0.85)), to(rgba($black,0.85))), url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat, $dark-grey;
+	background 		: url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat;
+
+	background-size	: cover;
+	color 			: $white;
+	font-weight:100;
+	text-align: center;
+
+	@include tablet {
+		padding 		: 5rem 0 3rem 0;
+	}
+
+	a:not([class]) {
+		color: $primary-color !important;
+		border-bottom: $primary-color 1px dotted;
+		transition: all 0.3s ease-in-out;
+
+		&:hover {
+			border-bottom: $primary-color 1px solid;
+		}
+	}
+}
+
+.homepage--budget {
+	@include desktop {
+		padding: 8rem 0;
+	}
+	blockquote {
+		padding: 2.5rem 3.5rem 3rem 3.5rem;
+		margin: 0rem;
+		border: 0;
+		position: relative;
+
+		@include tablet {
+			padding: 3.5rem 4rem 3rem 4.5rem;
+		}
+
+		@include desktop {
+			padding: 3.5rem 3rem 3rem 5.5rem;
+		}
+
+		p {
+			font-size: 2rem;
+			line-height: 1.75em;
+
+			@include desktop {
+				font-size: 2.5rem;
+			}
+
+		}
+
+		& + p {
+			padding-left: 3.5rem;
+
+			@include desktop {
+				padding-left: 5.5rem;
+			}
+		}
+	}
+
+	.quote-ico {
+		position: absolute;
+		font-size: 5rem;
+		opacity: 0.15;
+		text-shadow: 0 -1px 0 #000;
+		color: #CCC;
+
+		@include tablet {
+			font-size: 7rem;
+		}
+
+		@include desktop {
+			font-size: 8rem;
+		}
+
+		&.left {
+			top: 0;
+			left: 0;
+		}
+
+		&.right {
+			display: none;
+
+			@include tablet {
+				display: block;
+				bottom: 3rem;
+			right: 0;
+			}
+
+			@include desktop {
+				bottom: -2rem;
+			}
+			
+		} 
+	}
+
+
+}
+
+.homepage--engagement-report {
+	background 		: url('/assets/img/cds/engagementReport-bk.jpg') center center no-repeat;
+	background-size	: cover;
+	color 			: $white;
+	padding-top 	: 5rem;
+
+	@include desktop {
+		padding: 8rem 0;
+	}
+
+	.title {
+		@include tablet {
+			border-right 	: $white 1px solid;
+			padding-right 	: 3rem;
+			padding-top 	: 1.5rem;
+			padding-bottom 	: 1.5rem;
+			text-align 		: right;
+		}
+
+		@include desktop {
+			padding-top: 2rem;
+			padding-bottom: 5rem;
+		}
+	}
+
+	.text {
+		@include tablet {
+			padding-left 	: 3rem;
+			padding-top 	: 1rem;
+		}
+
+		@include desktop { padding-top: 3rem; }
+	}
+
+	.pretitle {
+		background 		: rgba(0,0,0,0.95);
+		display 		: inline-block;
+		font-size 		: 1.25rem;
+		font-weight 	: 300;
+		padding 		: 0.5rem 1rem;
+		margin-bottom 	: 1rem;
+
+		@include tablet { margin-bottom: 1rem; }
+	}
+
+	h2 {
+		font-size 	: 3.25rem;
+		font-weight : 100;
+		margin 		: 0.5rem 0 2rem 0;
+	}
+
+	.postitle {
+		font-size 		: 2rem;
+		font-weight 	: 300;
+		margin-top 		: 1.5rem;
+		margin-bottom 	: 2rem;
+
+		@include tablet {
+			margin-top 	: 5rem;
+			font-weight : 100;
+		}
+
+		@include desktop { margin-left: 5rem; }
+	}
+}
+
+.section--featured-blogposts {
+	
+	background 		: $bg-grey;
+	padding-bottom 	: 4rem;
+
+
+
+	.blog-posts {
+
+		@include tablet { margin-bottom: 3rem; }
+
+		.post {
+			background 	: $white;
+			box-shadow 	: 0 0 10px rgba(0,0,0,0.5);
+			display 	: block;
+			transition 	: all 0.3s ease-in-out;
+
+			&:hover {
+				box-shadow 	: 0 0 30px rgba(0,0,0,0.80);
+				color 		: lighten($secondary-color, 10);
+			}
+
+			@include mobile_only {
+				margin 		: 1.5rem auto;
+				max-width 	: 30rem;
+			}
+
+			@include tablet {
+				height 	: 25rem;
+				margin 	: 1.5rem 0;
+			}
+
+			.image {
+				background-position 	: center center;
+				background-size 		: cover;
+				display 				: block;
+				height 					: 15rem;
+			}
+
+			.text { padding: 1.5rem; }
+
+			.date {
+				color 		: $dark-grey;
+				font-size 	: 1rem;
+				font-weight : 500;
+			}
+
+			h3 {
+				font-weight 	: 500;
+				font-size 		: 1.5rem;
+				margin 			: 0;
+				margin-top 		: 0.5rem;
+			}
+		}
+	}
+}
+
+.section--contact {
+
+	h2 {
+		font-weight	: 100;
+
+		@include mobile_only {
+			text-align 		: center;
+			margin-bottom 	: 4rem;
+		}
+
+		@include desktop {
+			font-size: 3.5rem;
+			margin-bottom: 1rem;
+		}
+	}
+
+	.hiGraphic {
+		background 		: url('/assets/img/cds/hi.png') no-repeat center center;
+		background-size : contain;
+		display 		: block;
+		height 			: 42rem;
+		width 			: 100%;
+		opacity 		: 0.25;
+
+		.fr & {
+			background 	: url('/assets/img/cds/salut.png') no-repeat center center;
+			background-size : contain;
+		}
+	}
+}
+
+////////////////////////////////////////////////////
+//
+// HOW WE WORK
+//
+////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////
+//
+// OUR TEAM 
+//
+////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////
+//
+// BLOG LISTING
+//
+////////////////////////////////////////////////////
+
+.blogpost-list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+	.post {
+		padding: 4rem 0;
+		border-bottom: #CCC 1px solid;
+
+
+		@include tablet {
+			padding: 4rem 2rem;
+		}
+	}
+
+	.date {
+		border-left: $primary-color 5px solid;
+		padding-left: 1rem;
+		font-size: 1.5rem;
+		margin: 0.5rem 0 1rem 0;
+
+		@include tablet {
+			font-size: 1.75rem;
+			font-weight:500;
+		}
+	}
+
+	.author {
+		margin: 2rem 0;
+		font-weight:500;
+	}
+
+	.photo {
+		display: block;
+		height: 15rem;
+		width: 100%;
+		background-size: cover;
+		background-position: center center;
+
+		@include tablet {
+			margin-top: 1rem;
+		}
+
+		@include desktop {
+			height: 20rem;
+		}
+	}
+
+	h2 {
+		margin-top: 1.5rem;
+	}
+
+	.text {
+		font-size: 2rem;
+		font-weight: 100;
+		line-height:1.6em;
+
+		@include desktop {
+			font-size: 2.25rem;
+		}
+	}
+
+	.readmore {
+		margin-top: 2rem;
+
+		a {
+			//border: $secondary-color 1px solid;
+			display: inline-block;
+			//padding: 0.5rem 1.5rem;
+			//font-size: 1.5rem;
+			//border-radius: 1rem;
+		}
+	}
+}
+
+article.post {
+	padding: 2rem 0;
+	.post-header {
+		font-weight: 500;
+		font-size: 1.5rem;
+		margin: 1rem 0 2rem 0;
+
+		time {
+			display: block;
+			font-weight: 500;
+			
+		}
+
+		.author {
+			display: block;
+			font-weight: 500;
+
+		}
+	}
+}
+
+////////////////////////////////////////////////////
+//
+// CONTACT
+//
+////////////////////////////////////////////////////
+
+.section--contact {
+	.contact-info {
+		@include mobile_only {
+			max-width: 35rem;
+			margin: 0 auto;
+		}
+	}
+	
+}
+
+.section--mailing-list {
+	background 		: $bg-grey;
+
+	&.no-bg {
+		background: none;
+		border-top: $medium-grey 4px solid;
+	}
+	p {text-align:center;}
+}
+#mc_embed_signup {
+
+	
+
+	.email {
+		margin: 0 auto;
+		width: 90%;
+		max-width: 45rem;
+		border-radius: 0;
+		border: $primary-color 2px solid;
+		padding: 2rem 1rem;
+		font-weight: 100;
+		font-size: 2rem;
+
+		&::placeholder {
+			font-weight: 100;
+			font-style: italic;
+			color: #BBB !important;
+		}
+
+		&:focus {
+			outline: none;
+			box-shadow: none;
+		}
+	}
+
+	label[for="mce-EMAIL"] {
+		display: block !important;
+		width: 100%;
+	}
+
+	.label-text {
+		display: none;
+	}
+
+	.submit-button-container {
+		text-align: center;
+		margin-top: 2.5rem;
+	}
+	.mce-submit-button {
+		background: $primary-color;
+		color: $secondary-color;
+	}
+
+	.mce-privacy {
+		font-size: 1.5rem;
+		text-align: center;
+		font-weight: 100;
+		margin-top: 1rem;
+
+
+	}
+}

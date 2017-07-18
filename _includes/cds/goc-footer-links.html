@@ -1,0 +1,13 @@
+<ul>
+    <li><a href="
+        {% if page.lang == 'en' %} https://www.canada.ca/en/transparency/terms.html
+        {% elsif page.lang == 'fr' %} https://www.canada.ca/fr/transparence/avis.html
+        {% endif %}
+    ">{{ site.data.trans[page.lang].terms-and-conditions }}</a></li>
+    <li><a href="
+        {% if page.lang == 'en' %} https://www.canada.ca/en/transparency/privacy.html
+        {% elsif page.lang == 'fr' %} https://www.canada.ca/fr/transparence/confidentialite.html 
+        {% endif %}
+    ">{{ site.data.trans[page.lang].privacy }}</a></li>
+    <li><a href="https://www.canada.ca/{{ page.lang }}.html">{{ site.data.trans[page.lang].canadalink }}</a></li>
+</ul>

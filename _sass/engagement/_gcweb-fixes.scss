@@ -1,0 +1,40 @@
+/* Generic domain-wide fixes to GCweb CSS */
+
+a img.thumbnail:hover {
+    -webkit-box-shadow: inherit;
+    box-shadow: inherit;
+}
+
+a:hover img.thumbnail,
+a:focus img.thumbnail {
+    -webkit-box-shadow: 1px 1px 5px #999;
+    box-shadow: 1px 1px 5px #999;
+}
+
+.gc-dwnld .gc-dwnld-txt {
+    text-decoration: none;
+}
+
+a.gc-dwnld-lnk:hover .gc-dwnld .gc-dwnld-txt,
+a.gc-dwnld-lnk:focus .gc-dwnld .gc-dwnld-txt {
+    text-decoration: underline;
+}
+
+/* Comments from open.canada.ca */
+/*http://open.canada.ca/sites/all/modules/custom/opendata_blog/css/images/icons/comment.png*/
+
+.comment .links .comment-reply a {
+    background: url(//open.canada.ca/sites/all/modules/custom/opendata_blog/css/images/icons/comment.png) left bottom no-repeat;
+}
+
+.comment .links a {
+    padding: 2px 0 2px 22px;
+    text-decoration: none;
+    color: #3e7bab;
+}
+
+.comment .comment-author,
+form.comment-form .username {
+    font-weight: bold;
+    color: #086CA2;
+}
