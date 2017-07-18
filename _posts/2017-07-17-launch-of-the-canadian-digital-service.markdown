@@ -19,7 +19,7 @@ We’re going to grow digital capacity across government, amplify and replicate 
 
 Agile digital government requires taking risks. We need to challenge assumptions, think experimentally, and constantly measure ourselves against that end goal: better service to Canadians. No doubt we’ll make mistakes, but we will make them at the alpha and beta stage, not after launching at scale.
 
-As I have often said, in this world you’re either digital or you’re dead. We can’t be a Blockbuster government serving a Netfix citizenry!
+As I have often said, in this world you’re either digital or you’re dead. We can’t be a Blockbuster government serving a Netflix citizenry!
 
 We need to change the way we do business. CDS is just one tool in the kit, but it stands as a clear signal of our commitment. We aren’t the first government digital service in the world, but I believe we can be the best.
 
