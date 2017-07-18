@@ -11,7 +11,7 @@ exec:
   - name: Lena Trudeau
     title: 
       en: Senior Advisor
-      fr: Conseillère principal
+      fr: Conseillère principale
     image-name: lena-trudeau.jpg
     twitter: ltrudeau
     linkedin: ltrudeau
@@ -47,7 +47,7 @@ team:
   - name: Dave Samojlenko
     title:
       en: Developer | DevOps
-      fr: Développeur | Dév. opération
+      fr: Développeur | DevOps
     image-name: dave-samojlenko.jpg
     twitter: dsamojlenko
     github: dsamojlenko
@@ -113,7 +113,7 @@ team:
   - name: Mithula Naik
     title:
       en: Design | Insights
-      fr: Conception | Insights
+      fr: Conception | Perception
     image-name: mithula-naik.jpg
     twitter: MithulaNaik
     linkedin: mithulanaik
