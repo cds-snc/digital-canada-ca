@@ -5,7 +5,7 @@ date: 2017-07-18 09:00:00 -0400
 lang: en
 ref: launch-blog-post
 postimage: launch-post-2017.jpg
-trans_url: "/2017/07/17/lancement-du-service-numerique-canadien"
+trans_url: "/2017/07/18/lancement-du-service-numerique-canadien"
 author: The Honourable Scott Brison, President of the Treasury Board
 description: "The Government of Canada has an opportunity—and a responsibility—to deliver world-class services to Canadians. This will require disruption as we make the switch, both technically and culturally, to agile digital delivery models. To accelerate these efforts, I am excited to announce the launch of the Canadian Digital Service (CDS) to modernize the way the Government of Canada designs and delivers digital services."
 ---
