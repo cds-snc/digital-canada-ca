@@ -1,7 +1,7 @@
 ---
 layout: cds/post
 title: "Launch of the Canadian Digital Service"
-date: 2017-07-17 09:00:00 -0400
+date: 2017-07-18 09:00:00 -0400
 lang: en
 ref: launch-blog-post
 postimage: launch-post-2017.jpg
