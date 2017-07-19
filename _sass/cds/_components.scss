@@ -268,11 +268,12 @@
 
 // Blogpost page
 .page-blogpost {
-	h2 {
+	h1 {
 		font-size: 4.5rem;
 		font-weight: 100;
 		margin-top: 0;
 		margin-top: 1.5rem;
+		color: $black;
 	}
 
 	.blogpost-pretitle {
