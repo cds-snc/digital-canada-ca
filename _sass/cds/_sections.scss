@@ -120,7 +120,7 @@
 	//background 		: -webkit-gradient(linear, 0 top, 0 bottom, from(rgba($black,0.85)), to(rgba($black,0.85))), url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat, $dark-grey;
 	//background 		: -webkit-gradient(linear, 0 top, 0 bottom, from(rgba($black,0.85)), to(rgba($black,0.85))), url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat, $dark-grey;
 	background 		: url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat;
-
+	background-color: #0f0a08;
 	background-size	: cover;
 	color 			: $white;
 	font-weight:100;
@@ -220,6 +220,7 @@
 .homepage--engagement-report {
 	background 		: url('/assets/img/cds/engagementReport-bk.jpg') center center no-repeat;
 	background-size	: cover;
+	background-color: #121519;
 	color 			: $white;
 	padding-top 	: 5rem;
 
