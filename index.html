@@ -9,9 +9,11 @@ trans_url: '/'
 
 <section class="section homepage--intro">
     <div class="container">
-  
-        <p class="lead">The Government of Canada must embrace new methods and tools to improve how it designs, builds, and delivers services.</p>
-        <p class="text">The Canadian Digital Service (CDS) is bringing together the skills and expertise needed to accelerate this change.</p> 
+
+        <p class="lead">The Government of Canada must embrace new methods and tools to improve how it designs, builds,
+            and delivers services.</p>
+        <p class="text">The Canadian Digital Service (CDS) is bringing together the skills and expertise needed to
+            accelerate this change.</p>
     </div>
 </section>
 
@@ -44,29 +46,33 @@ trans_url: '/'
 
 <section class="section homepage--our-team">
     <div class="page-banner--scrim"></div>
-    
-    <div class="container">
-    <div class="row">
-        <div class="col-xs-12">
-        <h2 class="section--title">Our Team</h2>
 
-        <p>We are a building a team with diverse skills and backgrounds, and we’re recruiting! <a href="/our-team">Learn more</a> about the designers, developers, UX researchers, policy hackers, data specialists, and communicators who make up CDS.</p>
-        <p><a href="/our-team" class="button yellow">Meet our team</a></p>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2 class="section--title">Our Team</h2>
+
+                <p>We are a building a team with diverse skills and backgrounds, and we’re recruiting! <a
+                        href="/our-team">Learn more</a> about the designers, developers, UX researchers, policy hackers,
+                    data specialists, and communicators who make up CDS.</p>
+                <p><a href="/our-team" class="button yellow">Meet our team</a></p>
+            </div>
         </div>
-    </div>
-    </div>
-   
     </div>
 </section>
 
 <section class="section homepage--budget">
     <div class="container">
-    <blockquote>
-        <i class="fa fa-quote-left quote-ico left" aria-hidden="true"></i>
-        <i class="fa fa-quote-right quote-ico right" aria-hidden="true"></i>
-        <p>Informed by similar initiatives in the U.S. (the U.S. Digital Service/18F) and the United Kingdom (the Government Digital Service), the Government will adopt new ways of serving Canadians. Better use of digital technologies could improve the ways in which businesses can access government services, speed up immigration processing times through better-integrated information, or make it easier for Canadians to access benefits or tax information online.</p>
-    </blockquote>
-    <p>&mdash; <a href="http://www.budget.gc.ca/2017/docs/plan/chap-01-en.html#Toc477707371">Budget 2017</a></p>
+        <blockquote>
+            <i class="fa fa-quote-left quote-ico left" aria-hidden="true"></i>
+            <i class="fa fa-quote-right quote-ico right" aria-hidden="true"></i>
+            <p>Informed by similar initiatives in the U.S. (the U.S. Digital Service/18F) and the United Kingdom (the
+                Government Digital Service), the Government will adopt new ways of serving Canadians. Better use of
+                digital technologies could improve the ways in which businesses can access government services, speed up
+                immigration processing times through better-integrated information, or make it easier for Canadians to
+                access benefits or tax information online.</p>
+        </blockquote>
+        <p>&mdash; <a href="http://www.budget.gc.ca/2017/docs/plan/chap-01-en.html#Toc477707371">Budget 2017</a></p>
     </div>
 </section>
 
@@ -80,8 +86,10 @@ trans_url: '/'
                 <div class="postitle">A Made-in-Canada Approach to Digital government</div>
             </div>
             <div class="col-xs-12 col-sm-8 text">
-            <p>Over the past year, we met with people from coast to coast to coast, including from start-ups, civic tech organizations, academia, and municipal and provincial governments. We welcome your feedback as we continue our digital journey here in Canada. </p>
-            <a href="/beginning-the-conversation" class="button">Read the Full Report</a>
+                <p>Over the past year, we met with people from coast to coast to coast, including from start-ups, civic
+                    tech organizations, academia, and municipal and provincial governments. We welcome your feedback as
+                    we continue our digital journey here in Canada. </p>
+                <a href="/beginning-the-conversation" class="button">Read the Full Report</a>
             </div>
         </div>
     </div>
@@ -91,30 +99,28 @@ trans_url: '/'
     <div class="container">
         <h2 class="section--title">Featured Blog Posts</h2>
 
-
         {% assign posts=site.posts | where:"lang",page.lang %}
-        
 
         <div class="row blog-posts">
 
             {% for post in posts %}
-                <div class="col-xs-12 col-sm-4 col-md-3" style="margin: 0 auto; float:none;">
-                    <a class="post" href="{{ post.url | relative_url }}">
-                        <div class="image" style="background-image:url('assets/postimages/{{post.postimage}}')"></div>
-                        <div class="text">
-                            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-                            <div class="date">{{ post.date | date: date_format }}</div>
-                            <h3>{{ post.title | escape }}</h3>
-                        </div>
-                    </a>
-                </div>
+            <div class="col-xs-12 col-sm-4 col-md-3" style="margin: 0 auto; float:none;">
+                <a class="post" href="{{ post.url | relative_url }}">
+                    <div class="image" style="background-image:url('assets/postimages/{{post.postimage}}')"></div>
+                    <div class="text">
+                        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                        <div class="date">{{ post.date | date: date_format }}</div>
+                        <h3>{{ post.title | escape }}</h3>
+                    </div>
+                </a>
+            </div>
             {% endfor %}
-
         </div>
 
         <div class="button-center">
             <a href="/blog" class="button">More blog posts</a>
         </div>
+    </div>
 </section>
 
 <section class="section section--contact">
@@ -125,7 +131,6 @@ trans_url: '/'
             </div>
             <div class="col-xs-12 col-sm-6">
                 <h2>Connect with us!</h2>
-                
                 {% include cds/contact-info.html %}
             </div>
         </div>
