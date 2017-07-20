@@ -36,6 +36,25 @@ $(document).ready(function() {
 
 	});
 
+	// Homepage video header/bg controls
+	var videobg = $('video#js-video-bg').get(0);
+
+	var videobgControl = $('#js-play-pause');
+
+	videobgControl.on('click touchup', function(){
+		if(videobg.paused == true ) {
+			videobg.play();
+			$('.pause-ico').removeClass('fa-play').addClass('fa-pause');
+			$('.button-text').html('Pause');
+
+		}
+		else {
+			videobg.pause();
+			$('.pause-ico').removeClass('fa-pause').addClass('fa-play');
+			$('.button-text').html('Play');
+		}
+	});
+
 	// Add target=_blank to external links
 	// Thanks to http://css-tricks.com/snippets/jquery/open-external-links-in-new-window/
 	$("#wb-cont a[href^='http://']").attr("target","_blank");
