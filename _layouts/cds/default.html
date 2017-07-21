@@ -63,15 +63,15 @@
     {% if page.ref == 'home' %}
         <div class="page-banner">
             <div class="page-banner--video">
-                <video playsinline autoplay muted loop poster="/assets/img/cds/header-images/front-poster-image.jpg" id="js-video-bg">
+                <video playsinline muted loop poster="/assets/img/cds/header-images/front-poster-image.jpg" id="js-video-bg">
                     <source src="/assets/img/cds/header-images/homepage_header.mp4" type="video/mp4">
                 </video>
                 <div class="page-banner--scrim"></div>
 
-                <div class="page-banner--video-controls">
+                <div class="page-banner--video-controls hidden">
                     <a href="#" id="js-play-pause" class="video-banner--control-button">
-                        <span class="fa fa-pause pause-ico"></span>
-                        <span class="button-text">Pause</span>
+                        <span class="fa fa-play pause-ico"></span>
+                        <span class="button-text">Play</span>
                     </a>
                 </div>
             </div>

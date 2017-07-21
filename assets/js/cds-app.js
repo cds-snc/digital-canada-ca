@@ -42,6 +42,7 @@ $(document).ready(function() {
 	// Homepage video header/bg controls
 	var videobg = $('video#js-video-bg').get(0);
 
+	// listeners to set play/pause button state based on video state
 	videobg.onpause = function() {
         $('.pause-ico').removeClass('fa-pause').addClass('fa-play');
         $('.button-text').html('Play');
@@ -52,9 +53,14 @@ $(document).ready(function() {
         $('.button-text').html('Pause');
 	};
 
-	var videobgControl = $('#js-play-pause');
+    // start playing on load
+    videobg.play();
 
-	videobgControl.on('click touchup', function(e){
+    // display video controls
+    $('.page-banner--video-controls').removeClass('hidden');
+
+	// listener for video controls
+    $('#js-play-pause').on('click touchup', function(e){
 		e.preventDefault();
 
 		videobg.playing ? videobg.pause() : videobg.play();
