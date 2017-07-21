@@ -54,7 +54,7 @@ $(document).ready(function() {
 	};
 
     // start playing on load
-    videobg.play();
+    videobg.autoplay = true;
 
     // display video controls
     $('.page-banner--video-controls').removeClass('hidden');
