@@ -1,3 +1,9 @@
+Object.defineProperty(HTMLMediaElement.prototype, 'playing', {
+    get: function(){
+        return !!(this.currentTime > 0 && !this.paused && !this.ended && this.readyState > 2);
+    }
+});
+
 $(document).ready(function() {
 	$('#js-mainNavButton').on('click touchup', function(){
 		$('#js-mobileNav').addClass('active');
@@ -16,7 +22,6 @@ $(document).ready(function() {
 
 	var topBar = $('.cds-menu');
 
-
 	$(window).scroll(function() {
 
 		var scroll = $(window).scrollTop();
@@ -32,27 +37,27 @@ $(document).ready(function() {
 				topBar.removeClass('sticky');
 			}
 		}
-		
-
 	});
 
 	// Homepage video header/bg controls
 	var videobg = $('video#js-video-bg').get(0);
 
+	videobg.onpause = function() {
+        $('.pause-ico').removeClass('fa-pause').addClass('fa-play');
+        $('.button-text').html('Play');
+	};
+
+	videobg.onplay = function() {
+        $('.pause-ico').removeClass('fa-play').addClass('fa-pause');
+        $('.button-text').html('Pause');
+	};
+
 	var videobgControl = $('#js-play-pause');
 
-	videobgControl.on('click touchup', function(){
-		if(videobg.paused == true ) {
-			videobg.play();
-			$('.pause-ico').removeClass('fa-play').addClass('fa-pause');
-			$('.button-text').html('Pause');
+	videobgControl.on('click touchup', function(e){
+		e.preventDefault();
 
-		}
-		else {
-			videobg.pause();
-			$('.pause-ico').removeClass('fa-pause').addClass('fa-play');
-			$('.button-text').html('Play');
-		}
+		videobg.playing ? videobg.pause() : videobg.play();
 	});
 
 	// Add target=_blank to external links
