@@ -128,11 +128,11 @@ team:
     github: sboots
 
   - name: Shelley Bagg
-      title:
-        en: Operations | Administration
-        fr: Opérations | Administration 
-      image-name: shelley-bagg.jpg
-      email: Shelley.Bagg@tbs-sct.gc.ca
+    title:
+      en: Operations | Administration
+      fr: Opérations | Administration 
+    image-name: shelley-bagg.jpg
+    email: Shelley.Bagg@tbs-sct.gc.ca
 
   - name: Stéphane Tourangeau
     title:
