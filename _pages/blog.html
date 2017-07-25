@@ -14,10 +14,6 @@ trans_url: '/blogue'
 	    {% for post in posts %}
 
 	    	{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-
-
-
-
 		    <li class="post">
 		    	<div class="date">{{ post.date | date: date_format }}</div>
 		    	<div class="row">
@@ -34,10 +30,6 @@ trans_url: '/blogue'
 				    </div>
 		        </div>
 		    </li>
-	    
-
-
-
 	    {% endfor %}
 	</ul>
 </div>
