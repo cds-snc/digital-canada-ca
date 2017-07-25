@@ -6,7 +6,7 @@ lang: en
 ref: blog-its-about-people
 postimage: blog-its-about-people-2017.jpg
 trans_url: "/2017/07/25/ce-sont-les-gens-qui-comptent"
-author: Anatole Papadopoulos, Executive Director
+author: Anatole Papadopoulos, Executive Director, CDS
 description: "Putting users first. That’s what CDS is all about.  Digital government is about people: their needs, their experiences, their frustrations, even their hopes."
 ---
 Putting users first. That’s what CDS is all about. When we talk about “digital government,” it often conjures up websites, APIs, and apps. They’re part of the toolkit. But digital government is about people: their needs, their experiences, their frustrations, even their hopes.
