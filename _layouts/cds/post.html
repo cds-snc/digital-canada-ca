@@ -31,7 +31,7 @@ layout: cds/default
     <div class="previous">
       {% for post in posts %}
           {% if prev %}
-            <a href="{{ post.url }}">Previous</a>
+            <a href="{{ post.url }}">{{ site.data.trans[page.lang].previous-post }}</a>
           {% endif %}
           {% assign prev = false %}
           {% if post.id == page.id %}
@@ -42,7 +42,7 @@ layout: cds/default
     <div class="next">
       {% for post in posts reversed %}
         {% if next %}
-          <a href="{{ post.url }}">Next</a>
+          <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }}</a>
             {% break %}
         {% endif %}
         {% assign next = false %}
