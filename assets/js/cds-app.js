@@ -42,7 +42,7 @@ $(document).ready(function() {
 	// Homepage video header/bg controls
 	var videobg = $('video#js-video-bg').get(0);
 
-	if($('video#js-video-bg')) {
+	if($('video#js-video-bg').length) {
         // listeners to set play/pause button state based on video state
         videobg.onpause = function () {
             $('.pause-ico').removeClass('fa-pause').addClass('fa-play');
