@@ -1,6 +1,6 @@
 ---
 layout: cds/post
-title: "It’s about people."
+title: "It’s about people"
 date: 2017-07-25 10:00:00 -0400
 lang: en
 ref: blog-its-about-people
