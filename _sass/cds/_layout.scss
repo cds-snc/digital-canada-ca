@@ -196,7 +196,8 @@
     top         : 20%;
   }
 
-  h1 {
+  .h1 {
+    border-bottom: none !important;
     line-height: 1.25em;
     @include tablet { font-size: 3rem; }
 
