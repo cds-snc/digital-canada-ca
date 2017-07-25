@@ -42,19 +42,21 @@ $(document).ready(function() {
 	// Homepage video header/bg controls
 	var videobg = $('video#js-video-bg').get(0);
 
-	// listeners to set play/pause button state based on video state
-	videobg.onpause = function() {
-        $('.pause-ico').removeClass('fa-pause').addClass('fa-play');
-        $('.button-text').html('Play');
-	};
+	if($('video#js-video-bg')) {
+        // listeners to set play/pause button state based on video state
+        videobg.onpause = function () {
+            $('.pause-ico').removeClass('fa-pause').addClass('fa-play');
+            $('.button-text').html('Play');
+        };
 
-	videobg.onplay = function() {
-        $('.pause-ico').removeClass('fa-play').addClass('fa-pause');
-        $('.button-text').html('Pause');
-	};
+        videobg.onplay = function () {
+            $('.pause-ico').removeClass('fa-play').addClass('fa-pause');
+            $('.button-text').html('Pause');
+        };
 
-    // start playing on load
-    videobg.autoplay = true;
+        // start playing on load
+        videobg.autoplay = true;
+    }
 
     // display video controls
     $('.page-banner--video-controls').removeClass('hidden');
