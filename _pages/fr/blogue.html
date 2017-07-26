@@ -1,0 +1,34 @@
+---
+lang: fr
+ref: blog
+layout: cds/page
+title: "Blogue"
+permalink: 'blogue/index'
+description: "Les publications du blog des membres de l'équipe du Service numérique canadien, des collègues et des amis travaillant sur les services numériques."
+trans_url: '/blog'
+---
+{% assign posts=site.posts | where:"lang",page.lang %}
+<div class="container">
+	<ul class="blogpost-list">
+	    {% for post in posts %}
+
+	    	{% assign date_format = site.minima.date_format | default: "%Y-%m-%d" %}
+			<li class="post">
+		    	<div class="date">{{ post.date | date: date_format }}</div>
+		    	<div class="row">
+		    		<div class="col-xs-12 col-sm-4">
+			    		<div class="photo" style="background-image: url('/assets/postimages/{{ post.postimage }}')"></div>
+			    	</div>
+			    	<div class="col-xs-12 col-sm-8">
+				    	<div class="text">
+				        	<div class="title"><a href="{{ post.url }}"><h2>{{ post.title }}</h2></a></div>
+				        	<div class="author">{{ post.author }}</div>
+				        	<div class="summary">{{post.excerpt | strip_html | truncatewords:75}}</div>
+				        	<div class="readmore"><a href="{{post.url}}">Lire davantage</a></div>
+				        </div>
+				    </div>
+		        </div>
+		    </li>
+		{% endfor %}
+	</ul>
+</div>
