@@ -1,7 +1,7 @@
 ---
 layout: cds/post
 title: "“Think big, start small”"
-date: 2017-07-27 10:00:00 -0400
+date: 2017-07-28 10:00:00 -0400
 lang: en
 ref: blog-think-big-start-small
 postimage: blog-think-big-start-small-2017.jpg
