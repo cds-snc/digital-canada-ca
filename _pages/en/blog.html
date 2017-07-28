@@ -1,19 +1,21 @@
 ---
-lang: fr
+lang: en
 ref: blog
 layout: cds/page
-title: "Blogue"
-permalink: numerique.canada.ca/blogue/
-description: "Les publications du blog des membres de l'équipe du Service numérique canadien, des collègues et des amis travaillant sur les services numériques."
-trans_url: '/blog'
+category: digital.canada.ca
+title: "Blog"
+permalink: /blog/
+description: "Blog posts from members of the Canadian Digital Service team, colleagues, and friends working on digital services."
+trans_url: '/blogue'
 ---
+
 {% assign posts=site.posts | where:"lang",page.lang %}
 <div class="container">
 	<ul class="blogpost-list">
 	    {% for post in posts %}
 
-	    	{% assign date_format = site.minima.date_format | default: "%Y-%m-%d" %}
-			<li class="post">
+	    	{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+		    <li class="post">
 		    	<div class="date">{{ post.date | date: date_format }}</div>
 		    	<div class="row">
 		    		<div class="col-xs-12 col-sm-4">
@@ -22,13 +24,13 @@ trans_url: '/blog'
 			    	<div class="col-xs-12 col-sm-8">
 				    	<div class="text">
 				        	<div class="title"><a href="{{ post.url }}"><h2>{{ post.title }}</h2></a></div>
-				        	<div class="author">{{ post.author }}</div>
+				        	<div class="author">By: {{ post.author }}</div>
 				        	<div class="summary">{{post.excerpt | strip_html | truncatewords:75}}</div>
-				        	<div class="readmore"><a href="{{post.url}}">Lire davantage</a></div>
+				        	<div class="readmore"><a href="{{post.url}}" aria-label="Click here to read the the post: {{ post.title }}">Read More</a></div>
 				        </div>
 				    </div>
 		        </div>
 		    </li>
-		{% endfor %}
+	    {% endfor %}
 	</ul>
 </div>

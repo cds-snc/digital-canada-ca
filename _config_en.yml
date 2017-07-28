@@ -45,7 +45,7 @@ markdown: kramdown
 # theme: minima
 gems:
   - jekyll-feed
-  
+
 exclude: ["Gemfile", "Gemfile.lock", "vendor", "docker-compose.yml", "circle.yml", "_pages/fr", "_posts/fr", "index-fr.html"]
 
 defaults:

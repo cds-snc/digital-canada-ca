@@ -37,7 +37,7 @@ GC :
 include: ["_pages"]
 
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
@@ -45,8 +45,8 @@ markdown: kramdown
 # theme: minima
 gems:
   - jekyll-feed
-  
-exclude: ["Gemfile", "Gemfile.lock", "vendor", "docker-compose.yml", "circle.yml", "_pages/fr", "_posts/fr", "index-fr.html"]
+
+exclude: ["Gemfile", "Gemfile.lock", "vendor", "docker-compose.yml", "circle.yml", "_pages/en", "_posts/en", "index.html"]
 
 defaults:
   -

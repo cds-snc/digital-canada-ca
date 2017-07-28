@@ -6,7 +6,6 @@ lang: en
 ref: blog-its-about-people
 postimage: blog-its-about-people-2017.jpg
 trans_url: "/2017/07/25/ce-sont-les-gens-qui-comptent"
-category: digital.canada.ca
 author: Anatole Papadopoulos, Executive Director, CDS
 description: "Putting users first. That’s what CDS is all about.  Digital government is about people: their needs, their experiences, their frustrations, even their hopes."
 ---
