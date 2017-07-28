@@ -6,6 +6,7 @@ lang: fr
 ref: blog-its-about-people
 postimage: blog-its-about-people-2017.jpg
 trans_url: "/2017/07/25/its-about-people"
+category: numerique.canada.ca
 author: Anatole Papadopoulos, Directeur exécutif, SNC
 description: "Privilégier les utilisateurs. Voilà la raison d’être du Service numérique canadien.  Ce sont les gens – leurs besoins, leurs expériences, leurs frustrations, même leurs espoirs – qui devraient être au cœur des efforts vers un gouvernement numérique."
 ---

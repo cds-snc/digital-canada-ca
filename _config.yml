@@ -37,7 +37,7 @@ GC :
 include: ["_pages"]
 
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown

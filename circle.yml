@@ -17,6 +17,6 @@ test:
 
 deployment:
   prod:
-    branch: master
+    branch: bilingualize
     commands:
       - aws s3 sync _site s3://cds-website-dist/ --delete
