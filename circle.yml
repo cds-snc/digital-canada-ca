@@ -11,11 +11,27 @@ dependencies:
   post:
     - bundle exec jekyll build
 
+test:
+  post:
+    - bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external
+
 deployment:
-  prod:
+  english:
     branch: bilingualize
     commands:
-      - aws s3 sync _site/digital.canada.ca s3://cds-website-dist/ --delete
-      - aws s3 sync _site/assets s3://cds-website-dist/assets --delete
-      - aws s3 sync _site/numerique.canada.ca s3://snc-website-dist/ --delete
-      - aws s3 sync _site/assets s3://snc-website-dist/assets --delete
+      - bundle exec jekyll build --config _config_en.yml
+      - aws s3 sync _site s3://cds-website-dist/ --delete
+  french:
+    branch: bilingualize
+    commands:
+      - bundle exec jekyll build --config _config_fr.yml
+      - aws s3 sync _site s3://snc-website-dist/ --delete
+
+#deployment:
+#  prod:
+#    branch: bilingualize
+#    commands:
+#      - aws s3 sync _site/digital.canada.ca s3://cds-website-dist/ --delete
+#      - aws s3 sync _site/assets s3://cds-website-dist/assets --delete
+#      - aws s3 sync _site/numerique.canada.ca s3://snc-website-dist/ --delete
+#      - aws s3 sync _site/assets s3://snc-website-dist/assets --delete
