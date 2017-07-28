@@ -11,12 +11,11 @@ dependencies:
   post:
     - bundle exec jekyll build
 
-test:
-  post:
-    - bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
-
 deployment:
   prod:
     branch: bilingualize
     commands:
-      - aws s3 sync _site s3://cds-website-dist/ --delete
+      - aws s3 sync _site/digital.canada.ca s3://cds-website-dist/ --delete
+      - aws s3 sync _site/assets s3://cds-website-dist/assets --delete
+      - aws s3 sync _site/numerique.canada.ca s3://snc-website-dist/ --delete
+      - aws s3 sync _site/assets s3://snc-website-dist/assets --delete
