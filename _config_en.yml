@@ -46,7 +46,7 @@ markdown: kramdown
 gems:
   - jekyll-feed
 
-exclude: ["Gemfile", "Gemfile.lock", "vendor", "docker-compose.yml", "circle.yml", "_pages/fr", "_posts/fr", "index-fr.html"]
+exclude: ["Gemfile", "Gemfile.lock", "vendor", "docker-compose.yml", "circle.yml", "README.md", "LICENSE.txt", "_pages/fr", "_posts/fr", "index-fr.html"]
 
 defaults:
   -
