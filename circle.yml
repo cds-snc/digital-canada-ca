@@ -16,13 +16,10 @@ test:
     - bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
 deployment:
-  english:
+  production:
     branch: bilingualize
     commands:
       - bundle exec jekyll build --config _config_en.yml
       - aws s3 sync _site s3://cds-website-dist/ --delete
-  french:
-    branch: bilingualize
-    commands:
       - bundle exec jekyll build --config _config_fr.yml
       - aws s3 sync _site s3://snc-website-dist/ --delete
