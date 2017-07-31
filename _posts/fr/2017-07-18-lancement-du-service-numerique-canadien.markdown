@@ -1,12 +1,11 @@
 ---
-layout: cds/post
 title:  "Lancement du Service numérique canadien"
+description: "Le gouvernement du Canada a la possibilité et la responsabilité de fournir des services de classe mondiale aux Canadiens. Pendant la période de transition aux modèles souples de prestation numérique, il y aura des interruptions aux plans technique et culturel. Dans le but d’accélérer ces efforts, je suis heureux d’annoncer le lancement du Service numérique canadien (SNC) pour moderniser la façon dont le gouvernement du Canada conçoit et offre les services numériques."
 date:   2017-07-18 09:00:00 -0400
 lang: fr
-ref: blogue-de-lancement
+layout: cds/post
 postimage: launch-post-2017.jpg
 author: L'honorable Scott Brison, Président du Conseil du Trésor
-description: "Le gouvernement du Canada a la possibilité et la responsabilité de fournir des services de classe mondiale aux Canadiens. Pendant la période de transition aux modèles souples de prestation numérique, il y aura des interruptions aux plans technique et culturel. Dans le but d’accélérer ces efforts, je suis heureux d’annoncer le lancement du Service numérique canadien (SNC) pour moderniser la façon dont le gouvernement du Canada conçoit et offre les services numériques."
 trans_url: "/2017/07/18/launch-of-the-canadian-digital-service"
 ---
 Les Canadiens méritent des services gouvernementaux accessibles et faciles à utiliser. Ils s’attendent à ce que leur gouvernement fournisse des services axés sur les citoyens. Dans ce monde hyper connecté du XXIe siècle, un service de qualité entend la prestation numérique, qu’il s’agisse de commander un mets à emporter, de renouveler son hypothèque, de gérer ses ordonnances ou d’accéder à des programmes et services gouvernementaux.
