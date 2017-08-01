@@ -4,7 +4,7 @@ description: "We’re here to help build better government services, and to expe
 date: 2017-07-28 10:00:00 -0400
 lang: en
 layout: cds/post
-postimage: blog-think-big-start-small-2017.jpg
+image: blog-think-big-start-small-2017.jpg
 trans_url: "/2017/07/28/voir-grand-commencer-modestement"
 author: Sean Boots, Developer, CDS
 ---
