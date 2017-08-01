@@ -1,4 +1,5 @@
 en:
+  base-url: "http://digital.canada.ca"
   trans-base-url: "http://numerique.canada.ca"
   trans-abbr: "en"
   trans-abbr-switch: "fr"
@@ -25,6 +26,7 @@ en:
   next-post: "Next post"
   previous-post: "Previous post"
 fr:
+  base-url: "http://numerique.canada.ca"
   trans-base-url: "http://digital.canada.ca"
   trans-abbr: "fr"
   trans-abbr-switch: "en"
