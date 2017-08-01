@@ -4,7 +4,7 @@ jobs:
     environment:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
     docker:
-      - image: jekyll/jekyll
+      - image: circleci/ruby
     working_directory: ~/project
     steps:
       - checkout
@@ -13,7 +13,7 @@ jobs:
           command: pwd && ls -al && bundle exec jekyll build --config _config_en.yml
   test_english:
     docker:
-      - image: jekyll/jekyll
+      - image: circleci/ruby
     steps:
       - checkout
       - run:
@@ -21,7 +21,7 @@ jobs:
           command: bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
   deploy_english:
     docker:
-      - image: jekyll/jekyll
+      - image: circleci/ruby
     steps:
       - deploy:
           name: "Deploy to S3"
