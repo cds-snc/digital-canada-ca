@@ -1,0 +1,39 @@
+version: 2
+jobs:
+  build_english:
+    environment:
+      NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
+    docker:
+      - image: jekyll/jekyll
+    working_directory: ~/project
+    steps:
+      - checkout
+      - run:
+          name: "Run Jekyll"
+          command: bundle exec jekyll build --config _config_en.yml
+  test_english:
+    docker:
+      - image: jekyll/jekyll
+    steps:
+      - checkout
+      - run:
+          name: "Test English"
+          command: bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+  deploy_english:
+    docker:
+      - image: jekyll/jekyll
+    steps:
+      - deploy:
+          name: "Deploy to S3"
+          command: aws s3 sync _site s3://cds-website-dist/ --delete
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      - build_english
+      - test_english:
+          requires:
+            - build_english
+      - deploy_english:
+          requires:
+            - build_english
