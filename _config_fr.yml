@@ -19,14 +19,11 @@ description: > # this means to ignore newlines until "baseurl:"
   The Canadian Digital Service (CDS) is bringing together the skills and expertise needed to accelerate this change.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://digital.canada.ca" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: CDS_GC
-github_username:  cds-snc
 
 # Custom GCWeb-specific configurations
 # No trailing slashes needed on the paths below:
 GC :
-  lang: en
-  translation_base_path: http://numerique.canada.ca
+  lang: fr
   static_asset_path: /assets/lib/gcweb-dist
   site_breadcrumbs:
     - label: 'Home'

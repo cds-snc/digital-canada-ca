@@ -7,7 +7,7 @@
 
 var disqus_config = function () {
     // Replace PAGE_URL with your page's canonical URL variable
-    this.page.url = '{{ site.data.sitewide.base-url }}{{ page.url | replace_first:'/index','' }}';
+    this.page.url = '{{ site.data.trans[page.lang].base-url }}{{ page.url | replace_first:'/index','' }}';
     // Replace PAGE_IDENTIFIER with your page's unique identifier variable
     this.page.identifier = '{{ page.url | replace_first:'/index','' }}';
     this.page.title = '{{ page.title | escape }}';

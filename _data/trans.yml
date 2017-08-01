@@ -25,6 +25,7 @@ en:
   aria-cds-website: "Link to Homepage"
   next-post: "Next post"
   previous-post: "Previous post"
+  twitter: "CDS_GC"
 fr:
   base-url: "http://numerique.canada.ca"
   trans-base-url: "http://digital.canada.ca"
@@ -52,3 +53,4 @@ fr:
   aria-cds-website: "Lien vers page d'accueil"
   next-post: "Prochaine billet"
   previous-post: "Billet précédent"
+  twitter: "SNC_GC"

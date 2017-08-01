@@ -1,11 +1,7 @@
 <ul class="list-inline margin-bottom-none">
     <li>
-	    <a href="{{ site.data.trans[page.lang].trans-base-url }}{{ page.trans_url }}" lang="{{ site.data.trans[page.lang].trans-abbr-switch }}"> 
-	        {% if page.lang == 'en' %}
-	            {{ site.data.sitewide.language_full.fr }}
-	        {% elsif page.lang == 'fr' %}
-	            {{ site.data.sitewide.language_full.en }}
-	        {% endif %}
-	    </a>
+		{% if page.trans_url %}
+			<a href="{{ site.data.trans[page.lang].trans-base-url }}{{ page.trans_url }}" lang="{{ site.data.trans[page.lang].trans-abbr-switch }}">{{ site.data.trans[page.lang].lang-switch-label }}</a>
+		{% endif %}
     </li>
 </ul>
