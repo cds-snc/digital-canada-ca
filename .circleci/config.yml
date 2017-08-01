@@ -10,7 +10,7 @@ jobs:
       - checkout
       - run:
           name: "Run Jekyll"
-          command: pwd && ls -al && bundle exec jekyll build --config _config_en.yml
+          command: pwd && ls -al && bundle install && bundle exec jekyll build --config _config_en.yml
   test_english:
     docker:
       - image: circleci/ruby
