@@ -1,25 +1,46 @@
 version: 2
 jobs:
-  build_english:
-    environment:
-      NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
+  build:
     docker:
       - image: circleci/ruby
     working_directory: ~/project
     steps:
       - checkout
+
       - run:
-          name: "Run Jekyll"
-          command: pwd && ls -al && bundle install && bundle exec jekyll build --config _config_en.yml
-  test_english:
+          name: "Git submodules"
+          command: git submodule sync && git submodule update --init
+
+      # Restore bundle cache
+      - type: cache-restore
+        key: cds-website-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: "Bundle install"
+          command: bundle install --path vendor/bundle
+
+      # Store bundle cache
+      - type: cache-save
+        key: cds-website-{{ checksum "Gemfile.lock" }}
+        paths:
+          - vendor/bundle
+
+      - run:
+          name: "Build english"
+          command: bundle exec jekyll build --config _config_en.yml
+  test:
+    environment:
+      NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
     docker:
       - image: circleci/ruby
     steps:
-      - checkout
       - run:
-          name: "Test English"
-          command: bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
-  deploy_english:
+          name: "Git submodules"
+          command: git submodule sync && git submodule update --init
+      - run:
+          name: "Test english"
+          command: bundle install && bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+  deploy:
     docker:
       - image: circleci/ruby
     steps:
@@ -30,10 +51,13 @@ workflows:
   version: 2
   build_and_test:
     jobs:
-      - build_english
-      - test_english:
+      - build
+      - test:
           requires:
-            - build_english
-      - deploy_english:
+            - build
+      - deploy:
           requires:
-            - build_english
+            - build
+          filters:
+            branches:
+              only: bilingualize
