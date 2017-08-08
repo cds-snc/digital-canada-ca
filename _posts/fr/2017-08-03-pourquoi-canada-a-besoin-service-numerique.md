@@ -4,7 +4,7 @@ title: "Pourquoi le Canada a besoin d’un service numérique"
 date: 2017-08-03 10:00:00 -0400
 lang: fr
 ref: why-canada-needs-a-digital-service
-postimage: why-canada-needs-a-digital-service-2017.jpg
+image: why-canada-needs-a-digital-service-2017.jpg
 trans_url: "/2017/08/03/why-canada-needs-a-digital-service/"
 author: Pascale Elvas, Directrice, SNC
 description: "C’est pourquoi nous avons créé le SNC. Il nous faut une équipe qui peut démontrer l’art du possible dans le domaine du numérique. Une équipe qui peut fournir rapidement un prototype opérationnel pour voir comment il fonctionne et l’améliorer en fonction des commentaires des utilisateurs. Nous devons mettre les besoins réels des gens au cœur des efforts déployés pour concevoir les services gouvernementaux."

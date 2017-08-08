@@ -4,7 +4,7 @@ description: "Nous sommes ici pour améliorer les services gouvernementaux, et p
 date: 2017-07-28 10:00:00 -0400
 lang: fr
 layout: cds/post
-postimage: blog-think-big-start-small-2017.jpg
+image: blog-think-big-start-small-2017.jpg
 trans_url: "/2017/07/28/think-big-start-small"
 author: Sean Boots, Développeur, SNC
 

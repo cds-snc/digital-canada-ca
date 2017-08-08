@@ -4,7 +4,7 @@ description: "Privilégier les utilisateurs. Voilà la raison d’être du Servi
 date: 2017-07-25 10:00:00 -0400
 lang: fr
 layout: cds/post
-postimage: blog-its-about-people-2017.jpg
+image: blog-its-about-people-2017.jpg
 trans_url: "/2017/07/25/its-about-people"
 author: Anatole Papadopoulos, Directeur exécutif, SNC
 
