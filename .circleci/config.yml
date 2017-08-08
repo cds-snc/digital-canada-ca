@@ -76,7 +76,7 @@ jobs:
     steps:
       - run:
           name: "PIP install awsclii"
-          command: pip install awscli --upgrade --user && export PATH=~/.local/bin:$PATH && aws --version
+          command: pip install awscli --upgrade --user && echo 'export PATH=~/.local/bin:$PATH' >> ~/.bash_profile
 
       - run:
           name: "Save SHA to a file"
