@@ -8,7 +8,7 @@ jobs:
       - checkout
 
       - run:
-          name: "Git submodules"
+          name: "Get Git submodules"
           command: git submodule sync && git submodule update --init
 
       # Restore bundle cache
@@ -27,43 +27,65 @@ jobs:
 
       - run:
           name: "Build english"
-          command: bundle exec jekyll build --config _config_en.yml
+          command: bundle exec jekyll build --config _config_en.yml --destination ~/cds-website
+
+      - run:
+          name: "Build french"
+          command: bundle exec jekyll build --config _config_fr.yml --destination ~/snc-website
+
+      # Save full build cache
+      - run:
+          name: "Save SHA to a file"
+          command: echo $CIRCLE_SHA1 > .circle-sha
+      - save_cache:
+          key: website-{{ checksum ".circle-sha" }}
+          paths:
+            ~/project
+            ~/cds-website
+            ~/snc-website
+
   test:
     environment:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
     docker:
       - image: circleci/ruby:2.4-node
     steps:
-      - checkout
-
       - run:
-          name: "Git submodules"
-          command: git submodule sync && git submodule update --init
+        name: "Save SHA to a file"
+        command: echo $CIRCLE_SHA1 > .circle-sha
 
-      # Restore bundle cache
-      - type: cache-restore
-        key: cds-website-{{ checksum "Gemfile.lock" }}
+      - restore_cache:
+          keys:
+            - website-{{ checksum ".circle-sha" }}
 
       - run:
           name: "Bundle install"
           command: bundle install --path vendor/bundle
 
-      # Store bundle cache
-      - type: cache-save
-        key: cds-website-{{ checksum "Gemfile.lock" }}
-        paths:
-          - vendor/bundle
-
       - run:
           name: "Test english"
           command: bundle exec jekyll build --config _config_en.yml && bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+
+      - run:
+          name: "Test French"
+          command: bundle exec jekyll build --config _config_fr.yml && bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+
   deploy:
     docker:
       - image: circleci/ruby:2.4-node
     steps:
+      - run:
+          name: "Save SHA to a file"
+          command: echo $CIRCLE_SHA1 > .circle-sha
+
+      - restore_cache:
+          keys:
+            - website-{{ checksum ".circle-sha" }}
+
       - deploy:
           name: "Deploy to S3"
           command: aws s3 sync _site s3://cds-website-dist/ --delete
+
 workflows:
   version: 2
   build_and_test:
