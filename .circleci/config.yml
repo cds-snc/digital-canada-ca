@@ -97,6 +97,7 @@ workflows:
       - deploy:
           requires:
             - build
+            - test
           filters:
             branches:
               only: bilingualize
