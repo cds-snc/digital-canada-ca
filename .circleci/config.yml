@@ -72,7 +72,7 @@ jobs:
 
   deploy:
     docker:
-      - image: circleci/ruby:2.4
+      - image: circleci/python
     steps:
       - run:
           name: "PIP install awsclii"
