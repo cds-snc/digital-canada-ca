@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby
+      - image: circleci/ruby:2.4
     working_directory: ~/project
     steps:
       - checkout
@@ -48,7 +48,7 @@ jobs:
     environment:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
     docker:
-      - image: circleci/ruby
+      - image: circleci/ruby:2.4
     steps:
       - run:
           name: "Save SHA to a file"
@@ -72,12 +72,12 @@ jobs:
 
   deploy:
     docker:
-      - image: circleci/python
+      - image: circleci/ruby:2.4
     steps:
       - run:
           name: "PIP install awsclii"
-          command: pip install awscli --upgrade --user
-          
+          command: pip install awscli --upgrade --user && aws --version
+
       - run:
           name: "Save SHA to a file"
           command: echo $CIRCLE_SHA1 > .circle-sha
@@ -87,8 +87,12 @@ jobs:
             - website-{{ checksum ".circle-sha" }}
 
       - deploy:
-          name: "Deploy to S3"
-          command: aws s3 sync _site s3://cds-website-dist/ --delete
+          name: "Deploy English"
+          command: aws s3 sync ~/cds-website s3://cds-website-dist/ --delete
+
+      - deploy:
+          name: "Deploy French"
+          command: aws s3 sync ~/snc-website s3://snc-website-dist/ --delete
 
 workflows:
   version: 2
