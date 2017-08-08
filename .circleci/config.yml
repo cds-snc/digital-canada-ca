@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.4-node
+      - image: circleci/ruby
     working_directory: ~/project
     steps:
       - checkout
@@ -48,7 +48,7 @@ jobs:
     environment:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
     docker:
-      - image: circleci/ruby:2.4-node
+      - image: circleci/ruby
     steps:
       - run:
           name: "Save SHA to a file"
@@ -72,8 +72,12 @@ jobs:
 
   deploy:
     docker:
-      - image: circleci/ruby:2.4-node
+      - image: circleci/python
     steps:
+      - run:
+          name: "PIP install awsclii"
+          command: pip install awscli --upgrade --user
+          
       - run:
           name: "Save SHA to a file"
           command: echo $CIRCLE_SHA1 > .circle-sha
