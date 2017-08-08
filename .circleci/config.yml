@@ -34,12 +34,29 @@ jobs:
     docker:
       - image: circleci/ruby
     steps:
+      - checkout
+
       - run:
           name: "Git submodules"
           command: git submodule sync && git submodule update --init
+
+      # Restore bundle cache
+      - type: cache-restore
+        key: cds-website-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: "Bundle install"
+          command: bundle install --path vendor/bundle
+
+      # Store bundle cache
+      - type: cache-save
+        key: cds-website-{{ checksum "Gemfile.lock" }}
+        paths:
+          - vendor/bundle
+
       - run:
           name: "Test english"
-          command: bundle install && bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+          command: bundle exec jekyll build --config _config_en.yml && bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
   deploy:
     docker:
       - image: circleci/ruby
