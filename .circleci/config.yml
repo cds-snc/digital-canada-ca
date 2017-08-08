@@ -51,8 +51,8 @@ jobs:
       - image: circleci/ruby:2.4-node
     steps:
       - run:
-        name: "Save SHA to a file"
-        command: echo $CIRCLE_SHA1 > .circle-sha
+          name: "Save SHA to a file"
+          command: echo $CIRCLE_SHA1 > .circle-sha
 
       - restore_cache:
           keys:
