@@ -54,13 +54,12 @@ jobs:
 
   deploy:
     docker:
-      - image: infrastructureascode/aws-cli
+      - image: cdssnc/aws-cli
     steps:
       # Configure AWS CLI
       - run:
           name: "Configure AWS Cli"
           command: |
-            apk update && apk add ca-certificates
             aws configure set preview.cloudfront true
             aws configure set preview.create-invalidation true
 
