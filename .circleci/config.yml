@@ -60,6 +60,7 @@ jobs:
       - run:
           name: "Configure AWS Cli"
           command: |
+            apk update && apk add ca-certificates
             aws configure set preview.cloudfront true
             aws configure set preview.create-invalidation true
 
