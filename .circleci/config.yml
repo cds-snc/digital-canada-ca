@@ -7,13 +7,13 @@ jobs:
     steps:
       - checkout
 
+      # Restore bundle cache
+      - type: cache-restore
+        key: cds-vendor-lib-{{ checksum "Gemfile.lock" }}
+
       - run:
           name: "Get Git submodules"
           command: git submodule sync && git submodule update --init
-
-      # Restore bundle cache
-      - type: cache-restore
-        key: cds-website-{{ checksum "Gemfile.lock" }}
 
       - run:
           name: "Bundle install"
@@ -21,26 +21,26 @@ jobs:
 
       # Store bundle cache
       - type: cache-save
-        key: cds-website-{{ checksum "Gemfile.lock" }}
+        key: cds-vendor-lib-{{ checksum "Gemfile.lock" }}
         paths:
           - vendor/bundle
+          - assets/lib
 
       - run:
-          name: "Build english"
+          name: "Compile english"
           command: bundle exec jekyll build --config _config_en.yml --destination ~/cds-website
 
       - run:
-          name: "Build french"
+          name: "Compile french"
           command: bundle exec jekyll build --config _config_fr.yml --destination ~/snc-website
 
-      # Save full build cache
+      # Save compiled cache
       - run:
           name: "Save SHA to a file"
           command: echo $CIRCLE_SHA1 > .circle-sha
       - save_cache:
-          key: website-{{ checksum ".circle-sha" }}
+          key: cds-website-{{ checksum ".circle-sha" }}
           paths:
-            ~/project
             ~/cds-website
             ~/snc-website
 
@@ -50,20 +50,22 @@ jobs:
     docker:
       - image: circleci/ruby:2.4
     steps:
-      - run:
-          name: "Save SHA to a file"
-          command: echo $CIRCLE_SHA1 > .circle-sha
+      - checkout
 
-      - restore_cache:
-          keys:
-            - website-{{ checksum ".circle-sha" }}
+      # Restore bundle/lib cache
+      - type: cache-restore
+        key: cds-vendor-lib-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: "Get Git submodules"
+          command: git submodule sync && git submodule update --init
 
       - run:
           name: "Bundle install"
           command: bundle install --path vendor/bundle
 
       - run:
-          name: "Test english"
+          name: "Test English"
           command: |
             bundle exec jekyll build --config _config_en.yml
             bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
@@ -83,6 +85,8 @@ jobs:
           command: |
             pip install awscli --upgrade --user
             export PATH=~/.local/bin:$PATH
+            aws configure set preview.cloudfront true
+            aws configure set preview.create-invalidation true
             aws --version
 
       - run:
@@ -91,7 +95,7 @@ jobs:
 
       - restore_cache:
           keys:
-            - website-{{ checksum ".circle-sha" }}
+            - cds-website-{{ checksum ".circle-sha" }}
 
       - deploy:
           name: "Deploy English"
@@ -99,33 +103,20 @@ jobs:
             export PATH=~/.local/bin:$PATH
             aws s3 sync ~/cds-website s3://cds-website-dist/ --delete
 
+      - run:
+          name: "Invalidate English cache"
+          command: |
+            export PATH=~/.local/bin:$PATH
+            aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E3EIUBOL3WTOOO\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
+
       - deploy:
           name: "Deploy French"
           command: |
             export PATH=~/.local/bin:$PATH
             aws s3 sync ~/snc-website s3://snc-website-dist/ --delete
 
-  clear_caches:
-    docker:
-      - image: circleci/python
-    steps:
       - run:
-          name: "PIP install awsclii"
-          command: |
-            pip install awscli --upgrade --user
-            export PATH=~/.local/bin:$PATH
-            aws configure set preview.cloudfront true
-            aws configure set preview.create-invalidation true
-            aws --version
-
-      - run:
-          name: "Invalidate English Cache"
-          command: |
-            export PATH=~/.local/bin:$PATH
-            aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E3EIUBOL3WTOOO\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
-
-      - run:
-          name: "Invalidate French Cache"
+          name: "Invalidate French cache"
           command: |
             export PATH=~/.local/bin:$PATH
             aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E3FI5UW2E5PBD3\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
