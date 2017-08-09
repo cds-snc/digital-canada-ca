@@ -64,11 +64,15 @@ jobs:
 
       - run:
           name: "Test english"
-          command: bundle exec jekyll build --config _config_en.yml && bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+          command: |
+            bundle exec jekyll build --config _config_en.yml
+            bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
       - run:
           name: "Test French"
-          command: bundle exec jekyll build --config _config_fr.yml && bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+          command: |
+            bundle exec jekyll build --config _config_fr.yml
+            bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
   deploy:
     docker:
@@ -76,7 +80,10 @@ jobs:
     steps:
       - run:
           name: "PIP install awsclii"
-          command: pip install awscli --upgrade --user && export PATH=~/.local/bin:$PATH && aws --version
+          command: |
+            pip install awscli --upgrade --user
+            export PATH=~/.local/bin:$PATH
+            aws --version
 
       - run:
           name: "Save SHA to a file"
@@ -88,19 +95,48 @@ jobs:
 
       - deploy:
           name: "Deploy English"
-          command: ~/.local/bin/aws s3 sync ~/cds-website s3://cds-website-dist/ --delete
+          command: |
+            export PATH=~/.local/bin:$PATH
+            aws s3 sync ~/cds-website s3://cds-website-dist/ --delete
 
       - deploy:
           name: "Deploy French"
-          command: ~/.local/bin/aws s3 sync ~/snc-website s3://snc-website-dist/ --delete
+          command: |
+            export PATH=~/.local/bin:$PATH
+            aws s3 sync ~/snc-website s3://snc-website-dist/ --delete
+
+  clear_caches:
+    docker:
+      - image: circleci/python
+    steps:
+      - run:
+          name: "PIP install awsclii"
+          command: |
+            pip install awscli --upgrade --user
+            export PATH=~/.local/bin:$PATH
+            aws --version
+
+      - run:
+          name: "Save SHA to a file"
+          command: echo $CIRCLE_SHA1 > .circle-sha
+
+      - restore_cache:
+          keys:
+            - website-{{ checksum ".circle-sha" }}
 
       - run:
           name: "Invalidate English Cache"
-          command: ~/.local/bin/aws cloudfront create-invalidation --distribution-id E3EIUBOL3WTOOO --paths /*
+          command: |
+            export PATH=~/.local/bin:$PATH
+            aws configure set preview.cloudfront true
+            aws cloudfront create-invalidation --distribution-id E3EIUBOL3WTOOO --paths /*
 
       - run:
           name: "Invalidate French Cache"
-          command: ~/.local/bin/aws cloudfront create-invalidation --distribution-id E3FI5UW2E5PBD3 --paths /*
+          command: |
+            export PATH=~/.local/bin:$PATH
+            aws configure set preview.cloudfront true
+            aws cloudfront create-invalidation --distribution-id E3FI5UW2E5PBD3 --paths /*
 
 workflows:
   version: 2
@@ -117,3 +153,8 @@ workflows:
           filters:
             branches:
               only: bilingualize
+      - clear_caches:
+          requires:
+            - build
+            - test
+            - deploy
