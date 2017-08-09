@@ -9,37 +9,41 @@ jobs:
     steps:
       - checkout
 
+      # Load git submodules
       - run:
-          name: "Get Git submodules"
+          name: "Load git submodules"
           command: git submodule sync && git submodule update --init
 
-      # Restore bundle cache
+      # Restore bundle cache (persisted across builds)
       - type: cache-restore
         key: cds-vendor-bundle-{{ checksum "Gemfile.lock" }}
 
+      # Bundle install
       - run:
           name: "Bundle install"
           command: bundle install --path vendor/bundle
 
-      # Store bundle cache
+      # Store bundle cache (persisted across builds)
       - type: cache-save
         key: cds-vendor-bundle-{{ checksum "Gemfile.lock" }}
         paths:
           - vendor/bundle
 
+      # Build english and run htmlproofer (validate html, links, etc)
       - run:
-          name: "Test English"
+          name: "Test english"
           command: |
             bundle exec jekyll build --config _config_en.yml --destination ~/cds-website
             bundle exec htmlproofer ~/cds-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
+      # Build french and run htmlproofer (validate html, links, etc)
       - run:
-          name: "Test French"
+          name: "Test french"
           command: |
             bundle exec jekyll build --config _config_fr.yml --destination ~/snc-website
             bundle exec htmlproofer ~/snc-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
-      # Store compiled cache
+      # Store compiled cache (persisted across jobs)
       - run:
           name: "Save SHA to a file"
           command: echo $CIRCLE_SHA1 > .circle-sha
@@ -61,7 +65,7 @@ jobs:
             aws configure set preview.cloudfront true
             aws configure set preview.create-invalidation true
 
-      # Restore build cache
+      # Restore compiled cache (persisted across jobs)
       - run:
           name: "Save SHA to a file"
           command: echo $CIRCLE_SHA1 > .circle-sha
@@ -69,12 +73,14 @@ jobs:
           keys:
             - cds-website-dist-{{ checksum ".circle-sha" }}
 
+      # Deploy english from cache and create Cloudfront object invalidation
       - deploy:
           name: "Deploy English"
           command: |
             aws s3 sync ~/cds-website s3://cds-website-dist/ --delete
             aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E3EIUBOL3WTOOO\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
 
+      # Deploy french from cache and create Cloudfront object invalidation
       - deploy:
           name: "Deploy French"
           command: |
