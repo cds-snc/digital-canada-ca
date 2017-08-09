@@ -61,6 +61,10 @@ jobs:
           keys:
             - cds-project-{{ checksum ".circle-sha" }}
 
+      # Restore bundle cache
+      - type: cache-restore
+        key: cds-vendor-bundle-{{ checksum "Gemfile.lock" }}
+
       - run:
           name: "Test English"
           command: |
