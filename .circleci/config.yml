@@ -88,11 +88,11 @@ jobs:
 
       - deploy:
           name: "Deploy English"
-          command: export PATH=~/.local/bin:$PATH && aws s3 sync ~/cds-website s3://cds-website-dist/ --delete
+          command: ~/.local/bin/aws s3 sync ~/cds-website s3://cds-website-dist/ --delete
 
       - deploy:
           name: "Deploy French"
-          command: export PATH=~/.local/bin:$PATH && aws s3 sync ~/snc-website s3://snc-website-dist/ --delete
+          command: ~/.local/bin/aws s3 sync ~/snc-website s3://snc-website-dist/ --delete
 
 workflows:
   version: 2
