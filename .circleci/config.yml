@@ -7,13 +7,13 @@ jobs:
     steps:
       - checkout
 
-      # Restore bundle cache
-      - type: cache-restore
-        key: cds-vendor-lib-{{ checksum "Gemfile.lock" }}
-
       - run:
           name: "Get Git submodules"
           command: git submodule sync && git submodule update --init
+
+      # Restore bundle cache
+      - type: cache-restore
+        key: cds-vendor-bundle-{{ checksum "Gemfile.lock" }}
 
       - run:
           name: "Bundle install"
@@ -21,10 +21,9 @@ jobs:
 
       # Store bundle cache
       - type: cache-save
-        key: cds-vendor-lib-{{ checksum "Gemfile.lock" }}
+        key: cds-vendor-bundle-{{ checksum "Gemfile.lock" }}
         paths:
           - vendor/bundle
-          - assets/lib
 
       - run:
           name: "Compile english"
@@ -39,7 +38,11 @@ jobs:
           name: "Save SHA to a file"
           command: echo $CIRCLE_SHA1 > .circle-sha
       - save_cache:
-          key: cds-website-{{ checksum ".circle-sha" }}
+          key: cds-project-{{ checksum ".circle-sha" }}
+          paths:
+            ~/project
+      - save_cache:
+          key: cds-website-dist-{{ checksum ".circle-sha" }}
           paths:
             ~/cds-website
             ~/snc-website
@@ -50,19 +53,13 @@ jobs:
     docker:
       - image: circleci/ruby:2.4
     steps:
-      - checkout
-
-      # Restore bundle/lib cache
-      - type: cache-restore
-        key: cds-vendor-lib-{{ checksum "Gemfile.lock" }}
-
+      # Restore build cache
       - run:
-          name: "Get Git submodules"
-          command: git submodule sync && git submodule update --init
-
-      - run:
-          name: "Bundle install"
-          command: bundle install --path vendor/bundle
+          name: "Save SHA to a file"
+          command: echo $CIRCLE_SHA1 > .circle-sha
+      - restore_cache:
+          keys:
+            - cds-project-{{ checksum ".circle-sha" }}
 
       - run:
           name: "Test English"
@@ -80,6 +77,7 @@ jobs:
     docker:
       - image: circleci/python
     steps:
+      # Install AWS CLI
       - run:
           name: "PIP install awsclii"
           command: |
@@ -89,13 +87,13 @@ jobs:
             aws configure set preview.create-invalidation true
             aws --version
 
+      # Restore build cache
       - run:
           name: "Save SHA to a file"
           command: echo $CIRCLE_SHA1 > .circle-sha
-
       - restore_cache:
           keys:
-            - cds-website-{{ checksum ".circle-sha" }}
+            - cds-website-dist-{{ checksum ".circle-sha" }}
 
       - deploy:
           name: "Deploy English"
