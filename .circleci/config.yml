@@ -94,6 +94,14 @@ jobs:
           name: "Deploy French"
           command: ~/.local/bin/aws s3 sync ~/snc-website s3://snc-website-dist/ --delete
 
+      - run:
+          name: "Invalidate English Cache"
+          command: ~/.local/bin/aws cloudfront create-invalidation --distribution-id E3EIUBOL3WTOOO --paths /*
+
+      - run:
+          name: "Invalidate French Cache"
+          command: ~/.local/bin/aws cloudfront create-invalidation --distribution-id E3FI5UW2E5PBD3 --paths /*
+
 workflows:
   version: 2
   build_and_test:
