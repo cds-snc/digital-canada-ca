@@ -114,29 +114,21 @@ jobs:
           command: |
             pip install awscli --upgrade --user
             export PATH=~/.local/bin:$PATH
+            aws configure set preview.cloudfront true
+            aws configure set preview.create-invalidation true
             aws --version
-
-      - run:
-          name: "Save SHA to a file"
-          command: echo $CIRCLE_SHA1 > .circle-sha
-
-      - restore_cache:
-          keys:
-            - website-{{ checksum ".circle-sha" }}
 
       - run:
           name: "Invalidate English Cache"
           command: |
             export PATH=~/.local/bin:$PATH
-            aws configure set preview.cloudfront true
-            aws cloudfront create-invalidation --distribution-id E3EIUBOL3WTOOO --paths /*
+            aws cloudfront create-invalidation --distribution-id E3EIUBOL3WTOOO --paths *
 
       - run:
           name: "Invalidate French Cache"
           command: |
             export PATH=~/.local/bin:$PATH
-            aws configure set preview.cloudfront true
-            aws cloudfront create-invalidation --distribution-id E3FI5UW2E5PBD3 --paths /*
+            aws cloudfront create-invalidation --distribution-id E3FI5UW2E5PBD3 --paths *
 
 workflows:
   version: 2
