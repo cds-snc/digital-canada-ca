@@ -15,8 +15,9 @@ jobs:
           command: git submodule sync && git submodule update --init
 
       # Restore bundle cache (persisted across builds)
-      - type: cache-restore
-        key: cds-vendor-bundle-{{ checksum "Gemfile.lock" }}
+      - restore_cache:
+          keys:
+            - cds-vendor-bundle-{{ checksum "Gemfile.lock" }}
 
       # Bundle install
       - run:
@@ -24,10 +25,10 @@ jobs:
           command: bundle install --path vendor/bundle
 
       # Store bundle cache (persisted across builds)
-      - type: cache-save
-        key: cds-vendor-bundle-{{ checksum "Gemfile.lock" }}
-        paths:
-          - vendor/bundle
+      - save_cache:
+          key: cds-vendor-bundle-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
 
       # Build english and run htmlproofer (validate html, links, etc)
       - run:
