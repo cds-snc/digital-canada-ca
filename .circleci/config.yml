@@ -57,11 +57,9 @@ jobs:
       - run:
           name: "PIP install awsclii"
           command: |
-            pip install awscli --upgrade --user
-            export PATH=~/.local/bin:$PATH
+            sudo pip install awscli
             aws configure set preview.cloudfront true
             aws configure set preview.create-invalidation true
-            aws --version
 
       # Restore build cache
       - run:
@@ -74,26 +72,15 @@ jobs:
       - deploy:
           name: "Deploy English"
           command: |
-            export PATH=~/.local/bin:$PATH
             aws s3 sync ~/cds-website s3://cds-website-dist/ --delete
-
-      - run:
-          name: "Invalidate English cache"
-          command: |
-            export PATH=~/.local/bin:$PATH
             aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E3EIUBOL3WTOOO\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
 
       - deploy:
           name: "Deploy French"
           command: |
-            export PATH=~/.local/bin:$PATH
             aws s3 sync ~/snc-website s3://snc-website-dist/ --delete
-
-      - run:
-          name: "Invalidate French cache"
-          command: |
-            export PATH=~/.local/bin:$PATH
             aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E3FI5UW2E5PBD3\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
+
 
 workflows:
   version: 2
