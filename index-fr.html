@@ -115,7 +115,7 @@ permalink: '/'
             {% for post in posts %}
             <div class="col-xs-12 col-sm-4 col-md-3">
                 <a class="post" href="{{ post.url | relative_url }}">
-                    <div class="image" style="background-image:url('/assets/post-images/{{ post.image }}')"></div>
+                    <div class="image" style="background-image:url('/assets/img/cds/post-images/{{ post.image }}')"></div>
                     <div class="text">
                         {% assign date_format = site.minima.date_format | default: "%Y-%m-%d" %}
                         <div class="date">{{ post.date | date: date_format }}</div>

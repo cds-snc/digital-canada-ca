@@ -20,17 +20,6 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://digital.canada.ca" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Custom GCWeb-specific configurations
-# No trailing slashes needed on the paths below:
-GC :
-  lang: fr
-  static_asset_path: /assets/lib/gcweb-dist
-  site_breadcrumbs:
-    - label: 'Home'
-      url: 'https://www.canada.ca/en.html'
-    - label: 'digital.canada.ca'
-      url: 'HOME_PATH'
-
 include: ["_pages"]
 
 # For more see: http://jekyllrb.com/docs/permalinks/
@@ -43,7 +32,7 @@ markdown: kramdown
 gems:
   - jekyll-feed
 
-exclude: ["Gemfile", "Gemfile.lock", "vendor", "docker-compose.yml", "circle.yml", "README.md", "LICENSE.txt", "_pages/en", "_posts/en", "index.html"]
+exclude: ["Gemfile", "Gemfile.lock", "vendor", "docker-compose.yml", "README.md", "LICENSE.txt", "_pages/en", "_posts/en", "index.html"]
 
 defaults:
   -

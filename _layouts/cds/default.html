@@ -98,10 +98,10 @@
         </nav>
 
         {% if page.is_post %}
-            <div class="page-banner" style="background-image:url('/assets/post-images/{{ page.image }}')"></div>
+            <div class="page-banner" style="background-image:url('/assets/img/cds/post-images/{{ page.image }}')"></div>
 
         {% else %}
-            <div class="page-banner" style="background-image:url('/assets/img/cds/header-images/{{ page.ref }}.jpg')">
+            <div class="page-banner" style="background-image:url('/assets/img/cds/header-images/{{ page.image }}')">
                 <div class="page-banner--scrim"></div>
                 <div class="container">
                     <div class="page-banner--title"><h1>{{ page.title }}</h1></div>
