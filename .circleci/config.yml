@@ -122,13 +122,13 @@ jobs:
           name: "Invalidate English Cache"
           command: |
             export PATH=~/.local/bin:$PATH
-            aws cloudfront create-invalidation --distribution-id E3EIUBOL3WTOOO --paths *
+            aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E3EIUBOL3WTOOO\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
 
       - run:
           name: "Invalidate French Cache"
           command: |
             export PATH=~/.local/bin:$PATH
-            aws cloudfront create-invalidation --distribution-id E3FI5UW2E5PBD3 --paths *
+            aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E3FI5UW2E5PBD3\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
 
 workflows:
   version: 2
