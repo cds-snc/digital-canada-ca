@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build:
+  build_and_test:
     environment:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
     docker:
@@ -44,6 +44,18 @@ jobs:
             bundle exec jekyll build --config _config_fr.yml --destination ~/snc-website
             bundle exec htmlproofer ~/snc-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
+      # Store compiled cache (persisted across jobs)
+      - run: echo $CIRCLE_SHA1 > .circle-sha
+      - save_cache:
+          key: cds-website-dist-{{ checksum ".circle-sha" }}
+          paths:
+            ~/cds-website
+            ~/snc-website
+
+  deploy:
+    docker:
+      - image: circleci/python
+    steps:
       # Install AWS CLI
       - run:
           name: "PIP install awsclii"
@@ -51,6 +63,12 @@ jobs:
             sudo pip install awscli
             aws configure set preview.cloudfront true
             aws configure set preview.create-invalidation true
+
+      # Restore compiled cache (persisted across jobs)
+      - run: echo $CIRCLE_SHA1 > .circle-sha
+      - restore_cache:
+          keys:
+            - cds-website-dist-{{ checksum ".circle-sha" }}
 
       # Deploy english from cache and create Cloudfront object invalidation
       - deploy:
@@ -69,9 +87,12 @@ jobs:
 
 workflows:
   version: 2
-  build_and_test:
+  build_test_deploy:
     jobs:
-      - build:
+      - build_and_test
+      - deploy:
+          requires:
+            - build_and_test
           filters:
             branches:
               only: bilingualize
