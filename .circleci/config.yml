@@ -34,23 +34,23 @@ jobs:
       - run:
           name: "Test english"
           command: |
-            bundle exec jekyll build --config _config_en.yml --destination /cds-website
-            bundle exec htmlproofer /cds-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+            bundle exec jekyll build --config _config_en.yml --destination ~/cds-website
+            bundle exec htmlproofer ~/cds-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
       # Build french and run htmlproofer (validate html, links, etc)
       - run:
           name: "Test french"
           command: |
-            bundle exec jekyll build --config _config_fr.yml --destination /snc-website
-            bundle exec htmlproofer /snc-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+            bundle exec jekyll build --config _config_fr.yml --destination ~/snc-website
+            bundle exec htmlproofer ~/snc-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
       # Store compiled cache (persisted across jobs)
       - run: echo $CIRCLE_SHA1 > .circle-sha
       - save_cache:
           key: cds-website-dist-{{ checksum ".circle-sha" }}
           paths:
-            /cds-website
-            /snc-website
+            ~/cds-website
+            ~/snc-website
 
   deploy:
     docker:
@@ -74,14 +74,14 @@ jobs:
       - deploy:
           name: "Deploy English"
           command: |
-            aws s3 sync /cds-website s3://cds-website-dist/ --delete
+            aws s3 sync /home/circleci/cds-website s3://cds-website-dist/ --delete
             aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E3EIUBOL3WTOOO\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
 
       # Deploy french from cache and create Cloudfront object invalidation
       - deploy:
           name: "Deploy French"
           command: |
-            aws s3 sync /snc-website s3://snc-website-dist/ --delete
+            aws s3 sync /home/circleci/snc-website s3://snc-website-dist/ --delete
             aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"E3FI5UW2E5PBD3\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
 
 workflows:
