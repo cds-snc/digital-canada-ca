@@ -1,6 +1,6 @@
 version: 2
 jobs:
-  build_and_test:
+  build:
     environment:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
     docker:
@@ -30,19 +30,12 @@ jobs:
           paths:
             - vendor/bundle
 
-      # Build english and run htmlproofer (validate html, links, etc)
+      # Build compiled sites
       - run:
-          name: "Test english"
+          name: "Build English and French"
           command: |
             bundle exec jekyll build --config _config_en.yml --destination ~/cds-website
-            bundle exec htmlproofer ~/cds-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
-
-      # Build french and run htmlproofer (validate html, links, etc)
-      - run:
-          name: "Test french"
-          command: |
             bundle exec jekyll build --config _config_fr.yml --destination ~/snc-website
-            bundle exec htmlproofer ~/snc-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
       # Store compiled cache (persisted across jobs)
       - run: echo $CIRCLE_SHA1 > .circle-sha
@@ -68,7 +61,11 @@ jobs:
 
       - run:
           name: "Test English"
-          command: htmlproofer /home/circleci/cds-website --check-html --disable-external --file-ignore=/assets/lib/
+          command: htmlproofer /home/circleci/cds-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+
+      - run:
+          name: "Test French"
+          command: htmlproofer /home/circleci/snc-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
   deploy:
     docker:
@@ -105,13 +102,13 @@ workflows:
   version: 2
   build_test_deploy:
     jobs:
-      - build_and_test
+      - build
       - test:
           requires:
-            - build_and_test
+            - build
       - deploy:
           requires:
-            - build_and_test
+            - build
             - test
           filters:
             branches:
