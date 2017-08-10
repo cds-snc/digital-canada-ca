@@ -52,6 +52,20 @@ jobs:
             ~/cds-website
             ~/snc-website
 
+  test:
+    docker:
+      - image: 18fgsa/html-proofer
+    steps:
+      # Restore compiled cache (persisted across jobs)
+      - run: echo $CIRCLE_SHA1 > .circle-sha
+      - restore_cache:
+          keys:
+            - cds-website-dist-{{ checksum ".circle-sha" }}
+
+      - run:
+          name: "Test English"
+          command: htmlproofer /home/circleci/cds-website --check-html --disable-external --file-ignore=/assets/lib/
+
   deploy:
     docker:
       - image: cdssnc/aws-cli
@@ -88,6 +102,9 @@ workflows:
   build_test_deploy:
     jobs:
       - build_and_test
+      - test:
+          requires:
+            - build_and_test
       - deploy:
           requires:
             - build_and_test
