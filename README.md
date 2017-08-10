@@ -1,7 +1,5 @@
 ## Canadian Digital Service website - [digital.canada.ca](http://digital.canada.ca/)
 
-[![CircleCI](https://circleci.com/gh/gcdigital-gcnumerique/digital-canada-ca/tree/bilingualize.svg?style=shield)](https://circleci.com/gh/gcdigital-gcnumerique/digital-canada-ca/tree/bilingualize)
-
 [digital.canada.ca](http://digital.canada.ca/) is the website for the Canadian Digital Service. 
 
 Pour le français, visiter [gcdigital-gcnumerique/numerique-canada-ca](https://github.com/gcdigital-gcnumerique/numerique-canada-ca).
