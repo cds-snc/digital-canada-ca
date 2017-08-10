@@ -59,7 +59,7 @@ jobs:
       - run:
           name: install git openssh-client tar
           command: apk update && apk add git openssh-client tar
-          
+
       # Restore compiled cache (persisted across jobs)
       - run: echo $CIRCLE_SHA1 > .circle-sha
       - restore_cache:
@@ -112,6 +112,7 @@ workflows:
       - deploy:
           requires:
             - build_and_test
+            - test
           filters:
             branches:
               only: bilingualize
