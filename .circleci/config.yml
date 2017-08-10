@@ -1,8 +1,6 @@
 version: 2
 jobs:
   build:
-    environment:
-      NOKOGIRI_USE_SYSTEM_LIBRARIES: true # speeds up installation of html-proofer
     docker:
       - image: circleci/ruby:2.4
     working_directory: ~/project
@@ -47,12 +45,8 @@ jobs:
 
   test:
     docker:
-      - image: 18fgsa/html-proofer
+      - image: cdssnc/html-proofer
     steps:
-      - run:
-          name: install git openssh-client tar
-          command: apk update && apk add git openssh-client tar
-
       # Restore compiled cache (persisted across jobs)
       - run: echo $CIRCLE_SHA1 > .circle-sha
       - restore_cache:
