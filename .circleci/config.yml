@@ -106,4 +106,4 @@ workflows:
             - test
           filters:
             branches:
-              only: bilingualize
+              only: production
