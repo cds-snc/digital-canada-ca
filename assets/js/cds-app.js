@@ -45,13 +45,13 @@ $(document).ready(function() {
 	if($('video#js-video-bg').length) {
         // listeners to set play/pause button state based on video state
         videobg.onpause = function () {
-            $('.pause-ico').removeClass('fa-pause').addClass('fa-play');
-            $('.button-text').html('Play');
+        	$('#js-play-pause #js-playing').hide();
+        	$('#js-play-pause #js-paused').show();
         };
 
         videobg.onplay = function () {
-            $('.pause-ico').removeClass('fa-play').addClass('fa-pause');
-            $('.button-text').html('Pause');
+            $('#js-play-pause #js-playing').show();
+            $('#js-play-pause #js-paused').hide();
         };
 
         // start playing on load

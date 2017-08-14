@@ -69,10 +69,16 @@
                 <div class="page-banner--scrim"></div>
 
                 <div class="page-banner--video-controls hidden">
-                    <a href="#" id="js-play-pause" class="video-banner--control-button">
-                        <span class="fa fa-play pause-ico"></span>
-                        <span class="button-text">Play</span>
-                    </a>
+                    <div id="js-play-pause">
+                        <a href="#" id="js-paused" class="video-banner--control-button">
+                            <span class="fa fa-play pause-ico"></span>
+                            <span class="button-text">{{ site.data.trans[page.lang].play }}</span>
+                        </a>
+                        <a href="#" id="js-playing" class="video-banner--control-button">
+                            <span class="fa fa-pause pause-ico"></span>
+                            <span class="button-text">{{ site.data.trans[page.lang].pause }}</span>
+                        </a>
+                    </div>
                 </div>
             </div>
 
