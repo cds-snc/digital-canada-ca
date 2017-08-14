@@ -1,8 +1,7 @@
 ## Canadian Digital Service website - [digital.canada.ca](http://digital.canada.ca/)
 
-[digital.canada.ca](http://digital.canada.ca/) is the website for the Canadian Digital Service. 
-
-Pour le français, visiter [gcdigital-gcnumerique/numerique-canada-ca](https://github.com/gcdigital-gcnumerique/numerique-canada-ca).
+Both [digital.canada.ca](https://digital.canada.ca/) and [numerique.canada.ca](https://numerique.canada.ca) are
+ published from this repository.
 
 Powered by [Jekyll](https://jekyllrb.com/), the [Web Experience Toolkit](https://github.com/wet-boew/wet-boew/), and [Docker](https://www.docker.com/).
 
