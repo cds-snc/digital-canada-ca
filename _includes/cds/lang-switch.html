@@ -1,9 +1,3 @@
 {% if page.trans_url %}
-    <a href="{{ site.data.trans[page.lang].trans-base-url }}{{ page.trans_url }}">
-        {% if page.lang == 'en' %}
-            {{ site.data.sitewide.language_full.fr }}
-        {% elsif page.lang == 'fr' %}
-            {{ site.data.sitewide.language_full.en }}
-        {% endif %}
-    </a>
+    <a href="{{ site.data.trans[page.lang].trans-base-url }}{{ page.trans_url }}">{{ site.data.trans[page.lang].lang-switch-label }}</a>
 {% endif %}

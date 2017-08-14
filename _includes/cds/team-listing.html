@@ -8,31 +8,31 @@
 				<div class="team-member">
 
 					<div class="photo-container">
-						<div class="photo" style="background-image: url('/assets/img/cds/profile-images/{{member.image-name}}');"></div>
+						<div class="photo" style="background-image: url('/assets/img/cds/profile-images/{{ member.image-name }}');"></div>
 					</div>
 
 					<div class="text">
-						<span class="name">{{member.name}}</span>
-						<span class="title">{{member.title[page.lang]}}</span>
+						<span class="name">{{ member.name }}</span>
+						<span class="title">{{ member.title[page.lang] }}</span>
 						<div class="social-links">
 							{% if member.email != null %}
 								<span class="social-icons">
-									<a href="mailto:{{member.email}}" aria-label="Link to {{member.name}}'s Email">
-										<i class="fa fa-envelope" arial-hidden="true"></i>
+									<a href="mailto:{{ member.email }}" aria-label="Link to {{ member.name }}'s Email">
+										<i class="fa fa-envelope" aria-hidden="true"></i>
 									</a>
 								</span>
 							{% endif %}
 							{% if member.twitter != null %}
 								<span class="social-icons">
-									<a href="https://twitter.com/{{member.twitter}}" aria-label="Link to {{ member.name }}'s Twitter Account">
-										<i class="fa fa-twitter" arial-hidden="true"></i>
+									<a href="https://twitter.com/{{ member.twitter }}" aria-label="Link to {{ member.name }}'s Twitter Account">
+										<i class="fa fa-twitter" aria-hidden="true"></i>
 									</a>
 								</span>
 							{% endif %}
 							{% if member.linkedin != null %}
 								<span class="social-icons">
-									<a href="https://linkedin.com/in/{{member.linkedin}}" aria-label="Link to {{member.name}}'s Linkedin Profile">
-										<i class="fa fa-linkedin" arial-hidden="true"></i>
+									<a href="https://linkedin.com/in/{{ member.linkedin }}" aria-label="Link to {{ member.name }}'s Linkedin Profile">
+										<i class="fa fa-linkedin" aria-hidden="true"></i>
 									</a>
 								</span>
 							{% endif %}
@@ -54,40 +54,39 @@
 					<div class="team-member">
 
 						<div class="photo-container">
-							<div class="photo" style="background-image: url('/assets/img/cds/profile-images/{{member.image-name}}');"></div>
+							<div class="photo" style="background-image: url('/assets/img/cds/profile-images/{{ member.image-name }}');"></div>
 						</div>
 
 						<div class="text">
-							<span class="name">{{member.name}}</span>
-							<span class="title">{{member.title[page.lang]}}</span>
+							<span class="name">{{ member.name }}</span>
+							<span class="title">{{ member.title[page.lang] }}</span>
 							<div class="social-links">
 								{% if member.email != null %}
-									<span class="social-icons"><a href="mailto:{{member.email}}" aria-label="Link to {{ member.name }}'s Email"><i class="fa fa-envelope" arial-hidden="true"></i></a></span>
+									<span class="social-icons"><a href="mailto:{{ member.email }}" aria-label="Link to {{ member.name }}'s Email"><i class="fa fa-envelope" aria-hidden="true"></i></a></span>
 								{% endif %}
 								{% if member.twitter != null %}
 									<span class="social-icons">
-										<a href="https://twitter.com/{{member.twitter}}" aria-label="Link to {{ member.name }}'s Twitter account">
-											<i class="fa fa-twitter" arial-hidden="true"></i>
+										<a href="https://twitter.com/{{ member.twitter }}" aria-label="Link to {{ member.name }}'s Twitter account">
+											<i class="fa fa-twitter" aria-hidden="true"></i>
 										</a>
 									</span>
 								{% endif %}
 								{% if member.linkedin != null %}
 									<span class="social-icons">
-										<a href="https://ca.linkedin.com/in/{{member.linkedin}}" aria-label="Link to {{member.name}}'s LinkedIn Profile">
-											<i class="fa fa-linkedin" arial-hidden="true"></i>
+										<a href="https://ca.linkedin.com/in/{{ member.linkedin }}" aria-label="Link to {{ member.name }}'s LinkedIn Profile">
+											<i class="fa fa-linkedin" aria-hidden="true"></i>
 										</a>
 									</span>
 								{% endif %}
 								{% if member.github != null %}
 									<span class="social-icons">
-										<a href="https://github.com/{{member.github}}" aria-label="Link to {{member.name}}'s GitHub profile">
-											<i class="fa fa-github-alt" arial-hidden="true"></i>
+										<a href="https://github.com/{{ member.github }}" aria-label="Link to {{ member.name }}'s GitHub profile">
+											<i class="fa fa-github-alt" aria-hidden="true"></i>
 										</a>
 									</span>
 								{% endif %}
 							</div>
 						</div>
-
 					</div>
 				</div>
 			{% endfor %}

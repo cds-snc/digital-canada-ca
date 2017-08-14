@@ -31,8 +31,8 @@ markdown: kramdown
 # theme: minima
 gems:
   - jekyll-feed
-  
-exclude: ["Gemfile", "Gemfile.lock", "vendor", "docker-compose.yml", "README.md", "LICENSE.txt", "_pages/fr", "_posts/fr", "index-fr.html"]
+
+exclude: ["Gemfile", "Gemfile.lock", "vendor", "docker-compose.yml", "README.md", "LICENSE.txt", "_pages/en", "_posts/en", "index.html"]
 
 defaults:
   -
