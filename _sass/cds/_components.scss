@@ -63,11 +63,33 @@
 			color: $secondary-color;
 			border-color: $primary-color;
 		}
+
+		&.dark {
+			color: $secondary-color !important;
+			border-color: $secondary-color;
+
+			&:hover {
+				color: $primary-color !important;
+				background: $secondary-color;
+
+			}
+		}
+	}
+
+	&.small {
+		margin: 1rem 0;
+		padding: 0.5rem;
+		font-size: 1.2rem
 	}
 
 }
 
+.video-container {
 
+	@include desktop {
+		padding: 0 10rem;
+	}
+}
 
 
 
