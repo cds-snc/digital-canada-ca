@@ -9,31 +9,31 @@ Powered by [Jekyll](https://jekyllrb.com/), the [Web Experience Toolkit](https:/
 
 1. Clone the repository.
 
-```
-git clone https://github.com/cds-snc/digital-canada-ca.git
-```
+    ```
+    git clone https://github.com/cds-snc/digital-canada-ca.git
+    ```
 
 2. Load submodules
-
-```
-cd digital-canada-ca
-git submodule update --init --recursive
-```
+    
+    ```
+    cd digital-canada-ca
+    git submodule update --init --recursive
+    ```
 
 3. Pull in dependencies
 
-```
-bundle install
-```
+    ```
+    bundle install
+    ```
 
 4. Serve
-```
-./serve
-```
-or
-```
-./serve-fr
-```
+    ```
+    ./serve
+    ```
+    or
+    ```
+    ./serve-fr
+    ```
 
 5. Browse http://localhost:4000
 
