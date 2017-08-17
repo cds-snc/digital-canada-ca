@@ -7,24 +7,46 @@ Powered by [Jekyll](https://jekyllrb.com/), the [Web Experience Toolkit](https:/
 
 ### To install locally:
 
-1. Clone the repository (green link above).
-
-2. Bring in the GCWeb theme.
-
-Switch to the newly created folder, and then run
+1. Clone the repository.
 
 ```
+git clone https://github.com/cds-snc/digital-canada-ca.git
+```
+
+2. Load submodules
+
+```
+cd digital-canada-ca
 git submodule update --init --recursive
 ```
 
-to bring in the [GCWeb WET theme](http://wet-boew.github.io/themes-dist/GCWeb/docs/ref/GCWeb/GCWeb-en.html) files.
+3. Pull in dependencies
 
-3. Run the Docker instance.
+```
+bundle install
+```
 
-With Docker installed and running on your computer, run
+4. Serve
+```
+./serve
+```
+or
+```
+./serve-fr
+```
+
+5. Browse http://localhost:4000
+
+### Alternative installation using Docker
+
+Using docker can simplify dependency management, but can significantly slow down your build time.  Assuming you've already
+got Docker installed, after you complete steps 1 & 2 above, you may alternatively run the following command to bring up
+the docker instance:
+
 
 ```
 docker-compose up
 ```
 
-This will install any necessary dependencies on the first run. Afterwards, just run `docker-compose up` again to launch the local Jekyll server for development and testing.
+This will install any necessary dependencies on the first run. Afterwards, just run `docker-compose up` again to launch 
+the local Jekyll server for development and testing.

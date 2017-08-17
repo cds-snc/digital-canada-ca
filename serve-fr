@@ -1,0 +1,7 @@
+#!/bin/sh
+
+LC_ALL="en_US.UTF-8" \
+bundle exec jekyll serve \
+  --watch \
+  --incremental \
+  --config _config_fr.yml
