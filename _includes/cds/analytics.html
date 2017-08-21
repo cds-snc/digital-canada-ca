@@ -6,7 +6,7 @@ if (window.location.host == 'digital.canada.ca') {
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-102484926-1', 'auto');
+  ga('create', '{{ site.data.trans[page.lang].ga }}', 'auto');
   ga('send', 'pageview');
 }
 </script>
