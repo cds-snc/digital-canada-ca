@@ -44,6 +44,14 @@ exec:
     linkedin: wmluciani
     email: Wendy.Luciani@tbs-sct.gc.ca
 team:
+  - name: Annie Leblond
+    title:
+      en: Communications
+      fr: Communications
+    image-name: annie-leblond.jpg
+    twitter: leblond_annie
+    email: Annie.Leblond@tbs-sct.gc.ca
+
   - name: Dave Samojlenko
     title:
       en: Developer | DevOps
