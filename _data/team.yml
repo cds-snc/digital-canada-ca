@@ -52,6 +52,13 @@ team:
     twitter: dsamojlenko
     github: dsamojlenko
 
+  - name: Eva Demers-Brett
+    title:
+      en: Developer
+      fr: Développeur 
+    image-name: eva-demers-brett.jpg
+    email: Eva.Demers-Brett@tbs-sct.gc.ca
+
   - name: James Mickle
     title:
       en: Policy | Research
