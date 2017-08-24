@@ -3,7 +3,7 @@ en:
     name: "Home"
     url: "/"
   how_we_work:
-    name: "How we work"
+    name: "What we do"
     url: "/how-we-work"
   our_team:
     name: "Our team"
