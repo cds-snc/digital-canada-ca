@@ -120,7 +120,7 @@
     {% endif %}
 
 </header>
-<main role="main" property="mainContentOfPage" {% if page.ref != 'home' %} class="container" {% endif %}>
+<main role="main" property="mainContentOfPage" {% if page.ref != 'home' and page.ref != 'work-with-us' %} class="container" {% endif %}>
     <section id="wb-cont">
         {{ content }}
     </section>

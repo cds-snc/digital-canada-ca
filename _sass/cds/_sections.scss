@@ -378,6 +378,250 @@
 //
 ////////////////////////////////////////////////////
 
+////////////////////////////////////////////////////
+//
+// WORK WITH US
+//
+////////////////////////////////////////////////////
+
+.work-with-us--intro {
+	text-align	: center;
+
+	.container {
+		max-width: 80rem;
+	}
+
+	.text { 
+		font-size: 2.5rem;
+		margin-top: 1.0rem;
+	}
+}
+
+.work-with-us--details {
+	text-align	: center;
+	border-top	: $medium-grey 1px solid;
+
+	.container {
+		max-width: 80rem;
+	}
+
+	@include desktop { 
+		padding-top: 3.0rem; 
+	}
+
+	.text { 
+		font-size: 2.5rem;
+		margin-top: 1.0rem;
+	}
+}
+
+.work-with-us--looking-for {
+	//background 		: -webkit-gradient(linear, 0 top, 0 bottom, from(rgba($black,0.85)), to(rgba($black,0.85))), url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat, $dark-grey;
+	//background 		: -webkit-gradient(linear, 0 top, 0 bottom, from(rgba($black,0.85)), to(rgba($black,0.85))), url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat, $dark-grey;
+	background 		: url('/assets/img/cds/header-images/looking-for.jpg') center center no-repeat;
+	background-color: #0f0a08;
+	background-size	: cover;
+	color 			: $white;
+	font-weight:100;
+	text-align: center;
+
+	.container {
+		max-width: 100rem;
+	}
+
+	@include desktop {
+		background-attachment: fixed;
+	}
+
+	@include tablet {
+		padding 		: 5rem 0 3rem 0;
+	}
+
+	h3 {
+		
+		font-weight : 100;
+		line-height : 2.75rem;
+		margin 		: 2rem 0;
+
+		@include tablet {
+			font-size	: 2.4rem;
+			font-weight	: 300;
+			line-height	: 3.2rem;
+			margin-top	: 5rem;
+		}
+	}
+
+	.custom-icon {
+
+		border 			: $primary-color 5px solid;
+		border-radius	: 50%;
+		height: 10rem;
+		width: 10rem;
+		padding 		: 2rem;
+		color: $black;
+		background-color: $white;
+		margin: 0 auto;
+
+		@include desktop {
+			height: 15rem;
+			width: 15rem;
+		}
+
+	}
+
+	.text { 
+		margin-top: 2.0rem;
+		margin-bottom: 2.0rem;
+	}
+
+
+}
+
+.work-with-us--streams {
+	text-align: center;
+	width: 100%;
+	margin-top:0rem;
+	padding: 0rem;
+
+	.container {
+		width: 100%;
+
+		&.design-stream {
+			background-color: $primary-color;
+		}
+
+		&.developer-stream {
+			background-color: #ef925f;
+		}
+
+		&.data-stream {
+			background-color: #ed7155;
+		}
+
+		&.product-manager-stream {
+			background-color: #53c1a4;
+		}
+
+		&.engagement-stream {
+			background-color: #50a3b7;
+		}
+
+		&.how-to-apply {
+			background-color: #7795a3;
+		}
+	}
+
+	.cds-icon{
+		i {
+			border 			: $black 5px solid;
+			border-radius	: 50%;
+			font-size 		: 3.5rem;
+			padding 		: 3rem;
+			color: $black;
+			background-color: $white;
+			height: 10rem;
+			width: 10rem;
+			text-align: center;
+
+			@include desktop {
+				font-size 	: 5rem;
+				padding 	: 2rem;
+			}
+		}
+
+		@include desktop {
+			text-align: right;
+		}
+	}
+
+	/*.custom-icon {
+		object {
+			border 			: $black 5px solid;
+			border-radius	: 50%;
+			font-size 		: 2rem;
+			padding 		: 2rem;
+			color: $black;
+			background-color: $white;
+			height: 10rem;
+			width: 10rem;
+
+			@include desktop {
+				float: right;
+				padding: 0rem;
+			}
+		}
+
+	}*/
+
+	.custom-icon {
+		border 			: $black 5px solid;
+		border-radius	: 50%;
+		padding 		: 1rem;
+		color: $black;
+		background-color: $white;
+		height: 10rem;
+		width: 10rem;
+
+		@include desktop {
+			float: right;
+		}
+	}
+
+	.icon-text {
+		margin-top: 1.5rem;
+
+		@include tablet 	{ margin-bottom	: 4rem; }
+		@include desktop 	{ margin-top	: 1rem; }
+	}
+
+	.arrow-icon {
+		i {
+			font-size: 2rem;
+			color: $black;
+
+		}
+
+		i:hover {
+			color: $black;
+		}
+
+		@include desktop {
+			text-align: left;
+			padding: 3.5rem;
+		}
+	}
+
+	details {
+		border: none;
+		color: $black;
+	} 
+
+	details summary {
+		@extend details;
+		text-decoration: none;
+		outline: none;
+		list-style-type: none;
+	}
+
+	details summary:hover {
+		color: $dark-grey;
+	}
+
+	h3 {
+		
+		font-weight : 130;
+		line-height : 2.75rem;
+		font-size 	: 3rem;
+		padding: 1rem;
+	}
+
+	.text { 
+		font-size: 2.5rem;
+		margin-top: 1.0rem;
+	}
+}
+
+
 
 ////////////////////////////////////////////////////
 //
