@@ -384,6 +384,210 @@
 //
 ////////////////////////////////////////////////////
 
+///// MODAL STYLES
+
+.work-with-us--modal {
+
+	.modal-header {
+		color: $black;
+		padding: 2rem;
+		border: none;
+		text-align: center;
+
+		.cds-icon{
+			i {
+				border 			: $black 5px solid;
+				border-radius	: 50%;
+				font-size 		: 3.5rem;
+				padding 		: 3rem;
+				color: $black;
+				background-color: $white;
+				height: 10rem;
+				width: 10rem;
+				text-align: center;
+
+				@include desktop {
+					font-size 	: 5rem;
+					padding 	: 2rem;
+				}
+			}
+
+			@include desktop {
+				text-align: right;
+			}
+		}
+
+		.container {
+			width: 90%;
+			border: none;
+			padding: 0rem;
+		}
+	}
+
+	.modal-footer {
+		border: none;
+
+		.btn {
+			background-color: $black;
+			color: $white;
+			border-color: $black;
+
+			&:hover {
+				border-color: $light-grey;
+			}
+		}
+	}
+
+	.container {
+		width: 85%;
+		border-bottom: $black 1px solid;
+		border-top: $black 1px solid;
+		padding-bottom: 3rem; 
+		padding-top: 3rem;
+	}
+
+	.text { 
+		font-size: 1.5rem;
+		font-weight: 100;
+		margin-bottom: 3rem;
+		color: $black;
+	}
+
+	.number-icon {
+		background-color: $white;
+		border: $black 3px solid;
+		border-radius: 50%;
+		height: 4rem;
+		width: 4rem;
+		vertical-align: middle;
+		display: table-cell;
+		text-align: center;
+		font-size: 2rem;
+		color: $black;
+		padding-top: 0.25rem;
+	}
+
+	.number-icon:after{
+
+		@include desktop{
+			content: "|";
+			font-size: 5rem;
+			font-weight:100;
+			position: absolute;
+			top: 26px;
+			left: 28px;
+		}
+
+	}
+
+	.number-icon-last {
+		background-color: $white;
+		border: $black 3px solid;
+		border-radius: 50%;
+		height: 4rem;
+		width: 4rem;
+		vertical-align: middle;
+		display: table-cell;
+		text-align: center;
+		font-size: 2rem;
+		color: $black;
+		padding-top: 0.25rem;
+	}
+
+
+	h3 {
+		
+		font-weight : 130;
+		line-height : 2.75rem;
+		font-size 	: 3rem;
+		padding: 1rem;
+	}
+
+	&.design-modal {
+
+		.modal-header{
+			background-color: $primary-color;
+		}
+
+		.modal-body {
+			background-color: $primary-color;
+		}
+
+		.modal-footer {
+			background: $primary-color !important; 
+		}
+	}
+
+	&.developer-modal {
+
+		.modal-header{
+			background-color: #ef925f;
+		}
+
+		.modal-body {
+			background-color: #ef925f;
+		}
+
+		.modal-footer {
+			background: #ef925f !important; 
+		}
+
+	}
+
+	&.data-modal {
+
+		.modal-header{
+			background-color: #ed7155;
+		}
+
+		.modal-body {
+			background-color: #ed7155;
+		}
+
+		.modal-footer {
+			background: #ed7155 !important; 
+		}
+
+	}
+
+	&.product-manager-modal {
+
+		.modal-header{
+			background-color: #53c1a4;
+		}
+
+		.modal-body {
+			background-color: #53c1a4;
+		}
+
+		.modal-footer {
+			background: #53c1a4 !important; 
+		}
+
+	}
+
+	&.engagement-modal {
+
+		.modal-header{
+			background-color: #50a3b7;
+		}
+
+		.modal-body {
+			background-color: #50a3b7;
+		}
+
+		.modal-footer {
+			background: #50a3b7 !important; 
+		}
+
+	}
+
+	&.how-to-apply-modal {
+		background-color: #7795a3;
+	}
+
+}
+
 .work-with-us--intro {
 	text-align	: center;
 
@@ -483,9 +687,22 @@
 	margin-top:0rem;
 	padding: 0rem;
 
-	.container {
-		width: 100%;
+	.button {
+		background-color: $black;
+		color: $white;
+		border-color: $black;
 
+		&:hover {
+			border-color: $light-grey;
+		}
+	}
+
+	/*.acc-group {
+		list-style-type: none;
+	}*/
+
+	.stream {
+	
 		&.design-stream {
 			background-color: $primary-color;
 		}
@@ -508,7 +725,42 @@
 
 		&.how-to-apply {
 			background-color: #7795a3;
+
+			input, textarea, select {
+				width: 100%;
+			}
 		}
+
+	}
+
+	.container {
+		width: 100%;
+
+		&.stream-content {
+			width: 90%;
+			border-top: $dark-grey 1px solid;
+			border-bottom: $dark-grey 1px solid;
+			margin: 0 auto;
+			padding-top: 2rem; 
+			//padding-bottom: 2rem;
+			font-weight: 100;
+
+			@include desktop {
+				width: 80%;
+				padding-top: 4rem;
+				padding-bottom: 4rem;
+			}
+		}
+
+		&.stream-header {
+			height: 5rem;
+			overflow: hidden;
+		}
+
+		&.button-container {
+			margin-top: 3rem;
+		}
+
 	}
 
 	.cds-icon{
@@ -534,36 +786,37 @@
 		}
 	}
 
-	/*.custom-icon {
-		object {
-			border 			: $black 5px solid;
-			border-radius	: 50%;
-			font-size 		: 2rem;
-			padding 		: 2rem;
-			color: $black;
-			background-color: $white;
-			height: 10rem;
-			width: 10rem;
+	.fixed-height {
+		min-height: 40rem;
 
-			@include desktop {
-				float: right;
-				padding: 0rem;
-			}
+		@include tablet {
+			min-height: 30rem;
 		}
 
-	}*/
+		@include desktop {
+			min-height: 30rem !important; 
+		}
+
+	}
 
 	.custom-icon {
 		border 			: $black 5px solid;
 		border-radius	: 50%;
-		padding 		: 1rem;
+		padding 		: 1.5rem;
 		color: $black;
 		background-color: $white;
 		height: 10rem;
 		width: 10rem;
+		margin: 0 auto;
 
-		@include desktop {
-			float: right;
+		&.stream-header {
+			@include desktop {
+				float: right;
+			}
+		}
+
+		@media print {
+			display: none;
 		}
 	}
 
@@ -594,13 +847,22 @@
 	details {
 		border: none;
 		color: $black;
+		margin-bottom: 0rem;
+		list-style-type: none !important;
 	} 
 
 	details summary {
 		@extend details;
 		text-decoration: none;
 		outline: none;
-		list-style-type: none;
+		
+    	height: 10rem;
+    	overflow: hidden;
+    	display: block;
+    	position: relative;
+    	bottom: 1.75rem;
+    	padding: 0rem;
+
 	}
 
 	details summary:hover {
@@ -616,8 +878,9 @@
 	}
 
 	.text { 
-		font-size: 2.5rem;
-		margin-top: 1.0rem;
+		font-size: 1.5rem;
+		margin-top: 2.0rem;
+		margin-bottom: 4.0rem;
 	}
 }
 
