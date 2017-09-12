@@ -1,7 +1,7 @@
 ---
 layout: cds/post
 title: "Recherché : Dirigeant principal du Service numérique canadien"
-date: 2017-09-12 10:00:00 -0400
+date: 2017-09-12 09:00:00 -0400
 lang: fr
 ref: wanted-ceo-cds
 image: wanted-ceo-cds-2017.jpg
@@ -11,7 +11,7 @@ description: "Les services fournis par notre gouvernement jouent un rôle import
 ---
  Les services fournis par notre gouvernement jouent un rôle important dans la vie de millions de gens. 
 
-C’est pourquoi nous avons lancé le Service numérique canadien (SNC), une équipe concentrée sur la restructuration des services du point de vue de l’utilisateur. C’est aussi pourquoi nous recrutons un dirigeant principal expérimenté et inspirant pour mener l’équipe dans la mise en œuvre d’un programme ambitieux dont l’effet se fera sentir pendant longtemps. 
+C’est pourquoi nous avons lancé le Service numérique canadien (SNC), une équipe concentrée sur la restructuration des services du point de vue de l’utilisateur. C’est aussi pourquoi nous [recrutons un dirigeant principal expérimenté et inspirant](/talent/dirigeant-principal) pour mener l’équipe dans la mise en œuvre d’un programme ambitieux dont l’effet se fera sentir pendant longtemps. 
 
 Le dirigeant principal du SNC aura un large mandat, soit d’améliorer fondamentalement la prestation de services dans l’ensemble de l’appareil fédéral, en collaboration avec les ministères. Cette personne bénéficiera du soutien indéfectible des plus hauts échelons afin de placer les utilisateurs au cœur de tous ces efforts. 
 

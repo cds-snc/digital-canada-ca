@@ -11,7 +11,7 @@ description: "The services our government provides play an important role in the
 ---
 The services our government provides play an important role in the lives of millions of people. 
 
-That is why we’ve launched the Canadian Digital Service, a team focused on redesigning services from the user’s perspective. We are recruiting an experienced and inspiring Chief Executive to lead the team in executing a bold agenda with a lasting impact.
+That is why we’ve launched the Canadian Digital Service, a team focused on redesigning services from the user’s perspective. We are [recruiting an experienced and inspiring Chief Executive](/talent/ceo) to lead the team in executing a bold agenda with a lasting impact.
 
 The CEO of CDS will have a broad mandate to fundamentally improve federal service delivery across the enterprise, with partner departments. This person will have the strongest support from the top to put users back at the center of everything we do.
 
