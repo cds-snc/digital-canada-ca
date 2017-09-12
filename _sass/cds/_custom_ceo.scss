@@ -37,6 +37,14 @@ $talent-textblue: #18385D;
 
 .cds-ceo {
 
+	&.fr .page-talent-ceo--candidate .candidate-item {
+		@include tablet {
+			@-moz-document url-prefix() {
+				height: 41rem;
+			}
+		}
+	}
+
 	.section--title {
 		@include desktop { margin-bottom: 7rem; }
 	}
@@ -172,10 +180,12 @@ $talent-textblue: #18385D;
 
 			@include tablet {
 				@-moz-document url-prefix() {
-					height: 391px;
+					height: 35rem;
 				}
 			}
 		}
+
+
 
 		.text {
 			text-align: center;
