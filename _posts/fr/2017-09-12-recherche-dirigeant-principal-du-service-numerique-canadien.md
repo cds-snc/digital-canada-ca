@@ -1,6 +1,6 @@
 ---
 layout: cds/post
-title: "Recherché &#58; Dirigeant principal du Service numérique canadien"
+title: "Recherché : Dirigeant principal du Service numérique canadien"
 date: 2017-09-12 10:00:00 -0400
 lang: fr
 ref: wanted-ceo-cds

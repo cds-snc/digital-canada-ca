@@ -1,6 +1,6 @@
 ---
 layout: cds/post
-title: "Wanted &#58; CEO for CDS"
+title: "Wanted: CEO for CDS"
 date: 2017-09-12 09:00:00 -0400
 lang: en
 ref: wanted-ceo-cds
