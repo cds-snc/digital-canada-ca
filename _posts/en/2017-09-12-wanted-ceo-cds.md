@@ -21,6 +21,6 @@ The right candidate is also inclusive, committed to the principles of openness, 
 
 The CEO of CDS will have a seat at the senior management table of the Treasury Board Secretariat, the central agency which houses CDS and sets policies for all departments and agencies. As a peer and partner to the Government of Canada CIO, the CEO will be able to scale service innovation through standards that raise the bar for the entire government.
 
-If you’re excited by the opportunity we have before us as a government, as I am, I hope you will apply. As an immigrant to Canada, I learned the importance of service experience first-hand a long time ago. Whether we’re serving our nation’s immigrants, veterans, seniors, or the many other people and communities that depend on us government, we have an obligation to provide services that are easy to access and simple to use.
+If you’re excited by the opportunity we have before us as a government, as I am, I hope you will apply. As an immigrant to Canada, I learned the importance of service experience first-hand a long time ago. Whether we’re serving our nation’s immigrants, veterans, seniors, or the many other people and communities that depend on us, we have an obligation to provide services that are easy to access and simple to use.
 
 This is a unique opportunity to lead change for our country. You will make a difference.
