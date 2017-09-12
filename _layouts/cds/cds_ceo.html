@@ -1,0 +1,106 @@
+<!DOCTYPE html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="{{ page.lang }}" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
+<html class="no-js" lang="{{ page.lang }}" dir="ltr">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+            wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+    <title>{{ page.title }} - {{ site.data.trans[page.lang].canadian-digital-service }}</title>
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <!-- Meta data -->
+    <meta name="description" content="{{ page.description }}">
+    <!-- Meta data-->
+    <!--[if gte IE 9 | !IE ]><!-->
+    <link href="/assets/lib/gcweb-dist/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon">
+    <link rel="stylesheet" href="/assets/lib/gcweb-dist/GCWeb/css/theme.min.css">
+    <link rel="stylesheet" href="/assets/cds.css?123">
+    <!--<![endif]-->
+    <!--[if lt IE 9]>
+    <link href="/assets/lib/gcweb-dist/GCWeb/assets/favicon.ico" rel="shortcut icon" />
+
+    <link rel="stylesheet" href="/assets/lib/gcweb-dist/GCWeb/css/ie8-theme.min.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="/assets/lib/gcweb-dist/wet-boew/js/ie8-wet-boew.min.js"></script>
+    <![endif]-->
+    <!--[if lte IE 9]>
+
+
+    <![endif]-->
+    <noscript><link rel="stylesheet" href="/assets/lib/gcweb-dist/wet-boew/css/noscript.min.css" /></noscript>
+    <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
+    <script>dataLayer1 = [];</script>
+    <!-- End Google Tag Manager -->
+
+    <link rel="alternate" type="application/rss+xml" title="{{ site.data.trans[page.lang].canadian-digital-service }}" href="/feed.xml" />
+</head>
+<body vocab="http://schema.org/" typeof="WebPage" class="cds-ceo {{ page.lang }}">
+<!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
+<noscript><iframe title="Google Tag Manager" src="//www.googletagmanager.com/ns.html?id=GTM-TLGQ9K" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer1'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer1','GTM-TLGQ9K');</script>
+<!-- End Google Tag Manager -->
+<ul id="wb-tphp">
+    <li class="wb-slc">
+        <a class="wb-sl" href="#wb-cont">{{ site.data.trans[page.lang].skip-to-content }}</a>
+    </li>
+</ul>
+
+<header role="banner">
+    <div id="fip">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-4">
+                    <a href="https://www.canada.ca/{{ page.lang }}.html" class="fip-logo gl-FIP" aria-label="{{ site.data.trans[page.lang].aria-canada-website }}">
+                        <object type="image/svg+xml" tabindex="-1" role="img" data="/assets/img/cds/goc--header-logo.svg" aria-label="{{ site.data.trans[page.lang].goc-symbol }}" class="logo">Government of Canada Logo</object>
+                    </a>
+                </div>
+                <div class="col-xs-8">
+                    <div id="lang" class="lang">{% include cds/lang-switch.html %}</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+   
+    <nav role="navigation" data-trgt="mb-pnl" class="cds-menu" typeof="SiteNavigationElement">
+        {% include cds/site-menu.html %}
+    </nav>
+
+    <div class="page-banner" style="background-image:url('/assets/img/talent/cds-ceo-header-bk.jpg')">
+        <div class="page-banner--scrim"></div>
+        <div class="container">
+            <div class="page-banner--title">
+                <h1>{{ page.title }}</h1>
+                <span class="page-title-sub">
+                    {{ site.data.trans[page.lang].canadian-digital-service }} &bullet; {{ site.data.trans[page.lang].ceo-loc-header }}
+                </span>
+            </div>
+        </div>
+    </div>
+
+
+</header>
+<main role="main" property="mainContentOfPage">
+    <section id="wb-cont" aria-label="main content">
+        {{ content }}
+    </section>
+</main>
+
+<footer role="contentinfo" id="wb-info">
+    {% include cds/goc-footer.html %}
+</footer>
+<!--[if gte IE 9 | !IE ]><!-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+<script src="/assets/lib/gcweb-dist/wet-boew/js/wet-boew.min.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script src="/assets/lib/gcweb-dist/wet-boew/js/ie8-wet-boew2.min.js"></script>
+
+<![endif]-->
+<script src="/assets/lib/gcweb-dist/GCWeb/js/theme.min.js"></script>
+<script src="/assets/js/cds-app.js"></script>
+
+<!-- Google Analytics -->
+{% include cds/analytics.html %}
+
+</body>
+</html>
