@@ -567,3 +567,30 @@ article.post {
 
 	}
 }
+
+// TODO - update general CSS for the main content section
+// and create specialized H3's etc. where needed.
+
+.page-legal {
+	h2 {
+		font-weight: 500;
+
+		@include desktop {
+			font-size: 2.9rem;
+			margin: 4.75rem 0 1rem 0;
+		}
+	}
+
+	h3 {
+		font-weight: 500;
+
+		@include desktop {
+			font-size: 2.45rem;
+			margin: 3.0rem 0 1.5rem 0;
+		}
+	}
+
+	p + ul {
+		margin-top: 0.5em;
+	}
+}
