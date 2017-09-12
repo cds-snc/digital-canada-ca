@@ -30,6 +30,7 @@ en:
   trans-abbr: "en"
   trans-base-url: "http://numerique.canada.ca"
   twitter: "CDS_GC"
+  ceo-loc-header: "Ottawa, Ontario"
 fr:
   about-this-site: "À propos du site"
   aria-canada-website: "Lien vers Canada.ca"
@@ -62,3 +63,4 @@ fr:
   trans-abbr: "fr"
   trans-base-url: "http://digital.canada.ca"
   twitter: "SNC_GC"
+  ceo-loc-header: "Ottawa (Ontario)"
