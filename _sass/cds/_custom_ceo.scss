@@ -167,7 +167,15 @@ $talent-textblue: #18385D;
 			}
 		}
 
-		.candidate-item { margin-bottom: 4rem; }
+		.candidate-item { 
+			margin-bottom: 4rem; 
+
+			@include tablet {
+				@-moz-document url-prefix() {
+					height: 391px;
+				}
+			}
+		}
 
 		.text {
 			text-align: center;
