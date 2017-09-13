@@ -73,4 +73,34 @@ $(document).ready(function() {
 	$("#wb-cont a[href^='http://']").attr("target","_blank");
 	$("#wb-cont a[href^='https://']").attr("target","_blank");
 
+	$('#contactForm').submit(function(event) {
+		event.preventDefault();
+
+		var data = {
+            name: $('#name').val(),
+            email: $('#email').val(),
+            stream: $('#stream').val(),
+            body: $('#body').val(),
+            work_link: $('#work_link').val(),
+            work_link_2: $('#work_link_2').val()
+        }
+
+        $.ajax({
+            type: 'POST',
+            url: 'https://109c1buw3d.execute-api.us-east-1.amazonaws.com/prod/SendRecruitmentEmail',
+            dataType: 'text',
+            data: JSON.stringify(data),
+            complete: function(r) {
+                console.log(r.responseText);
+            },
+            success: function() {
+                window.location.href = "/success/";
+            },
+            error: function(xhr, textStatus, errorThrown) {
+                window.location.href = "/error/";
+            }
+        });
+
+	});
+
 }); 

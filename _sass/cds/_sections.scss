@@ -449,7 +449,7 @@
 	.text { 
 		font-size: 1.5rem;
 		font-weight: 100;
-		margin-bottom: 3rem;
+		margin-bottom: 2rem;
 		color: $black;
 	}
 
@@ -465,18 +465,40 @@
 		font-size: 2rem;
 		color: $black;
 		padding-top: 0.25rem;
+		position: relative;
+		//margin-bottom: 0rem;
+	}
+
+	.fixed-height {
+		height: 9rem;
+
+		@include desktop {
+			height: 7rem
+		}
+
+		@include tablet {
+			height: 7rem;
+		}
 	}
 
 	.number-icon:after{
 
-		@include desktop{
-			content: "|";
-			font-size: 5rem;
-			font-weight:100;
-			position: absolute;
-			top: 26px;
-			left: 28px;
+		content: "";
+
+		position: absolute;
+		top: 100%;
+		left: 48%;
+		height: 9rem;
+
+		@include desktop {
+			height: 5rem;
 		}
+
+		@include tablet {
+			height: 5rem;
+		}
+
+		border-left: $black 3px solid;
 
 	}
 
@@ -494,6 +516,10 @@
 		padding-top: 0.25rem;
 	}
 
+	.row {
+		margin-bottom: 0rem;
+	}
+
 
 	h3 {
 		
@@ -506,30 +532,30 @@
 	&.design-modal {
 
 		.modal-header{
-			background-color: $primary-color;
+			background-color: #F0CB4E;
 		}
 
 		.modal-body {
-			background-color: $primary-color;
+			background-color: #F0CB4E;
 		}
 
 		.modal-footer {
-			background: $primary-color !important; 
+			background: #F0CB4E !important; 
 		}
 	}
 
 	&.developer-modal {
 
 		.modal-header{
-			background-color: #ef925f;
+			background-color: #E99267;
 		}
 
 		.modal-body {
-			background-color: #ef925f;
+			background-color: #E99267;
 		}
 
 		.modal-footer {
-			background: #ef925f !important; 
+			background: #E99267 !important; 
 		}
 
 	}
@@ -537,15 +563,15 @@
 	&.data-modal {
 
 		.modal-header{
-			background-color: #ed7155;
+			background-color: #E5817A;
 		}
 
 		.modal-body {
-			background-color: #ed7155;
+			background-color: #E5817A;
 		}
 
 		.modal-footer {
-			background: #ed7155 !important; 
+			background: #E5817A!important; 
 		}
 
 	}
@@ -553,15 +579,15 @@
 	&.product-manager-modal {
 
 		.modal-header{
-			background-color: #53c1a4;
+			background-color: #B9A2CD;
 		}
 
 		.modal-body {
-			background-color: #53c1a4;
+			background-color: #B9A2CD;
 		}
 
 		.modal-footer {
-			background: #53c1a4 !important; 
+			background: #B9A2CD !important; 
 		}
 
 	}
@@ -569,21 +595,37 @@
 	&.engagement-modal {
 
 		.modal-header{
-			background-color: #50a3b7;
+			background-color: #67B3CF;
 		}
 
 		.modal-body {
-			background-color: #50a3b7;
+			background-color: #67B3CF;
 		}
 
 		.modal-footer {
-			background: #50a3b7 !important; 
+			background: #67B3CF !important; 
 		}
 
 	}
 
-	&.how-to-apply-modal {
-		background-color: #7795a3;
+	&.privacy-modal {
+
+		.container {
+			border: none;
+		}
+
+		.modal-header{
+			background-color: #739FAF;
+		}
+
+		.modal-body {
+			background-color: $white;
+			color: $black;
+		}
+
+		.modal-footer {
+			background: #739FAF !important; 
+		}
 	}
 
 }
@@ -641,20 +683,6 @@
 		padding 		: 5rem 0 3rem 0;
 	}
 
-	h3 {
-		
-		font-weight : 100;
-		line-height : 2.75rem;
-		margin 		: 2rem 0;
-
-		@include tablet {
-			font-size	: 2.4rem;
-			font-weight	: 300;
-			line-height	: 3.2rem;
-			margin-top	: 5rem;
-		}
-	}
-
 	.custom-icon {
 
 		border 			: $primary-color 5px solid;
@@ -697,34 +725,30 @@
 		}
 	}
 
-	/*.acc-group {
-		list-style-type: none;
-	}*/
-
 	.stream {
 	
 		&.design-stream {
-			background-color: $primary-color;
+			background-color: #F0CB4E;
 		}
 
 		&.developer-stream {
-			background-color: #ef925f;
+			background-color: #E99267;
 		}
 
 		&.data-stream {
-			background-color: #ed7155;
+			background-color: #E5817A;
 		}
 
 		&.product-manager-stream {
-			background-color: #53c1a4;
+			background-color: #B9A2CD;
 		}
 
 		&.engagement-stream {
-			background-color: #50a3b7;
+			background-color: #67B3CF;
 		}
 
 		&.how-to-apply {
-			background-color: #7795a3;
+			background-color: #739FAF;
 
 			input, textarea, select {
 				width: 100%;
@@ -742,7 +766,6 @@
 			border-bottom: $dark-grey 1px solid;
 			margin: 0 auto;
 			padding-top: 2rem; 
-			//padding-bottom: 2rem;
 			font-weight: 100;
 
 			@include desktop {
@@ -750,11 +773,6 @@
 				padding-top: 4rem;
 				padding-bottom: 4rem;
 			}
-		}
-
-		&.stream-header {
-			height: 5rem;
-			overflow: hidden;
 		}
 
 		&.button-container {
@@ -827,54 +845,154 @@
 		@include desktop 	{ margin-top	: 1rem; }
 	}
 
-	.arrow-icon {
-		i {
-			font-size: 2rem;
-			color: $black;
-
-		}
-
-		i:hover {
-			color: $black;
-		}
-
-		@include desktop {
-			text-align: left;
-			padding: 3.5rem;
-		}
-	}
 
 	details {
 		border: none;
 		color: $black;
 		margin-bottom: 0rem;
-		list-style-type: none !important;
 	} 
+
+	%header-icon-block {
+		height: 10rem;
+		width: 10rem;
+		border-radius: 50%;
+		border: $black 5px solid;
+		background-size: 5rem;
+		content: "";
+		display: block;
+		margin: 0 auto;
+		
+
+		@include desktop {
+			display: block;
+			position: relative;
+			float: left;
+			top: 1rem;
+		}
+	}
 
 	details summary {
 		@extend details;
 		text-decoration: none;
 		outline: none;
-		
-    	height: 10rem;
-    	overflow: hidden;
-    	display: block;
-    	position: relative;
-    	bottom: 1.75rem;
-    	padding: 0rem;
+		width: 75%;
+		height: 20rem;
+		margin: 0 auto;
+		list-style-type: none !important;
 
+		@include desktop {
+			height: 15rem;
+		}
+
+
+		&.design-header:before {
+			@extend %header-icon-block; 
+			background: $white url('/assets/img/icons/Design1.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&.developer-header:before {
+			@extend %header-icon-block; 
+			background: $white url('/assets/img/icons/Dev1.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&.data-header:before {
+			@extend %header-icon-block; 
+			background: $white url('/assets/img/icons/Data1.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&.product-header:before {
+			@extend %header-icon-block; 
+			background: $white url('/assets/img/icons/Prod1.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&.engagement-header:before {
+			@extend %header-icon-block; 
+			background: $white url('/assets/img/icons/Engagement1.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&.how-to-apply-header:before {
+			@extend %header-icon-block;
+			background: $white url('/assets/img/icons/np_question.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&:hover {
+			h3 {
+				color: $white;
+			}
+		}
+
+		&:focus {
+			@extend :hover;
+		}
+
+		&::after {
+			content: "\25BA\a0";
+			display: block;
+			margin: 0 auto;
+			padding-bottom: 2rem;
+
+			@include desktop {
+				float: right;
+				position: relative;
+				top: 5.75rem;
+				left: -5rem;
+			}
+		}
+
+		&::-webkit-details-marker {
+			display: none;
+		}
+
+		h3 {
+			font-weight : 130;
+			font-size 	: 3rem;
+			display: block;
+			line-height: 6rem;
+			margin: 0 auto;
+			transition: all 0.3s ease-in-out;
+
+
+			@include desktop {
+				display: inline-block;
+				position: relative;
+				line-height: 3rem;
+				top: 5rem;
+				right: 5rem;
+			}
+		}
 	}
 
-	details summary:hover {
-		color: $dark-grey;
-	}
+	details[open] > summary {
 
-	h3 {
-		
-		font-weight : 130;
-		line-height : 2.75rem;
-		font-size 	: 3rem;
-		padding: 1rem;
+		&:hover {
+			h3 {
+				color: $black;
+			}
+		}
+
+		&:focus {
+			@extend :hover;
+		}
+
+		&::after {
+			content: "\25BC\a0";
+			display: block;
+			margin: 0 auto;
+
+			@include desktop {
+				position: relative;
+				top: 5.75rem;
+				float: right;
+				left: -5rem;
+			}
+		}
+
 	}
 
 	.text { 
@@ -883,7 +1001,6 @@
 		margin-bottom: 4.0rem;
 	}
 }
-
 
 
 ////////////////////////////////////////////////////
