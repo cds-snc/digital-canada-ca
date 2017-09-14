@@ -466,7 +466,6 @@
 		color: $black;
 		padding-top: 0.25rem;
 		position: relative;
-		//margin-bottom: 0rem;
 	}
 
 	.fixed-height {
@@ -861,6 +860,7 @@
 		content: "";
 		display: block;
 		margin: 0 auto;
+		transition: all 0.3s ease-in-out;
 		
 
 		@include desktop {
@@ -885,46 +885,44 @@
 		}
 
 
-		&.design-header:before {
+		&.design-header::before {
 			@extend %header-icon-block; 
 			background: $white url('/assets/img/icons/Design1.svg') no-repeat center;
 			background-size: 5rem;
 		}
 
-		&.developer-header:before {
+		&.developer-header::before {
 			@extend %header-icon-block; 
 			background: $white url('/assets/img/icons/Dev1.svg') no-repeat center;
 			background-size: 5rem;
 		}
 
-		&.data-header:before {
+		&.data-header::before {
 			@extend %header-icon-block; 
 			background: $white url('/assets/img/icons/Data1.svg') no-repeat center;
 			background-size: 5rem;
 		}
 
-		&.product-header:before {
+		&.product-header::before {
 			@extend %header-icon-block; 
 			background: $white url('/assets/img/icons/Prod1.svg') no-repeat center;
 			background-size: 5rem;
 		}
 
-		&.engagement-header:before {
+		&.engagement-header::before {
 			@extend %header-icon-block; 
 			background: $white url('/assets/img/icons/Engagement1.svg') no-repeat center;
 			background-size: 5rem;
 		}
 
-		&.how-to-apply-header:before {
+		&.how-to-apply-header::before {
 			@extend %header-icon-block;
 			background: $white url('/assets/img/icons/np_question.svg') no-repeat center;
 			background-size: 5rem;
 		}
 
 		&:hover {
-			h3 {
-				color: $white;
-			}
+			color: $white;
 		}
 
 		&:focus {
@@ -936,6 +934,7 @@
 			display: block;
 			margin: 0 auto;
 			padding-bottom: 2rem;
+			transition: all 0.3s ease-in-out;
 
 			@include desktop {
 				float: right;
@@ -984,6 +983,7 @@
 			content: "\25BC\a0";
 			display: block;
 			margin: 0 auto;
+			color: $black;
 
 			@include desktop {
 				position: relative;
@@ -999,6 +999,10 @@
 		font-size: 1.5rem;
 		margin-top: 2.0rem;
 		margin-bottom: 4.0rem;
+	}
+
+	.checkbox {
+		text-align: left;
 	}
 }
 

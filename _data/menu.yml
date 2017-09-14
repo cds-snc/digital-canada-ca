@@ -8,6 +8,9 @@ en:
   our_team:
     name: "Our team"
     url: "/our-team"
+  work_with_us:
+    name: "Work with us"
+    url: "/work-with-us"
   blog:
     name: "Blog"
     url: "/blog"
@@ -24,6 +27,9 @@ fr:
   our_team:
     name: "Notre équipe"
     url: "/notre-equipe"
+  work_with_us:
+    name: "Travaillez avec nous"
+    url: "/travaillez-avec-nous"
   blog:
     name: "Blogue"
     url: "/blogue"

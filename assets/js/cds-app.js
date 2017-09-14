@@ -73,18 +73,26 @@ $(document).ready(function() {
 	$("#wb-cont a[href^='http://']").attr("target","_blank");
 	$("#wb-cont a[href^='https://']").attr("target","_blank");
 
+	//Application form controls
 	$('#contactForm').submit(function(event) {
 		event.preventDefault();
 
-		var data = {
+        var streams = $('input:checkbox:checked').map(function() {
+            return this.value;
+        }).get();
+
+        var data = {
             name: $('#name').val(),
             email: $('#email').val(),
-            stream: $('#stream').val(),
+            streams: streams,
             body: $('#body').val(),
             work_link: $('#work_link').val(),
             work_link_2: $('#work_link_2').val()
         }
 
+        var pageLanguage = $('html').attr('lang');
+
+       
         $.ajax({
             type: 'POST',
             url: 'https://109c1buw3d.execute-api.us-east-1.amazonaws.com/prod/SendRecruitmentEmail',
@@ -94,10 +102,20 @@ $(document).ready(function() {
                 console.log(r.responseText);
             },
             success: function() {
-                window.location.href = "/success/";
+                if (pageLanguage == 'en') {
+        			window.location.href = "/success/";
+        		}
+        		else {
+        			window.location.href = "/reussi/";
+        		}
             },
             error: function(xhr, textStatus, errorThrown) {
-                window.location.href = "/error/";
+                if (pageLanguage == 'en') {
+        			window.location.href = "/error/";
+        		}
+        		else {
+        			window.location.href = "/erreur/";
+        		}
             }
         });
 
