@@ -749,7 +749,16 @@
 		&.how-to-apply {
 			background-color: #739FAF;
 
-			input, textarea, select {
+			input[type=text] {
+				width: 100%;
+			}
+			input[type=url] {
+				width: 100%;
+			}
+			input[type=email] {
+				width: 100%;
+			}
+			textarea {
 				width: 100%;
 			}
 		}
@@ -1003,6 +1012,30 @@
 
 	.checkbox {
 		text-align: left;
+	}
+
+	.privacy-notice-link {
+		display:block;
+		margin-top: 1rem;
+
+		.button {
+			background-color: #739FAF;
+			border-radius: 0rem;
+			border-bottom: $black 1px dotted;
+			border-left: 0rem;
+			border-top: 0rem;
+			border-right: 0rem;
+			padding: 0.25rem;
+			color: $black;
+			font-weight: bold;
+			transition: all 0.3s ease-in-out;
+
+			&:hover {
+				color: $white;
+				border-bottom: $white 1px dotted;
+			}
+		}
+
 	}
 }
 
