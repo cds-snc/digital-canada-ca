@@ -378,6 +378,654 @@
 //
 ////////////////////////////////////////////////////
 
+////////////////////////////////////////////////////
+//
+// WORK WITH US
+//
+////////////////////////////////////////////////////
+
+///// MODAL STYLES
+
+.work-with-us--modal {
+
+	.modal-header {
+		color: $black;
+		padding: 2rem;
+		border: none;
+		text-align: center;
+
+		.cds-icon{
+			i {
+				border 			: $black 5px solid;
+				border-radius	: 50%;
+				font-size 		: 3.5rem;
+				padding 		: 3rem;
+				color: $black;
+				background-color: $white;
+				height: 10rem;
+				width: 10rem;
+				text-align: center;
+
+				@include desktop {
+					font-size 	: 5rem;
+					padding 	: 2rem;
+				}
+			}
+
+			@include desktop {
+				text-align: right;
+			}
+		}
+
+		.container {
+			width: 90%;
+			border: none;
+			padding: 0rem;
+		}
+	}
+
+	.modal-footer {
+		border: none;
+
+		.btn {
+			background-color: $black;
+			color: $white;
+			border-color: $black;
+
+			&:hover {
+				border-color: $light-grey;
+			}
+		}
+	}
+
+	.container {
+		width: 85%;
+		border-bottom: $black 1px solid;
+		border-top: $black 1px solid;
+		padding-bottom: 3rem; 
+		padding-top: 3rem;
+	}
+
+	.text { 
+		font-size: 1.5rem;
+		font-weight: 100;
+		margin-bottom: 2rem;
+		color: $black;
+	}
+
+	.number-icon {
+		background-color: $white;
+		border: $black 3px solid;
+		border-radius: 50%;
+		height: 4rem;
+		width: 4rem;
+		vertical-align: middle;
+		display: table-cell;
+		text-align: center;
+		font-size: 2rem;
+		color: $black;
+		padding-top: 0.25rem;
+		position: relative;
+	}
+
+	.fixed-height {
+		height: 9rem;
+
+		@include desktop {
+			height: 7rem
+		}
+
+		@include tablet {
+			height: 7rem;
+		}
+	}
+
+	.number-icon:after{
+
+		content: "";
+
+		position: absolute;
+		top: 100%;
+		left: 48%;
+		height: 9rem;
+
+		@include desktop {
+			height: 5rem;
+		}
+
+		@include tablet {
+			height: 5rem;
+		}
+
+		border-left: $black 3px solid;
+
+	}
+
+	.number-icon-last {
+		background-color: $white;
+		border: $black 3px solid;
+		border-radius: 50%;
+		height: 4rem;
+		width: 4rem;
+		vertical-align: middle;
+		display: table-cell;
+		text-align: center;
+		font-size: 2rem;
+		color: $black;
+		padding-top: 0.25rem;
+	}
+
+	.row {
+		margin-bottom: 0rem;
+	}
+
+
+	h3 {
+		
+		font-weight : 130;
+		line-height : 2.75rem;
+		font-size 	: 3rem;
+		padding: 1rem;
+	}
+
+	&.design-modal {
+
+		.modal-header{
+			background-color: #F0CB4E;
+		}
+
+		.modal-body {
+			background-color: #F0CB4E;
+		}
+
+		.modal-footer {
+			background: #F0CB4E !important; 
+		}
+	}
+
+	&.developer-modal {
+
+		.modal-header{
+			background-color: #E99267;
+		}
+
+		.modal-body {
+			background-color: #E99267;
+		}
+
+		.modal-footer {
+			background: #E99267 !important; 
+		}
+
+	}
+
+	&.data-modal {
+
+		.modal-header{
+			background-color: #E5817A;
+		}
+
+		.modal-body {
+			background-color: #E5817A;
+		}
+
+		.modal-footer {
+			background: #E5817A!important; 
+		}
+
+	}
+
+	&.product-manager-modal {
+
+		.modal-header{
+			background-color: #B9A2CD;
+		}
+
+		.modal-body {
+			background-color: #B9A2CD;
+		}
+
+		.modal-footer {
+			background: #B9A2CD !important; 
+		}
+
+	}
+
+	&.engagement-modal {
+
+		.modal-header{
+			background-color: #67B3CF;
+		}
+
+		.modal-body {
+			background-color: #67B3CF;
+		}
+
+		.modal-footer {
+			background: #67B3CF !important; 
+		}
+
+	}
+
+	&.privacy-modal {
+
+		.container {
+			border: none;
+		}
+
+		.modal-header{
+			background-color: #739FAF;
+		}
+
+		.modal-body {
+			background-color: $white;
+			color: $black;
+		}
+
+		.modal-footer {
+			background: #739FAF !important; 
+		}
+	}
+
+}
+
+.work-with-us--intro {
+	text-align	: center;
+
+	.container {
+		max-width: 80rem;
+	}
+
+	.text { 
+		font-size: 2.5rem;
+		margin-top: 1.0rem;
+	}
+}
+
+.work-with-us--details {
+	text-align	: center;
+	border-top	: $medium-grey 1px solid;
+
+	.container {
+		max-width: 80rem;
+	}
+
+	@include desktop { 
+		padding-top: 3.0rem; 
+	}
+
+	.text { 
+		font-size: 2.5rem;
+		margin-top: 1.0rem;
+	}
+}
+
+.work-with-us--looking-for {
+	//background 		: -webkit-gradient(linear, 0 top, 0 bottom, from(rgba($black,0.85)), to(rgba($black,0.85))), url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat, $dark-grey;
+	//background 		: -webkit-gradient(linear, 0 top, 0 bottom, from(rgba($black,0.85)), to(rgba($black,0.85))), url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat, $dark-grey;
+	background 		: url('/assets/img/cds/header-images/looking-for.jpg') center center no-repeat;
+	background-color: #0f0a08;
+	background-size	: cover;
+	color 			: $white;
+	font-weight:100;
+	text-align: center;
+
+	.container {
+		max-width: 100rem;
+	}
+
+	@include desktop {
+		background-attachment: fixed;
+	}
+
+	@include tablet {
+		padding 		: 5rem 0 3rem 0;
+	}
+
+	.custom-icon {
+
+		border 			: $primary-color 5px solid;
+		border-radius	: 50%;
+		height: 10rem;
+		width: 10rem;
+		padding 		: 2rem;
+		color: $black;
+		background-color: $white;
+		margin: 0 auto;
+
+		@include desktop {
+			height: 15rem;
+			width: 15rem;
+		}
+
+	}
+
+	.text { 
+		margin-top: 2.0rem;
+		margin-bottom: 2.0rem;
+	}
+
+
+}
+
+.work-with-us--streams {
+	text-align: center;
+	width: 100%;
+	margin-top:0rem;
+	padding: 0rem;
+
+	.button {
+		background-color: $black;
+		color: $white;
+		border-color: $black;
+
+		&:hover {
+			border-color: $light-grey;
+		}
+	}
+
+	.stream {
+	
+		&.design-stream {
+			background-color: #F0CB4E;
+		}
+
+		&.developer-stream {
+			background-color: #E99267;
+		}
+
+		&.data-stream {
+			background-color: #E5817A;
+		}
+
+		&.product-manager-stream {
+			background-color: #B9A2CD;
+		}
+
+		&.engagement-stream {
+			background-color: #67B3CF;
+		}
+
+		&.how-to-apply {
+			background-color: #739FAF;
+
+			input, textarea, select {
+				width: 100%;
+			}
+		}
+
+	}
+
+	.container {
+		width: 100%;
+
+		&.stream-content {
+			width: 90%;
+			border-top: $dark-grey 1px solid;
+			border-bottom: $dark-grey 1px solid;
+			margin: 0 auto;
+			padding-top: 2rem; 
+			font-weight: 100;
+
+			@include desktop {
+				width: 80%;
+				padding-top: 4rem;
+				padding-bottom: 4rem;
+			}
+		}
+
+		&.button-container {
+			margin-top: 3rem;
+		}
+
+	}
+
+	.cds-icon{
+		i {
+			border 			: $black 5px solid;
+			border-radius	: 50%;
+			font-size 		: 3.5rem;
+			padding 		: 3rem;
+			color: $black;
+			background-color: $white;
+			height: 10rem;
+			width: 10rem;
+			text-align: center;
+
+			@include desktop {
+				font-size 	: 5rem;
+				padding 	: 2rem;
+			}
+		}
+
+		@include desktop {
+			text-align: right;
+		}
+	}
+
+	.fixed-height {
+		min-height: 40rem;
+
+		@include tablet {
+			min-height: 30rem;
+		}
+
+		@include desktop {
+			min-height: 30rem !important; 
+		}
+
+	}
+
+	.custom-icon {
+		border 			: $black 5px solid;
+		border-radius	: 50%;
+		padding 		: 1.5rem;
+		color: $black;
+		background-color: $white;
+		height: 10rem;
+		width: 10rem;
+		margin: 0 auto;
+
+		&.stream-header {
+			@include desktop {
+				float: right;
+			}
+		}
+
+		@media print {
+			display: none;
+		}
+	}
+
+	.icon-text {
+		margin-top: 1.5rem;
+
+		@include tablet 	{ margin-bottom	: 4rem; }
+		@include desktop 	{ margin-top	: 1rem; }
+	}
+
+
+	details {
+		border: none;
+		color: $black;
+		margin-bottom: 0rem;
+	} 
+
+	%header-icon-block {
+		height: 10rem;
+		width: 10rem;
+		border-radius: 50%;
+		border: $black 5px solid;
+		background-size: 5rem;
+		content: "";
+		display: block;
+		margin: 0 auto;
+		transition: all 0.3s ease-in-out;
+		
+
+		@include desktop {
+			display: block;
+			position: relative;
+			float: left;
+			top: 1rem;
+		}
+	}
+
+	details summary {
+		@extend details;
+		text-decoration: none;
+		outline: none;
+		width: 75%;
+		height: 20rem;
+		margin: 0 auto;
+		list-style-type: none !important;
+
+		@include desktop {
+			height: 15rem;
+		}
+
+
+		&.design-header::before {
+			@extend %header-icon-block; 
+			background: $white url('/assets/img/icons/Design1.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&.developer-header::before {
+			@extend %header-icon-block; 
+			background: $white url('/assets/img/icons/Dev1.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&.data-header::before {
+			@extend %header-icon-block; 
+			background: $white url('/assets/img/icons/Data1.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&.product-header::before {
+			@extend %header-icon-block; 
+			background: $white url('/assets/img/icons/Prod1.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&.engagement-header::before {
+			@extend %header-icon-block; 
+			background: $white url('/assets/img/icons/Engagement1.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&.how-to-apply-header::before {
+			@extend %header-icon-block;
+			background: $white url('/assets/img/icons/np_question.svg') no-repeat center;
+			background-size: 5rem;
+		}
+
+		&:hover {
+			color: $white;
+		}
+
+		&:focus {
+			@extend :hover;
+		}
+
+		&::after {
+			content: "\25BA\a0";
+			display: block;
+			margin: 0 auto;
+			padding-bottom: 2rem;
+			transition: all 0.3s ease-in-out;
+
+			@include desktop {
+				float: right;
+				position: relative;
+				top: 5.75rem;
+				left: -5rem;
+			}
+		}
+
+		&::-webkit-details-marker {
+			display: none;
+		}
+
+		h3 {
+			font-weight : 130;
+			font-size 	: 3rem;
+			display: block;
+			line-height: 6rem;
+			margin: 0 auto;
+			transition: all 0.3s ease-in-out;
+
+
+			@include desktop {
+				display: inline-block;
+				position: relative;
+				line-height: 3rem;
+				top: 5rem;
+				right: 5rem;
+			}
+		}
+	}
+
+	details[open] > summary {
+
+		&:hover {
+			h3 {
+				color: $black;
+			}
+		}
+
+		&:focus {
+			@extend :hover;
+		}
+
+		&::after {
+			content: "\25BC\a0";
+			display: block;
+			margin: 0 auto;
+			color: $black;
+
+			@include desktop {
+				position: relative;
+				top: 5.75rem;
+				float: right;
+				left: -5rem;
+			}
+		}
+
+	}
+
+	.text { 
+		font-size: 1.5rem;
+		margin-top: 2.0rem;
+		margin-bottom: 4.0rem;
+	}
+
+	.privacy-notice-link {
+		display:block;
+		margin-top: 1rem;
+
+		.button {
+			background-color: #739FAF;
+			border-radius: 0rem;
+			border-bottom: $black 1px dotted;
+			border-left: 0rem;
+			border-top: 0rem;
+			border-right: 0rem;
+			padding: 0.25rem;
+			color: $black;
+			font-weight: bold;
+			transition: all 0.3s ease-in-out;
+
+			&:hover {
+				color: $white;
+				border-bottom: $white 1px dotted;
+			}
+		}
+
+	}
+}
+
 
 ////////////////////////////////////////////////////
 //
