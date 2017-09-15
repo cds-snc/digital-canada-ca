@@ -722,7 +722,24 @@
 		&:hover {
 			border-color: $light-grey;
 		}
+
 	}
+
+	.spinner {
+  		display: inline-block;
+  		opacity: 0;
+  		max-width: 0px;
+        -webkit-transition: opacity 0.25s, max-width 0.45s;
+        -moz-transition: opacity 0.25s, max-width 0.45s;
+        -o-transition: opacity 0.25s, max-width 0.45s;
+        transition: opacity 0.25s, max-width 0.45s;
+
+        &.active {
+        	opacity: 1;
+  			max-width: 50px;
+        }
+	}
+
 
 	.stream {
 	

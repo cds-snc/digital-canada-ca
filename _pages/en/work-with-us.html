@@ -527,13 +527,13 @@ trans_url: '/travaillez-avec-nous/'
 									<div class="form-group">
 										<label for="name" class="col-sm-3 control-label">Full Name</label>
 										<div class="col-sm-9">
-											<input type="text" class="form-control" id="name" placeholder="Full name" />
+											<input type="text" class="form-control" id="name" placeholder="Full name" required="required"/>
 										</div>
 									</div>
 									<div class="form-group">
 										<label for="email" class="col-sm-3 control-label">Email</label>
 										<div class="col-sm-9">
-											<input type="email" class="form-control" id="email" placeholder="Email" />
+											<input type="email" class="form-control" id="email" placeholder="Email" required="required"/>
 										</div>
 									</div>
 
@@ -554,13 +554,13 @@ trans_url: '/travaillez-avec-nous/'
 									<div class="form-group">
 										<label for="body" class="col-sm-3 control-label">Why you want<br>to work with us?<br>(150 words)</label>
 										<div class="col-sm-9">
-											<textarea class="form-control" id="body" rows="10" maxlength="150"></textarea>
+											<textarea class="form-control" id="body" rows="10" maxlength="150" required="required"></textarea>
 										</div>
 									</div>
 									<div class="form-group">
 										<label for="work_link" class="col-sm-3 control-label">Work Samples</label>
 										<div class="col-sm-9">
-											<input type="url" class="form-control" id="work_link" placeholder="Url" />
+											<input type="url" class="form-control" id="work_link" placeholder="Url" required="required" />
 										</div>
 									</div>
 									<div class="form-group">
@@ -570,7 +570,7 @@ trans_url: '/travaillez-avec-nous/'
 										</div>
 									</div>
                                     <div class="col-sm-9 col-sm-offset-3 text-left">
-									    <button type ="submit" class="button">Submit</button>
+									    <button type ="submit" class="button" id="submitButton"><span class="spinner" id="buttonSpinner"><i class="fa fa-refresh fa-spin"></i></span>Submit</button>
                                     </div>
 								</form>
 			    			</div>
