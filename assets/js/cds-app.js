@@ -77,14 +77,10 @@ $(document).ready(function() {
 	$('#contactForm').submit(function(event) {
 		event.preventDefault();
 
-        var streams = $('input:checkbox:checked').map(function() {
-            return this.value;
-        }).get();
-
         var data = {
             name: $('#name').val(),
             email: $('#email').val(),
-            streams: streams,
+            stream: $('#streams').val(),
             body: $('#body').val(),
             work_link: $('#work_link').val(),
             work_link_2: $('#work_link_2').val()

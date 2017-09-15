@@ -749,16 +749,7 @@
 		&.how-to-apply {
 			background-color: #739FAF;
 
-			input[type=text] {
-				width: 100%;
-			}
-			input[type=url] {
-				width: 100%;
-			}
-			input[type=email] {
-				width: 100%;
-			}
-			textarea {
+			input, textarea, select {
 				width: 100%;
 			}
 		}
@@ -1008,10 +999,6 @@
 		font-size: 1.5rem;
 		margin-top: 2.0rem;
 		margin-bottom: 4.0rem;
-	}
-
-	.checkbox {
-		text-align: left;
 	}
 
 	.privacy-notice-link {
