@@ -73,9 +73,13 @@ $(document).ready(function() {
 	$("#wb-cont a[href^='http://']").attr("target","_blank");
 	$("#wb-cont a[href^='https://']").attr("target","_blank");
 
+
 	//Application form controls
 	$('#contactForm').submit(function(event) {
 		event.preventDefault();
+
+       $('#submitButton').attr("disabled", true);
+       $('#buttonSpinner').toggleClass('active');
 
         var data = {
             name: $('#name').val(),
@@ -87,7 +91,6 @@ $(document).ready(function() {
         }
 
         var pageLanguage = $('html').attr('lang');
-
        
         $.ajax({
             type: 'POST',
