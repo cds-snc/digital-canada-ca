@@ -76,7 +76,6 @@ $(document).ready(function() {
 
 	//Application form controls
 	$('#contactForm').submit(function(event) {
-        console.log('test');
 		event.preventDefault();
 
        $('#submitButton').attr("disabled", true);
