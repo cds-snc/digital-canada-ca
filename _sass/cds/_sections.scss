@@ -394,6 +394,14 @@
 		border: none;
 		text-align: center;
 
+		h3 {
+		
+			font-weight : 130;
+			line-height : 2.75rem;
+			font-size 	: 3rem;
+			padding: 1rem;
+		}
+
 		.cds-icon{
 			i {
 				border 			: $black 5px solid;
@@ -480,6 +488,7 @@
 		@include mobile_only{
 			display: block;
 			margin: 0 auto;
+			padding-top: 0.5rem;
 		}
 	}
 
@@ -528,17 +537,8 @@
 		@include mobile_only{
 			display: block;
 			margin: 0 auto;
+			padding-top: 0.5rem;
 		}
-	}
-
-
-
-	h3 {
-		
-		font-weight : 130;
-		line-height : 2.75rem;
-		font-size 	: 3rem;
-		padding: 1rem;
 	}
 
 	&.design-modal {
