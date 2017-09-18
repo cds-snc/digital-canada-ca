@@ -444,6 +444,11 @@
 		border-top: $black 1px solid;
 		padding-bottom: 3rem; 
 		padding-top: 3rem;
+
+		@include mobile_only {
+			width: 95%;
+			text-align: center;
+		}
 	}
 
 	.text { 
@@ -451,32 +456,30 @@
 		font-weight: 100;
 		margin-bottom: 2rem;
 		color: $black;
+
+		@include mobile_only {
+			margin-top: 1rem;
+		}
 	}
 
 	.number-icon {
 		background-color: $white;
+		color: $black;
 		border: $black 3px solid;
 		border-radius: 50%;
+		text-align: center;
+		padding-top: 0.25rem;
 		height: 4rem;
 		width: 4rem;
+		font-size: 2rem;
 		vertical-align: middle;
 		display: table-cell;
-		text-align: center;
-		font-size: 2rem;
-		color: $black;
-		padding-top: 0.25rem;
 		position: relative;
-	}
-
-	.fixed-height {
-		height: 9rem;
-
-		@include desktop {
-			height: 7rem
-		}
-
-		@include tablet {
-			height: 7rem;
+		background-color: $white;
+		
+		@include mobile_only{
+			display: block;
+			margin: 0 auto;
 		}
 	}
 
@@ -487,37 +490,47 @@
 		position: absolute;
 		top: 100%;
 		left: 48%;
-		height: 9rem;
-
-		@include desktop {
-			height: 5rem;
-		}
-
-		@include tablet {
-			height: 5rem;
-		}
-
+		height: 5rem;
 		border-left: $black 3px solid;
+
+
+		@include mobile_only {
+			display: none;
+		}
+
+	}
+
+	.fixed-height {
+		height: 7rem;
+
+		@include mobile_only {
+			height: 100%;
+		}
+
 
 	}
 
 	.number-icon-last {
 		background-color: $white;
+		color: $black;
 		border: $black 3px solid;
 		border-radius: 50%;
+		text-align: center;
+		padding-top: 0.25rem;
 		height: 4rem;
 		width: 4rem;
+		font-size: 2rem;
 		vertical-align: middle;
 		display: table-cell;
-		text-align: center;
-		font-size: 2rem;
-		color: $black;
-		padding-top: 0.25rem;
+		position: relative;
+		background-color: $white;
+		
+		@include mobile_only{
+			display: block;
+			margin: 0 auto;
+		}
 	}
 
-	.row {
-		margin-bottom: 0rem;
-	}
 
 
 	h3 {
@@ -893,9 +906,13 @@
 		text-decoration: none;
 		outline: none;
 		width: 75%;
-		height: 30rem;
+		height: 31rem;
 		margin: 0 auto;
 		list-style-type: none !important;
+
+		@include tablet {
+			height: 25rem;
+		}
 
 		@include desktop {
 			height: 15rem;
