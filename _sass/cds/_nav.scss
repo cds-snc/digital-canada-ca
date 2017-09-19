@@ -208,10 +208,7 @@
   &:last-child a {
     @include tablet { margin-right: 0; }
   }
-
-  // When blogpost, always have blog menu item active
-  .page-blogpost &:nth-child(4) a { border-bottom : $primary-color 4px solid; }
-
+  
 }
 
 ////////////////////////////////////////////////////////////
