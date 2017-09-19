@@ -50,6 +50,7 @@ team:
       fr: Communications
     image-name: annie-leblond.jpg
     twitter: leblond_annie
+    linkedin: annieleblond
     email: Annie.Leblond@tbs-sct.gc.ca
 
   - name: Dave Samojlenko
@@ -67,6 +68,15 @@ team:
     image-name: eva-demers-brett.jpg
     email: Eva.Demers-Brett@tbs-sct.gc.ca
 
+  - name: Eman El-Fayomi
+    title:
+      en: Deisgn | User Experience (UX)
+      fr: Conception | Expérience utilisateur (EU)
+    image-name: eman-el-fayomi.jpg
+    twitter: emanelfy
+    linkedin: eelfayomi
+    email: Eman.El-Fayomi@tbs-sct.gc.ca
+
   - name: James Mickle
     title:
       en: Policy | Research
@@ -74,6 +84,13 @@ team:
     image-name: james-mickle.jpg
     twitter: james_mickle
     linkedin: james-mickle-4b012796
+
+  - name: Jennifer Morin
+    title:
+      en: Operations | Staffing
+      fr: Opérations | Dotation 
+    image-name: jennifer-morin.jpg
+    email: Jennifer.Morin@tbs-sct.gc.ca
 
   - name: John Millons
     title:
@@ -93,21 +110,20 @@ team:
     email: Mario.Garneau@tbs-sct.gc.ca
     github: mcman12
 
-  - name: Megan Beretta
-    title:
-      en: Communications | Community
-      fr: Communications | Collectivité
-    image-name: megan-beretta.jpg
-    twitter: megberetta 
-    linkedin: meganberetta
-    email: megan.beretta@tbs-sct.gc.ca
-
   - name: Meera Makim Cunningham
     title: 
       en: Operations | Staffing
       fr: Opérations | Dotation
     image-name: meera-cunningham.jpg
     email: Meera.Cunningham@tbs-sct.gc.ca
+
+  - name: Melissa Poon
+    title: 
+      en: Communications
+      fr: Communications
+    image-name: melissa-poon.jpg
+    linkedin: melissaykpoon
+    email: Melissa.Poon@tbs-sct.gc.ca 
 
   - name: Mike Williamson
     title:
@@ -151,8 +167,8 @@ team:
 
   - name: Stéphane Tourangeau
     title:
-      en: Communications │ Learning
-      fr: Communications | Apprentissage
+      en: Learning │ Communications
+      fr: Apprentissage | Communications
     image-name: stephane-tourangeau.jpg
     twitter: stourang
     linkedin: stephanetourangeau
@@ -162,10 +178,9 @@ team:
     title:
       en: Policy | Data
       fr: Politique | Données
-    image-name: stevie-ray-talbot.jpg
+    image-name: steven-ray-talbot.jpg
     twitter: StevieRayTalbot
     email: Steven.Talbot@tbs-sct.gc.ca
-
 
   - name: Yeremia Djaja
     title:
