@@ -24,3 +24,6 @@ Le dirigeant principal du SNC siègera à la table de la haute direction du Secr
 Si, comme moi, vous êtes emballé par le défi qui se présente à nous comme gouvernement, j’espère que vous présenterez votre candidature. Ayant moi-même immigré au Canada, j’ai appris il y a longtemps à quel point les services sont importants. Que nous offrions des services aux immigrants, aux anciens combattants, aux personnes âgées ou aux nombreuses autres personnes et communautés de notre pays qui dépendent de nous, nous avons l’obligation de fournir des services qui sont faciles d’accès et simples à utiliser. 
   
 Il s’agit d’une occasion unique de mener le changement pour notre pays. Oui, vous ferez une différence. 
+
+{:.text-center}
+[Pour en savoir plus et postuler dès maintenant](/talent/dirigeant-principal){:.button}
