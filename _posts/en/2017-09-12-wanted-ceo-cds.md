@@ -24,3 +24,6 @@ The CEO of CDS will have a seat at the senior management table of the Treasury B
 If you’re excited by the opportunity we have before us as a government, as I am, I hope you will apply. As an immigrant to Canada, I learned the importance of service experience first-hand a long time ago. Whether we’re serving our nation’s immigrants, veterans, seniors, or the many other people and communities that depend on us, we have an obligation to provide services that are easy to access and simple to use.
 
 This is a unique opportunity to lead change for our country. You will make a difference.
+
+{:.text-center}
+[Learn more and apply now](/talent/ceo){:.button}
