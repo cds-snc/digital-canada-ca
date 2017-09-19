@@ -12,15 +12,5 @@ To contribute content edits, blog posts, or bugfixes, create a branch from `mast
 member of the publishing team will review your changes, and once approved, will merge and deploy.
 
 ## Branches and Deployment
-There are two protected branches: `master` and `production`.  
-
-Circle-ci will automatically build, test, and deploy anything that is pushed to the `production` branch.  
-
-## Pull Requests
-To make a change, first create a branch from `master` and create a Pull Request on Github.  In the Pull Request, please
-cite any issues your change addresses, or provide a brief description of the change.
-
-When complete, tag a member of the web team who should review and merge your PR.
-
-Once a PR has been reviewed and approved, publishers should merge changes into `master`, and then when ready to deploy, 
-merge `master` into `production` and push.
+`master` branch is protected and should be the target for all pull requests.  When a PR is merged to `master`,
+Circle-ci will automatically build, test, and deploy the branch.
