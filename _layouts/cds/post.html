@@ -1,55 +1,57 @@
 ---
 layout: cds/default
 ---
-<article class="post container" itemscope itemtype="http://schema.org/BlogPosting">
+<section class="container">
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <div class="post-header">
+    <div class="post-header">
 
-    <span class="blogpost-pretitle">
-      <a href="{{site.data.menu[page.lang].blog.url}}">{{site.data.menu[page.lang].blog.name}}</a>
-    </span>
-    <h1>{{ page.title }}</h1>
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
-      </time>
-      {% if page.author %}
-      <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-        <span itemprop="name">{{ page.author }}</span>
+      <span class="blogpost-pretitle">
+        <a href="{{site.data.menu[page.lang].blog.url}}">{{site.data.menu[page.lang].blog.name}}</a>
       </span>
-      {% endif %}</p>
-  </div>
+      <h1>{{ page.title }}</h1>
+      <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          {{ page.date | date: date_format }}
+        </time>
+        {% if page.author %}
+        <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span itemprop="name">{{ page.author }}</span>
+        </span>
+        {% endif %}</p>
+    </div>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
+    </div>
 
-  {% assign posts=site.posts | where:"lang",page.lang %}
+    {% assign posts=site.posts | where:"lang",page.lang %}
 
-  <div class="previous-next-nav">
-    <div class="previous">
-      {% for post in posts %}
-          {% if prev %}
-            <a href="{{ post.url }}">{{ site.data.trans[page.lang].previous-post }}</a>
+    <div class="previous-next-nav">
+      <div class="previous">
+        {% for post in posts %}
+            {% if prev %}
+              <a href="{{ post.url }}">{{ site.data.trans[page.lang].previous-post }}</a>
+            {% endif %}
+            {% assign prev = false %}
+            {% if post.id == page.id %}
+              {% assign prev = true %}
+            {% endif %}
+        {% endfor %}
+      </div>
+      <div class="next">
+        {% for post in posts reversed %}
+          {% if next %}
+            <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }}</a>
+              {% break %}
           {% endif %}
-          {% assign prev = false %}
+          {% assign next = false %}
           {% if post.id == page.id %}
-            {% assign prev = true %}
+            {% assign next = true %}
           {% endif %}
-      {% endfor %}
+        {% endfor %}
+      </div>
     </div>
-    <div class="next">
-      {% for post in posts reversed %}
-        {% if next %}
-          <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }}</a>
-            {% break %}
-        {% endif %}
-        {% assign next = false %}
-        {% if post.id == page.id %}
-          {% assign next = true %}
-        {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-</article>
+  </article>
+</section>
