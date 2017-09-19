@@ -9,9 +9,6 @@
     <meta content="width=device-width,initial-scale=1" name="viewport">
     <!-- Meta data -->
     <meta name="description" content="{{ page.description }}">
-    {% if page.no_index == 1 %}
-    <meta name="robots" content="noindex">
-    {% endif %}
     <!-- Meta data-->
     <!--[if gte IE 9 | !IE ]><!-->
     <link href="/assets/lib/gcweb-dist/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon">
@@ -113,14 +110,21 @@
             <div class="page-banner" style="background-image:url('/assets/img/cds/header-images/{{ page.image }}')">
                 <div class="page-banner--scrim"></div>
                 <div class="container">
-                    <div class="page-banner--title"><h1>{{ page.title }}</h1></div>
+                    <div class="page-banner--title">
+                        <h1>{{ page.title }}</h1>
+                        {% if page.subtitle %}
+                            <span class="page-title-sub">
+                                {{ page.subtitle }}
+                            </span>
+                        {% endif %}
+                    </div>
                 </div>
             </div>
         {% endif %}
     {% endif %}
 
 </header>
-<main role="main" property="mainContentOfPage" {% if page.ref != 'home' and page.ref != 'work-with-us' %} class="container" {% endif %}>
+<main role="main" property="mainContentOfPage">
     <section id="wb-cont">
         {{ content }}
     </section>
