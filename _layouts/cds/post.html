@@ -1,57 +1,69 @@
 ---
-layout: cds/default
+layout: cds/base
 ---
-<section class="container">
-  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<header role="banner">
+    {% include cds/fip.html %}
 
-    <div class="post-header">
+    {% include cds/site-menu.html %}
 
-      <span class="blogpost-pretitle">
-        <a href="{{site.data.menu[page.lang].blog.url}}">{{site.data.menu[page.lang].blog.name}}</a>
-      </span>
-      <h1>{{ page.title }}</h1>
-      <p class="post-meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          {{ page.date | date: date_format }}
-        </time>
-        {% if page.author %}
-        <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <span itemprop="name">{{ page.author }}</span>
-        </span>
-        {% endif %}</p>
-    </div>
+    <div class="page-banner" style="background-image:url('/assets/img/cds/post-images/{{ page.image }}')"></div>
+</header>
+<main role="main" property="mainContentOfPage">
+    <section id="wb-cont">
+        <section class="container">
+            <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-    <div class="post-content" itemprop="articleBody">
-      {{ content }}
-    </div>
+                <div class="post-header">
+                    <span class="blogpost-pretitle">
+                      <a href="{{site.data.menu[page.lang].blog.url}}">{{site.data.menu[page.lang].blog.name}}</a>
+                    </span>
 
-    {% assign posts=site.posts | where:"lang",page.lang %}
+                    <h1>{{ page.title }}</h1>
+                    <p class="post-meta">
+                        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+                            {{ page.date | date: date_format }}
+                        </time>
+                        {% if page.author %}
+                            <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                                <span itemprop="name">{{ page.author }}</span>
+                            </span>
+                        {% endif %}
+                    </p>
+                </div>
 
-    <div class="previous-next-nav">
-      <div class="previous">
-        {% for post in posts %}
-            {% if prev %}
-              <a href="{{ post.url }}">{{ site.data.trans[page.lang].previous-post }}</a>
-            {% endif %}
-            {% assign prev = false %}
-            {% if post.id == page.id %}
-              {% assign prev = true %}
-            {% endif %}
-        {% endfor %}
-      </div>
-      <div class="next">
-        {% for post in posts reversed %}
-          {% if next %}
-            <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }}</a>
-              {% break %}
-          {% endif %}
-          {% assign next = false %}
-          {% if post.id == page.id %}
-            {% assign next = true %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-  </article>
-</section>
+                <div class="post-content" itemprop="articleBody">
+                    {{ content }}
+                </div>
+
+                {% assign posts=site.posts | where:"lang",page.lang %}
+
+                <div class="previous-next-nav">
+                    <div class="previous">
+                        {% for post in posts %}
+                            {% if prev %}
+                                <a href="{{ post.url }}">{{ site.data.trans[page.lang].previous-post }}</a>
+                            {% endif %}
+                            {% assign prev = false %}
+                            {% if post.id == page.id %}
+                                {% assign prev = true %}
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                    <div class="next">
+                        {% for post in posts reversed %}
+                            {% if next %}
+                                <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }}</a>
+                                {% break %}
+                            {% endif %}
+                            {% assign next = false %}
+                            {% if post.id == page.id %}
+                                {% assign next = true %}
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+            </article>
+        </section>
+    </section>
+</main>
