@@ -1,13 +1,12 @@
 ---
-layout: cds/post
 title: "Choisir nos projets"
-date: 2017-08-24 10:00:00 -0400
-lang: fr
-ref: picking-our-projects
-image: picking-our-projects-2017.jpg
-trans_url: "/2017/08/24/picking-our-projects/"
-author: Wendy Luciani, Gestionnaire des partenariats, SNC
 description: "Si le fait d’utiliser la technologie de pointe suscite beaucoup d’engouement, au SNC, nous commençons par la base, soit définir un bon service, parce que c’est ce qui compte le plus. Dans vos rapports avec votre gouvernement, 1) il ne devrait pas y avoir d’ambiguïté sur ce que vous devez savoir et faire, et 2) il devrait être facile de faire ce qu’il y a à faire. Il ne s’agit pas seulement de refondre les sites Web; la technologie et les méthodes modernes nous donnent une réelle occasion de répondre aux besoins des utilisateurs alors que nous transformons nos services et, dans de nombreux cas, nous les mettons en ligne."
+author: Wendy Luciani, Gestionnaire des partenariats, SNC
+date: 2017-08-24 10:00:00 -0400
+image: picking-our-projects-2017.jpg
+lang: fr
+layout: cds/post
+trans_url: "/2017/08/24/picking-our-projects/"
 ---
 J’ai grandi sur une ferme. Mon enfance a été marquée par la sensation du gravier sous mes pieds, la terre sur mes mains et le bonheur de choisir des fruits et des légumes directement du champ. J’aimerais pouvoir vous dire que choisir des projets est semblable, mais je n’ai toujours pas vu de gravier, de terre, de fruits ou de légumes pendant une discussion portant sur un partenariat (points bonis si vous y arrivez!)
 
