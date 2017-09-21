@@ -316,3 +316,14 @@ main {
   .logo { height: 40px; }
 
 }
+
+.announcement-banner {
+  padding: 1em;
+  text-align: center;
+  color: #004085;
+  background-color: #cce5ff;
+  border-color: #b8daff;
+  a {
+    text-decoration: underline;
+  }
+}
