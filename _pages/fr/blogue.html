@@ -12,7 +12,7 @@ trans_url: '/blog'
 	<ul class="blogpost-list">
 	    {% for post in posts %}
 
-	    	{% assign date_format = site.minima.date_format | default: "%Y-%m-%d" %}
+	    	{% assign date_format = site.minima.date_format | default: site.data.trans[page.lang].date-format %}
 			<li class="post">
 		    	<div class="date">{{ post.date | date: date_format }}</div>
 		    	<div class="row">
