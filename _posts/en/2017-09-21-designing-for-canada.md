@@ -1,13 +1,12 @@
 ---
-layout: cds/post
 title: "Designing for Canada"
-date: 2017-09-21 09:00:00 -0400
-lang: en
-ref: designing-for-canada
-image: blog-designing-for-canada-2017.jpg
-trans_url: "/2017/09/21/concevoir-pour-le-canada"
-author: Chris Govias, Chief of Design, CDS
 description: "After a short sabbatical and a decade in the U.K., I'm delighted to announce that I'm going to be the first Chief of Design with the Canadian Digital Service, a new initiative by the Government of Canada."
+author: Chris Govias, Chief of Design, CDS
+date: 2017-09-21 09:00:00 -0400
+image: blog-designing-for-canada-2017.jpg
+lang: en
+layout: cds/post
+trans_url: "/2017/09/21/concevoir-pour-le-canada"
 ---
 After a short sabbatical and a decade in the U.K., I'm delighted to announce that I'm going to be the first Chief of Design with the Canadian Digital Service, a new initiative by the Government of Canada.
 

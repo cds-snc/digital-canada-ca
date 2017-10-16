@@ -1,13 +1,12 @@
 ---
-layout: cds/post
 title: "Wanted: CEO for CDS"
-date: 2017-09-12 09:00:00 -0400
-lang: en
-ref: wanted-ceo-cds
-image: wanted-ceo-cds-2017.jpg
-trans_url: "/2017/09/12/recherche-dirigeant-principal-du-service-numerique-canadien"
-author: Yaprak Baltacıoğlu, Secretary of the Treasury Board
 description: "The services our government provides play an important role in the lives of millions of people. That is why we’ve launched the Canadian Digital Service, a team focused on redesigning services from the user’s perspective. We are recruiting an experienced and inspiring Chief Executive to lead the team in executing a bold agenda with a lasting impact."
+author: Yaprak Baltacıoğlu, Secretary of the Treasury Board
+date: 2017-09-12 09:00:00 -0400
+image: wanted-ceo-cds-2017.jpg
+lang: en
+layout: cds/post
+trans_url: "/2017/09/12/recherche-dirigeant-principal-du-service-numerique-canadien"
 ---
 The services our government provides play an important role in the lives of millions of people. 
 

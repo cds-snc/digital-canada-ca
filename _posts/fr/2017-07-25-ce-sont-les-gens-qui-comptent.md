@@ -1,13 +1,12 @@
 ---
 title: "Ce sont les gens qui comptent"
 description: "Privilégier les utilisateurs. Voilà la raison d’être du Service numérique canadien.  Ce sont les gens – leurs besoins, leurs expériences, leurs frustrations, même leurs espoirs – qui devraient être au cœur des efforts vers un gouvernement numérique."
+author: Anatole Papadopoulos, Directeur exécutif, SNC
 date: 2017-07-25 10:00:00 -0400
+image: blog-its-about-people-2017.jpg
 lang: fr
 layout: cds/post
-image: blog-its-about-people-2017.jpg
 trans_url: "/2017/07/25/its-about-people"
-author: Anatole Papadopoulos, Directeur exécutif, SNC
-
 ---
 Privilégier les utilisateurs. Voilà la raison d’être du Service numérique canadien. Lorsqu’on parle du « gouvernement numérique », on pense habituellement aux sites Web, aux API et aux applications. Tout cela fait partie du coffre à outils. Pourtant, ce sont les gens – leurs besoins, leurs expériences, leurs frustrations, même leurs espoirs – qui devraient être au cœur des efforts vers un gouvernement numérique.
 

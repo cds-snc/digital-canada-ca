@@ -1,13 +1,12 @@
 ---
-layout: cds/post
 title: "Concevoir pour le Canada"
-date: 2017-09-21 09:00:00 -0400
-lang: fr
-ref: designing-for-canada
-image: blog-designing-for-canada-2017.jpg
-trans_url: "/2017/09/21/designing-for-canada/"
-author: Chris Govias, chef de la conception, SNC
 description: "Après un bref congé sabbatique et une décennie passée au Royaume-Uni, je suis fier d’annoncer que je serai le premier chef de la conception au Service numérique canadien (SNC), une nouvelle initiative du gouvernement du Canada."
+author: Chris Govias, chef de la conception, SNC
+date: 2017-09-21 09:00:00 -0400
+image: blog-designing-for-canada-2017.jpg
+lang: fr
+layout: cds/post
+trans_url: "/2017/09/21/designing-for-canada/"
 ---
 Après un bref congé sabbatique et une décennie passée au Royaume-Uni, je suis fier d’annoncer que je serai le premier chef de la conception au Service numérique canadien (SNC), une nouvelle initiative du gouvernement du Canada.
 
