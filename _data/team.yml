@@ -53,6 +53,15 @@ team:
     linkedin: annieleblond
     email: Annie.Leblond@tbs-sct.gc.ca
 
+  - name: Chris Govias
+    title:
+      en: Chief of Design
+      fr: Chef de la conception
+    image-name: chris-govias.jpg
+    twitter: cgovias
+    linkedin: cgovias
+    email: Christopher.Govias@tbs-sct.gc.ca
+
   - name: Dave Samojlenko
     title:
       en: Developer | DevOps
