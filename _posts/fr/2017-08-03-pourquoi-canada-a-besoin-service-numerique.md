@@ -14,7 +14,7 @@ Je veux changer notre façon de concevoir la prestation des services. Je travail
 
 Trop souvent, nous utilisons des dossiers d’analyse détaillés, des recettes multiples, de nombreux mécanismes de surveillance et des contrats à long terme pour résoudre des problèmes épineux. Même si nous parlons de la nécessité de réajuster le tir au fur et à mesure, c’est tout simplement impossible. Le système n’est pas conçu pour cela.
 
-Nous sommes pris au piège dans des processus rigides qui aboutissent inévitablement à des solutions déjà dépassées au moment de leur mise en œuvre. D’un autre côté, nous hésitons à livrer des produits minimums viables imparfaits. Nous parlons d’expérimentation, mais aussi « d’échec rapide ». Je pense que nous devons accepter les itérations comme faisant partie du processus et redéfinir notre notion d’« échec ».
+Nous sommes pris au piège dans des processus rigides qui aboutissent inévitablement à des solutions déjà dépassées au moment de leur mise en œuvre. D’un autre côté, nous hésitons à livrer des produits minimums viables imparfaits. Nous parlons d’expérimentation, mais aussi «&nbsp;d’échec rapide&nbsp;». Je pense que nous devons accepter les itérations comme faisant partie du processus et redéfinir notre notion d’«&nbsp;échec&nbsp;».
 
 C’est pourquoi nous avons créé le SNC. Il nous faut une équipe qui peut démontrer l’art du possible dans le domaine du numérique. Une équipe qui peut fournir rapidement un prototype opérationnel pour voir comment il fonctionne et l’améliorer en fonction des commentaires des utilisateurs. Nous devons mettre les besoins réels des gens au cœur des efforts déployés pour concevoir les services gouvernementaux. 
 
