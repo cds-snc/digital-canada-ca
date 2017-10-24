@@ -1,13 +1,12 @@
 ---
-layout: cds/post
 title: "Why Canada needs a Digital Service"
-date: 2017-08-03 10:00:00 -0400
-lang: en
-ref: why-canada-needs-a-digital-service
-image: why-canada-needs-a-digital-service-2017.jpg
-trans_url: "/2017/08/03/pourquoi-canada-a-besoin-service-numerique"
-author: Pascale Elvas, Director, CDS
 description: "That’s why we created CDS. We need a digital team that can demonstrate the art of the possible. A team that can get a working prototype into people’s hands quickly to see how it works and improve it based on user feedback. We need to put real people’s needs at the centre of how we design government services."
+author: Pascale Elvas, Director, CDS
+date: 2017-08-03 10:00:00 -0400
+image: why-canada-needs-a-digital-service-2017.jpg
+lang: en
+layout: cds/post
+trans_url: "/2017/08/03/pourquoi-canada-a-besoin-service-numerique"
 ---
 For months, I’ve been working behind the scenes to stand up the Canadian Digital Service. Through this process, I’ve done a lot of thinking about why Canada needs a digital service organization and the potential it has to change how we design government services.
 

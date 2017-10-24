@@ -1,13 +1,12 @@
 ---
-layout: cds/post
 title: "Recherché : Dirigeant principal du Service numérique canadien"
-date: 2017-09-12 09:00:00 -0400
-lang: fr
-ref: wanted-ceo-cds
-image: wanted-ceo-cds-2017.jpg
-trans_url: "/2017/09/12/wanted-ceo-cds/"
-author: Yaprak Baltacıoğlu, Secrétaire du Conseil du Trésor
 description: "Les services fournis par notre gouvernement jouent un rôle important dans la vie de millions de gens. C’est pourquoi nous avons lancé le Service numérique canadien (SNC), une équipe concentrée sur la restructuration des services du point de vue de l’utilisateur. C’est aussi pourquoi nous recrutons un dirigeant principal expérimenté et inspirant pour mener l’équipe dans la mise en œuvre d’un programme ambitieux dont l’effet se fera sentir pendant longtemps."
+author: Yaprak Baltacıoğlu, Secrétaire du Conseil du Trésor
+date: 2017-09-12 09:00:00 -0400
+image: wanted-ceo-cds-2017.jpg
+lang: fr
+layout: cds/post
+trans_url: "/2017/09/12/wanted-ceo-cds/"
 ---
  Les services fournis par notre gouvernement jouent un rôle important dans la vie de millions de gens. 
 

@@ -1,13 +1,12 @@
 ---
 title: "« Voir grand, commencer modestement »"
 description: "Nous sommes ici pour améliorer les services gouvernementaux, et pour faire des essais et tenter de faire les choses différemment. Il y a bien des choses que nous ne réussirons pas du premier coup; nous espérons que vous nous direz lorsque nous ferons fausse route et que vous célébrerez nos réussites avec nous."
+author: Sean Boots, Développeur, SNC
 date: 2017-07-28 10:00:00 -0400
+image: blog-think-big-start-small-2017.jpg
 lang: fr
 layout: cds/post
-image: blog-think-big-start-small-2017.jpg
 trans_url: "/2017/07/28/think-big-start-small"
-author: Sean Boots, Développeur, SNC
-
 ---
 Le Government Digital Service (GDS) du Royaume-Uni a une remarquable liste de [dix principes de conception](https://www.gov.uk/design-principles). Je me souviens encore de la première fois où je l’ai vue. On peut y lire «&nbsp;Commencez par les besoins des utilisateurs, pas par les besoins du gouvernement&nbsp;». Oh mon dieu, me suis-je dit : il s’agit d’un vrai site Web du gouvernement du Royaume-Uni. C’est incroyable!
 
