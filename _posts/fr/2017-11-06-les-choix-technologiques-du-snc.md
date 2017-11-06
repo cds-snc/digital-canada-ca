@@ -1,7 +1,7 @@
 ---
 title: "Les choix technologiques du SNC"
 description: "Il y a quelques semaines, nous avons lancé notre campagne de recrutement publique dans le but d’embaucher des concepteurs, des développeurs, des scientifiques de données, des gestionnaires de produits et des experts en mobilisation. S’informant au sujet du volet des développeurs, certains nous ont demandé avec quelles plateformes technologiques et quels langages de programmation nous travaillons. Excellente question! L’un des aspects excitants de vous joindre au Service numérique canadien (SNC) si tôt dans notre existence est que vous aurez la chance de modeler la façon dont nos choix technologiques évoluent. Dans cet esprit, c’est-à-dire qu’aucune de ces technologies n’est définitive, j’ai pensé faire le point sur le raisonnement de notre équipe de développement à ce jour ainsi que sur les deux objectifs (en opposition) qui influencent nos choix technologiques."
-author: Sean Boots, Développeur, SNC
+author: Sean Boots, développeur, SNC
 date: 2017-11-06 09:00:00 -0400
 image: blog-technology-choices-at-cds-2017.jpg
 lang: fr
