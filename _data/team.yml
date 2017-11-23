@@ -62,6 +62,15 @@ team:
     linkedin: cgovias
     email: Christopher.Govias@tbs-sct.gc.ca
 
+  - name: Daniel Tse
+    title:
+      en: Code For Canada Fellow | Product Manager
+      fr: Associé de Code for Canada | Gestionnaire de produits
+    image-name: daniel-tse.jpg
+    twitter: danprime
+    github: danprime
+    linkedin: danielmktse
+
   - name: Dave Samojlenko
     title:
       en: Developer | DevOps
@@ -108,6 +117,16 @@ team:
     image-name: john-millons.jpg
     twitter: JohnMillons
     email: John.Millons@tbs-sct.gc.ca
+
+  - name: Leon Lukashevsky
+    title:
+      en: Code For Canada Fellow | Developer
+      fr: Associé de Code for Canada | Développeur
+    image-name: leon-lukashevsky.jpg
+    twitter: le0nL
+    linkedin: le0nl
+    email: leon.lukashevsky@codefor.ca
+    github: leonL
 
   - name: Mario Garneau
     title:
@@ -158,6 +177,15 @@ team:
     twitter: makuch_nick
     email: nick.makuch@tbs-sct.gc.ca
 
+  - name: Raluca Ene
+    title: 
+      en: Code For Canada Fellow | UX Designer
+      fr: Associée de Code for Canada | Designer UX
+    image-name: raluca-ene.jpg
+    email: raluca.ene@tbs-sct.gc.ca
+    twitter: eneraluca
+    linkedin: eneraluca
+
   - name: Sean Boots
     title: 
       en: Tech | Advice
@@ -176,8 +204,8 @@ team:
 
   - name: Stéphane Tourangeau
     title:
-      en: Learning │ Communications
-      fr: Apprentissage | Communications
+      en: Capacity building lead
+      fr: Responsable du renforcement de la capacité
     image-name: stephane-tourangeau.jpg
     twitter: stourang
     linkedin: stephanetourangeau
