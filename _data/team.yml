@@ -8,6 +8,15 @@ exec:
     linkedin: anatole-papadopoulos-845a431
     email: Anatole.Papadopoulos@tbs-sct.gc.ca
 
+  - name: Chris Govias
+    title:
+      en: Chief of Design
+      fr: Chef de la conception
+    image-name: chris-govias.jpg
+    twitter: cgovias
+    linkedin: cgovias
+    email: Christopher.Govias@tbs-sct.gc.ca
+
   - name: Lena Trudeau
     title: 
       en: Senior Advisor
@@ -26,15 +35,6 @@ exec:
     linkedin: pascaleelvas
     email: Pascale.Elvas@tbs-sct.gc.ca
 
-  - name: Ryan Androsoff
-    title: 
-      en: Deputy Director and Product Lead
-      fr: Directeur adjoint et gestionnaire des produits
-    image-name: ryan-androsoff.jpg
-    twitter: RyanAndrosoff
-    linkedin: ryanandrosoff
-    email: Ryan.Androsoff@tbs-sct.gc.ca
-
   - name: Wendy Luciani
     title: 
       en: Partnership Lead
@@ -52,15 +52,6 @@ team:
     twitter: leblond_annie
     linkedin: annieleblond
     email: Annie.Leblond@tbs-sct.gc.ca
-
-  - name: Chris Govias
-    title:
-      en: Chief of Design
-      fr: Chef de la conception
-    image-name: chris-govias.jpg
-    twitter: cgovias
-    linkedin: cgovias
-    email: Christopher.Govias@tbs-sct.gc.ca
 
   - name: Daniel Tse
     title:
