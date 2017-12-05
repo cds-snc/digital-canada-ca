@@ -56,7 +56,8 @@ p, main ul {
 	
 	@include tv {
 		font-size 	: 2.25rem;
-		line-height: 3.5rem;
+		//line-height: 3.5rem;
+		line-height: 2.8rem;
 		margin-bottom: 2.75rem;
 	}
 

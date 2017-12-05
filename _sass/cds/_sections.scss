@@ -395,13 +395,9 @@
 	.section-smallcaps-title {
 		text-transform: uppercase;
 		font-weight: bold;
-		@include desktop { margin-bottom: 2rem; }
+		margin-bottom: 3rem;
 	}
 
-	h3 {
-		font-size: 1.75rem;
-		font-weight: bold;
-	}
 
 	li {
 		list-style: square;
@@ -417,6 +413,14 @@
 			font-size: 2.25rem;
 			color: $white;
 		}
+	}
+
+	.border-left {
+		border-left: 0.25rem solid $primary-color;
+	}
+
+	.bottom-margin {
+		margin-bottom: 2.8rem;
 	}
 }
 
@@ -443,6 +447,10 @@
 		}
 
 	}
+
+	hr {
+		color	: $medium-grey;
+	}
 }
 
 .work-with-us--apply-now {
@@ -462,6 +470,10 @@
 	.radio label {
 		font-size: 1.75rem;
 		margin-bottom: 1.5rem;
+	}
+
+	.button i {
+		margin-left: 2rem;
 	}
 
 	.spinner {
