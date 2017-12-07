@@ -22,7 +22,7 @@ This heavy lifting was moving in parallel to the site build; as the new program 
 
 Our first order of business was to work together to understand what users of the platform—both those posting and participating in challenges—needed to participate effectively. Then we took a step back to see whether there was existing code that could be repurposed. 
 
-Procuring a commercially available option was not deemed  a good fit, as they were costly, ranging from service fees of a $20,000 fee per challenge to hundreds of thousands for a custom build. Plus,our solution had to meet requirements for bilingualism, accessibility, and data protection. We talked to other digital service teams and confirmed there wasn’t an existing, open source platform solution that would meet our needs. 
+Procuring a commercially available option was not deemed a good fit, as they were costly, ranging from service fees of a $20,000 fee per challenge to hundreds of thousands for a custom build. Plus, our solution had to meet requirements for bilingualism, accessibility, and data protection. We talked to other digital service teams and confirmed there wasn’t an existing, open source platform solution that would meet our needs. 
 
 As it turned out, we found a solution closer to home—a lot of great work had been done on the [DrupalWxT](https://github.com/drupalwxt/wxt) project. We weighed the relative merits of reuse vs. net new creation and determined that reuse was the right choice. One of [our criteria](/2017/08/24/picking-our-projects/) is the replicability of solutions; we needed a modular solution, something we and others, be it PCO or other jurisdictions, could build on. By avoiding the costs associated with procuring or building a new platform from scratch, our partners will be able to focus their resources on what’s most important – designing and running the challenges. 
 
@@ -42,7 +42,7 @@ Over the course of two months we iterated relentlessly with our partners. We str
 
 To get over the hump, we led content design workshops with both PCO and Infrastructure Canada, which launched the Smart Cities Challenge on the platform. Our partners realized the words were getting in the way and worked hard to revise their text so we could create a better product.  We reduced overall site content by over 50%; a two paragraph intro became two simple sentences.
 
-As this unfolded, platform demos were held every second week so we could iterate together and progress the build. [Digital principle #15](http://open.canada.ca/en/blog/digital-principles) came to life for us as we X had the opportunity to work with not only our program partners and their senior management, but also the Minister of Democratic institutions, who is responsible for the service. 
+As this unfolded, platform demos were held every second week so we could iterate together and progress the build. [Digital principle #15](http://open.canada.ca/en/blog/digital-principles) came to life for us as we had the opportunity to work with not only our program partners and their senior management, but also the Minister of Democratic Institutions, who is responsible for the service. 
 
 ## Deploying beta
 
