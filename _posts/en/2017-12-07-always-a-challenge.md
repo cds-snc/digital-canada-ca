@@ -32,7 +32,7 @@ Following the [Government of Canada Cloud Adoption Strategy](https://www.canada.
 
 Given our tight project timelines, waiting wasn’t an option, so we began experimenting in cloud space we borrowed from another project. As we geared up for launch we moved the solution over to cloud infrastructure procured by PCO through Public Services and Procurement Canada and Shared Services Canada. Part of our job is to help a department be in a position to operate the service we’re building together. In this case, that meant digging in on DevOps and helping to configure and test that infrastructure.  
 
-If you're a department looking to experiment with cloud, getting a sandbox space set up sooner rather than later is a great idea. Agile projects suffer when they stall. We will continue to work with our partners to make sure this doesn’t become a stumbling block on projects, as we build better services together... There’s still a lot of work to do to structure cloud procurements so departments can realize all the benefits of cloud adoption, including the scalability and financials of paying for use.
+If you're a department looking to experiment with cloud, getting a sandbox space set up sooner rather than later is a great idea. Agile projects suffer when they stall. We will continue to work with our partners to make sure this doesn’t become a stumbling block on projects, as we build better services together. There’s still a lot of work to do to structure cloud procurements so departments can realize all the benefits of cloud adoption, including the scalability and financials of paying for use.
 
 ## Content is king 
 
