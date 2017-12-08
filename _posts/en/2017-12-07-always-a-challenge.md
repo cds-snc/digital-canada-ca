@@ -48,7 +48,7 @@ As this unfolded, platform demos were held every second week so we could iterate
 
 We believe strongly in starting small, iterating, and constantly building in feedback throughout a product's development.  Our colleagues at the [Government Digital Service](https://gds.blog.gov.uk/) have proven real value in developing a [minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product) (MVP) and getting it quickly into the hands of real users. They launch services transparently as beta offerings, with the expectation that improvements will be made based on real world use.  We were really excited to find a partner in PCO that was ready to work this way.  
 
-We moved from the initial prototype to the beta launch in about two months. Launching an MVP doesn’t mean sending a sub-par version out the door; we started by taking a small slice of the platformand building it well. We’re now monitoring actual usage and iterating.  At the same time, we’re researching, designing, and building new functions for the platform. These will be rolled out gradually over the coming months. 
+We moved from the initial prototype to the beta launch in about two months. Launching an MVP doesn’t mean sending a sub-par version out the door; we started by taking a small slice of the platform and building it well. We’re now monitoring actual usage and iterating.  At the same time, we’re researching, designing, and building new functions for the platform. These will be rolled out gradually over the coming months. 
 
 ## Want to know more?
 
