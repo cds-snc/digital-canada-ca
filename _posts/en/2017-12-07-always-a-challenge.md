@@ -12,7 +12,7 @@ During our [engagement sessions](/beginning-the-conversation/full-report/), peop
 
 Challenge platforms like [Challenge.gov](https://www.challenge.gov/list/) have proven successful at engaging folks from coast-to-coast in civic problem solving. Teams compete for the cash prize, the opportunity to grow a business or a market, and the satisfaction that comes from solving important problems, which creates an incentive for additional private and nonprofit sector investment. For example, the $10 Million Ansari X PRIZE was won in 2004 by Burt Rutan and SpaceShipOne, after the 26 competing teams spent more than $100 million attempting to win the prize.
 
-So this fall, when the Privy Council Office (PCO) approached us to help them design and build the Impact Canada Challenge Platform, we said yes. 
+So this fall, when the Privy Council Office (PCO) approached us to help them design and build the [Impact Canada Challenge Platform](https://impact.canada.ca/en), we said yes. 
 
 As with most shifts in the way we work, the technology isn’t the hardest part. A lot of heavy lifting is required, which may include updating programs and policies to enable more civic engagement in problem solving and helping agencies get better at the process of creating and running challenges.  Big kudos to our colleagues at PCO’s [Impact and Innovation Unit](https://www.canada.ca/en/innovation-hub.html) for stepping up and leading the way. 
 
@@ -52,6 +52,6 @@ We moved from the initial prototype to the beta launch in about two months. Laun
 
 ## Want to know more?
 
-PCO is responsible for the Impact Canada Challenge Platform and is leading efforts to identify and post challenges with Government of Canada departments. If you have questions about the Impact Canada Initiative, you can [contact PCO by email](mailto:iiu-uii@pco-bcp.gc.ca). 
+PCO is responsible for the [Impact Canada Challenge Platform](https://impact.canada.ca/en) and is leading efforts to identify and post challenges with Government of Canada departments. If you have questions about the Impact Canada Initiative, you can [contact PCO by email](mailto:iiu-uii@pco-bcp.gc.ca). 
 
 If you have questions or comments on our approach to this partnership build, we’d be happy to [hear from you](/contact/). We’re hosting a show and tell on December 8th where we will talk about this and our other early projects on the go! Register to attend via [webcast](https://www.eventbrite.ca/e/cds-show-and-tell-webcast-presentation-du-snc-web-diffusion-tickets-40847158952). 
