@@ -54,6 +54,6 @@ Nous sommes passés du prototype initial au lancement de la version bêta en env
 
 ## Vous voulez en savoir davantage?
 
-Le BCP est responsable de la plateforme de défis Impact Canada; il dirige les efforts visant à déterminer et à afficher les défis proposés par ministères fédéraux. Si vous avez des questions sur l’initiative Impact Canada, n’hésitez pas à [communiquer avec le BCP par courriel](mailto:iiu-uii@pco-bcp.gc.ca). 
+Le BCP est responsable de [la plateforme de défis Impact Canada](https://impact.canada.ca/fr); il dirige les efforts visant à déterminer et à afficher les défis proposés par ministères fédéraux. Si vous avez des questions sur l’initiative Impact Canada, n’hésitez pas à [communiquer avec le BCP par courriel](mailto:iiu-uii@pco-bcp.gc.ca). 
 
 Si vous avez des questions ou des commentaires sur notre approche dans ce partenariat, n’hésitez pas à [nous en faire part](/contactez-nous/). Nous organisons une présentation le 8 décembre où nous discuterons nos projets, notamment de celui-ci. Inscrivez-vous afin de participer à la [webdiffusion](https://www.eventbrite.ca/e/cds-show-and-tell-webcast-presentation-du-snc-web-diffusion-tickets-40847158952).
