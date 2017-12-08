@@ -12,7 +12,7 @@ Au cours de nos [séances de mobilisation](/commencement-de-la-conversation/rapp
 
 Lorsque vient le temps de régler des problèmes d’ordre civique, les plateformes de défis comme [Challenge.gov](https://www.challenge.gov/list/) donnent de bons résultats sur le plan de la mobilisation citoyenne, d’un océan à l’autre. Les équipes se font compétition afin d’obtenir un prix en argent, ont la chance de développer une entreprise ou un marché, et tirent satisfaction d’avoir résolu des problèmes importants. La compétition elle-même favorise les investissements supplémentaires du secteur privé et du secteur à but non lucratif. Par exemple, en 2004, Burt Rutan et SpaceShipOne ont remporté l’Ansari X PRIZE de 10 millions de dollars, alors que les 26 équipes en compétition ont dépensé plus de 100 millions de dollars à tenter de gagner le prix.
 
-C’est pourquoi, lorsque le Bureau du Conseil privé (BCP) nous a proposé, l’automne dernier, de participer à la conception et à l’élaboration de la plateforme de défis Impact Canada, nous avons dit oui. 
+C’est pourquoi, lorsque le Bureau du Conseil privé (BCP) nous a proposé, l’automne dernier, de participer à la conception et à l’élaboration de [la plateforme de défis Impact Canada](https://impact.canada.ca/fr), nous avons dit oui. 
 
 Notre façon de travailler connaît de nombreux changements et, dans la plupart des cas, la technologie n’est pas l’aspect le plus difficile. Il faut déployer des efforts considérables pour, entre autres, actualiser les programmes et les politiques de manière à favoriser la participation de la société civique à la résolution de problèmes et aider les organismes à mieux créer et à mieux organiser des défis. Chapeau à nos collègues de l’[Unité de l’impact et de l’innovation](https://www.canada.ca/fr/centre-innovation.html) du BCP d’avoir pris les rênes et d’avoir pavé la voie. 
 
@@ -54,6 +54,6 @@ Nous sommes passés du prototype initial au lancement de la version bêta en env
 
 ## Vous voulez en savoir davantage?
 
-Le BCP est responsable de la plateforme de défis Impact Canada; il dirige les efforts visant à déterminer et à afficher les défis proposés par ministères fédéraux. Si vous avez des questions sur l’initiative Impact Canada, n’hésitez pas à [communiquer avec le BCP par courriel](mailto:iiu-uii@pco-bcp.gc.ca). 
+Le BCP est responsable de [la plateforme de défis Impact Canada](https://impact.canada.ca/fr); il dirige les efforts visant à déterminer et à afficher les défis proposés par ministères fédéraux. Si vous avez des questions sur l’initiative Impact Canada, n’hésitez pas à [communiquer avec le BCP par courriel](mailto:iiu-uii@pco-bcp.gc.ca). 
 
 Si vous avez des questions ou des commentaires sur notre approche dans ce partenariat, n’hésitez pas à [nous en faire part](/contactez-nous/). Nous organisons une présentation le 8 décembre où nous discuterons nos projets, notamment de celui-ci. Inscrivez-vous afin de participer à la [webdiffusion](https://www.eventbrite.ca/e/cds-show-and-tell-webcast-presentation-du-snc-web-diffusion-tickets-40847158952).
