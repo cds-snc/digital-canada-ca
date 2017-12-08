@@ -398,25 +398,23 @@
 		margin-bottom: 3rem;
 	}
 
+	.padding {
+		padding: 2rem;
+	}
+
 
 	li {
 		list-style: square;
 		color: #F0CA4D;
 
-		.small-li-text {
-			line-height: 2.25rem;
-			font-size: 1.75rem;
-			color: $white;
-		}
-
 		.large-li-text {
-			font-size: 2.25rem;
 			color: $white;
 		}
 	}
 
-	.border-left {
-		border-left: 0.25rem solid $primary-color;
+	.dark-background {
+		background: #034;
+		border-radius: 20px;
 	}
 
 	.bottom-margin {
@@ -427,29 +425,19 @@
 .work-with-us--streams {
 
 	li {
-		font-size: 2rem;
-	}
+		line-height: 2.8rem;
 
-	.section-smallcaps-title {
-		text-transform: uppercase;
-		font-weight: bold;
-		color: rgba(34, 89, 109, 1);
-		@include desktop { margin-bottom: 2rem; }
-	}
-
-	.button {
-		background-color: $black;
-		color: $white;
-		border-color: $black;
-
-		&:hover {
-			border-color: $light-grey;
+		p {
+			line-height: 2.8rem;
 		}
-
 	}
 
 	hr {
 		color	: $medium-grey;
+	}
+
+	.bottom-margin {
+		margin-bottom: 2.8rem;
 	}
 }
 
@@ -468,12 +456,28 @@
 	}
 
 	.radio label {
-		font-size: 1.75rem;
 		margin-bottom: 1.5rem;
+		margin-left: 3rem;
 	}
 
-	.button i {
-		margin-left: 2rem;
+	.button {
+		margin-right: 2rem;
+
+		&:hover {
+			border-radius: 1rem;
+			border: #F90 2px solid;
+			background: #F90;
+			color: $secondary-color;
+		}
+	}
+
+	a {
+		color: $white;
+		border-bottom: $primary-color 1px dotted;
+
+		&:hover {
+			border-bottom: $primary-color 1px solid;
+		}
 	}
 
 	.spinner {

@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	// Sticky threshold
-	var threshold = $('main').position().top;
+	/*var threshold = $('main').position().top;
 
 	var topBar = $('.cds-menu');
 
@@ -37,7 +37,7 @@ $(document).ready(function() {
 				topBar.removeClass('sticky');
 			}
 		}
-	});
+	});*/
 
 	// Homepage video header/bg controls
 	var videobg = $('video#js-video-bg').get(0);
@@ -84,7 +84,7 @@ $(document).ready(function() {
         var data = {
             name: $('#name').val(),
             email: $('#email').val(),
-            stream: $('#streams').val(),
+            stream: $('input[name=streams]:checked').val(),
             body: $('#body').val(),
             work_link: $('#work_link').val(),
             work_link_2: $('#work_link_2').val()
@@ -92,7 +92,7 @@ $(document).ready(function() {
 
         var pageLanguage = $('html').attr('lang');
        
-        $.ajax({
+         $.ajax({
             type: 'POST',
             url: 'https://109c1buw3d.execute-api.us-east-1.amazonaws.com/prod/SendRecruitmentEmail',
             dataType: 'text',
@@ -102,19 +102,19 @@ $(document).ready(function() {
             },
             success: function() {
                 if (pageLanguage == 'en') {
-        			window.location.href = "/success/";
-        		}
-        		else {
-        			window.location.href = "/reussi/";
-        		}
+                    window.location.href = "/success/";
+                }
+                else {
+                    window.location.href = "/reussi/";
+                }
             },
             error: function(xhr, textStatus, errorThrown) {
                 if (pageLanguage == 'en') {
-        			window.location.href = "/error/";
-        		}
-        		else {
-        			window.location.href = "/erreur/";
-        		}
+                    window.location.href = "/error/";
+                }
+                else {
+                    window.location.href = "/erreur/";
+                }
             }
         });
 
