@@ -28,7 +28,7 @@ trans_url: '/blog'
 				        	<div class="title"><a href="{{ post.url }}"><h2>{{ post.title }}</h2></a></div>
 				        	<div class="author">{{ post.author }}</div>
 				        	<div class="summary">{{post.excerpt | strip_html | truncatewords:75}}</div>
-				        	<div class="readmore"><a href="{{ post.url }}" aria-label="Continuer à lire  {{ post.title }}">Lire davantage</a></div>
+				        	<div class="readmore"><a href="{{ post.url }}" aria-label="Lire la suite de {{ post.title }}">Lire davantage</a></div>
 				        </div>
 				    </div>
 		        </div>
