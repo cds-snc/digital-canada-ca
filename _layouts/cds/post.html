@@ -6,7 +6,12 @@ layout: cds/base
 
     {% include cds/site-menu.html %}
 
-    <div class="page-banner" style="background-image:url('/assets/img/cds/post-images/{{ page.image }}')"></div>
+    {% if page.image-alt %}
+        <div class="page-banner" role="img" aria-label="{{ page.image-alt }}" style="background-image: url('/assets/img/cds/post-images/{{ page.image }}')"></div>
+    {% else %}
+        <div class="page-banner" style="background-image: url('/assets/img/cds/post-images/{{ page.image }}')"></div>
+    {% endif %}
+
 </header>
 <main role="main" property="mainContentOfPage">
     <section id="wb-cont">

@@ -18,7 +18,11 @@ trans_url: '/blogue'
 		    	<div class="date">{{ post.date | date: date_format }}</div>
 		    	<div class="row">
 		    		<div class="col-xs-12 col-sm-4">
-			    		<div class="photo" style="background-image: url('/assets/img/cds/post-images/{{ post.image }}')"></div>
+						{% if post.image-alt %}
+			    			<div class="photo" role="img" aria-label="{{ post.image-alt }}" style="background-image: url('/assets/img/cds/post-images/{{ post.image }}')"></div>
+						{% else %}
+							<div class="photo" style="background-image: url('/assets/img/cds/post-images/{{ post.image }}')"></div>
+						{% endif %}
 			    	</div>
 			    	<div class="col-xs-12 col-sm-8">
 				    	<div class="text">
