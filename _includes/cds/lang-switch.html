@@ -1,3 +1,3 @@
 {% if page.trans_url %}
-    <a href="{{ site.data.trans[page.lang].trans-base-url }}{{ page.trans_url }}">{{ site.data.trans[page.lang].lang-switch-label }}</a>
+    <a lang="{{ site.data.trans[page.lang].trans-abbr-switch }}" href="{{ site.data.trans[page.lang].trans-base-url }}{{ page.trans_url }}">{{ site.data.trans[page.lang].lang-switch-label }}</a>
 {% endif %}
