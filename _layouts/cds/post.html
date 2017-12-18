@@ -42,33 +42,39 @@ layout: cds/base
                 </div>
 
                 {% assign posts=site.posts | where:"lang",page.lang %}
-
-                <div class="previous-next-nav">
-                    <div class="previous">
-                        {% for post in posts %}
-                            {% if prev %}
-                                <a href="{{ post.url }}">{{ site.data.trans[page.lang].previous-post }}</a>
-                            {% endif %}
-                            {% assign prev = false %}
-                            {% if post.id == page.id %}
-                                {% assign prev = true %}
-                            {% endif %}
-                        {% endfor %}
-                    </div>
-                    <div class="next">
-                        {% for post in posts reversed %}
-                            {% if next %}
-                                <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }}</a>
-                                {% break %}
-                            {% endif %}
-                            {% assign next = false %}
-                            {% if post.id == page.id %}
-                                {% assign next = true %}
-                            {% endif %}
-                        {% endfor %}
-                    </div>
-                </div>
             </article>
+
+            <div class="previous-next-nav">
+                <div class="previous pull-left text-left mrgn-bttm-lg">
+                    {% for post in posts %}
+                        {% if prev %}
+                            <a href="{{ post.url }}">
+                                &lt; {{ site.data.trans[page.lang].previous-post }}
+                                <h5 class="mrgn-tp-0 mrgn-bttm-0">{{ post.title }}</h5>
+                            </a>
+                        {% endif %}
+                        {% assign prev = false %}
+                        {% if post.id == page.id %}
+                            {% assign prev = true %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+                <div class="next pull-right text-right mrgn-bttm-lg">
+                    {% for post in posts reversed %}
+                        {% if next %}
+                            <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }} &gt;
+                                <h5 class="mrgn-tp-0 mrgn-bttm-0">{{ post.title }}</h5>
+                            </a>
+                            {% break %}
+                        {% endif %}
+                        {% assign next = false %}
+                        {% if post.id == page.id %}
+                            {% assign next = true %}
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+
         </section>
     </section>
 </main>
