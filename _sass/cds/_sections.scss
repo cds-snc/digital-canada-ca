@@ -420,6 +420,14 @@
 	.bottom-margin {
 		margin-bottom: 2.8rem;
 	}
+
+	.top-margin {
+		margin-top: 1.5rem;
+	}
+
+	.border-top {
+		border-top: #F0CA4D solid 0.25rem;
+	}
 }
 
 .work-with-us--streams {
@@ -439,6 +447,28 @@
 	.bottom-margin {
 		margin-bottom: 2.8rem;
 	}
+}
+
+.work-with-us--process {
+	border-top	: $medium-grey 1px solid;
+
+	.top-margin {
+		margin-top: 1.5rem;
+	}
+
+	ol > li {
+		font-weight: bold;
+		font-size: 1.75rem;
+
+		@include tablet {
+			font-size: 2rem;
+		}
+
+		@include tv {
+			font-size: 2.25rem;
+		}
+	}
+
 }
 
 .work-with-us--apply-now {
