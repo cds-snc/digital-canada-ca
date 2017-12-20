@@ -7,7 +7,6 @@ en:
   canada-ca: "Visit Canada.ca"
   canadian-digital-service: "Canadian Digital Service"
   close: 'Close'
-  date-format: "%b %-d, %Y"
   ga: 'UA-102484926-1'
   goc-symbol: "Symbol of the Government of Canada"
   goc: "Government of Canada"
@@ -41,7 +40,6 @@ fr:
   canada-ca: "Visiter Canada.ca"
   canadian-digital-service: "Service numérique canadien"
   close: 'Fermer'
-  date-format: "%Y-%m-%d"
   ga: 'UA-102484926-2'
   goc-symbol: "Symbole du gouvernement du Canada"
   goc: "Gouvernement du Canada"

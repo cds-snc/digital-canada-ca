@@ -26,8 +26,27 @@ layout: cds/base
                     <h1>{{ page.title }}</h1>
                     <p class="post-meta">
                         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-                            {% assign date_format = site.minima.date_format | default: site.data.trans[page.lang].date-format %}
-                            {{ page.date | date: date_format }}
+                            {% if page.lang == 'fr' %}
+                                {% assign m = page.date | date: "%-m" %}
+                                {{ page.date | date: "%-d" }}
+                                {% case m %}
+                                    {% when '1' %}janvier
+                                    {% when '2' %}février
+                                    {% when '3' %}mars
+                                    {% when '4' %}avril
+                                    {% when '5' %}mai
+                                    {% when '6' %}juin
+                                    {% when '7' %}juillet
+                                    {% when '8' %}août
+                                    {% when '9' %}septembre
+                                    {% when '10' %}octobre
+                                    {% when '11' %}novembre
+                                    {% when '12' %}décembre
+                                {% endcase %}
+                                {{ page.date | date: "%Y" }}
+                            {% else %}
+                                {{ page.date | date: '%B %d, %Y' }}
+                            {% endif %}
                         </time>
                         {% if page.author %}
                             <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
