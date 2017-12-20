@@ -45,7 +45,7 @@ layout: cds/base
                                 {% endcase %}
                                 {{ page.date | date: "%Y" }}
                             {% else %}
-                                {{ page.date | date: '%B %d, %Y' }}
+                                {{ page.date | date: '%B %-d, %Y' }}
                             {% endif %}
                         </time>
                         {% if page.author %}

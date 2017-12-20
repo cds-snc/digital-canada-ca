@@ -14,7 +14,7 @@ trans_url: '/blogue'
 	    {% for post in posts %}
 
 		    <li class="post">
-		    	<div class="date">{{ post.date | date: '%B %d, %Y' }}</div>
+		    	<div class="date">{{ post.date | date: '%B %-d, %Y' }}</div>
 		    	<div class="row">
 		    		<div class="col-xs-12 col-sm-4">
 						{% if post.image-alt %}

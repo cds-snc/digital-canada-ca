@@ -148,8 +148,7 @@ trans_url: '/'
                 <a class="post" href="{{ post.url | relative_url }}">
                     <div class="image" style="background-image:url('/assets/img/cds/post-images/{{ post.image }}')"></div>
                     <div class="text">
-                        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-                        <div class="date">{{ post.date | date: date_format }}</div>
+                        <div class="date">{{ post.date | date: '%B %-d, %Y' }}</div>
                         <h3>{{ post.title | escape }}</h3>
                     </div>
                 </a>
