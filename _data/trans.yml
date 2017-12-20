@@ -1,7 +1,7 @@
 en:
   about-this-site: "About this site"
-  aria-canada-website: "Link to Canada.ca"
-  aria-cds-website: "Link to Homepage"
+  aria-canada-website: "Government of Canada"
+  aria-cds-website: "Canadian Digital Service"
   base-url: "http://digital.canada.ca"
   canada-ca-link: "https://www.canada.ca/en.html"
   canada-ca: "Visit Canada.ca"
@@ -34,8 +34,8 @@ en:
   ceo-loc-header: "Ottawa, Ontario"
 fr:
   about-this-site: "À propos du site"
-  aria-canada-website: "Lien vers Canada.ca"
-  aria-cds-website: "Lien vers page d'accueil"
+  aria-canada-website: "Gouvernement du Canada"
+  aria-cds-website: "Service numérique canadien"
   base-url: "http://numerique.canada.ca"
   canada-ca-link: "https://www.canada.ca/fr.html"
   canada-ca: "Visiter Canada.ca"

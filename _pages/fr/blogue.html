@@ -17,14 +17,18 @@ trans_url: '/blog'
 		    	<div class="date">{{ post.date | date: date_format }}</div>
 		    	<div class="row">
 		    		<div class="col-xs-12 col-sm-4">
-			    		<div class="photo" style="background-image: url('/assets/img/cds/post-images/{{ post.image }}')"></div>
+						{% if post.image-alt %}
+							<div class="photo" role="img" aria-label="{{ post.image-alt }}" style="background-image: url('/assets/img/cds/post-images/{{ post.image }}')"></div>
+						{% else %}
+							<div class="photo" style="background-image: url('/assets/img/cds/post-images/{{ post.image }}')"></div>
+						{% endif %}
 			    	</div>
 			    	<div class="col-xs-12 col-sm-8">
 				    	<div class="text">
 				        	<div class="title"><a href="{{ post.url }}"><h2>{{ post.title }}</h2></a></div>
 				        	<div class="author">{{ post.author }}</div>
 				        	<div class="summary">{{post.excerpt | strip_html | truncatewords:75}}</div>
-				        	<div class="readmore"><a href="{{post.url}}">Lire davantage</a></div>
+				        	<div class="readmore"><a href="{{ post.url }}" aria-label="Lire la suite de {{ post.title }}">Lire davantage</a></div>
 				        </div>
 				    </div>
 		        </div>
