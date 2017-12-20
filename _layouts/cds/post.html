@@ -45,7 +45,7 @@ layout: cds/base
             </article>
 
             <div class="previous-next-nav">
-                <div class="previous pull-left text-left mrgn-bttm-lg">
+                <div class="pull-left text-left mrgn-bttm-lg col-md-6 col-sm-12">
                     {% for post in posts %}
                         {% if prev %}
                             <a href="{{ post.url }}">
@@ -60,7 +60,7 @@ layout: cds/base
                         {% endif %}
                     {% endfor %}
                 </div>
-                <div class="next pull-right text-right mrgn-bttm-lg">
+                <div class="pull-right text-right mrgn-bttm-lg col-md-6 col-sm-12">
                     {% for post in posts reversed %}
                         {% if next %}
                             <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }} <span class="wb-inv">:</span>
