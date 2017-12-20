@@ -164,8 +164,25 @@ permalink: '/'
                 <a class="post" href="{{ post.url | relative_url }}">
                     <div class="image" style="background-image:url('/assets/img/cds/post-images/{{ post.image }}')"></div>
                     <div class="text">
-                        {% assign date_format = site.minima.date_format | default: "%Y-%m-%d" %}
-                        <div class="date">{{ post.date | date: date_format }}</div>
+                        <div class="date">
+                            {% assign m = post.date | date: "%-m" %}
+                            {{ post.date | date: "%-d" }}
+                            {% case m %}
+                                {% when '1' %}janvier
+                                {% when '2' %}février
+                                {% when '3' %}mars
+                                {% when '4' %}avril
+                                {% when '5' %}mai
+                                {% when '6' %}juin
+                                {% when '7' %}juillet
+                                {% when '8' %}août
+                                {% when '9' %}septembre
+                                {% when '10' %}octobre
+                                {% when '11' %}novembre
+                                {% when '12' %}décembre
+                            {% endcase %}
+                            {{ post.date | date: "%Y" }}
+                        </div>
                         <h3>{{ post.title | escape }}</h3>
                     </div>
                 </a>
