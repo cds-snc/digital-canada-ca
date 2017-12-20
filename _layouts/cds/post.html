@@ -49,8 +49,9 @@ layout: cds/base
                     {% for post in posts %}
                         {% if prev %}
                             <a href="{{ post.url }}">
-                                &lt; {{ site.data.trans[page.lang].previous-post }}
-                                <h5 class="mrgn-tp-0 mrgn-bttm-0">{{ post.title }}</h5>
+                                <span class="fa fa-arrow-left"></span>
+                                {{ site.data.trans[page.lang].previous-post }} <span class="wb-inv">:</span>
+                                <h5 class="mrgn-lft-md mrgn-tp-0 mrgn-bttm-0">{{ post.title }}</h5>
                             </a>
                         {% endif %}
                         {% assign prev = false %}
@@ -62,8 +63,9 @@ layout: cds/base
                 <div class="next pull-right text-right mrgn-bttm-lg">
                     {% for post in posts reversed %}
                         {% if next %}
-                            <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }} &gt;
-                                <h5 class="mrgn-tp-0 mrgn-bttm-0">{{ post.title }}</h5>
+                            <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }} <span class="wb-inv">:</span>
+                                <span class="fa fa-arrow-right"></span>
+                                <h5 class="mrgn-rght-md mrgn-tp-0 mrgn-bttm-0">{{ post.title }}</h5>
                             </a>
                             {% break %}
                         {% endif %}
