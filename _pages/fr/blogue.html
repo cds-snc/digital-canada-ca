@@ -11,10 +11,26 @@ trans_url: '/blog'
 <div class="container">
 	<ul class="blogpost-list">
 	    {% for post in posts %}
-
-	    	{% assign date_format = site.minima.date_format | default: site.data.trans[page.lang].date-format %}
 			<li class="post">
-		    	<div class="date">{{ post.date | date: date_format }}</div>
+		    	<div class="date">
+					{% assign m = post.date | date: "%-m" %}
+					{{ post.date | date: "%-d" }}
+					{% case m %}
+						{% when '1' %}janvier
+						{% when '2' %}février
+						{% when '3' %}mars
+						{% when '4' %}avril
+						{% when '5' %}mai
+						{% when '6' %}juin
+						{% when '7' %}juillet
+						{% when '8' %}août
+						{% when '9' %}septembre
+						{% when '10' %}octobre
+						{% when '11' %}novembre
+						{% when '12' %}décembre
+					{% endcase %}
+					{{ post.date | date: "%Y" }}
+				</div>
 		    	<div class="row">
 		    		<div class="col-xs-12 col-sm-4">
 						{% if post.image-alt %}
