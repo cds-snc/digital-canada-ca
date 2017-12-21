@@ -10,7 +10,7 @@ trans_url: "/2017/09/12/wanted-ceo-cds/"
 ---
  Les services fournis par notre gouvernement jouent un rôle important dans la vie de millions de gens. 
 
-C’est pourquoi nous avons lancé le Service numérique canadien (SNC), une équipe concentrée sur la restructuration des services du point de vue de l’utilisateur. C’est aussi pourquoi nous [recrutons un dirigeant principal expérimenté et inspirant](/talent/dirigeant-principal/) pour mener l’équipe dans la mise en œuvre d’un programme ambitieux dont l’effet se fera sentir pendant longtemps. 
+C’est pourquoi nous avons lancé le Service numérique canadien (SNC), une équipe concentrée sur la restructuration des services du point de vue de l’utilisateur. C’est aussi pourquoi nous recrutons un dirigeant principal expérimenté et inspirant pour mener l’équipe dans la mise en œuvre d’un programme ambitieux dont l’effet se fera sentir pendant longtemps. 
 
 Le dirigeant principal du SNC aura un large mandat, soit d’améliorer fondamentalement la prestation de services dans l’ensemble de l’appareil fédéral, en collaboration avec les ministères. Cette personne bénéficiera du soutien indéfectible des plus hauts échelons afin de placer les utilisateurs au cœur de tous ces efforts. 
 
@@ -23,6 +23,3 @@ Le dirigeant principal du SNC siègera à la table de la haute direction du Secr
 Si, comme moi, vous êtes emballé par le défi qui se présente à nous comme gouvernement, j’espère que vous présenterez votre candidature. Ayant moi-même immigré au Canada, j’ai appris il y a longtemps à quel point les services sont importants. Que nous offrions des services aux immigrants, aux anciens combattants, aux personnes âgées ou aux nombreuses autres personnes et communautés de notre pays qui dépendent de nous, nous avons l’obligation de fournir des services qui sont faciles d’accès et simples à utiliser. 
   
 Il s’agit d’une occasion unique de mener le changement pour notre pays. Oui, vous ferez une différence. 
-
-{:.text-center}
-[Pour en savoir plus et postuler dès maintenant](/talent/dirigeant-principal){:.button}
