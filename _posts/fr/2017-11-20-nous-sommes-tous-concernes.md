@@ -4,6 +4,7 @@ description: "Il y a environ un mois, j’ai eu la chance de participer à la co
 author: Hillary Hartley, directrice, Services numériques de l’Ontario
 date: 2017-11-20 09:00:00 -0400
 image: blog-in-this-together-2017.jpg
+image-alt:
 lang: fr
 layout: cds/post
 trans_url: "/2017/11/20/in-this-together"

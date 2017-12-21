@@ -4,6 +4,7 @@ description: "Il y a quelques semaines, nous avons lancé notre campagne de recr
 author: Sean Boots, développeur, SNC
 date: 2017-11-06 09:00:00 -0400
 image: blog-technology-choices-at-cds-2017.jpg
+image-alt:
 lang: fr
 layout: cds/post
 trans_url: "/2017/11/06/technology-choices-at-cds"

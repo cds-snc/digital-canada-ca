@@ -4,6 +4,7 @@ date: 2017-09-29 09:00:00 -0400
 description: "Dans le domaine des technologies, les percées voient le jour à un rythme fou. Comme il faut bien nommer les choses, de nouveaux mots s’imposent rapidement dans notre vocabulaire. Si l’anglais est la langue des affaires, c’est aussi la langue des technologies. Comment, alors, ne pas perdre du terrain? On le sait, faute de termes français, les anglicismes prennent vite le dessus et deviennent difficiles à déloger. Avez-vous liké un post sur Facebook dernièrement? Certaines entrées au dictionnaire ont de quoi faire sourciller."
 author: Annie Leblond, Communications, SNC
 image: blog-discussing-digital-in-french-2017.jpg
+image-alt:
 lang: fr
 layout: cds/post
 trans_url: "/2017/09/29/discussing-digital-in-french/"

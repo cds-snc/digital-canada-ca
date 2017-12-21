@@ -4,6 +4,7 @@ description: "Les services fournis par notre gouvernement jouent un rôle import
 author: Yaprak Baltacıoğlu, Secrétaire du Conseil du Trésor
 date: 2017-09-12 09:00:00 -0400
 image: wanted-ceo-cds-2017.jpg
+image-alt: "Yaprak Baltacıoğlu, Secrétaire du Conseil du Trésor"
 lang: fr
 layout: cds/post
 trans_url: "/2017/09/12/wanted-ceo-cds/"

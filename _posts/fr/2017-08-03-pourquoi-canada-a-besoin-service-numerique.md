@@ -4,6 +4,7 @@ description: "C’est pourquoi nous avons créé le SNC. Il nous faut une équip
 author: Pascale Elvas, Directrice, SNC
 date: 2017-08-03 10:00:00 -0400
 image: why-canada-needs-a-digital-service-2017.jpg
+image-alt: "Ryan Androsoff, Lena Trudeau, Anatole Papadopoulos, Olivia Neal, et Pascale Elvas"
 lang: fr
 layout: cds/post
 trans_url: "/2017/08/03/why-canada-needs-a-digital-service/"
