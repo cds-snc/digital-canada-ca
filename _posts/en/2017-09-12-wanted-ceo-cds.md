@@ -10,7 +10,7 @@ trans_url: "/2017/09/12/recherche-dirigeant-principal-du-service-numerique-canad
 ---
 The services our government provides play an important role in the lives of millions of people. 
 
-That is why we’ve launched the Canadian Digital Service, a team focused on redesigning services from the user’s perspective. We are [recruiting an experienced and inspiring Chief Executive](/talent/ceo/) to lead the team in executing a bold agenda with a lasting impact.
+That is why we’ve launched the Canadian Digital Service, a team focused on redesigning services from the user’s perspective. We are recruiting an experienced and inspiring Chief Executive to lead the team in executing a bold agenda with a lasting impact.
 
 The CEO of CDS will have a broad mandate to fundamentally improve federal service delivery across the enterprise, with partner departments. This person will have the strongest support from the top to put users back at the center of everything we do.
 
@@ -24,5 +24,3 @@ If you’re excited by the opportunity we have before us as a government, as I a
 
 This is a unique opportunity to lead change for our country. You will make a difference.
 
-{:.text-center}
-[Learn more and apply now](/talent/ceo){:.button}
