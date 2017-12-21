@@ -4,6 +4,7 @@ description: "That’s why we created CDS. We need a digital team that can demon
 author: Pascale Elvas, Director, CDS
 date: 2017-08-03 10:00:00 -0400
 image: why-canada-needs-a-digital-service-2017.jpg
+image-alt: "Ryan Androsoff, Lena Trudeau, Anatole Papadopoulos, Olivia Neal, and Pascale Elvas"
 lang: en
 layout: cds/post
 trans_url: "/2017/08/03/pourquoi-canada-a-besoin-service-numerique"

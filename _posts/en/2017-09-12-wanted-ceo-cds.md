@@ -4,6 +4,7 @@ description: "The services our government provides play an important role in the
 author: Yaprak Baltacıoğlu, Secretary of the Treasury Board
 date: 2017-09-12 09:00:00 -0400
 image: wanted-ceo-cds-2017.jpg
+image-alt: "Yaprak Baltacıoğlu, Secretary of the Treasury Board"
 lang: en
 layout: cds/post
 trans_url: "/2017/09/12/recherche-dirigeant-principal-du-service-numerique-canadien"

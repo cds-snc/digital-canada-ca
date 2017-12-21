@@ -4,6 +4,7 @@ description: "A few weeks ago, we opened our public recruitment campaign, lookin
 author: Sean Boots, Developer, CDS
 date: 2017-11-06 09:00:00 -0400
 image: blog-technology-choices-at-cds-2017.jpg
+image-alt: "A computer screen showing results from a test suite"
 lang: en
 layout: cds/post
 trans_url: "/2017/11/06/les-choix-technologiques-du-snc"

@@ -4,6 +4,7 @@ description: "In technology, breakthroughs are occurring at a staggering pace. S
 author: Annie Leblond, Communications, CDS
 date: 2017-09-29 09:00:00 -0400
 image: blog-discussing-digital-in-french-2017.jpg
+image-alt: "Computer keyboard with a French flag on a key"
 lang: en
 layout: cds/post
 trans_url: "/2017/09/29/parler-numerique-en-francais"

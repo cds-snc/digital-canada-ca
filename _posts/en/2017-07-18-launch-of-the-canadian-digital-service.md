@@ -4,6 +4,7 @@ description: "The Government of Canada has an opportunity—and a responsibility
 author: The Honourable Scott Brison, President of the Treasury Board
 date: 2017-07-18 09:00:00 -0400
 image: launch-post-2017.jpg
+image-alt: "Scott Brison, President of the Treasury Board"
 lang: en
 layout: cds/post
 trans_url: "/2017/07/18/lancement-du-service-numerique-canadien"

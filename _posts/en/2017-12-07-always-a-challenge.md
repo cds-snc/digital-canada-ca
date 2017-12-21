@@ -4,6 +4,7 @@ description: "During our engagement sessions, people told us that the government
 author: Mario Garneau, Delivery Manager and Wendy Luciani, Partnership Lead
 date: 2017-12-07 09:00:00 -0400
 image: blog-always-a-challenge-2017.jpg
+image-alt: "The homepage of the Impact Canada Challenge Platform"
 lang: en
 layout: cds/post
 trans_url: "/2017/12/07/toujours-un-defi"
