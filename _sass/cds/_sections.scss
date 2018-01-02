@@ -395,6 +395,15 @@
 	.section-smallcaps-title {
 		text-transform: uppercase;
 		font-weight: bold;
+		font-size 		: 1.75rem;
+
+		@include tablet {
+			font-size 	: 2rem;
+		}
+		
+		@include tv {
+			font-size 	: 2.25rem;
+		}
 	}
 
 	.padding {
