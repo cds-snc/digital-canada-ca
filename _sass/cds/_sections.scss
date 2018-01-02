@@ -405,8 +405,19 @@
 	li {
 		list-style: square;
 		color: #F0CA4D;
+		margin: 0 0 11.5px;
 
-		.large-li-text {
+		@include tablet {
+			font-size 	: 2rem;
+		}
+
+		@include tv {
+			font-size 	: 2.25rem;
+			line-height: 3.5rem;
+			margin-bottom: 2.75rem;
+		}
+
+		span {
 			color: $white;
 		}
 
@@ -430,6 +441,20 @@
 
 		@include tv {
 			margin-bottom: 30px;
+		}
+	}
+
+	li {
+		margin: 0 0 11.5px;
+
+		@include tablet {
+			font-size 	: 2rem;
+		}
+
+		@include tv {
+			font-size 	: 2.25rem;
+			line-height: 3.5rem;
+			margin-bottom: 2.75rem;
 		}
 	}
 
