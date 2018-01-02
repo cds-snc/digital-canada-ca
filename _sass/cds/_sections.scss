@@ -395,7 +395,6 @@
 	.section-smallcaps-title {
 		text-transform: uppercase;
 		font-weight: bold;
-		margin-bottom: 3rem;
 	}
 
 	.padding {
@@ -410,19 +409,12 @@
 		.large-li-text {
 			color: $white;
 		}
+
 	}
 
 	.dark-background {
 		background: #034;
 		border-radius: 20px;
-	}
-
-	.bottom-margin {
-		margin-bottom: 2.8rem;
-	}
-
-	.top-margin {
-		margin-top: 1.5rem;
 	}
 
 	.border-top {
@@ -432,32 +424,16 @@
 
 .work-with-us--streams {
 
-	li {
-		line-height: 2.8rem;
+	.mrgn-bttm-lg {
 
-		p {
-			line-height: 2.8rem;
+		margin-bottom: 15px;
+
+		@include tv {
+			margin-bottom: 30px;
 		}
 	}
 
-	hr {
-		color	: $medium-grey;
-	}
-
-	.bottom-margin {
-		margin-bottom: 2.8rem;
-	}
-}
-
-.work-with-us--process {
-	border-top	: $medium-grey 1px solid;
-
-	.top-margin {
-		margin-top: 1.5rem;
-	}
-
-	ol > li {
-		font-weight: bold;
+	h4 {
 		font-size: 1.75rem;
 
 		@include tablet {
@@ -469,6 +445,14 @@
 		}
 	}
 
+	hr {
+		color	: $medium-grey;
+	}
+
+}
+
+.work-with-us--process {
+	border-top	: $medium-grey 1px solid;
 }
 
 .work-with-us--apply-now {
