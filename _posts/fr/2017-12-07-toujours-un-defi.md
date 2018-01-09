@@ -4,7 +4,7 @@ description: "Au cours de nos séances de mobilisation, les gens nous ont dit qu
 author: Mario Garneau, responsable de la prestation et Wendy Luciani, responsable des partenariats
 date: 2017-12-07 09:00:00 -0400
 image: blog-toujours-un-defi-2017.jpg
-image-alt:"La page d’accueil de la plateforme de défis Impact Canada."
+image-alt: "La page d’accueil de la plateforme de défis Impact Canada."
 lang: fr
 layout: cds/post
 trans_url: "/2017/12/07/always-a-challenge"
