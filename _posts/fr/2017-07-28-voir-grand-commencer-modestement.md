@@ -4,7 +4,7 @@ description: "Nous sommes ici pour améliorer les services gouvernementaux, et p
 author: Sean Boots, Développeur, SNC
 date: 2017-07-28 10:00:00 -0400
 image: blog-think-big-start-small-2017.jpg
-image-alt:
+image-alt: "Des membres de l'équipe du SNC célèbrent le lancement du site web avec le pouce vers le haut."
 lang: fr
 layout: cds/post
 trans_url: "/2017/07/28/think-big-start-small"
