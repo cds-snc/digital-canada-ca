@@ -3,7 +3,8 @@ title: "L’embauche au SNC : comment s’y prend-on dans un modèle d’entrep
 description: "Notre manière de faire du recrutement et de renforcer l’effectif d’une équipe de services numériques qui se met immédiatement au travail et qui aide à relever les défis liés aux services dans l’ensemble du gouvernement suscite beaucoup d’intérêt. Voilà pourquoi je suis ravie de bloguer sur les pratiques d’embauche au SNC."
 author: Meera Makim Cunningham, responsable des Opérations internes
 date: 2018-01-09 09:00:00 -0400
-image: blog-hiring-at-cds-2018.jpg
+image: blog-hiring-2018.jpg
+image-alt: "Membres de l’équipe du SNC"
 lang: fr
 layout: cds/post
 trans_url: "/2018/01/09/hiring-at-cds"
