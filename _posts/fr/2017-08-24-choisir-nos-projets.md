@@ -4,7 +4,7 @@ description: "Si le fait d’utiliser la technologie de pointe suscite beaucoup 
 author: Wendy Luciani, Gestionnaire des partenariats, SNC
 date: 2017-08-24 10:00:00 -0400
 image: picking-our-projects-2017.jpg
-image-alt:
+image-alt: "Affiches dans les locaux du SNC."
 lang: fr
 layout: cds/post
 trans_url: "/2017/08/24/picking-our-projects/"
