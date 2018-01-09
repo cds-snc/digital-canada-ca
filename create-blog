@@ -1,0 +1,35 @@
+#!/bin/bash
+
+YEAR=`date +%Y`
+MONTH=`date +%m`
+DAY=`date +%d`
+
+# Create English template
+cat > ./_posts/en/$YEAR-$MONTH-$DAY-$1.md << EOF
+---
+title: ""
+description: ""
+author: 
+date: $YEAR-$MONTH-$DAY 09:00:00 -0400
+image: 
+image-alt: 
+lang: en
+layout: cds/post
+trans_url: "/$YEAR/$MONTH/$DAY/$2"
+---
+EOF
+
+# Create French template
+cat > ./_posts/fr/$YEAR-$MONTH-$DAY-$2.md << EOF
+---
+title: ""
+description: ""
+author: 
+date: $YEAR-$MONTH-$DAY 09:00:00 -0400
+image: 
+image-alt: 
+lang: fr
+layout: cds/post
+trans_url: "/$YEAR/$MONTH/$DAY/$1"
+---
+EOF
