@@ -4,6 +4,7 @@ description: "C’est une période emballante au Service numérique canadien (SN
 author: Mario Garneau, Mithula Naik et Ryan Androsoff (SNC)
 date: 2017-10-24 09:00:00 -0400
 image: blog-framing-a-design-problem-2017.jpg
+image-alt: "Une salle remplie de chaises inoccupées lors d’une cérémonie de citoyenneté."
 lang: fr
 layout: cds/post
 trans_url: "/2017/10/24/framing-a-design-problem"

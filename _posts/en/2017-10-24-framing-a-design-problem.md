@@ -4,6 +4,7 @@ description: "It’s an exciting time at the Canadian Digital Service (CDS) as w
 author: Mario Garneau, Mithula Naik and Ryan Androsoff (CDS)
 date: 2017-10-24 09:00:00 -0400
 image: blog-framing-a-design-problem-2017.jpg
+image-alt: "A room full of empty chairs at a citizenship ceremony"
 lang: en
 layout: cds/post
 trans_url: "/2017/10/24/circonscrire-un-probleme-de-conception"

@@ -4,6 +4,7 @@ description: "Putting users first. That’s what CDS is all about.  Digital gove
 author: Anatole Papadopoulos, Executive Director, CDS
 date: 2017-07-25 10:00:00 -0400
 image: blog-its-about-people-2017.jpg
+image-alt: "Anatole Papadopoulos speaking to some CDS staff"
 lang: en
 layout: cds/post
 trans_url: "/2017/07/25/ce-sont-les-gens-qui-comptent"

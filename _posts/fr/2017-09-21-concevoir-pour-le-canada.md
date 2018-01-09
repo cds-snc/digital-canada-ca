@@ -4,6 +4,7 @@ description: "Après un bref congé sabbatique et une décennie passée au Royau
 author: Chris Govias, chef de la conception, SNC
 date: 2017-09-21 09:00:00 -0400
 image: blog-designing-for-canada-2017.jpg
+image-alt: "Chris Govias, chef de la conception, SNC"
 lang: fr
 layout: cds/post
 trans_url: "/2017/09/21/designing-for-canada/"

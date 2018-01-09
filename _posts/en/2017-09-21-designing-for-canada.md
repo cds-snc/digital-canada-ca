@@ -4,6 +4,7 @@ description: "After a short sabbatical and a decade in the U.K., I'm delighted t
 author: Chris Govias, Chief of Design, CDS
 date: 2017-09-21 09:00:00 -0400
 image: blog-designing-for-canada-2017.jpg
+image-alt: "Chris Govias, Chief of Design at CDS"
 lang: en
 layout: cds/post
 trans_url: "/2017/09/21/concevoir-pour-le-canada"

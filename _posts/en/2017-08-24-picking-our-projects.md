@@ -4,6 +4,7 @@ description: "While using the latest technology may get more buzz, at CDS we’r
 author: Wendy Luciani, Partnership Lead, CDS
 date: 2017-08-24 10:00:00 -0400
 image: picking-our-projects-2017.jpg
+image-alt: "Posters in the CDS office"
 lang: en
 layout: cds/post
 trans_url: "/2017/08/24/choisir-nos-projets"

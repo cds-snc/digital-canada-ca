@@ -4,6 +4,7 @@ description: "We’re here to help build better government services, and to expe
 author: Sean Boots, Developer, CDS
 date: 2017-07-28 10:00:00 -0400
 image: blog-think-big-start-small-2017.jpg
+image-alt: "Some members of the CDS team celebrating the website launch with a thumbs up"
 lang: en
 layout: cds/post
 trans_url: "/2017/07/28/voir-grand-commencer-modestement"

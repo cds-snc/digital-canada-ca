@@ -4,6 +4,7 @@ description: "Le gouvernement du Canada a la possibilité et la responsabilité 
 author: L'honorable Scott Brison, Président du Conseil du Trésor
 date:   2017-07-18 09:00:00 -0400
 image: launch-post-2017.jpg
+image-alt: "L'honorable Scott Brison, Président du Conseil du Trésor"
 lang: fr
 layout: cds/post
 trans_url: "/2017/07/18/launch-of-the-canadian-digital-service"

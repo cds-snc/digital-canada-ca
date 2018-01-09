@@ -4,6 +4,7 @@ description: "A few weeks ago, I had the chance to participate in the Connected1
 author: Hillary Hartley, Chief Digital Officer, Government of Ontario
 date: 2017-11-20 09:00:00 -0400
 image: blog-in-this-together-2017.jpg
+image-alt: "The Ontario Digital Service team"
 lang: en
 layout: cds/post
 trans_url: "/2017/11/20/nous-sommes-tous-concernes"
