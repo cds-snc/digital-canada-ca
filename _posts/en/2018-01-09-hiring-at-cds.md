@@ -31,7 +31,7 @@ Many of our initial hires were staffed as casual workers followed by term appoin
 
 We expect to be making use of Interchange for all kinds of recruitment as it is a great way to mobilize talent, build capacity through temporary assignments, enrich jobs and exchange skills.
 
-If you are interested in knowing more about how CDS is using interchange to build capacity, keep an eye on our blog. John Millons is preparing a post on that topic, which will feature our partnership with Code for Canada.
+If you are interested in knowing more about how CDS is using Interchange to build capacity, keep an eye on our blog. John Millons is preparing a post on that topic, which will feature our partnership with Code for Canada.
 
 **Students** – CDS has already benefitted from hiring students through internship and COOP programs as well as via the [Federal Student Work Exchange Program](https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html) (FSWEP).
 
