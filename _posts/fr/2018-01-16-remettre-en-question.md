@@ -1,7 +1,7 @@
 ---
 title: "L’accessibilité au SNC - Remettre en question nos hypothèses de départ concernant les images d’ambiance "
 description: "Nous avons récemment reçu des commentaires sur notre référentiel Github concernant l'accessibilité des images de premier plan utilisées sur certaines pages de notre site Web, y compris sur notre blogue."
-author: Dave Samojlenko, Développeur 
+author: Dave Samojlenko, développeur 
 date: 2018-01-16 09:00:00 -0400
 image: blog-accessibility-2018.jpg
 image-alt: "Clavier avec des touches représentant des fonctionnalités d'accessibilité"
