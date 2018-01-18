@@ -32,7 +32,7 @@ There are so many great resources on the web for learning about accessibility. T
 
 * [18F Accessiblity Guide](https://accessibility.18f.gov/)
 * [24 Accessibility](https://www.24a11y.com/)
-* [Bien utiliser le texte alternatif – Tout est dans le contexte](http://www.pompage.net/traduction/Bien-utiliser-le-texte-alternatif#contexte) (in French)
+* [Alternative Text - Context is Everything](https://webaim.org/techniques/alttext/#context)
 * [CanAdapt ](http://www.davidmacd.com/index.html#blog) blog posts by WCAG team member David MacDonald, in particular [Alternate text for CSS background images](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) and [When can a web author use null alt text](http://www.davidmacd.com/blog/what-is-pure-decoration-alt-text-in-wcag.html)
 * [Des images accessibles](https://openweb.eu.org/articles/accessibilite_images) (in French)
 * [GDS Accessibility Blog](https://accessibility.blog.gov.uk/)
