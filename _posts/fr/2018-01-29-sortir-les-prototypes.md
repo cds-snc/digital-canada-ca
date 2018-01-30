@@ -1,7 +1,7 @@
 ---
 title: "Sortir les prototypes : l’application de breffage électronique"
 description: "Obtenir la rétroaction directe des utilisateurs est la meilleure façon d’améliorer un produit numérique. Pour nous faire la main, avant notre lancement officiel, nous voulions entreprendre un projet qui illustrerait « l’art du possible » avec des outils numériques modernes."
-author: Dave Samojlenko, Développeur et Sean Boots, Conseil
+author: Dave Samojlenko et Sean Boots, SNC
 date: 2018-01-29 09:00:00 -0400
 image: blog-ebriefing-2018.jpg
 image-alt: "La première équipe de prestation du SNC en train de finaliser et de tester la première version de l'application de breffage électronique."
