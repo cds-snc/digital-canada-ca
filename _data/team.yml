@@ -20,7 +20,7 @@ exec:
   - name: Jason White
     title:
       en: Head of Data Science
-      fr: Chef, Sciences des données
+      fr: Chef, sciences des données
     image-name: jason-white.jpg
     twitter: actinolite?lang=en
     email: jason.white@tbs-sct.gc.ca
@@ -64,7 +64,7 @@ team:
   - name: Brianne Matheson
     title:
       en: Partnerships Assistant
-      fr: Assistant de Partenariats
+      fr: Assistant aux partenariats
     image-name: brianne-matheson.jpg
     twitter: bri_matheson1
     linkedin: brianne-matheson-8bba74132
@@ -89,7 +89,7 @@ team:
   - name: Dave Toeg 
     title:
       en: Senior Advisor, Partnerships
-      fr: Conseiller Principal des Partenariats
+      fr: Conseiller principal aux partenariats
     image-name: dave-toeg.jpg
     twitter: davetoeg
     linkedin: davetoeg
@@ -107,7 +107,7 @@ team:
   - name: Eva Demers-Brett
     title:
       en: Developer
-      fr: Développeur 
+      fr: Développeuse
     image-name: eva-demers-brett.jpg
     email: Eva.Demers-Brett@tbs-sct.gc.ca
 
@@ -162,7 +162,7 @@ team:
   - name: Kelsey Harris
     title:
       en: Partnerships Assistant
-      fr: Assistant de Partenariats
+      fr: Assistant aux partenariats
     image-name: Kelsey-harris.jpg
     linkedin: kelsey-harris-39373b139
     email: Kelsey.Harris@tbs-sct.gc.ca
