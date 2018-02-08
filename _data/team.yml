@@ -17,6 +17,14 @@ exec:
     linkedin: cgovias
     email: Christopher.Govias@tbs-sct.gc.ca
 
+  - name: Jason White
+    title:
+      en: Head of Data Science
+      fr: Chef, science des données
+    image-name: jason-white.jpg
+    twitter: actinolite
+    email: jason.white@tbs-sct.gc.ca
+
   - name: Lena Trudeau
     title: 
       en: Senior Advisor
@@ -53,6 +61,14 @@ team:
     linkedin: annieleblond
     email: Annie.Leblond@tbs-sct.gc.ca
 
+  - name: Brianne Matheson
+    title:
+      en: Partnerships Assistant
+      fr: Assistant aux partenariats
+    image-name: brianne-matheson.jpg
+    twitter: bri_matheson1
+    linkedin: brianne-matheson-8bba74132
+
   - name: Daniel Tse
     title:
       en: Code For Canada Fellow | Product Manager
@@ -70,10 +86,28 @@ team:
     twitter: dsamojlenko
     github: dsamojlenko
 
+  - name: Dave Toeg 
+    title:
+      en: Senior Advisor, Partnerships
+      fr: Conseiller principal aux partenariats
+    image-name: dave-toeg.jpg
+    twitter: davetoeg
+    linkedin: davetoeg
+    email: dave.toeg@tbs-sct.gc.ca 
+
+  - name: David Buckley
+    title:
+      en: Developer | Data Scientist
+      fr: Développeur | Scientifique des données 
+    image-name: david-buckley.jpg
+    linkedin: david-buckley-0aba5783
+    github: buckley-w-david
+    email: david.buckley@tbs-sct.gc.ca
+
   - name: Eva Demers-Brett
     title:
       en: Developer
-      fr: Développeur 
+      fr: Développeuse
     image-name: eva-demers-brett.jpg
     email: Eva.Demers-Brett@tbs-sct.gc.ca
 
@@ -85,6 +119,22 @@ team:
     twitter: emanelfy
     linkedin: eelfayomi
     email: Eman.El-Fayomi@tbs-sct.gc.ca
+
+  - name: Hillary Lorimer
+    title:
+      en: Design | Insights
+      fr: Conception | Perception
+    image-name: Hillary-Lorimer.jpg
+    twitter: hillarylorimer
+    linkedin: hillary-b-lorimer
+    email: Hillary.Lorimer@tbs-sct.gc.ca
+
+  - name: Jessica Loadenthal
+    title:
+      en: Operations | Staffing
+      fr: Opérations | Dotation
+    image-name: jessica-loadenthal.jpg
+    email: Jessica.Loadenthal@tbs-sct.gc.ca
 
   - name: James Mickle
     title:
@@ -108,6 +158,14 @@ team:
     image-name: john-millons.jpg
     twitter: JohnMillons
     email: John.Millons@tbs-sct.gc.ca
+
+  - name: Kelsey Harris
+    title:
+      en: Partnerships Assistant
+      fr: Assistant de Partenariats
+    image-name: Kelsey-harris.jpg
+    linkedin: kelsey-harris-39373b139
+    email: Kelsey.Harris@tbs-sct.gc.ca
 
   - name: Leon Lukashevsky
     title:
@@ -136,14 +194,6 @@ team:
     image-name: meera-cunningham.jpg
     email: Meera.Cunningham@tbs-sct.gc.ca
 
-  - name: Melissa Poon
-    title: 
-      en: Communications
-      fr: Communications
-    image-name: melissa-poon.jpg
-    linkedin: melissaykpoon
-    email: Melissa.Poon@tbs-sct.gc.ca 
-
   - name: Mike Williamson
     title:
       en: Developer | Data
@@ -168,6 +218,14 @@ team:
     twitter: makuch_nick
     email: nick.makuch@tbs-sct.gc.ca
 
+  - name: Priyanka Rahman
+    title:
+      en: Operations | Recruitment
+      fr: Opérations | Recrutement
+    image-name: priyanka-rahman.jpg
+    linkedin: priyanka-rahman-5b91a8145
+    email: Priyanka.Rahman@tbs-sct.gc.ca
+
   - name: Raluca Ene
     title: 
       en: Code For Canada Fellow | UX Designer
@@ -185,6 +243,14 @@ team:
     twitter: sboots
     linkedin: seanboots
     github: sboots
+
+  - name: Sharmima Begum
+    title:
+      en: Operations | Recruitment
+      fr: Opérations | Recrutement
+    image-name: sharmima-begum.jpg
+    linkedin: sharmimabegum
+    email: Sharmima.Begum@tbs-sct.gc.ca
 
   - name: Shelley Bagg
     title:
@@ -209,15 +275,6 @@ team:
     image-name: steven-ray-talbot.jpg
     twitter: StevieRayTalbot
     email: Steven.Talbot@tbs-sct.gc.ca
-
-  - name: Yeremia Djaja
-    title:
-      en: User Experience (UX) | Developer
-      fr: Expérience utilisateur (EU) | Développeur 
-    image-name: yeremia-djaja.jpg
-    twitter: YeremiaD
-    linkedin: yeremia-djaja-325b30a4
-    github: yeremia-d
 
   # - name: 
   #   title:
