@@ -88,7 +88,7 @@ team:
 
   - name: Dave Toeg 
     title:
-      en: Senior Advisor, Partnerships
+      en: Senior Advisor | Partnerships
       fr: Conseiller principal aux partenariats
     image-name: dave-toeg.jpg
     twitter: davetoeg
@@ -124,7 +124,7 @@ team:
     title:
       en: Design | Insights
       fr: Conception | Perception
-    image-name: Hillary-Lorimer.jpg
+    image-name: hillary-lorimer.jpg
     twitter: hillarylorimer
     linkedin: hillary-b-lorimer
     email: Hillary.Lorimer@tbs-sct.gc.ca
@@ -144,6 +144,13 @@ team:
     twitter: james_mickle
     linkedin: james-mickle-4b012796
 
+  - name: Jennifer Fletcher
+    title:
+      en: Advisor | Partnerships
+      fr: Conseiller | Partenariats
+    image-name: jennifer-fletcher.jpg
+    email: jennifer.fletcher@tbs-sct.gc.ca
+
   - name: Jennifer Morin
     title:
       en: Operations | Staffing
@@ -162,8 +169,8 @@ team:
   - name: Kelsey Harris
     title:
       en: Partnerships Assistant
-      fr: Assistant de Partenariats
-    image-name: Kelsey-harris.jpg
+      fr: Assistant de partenariats
+    image-name: kelsey-harris.jpg
     linkedin: kelsey-harris-39373b139
     email: Kelsey.Harris@tbs-sct.gc.ca
 
