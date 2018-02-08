@@ -20,7 +20,7 @@ exec:
   - name: Jason White
     title:
       en: Head of Data Science
-      fr: Chef, sciences des données
+      fr: Chef, science des données
     image-name: jason-white.jpg
     twitter: actinolite?lang=en
     email: jason.white@tbs-sct.gc.ca
