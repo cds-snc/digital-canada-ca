@@ -166,6 +166,15 @@ team:
     twitter: JohnMillons
     email: John.Millons@tbs-sct.gc.ca
 
+  - name: John O'Brien
+    title:
+      en: Security Lead
+      fr: Responsable des questions de sécurité
+    image-name: john-obrien.jpg
+    twitter: boardom_ca
+    linkedin: boardom
+    email: john.o’brien@tbs-sct.gc.ca
+
   - name: Kelsey Harris
     title:
       en: Partnerships Assistant
