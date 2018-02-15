@@ -3,7 +3,7 @@ title: "Travailler dans les locaux de RNCan pendant une semaine - Partie 2"
 description: "Nous construisons une interface de programmation d’applications (API) publique pour Ressources naturelles Canada (RNCan); cette API vise à ouvrir l’accès aux données ÉnerGuide sur la consommation d’énergie résidentielle."
 author: Jason White, Chef, science des données
 date: 2018-02-14 09:00:00 -0400
-image: blog-colocating-with-NRCan.jpg
+image: blog-colocating-with-NRCAN.jpg
 image-alt: Jason et Dave debouts devant l'édifice de Ressources naturelles Canada
 lang: fr
 layout: cds/post
