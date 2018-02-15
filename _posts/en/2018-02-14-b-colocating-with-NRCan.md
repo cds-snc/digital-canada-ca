@@ -7,7 +7,7 @@ image: blog-colocating-with-NRCAN.jpg
 image-alt: Jason and Dave standing in front of the building of Natural Resources Canada
 lang: en
 layout: cds/post
-trans_url: "/2018/02/14/travailler-dans-les-locaux-de-RNCan"
+trans_url: "/2018/02/14/b-travailler-dans-les-locaux-de-RNCan"
 ---
 
 We are building a public-facing application programming interface (API) for National Resources Canada to open up access to EnerGuide Home Energy Ratings data. We talk about the details of this partnership in our post [Conducting user research with NRCan to inform an API build - Part 1](/2018/02/14/a-conducting-user-research-with-NRCan/).
