@@ -3,7 +3,7 @@ title: "Co-locating with NRCan for a week - Part 2"
 description: "We are building a public-facing application programming interface (API) for National Resources Canada to open up access to EnerGuide Home Energy Ratings data."
 author: Jason White, Head of Data Science
 date: 2018-02-14 09:00:00 -0400
-image: blog-colocating-with-NRCan.jpg
+image: blog-colocating-with-NRCAN.jpg
 image-alt: Jason and Dave standing in front of the building of Natural Resources Canada
 lang: en
 layout: cds/post
