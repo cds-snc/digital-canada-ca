@@ -636,6 +636,25 @@
 
 article.post {
 	padding: 2rem 0;
+
+	img {
+
+        margin-bottom: 2.0em;
+
+	}
+
+	a.large-link {
+
+	    @include tablet {
+			font-size 	: 2.25rem;
+		}
+
+		@include tv {
+			font-size: 2.25rem;
+		}
+
+	}
+	
 	.post-header {
 		font-weight: 500;
 		font-size: 1.5rem;
