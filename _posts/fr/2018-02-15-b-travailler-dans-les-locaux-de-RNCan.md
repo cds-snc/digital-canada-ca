@@ -2,15 +2,15 @@
 title: "Travailler dans les locaux de RNCan pendant une semaine - Partie 2"
 description: "Nous construisons une interface de programmation d’applications (API) publique pour Ressources naturelles Canada (RNCan); cette API vise à ouvrir l’accès aux données ÉnerGuide sur la consommation d’énergie résidentielle."
 author: Jason White, Chef, science des données
-date: 2018-02-14 09:00:00 -0400
+date: 2018-02-15 09:00:00 -0400
 image: blog-colocating-with-NRCAN.jpg
 image-alt: Jason et Dave debouts devant l'édifice de Ressources naturelles Canada
 lang: fr
 layout: cds/post
-trans_url: "/2018/02/14/b-colocating-with-NRCan"
+trans_url: "/2018/02/15/b-colocating-with-NRCan"
 ---
 
-Nous construisons une interface de programmation d’applications (API) publique pour Ressources naturelles Canada (RNCan); cette API vise à ouvrir l’accès aux données ÉnerGuide sur la consommation d’énergie résidentielle. Les détails de ce partenariat font l’objet du billet [La recherche utilisateur avec RNCan&nbsp;: orienter la conception d’une API – Partie 1.](/2018/02/14/a-la-recherche-utilisateur-avec-RNCan/)
+Nous construisons une interface de programmation d’applications (API) publique pour Ressources naturelles Canada (RNCan); cette API vise à ouvrir l’accès aux données ÉnerGuide sur la consommation d’énergie résidentielle. Les détails de ce partenariat font l’objet du billet [La recherche utilisateur avec RNCan&nbsp;: orienter la conception d’une API – Partie 1.](/2018/02/15/a-la-recherche-utilisateur-avec-RNCan/)
 
 Lorsqu’est venu le temps de passer à la «&nbsp;phase d’élaboration&nbsp;» récemment, nous avions de nombreuses questions au sujet des données sources. Même si nous avions obtenu par courriel divers documents, données d’échantillonnage, fichiers de schémas et autres, il restait beaucoup d’incertitude de notre côté quant à la façon dont les systèmes existants communiquaient entre eux et quant à la signification de certaines données d’échantillonnage.
 

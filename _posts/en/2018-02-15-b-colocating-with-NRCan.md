@@ -2,15 +2,15 @@
 title: "Co-locating with NRCan for a week - Part 2"
 description: "We are building a public-facing application programming interface (API) for National Resources Canada to open up access to EnerGuide Home Energy Ratings data."
 author: Jason White, Head of Data Science
-date: 2018-02-14 09:00:00 -0400
+date: 2018-02-15 09:00:00 -0400
 image: blog-colocating-with-NRCAN.jpg
 image-alt: Jason and Dave standing in front of the building of Natural Resources Canada
 lang: en
 layout: cds/post
-trans_url: "/2018/02/14/b-travailler-dans-les-locaux-de-RNCan"
+trans_url: "/2018/02/15/b-travailler-dans-les-locaux-de-RNCan"
 ---
 
-We are building a public-facing application programming interface (API) for National Resources Canada to open up access to EnerGuide Home Energy Ratings data. We talk about the details of this partnership in our post [Conducting user research with NRCan to inform an API build - Part 1](/2018/02/14/a-conducting-user-research-with-NRCan/).
+We are building a public-facing application programming interface (API) for National Resources Canada to open up access to EnerGuide Home Energy Ratings data. We talk about the details of this partnership in our post [Conducting user research with NRCan to inform an API build - Part 1](/2018/02/15/a-conducting-user-research-with-NRCan/).
 
 As we recently switched to the “build phase”, we had a lot of questions about the source data. Even though we had been provided with a wide range of documentation, sample data, schema files, etc. by email, there was a lot of uncertainty on our side over how the existing systems worked together, and what some of the sample data meant.
 
