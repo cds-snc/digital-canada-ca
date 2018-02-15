@@ -636,6 +636,41 @@
 
 article.post {
 	padding: 2rem 0;
+
+	img {
+
+        margin-bottom: 2.0em;
+
+	}
+
+	a {
+
+	    @include tablet {
+			font-size 	: 2.25rem;
+		}
+
+		@include tv {
+			font-size: 2.25rem;
+		}
+
+	}
+	
+	li {
+
+		font-weight  : 100;
+
+		@include tablet {
+			font-size 	: 2.0rem;
+			margin-bottom: 0.5rem;
+		}
+
+		@include tv {
+			font-size: 2rem;
+			line-height: 1.75em;
+			margin-bottom: 0.5rem;
+		}
+	}
+	
 	.post-header {
 		font-weight: 500;
 		font-size: 1.5rem;
