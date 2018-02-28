@@ -70,4 +70,32 @@
     .table-bordered td {
         border: 1px solid #ddd !important;
     }
+
+    /* Additional print fixes */
+
+    body {
+        /*padding: 0 5em;*/
+    }
+
+    .engagement-report-section {
+        margin: 0 5em;
+
+        li + li,
+        li ul:first-child  { margin-top: 0.75em; }
+    }
+
+    a.toplink {
+        display:none!important;
+    }
+
+    .comment-panel {
+        border-top: 3px solid #1d344b;
+        border-bottom: 3px solid #1d344b;
+        margin: 2em;
+        padding: 1em 4em;
+    }
+
+    .heading-container {
+        margin: 2em 1em;
+    }
 }
