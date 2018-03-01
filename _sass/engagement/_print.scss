@@ -24,11 +24,18 @@
     a[href^="javascript:"]:after {
         content: "";
     }
-    pre,
-    blockquote {
+    pre {
         border: 1px solid #999;
         page-break-inside: avoid;
     }
+
+    blockquote {
+        page-break-inside: avoid;
+        margin-left: 2em;
+        border: none;
+        font-size: 18px;
+    }
+
     thead {
         display: table-header-group;
     }
@@ -70,4 +77,151 @@
     .table-bordered td {
         border: 1px solid #ddd !important;
     }
+
+    /* Additional print fixes */
+
+    body {
+        /*padding: 0 5em;*/
+        font-size: 18px;
+        line-height: 1.5;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    h3 {
+        font-size: 26px;
+    }
+
+    p {
+        margin: 0 0 1.1em;
+    }
+
+    ul {
+        margin: 0 0 1.6em;
+    }
+
+    p em.caption {
+        margin: 0.3em 0;
+        display: block;
+    }
+
+    .engagement-report-section {
+        margin: 0 4em;
+
+        li + li,
+        li ul:first-child  { margin-top: 1.1em; }
+
+
+    }
+
+    a.toplink {
+        display:none!important;
+    }
+
+    .comment-panel {
+
+        page-break-inside: avoid;
+
+        border: 5px solid #1d344b;
+        margin: 1.8em 0em;
+        padding: 1.8em 2.8em;
+
+        p:last-child {
+            margin: 0;
+        }
+
+        background: transparent;
+
+        &.section--intro {
+            border-color: #1d344b;
+            background: transparent !important;
+        }
+        &.section--engagement {
+            border-color: $engagement-color;
+            background: transparent !important;
+        }
+        &.section--organizing {
+            border-color: $organizing-color;
+            background: transparent !important;
+        }
+        &.section--talent {
+            border-color: $talent-color;
+            background: transparent !important;
+        }
+        &.section--design {
+            border-color: $design-color;
+            background: transparent !important;
+        }
+        &.section--foundations {
+            border-color: $foundations-color;
+            background: transparent !important;
+        }
+        &.section--your-thoughts {
+            border-color: $yourthoughts-color;
+            background: transparent !important;
+        }
+    }
+
+    .heading-container {
+
+        page-break-after: avoid;
+
+        margin: 2em 1em;
+
+        .title {
+            font-size: 40px;
+        }
+
+        .subtitle {
+            font-size: 30px;
+        }
+
+
+        h2 {
+            font-size: 36px;
+
+            border-bottom: 4px solid #1d344b;
+
+            /* Previous margin-bottom was 11.5px */
+            margin-bottom: 9px;
+            padding-bottom: 7px;
+
+        }
+
+        /* H2 border colours */
+        &.section--engagement {
+            h2 {
+                border-color: $engagement-color;
+            }
+        }
+        &.section--organizing {
+            h2 {
+                border-color: $organizing-color;
+            }
+        }
+        &.section--talent {
+            h2 {
+                border-color: $talent-color;
+            }
+        }
+        &.section--design {
+            h2 {
+                border-color: $design-color;
+            }
+        }
+        &.section--foundations {
+            h2 {
+                border-color: $foundations-color;
+            }
+        }
+        &.section--your-thoughts {
+            h2 {
+                border-color: $yourthoughts-color;
+            } 
+        }
+    }
+
+
 }
