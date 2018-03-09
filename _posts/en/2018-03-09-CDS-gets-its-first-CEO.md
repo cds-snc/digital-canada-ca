@@ -18,7 +18,7 @@ In September, Yaprak Baltacıoğlu, Secretary of the Treasury Board, [launched t
 
 We are thrilled to have Aaron join us at CDS, where he will play a pivotal role helping departments make better use of digital technology, agile methods, and user-centred design to better serve everyone who uses federal services. 
 
-Aaron was a co-founder, Director of Delivery, and ultimately Executive Director of [18F](https://18f.gsa.gov/), the United States Government’s 200-person digital services team. He also served as a Presidential Innovation Fellow under Barack Obama, focusing on technology procurement. 
+Aaron was a co-founder, Director of Delivery, and ultimately Executive Director of [18F](https://18f.gsa.gov/), the United States Government’s 200-person digital services team. He also served as a Presidential Innovation Fellow under President Barack Obama, focusing on technology procurement. 
 
 Aaron also held the roles of Deputy Commissioner and Senior Advisor at the U.S. Government’s [Technology Transformation Service (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services). TTS is a $100M collection of cutting edge programs improving the U.S. government's use of technology to better serve the public.
 
