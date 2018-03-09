@@ -19,7 +19,7 @@ En septembre, Yaprak Baltacıoğlu, secrétaire du Conseil du Trésor, [a lancé
 
 Nous sommes ravis d’accueillir Aaron au SNC. Il jouera un rôle déterminant, soit celui d’aider les ministères à tirer profit de la technologie numérique, de méthodes agiles et de la conception centrée sur l’utilisateur dans le but de mieux servir tous ceux et celles qui utilisent les services fédéraux. 
 
-Aaron a cofondé [18F](https://18f.gsa.gov/), l’équipe des services numériques du gouvernement des États-Unis composée de 200 employés, où il a aussi occupé les fonctions de directeur de la prestation et de directeur général. Il a aussi été Presidential Innovation Fellow sous Barack Obama, rôle qui l’a amené à se concentrer sur l’approvisionnement en matière de technologie. 
+Aaron a cofondé [18F](https://18f.gsa.gov/), l’équipe des services numériques du gouvernement des États-Unis composée de 200 employés, où il a aussi occupé les fonctions de directeur de la prestation et de directeur général. Il a aussi été Presidential Innovation Fellow sous le président Barack Obama, rôle qui l’a amené à se concentrer sur l’approvisionnement en matière de technologie. 
 
 Auparavant, Aaron a occupé les fonctions de sous-commissaire et conseiller principal des [Technology Transformation Services (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) du gouvernement américain. TTS représente un ensemble de programmes de pointe chiffrés à 100 millions de dollars permettant d’améliorer l’utilisation de la technologie par le gouvernement américain dans le but de mieux service le public.
 

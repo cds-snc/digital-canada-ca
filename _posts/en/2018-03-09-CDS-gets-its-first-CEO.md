@@ -1,5 +1,5 @@
 ---
-title: "CDS gets it's first Chief Executive Officer, Aaron Snow"
+title: "CDS gets its first Chief Executive Officer, Aaron Snow"
 description: "We are thrilled to have Aaron Snow join us at CDS. As our first CEO, Aaron will have a key role helping departments make better use of digital, to better serve Canadians."
 author: Anatole Papadopoulos, Executive Director, CDS
 date: 2018-03-09 09:00:00 -0400
@@ -24,7 +24,7 @@ Aaron also held the roles of Deputy Commissioner and Senior Advisor at the U.S. 
 
 Aaron joins CDS after serving as the Chief Operating Officer of [cBrain](https://www.cbrain.com/) North America through much of 2017. He is also co-founder and Chief Technology Officer of [Voter Protection Partners](https://voterprotection.partners/) and a member of the [OpenGov Foundation's](https://www.opengovfoundation.org/) Board of Directors.
 
-As CEO, Aaron will work along side the Government of Canada Chief Information Officer, Alex Benay, and with colleagues across the government to drive the country's digital agenda.
+As CEO, Aaron will work alongside the Government of Canada Chief Information Officer, Alex Benay, and with colleagues across the government to drive the country's digital agenda.
 
 On behalf of the CDS team, I want to express our sincerest appreciation to all of those who applied. From even before the formal launch of CDS, I have been struck by the generosity of colleagues across Canada and around the world in sharing their experiences, lessons, and wisdom with us. The interest of many leaders in joining our mission has only reinforced the dedication and sense of community of the growing digital government movement.
 
