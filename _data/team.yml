@@ -26,7 +26,7 @@ exec:
     email: jason.white@tbs-sct.gc.ca
 
   - name: Lena Trudeau
-    title: 
+    title:
       en: Senior Advisor
       fr: Conseillère principale
     image-name: lena-trudeau.jpg
@@ -35,7 +35,7 @@ exec:
     email: Lena.Trudeau@tbs-sct.gc.ca
 
   - name: Pascale Elvas
-    title: 
+    title:
       en: Director
       fr: Directrice
     image-name: pascale-elvas.jpg
@@ -44,7 +44,7 @@ exec:
     email: Pascale.Elvas@tbs-sct.gc.ca
 
   - name: Wendy Luciani
-    title: 
+    title:
       en: Partnership Lead
       fr: Gestionnaire des partenariats
     image-name: wendy-luciani.jpg
@@ -86,19 +86,19 @@ team:
     twitter: dsamojlenko
     github: dsamojlenko
 
-  - name: Dave Toeg 
+  - name: Dave Toeg
     title:
       en: Senior Advisor | Partnerships
       fr: Conseiller principal aux partenariats
     image-name: dave-toeg.jpg
     twitter: davetoeg
     linkedin: davetoeg
-    email: dave.toeg@tbs-sct.gc.ca 
+    email: dave.toeg@tbs-sct.gc.ca
 
   - name: David Buckley
     title:
       en: Developer | Data Scientist
-      fr: Développeur | Scientifique des données 
+      fr: Développeur | Scientifique des données
     image-name: david-buckley.jpg
     linkedin: david-buckley-0aba5783
     github: buckley-w-david
@@ -154,7 +154,7 @@ team:
   - name: Jennifer Morin
     title:
       en: Operations | Staffing
-      fr: Opérations | Dotation 
+      fr: Opérations | Dotation
     image-name: jennifer-morin.jpg
     email: Jennifer.Morin@tbs-sct.gc.ca
 
@@ -204,7 +204,7 @@ team:
     github: mcman12
 
   - name: Meera Makim Cunningham
-    title: 
+    title:
       en: Operations | Staffing
       fr: Opérations | Dotation
     image-name: meera-cunningham.jpg
@@ -228,7 +228,7 @@ team:
 
   - name: Nick Makuch
     title:
-      en: Design | Multimedia 
+      en: Design | Multimedia
       fr: Design | Multimédia
     image-name: nick-makuch.jpg
     twitter: makuch_nick
@@ -243,7 +243,7 @@ team:
     email: Priyanka.Rahman@tbs-sct.gc.ca
 
   - name: Raluca Ene
-    title: 
+    title:
       en: Code For Canada Fellow | UX Designer
       fr: Associée de Code for Canada | Designer UX
     image-name: raluca-ene.jpg
@@ -252,7 +252,7 @@ team:
     linkedin: eneraluca
 
   - name: Sean Boots
-    title: 
+    title:
       en: Tech | Advice
       fr: Technologie | Conseil
     image-name: sean-boots.jpg
@@ -271,18 +271,9 @@ team:
   - name: Shelley Bagg
     title:
       en: Operations | Administration
-      fr: Opérations | Administration 
+      fr: Opérations | Administration
     image-name: shelley-bagg.jpg
     email: Shelley.Bagg@tbs-sct.gc.ca
-
-  - name: Stéphane Tourangeau
-    title:
-      en: Capacity building lead
-      fr: Responsable du renforcement de la capacité
-    image-name: stephane-tourangeau.jpg
-    twitter: stourang
-    linkedin: stephanetourangeau
-    email: stephane.tourangeau@tbs-sct.gc.ca
 
   - name: Stevie-Ray Talbot
     title:
@@ -292,10 +283,10 @@ team:
     twitter: StevieRayTalbot
     email: Steven.Talbot@tbs-sct.gc.ca
 
-  # - name: 
+  # - name:
   #   title:
   #     en:
-  #     fr: 
+  #     fr:
   #   image-name:
   #   twitter:
   #   linkedin:
