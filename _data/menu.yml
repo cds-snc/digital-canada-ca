@@ -17,6 +17,9 @@ en:
   contact:
     name: "Contact"
     url: "/contact"
+  product_dashboard:
+    name: "Dashboard"
+    url: "/product-dashboard"
 fr:
   home:
     name: "Accueil"
@@ -28,7 +31,7 @@ fr:
     name: "Notre équipe"
     url: "/notre-equipe"
   work_with_us:
-    name: "Travaillez avec nous"
+    name: "Carrieres"
     url: "/travaillez-avec-nous"
   blog:
     name: "Blogue"
@@ -36,3 +39,6 @@ fr:
   contact:
     name: "Contactez-nous"
     url: "/contactez-nous"
+  tableau_de_bord:
+    name: "Tableau de bord"
+    url: "/tableau-de-bord"
