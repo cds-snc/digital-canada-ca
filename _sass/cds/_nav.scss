@@ -8,8 +8,6 @@
   padding: 1rem;
   z-index: 999;
 
-  font-size: 2px;
-
   @include tablet {
     padding-top: 5rem;
   }
@@ -17,7 +15,6 @@
   .nav-container {
     @include tablet {
       padding-right: 0;
-      font-size: 2px;
 
       .sticky & {
         padding-right: 1.5rem;
@@ -49,12 +46,12 @@
   background-repeat: no-repeat;
   background-size: contain;
   display: block;
-  height: 3rem;
-  width: 3rem;
   z-index: 1;
 
   @include mobile_only {
     background-image: url("img/cds/cds-logo-en-abbrev.svg");
+    height: 5rem;
+    width: 5rem;
   }
 
   @include tablet {
@@ -71,8 +68,8 @@
   }
 
   @include tv {
-    height: 7.5rem;
-    width: 7.5rem;
+    height: 8rem;
+    width: 8rem;
     top: -3.7rem;
   }
 
@@ -186,7 +183,7 @@
       margin: 0 1.25rem 0.25rem 1.25rem;
 
       .fr & {
-        font-size: 1.5rem;
+        font-size: 1.4rem;
         padding-left: 0em;
         padding-right: 0em;
       }
@@ -196,7 +193,7 @@
       font-size: 2rem;
 
       .fr & {
-        font-size: 1.8rem;
+        font-size: 1.7rem;
         padding-left: 0em;
         padding-right: 0em;
       }

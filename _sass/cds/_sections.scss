@@ -519,6 +519,72 @@
     }
   }
 
+  h2.beta::after {
+    content: "Beta";
+
+    position: relative;
+    bottom: 10px;
+    color: #ffffff;
+    background-color: #ff5a02;
+    margin-left: 20px;
+
+    @include mobile_only {
+      font-size: 10pt;
+      padding: 3px 20px 3px 20px;
+      border-radius: 6px;
+      margin-left: 15px;
+      bottom: 5px;
+    }
+
+    @include tablet {
+      margin-left: 20px;
+      margin-bottom: 30px;
+      padding: 5px 20px 5px 20px;
+      border-radius: 6px;
+      font-size: 10pt;
+    }
+
+    @include desktop {
+      margin-bottom: 30px;
+      padding: 5px 30px 5px 30px;
+      border-radius: 6px;
+      font-size: 12pt;
+    }
+  }
+
+  h2.betafr::after {
+    content: "Bêta";
+
+    position: relative;
+    bottom: 10px;
+    color: #ffffff;
+    background-color: #ff5a02;
+    margin-left: 20px;
+
+    @include mobile_only {
+      font-size: 10pt;
+      padding: 3px 20px 3px 20px;
+      border-radius: 6px;
+      margin-left: 15px;
+      bottom: 5px;
+    }
+
+    @include tablet {
+      margin-left: 20px;
+      margin-bottom: 30px;
+      padding: 5px 20px 5px 20px;
+      border-radius: 6px;
+      font-size: 10pt;
+    }
+
+    @include desktop {
+      margin-bottom: 30px;
+      padding: 5px 30px 5px 30px;
+      border-radius: 6px;
+      font-size: 12pt;
+    }
+  }
+
   h3 {
     font-weight: 500;
 

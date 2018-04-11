@@ -14,12 +14,12 @@ en:
   blog:
     name: "Blog"
     url: "/blog"
+  products:
+    name: "Products"
+    url: "/products"
   contact:
     name: "Contact"
     url: "/contact"
-  product_dashboard:
-    name: "Dashboard"
-    url: "/product-dashboard"
 fr:
   home:
     name: "Accueil"
@@ -36,9 +36,9 @@ fr:
   blog:
     name: "Blogue"
     url: "/blogue"
+  produits:
+    name: "Produits"
+    url: "/produits"
   contact:
     name: "Contactez-nous"
     url: "/contactez-nous"
-  tableau_de_bord:
-    name: "Tableau de bord"
-    url: "/tableau-de-bord"
