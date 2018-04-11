@@ -1,7 +1,7 @@
 ---
 title: "Réflexions sur le recrutement de notre dirigeant principal"
 description: "Nous avons récemment annoncé qu’Aaron Snow se joint au Service numérique canadien (SNC) en tant que notre premier dirigeant principal pour faire partie de notre mouvement numérique."
-author: Lena Trudeau - Conseillère principale, CDS
+author: Lena Trudeau, Conseillère principale, SNC
 date: 2018-04-09 09:00:00 -0400
 image: blog-ceo-recruitment.jpg
 image-alt: Le dirigeant principal Aaron Snow discute avec deux autres membres de l’équipe.
