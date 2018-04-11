@@ -14,6 +14,9 @@ en:
   blog:
     name: "Blog"
     url: "/blog"
+  products:
+    name: "Products"
+    url: "/products"
   contact:
     name: "Contact"
     url: "/contact"
@@ -28,11 +31,14 @@ fr:
     name: "Notre équipe"
     url: "/notre-equipe"
   work_with_us:
-    name: "Travaillez avec nous"
+    name: "Carrieres"
     url: "/travaillez-avec-nous"
   blog:
     name: "Blogue"
     url: "/blogue"
+  produits:
+    name: "Produits"
+    url: "/produits"
   contact:
     name: "Contactez-nous"
     url: "/contactez-nous"
