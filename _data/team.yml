@@ -17,14 +17,6 @@ exec:
     linkedin: cgovias
     email: Christopher.Govias@tbs-sct.gc.ca
 
-  - name: Jason White
-    title:
-      en: Head of Data Science
-      fr: Chef, science des données
-    image-name: jason-white.jpg
-    twitter: actinolite
-    email: jason.white@tbs-sct.gc.ca
-
   - name: Lena Trudeau
     title:
       en: Senior Advisor
@@ -52,6 +44,15 @@ exec:
     linkedin: wmluciani
     email: Wendy.Luciani@tbs-sct.gc.ca
 team:
+  - name: Anik Brazeau
+    title:
+      en: Communications
+      fr: Communications
+    image-name: anik-brazeau.jpg
+    twitter: brazeauanik
+    linkedin: anikbrazeau
+    email: Anik.Brazeau@tbs-sct.gc.ca
+
   - name: Annie Leblond
     title:
       en: Communications
@@ -68,6 +69,23 @@ team:
     image-name: brianne-matheson.jpg
     twitter: bri_matheson1
     linkedin: brianne-matheson-8bba74132
+
+  - name: Charlotte Pedersen
+    title:
+      en: Capacity Building | Engagement
+      fr: Renforcement de la capacité | Engagement
+    image-name: charlotte-pedersen.jpg
+    linkedin: charlottepedersen371
+    email: Charlotte.Pedersen@tbs-sct.gc.ca
+
+  - name: Courtney Claessens
+    title:
+      en: Products | Empathy
+      fr: Produits | Empathie
+    image-name: courtney-claessens.jpg
+    linkedin: courtneyclaessens
+    email: Courtney.Claessens@tbs-sct.gc.ca
+
 
   - name: Daniel Tse
     title:
@@ -183,6 +201,15 @@ team:
     linkedin: kelsey-harris-39373b139
     email: Kelsey.Harris@tbs-sct.gc.ca
 
+  - name: Kylie Havelock
+    title:
+      en: Senior Product Manager
+      fr: Gestionnaire de produits principale
+    image-name: kylie-havelock.jpg
+    twitter: kyliehavelock
+    linkedin: kylie-havelock-36175645
+    email: kylie.havelock@codefor.ca
+
   - name: Leon Lukashevsky
     title:
       en: Code For Canada Fellow | Developer
@@ -192,6 +219,15 @@ team:
     linkedin: le0nl
     email: leon.lukashevsky@codefor.ca
     github: leonL
+
+  - name: Lynn Chalati
+    title:
+      en: Communications
+      fr: Communications
+    image-name: lynn-chalati.jpg
+    twitter: LynnChalati
+    linkedin: lynn-chalati-aaa9218a
+    email: Lynn.Chalati@tbs-sct.gc.ca
 
   - name: Mario Garneau
     title:
@@ -203,12 +239,30 @@ team:
     email: Mario.Garneau@tbs-sct.gc.ca
     github: mcman12
 
+  - name: Max Neuvians
+    title:
+      en: Developer | Data
+      fr: Développeur | Données
+    image-name: max-neuvians.jpg
+    linkedin: maxneuvians
+    github: maxneuvians
+
   - name: Meera Makim Cunningham
     title:
       en: Operations | Staffing
       fr: Opérations | Dotation
     image-name: meera-cunningham.jpg
     email: Meera.Cunningham@tbs-sct.gc.ca
+
+  - name: Michelle Ngai
+    title:
+      en: Design | User Experience
+      fr: Conception | Expérience utilisateur (EU)
+    image-name: michelle-ngai.jpg
+    twitter: MichelleNgai
+    linkedin: ilovedesign
+    email: michelle.ngai@tbs-sct.gc.ca
+
 
   - name: Mike Williamson
     title:
@@ -233,6 +287,16 @@ team:
     image-name: nick-makuch.jpg
     twitter: makuch_nick
     email: nick.makuch@tbs-sct.gc.ca
+    github: nmakuch
+
+  - name: Paul Craig
+    title:
+      en: Developer
+      fr: Développeur
+    image-name: paul-craig.jpg
+    twitter: pcraig3
+    email: paul.craig@tbs-sct.gc.ca
+    github: pcraig3
 
   - name: Priyanka Rahman
     title:
@@ -251,6 +315,15 @@ team:
     twitter: eneraluca
     linkedin: eneraluca
 
+  - name: Samantha Sadasivan
+    title:
+      en: Design | Service Design
+      fr: Conception | Conception de services
+    image-name: sam-sadasivan.jpg
+    email: samantha.sadasivan@tbs-sct.gc.ca
+    twitter: samsadasivan
+    linkedin: samsadasivan
+
   - name: Sean Boots
     title:
       en: Tech | Advice
@@ -259,6 +332,15 @@ team:
     twitter: sboots
     linkedin: seanboots
     github: sboots
+
+  - name: Sean Kibbee
+    title:
+      en: Tech | Handoff
+      fr: Technologie | Transfert
+    image-name: sean-kibbee.jpg
+    twitter: SDKibb
+    linkedin: sean-kibbee-3229284a
+    github: sdkibb
 
   - name: Sharmima Begum
     title:
@@ -275,6 +357,16 @@ team:
     image-name: shelley-bagg.jpg
     email: Shelley.Bagg@tbs-sct.gc.ca
 
+  - name: Steve Astels
+    title:
+      en: Developer | Data
+      fr: Développeur | Données
+    image-name: steve-astels.jpg
+    email: steve.astels@tbs-sct.gc.ca
+    twitter: sastels
+    linkedin: sastels
+    github: sastels
+
   - name: Stevie-Ray Talbot
     title:
       en: Policy | Data
@@ -282,6 +374,23 @@ team:
     image-name: steven-ray-talbot.jpg
     twitter: StevieRayTalbot
     email: Steven.Talbot@tbs-sct.gc.ca
+
+  - name: Steve Zinck
+    title:
+      en: Platform | DevOps
+      fr: Platforme | DevOps
+    image-name: steve-zinck.jpg
+    email: steven.zinck@tbs-sct.gc.ca
+    twitter: szinck
+    linkedin: stevezinck
+    github: szinck1
+
+  - name: Zak Kain
+    title:
+      en: Content Designer
+      fr: Concepteur de contenu
+    image-name: zak-kain.jpg
+    twitter: zakkain
 
   # - name:
   #   title:
