@@ -10,7 +10,7 @@ layout: cds/post
 trans_url: "/2018/04/19/notre-partenariat-avec-code-for-canada"
 ---
 
-This past fall, we brought on one of the first two cohorts of [Code for Canada](www.codefor.ca/) (C4C) fellows, the other joining our colleagues in the Government of Ontario. This post outlines how to make the most out of a potential partnership!
+This past fall, we brought on one of the first two cohorts of [Code for Canada](https://codefor.ca/) (C4C) fellows, the other joining our colleagues in the Government of Ontario. This post outlines how to make the most out of a potential partnership!
 
 ## Code for Canada, a primer
 
@@ -22,7 +22,7 @@ The fellowship program brings together seasoned digital professionals who are pa
 
 At the start of the fellowship, Code for Canada runs onboarding training for both fellows and government teams in Toronto. It’s intended to familiarize the fellows with how government works, have them meet their partners, and work on mini-product sprints to help them hit the ground running.
 
-Each team of fellows is made up of three experts: a developer, a user experience designer and a product manager. At CDS, the fellows [are working](https://medium.com/code-for-canada/benefits-at-a-glance-aee020d224f8) with our partners at [Veterans Affairs Canada](Veterans Affairs Canada) to make it easier for Veterans to determine what benefits they may be eligible for. Given how we begin all of our products with a significant discovery phase, we paired the C4C fellows, [Leon](https://twitter.com/le0nL), [Raluca](https://twitter.com/eneraluca) and [Dan](https://twitter.com/danprime), with one of our design researchers, [Mithula](https://twitter.com/MithulaNaik), from the start.
+Each team of fellows is made up of three experts: a developer, a user experience designer and a product manager. At CDS, the fellows [are working](https://medium.com/code-for-canada/benefits-at-a-glance-aee020d224f8) with our partners at [Veterans Affairs Canada](https://www.canada.ca/en/veterans-affairs-canada.html) to make it easier for Veterans to determine what benefits they may be eligible for. Given how we begin all of our products with a significant discovery phase, we paired the C4C fellows, [Leon](https://twitter.com/le0nL), [Raluca](https://twitter.com/eneraluca) and [Dan](https://twitter.com/danprime), with one of our design researchers, [Mithula](https://twitter.com/MithulaNaik), from the start.
 
 The total cost is $450,000, which includes the three fellows’ salaries and benefits, onboarding training, coaching throughout the program, and showcase events. This amount accounts for approximate travel costs for core product partners to attend onboarding and the final showcase in Toronto.
 

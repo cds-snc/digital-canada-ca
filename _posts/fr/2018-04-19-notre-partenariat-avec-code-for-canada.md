@@ -10,7 +10,7 @@ layout: cds/post
 trans_url: "/2018/04/19/our-partnership-with-code-for-canada"
 ---
 
-L’automne dernier, nous avons accueilli l’une des deux premières cohortes d’associés de [Code for Canada](www.codefor.ca/) (C4C), l’autre s’étant jointe à nos collègues du gouvernement de l’Ontario. Ce billet de blogue décrira comment tirer le meilleur parti d’un partenariat potentiel!
+L’automne dernier, nous avons accueilli l’une des deux premières cohortes d’associés de [Code for Canada](https://codefor.ca/fr/) (C4C), l’autre s’étant jointe à nos collègues du gouvernement de l’Ontario. Ce billet de blogue décrira comment tirer le meilleur parti d’un partenariat potentiel!
 
 ## Présentation de Code for Canada
 
