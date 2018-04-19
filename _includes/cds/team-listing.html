@@ -36,6 +36,13 @@
 									</a>
 								</span>
 							{% endif %}
+							{% if member.github != null %}
+								<span class="social-icons">
+									<a href="https://github.com/{{ member.github }}" aria-label="Link to {{ member.name }}'s GitHub profile">
+										<i class="fa fa-github-alt" aria-hidden="true"></i>
+									</a>
+								</span>
+							{% endif %}
 						</div>
 					</div>
 					
