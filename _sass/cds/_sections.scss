@@ -725,7 +725,7 @@ span.live {
 }
 
 .title-container {
-  border-top: $medium-grey 1px solid;
+  //border-top: $medium-grey 1px solid;
   display: flex;
 }
 
@@ -741,8 +741,28 @@ span.live {
   padding-bottom: 20px;
 }
 
+.work-in-progress--partners-long {
+  width: 45%;
+}
+
 .statusButton {
   padding-top: 50px;
+}
+
+.seperator {
+  margin: 0px auto;
+
+  @include mobile_only {
+    width: 100%;
+  }
+
+  @include tablet {
+    width: 80%;
+  }
+
+  @include desktop {
+    width: 65%;
+  }
 }
 
 ////////////////////////////////////////////////////
