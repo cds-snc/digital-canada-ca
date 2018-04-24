@@ -41,7 +41,7 @@ Plus important encore, il s’agit d’un processus d’examen par les pairs. Le
 
 ## Aider dans l’intégration les développeurs débutants
 
-J’aime beaucoup [identiqueter](gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=26543576) les nouveaux membres de l’équipe sur chaque demande de tirage. Ils ne sont pas obligés de répondre, mais plus ils lisent et voient comment le processus fonctionne, plus vite leur confiance grandit. Je suis souvent surpris par la rapidité avec laquelle leurs questions révèlent des aspects de mon propre code que l’on pourrait améliorer.
+J’aime beaucoup [identiqueter](http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=26543576) les nouveaux membres de l’équipe sur chaque demande de tirage. Ils ne sont pas obligés de répondre, mais plus ils lisent et voient comment le processus fonctionne, plus vite leur confiance grandit. Je suis souvent surpris par la rapidité avec laquelle leurs questions révèlent des aspects de mon propre code que l’on pourrait améliorer.
 
 ## Accroître la responsabilisation personnelle
 
