@@ -28,7 +28,7 @@ The total cost is $450,000, which includes the three fellows’ salaries and ben
 
 ## How we brought the fellows on board
 
-We used the [Government of Canada’s interchange program](https://www.canada.ca/en/treasury-board-secretariat/services/professional-development/interchange-canada.html) as the mechanismto bring the fellows in, whereby the fellows remain employees of C4C and are then “transferred” to CDS. Using interchange works well to onboard external talent for a tour of duty.
+We used the [Government of Canada’s interchange program](https://www.canada.ca/en/treasury-board-secretariat/services/professional-development/interchange-canada.html) as the mechanism to bring the fellows in, whereby the fellows remain employees of C4C and are then “transferred” to CDS. Using interchange works well to onboard external talent for a tour of duty.
 
 We did, however, require an exemption to the [Directive on Interchange](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12553), which requires participants to have worked for their employer for six months prior to the transfer. We collaborated with colleagues from the Chief Information Officer and Office of the Chief Human Resources Officer branches here at Treasury Board Secretariat to secure this exemption for federal departments wishing to work with C4C. This was recently communicated to federal Chief Information Officers (CIOs) by our Government of Canada CIO, Alex Benay.
 
