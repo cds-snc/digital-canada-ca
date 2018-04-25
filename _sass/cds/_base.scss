@@ -189,7 +189,15 @@ h3 {
 	}
 }
 
+input.error {
+	border: 2px solid red;
+}
 
+.form-group.error {
+	padding-left: 10px;
+	border-left: 4px solid red;
+}
 
-
-
+.error-message {
+	color: red;
+}
