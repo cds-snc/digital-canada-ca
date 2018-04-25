@@ -80,12 +80,14 @@ $(document).ready(function () {
             } else if (event.keyCode < 48 || event.keyCode > 57) {
                 event.preventDefault();
             }
+            $('#contactForm #word-count-message').addClass('error-message');
+        } else {
+            $('#contactForm #word-count-message').removeClass('error-message');
         }
 
         wordsLeft = maxWords - wordCount;
 
         $('#contactForm #word-count').html(wordsLeft);
-
     });
 
     /**
