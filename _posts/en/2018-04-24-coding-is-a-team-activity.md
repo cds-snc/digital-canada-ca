@@ -67,7 +67,7 @@ It’s important to set some team norms with respect to pull requests, specifica
 > 500 lines of code = looks fine.  
 > Code reviews.
 
-> Author: @iamadeveloper
+> Author: [@iamdevloper](https://twitter.com/iamdevloper/status/397664295875805184)
 
 I like to keep pull requests down to 200 lines of code or less. Preferably less. They should also ideally fix one thing. One-line pull requests are my favourite. Special credit for one-character pull requests that actually fix something. This helps code reviewers focus on one atomic change.
 
