@@ -67,7 +67,7 @@ Il est important d’établir des normes d’équipe en ce qui concerne les dema
 > 500 lignes de code = « ça a l’air bien beau »  
 > Examens de code
 
-> Traduction de @iamdeveloper
+> Traduction de [@iamdevloper](https://twitter.com/iamdevloper/status/397664295875805184)
 
 J’aime limiter les demandes de tirage à 200 lignes de code ou moins. Encore mieux si c’est moins. Idéalement, elles devraient également corriger une seule chose. Je préfère les demandes de tirage d’une ligne. Points bonis pour les demandes de tirage d’une ligne qui corrigent réellement quelque chose. Cela permet aux examinateurs de code de se concentrer sur un changement atomique.
 
