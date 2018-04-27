@@ -67,7 +67,7 @@ $(document).ready(function () {
     var maxWords = 300,
         wordCount;
 
-    $('#contactForm #body').keydown(function (event) {
+    $('#contactForm #body').keyup(function (event) {
         wordCount = 0;
 
         if ($('#contactForm #body').val()) {
@@ -75,11 +75,6 @@ $(document).ready(function () {
         }
 
         if (wordCount > maxWords) {
-            if (event.keyCode == 46 || event.keyCode == 8) { // Allow backspace/delete
-
-            } else if (event.keyCode < 48 || event.keyCode > 57) {
-                event.preventDefault();
-            }
             $('#contactForm #word-count-message').addClass('error-message');
         } else {
             $('#contactForm #word-count-message').removeClass('error-message');
@@ -222,7 +217,7 @@ $(document).ready(function () {
             if ($this.hasClass('validate-maxwords')) {
                 wordCount = $this.val().split(/[\s]+/).length;
 
-                if (wordCount < maxWords) {
+                if (wordCount <= maxWords) {
                     $this.removeClass('error');
                     $this.closest('.form-group').removeClass('error');
                     $this.siblings('.error-message').hide();
