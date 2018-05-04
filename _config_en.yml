@@ -28,6 +28,9 @@ permalink: /:year/:month/:day/:title/
 # Build settings
 markdown: kramdown
 
+sass:
+  style: compressed
+
 # theme: minima
 gems:
   - jekyll-feed

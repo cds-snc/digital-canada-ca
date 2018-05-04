@@ -263,27 +263,32 @@ trans_url: '/travaillez-avec-nous/'
 			<form class="text-left" role="form" id="contactForm">
 				<div class="form-group">
 					<label for="name">Full Name</label>
-					<input type="text" class="form-control" id="name" required="required">
+					<input type="text" class="form-control validate-required" id="name" aria-required="true" aria-describedby="name-required">
+					<span id="name-required" class="error-message validate-required-message" style="display: none;">This field is required</span>
 				</div>
 				<div class="form-group">
 					<label for="email">Email</label>
-					<input type="email" class="form-control" id="email" required="required">
+					<input type="email" class="form-control validate-required validate-email" id="email" aria-required="true" aria-describedby="email-required">
+					<span id="email-required" class="error-message validate-required-message" style="display: none;">This field is required</span>
 				</div>
 
-				<div role="radiogroup" aria-labelledby="stream-label" class="form-group">
+				<div role="radiogroup" aria-labelledby="stream-label stream-required" class="form-group">
 					<label id="stream-label">Stream</label>
 					<div class="radio">
-						<label><input type="radio" name="streams" value="Communications and engagement" required="required">Communications and Engagement</label><br>
+						<label><input type="radio" name="streams" value="Communications and engagement">Communications and engagement</label><br>
 						<label><input type="radio" name="streams" value="Data">Data</label><br>
    						<label><input type="radio" name="streams" value="Design">Design</label><br>
    						<label><input type="radio" name="streams" value="Development">Development</label><br>
    						<label><input type="radio" name="streams" value="Product management">Product management</label>
 					</div>
+					<span id="stream-required" class="error-message validate-required-message" style="display: none;">This field is required</span>
 				</div>
 
 				<div class="form-group">
 					<label for="body">Tell us in 300 words or less why you want to work with us and what we should know about your work samples:</label>
-					<textarea class="form-control" id="body" rows="5" required="required"></textarea>
+					<textarea class="form-control validate-required validate-maxwords" id="body" rows="5" aria-required="true" aria-describedby="body-required word-count-message"></textarea>
+					<span id="body-required" class="error-message validate-required-message" style="display: none;">This field is required<br></span>
+					<span id="word-count-message" class="help-text"><span id="word-count">300</span> words remaining</span>
 				</div>
 				<div class="form-group">
 					<label for="work_link">Samples of your work (URLs, please!)</label>

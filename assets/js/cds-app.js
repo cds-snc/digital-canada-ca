@@ -1,52 +1,40 @@
 Object.defineProperty(HTMLMediaElement.prototype, 'playing', {
-    get: function(){
+    get: function () {
         return !!(this.currentTime > 0 && !this.paused && !this.ended && this.readyState > 2);
     }
 });
 
-$(document).ready(function() {
-	$('#js-mainNavButton').on('click touchup', function(){
-		$('#js-mobileNav').addClass('active');
-		
-	});
+/**
+ * Email validation (allows unicode addresses)
+ * @param $email
+ * @returns {boolean}
+ */
+function validateEmail($email) {
+    var emailReg = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
+    return emailReg.test( $email );
+}
 
-	$('#js-mobileNav--button').on('click touchup', function(){
-		$('#js-mobileNav').addClass('hiding');
-		setTimeout(function(){
-			$('#js-mobileNav').removeClass('active hiding').removeAttr('class');
-		}, 305)
-	});
+$(document).ready(function () {
+    $('#js-mainNavButton').on('click touchup', function () {
+        $('#js-mobileNav').addClass('active');
 
-	// Sticky threshold
-	/*var threshold = $('main').position().top;
+    });
 
-	var topBar = $('.cds-menu');
+    $('#js-mobileNav--button').on('click touchup', function () {
+        $('#js-mobileNav').addClass('hiding');
+        setTimeout(function () {
+            $('#js-mobileNav').removeClass('active hiding').removeAttr('class');
+        }, 305)
+    });
 
-	$(window).scroll(function() {
+    // Homepage video header/bg controls
+    var videobg = $('video#js-video-bg').get(0);
 
-		var scroll = $(window).scrollTop();
-
-		if(scroll >= threshold) {
-			if(!topBar.hasClass('sticky')) {
-				topBar.addClass('sticky');
-			}
-		}
-
-		else {
-			if(topBar.hasClass('sticky')) {
-				topBar.removeClass('sticky');
-			}
-		}
-	});*/
-
-	// Homepage video header/bg controls
-	var videobg = $('video#js-video-bg').get(0);
-
-	if($('video#js-video-bg').length) {
+    if ($('video#js-video-bg').length) {
         // listeners to set play/pause button state based on video state
         videobg.onpause = function () {
-        	$('#js-play-pause #js-playing').hide();
-        	$('#js-play-pause #js-paused').show();
+            $('#js-play-pause #js-playing').hide();
+            $('#js-play-pause #js-paused').show();
         };
 
         videobg.onplay = function () {
@@ -61,26 +49,126 @@ $(document).ready(function() {
     // display video controls
     $('.page-banner--video-controls').removeClass('hidden');
 
-	// listener for video controls
-    $('#js-play-pause').on('click touchup', function(e){
-		e.preventDefault();
+    // listener for video controls
+    $('#js-play-pause').on('click touchup', function (e) {
+        e.preventDefault();
 
-		videobg.playing ? videobg.pause() : videobg.play();
-	});
+        videobg.playing ? videobg.pause() : videobg.play();
+    });
 
-	// Add target=_blank to external links
-	// Thanks to http://css-tricks.com/snippets/jquery/open-external-links-in-new-window/
-	$("#wb-cont a[href^='http://']").attr("target","_blank");
-	$("#wb-cont a[href^='https://']").attr("target","_blank");
+    // Add target=_blank to external links
+    // Thanks to http://css-tricks.com/snippets/jquery/open-external-links-in-new-window/
+    $("#wb-cont a[href^='http://']").attr("target", "_blank");
+    $("#wb-cont a[href^='https://']").attr("target", "_blank");
 
+    /**
+     * Word counter
+     */
+    var maxWords = 300,
+        wordCount;
 
-	//Application form controls
-	$('#contactForm').submit(function(event) {
-		event.preventDefault();
+    $('#contactForm #body').keyup(function (event) {
+        wordCount = 0;
 
-       $('#submitButton').attr("disabled", true);
-       $('#buttonSpinner').toggleClass('active');
+        if ($('#contactForm #body').val()) {
+            wordCount = $('#contactForm #body').val().split(/[\s]+/).length;
+        }
 
+        if (wordCount > maxWords) {
+            $('#contactForm #word-count-message').addClass('error-message');
+        } else {
+            $('#contactForm #word-count-message').removeClass('error-message');
+        }
+
+        wordsLeft = maxWords - wordCount;
+
+        $('#contactForm #word-count').html(wordsLeft);
+    });
+
+    /**
+     * Contact Form Submit
+     */
+    $('#contactForm').submit(function (event) {
+        event.preventDefault();
+
+        /**
+         * Form Validation
+         */
+        var valid = true,
+            errors = [];
+
+        $('#contactForm .form-control').each(function () {
+            var $this = $(this);
+
+            /**
+             * Email validation
+             */
+            if ($this.val() && $this.hasClass('validate-email')) {
+                if (!validateEmail($this.val())) {
+                    errors.push($this);
+                    valid = false;
+                }
+            }
+
+            /**
+             * Max words validation
+             */
+            if ($this.val() && $this.hasClass('validate-maxwords')) {
+                wordCount = $this.val().split(/[\s]+/).length;
+
+                if (wordCount > maxWords) {
+                    errors.push($this);
+                    valid = false;
+                }
+            }
+
+            /**
+             * Required validation
+             */
+            if (!$this.val() && $this.hasClass('validate-required')) {
+                errors.push($this);
+                valid = false;
+            }
+        });
+
+        /**
+         * Special handler for the radio buttons
+         */
+        if (!$('#contactForm [name="streams"]:checked').length) {
+            valid = false;
+            errors.push($('#contactForm [name="streams"]:first'));
+
+            $('#contactForm [name="streams"]').closest('.form-group').addClass('error');
+            $('#stream-required').show();
+        }
+
+        /**
+         * Handle invalid items
+         */
+        if (!valid) {
+            $.each(errors, function (index, item) {
+                item.addClass('error');
+                item.closest('.form-group').addClass('error');
+                item.siblings('.error-message').show();
+                item.attr('aria-invalid', 'true');
+            });
+
+            /**
+             * Set focus to the first invalid element and get out
+             */
+            errors[0].focus();
+            return false;
+        }
+
+        /**
+         * Disable button to prevent double-submitting
+         */
+        $('#submitButton').attr("disabled", true);
+        $('#buttonSpinner').toggleClass('active');
+
+        /**
+         * Collect data for submitting
+         */
         var data = {
             name: $('#name').val(),
             email: $('#email').val(),
@@ -91,16 +179,16 @@ $(document).ready(function() {
         }
 
         var pageLanguage = $('html').attr('lang');
-       
-         $.ajax({
+
+        $.ajax({
             type: 'POST',
             url: 'https://109c1buw3d.execute-api.us-east-1.amazonaws.com/prod/SendRecruitmentEmail',
             dataType: 'text',
             data: JSON.stringify(data),
-            complete: function(r) {
+            complete: function (r) {
                 console.log(r.responseText);
             },
-            success: function() {
+            success: function () {
                 if (pageLanguage == 'en') {
                     window.location.href = "/success/";
                 }
@@ -108,7 +196,7 @@ $(document).ready(function() {
                     window.location.href = "/reussi/";
                 }
             },
-            error: function(xhr, textStatus, errorThrown) {
+            error: function (xhr, textStatus, errorThrown) {
                 if (pageLanguage == 'en') {
                     window.location.href = "/error/";
                 }
@@ -117,7 +205,48 @@ $(document).ready(function() {
                 }
             }
         });
+    });
 
-	});
+    /**
+     * Check if there is a validation error to be cleared
+     */
+    $('#contactForm .form-control').keyup(function (e) {
+        var $this = $(this);
+
+        if ($this.hasClass('validate-required') && $this.val()) {
+            if ($this.hasClass('validate-maxwords')) {
+                wordCount = $this.val().split(/[\s]+/).length;
+
+                if (wordCount <= maxWords) {
+                    $this.removeClass('error');
+                    $this.closest('.form-group').removeClass('error');
+                    $this.siblings('.error-message').hide();
+                    $this.attr('aria-invalid', 'false');
+                }
+            } else if ($this.hasClass('validate-email')) {
+                if (validateEmail($this.val())) {
+                    $this.removeClass('error');
+                    $this.closest('.form-group').removeClass('error');
+                    $this.siblings('.error-message').hide();
+                    $this.attr('aria-invalid', 'false');
+                }
+            } else {
+                $this.removeClass('error');
+                $this.closest('.form-group').removeClass('error');
+                $this.siblings('.error-message').hide();
+                $this.attr('aria-invalid', 'false');
+            }
+        }
+    });
+
+    /**
+     * Special handler for radio buttons
+     */
+    $('#contactForm [name="streams"]').change(function () {
+        if ($('#contactForm [name="streams"]:checked').length) {
+            $('#contactForm [name="streams"]').closest('.form-group').removeClass('error');
+            $('#stream-required').hide();
+        }
+    });
 
 }); 

@@ -28,10 +28,13 @@ permalink: /:year/:month/:day/:title/
 # Build settings
 markdown: kramdown
 
+sass:
+  style: compressed
+
 # theme: minima
 gems:
   - jekyll-feed
-  
+
 exclude: ["Gemfile", "Gemfile.lock", "vendor", "docker-compose.yml", "README.md", "LICENSE.txt", "CONTRIBUTING.md", "_pages/fr", "_posts/fr", "index-fr.html", "serve", "serve-fr", "check", "create-blog"]
 
 defaults:
