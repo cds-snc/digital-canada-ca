@@ -345,23 +345,6 @@ team:
     linkedin: seanboots
     github: sboots
 
-  - name: Sean Kibbee
-    title:
-      en: Tech | Handoff
-      fr: Technologie | Transfert
-    image-name: sean-kibbee.jpg
-    twitter: SDKibb
-    linkedin: sean-kibbee-3229284a
-    github: sdkibb
-
-  - name: Sharmima Begum
-    title:
-      en: Operations | Recruitment
-      fr: Opérations | Recrutement
-    image-name: sharmima-begum.jpg
-    linkedin: sharmimabegum
-    email: Sharmima.Begum@tbs-sct.gc.ca
-
   - name: Shelley Bagg
     title:
       en: Operations | Administration
