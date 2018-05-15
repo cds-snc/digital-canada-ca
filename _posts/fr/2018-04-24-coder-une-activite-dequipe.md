@@ -12,7 +12,7 @@ trans_url: "/2018/04/24/coding-is-a-team-activity"
 
 D’après notre expérience, le développement de logiciels doit être un effort d’équipe. Cela ne veut pas dire que plusieurs développeurs contribuent individuellement à une seule base de code; au contraire, toute l’équipe est responsable de chaque ligne de code. Pour tout système de production, on s’attend à ce que tous les codes soient approuvés par au moins un autre développeur, avant qu’il ne soit accepté.
 
-Si vous avez lu notre billet de blogue précédent sur l’[intégration continue](https://numerique.canada.ca/2018/03/26/les-tests-automatises/), vous connaissez notre cycle de codage de base :
+Si vous avez lu notre billet de blogue précédent sur l’[intégration continue](https://numerique.canada.ca/2018/03/26/les-tests-automatises/), vous connaissez notre cycle de codage de base&nbsp;:
 
 * Créer une branche à partir de la branche maîtresse
 * Élaborer une fonctionnalité et corriger le bogue

@@ -1,5 +1,5 @@
 ---
-title: "Sortir les prototypes : l’application de breffage électronique"
+title: "Sortir les prototypes&nbsp;: l’application de breffage électronique"
 description: "Obtenir la rétroaction directe des utilisateurs est la meilleure façon d’améliorer un produit numérique. Pour nous faire la main, avant notre lancement officiel, nous voulions entreprendre un projet qui illustrerait « l’art du possible » avec des outils numériques modernes."
 author: Dave Samojlenko et Sean Boots, SNC
 date: 2018-01-29 09:00:00 -0400
