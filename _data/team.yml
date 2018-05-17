@@ -48,7 +48,7 @@ exec:
   - name: Wendy Luciani
     title:
       en: Partnership Lead
-      fr: Gestionnaire des partenariats
+      fr: Chef des partenariats
     image-name: wendy-luciani.jpg
     twitter: wmluciani
     linkedin: wmluciani
@@ -75,7 +75,7 @@ team:
   - name: Brianne Matheson
     title:
       en: Partnerships Assistant
-      fr: Assistant aux partenariats
+      fr: Adjointe aux partenariats
     image-name: brianne-matheson.jpg
     twitter: bri_matheson1
     linkedin: brianne-matheson-8bba74132
@@ -83,7 +83,7 @@ team:
   - name: Charlotte Pedersen
     title:
       en: Capacity Building | Engagement
-      fr: Renforcement de la capacité | Engagement
+      fr: Renforcement de la capacité | Mobilisation
     image-name: charlotte-pedersen.jpg
     linkedin: charlottepedersen371
     email: Charlotte.Pedersen@tbs-sct.gc.ca
@@ -109,7 +109,7 @@ team:
   - name: Dave Samojlenko
     title:
       en: Developer | DevOps
-      fr: Développeur | DevOps
+      fr: Développeur | Développement et Exploitation
     image-name: dave-samojlenko.jpg
     twitter: dsamojlenko
     github: dsamojlenko
@@ -144,7 +144,7 @@ team:
   - name: Eman El-Fayomi
     title:
       en: Design | User Experience (UX)
-      fr: Conception | Expérience utilisateur (EU)
+      fr: Conception | Expérience utilisateur
     image-name: eman-el-fayomi.jpg
     twitter: emanelfy
     linkedin: eelfayomi
@@ -177,7 +177,7 @@ team:
   - name: Jennifer Fletcher
     title:
       en: Advisor | Partnerships
-      fr: Conseiller | Partenariats
+      fr: Conseillère | Partenariats
     image-name: jennifer-fletcher.jpg
     email: jennifer.fletcher@tbs-sct.gc.ca
 
@@ -191,7 +191,7 @@ team:
   - name: John Millons
     title:
       en: Policy | Engagement
-      fr: Politique | Mobilisation
+      fr: Politiques | Mobilisation
     image-name: john-millons.jpg
     twitter: JohnMillons
     email: John.Millons@tbs-sct.gc.ca
@@ -244,7 +244,7 @@ team:
   - name: Mario Garneau
     title:
       en: Tech | Delivery
-      fr: Technologie | Prestation
+      fr: Technologies | Prestation
     image-name: mario-garneau.jpg
     twitter: mcman12
     linkedin: mario-garneau-76895412a
@@ -269,7 +269,7 @@ team:
   - name: Michelle Ngai
     title:
       en: Design | User Experience
-      fr: Conception | Expérience utilisateur (EU)
+      fr: Conception | Expérience utilisateur 
     image-name: michelle-ngai.jpg
     twitter: itsMichelleNgai
     linkedin: ilovedesign
@@ -339,7 +339,7 @@ team:
   - name: Sean Boots
     title:
       en: Tech | Advice
-      fr: Technologie | Conseil
+      fr: Technologies | Conseils
     image-name: sean-boots.jpg
     twitter: sboots
     linkedin: seanboots
@@ -365,7 +365,7 @@ team:
   - name: Stevie-Ray Talbot
     title:
       en: Policy | Data
-      fr: Politique | Données
+      fr: Politiques | Données
     image-name: steven-ray-talbot.jpg
     twitter: StevieRayTalbot
     email: Steven.Talbot@tbs-sct.gc.ca
@@ -373,7 +373,7 @@ team:
   - name: Steve Zinck
     title:
       en: Platform | DevOps
-      fr: Platforme | DevOps
+      fr: Platformes | DevOps
     image-name: steve-zinck.jpg
     email: steven.zinck@tbs-sct.gc.ca
     twitter: szinck
