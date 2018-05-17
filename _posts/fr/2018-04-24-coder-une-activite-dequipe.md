@@ -1,7 +1,7 @@
 ---
 title: "Coder : Une activité d’équipe"
 description: "D’après notre expérience, le développement de logiciels doit être un effort d’équipe. Cela ne veut pas dire que plusieurs développeurs contribuent individuellement à une seule base de code; au contraire, toute l’équipe est responsable de chaque ligne de code."
-author: Jason White, Chef, science des données
+author: Jason White, chef, sciences des données
 date: 2018-04-24 09:00:00 -0400
 image: blog-team-coding.jpg
 image-alt: Un écran d'ordinateur affiche 200 lignes de code JavaScript dans Sublime Text.
@@ -16,14 +16,14 @@ Si vous avez lu notre billet de blogue précédent sur l’[intégration continu
 
 * Créer une branche à partir de la branche maîtresse
 * Élaborer une fonctionnalité et corriger le bogue
-* Créer une demande de tirage (pull request)
+* Créer une demande de tirage (*pull request*)
 * Effectuer des tests automatisés et un examen par les pairs
 * Fusionner à la branche maîtresse et déployer
 
 L’étape d’examen du code par les pairs offre plusieurs avantages :
 
 * Code plus compréhensible
-* Aider dans l’intégration les développeurs débutants
+* Aider dans l’intégration des développeurs débutants
 * Accroître la responsabilisation personnelle
 * Responsabilité partagée de l’équipe
 
@@ -39,7 +39,7 @@ Le processus d’examen par les pairs empêche la fusion des codes « habiles 
 
 Plus important encore, il s’agit d’un processus d’examen par les pairs. Les gestionnaires ne peuvent pas être le frein ici.
 
-## Aider dans l’intégration les développeurs débutants
+## Aider dans l’intégration des développeurs débutants
 
 J’aime beaucoup [identiqueter](http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=26543576) les nouveaux membres de l’équipe sur chaque demande de tirage. Ils ne sont pas obligés de répondre, mais plus ils lisent et voient comment le processus fonctionne, plus vite leur confiance grandit. Je suis souvent surpris par la rapidité avec laquelle leurs questions révèlent des aspects de mon propre code que l’on pourrait améliorer.
 
@@ -47,11 +47,11 @@ J’aime beaucoup [identiqueter](http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fi
 
 Souvent, les développeurs n’aiment pas admettre lorsqu’ils sont bloqués. Nous voyons souvent cela comme un échec personnel, un symptôme du [syndrome de l’imposteur](https://fr.wikipedia.org/wiki/Syndrome_de_l%27imposteur) très courant. Parfois, on tourne en rond trop longtemps sur un problème difficile, et il devient de plus en plus frustrant de ne pas comprendre les choses plus rapidement.
 
-Pour sortir de ce cycle, il est parfois tentant de copier et de coller une solution bricolée pour sortir de l’impasse. Cela augmente la [dette technique](https://fr.wikipedia.org/wiki/Dette_technique) pour le reste de l’équipe.
+Pour sortir de ce cycle, il est parfois tentant de copier-coller une solution bricolée pour sortir de l’impasse. Cela augmente la [dette technique](https://fr.wikipedia.org/wiki/Dette_technique) pour le reste de l’équipe.
 
 Le travail d’équipe s’avère la solution à ces deux problématiques. Si un membre de l’équipe arrête de contribuer pendant quelques jours, il est très évident pour le reste de l’équipe que quelque chose ne va pas. Si le membre de l’équipe essaie de glisser un mauvais code dans la base de code, le reste de l’équipe a l’occasion de proposer des solutions de rechange.
 
-De manière proactive, lorsque je suis bloqué, j’aime bien mettre tout ce que j’ai compris dans GitHub, et créer une demande de tirage de travail en cours, portant la mention « [WIP] » (Work in Progress) pour qu’il soit clair que ce n’est pas terminé. Je vais ensuite identiqueter des gens qui, selon moi, pourraient avoir une opinion et solliciter leurs commentaires. Je pourrais me sentir mal à l’aise d’admettre que je ne sais pas comment faire quelque chose, mais c’est plus facile avec le temps.
+De manière proactive, lorsque je suis bloqué, j’aime bien mettre tout ce que j’ai compris dans GitHub, et créer une demande de tirage de travail en cours, portant la mention « [WIP] » (*Work in Progress*) pour qu’il soit clair que ce n’est pas terminé. Je vais ensuite identiqueter des gens qui, selon moi, pourraient avoir une opinion et solliciter leurs commentaires. Je pourrais me sentir mal à l’aise d’admettre que je ne sais pas comment faire quelque chose, mais c’est plus facile avec le temps.
 
 ## Responsabilité partagée de l’équipe
 
@@ -69,7 +69,7 @@ Il est important d’établir des normes d’équipe en ce qui concerne les dema
 
 > Traduction de [@iamdevloper](https://twitter.com/iamdevloper/status/397664295875805184)
 
-J’aime limiter les demandes de tirage à 200 lignes de code ou moins. Encore mieux si c’est moins. Idéalement, elles devraient également corriger une seule chose. Je préfère les demandes de tirage d’une ligne. Points bonis pour les demandes de tirage d’une ligne qui corrigent réellement quelque chose. Cela permet aux examinateurs de code de se concentrer sur un changement atomique.
+J’aime limiter les demandes de tirage à 200 lignes de code ou moins. Encore mieux si c’est moins. Idéalement, elles devraient également corriger une seule chose. Je préfère les demandes de tirage d’une ligne. Points bonus pour les demandes de tirage d’une ligne qui corrigent réellement quelque chose. Cela permet aux examinateurs de code de se concentrer sur un changement atomique.
 
 Si nous fixons la taille des demandes de tirage à une taille raisonnable, nous pouvons également établir des attentes par rapport aux délais d’exécution. Pour moi, la limite raisonnable est d’un jour ouvrable, tout au plus, avec la possibilité de demander à quelqu’un de voir s’il est possible de procéder plus rapidement si la demande de tirage freine d’autre travail.
 
