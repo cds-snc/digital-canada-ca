@@ -1,7 +1,7 @@
 ---
 title: "Travailler dans les locaux de RNCan pendant une semaine - Partie 2"
 description: "Nous construisons une interface de programmation d’applications (API) publique pour Ressources naturelles Canada (RNCan); cette API vise à ouvrir l’accès aux données ÉnerGuide sur la consommation d’énergie résidentielle."
-author: Jason White, Chef, science des données
+author: Jason White, chef, sciences des données
 date: 2018-02-15 09:00:00 -0400
 image: blog-colocating-with-NRCAN.jpg
 image-alt: Jason et Dave debouts devant l'édifice de Ressources naturelles Canada
@@ -20,7 +20,7 @@ Voilà un curieux paradoxe, dans un monde où toutes sortes d’outils nous perm
 
 Une conversation d’une demi-heure avec la bonne personne peut apporter un contexte et des éclaircissements essentiels à propos du problème, ce qui épargne des heures de travail par la suite. La proximité s’est révélée décisive et nous a permis d’accélérer le travail et de nous aider à garder le cap, sans que nous ayons à prendre beaucoup de temps de nos partenaires. Tellement, que nous avons dû sembler être des intrus aux yeux de nos nouveaux colocataires de RNCan, puisque nous travaillions seuls la plupart du temps. Ce ne serait pas une observation injuste de leur part.
 
-Nous sommes de retour avec notre équipe du Service numérique canadien (SNC), avec en poche des renseignements qui nous offrent une plus grande probabilité de réussite. De plus, grâce au réseautage fait sur place, nous profitons de nos nouvelles relations personnelles pour faciliter la communication par courriel et par téléphone. 
+Nous sommes de retour avec notre équipe du Service numérique canadien, avec en poche des renseignements qui nous offrent une plus grande probabilité de réussite. De plus, grâce au réseautage fait sur place, nous profitons de nos nouvelles relations personnelles pour faciliter la communication par courriel et par téléphone. 
 
 ## Quelques leçons tirées en vue d’un futur partage de locaux 
 Compte tenu des avantages de l’expérience de partage de locaux, nous recommandons ce qui suit&nbsp;: 
