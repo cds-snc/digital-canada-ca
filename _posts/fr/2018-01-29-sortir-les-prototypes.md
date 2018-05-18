@@ -1,7 +1,7 @@
 ---
 title: "Sortir les prototypes&nbsp;: l’application de breffage électronique"
 description: "Obtenir la rétroaction directe des utilisateurs est la meilleure façon d’améliorer un produit numérique. Pour nous faire la main, avant notre lancement officiel, nous voulions entreprendre un projet qui illustrerait « l’art du possible » avec des outils numériques modernes."
-author: Dave Samojlenko et Sean Boots, SNC
+author: Dave Samojlenko et Sean Boots
 date: 2018-01-29 09:00:00 -0400
 image: blog-ebriefing-2018.jpg
 image-alt: "La première équipe de prestation du SNC en train de finaliser et de tester la première version de l'application de breffage électronique."
@@ -10,7 +10,7 @@ layout: cds/post
 trans_url: "/2018/01/29/getting-prototypes-out-the-door"
 ---
 
-Obtenir la rétroaction directe des utilisateurs est la meilleure façon d’améliorer un produit numérique. Toutes les activités comme les réunions stratégiques, la planification et la définition des exigences qui constituent les étapes typiques du développement d’un logiciel au gouvernement ne font pas le poids comparativement au véritable [essai du produit par ses utilisateurs](https://medium.com/code-for-america/what-healthcare-gov-has-to-do-with-the-hawaii-false-alarm-and-what-to-do-about-it-445cb2b7af82).
+Obtenir la rétroaction directe des utilisateurs est la meilleure façon d’améliorer un produit numérique. Toutes les activités comme les réunions stratégiques, la planification et la définition des exigences qui constituent les étapes typiques du développement d’un logiciel au gouvernement ne font pas le poids comparativement au véritable [test du produit par ses utilisateurs](https://medium.com/code-for-america/what-healthcare-gov-has-to-do-with-the-hawaii-false-alarm-and-what-to-do-about-it-445cb2b7af82).
 
 Quelques mois avant le [lancement officiel](https://numerique.canada.ca/2017/07/18/lancement-du-service-numerique-canadien/) du Service numérique canadien (SNC), nous avons mis sur pied notre première équipe de prestation – un groupe de concepteurs d’expérience utilisateur, de développeurs et de chercheurs qui pouvait encore occuper une petite salle de réunion. Pour nous faire la main, nous voulions entreprendre un projet qui illustrerait «&nbsp;l’art du possible&nbsp;» avec des outils numériques modernes. À ce moment-là, nous n’étions pas encore en mesure de travailler en partenariat avec des ministères (l’objet principal de notre travail actuel), c’est pourquoi nous avons développé un produit répondant à un besoin interne&nbsp;:&nbsp;la production des cahiers de breffage qu’utilisent les délégations gouvernementales à l’étranger.
 
