@@ -1,7 +1,7 @@
 ---
 title: "Le SNC accueille son premier dirigeant principal&nbsp;: Aaron Snow"
 description: "En septembre, Yaprak Baltacıoğlu, secrétaire du Conseil du Trésor, a lancé la recherche du premier dirigeant principal du SNC. Cet exercice a attiré des candidats de partout dans le monde."
-author: Anatole Papadopoulos, directeur exécutif, SNC
+author: Anatole Papadopoulos, directeur exécutif
 date: 2018-03-09 09:00:00 -0400
 image: blog-aaron-snow.jpg
 image-alt: Aaron Snow
