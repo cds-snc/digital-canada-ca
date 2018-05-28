@@ -1,7 +1,7 @@
 ---
 title: "L’embauche au SNC : comment s’y prend-on dans un modèle d’entreprise en démarrage?"
 description: "Notre manière de faire du recrutement et de renforcer l’effectif d’une équipe de services numériques qui se met immédiatement au travail et qui aide à relever les défis liés aux services dans l’ensemble du gouvernement suscite beaucoup d’intérêt. Voilà pourquoi je suis ravie de bloguer sur les pratiques d’embauche au SNC."
-author: Meera Makim Cunningham, responsable des Opérations internes
+author: Meera Makim Cunningham, Opérations internes
 date: 2018-01-09 09:00:00 -0400
 image: blog-hiring-2018.jpg
 image-alt: "Membres de l’équipe du SNC"
@@ -31,7 +31,7 @@ Un grand nombre des personnes que nous avons embauchées au départ étaient des
 
 Nous espérons pouvoir conclure des échanges pour combler toutes sortes de besoins, puisque c’est une excellente manière de mobiliser les talents, de renforcer les capacités grâce à des affectations temporaires, d’enrichir des emplois et d’échanger des compétences.
 
-Si vous êtes intéressé à en savoir plus sur la façon dont le SNC utilise le programme Échanges Canada pour renforcer ses capacités, gardez un œil sur ce blogue. John Millons prépare un billet de blogue sur ce sujet précis, qui mettra en vedette notre partenariat avec Code for Canada.
+Si vous êtes intéressé à en savoir plus sur la façon dont le SNC utilise le programme Échanges Canada pour renforcer ses capacités, consultez le [billet de John Millons] (https://numerique.canada.ca/2018/04/19/notre-partenariat-avec-code-for-canada/, qui met en vedette notre partenariat avec Code for Canada.
 
 **Étudiants** – Le SNC a déjà profité des services d’étudiants grâce aux programmes de stage et d’alternance travail-études ainsi que par l’entremise du [Programme fédéral d’expérience de travail étudiant](https://www.canada.ca/fr/secretariat-conseil-tresor/services/perfectionnement-professionnel/echanges-canada.html) (PFETE).
 
