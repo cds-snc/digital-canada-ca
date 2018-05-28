@@ -1,7 +1,7 @@
 ---
 title: "Circonscrire un problème de conception – Le processus de demande de citoyenneté, vu de l’intérieur"
 description: "C’est une période emballante au Service numérique canadien (SNC) : nous avons retroussé nos manches et nous nous sommes lancés dans nos premiers projets de prestation de services, tout en travaillant fort pour choisir nos prochains partenariats. L’un de nos partenaires pour ces tout premiers projets est Immigration, Réfugiés et Citoyenneté Canada (IRCC)."
-author: Mario Garneau, Mithula Naik et Ryan Androsoff (SNC)
+author: Mario Garneau, Mithula Naik et Ryan Androsoff 
 date: 2017-10-24 09:00:00 -0400
 image: blog-framing-a-design-problem-2017.jpg
 image-alt: "Une salle remplie de chaises inoccupées lors d’une cérémonie de citoyenneté."
