@@ -1,5 +1,5 @@
 ---
-title: "L’accessibilité au SNC - Remettre en question nos hypothèses de départ concernant les images d’ambiance "
+title: "L’accessibilité au SNC – Remettre en question nos hypothèses de départ concernant les images d’ambiance "
 description: "Nous avons récemment reçu des commentaires sur notre référentiel Github concernant l'accessibilité des images de premier plan utilisées sur certaines pages de notre site Web, y compris sur notre blogue."
 author: Dave Samojlenko, développeur 
 date: 2018-01-16 09:00:00 -0400
@@ -18,11 +18,11 @@ Lorsque nous avons conçu le site, nous avons considéré ces images comme étan
 
 Un autre exemple d’une image qui vient ajouter du contexte est celle accompagnant le billet [Nous sommes tous concernés](/2017/11/20/nous-sommes-tous-concernes/), par la blogueuse invitée, Hillary Hartley, directrice des Services numériques du gouvernement de l'Ontario. Dans ce cas-ci, l'image représente l'équipe de l'Ontario.
 
-Le billet [Choisir nos projets](/2017/08/24/choisir-nos-projets/) est un exemple de cas plus complexes&nbsp;: la photo qui l’accompagne montre une série d'affiches que nous avons au bureau. Dans ce cas, l'image contient du texte, mais s'agit-il simplement d'une image d’ambiance? Transmet-elle des renseignements supplémentaires ou ajoute-t-elle au sens au message?
+Le billet [Choisir nos projets](/2017/08/24/choisir-nos-projets/) est un exemple de cas plus complexes&nbsp;: la photo qui l’accompagne montre une série d'affiches que nous avons au bureau. Dans ce cas, l'image contient du texte, mais s'agit-il simplement d'une image d’ambiance? Transmet-elle des renseignements supplémentaires ou ajoute-t-elle au sens du message?
 
 On pourrait débattre de la nécessité d'un texte alternatif dans ce genre de situations. Certains pourraient faire valoir que fournir un texte alternatif pour toutes les images, même les images décoratives ou d’ambiance, crée de la confusion et encombre les lecteurs d'écran. [D'autres pourraient répondre](https://tink.uk/text-descriptions-emotion-rich-images/) que ce que certains considèrent agréable à regarder peut être le lien sentimental à un site Web pour d’autres.
 
-[Certains essais informels par des utilisateurs](http://www.davidmacd.com/blog/what-is-pure-decoration-alt-text-in-wcag.html) ont révélé une préférence pour qu’un court texte alternatif accompagne les images décoratives et d’ambiance, à moins que ces images ne soient strictement décoratives, comme dans le cas d’une image-gradient ou d’un espacement. En fin de compte, nous avons décidé d'ajouter un texte alternatif pour ces images. Même si une certaine zone grise entoure les images décoratives et les images d’ambiance, nous croyons que, dans ce cas-ci, il vaut mieux ajouter le texte alternatif.
+[Certains tests informels par des utilisateurs](http://www.davidmacd.com/blog/what-is-pure-decoration-alt-text-in-wcag.html) ont révélé une préférence pour qu’un court texte alternatif accompagne les images décoratives et d’ambiance, à moins que ces images ne soient strictement décoratives, comme dans le cas d’une image-gradient ou d’un espacement. En fin de compte, nous avons décidé d'ajouter un texte alternatif pour ces images. Même si une certaine zone grise entoure les images décoratives et les images d’ambiance, nous croyons que, dans ce cas-ci, il vaut mieux ajouter le texte alternatif.
 
 Souvent, les décisions liées à l'accessibilité peuvent être matière à interprétation. Quelle est la distinction exacte entre une image décorative, une image d’ambiance ou une image informative? Aucun processus ou test automatisé ne fera cette distinction à votre place. Vous devez être prêt à en discuter, à remettre en question vos hypothèses et à changer d'avis, au besoin.
 
