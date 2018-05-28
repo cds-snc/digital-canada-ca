@@ -1,7 +1,7 @@
 ---
 title: "C’est toujours un défi la première fois..."
 description: "Au cours de nos séances de mobilisation, les gens nous ont dit que le gouvernement devait trouver des façons de permettre aux joueurs non traditionnels de s’impliquer et de co-créer des solutions avec le gouvernement."
-author: Mario Garneau, responsable de la prestation et Wendy Luciani, responsable des partenariats
+author: Mario Garneau, Prestation et Wendy Luciani, Partenariats
 date: 2017-12-07 09:00:00 -0400
 image: blog-toujours-un-defi-2017.jpg
 image-alt: "La page d’accueil de la plateforme de défis Impact Canada."
@@ -25,7 +25,7 @@ En premier lieu, il nous a fallu joindre nos forces afin de comprendre ce dont l
 
 Nous n’avons pas jugé opportun d’acquérir une solution commercialisée en raison des coûts élevés impliqués&nbsp;: les frais de service allant de 20&nbsp;000&nbsp;$ par défi à des centaines de milliers de dollars pour une solution personnalisée. Aussi, notre solution devait respecter les exigences liées au bilinguisme, à l’accessibilité et à la protection des données. Nous avons parlé à d’autres services numériques et nous avons confirmé qu’il n’existait aucune plateforme libre d’accès pouvant répondre à nos besoins. 
 
-Finalement, nous avons opté pour une solution maison, reposant sur l’excellent travail réalisé dans le cadre du projet [DrupalWxT](https://github.com/drupalwxt/wxt). Nous avons pesé les pour et les contre&nbsp;: Réutilisation d’un code ou création d’un nouveau code. La réutilisation s’est avéré le meilleur choix. Un de [nos critères](/2017/08/24/choisir-nos-projets/) est la reproductibilité des solutions; nous avions besoin d’une solution modulaire, une solution sur laquelle nous ou d’autres, qu’il s’agisse du BCP ou d’autres administrations, pourrions nous appuyer. En évitant les coûts associés à l’achat ou à la construction d’une nouvelle plateforme de A à Z, nos partenaires ont pu concentrer leurs ressources sur le plus important&nbsp;: concevoir et tenir les défis. 
+Finalement, nous avons opté pour une solution maison, reposant sur l’excellent travail réalisé dans le cadre du projet [DrupalWxT](https://github.com/drupalwxt/wxt). Nous avons pesé les pour et les contre&nbsp;: Réutilisation d’un code ou création d’un nouveau code. La réutilisation s’est avérée le meilleur choix. Un de [nos critères](/2017/08/24/choisir-nos-projets/) est la reproductibilité des solutions; nous avions besoin d’une solution modulaire, une solution sur laquelle nous ou d’autres, qu’il s’agisse du BCP ou d’autres administrations, pourrions nous appuyer. En évitant les coûts associés à l’achat ou à la construction d’une nouvelle plateforme de A à Z, nos partenaires ont pu concentrer leurs ressources sur le plus important&nbsp;: concevoir et tenir les défis. 
 
 ## En attendant le nuage 
 
