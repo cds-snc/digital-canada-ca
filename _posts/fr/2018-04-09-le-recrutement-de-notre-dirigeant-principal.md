@@ -1,7 +1,7 @@
 ---
 title: "Réflexions sur le recrutement de notre dirigeant principal"
 description: "Nous avons récemment annoncé qu’Aaron Snow se joint au Service numérique canadien (SNC) en tant que notre premier dirigeant principal pour faire partie de notre mouvement numérique."
-author: Lena Trudeau, Conseillère principale, SNC
+author: Lena Trudeau, conseillère principale
 date: 2018-04-09 09:00:00 -0400
 image: blog-ceo-recruitment.jpg
 image-alt: Le dirigeant principal Aaron Snow discute avec deux autres membres de l’équipe.
@@ -10,7 +10,7 @@ layout: cds/post
 trans_url: "/2018/04/09/recruiting-our-ceo"
 ---
 
-Nous avons récemment [annoncé](https://numerique.canada.ca/2018/03/09/Le-SNC-accueille-son-premier-dirigeant-principal/) qu’Aaron Snow se joignait au Service numérique canadien (SNC) en tant que notre premier dirigeant principal pour faire partie de notre mouvement numérique.
+Nous avons récemment [annoncé](https://numerique.canada.ca/2018/03/09/Le-SNC-accueille-son-premier-dirigeant-principal/) qu’Aaron Snow se joignait au Service numérique canadien (SNC) en tant que premier dirigeant principal pour faire partie de notre mouvement numérique.
 
 Oui, nous cherchions une licorne. Quelqu’un qui se concentre sur l’amélioration des choses pour les personnes qui ont recours aux services gouvernementaux, et qui a vu la valeur de la collaboration et du renforcement des capacités dans nos organismes partenaires. Qui a fait ses preuves sur le plan de la livraison, qui a une maîtrise technique, avec d’excellentes compétences générales. Un évangéliste, sans l’amour-propre que cela procure souvent. Aaron répond à tous ces critères et nous sommes plus enthousiastes que jamais à l’idée de l’accueillir.
 
@@ -18,9 +18,9 @@ Je tiens à remercier la communauté numérique mondiale et les candidats except
 
 ## Diversité : encore de la place à l’amélioration
 
-Nous voulions recruter à partir d’un éventail diversifié de candidats et nous étions heureux que le répertoire de candidats reflète l’expérience mondiale, différents profils et des qualifications solides. Au bout du compte, cependant, surtout des hommes ont posé leur candidature – seulement 11 % des demandes reçues provenaient des femmes. Nous aimerions publier des données sur d’autres aspects de la diversité, mais nous ne les avons pas recueillies. Nous le ferons dans l’avenir.
+Nous voulions recruter à partir d’un éventail diversifié de candidats et nous étions heureux que le répertoire de candidats reflète l’expérience mondiale, différents profils et des qualifications solides. Au bout du compte, cependant, surtout des hommes ont posé leur candidature – seulement 11&nbsp;% des demandes reçues provenaient des femmes. Nous aimerions publier des données sur d’autres aspects de la diversité, mais nous ne les avons pas recueillies. Nous le ferons dans l’avenir.
 
-Une chose est devenue très claire : nous pouvons et devons faire mieux. Au SNC – et dans l’ensemble du mouvement du gouvernement numérique – il y a beaucoup de travail à faire si nous voulons réussir à encourager différentes personnes à postuler et à assumer des rôles de leadership dans ce nouveau domaine. Nous nous engageons à former une équipe – et notre équipe de direction et technique en font partie – aussi diversifiée que la population que nous servons. Cela est important parce que cela nous aide à voir le monde d’une manière qui serait impossible si tout le monde se ressemblait. Nous pouvons mettre à profit nos expériences collectives pour nous assurer que nous offrons des services qui répondent vraiment aux besoins de nos utilisateurs de services.
+Une chose est devenue très claire : nous pouvons et devons faire mieux. Au SNC – et dans l’ensemble du mouvement du gouvernement numérique – il y a beaucoup de travail à faire si nous voulons réussir à encourager différentes personnes à postuler et à assumer des rôles de leadership dans ce nouveau domaine. Nous nous engageons à former une équipe – et nos équipes de direction et technique en font partie – aussi diversifiée que la population que nous servons. Cela est important parce que cela nous aide à voir le monde d’une manière qui serait impossible si tout le monde se ressemblait. Nous pouvons mettre à profit nos expériences collectives pour nous assurer que nous offrons des services qui répondent vraiment aux besoins de nos utilisateurs de services.
 
 ## Adapter le processus pour répondre à nos besoins
 
@@ -32,11 +32,11 @@ Le recrutement au niveau de la direction au sein du gouvernement est généralem
 
 * Nous avons déployé un effort concerté pour être ouverts et communicatifs avec nos finalistes durant le processus. Nous aurions certainement pu être meilleurs et nous le ferons dans nos processus futurs.
 
-* Nous savions aussi que nous vendions l’idée du SNC, du gouvernement du Canada et d’Ottawa. La personne dont nous avions besoin était plus susceptible de provenir de « l’extérieur » et nous devions montrer que notre entreprise en démarrage hétéroclite était un saut qui en valait la peine.
+* Nous savions aussi que nous vendions l’idée du SNC, du gouvernement du Canada et d’Ottawa. La personne dont nous avions besoin était plus susceptible de provenir de l’extérieur et nous devions montrer que notre entreprise en démarrage hétéroclite était un saut qui en valait la peine.
 
 * Tout au long du processus de recrutement, nous voulions que l’équipe participe au choix de son nouveau chef, tout en reconnaissant que tout le monde a suffisamment de pain sur la planche en ce qui concerne leurs responsabilités quotidiennes.
 
-* Nous avons eu un compte rendu des « leçons retenues », pour aider à faire le point sur le processus et nous avons invité tous ceux qui avaient participé.
+* Nous avons eu un compte rendu des «&nbsp;leçons retenues&nbsp;», pour aider à faire le point sur le processus et nous avons invité tous ceux qui avaient participé.
 
 Je tiens à remercier très chaleureusement l’équipe des ressources humaines du Secrétariat du Conseil du Trésor du Canada. Ils ont été extrêmement utiles alors que nous avons navigué la complexité et repoussé les limites. Nous avons établi une excellente relation de travail, pour laquelle nous sommes très reconnaissants.
 

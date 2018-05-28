@@ -13,14 +13,14 @@ La plupart des ministères avec qui nous travaillons déploient de nouvelles ver
 
 ## Les déploiements de type *big bang* sont risqués
 
-Qu’entend-on par [« déploiement de type *big bang* »](https://www.akuiteo.com/blog/les-strategies-de-deploiement-dun-logiciel-erp)? Il s’agit de la plus simple sorte de transfert de système ou de déploiement de versions. Un système est éteint lorsqu’un autre est mis en fonction. 
+Qu’entend-on par [«&nbsp;déploiement de type *big bang*&nbsp;»](https://www.akuiteo.com/blog/les-strategies-de-deploiement-dun-logiciel-erp)? Il s’agit de la plus simple sorte de transfert de système ou de déploiement de versions. Un système est éteint lorsqu’un autre est mis en fonction. 
 
 Nous en avons tous vu. Ils peuvent se manifester de plusieurs façons :
-* « Le système est arrêté pendant la fin de semaine pour une maintenance planifiée. »
-* « La version numéro 16 est sortie! »
-* « Le système est hors ligne jusqu’à mercredi ».
+* «&nbsp;Le système est arrêté pendant la fin de semaine pour une maintenance planifiée.&nbsp;»
+* «&nbsp;La version numéro 16 est sortie!&nbsp;»
+* «&nbsp;Le système est hors ligne jusqu’à mercredi&nbsp;».
 
-Les déploiements de type *big bang* reposent sur une simple hypothèse : la nouvelle version sera installée et fonctionnera comme prévu. L’expérience nous enseigne que plus la nouvelle version est différente, plus il est probable qu’il y aura des problèmes, et plus il sera difficile de déterminer la cause de la panne.
+Les déploiements de type *big bang* reposent sur une simple hypothèse&nbsp;:&nbsp;la nouvelle version sera installée et fonctionnera comme prévu. L’expérience nous enseigne que plus la nouvelle version est différente, plus il est probable qu’il y aura des problèmes, et plus il sera difficile de déterminer la cause de la panne.
 
 ## Les corrections de bogue prennent trop de temps
 
@@ -34,20 +34,20 @@ Nous ne sommes pas avisés longtemps d’avance des vulnérabilités de sécurit
 
 Nous devons donc recourir à des correctifs d’urgence non testés et non standard, et ce, hors cycle. Il y a beaucoup de façons dont cela peut mal tourner.
 
-## Il existe une autre manière : déployer un changement à la fois, tous les jours
+## Il existe une autre manière&nbsp;:&nbsp;déployer un changement à la fois, tous les jours
 
 Non seulement c’est possible; c’est une pratique standard dans l’industrie. Les outils sont accessibles à tous aujourd’hui, à peu de frais. Il y a quatre ans, [Amazon effectuait déjà un déploiement vers la production toutes les 11,6&nbsp;secondes](http://joshuaseiden.com/blog/2013/12/amazon-deploys-to-production-every-11-6-seconds/).
 
 Si vous avez lu nos billets de blogue précédents sur [l’intégration continue](https://numerique.canada.ca/2018/03/26/les-tests-automatises/) et la [qualité du code](https://numerique.canada.ca/2018/04/24/coder-une-activite-dequipe/), vous savez que nous suivons une méthode de très petits changements dont chacun est examiné par les collègues et subit un ensemble de tests automatisés. La combinaison de l’intégration continue et de l’examen par les pairs débloque cette capacité à aussi déployer chacun de ces changements individuellement dans la production.
 
-Déployer un changement à la fois, tous les jours, a de nombreux avantages :
+Déployer un changement à la fois, tous les jours, a de nombreux avantages&nbsp;:
 * Le mécanisme de déploiement est complètement automatisé et fiable.
 * Chaque changement est très petit et *réduit* donc *au minimum le risque*.
 * Les problèmes critiques peuvent habituellement être résolus en quelques minutes, simplement en annulant le changement fautif.
 * Répondre à de nouvelles menaces de sécurité est beaucoup plus simple et plus rapide.
 * Les développeurs peuvent vraiment considérer des fonctionnalités comme « lancées », ce qui soulage leur esprit.
 
-## Déploiement != Lancement
+## Déploiement&nbsp;!=&nbsp;Lancement
 
 Cette approche peut sembler très étrange pour ceux qui ont utilisé le modèle de développement de logiciel en cascade. On peut trouver cela irresponsable de lancer une nouvelle fonctionnalité de cette façon, avec raison. Toutefois, ce n’est pas ce qu’on propose.
 
@@ -62,7 +62,7 @@ Le [test A/B](https://fr.wikipedia.org/wiki/Test_A/B/) peut être utilisé en co
 
 ## Favoriser les conditions pour un déploiement continu
 
-La capacité à déployer continuellement un nouveau code vers la production dépend de quelques principes :
+La capacité à déployer continuellement un nouveau code vers la production dépend de quelques principes&nbsp;:
 * Chaque petit changement est digne de confiance – un bon examen de code et de tests automatisés est en place.
 * Les processus de développement et de déploiement est complètement automatisé.
 * Nous créons des applications Web.
