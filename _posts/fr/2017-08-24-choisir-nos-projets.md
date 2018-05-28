@@ -1,7 +1,7 @@
 ---
 title: "Choisir nos projets"
-description: "Si le fait d’utiliser la technologie de pointe suscite beaucoup d’engouement, au SNC, nous commençons par la base, soit définir un bon service, parce que c’est ce qui compte le plus. Dans vos rapports avec votre gouvernement, 1) il ne devrait pas y avoir d’ambiguïté sur ce que vous devez savoir et faire, et 2) il devrait être facile de faire ce qu’il y a à faire. Il ne s’agit pas seulement de refondre les sites Web; la technologie et les méthodes modernes nous donnent une réelle occasion de répondre aux besoins des utilisateurs alors que nous transformons nos services et, dans de nombreux cas, nous les mettons en ligne."
-author: Wendy Luciani, Gestionnaire des partenariats, SNC
+description: "Si le fait d’utiliser la technologie de pointe suscite beaucoup d’engouement, au SNC, nous commençons par la base, soit définir un bon service, parce que c’est ce qui compte le plus. Dans vos rapports avec votre gouvernement, 1)&nbsp;il ne devrait pas y avoir d’ambiguïté sur ce que vous devez savoir et faire, et 2)&nbsp;il devrait être facile de faire ce qu’il y a à faire. Il ne s’agit pas seulement de refondre les sites Web; la technologie et les méthodes modernes nous donnent une réelle occasion de répondre aux besoins des utilisateurs alors que nous transformons nos services et, dans de nombreux cas, nous les mettons en ligne."
+author: Wendy Luciani, Partenariats
 date: 2017-08-24 10:00:00 -0400
 image: picking-our-projects-2017.jpg
 image-alt: "Affiches dans les locaux du SNC."
@@ -29,7 +29,7 @@ Nous utilisons [une liste de questions pratiques](/ce-que-nous-faisons/#collabor
 
 ## À quoi pouvez-vous vous attendre?  
 
-Parce que votre temps est précieux, notre processus demeure simple. À mesure que notre capacité augmentera et que l’intérêt pour nos services grandira, nous reverrons notre processus afin de s’assurer que nous obtenons les meilleurs résultats possible pour les Canadiens. Lorsque vous nous contactez pour la première fois, rappelez-vous que ce qui nous intéresse, c’est le problème que vous devez résoudre. Nous communiquerons avec vous dans un délai d’une semaine environ pour planifier une première discussion visant à recueillir de l’information générale.
+Parce que votre temps est précieux, notre processus demeure simple. À mesure que notre capacité augmentera et que l’intérêt pour nos services grandira, nous reverrons notre processus afin de nous assurer que nous obtenons les meilleurs résultats possible pour les Canadiens. Lorsque vous nous contactez pour la première fois, rappelez-vous que ce qui nous intéresse, c’est le problème que vous devez résoudre. Nous communiquerons avec vous dans un délai d’une semaine environ pour planifier une première discussion visant à recueillir de l’information générale.
 
 Si le problème «&nbsp;tombe dans notre palette&nbsp;» et que nous entrevoyons un potentiel de partenariat, nous planifierons quelques rencontres de suivi avec nos équipes élargies respectives, histoire d’examiner le projet plus attentivement. Vos collègues, soit ceux de votre programme ou de votre secteur, ainsi que vos collègues des opérations, du service à la clientèle, des communications, de la protection de la vie privée et des technologies de l’information, devront être impliqués&nbsp;: nous voulons qu’ils soient bien informés et obtenir leur soutien dès le départ.
 
