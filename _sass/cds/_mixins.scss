@@ -3,7 +3,7 @@
 @mixin mobile_only  { @media ( max-width: 767px )  { @content; } }
 @mixin tablet       { @media ( min-width: 768px )  { @content; } }
 @mixin desktop      { @media ( min-width: 992px )  { @content; } }
-@mixin tv           { @media ( min-width: 1200px ) { @content; } }
+@mixin tv           { @media ( min-width: 900px ) { @content; } }
 
 @mixin retina {
 	@media
@@ -35,7 +35,6 @@
     $src: null;
 
     $extmods: (
-        eot: "?",
         svg: "#" + str-replace($name, " ", "_")
     );
 
