@@ -21,7 +21,7 @@ In the work we’ve done so far, there are two frameworks and approaches that we
 
 ## Goal 1: Optimizing for reusability
 
-CDS’ mandate is to [build prototypes and digital solutions](/how-we-work/) for our departmental partners, who will deploy and maintain these services in the long-term. That makes it critical that the IT teams within departments we work with are able to easily take and run with the things that we build. Within the federal government, many of these teams are specialized in .NET or Java – languages and frameworks that have been standardized for years, but that aren’t particularly well-optimized for building web applications quickly.
+CDS’ mandate is to [build prototypes and digital solutions](/what-we-do/) for our departmental partners, who will deploy and maintain these services in the long-term. That makes it critical that the IT teams within departments we work with are able to easily take and run with the things that we build. Within the federal government, many of these teams are specialized in .NET or Java – languages and frameworks that have been standardized for years, but that aren’t particularly well-optimized for building web applications quickly.
 
 [Laravel](https://laravel.com/) is a PHP framework that is highly-flexible, and has a wide-ranging community of open-source packages that easily handle anything from complex user roles and permissions to integrations with other systems. For developers that are used to .NET and Java, Laravel projects are easy to understand, learn from, and build on, which makes Laravel a really useful framework for the projects that we’ll be co-developing with other government IT teams.
 

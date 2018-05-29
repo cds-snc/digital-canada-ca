@@ -25,7 +25,7 @@ While this work gets underway, we’re also on the lookout for other service des
 
 So how do we pick what we work on? We focus on external services, and in particular, advancing services that have a broad reach (e.g. used by a large number of people). We also look for opportunities to get involved at the front end of a problem, so we can work with you and your service users on discovery and design, before determining the best way to get the right digital solution in place. If you’re just looking for tech support to meet the timeline on a committed deliverable, we’re not a good fit.
 
-We use this [handy list of questions](/how-we-work/#partnering) to explore projects in terms of our three Rs: Readiness, Reach and Replicability. When we are assessing projects, we also take into consideration our capacity, availability, and expertise at the time.
+We use this [handy list of questions](/what-we-do/#partnering) to explore projects in terms of our three Rs: Readiness, Reach and Replicability. When we are assessing projects, we also take into consideration our capacity, availability, and expertise at the time.
 
 ## What to expect
 
