@@ -113,7 +113,7 @@
     background-size: cover;
     color: $white;
     font-weight: 100;
-    
+
     .homepage--our-team--buttons {
         text-align: center;
     }
@@ -365,7 +365,6 @@
 // WHAT WE DO
 //
 ////////////////////////////////////////////////////
-
 ////////////////////////////////////////////////////
 //
 // PRODUCT DASHBOARD
@@ -610,8 +609,8 @@ span.live {
 
 .work-in-progress--overview {
     background-color: #000000;
-    padding-top: 8%;
-    padding-bottom: 8%;
+    padding-top: 6.5rem;
+    padding-bottom: 6.5rem;
 
     h1 {
         text-align: center;
@@ -908,7 +907,6 @@ span.live {
 // OUR TEAM
 //
 ////////////////////////////////////////////////////
-
 ////////////////////////////////////////////////////
 //
 // BLOG LISTING
@@ -1122,8 +1120,8 @@ article.post {
     }
 }
 
-.page--outer-container-padding{
-      @include desktop {
+.page--outer-container-padding {
+    @include desktop {
         padding: 8rem;
     }
 }
