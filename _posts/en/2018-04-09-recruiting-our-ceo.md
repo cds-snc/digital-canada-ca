@@ -1,7 +1,7 @@
 ---
 title: "Reflections on recruiting our CEO"
 description: "We recently announced that Aaron Snow is joining CDS as our first CEO. I’m delighted that Aaron is taking the leap to move to Ottawa and be part of our digital movement."
-author: Lena Trudeau, Senior Advisor, CDS
+author: Lena Trudeau, Senior Advisor
 date: 2018-04-09 09:00:00 -0400
 image: blog-ceo-recruitment.jpg
 image-alt: Chief Executive Officer Aaron Snow chatting with two other team members.
