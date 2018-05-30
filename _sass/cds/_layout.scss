@@ -3,79 +3,74 @@
 // Canada Top Back Bar Header
 //
 ////////////////////////////////////////////////////////////
-#fip {
-    background-color: $black;
-    padding: 1.15rem;
-    line-height: 0;
 
-    @include tablet {
-        padding: 1.5rem 2rem;
+#fip{
+  background-color : $black;
+  padding          : 1.15rem;
+  line-height      : 0;
+
+  @include tablet { padding: 1.5rem 2rem;}
+
+  .logo {
+    height : 1.5rem;
+
+    @include tablet { height: 2rem; }
+  }
+
+  .container {
+    @include mobile_only {
+      padding: 0;
+
+      .row { width: 100%; }
     }
+    
+  }
 
-    .logo {
-        height: 1.5rem;
+  .fip-logo:after {
+    bottom    : 0; 
+    content   : ""; 
+    position  : absolute; 
+    top       : 0; 
+    right     : 0; 
+    left      : 0;
+  }
 
-        @include tablet {
-            height: 2rem;
-        }
+  // Language Selector
+  #wb-lng {
+    padding-top: 0 !important;
+  }
+
+  .lang {
+    display    : block;
+    text-align : right;
+    width      : 100%;
+    color      : $white;
+
+    a {
+      display: inline-block;
+      color           : $white;
+      display: inline-block;
+      font-size       : 1.25rem;
+      font-weight: 400;
+      margin-top: 0.75rem;
+      text-align      : center;
+      text-decoration: none;
+      padding-bottom: 1rem;
+      border-bottom: #000 1px solid;
+      transition: all 0.3s ease-in-out;
+
+      &:hover {
+        border-bottom: #CCC 1px solid;
+      }
+
+      @include desktop {
+        font-weight: 200;
+        font-size: 2rem;
+      }
+
+      @include tablet { font-size: 1.5rem; }
     }
-
-    .container {
-        @include mobile_only {
-            padding: 0;
-
-            .row {
-                width: 100%;
-            }
-        }
-
-    }
-
-    .fip-logo:after {
-        bottom: 0;
-        content: "";
-        position: absolute;
-        top: 0;
-        right: 0;
-        left: 0;
-    } // Language Selector
-    #wb-lng {
-        padding-top: 0 !important;
-    }
-
-    .lang {
-        display: block;
-        text-align: right;
-        width: 100%;
-        color: $white;
-
-        a {
-            display: inline-block;
-            color: $white;
-            display: inline-block;
-            font-size: 1.25rem;
-            font-weight: 400;
-            margin-top: 0.75rem;
-            text-align: center;
-            text-decoration: none;
-            padding-bottom: 1rem;
-            border-bottom: #000 1px solid;
-            transition: all 0.3s ease-in-out;
-
-            &:hover {
-                border-bottom: #CCC 1px solid;
-            }
-
-            @include desktop {
-                font-weight: 200;
-                font-size: 2rem;
-            }
-
-            @include tablet {
-                font-size: 1.5rem;
-            }
-        }
-    }
+  }
 
 }
 
@@ -84,286 +79,260 @@
 // TOP PAGE BANNER
 //
 ////////////////////////////////////////////////////////////
+
 #wb-sm {
-    background: none;
+  background: none;
 }
 
 .page-banner {
-    background-color: $dark-grey;
-    background-size: cover;
-    background-position: center center;
-    height: 12rem;
-    position: relative;
+  background-color    : $dark-grey;
+  background-size     : cover;
+  background-position : center center;
+  height              : 12rem;
+  position            : relative;
 
+  @include tablet  { height: 30rem; }
+  @include desktop { height: 40rem; }
+
+  .page-blogpost & {
+    height: 25rem;
     @include tablet {
-        height: 20rem;
+      height: 30rem;
     }
+
     @include desktop {
-        height: 25rem;
+      height: 40rem;
+    }
+  }
+
+  h1 {
+    border-bottom   : none;
+    color           : $white;
+    font-family     : "HKGrotesk", sans-serif;
+    font-weight     : 100;
+    margin          : 1.5rem;
+    padding         : 0;
+    
+    @include tablet {
+      font-size   : 4rem;
+      line-height : 4.25rem;
+      margin-top  : 0.5rem;
     }
 
-    .page-blogpost & {
-        height: 25rem;
-
-        @include tablet {
-            height: 30rem;
-        }
-
-        @include desktop {
-            height: 40rem;
-        }
+    @include desktop {
+      font-size   : 4.5rem;
+      line-height : 5rem;
     }
 
-    h1 {
-        border-bottom: none;
-        color: $white;
-        font-family: "HKGrotesk", sans-serif;
-        font-weight: 100;
-        margin: 1.5rem;
-        padding: 0;
-
-        @include tablet {
-            font-size: 4rem;
-            line-height: 4.25rem;
-            margin-top: 0.5rem;
-        }
-
-        @include desktop {
-            font-size: 4.5rem;
-            line-height: 5rem;
-        }
-
-        @include tv {
-            font-size: 4.75rem;
-            line-height: 5.5rem;
-            margin-top: 0.25rem;
-        }
-    } // Page Banner for Front Page
-    .home & {
-        background: $dark-grey;
-        clear: both;
-        display: block;
-        height: 40rem;
-        position: relative;
-        width: 100%;
-        z-index: 1;
-
-        @include tablet {
-            height: 45rem;
-        }
-        @include desktop {
-            height: 50rem;
-        }
-        @include tv {
-            height: 70rem;
-        }
+    @include tv {
+      font-size   : 4.75rem;
+      line-height : 5.5rem;
+      margin-top  : 0.25rem;
     }
+  }
+
+  // Page Banner for Front Page
+  .home & {
+    background  : $dark-grey;
+    clear       : both;
+    display     : block;
+    height      : 40rem;
+    position    : relative;
+    width       : 100%;
+    z-index     : 1;
+    
+    @include tablet  { height: 45rem; }
+    @include desktop { height: 50rem; }
+    @include tv      { height: 70rem; }
+  }
 
 }
 
 .page-banner--video {
-    display: block;
-    height: 100%;
-    overflow: hidden;
-    position: absolute;
-    width: 100%;
+  display   : block;
+  height    : 100%;
+  overflow  : hidden;
+  position  : absolute;
+  width     : 100%;
 
-    video {
-        height: auto;
-        left: 50%;
-        min-height: 100%;
-        min-width: 100%;
-        position: absolute;
-        top: 50%;
-        transform: translateX(-50%) translateY(-50%);
-        width: auto;
-        z-index: 0;
-
-    }
+  video {
+    height      : auto;
+    left        : 50%;
+    min-height  : 100%;
+    min-width   : 100%;
+    position    : absolute;
+    top         : 50%;
+    transform   : translateX(-50%) translateY(-50%);
+    width       : auto;
+    z-index     : 0;
+    
+  }
 }
 
 .page-banner--scrim {
-    background: rgba(0, 0, 0, 0.65);
-    display: block;
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
+  background : rgba(0,0,0,0.65);
+  display    : block;
+  height     : 100%;
+  left       : 0;
+  position   : absolute;
+  top        : 0;
+  width      : 100%;
 }
 
 .page-banner--tag-line {
-    position: absolute;
-    text-align: center;
-    top: 20%;
-    width: 100%;
+  position    : absolute;
+  text-align  : center;
+  top         : 20%;
+  width       : 100%;
 
-    @include tablet {
-        margin-top: 25rem;
-        text-align: left;
-        top: 10%;
-    }
+  @include tablet {
+    margin-top : 25rem;
+    text-align : left;
+    top        : 10%;
+  }
 
-    @include desktop {
-        left: 50%;
-        margin-top: 23rem;
-        top: 15%;
-        transform: translateX(-50%);
-    }
+  @include desktop {
+    left        : 50%;
+    margin-top  : 23rem;
+    top         : 15%;
+    transform   : translateX(-50%);
+  }
 
-    @include tv {
-        margin-top: 35rem;
-        top: 20%;
-    }
+  @include tv {
+    margin-top  : 35rem;
+    top         : 20%;
+  }
 
-    .h1 {
-        border-bottom: none !important;
-        line-height: 1.25em;
-        @include tablet {
-            font-size: 3rem;
-        }
+  .h1 {
+    border-bottom: none !important;
+    line-height: 1.25em;
+    @include tablet { font-size: 3rem; }
 
-        @include desktop {
-            font-size: 3.75rem;
-            line-height: 1.35;
-        }
-    }
+    @include desktop { font-size: 3.75rem; line-height: 1.35; }
+  }
 
 }
 
 .page-banner--tag-line--logo-container {
-    @include tablet {
-        text-align: right;
-    }
+    @include tablet { text-align: right; }
 }
 
 .page-banner--tag-line--logo {
+  
+  height:12rem;
 
-    height: 12rem;
-
-    @include desktop {
-        height: 16rem;
-    }
+  @include desktop { height: 16rem; }
 }
 
 .page-banner--title {
-    color: $white;
-    display: block;
-    font-size: 3rem;
-    font-weight: 100;
-    left: 50%;
-    line-height: 3rem;
-    max-width: 1024px;
-    position: absolute;
-    text-align: center;
-    text-shadow: 0 0 0 2px $dark-grey;
-    transform: translateX(-50%) translateY(-50%);
-    top: 50%;
-    width: 100%; //@include tablet {
-    //  font-size   : 10rem;
-    //  line-height : 10rem;
-    //}
-    h1 {
-        border-bottom: none;
-        color: $white;
-        font-weight: 100;
-        margin: 1.5rem;
-        padding: 0;
-        text-shadow: 0px 0px 10px $black;
+  color       : $white;
+  display     : block;
+  font-size   : 3rem;
+  font-weight : 100;
+  left        : 50%;
+  line-height : 3rem;
+  max-width   : 1024px;
+  position    : absolute;
+  text-align  : center;
+  text-shadow : 0 0 0 2px $dark-grey;
+  transform   : translateX(-50%) translateY(-50%);
+  top         : 50%;
+  width       : 100%;
 
-        @include tablet {
-            font-size: 2.5em;
-            line-height: 1.25em;
-            margin-top: 0.5rem;
-        }
+  //@include tablet {
+  //  font-size   : 10rem;
+  //  line-height : 10rem;
+  //}
 
-        @include desktop {
-            font-size: 3em;
-        }
-        @include tv {
-            margin-top: 0.25rem;
-        }
+  h1 {
+    border-bottom : none;
+    color         : $white;
+    font-weight   : 100;
+    margin        : 1.5rem;
+    padding       : 0;
+    text-shadow   : 0px 0px 10px $black;
+
+    @include tablet {
+      font-size   : 2.5em;
+      line-height : 1.25em;
+      margin-top  : 0.5rem;
     }
+
+    @include desktop { font-size  : 3em;     }
+    @include tv      { margin-top : 0.25rem; }
+  }
 }
 
 main {
-    position: relative;
-    z-index: 0;
+  position: relative;
+  z-index: 0;
 }
 
 
 
 // Canada Footer
-#goc-footer {
-    border-top: 4px solid $secondary-color;
-    max-height: 10rem;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    background-color: $light-grey;
+#goc-footer{
+  border-top       : 4px solid $secondary-color;
+  max-height       : 10rem;
+  padding-top      : 2rem;
+  padding-bottom   : 2rem;
+  background-color : $light-grey;
 
-    nav {
-        padding: 0.5rem 0 0 0 !important;
-    }
+  nav { padding: 0.5rem 0 0 0 !important; }
 }
 
 
 .goc-footer--links {
+  
+  ul {
+    margin     : 0; 
+    padding    : 0;
+    text-align : center;
 
-    ul {
-        margin: 0;
-        padding: 0;
-        text-align: center;
+    @include tablet { text-align : left;  }
+  }
 
-        @include tablet {
-            text-align: left;
-        }
+  li {
+    list-style  : none;
+    display     : inline-block;
+    padding     : 0.7em 0 0.7em 0.7em;
+
+    &::after {
+      content     : "\2022";
+      margin-left : 0.7em;
+      color       : $dark-grey;
     }
 
-    li {
-        list-style: none;
-        display: inline-block;
-        padding: 0.7em 0 0.7em 0.7em;
+    &:last-child {
 
-        &::after {
-            content: "\2022";
-            margin-left: 0.7em;
-            color: $dark-grey;
-        }
-
-        &:last-child {
-
-            &::after {
-                content: '';
-                margin-left: 0;
-            }
-        }
-
+      &::after {
+        content: '';
+        margin-left: 0;
+      }
     }
+
+  }
 
 }
 
 .goc-footer--logo {
-    text-align: center;
+  text-align : center;
 
-    @include tablet {
-        text-align: right;
-    }
+  @include tablet { text-align: right;}
 
-    .logo {
-        height: 40px;
-    }
+  .logo { height: 40px; }
 
 }
 
 .announcement-banner {
-    padding: 1em;
-    text-align: center;
-    color: #004085;
-    background-color: #cce5ff;
-    border-color: #b8daff;
-    a {
-        text-decoration: underline;
-    }
+  padding: 1em;
+  text-align: center;
+  color: #004085;
+  background-color: #cce5ff;
+  border-color: #b8daff;
+  a {
+    text-decoration: underline;
+  }
 }
 
 ////////////////////////////////////////////////////////////
@@ -371,7 +340,8 @@ main {
 // PAGE WIDTH
 //
 ////////////////////////////////////////////////////////////
-.padding-try {
+
+.padding-try{
     max-width: 900px;
     margin: auto;
 }
