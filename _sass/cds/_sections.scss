@@ -21,18 +21,7 @@
             font-size: 2.5rem;
             font-weight: 300;
         }
-    } //  .lead {
-    //    color: #6c6464;
-    //    font-size: 2.5rem;
-    //
-    //    @include tablet {
-    //      font-size: 2.75rem;
-    //    }
-    //
-    //    @include desktop {
-    //      font-size: 3.25rem;
-    //    }
-    //  }
+    }
 }
 
 .homepage--what-we-do {
@@ -106,9 +95,6 @@
 }
 
 .homepage--our-team {
-    //background 		: -webkit-gradient(linear, 0 top, 0 bottom, from(rgba($black,0.85)), to(rgba($black,0.85))), url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat, $dark-grey;
-    //background 		: -webkit-gradient(linear, 0 top, 0 bottom, from(rgba($black,0.85)), to(rgba($black,0.85))), url('/assets/img/cds/header-images/our-team.jpg') center center no-repeat, $dark-grey;
-    //    background: url("/assets/img/cds/header-images/our-team.jpg") center center no-repeat;
     background-color: #0f0a08;
     background-size: cover;
     color: $white;
@@ -607,32 +593,6 @@ span.live {
     }
 }
 
-.work-in-progress--overview {
-    background-color: #000000;
-    padding-top: 8%;
-    padding-bottom: 8%;
-
-    h1 {
-        text-align: center;
-        margin: 0px;
-        padding-bottom: 0px;
-    }
-
-    h3 {
-        color: #ffffff;
-        margin: 0px;
-        text-align: center;
-    }
-}
-
-.overview-container {
-    display: flex;
-    max-width: 70%;
-    justify-content: space-around;
-    align-items: center;
-    margin: auto;
-}
-
 .work-in-progress--product-summary {
     padding-top: 0px;
     padding-bottom: 0px;
@@ -1121,7 +1081,15 @@ article.post {
 }
 
 .page--outer-container-padding {
+//	adds 80px of padding to each page that has an outer container (80px + 15px totals 95px padding)
     @include desktop {
         padding: 8rem;
+    }
+}
+
+.page-home--outer-container-padding{
+//	needed because home & work with us don't have an outer container with 15px padding (9.5rem = 95px to match)
+	@include desktop {
+        padding: 9.5rem;
     }
 }
