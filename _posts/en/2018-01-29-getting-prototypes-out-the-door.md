@@ -1,7 +1,7 @@
 ---
 title: "Getting prototypes out the door: the e-Briefing app"
 description: "Getting hands-on feedback from users is the best way to improve a digital product. To get our feet wet, prior to our official launch, we wanted to tackle a quick project that showed “the art of the possible” with modern digital tools."
-author: Dave Samojlenko and Sean Boots, CDS
+author: Dave Samojlenko and Sean Boots
 date: 2018-01-29 09:00:00 -0400
 image: blog-ebriefing-2018.jpg
 image-alt: "The initial CDS delivery team finalizing and testing the first version of the e-briefing app."
