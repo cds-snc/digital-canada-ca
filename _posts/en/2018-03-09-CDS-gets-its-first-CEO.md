@@ -1,7 +1,7 @@
 ---
 title: "CDS gets its first Chief Executive Officer, Aaron Snow"
 description: "We are thrilled to have Aaron Snow join us at CDS. As our first CEO, Aaron will have a key role helping departments make better use of digital, to better serve Canadians."
-author: Anatole Papadopoulos, Executive Director, CDS
+author: Anatole Papadopoulos, Executive Director
 date: 2018-03-09 09:00:00 -0400
 image: blog-aaron-snow.jpg
 image-alt: Aaron Snow

@@ -1,7 +1,7 @@
 ---
 title: "The first one is always a challenge..."
 description: "During our engagement sessions, people told us that the government needed to identify ways to enable non-traditional players to work with government and co-create solutions.  "
-author: Mario Garneau, Delivery Manager and Wendy Luciani, Partnership Lead
+author: Mario Garneau, Delivery, and Wendy Luciani, Partnerships
 date: 2017-12-07 09:00:00 -0400
 image: blog-always-a-challenge-2017.jpg
 image-alt: "The homepage of the Impact Canada Challenge Platform"

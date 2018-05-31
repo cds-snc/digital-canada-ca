@@ -1,7 +1,7 @@
 ---
 title: "Why Canada needs a Digital Service"
 description: "That’s why we created CDS. We need a digital team that can demonstrate the art of the possible. A team that can get a working prototype into people’s hands quickly to see how it works and improve it based on user feedback. We need to put real people’s needs at the centre of how we design government services."
-author: Pascale Elvas, Director, CDS
+author: Pascale Elvas, Director
 date: 2017-08-03 10:00:00 -0400
 image: why-canada-needs-a-digital-service-2017.jpg
 image-alt: "Ryan Androsoff, Lena Trudeau, Anatole Papadopoulos, Olivia Neal, and Pascale Elvas"

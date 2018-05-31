@@ -1,7 +1,7 @@
 ---
 title: "Discussing Digital in French"
 description: "In technology, breakthroughs are occurring at a staggering pace. Since things do have to be named, new words in our vocabulary need to be developed quickly. If English is the language of business, it’s also the language of technology. So, how do you keep up? We all know that in instances where French terms don’t exist, anglicisms quickly take precedence and become hard to displace. Have you “liké” a Facebook post recently? Some dictionary entries could raise some eyebrows."
-author: Annie Leblond, Communications, CDS
+author: Annie Leblond, Communications
 date: 2017-09-29 09:00:00 -0400
 image: blog-discussing-digital-in-french-2017.jpg
 image-alt: "Computer keyboard with the flag of France on a key"
