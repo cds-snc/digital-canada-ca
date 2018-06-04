@@ -1,7 +1,7 @@
 ---
 title: "Technology choices at CDS"
 description: "A few weeks ago, we opened our public recruitment campaign, looking for designers, developers, data scientists, product managers, and engagement experts. On the developer stream, a number of people have reached out to ask which technology platforms and programming languages we work in. It’s a great question! One of the exciting parts of joining CDS at such an early stage in our existence is that you’ll have a chance to shape how our technology choices evolve. With that in mind – none of these are set in stone – I thought I’d share the current thinking of our developer team, and the two (competing) goals that influence the technologies we choose."
-author: Sean Boots, Developer, CDS
+author: Sean Boots, Developer
 date: 2017-11-06 09:00:00 -0400
 image: blog-technology-choices-at-cds-2017.jpg
 image-alt: "A computer screen showing results from a test suite"

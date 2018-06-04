@@ -1,7 +1,7 @@
 ---
 title: "Picking our Projects"
 description: "While using the latest technology may get more buzz, at CDS we’re starting with the basics of good service, because that’s what matters most. When you engage your government, (1) what you need to know and do should be clear, and (2) it should be as easy as possible to actually do that thing. This isn’t about website redesign; modern tech and methods gives us a real opportunity to meet user needs as we transform our services and, in many cases, move them online."
-author: Wendy Luciani, Partnership Lead, CDS
+author: Wendy Luciani, Partnerships
 date: 2017-08-24 10:00:00 -0400
 image: picking-our-projects-2017.jpg
 image-alt: "Posters in the CDS office"

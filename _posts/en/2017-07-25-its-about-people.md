@@ -1,7 +1,7 @@
 ---
 title: "It’s about people"
 description: "Putting users first. That’s what CDS is all about.  Digital government is about people: their needs, their experiences, their frustrations, even their hopes."
-author: Anatole Papadopoulos, Executive Director, CDS
+author: Anatole Papadopoulos, Executive Director
 date: 2017-07-25 10:00:00 -0400
 image: blog-its-about-people-2017.jpg
 image-alt: "Anatole Papadopoulos speaking to some CDS staff"
