@@ -91,12 +91,11 @@
   height              : 12rem;
   position            : relative;
 
-  @include tablet  { height: 30rem; }
-  @include desktop { height: 40rem; }
+  @include tablet  { height: 20rem; }
+  @include desktop { height: 25rem; }
 
   .page-blogpost & {
     height: 25rem;
-
     @include tablet {
       height: 30rem;
     }
@@ -334,4 +333,15 @@ main {
   a {
     text-decoration: underline;
   }
+}
+
+////////////////////////////////////////////////////////////
+//
+// PAGE WIDTH
+//
+////////////////////////////////////////////////////////////
+
+.padding-try{
+    max-width: 900px;
+    margin: auto;
 }
