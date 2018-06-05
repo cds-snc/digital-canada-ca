@@ -7,16 +7,17 @@ layout: cds/page
 permalink: /contact/
 trans_url: '/contactez-nous'
 ---
+<div class="page--outer-container-padding">
+	<section class="section page-contact">
+		<h2 class="section--title">Connect with us!</h2>
 
-<section class="section page-contact">
-	<h2 class="section--title">Connect with us!</h2>
-
-	<div class="contact-info-container">
-		{% include cds/contact-info.html %}
-	</div>
+		<div class="contact-info-container">
+			{% include cds/contact-info.html %}
+		</div>
 	
 </section>
-<section class="section section--mailing-list no-bg">
-	<a name="mailing-list"></a>
-	{% include cds/{{ page.lang }}/mailing-list.html %}
-</section>
+	<section class="section section--mailing-list no-bg">
+		<a name="mailing-list"></a>
+		{% include cds/{{ page.lang }}/mailing-list.html %}
+	</section>
+</div>
