@@ -53,6 +53,7 @@ exec:
     twitter: wmluciani
     linkedin: wmluciani
     email: Wendy.Luciani@tbs-sct.gc.ca
+    
 team:
   - name: Anik Brazeau
     title:
@@ -90,12 +91,11 @@ team:
 
   - name: Courtney Claessens
     title:
-      en: Products | Empathy
-      fr: Produits | Empathie
+      en: Product Manager
+      fr: Gestionnaire de produits
     image-name: courtney-claessens.jpg
     linkedin: courtneyclaessens
     email: Courtney.Claessens@tbs-sct.gc.ca
-
 
   - name: Daniel Tse
     title:
@@ -149,6 +149,15 @@ team:
     twitter: emanelfy
     linkedin: eelfayomi
     email: Eman.El-Fayomi@tbs-sct.gc.ca
+    
+  - name: Emma Wootton
+    title:
+      en: Design
+      fr: Conception
+    image-name: emma-wootton.jpg
+    twitter: ewootwoot
+    linkedin: emma-wootton-b15553b1
+    email: Emma.Wootton@tbs-sct.gc.ca
 
   - name: Hillary Lorimer
     title:
@@ -213,6 +222,15 @@ team:
     linkedin: kelsey-harris-39373b139
     email: Kelsey.Harris@tbs-sct.gc.ca
 
+  - name: Klara Steele
+    title:
+      en: Capacity Building | Policy
+      fr: Renforcement de la capacité | Politiques
+    image-name: klara-steele.jpg
+    twitter: 
+    linkedin: 
+    email: Klara.Steele@tbs-sct.gc.ca
+
   - name: Kylie Havelock
     title:
       en: Senior Product Manager
@@ -231,6 +249,15 @@ team:
     linkedin: le0nl
     email: leon.lukashevsky@codefor.ca
     github: leonL
+
+  - name: Liam Davidson
+    title:
+      en: Design
+      fr: Design
+    image-name: liam-davidson.jpg
+    twitter: 
+    linkedin: liamdavidson
+    email: Liam.Davidson@tbs-scit.gc.ca
 
   - name: Lynn Chalati
     title:
@@ -327,6 +354,15 @@ team:
     twitter: eneraluca
     linkedin: eneraluca
 
+  - name: Ross Ferguson
+    title:
+      en: Product Lead
+      fr: Chef de produit
+    image-name: ross-ferguson.jpg
+    twitter: rossferg
+    linkedin: rossferguson
+    email: Ross.Ferguson@tbs-sct.gc.ca
+
   - name: Samantha Sadasivan
     title:
       en: Design | Service Design
@@ -335,7 +371,16 @@ team:
     email: samantha.sadasivan@tbs-sct.gc.ca
     twitter: samsadasivan
     linkedin: samsadasivan
-
+    
+  - name: Sana Qureshi
+    title:
+      en: Operations | Recruitment
+      fr: Opérations | Recrutement
+    image-name: sana-qureshi.jpg
+    twitter:
+    linkedin: sana-qureshi-35206a11
+    email: Sana.Qureshi@tbs-sct.gc.ca
+    
   - name: Sean Boots
     title:
       en: Tech | Advice
@@ -351,6 +396,15 @@ team:
       fr: Opérations | Administration
     image-name: shelley-bagg.jpg
     email: Shelley.Bagg@tbs-sct.gc.ca
+
+  - name: Stephen McMurtry
+    title:
+      en: Developer | Data
+      fr: Développeur | Données
+    image-name: stephen-mcmurtry.jpg
+    twitter: StephenMcMurtry
+    linkedin: stephen-mcmurtry-1b4a8879
+    email: Stephen.McMurtry@tbs-sct.gc.ca
 
   - name: Steve Astels
     title:
