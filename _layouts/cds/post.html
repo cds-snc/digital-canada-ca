@@ -14,91 +14,93 @@ layout: cds/base
 </header>
 <main role="main" property="mainContentOfPage">
     <section id="wb-cont">
-	    <section class="container-fluid page--outer-container-padding">
-		    <div class="row">
-			    <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
-				    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-					    <div class="post-header">
-						    <span class="blogpost-pretitle">
-							    <a href="{{site.data.menu[page.lang].blog.url}}">{{site.data.menu[page.lang].blog.name}}</a>
-						    </span>
-						    
-						    <h1>{{ page.title }}</h1>
-						    <p class="post-meta">
-							    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-							   {% if page.lang == 'fr' %}
-								  {% assign m = page.date | date: "%-m" %}
-								  {{ page.date | date: "%-d" }}
-								  {% case m %}
-									 {% when '1' %}janvier
-									 {% when '2' %}février
-									 {% when '3' %}mars
-									 {% when '4' %}avril
-									 {% when '5' %}mai
-									 {% when '6' %}juin
-									 {% when '7' %}juillet
-									 {% when '8' %}août
-									 {% when '9' %}septembre
-									 {% when '10' %}octobre
-									 {% when '11' %}novembre
-									 {% when '12' %}décembre
-								  {% endcase %}
-								  {{ page.date | date: "%Y" }}
-							   {% else %}
-								  {{ page.date | date: '%B %-d, %Y' }}
-							   {% endif %}
-							    </time>
-							    
-							    {% if page.author %}
-                            
-							    <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-								    <span itemprop="name">{{ page.author }}</span>
+	    <div class="container">
+		    <section class="page--outer-container-padding">
+			    <div class="row">
+				    <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+					    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+						    <div class="post-header">
+							    <span class="blogpost-pretitle">
+								    <a href="{{site.data.menu[page.lang].blog.url}}">{{site.data.menu[page.lang].blog.name}}</a>
 							    </span>
+
+							    <h1>{{ page.title }}</h1>
+							    <p class="post-meta">
+								    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+								   {% if page.lang == 'fr' %}
+									  {% assign m = page.date | date: "%-m" %}
+									  {{ page.date | date: "%-d" }}
+									  {% case m %}
+										 {% when '1' %}janvier
+										 {% when '2' %}février
+										 {% when '3' %}mars
+										 {% when '4' %}avril
+										 {% when '5' %}mai
+										 {% when '6' %}juin
+										 {% when '7' %}juillet
+										 {% when '8' %}août
+										 {% when '9' %}septembre
+										 {% when '10' %}octobre
+										 {% when '11' %}novembre
+										 {% when '12' %}décembre
+									  {% endcase %}
+									  {{ page.date | date: "%Y" }}
+								   {% else %}
+									  {{ page.date | date: '%B %-d, %Y' }}
+								   {% endif %}
+								    </time>
+
+								    {% if page.author %}
+
+								    <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+									    <span itemprop="name">{{ page.author }}</span>
+								    </span>
+								    {% endif %}
+							    </p>
+						    </div>
+
+						    <div class="post-content" itemprop="articleBody">
+								{{ content }}
+						    </div>
+						    {% assign posts=site.posts | where:"lang",page.lang %}
+					    </article>
+
+					    <div class="previous-next-nav">
+						    <div class="pull-left text-left mrgn-bttm-lg col-md-6 col-sm-12">
+							    {% for post in posts %}
+							    {% if prev %}
+							    <a href="{{ post.url }}">
+								    <span class="fa fa-arrow-left"></span>
+								    {{ site.data.trans[page.lang].previous-post }} <span class="wb-inv">:</span>
+								    <h5 class="mrgn-lft-md mrgn-tp-0 mrgn-bttm-0">{{ post.title }}</h5>
+							    </a>
 							    {% endif %}
-						    </p>
-					    </div>
-					    
-					    <div class="post-content" itemprop="articleBody">
-                    			{{ content }}
-					    </div>
-					    {% assign posts=site.posts | where:"lang",page.lang %}
-				    </article>
-				    
-				    <div class="previous-next-nav">
-					    <div class="pull-left text-left mrgn-bttm-lg col-md-6 col-sm-12">
-						    {% for post in posts %}
-						    {% if prev %}
-						    <a href="{{ post.url }}">
-							    <span class="fa fa-arrow-left"></span>
-							    {{ site.data.trans[page.lang].previous-post }} <span class="wb-inv">:</span>
-							    <h5 class="mrgn-lft-md mrgn-tp-0 mrgn-bttm-0">{{ post.title }}</h5>
-						    </a>
-						    {% endif %}
-						    {% assign prev = false %}
-						    {% if post.id == page.id %}
-							   {% assign prev = true %}
-						    {% endif %}
-						{% endfor %}
-					    </div>
-					    
-					    <div class="pull-right text-right mrgn-bttm-lg col-md-6 col-sm-12">
-						    {% for post in posts reversed %}
-						    {% if next %}
-						    <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }} <span class="wb-inv">:</span>
-							    <span class="fa fa-arrow-right"></span>
-							    <h5 class="mrgn-rght-md mrgn-tp-0 mrgn-bttm-0">{{ post.title }}</h5>
-                            </a>
-						{% break %}
-						{% endif %}
-						{% assign next = false %}
-						{% if post.id == page.id %}
-							{% assign next = true %}
-						{% endif %}
-						    {% endfor %}
+							    {% assign prev = false %}
+							    {% if post.id == page.id %}
+								   {% assign prev = true %}
+							    {% endif %}
+							{% endfor %}
+						    </div>
+
+						    <div class="pull-right text-right mrgn-bttm-lg col-md-6 col-sm-12">
+							    {% for post in posts reversed %}
+							    {% if next %}
+							    <a href="{{ post.url }}">{{ site.data.trans[page.lang].next-post }} <span class="wb-inv">:</span>
+								    <span class="fa fa-arrow-right"></span>
+								    <h5 class="mrgn-rght-md mrgn-tp-0 mrgn-bttm-0">{{ post.title }}</h5>
+						   </a>
+							{% break %}
+							{% endif %}
+							{% assign next = false %}
+							{% if post.id == page.id %}
+								{% assign next = true %}
+							{% endif %}
+							    {% endfor %}
+						    </div>
 					    </div>
 				    </div>
 			    </div>
-		    </div>
-        </section>
+		   </section>
+	    </div>
     </section>
 </main>

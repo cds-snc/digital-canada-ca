@@ -116,7 +116,7 @@
 
 .homepage--budget {
     @include desktop {
-        padding: 8rem 0;
+        padding: 8rem 0rem 8rem 11rem;
     }
     blockquote {
         padding: 2.5rem 3.5rem 3rem 3.5rem;
@@ -220,6 +220,7 @@
 
         @include desktop {
             padding-top: 3rem;
+		  padding-right: 3rem;
         }
     }
 
