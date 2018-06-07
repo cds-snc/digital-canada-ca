@@ -55,11 +55,11 @@ jobs:
 
       - run:
           name: "Test English"
-          command: htmlproofer /home/circleci/cds-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+          command: htmlproofer /home/circleci/cds-website --allow-hash-href --empty_alt_ignore --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
       - run:
           name: "Test French"
-          command: htmlproofer /home/circleci/snc-website --allow-hash-href --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
+          command: htmlproofer /home/circleci/snc-website --allow-hash-href --empty_alt_ignore --check-favicon --check-html --disable-external --file-ignore=/assets/lib/
 
   deploy:
     docker:
