@@ -254,8 +254,8 @@
 
 	.item-text {
 		display: block;
-		padding: 5.5rem 1.5rem 1.5rem 1.5rem;
-
+		padding: 7.5rem 1.5rem 1.5rem 1.5rem;
+		
 		@include tablet {
 			padding: 0 0 0 11rem;
 		}
@@ -271,9 +271,12 @@
 		top: -4rem;
 		left: 50%;
 		transform: translateX(-50%);
-		background: $primary-color;
-		border-radius:50%;
-		padding: 2rem;
+		background: $white;
+		border: $primary-color 4px solid;
+		border-radius:100%;
+//		padding: 2rem;
+		min-width: 10rem;
+		min-height: 10rem;
 
 		@include tablet {
 			left: 0;
@@ -285,12 +288,13 @@
 		}
 
 		@include desktop {
-			padding: 2.5rem;
+//			padding: 2.5rem;
 			top: -3rem;
 		}
 
 		i {
 			font-size: 3.5rem;
+			padding: 2.7rem;
 		}
 	}
 
