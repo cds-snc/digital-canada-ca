@@ -4,7 +4,7 @@
 //
 ////////////////////////////////////////////////////
 .homepage--intro {
-
+	
     .text {
         color: $black;
         font-weight: 200;
@@ -191,11 +191,6 @@
     background-size: cover;
     background-color: #121519;
     color: $white;
-    padding-top: 5rem;
-
-    @include desktop {
-        padding: 8rem 0;
-    }
 
     .title {
         @include tablet {
@@ -710,6 +705,8 @@ span.live {
 ////////////////////////////////////////////////////
 .work-with-us--details {
     border-top: $medium-grey 1px solid;
+	padding-bottom: 4rem;
+//	this needs standardizing ^
 }
 
 .work-with-us--looking-for {
@@ -812,6 +809,10 @@ span.live {
     background-color: #333;
     color: $white;
     padding-top: 2rem;
+	
+	@include desktop{
+		padding-bottom: 9.5rem;
+	}
 
     label {
         font-size: 2.25rem;
@@ -1083,15 +1084,49 @@ article.post {
 }
 
 .page--outer-container-padding {
-//	adds 80px of padding to each page that has an outer container (80px + 15px totals 95px padding)
+//	adds 80px of padding (desktop) to the whole page for page layout (have an outer container) (80px + 15px totals 95px padding).
+
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	
+	@include mobile-only{
+		padding: 3rem 1rem;
+	}
+
     @include desktop {
         padding: 8rem;
     }
 }
 
-.page-home--outer-container-padding{
+.page-wide--outer-container-padding{
 //	needed because home & work with us don't have an outer container with 15px padding (9.5rem = 95px to match)
+//	this class is only applied to pages with page-wide layout and home layout (they can't have full-page containers, so sections need to be styled individually)
+//currently it's only applied to "Our Team", "What We Do" and "Engagement Report" sections, as intro for Home and Work With Us both needed their own top-padding to match the other pages
+	
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	
+	@include mobile-only{
+		padding: 3rem 1rem;
+	}
+	
 	@include desktop {
-        padding: 9.5rem;
+		padding-left: 9.5rem;
+		padding-right: 9.5rem;
     }
+}
+
+.page-intro--outer-container-padding{
+	
+	padding-top: 4rem;
+	
+	@include mobile-only{
+		padding: 3rem 1rem;
+	}
+	
+	@include desktop{
+		padding-top: 8rem;
+		padding-left: 9.5rem;
+		padding-right: 9.5rem;
+	}
 }
