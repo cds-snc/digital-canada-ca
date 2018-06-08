@@ -116,10 +116,10 @@
 
 .homepage--budget {
     @include desktop {
-        padding: 8rem 0rem 8rem 11rem;
+        padding-left: 12rem;
     }
     blockquote {
-        padding: 2.5rem 3.5rem 3rem 3.5rem;
+        padding: 0rem 3.5rem 0rem 3.5rem;
         margin: 0rem;
         border: 0;
         position: relative;
@@ -808,7 +808,6 @@ span.live {
 .work-with-us--apply-now {
     background-color: #333;
     color: $white;
-    padding-top: 2rem;
 	
 	@include desktop{
 		padding-bottom: 9.5rem;
@@ -1103,9 +1102,6 @@ article.post {
 //	this class is only applied to pages with page-wide layout and home layout (they can't have full-page containers, so sections need to be styled individually)
 //currently it's only applied to "Our Team", "What We Do" and "Engagement Report" sections, as intro for Home and Work With Us both needed their own top-padding to match the other pages
 	
-	padding-top: 4rem;
-	padding-bottom: 4rem;
-	
 	@include mobile-only{
 		padding: 3rem 1rem;
 	}
@@ -1117,8 +1113,9 @@ article.post {
 }
 
 .page-intro--outer-container-padding{
-	
+//	used on all pages that don't use the page template (no container), as well as 'Our Team', while the team images remain their current width
 	padding-top: 4rem;
+	padding-bottom: 2rem;
 	
 	@include mobile-only{
 		padding: 3rem 1rem;
@@ -1128,5 +1125,20 @@ article.post {
 		padding-top: 8rem;
 		padding-left: 9.5rem;
 		padding-right: 9.5rem;
+	}
+}
+
+.page-blog--container-padding{
+//	currently blog width is diff than rest - this only affects top and bottom padding of the whole page
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	
+	@include mobile-only{
+		padding-top: 3rem;
+	}
+	
+	@include desktop{
+		padding-top: 8rem;
+		padding-bottom: 8rem;
 	}
 }
