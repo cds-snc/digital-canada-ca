@@ -259,6 +259,23 @@ team:
     linkedin: liamdavidson
     email: Liam.Davidson@tbs-scit.gc.ca
 
+  - name: Lucas Cherkewski
+    title:
+      en: Policy | Advice
+      fr: Politique | Conseil
+    image-name: lucas-cherkewski.jpg
+    twitter: lchski
+    linkedin: lchski
+    github: lchski
+    email: Lucas.Cherkewski@tbs-sct.gc.ca
+
+  - name: Lyn Elliott
+    title:
+      en: Storyteller
+      fr: Conteuse
+    image-name: lyn-elliott.jpg
+    email: Lyn.Elliott@tbs-sct.gc.ca
+
   - name: Lynn Chalati
     title:
       en: Communications
