@@ -104,20 +104,28 @@
 .contact-info {
 	list-style: none;
 	margin: 0;
-	padding: 0;  
-
-@include mobile_only {
-	margin: 0 2rem;
-}
+	padding: 0;
+	
+	@include mobile_only {
+		margin: 0 2rem;
+	}
 	li {margin: 2rem 0 2rem 2rem;
 	}
 
 	i {
 		padding: 1.8rem;
 		border: $primary-color 2px solid;
+		color: $icon-grey;
 		border-radius: 50%;
 		text-align: center;
 		font-size: 2rem;
+		transition: all 0.3s ease-in-out;
+
+		&:hover {
+			background: $secondary-color;
+			color: $primary-color;
+			border: $secondary-color 2px solid;
+		}
 	}
 
 .contact-icon {
@@ -159,18 +167,9 @@
 		position: relative;
 		border-bottom: $medium-grey 2px solid;
 		padding: 2.5rem 0;
-		transition: background 0.75s ease;
-
 		@include tablet {
 			padding: 3.5rem 0;
 		}
-
-		@include desktop {
-			&:hover {
-				background: #EFEFEF;
-			}
-		}
-
 	}
 
 	.photo {
@@ -216,7 +215,8 @@
 	.social-icons a {
 		display: inline-block;
 		padding: 1rem 1.35rem;
-		border: $secondary-color 2px solid;
+		border: $primary-color 2px solid;
+		color: $icon-grey;
 		border-radius: 50%;
 		margin: 0 0.5rem;
 		transition: all 0.3s ease-in-out;
@@ -224,6 +224,7 @@
 		&:hover {
 			background: $secondary-color;
 			color: $primary-color;
+			border: $secondary-color 2px solid;
 		}
 	}
 }
@@ -254,8 +255,8 @@
 
 	.item-text {
 		display: block;
-		padding: 5.5rem 1.5rem 1.5rem 1.5rem;
-
+		padding: 7.5rem 1.5rem 1.5rem 1.5rem;
+		
 		@include tablet {
 			padding: 0 0 0 11rem;
 		}
@@ -271,9 +272,12 @@
 		top: -4rem;
 		left: 50%;
 		transform: translateX(-50%);
-		background: $primary-color;
-		border-radius:50%;
-		padding: 2rem;
+		background: $white;
+		border: $primary-color 4px solid;
+		border-radius:100%;
+//		padding: 2rem;
+		min-width: 10rem;
+		min-height: 10rem;
 
 		@include tablet {
 			left: 0;
@@ -285,12 +289,13 @@
 		}
 
 		@include desktop {
-			padding: 2.5rem;
+//			padding: 2.5rem;
 			top: -3rem;
 		}
 
 		i {
 			font-size: 3.5rem;
+			padding: 2.7rem;
 		}
 	}
 

@@ -27,7 +27,8 @@
 .homepage--what-we-do {
     border-top: $medium-grey 1px solid;
     text-align: center;
-    .icon-text {
+	
+	.icon-text {
         margin-top: 1.5rem;
 
         @include tablet {
@@ -52,17 +53,21 @@
     }
 
     i {
-        border: $primary-color 5px solid;
-        border-radius: 50%;
-        font-size: 5.5rem;
-        margin-bottom: 1rem;
-        margin-top: 2rem;
-        padding: 3rem;
-
-        @include desktop {
-            font-size: 7rem;
-            padding: 3.5rem;
-        }
+	    border: $primary-color 5px solid;
+	    border-radius: 50%;
+	    margin-bottom: 1rem;
+	    margin-top: 2rem;
+	    font-size: 3.5rem;
+	    padding: 3.5rem;
+	    min-width: 10rem;
+	    min-height: 10rem;
+	    
+	    @include desktop{
+		    min-width: 15rem;
+		    min-height: 15rem;
+		    padding: 4.5rem;
+		    font-size: 5rem;
+	    }
     }
 
     .text {
