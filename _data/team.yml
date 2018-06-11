@@ -132,15 +132,6 @@ team:
     github: buckley-w-david
     email: david.buckley@tbs-sct.gc.ca
 
-  - name: Eva Demers-Brett
-    title:
-      en: Developer
-      fr: Développeuse
-    image-name: eva-demers-brett.jpg
-    github: evadb
-    twitter: evadbee
-    email: Eva.Demers-Brett@tbs-sct.gc.ca
-
   - name: Eman El-Fayomi
     title:
       en: Design | User Experience (UX)
@@ -159,6 +150,15 @@ team:
     linkedin: emma-wootton-b15553b1
     email: Emma.Wootton@tbs-sct.gc.ca
 
+  - name: Eva Demers-Brett
+    title:
+      en: Developer
+      fr: Développeuse
+    image-name: eva-demers-brett.jpg
+    github: evadb
+    twitter: evadbee
+    email: Eva.Demers-Brett@tbs-sct.gc.ca
+    
   - name: Hillary Lorimer
     title:
       en: Design | Insights
@@ -167,13 +167,6 @@ team:
     twitter: hillarylorimer
     linkedin: hillary-b-lorimer
     email: Hillary.Lorimer@tbs-sct.gc.ca
-
-  - name: Jessica Loadenthal
-    title:
-      en: Operations | Staffing
-      fr: Opérations | Dotation
-    image-name: jessica-loadenthal.jpg
-    email: Jessica.Loadenthal@tbs-sct.gc.ca
 
   - name: James Mickle
     title:
@@ -196,6 +189,13 @@ team:
       fr: Opérations | Dotation
     image-name: jennifer-morin.jpg
     email: Jennifer.Morin@tbs-sct.gc.ca
+    
+  - name: Jessica Loadenthal
+    title:
+      en: Operations | Staffing
+      fr: Opérations | Dotation
+    image-name: jessica-loadenthal.jpg
+    email: Jessica.Loadenthal@tbs-sct.gc.ca
 
   - name: John Millons
     title:
@@ -204,15 +204,6 @@ team:
     image-name: john-millons.jpg
     twitter: JohnMillons
     email: John.Millons@tbs-sct.gc.ca
-
-  - name: John O'Brien
-    title:
-      en: Security Lead
-      fr: Responsable des questions de sécurité
-    image-name: john-obrien.jpg
-    twitter: boardom_ca
-    linkedin: boardom
-    email: john.o’brien@tbs-sct.gc.ca
 
   - name: Kelsey Harris
     title:
@@ -414,15 +405,6 @@ team:
     image-name: shelley-bagg.jpg
     email: Shelley.Bagg@tbs-sct.gc.ca
 
-  - name: Stephen McMurtry
-    title:
-      en: Developer | Data
-      fr: Développeur | Données
-    image-name: stephen-mcmurtry.jpg
-    twitter: StephenMcMurtry
-    linkedin: stephen-mcmurtry-1b4a8879
-    email: Stephen.McMurtry@tbs-sct.gc.ca
-
   - name: Steve Astels
     title:
       en: Developer | Data
@@ -432,6 +414,15 @@ team:
     twitter: sastels
     linkedin: sastels
     github: sastels
+
+  - name: Stephen McMurtry
+    title:
+      en: Developer | Data
+      fr: Développeur | Données
+    image-name: stephen-mcmurtry.jpg
+    twitter: StephenMcMurtry
+    linkedin: stephen-mcmurtry-1b4a8879
+    email: Stephen.McMurtry@tbs-sct.gc.ca
 
   - name: Stevie-Ray Talbot
     title:
