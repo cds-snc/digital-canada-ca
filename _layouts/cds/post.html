@@ -7,7 +7,7 @@ layout: cds/base
     {% include cds/site-menu.html %}
 
     {% if page.image-alt %}
-        <div class="page-banner" role="img" aria-label="{{ page.image-alt }}" style="background-image: url('/assets/img/cds/post-images/{{ page.image }}')"></div>
+		   	<div class="page-banner" role="img" aria-label="{{ page.image-alt }}" style="background-image: url('/assets/img/cds/post-images/{{ page.image }}')"></div>
     {% else %}
         <div class="page-banner" style="background-image: url('/assets/img/cds/post-images/{{ page.image }}')"></div>
     {% endif %}
@@ -17,6 +17,10 @@ layout: cds/base
 	    <section class="container-fluid page--outer-container-padding">
 		    <div class="row">
 			    <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 col-xs-12">
+				    {% if page.image-translation %}
+				    <div class="header-translation"><strong>Traduction&nbsp;:&nbsp;</strong>{{ page.image-translation }}</div>
+				    {% endif %}
+				    
 				    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 					    <div class="post-header">
 						    <span class="blogpost-pretitle">
