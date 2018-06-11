@@ -1,7 +1,7 @@
 ---
 title: "Reducing risk through continuous deployment"
 description: "It’s not just possible; it’s standard practice in industry. The tooling is available to everyone today, and it’s cheap."
-author: Jason White, Head of data science
+author: Jason White, Head of Data Science
 date: 2018-05-16 09:00:00 -0400
 image: blog-continuous-deployment.jpg
 image-alt: A man works at his desk working on code.
