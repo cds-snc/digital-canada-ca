@@ -26,7 +26,11 @@
 
 .homepage--what-we-do {
     border-top: $medium-grey 1px solid;
-    text-align: center;
+	text-align: center;
+	
+	.left-aligned{
+		text-align: left;
+	}
 	
 	.icon-text {
         margin-top: 1.5rem;
