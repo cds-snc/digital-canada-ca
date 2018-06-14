@@ -7,7 +7,7 @@
 	left: 0.5rem;
 	bottom: 1rem;
 	text-decoration: none !important;
-	z-index: 9999;
+	z-index: 1;
 
 	@include desktop {
 		bottom: 1.5rem;
