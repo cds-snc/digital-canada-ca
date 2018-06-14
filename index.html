@@ -122,20 +122,24 @@ trans_url: '/'
 	</section>
 </div>
 
-<section class="section homepage--engagement-report page-wide--outer-container-padding">
+<section class="section homepage--engagement-report">
     <div class="page-banner--scrim"></div>
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-sm-4 title">
-				<div class="pretitle">Engagement Report</div>
-				<h2>Beginning the Conversation</h2>
-				<div class="postitle">A Made-in-Canada Approach to Digital government</div>
-			</div>
-			<div class="col-md-7 col-xs-12 col-sm-8 text">
-				<p>Over the past year, we met with people from coast to coast to coast, including from start-ups, civic
-                    tech organizations, academia, and municipal and provincial governments. We welcome your feedback as
-                    we continue our digital journey here in Canada. </p>
-				<a href="/beginning-the-conversation" class="button">Read the Engagement Report</a>
+			<div class="col-sm-10 col-sm-offset-1 col-xs-12">
+				<div class="row">
+					<div class="col-xs-12 col-sm-5 title">
+						<div class="pretitle">Engagement Report</div>
+						<h2>Beginning the Conversation</h2>
+						<div class="postitle">A Made-in-Canada Approach to Digital Government</div>
+					</div>
+					<div class="col-md-6 col-xs-12 col-sm-7 text">
+						<p>Over the past year, we met with people from coast to coast to coast, including from start-ups, civic
+						tech organizations, academia, and municipal and provincial governments. We welcome your feedback as
+						we continue our digital journey here in Canada. </p>
+						<a href="/beginning-the-conversation" class="button">Read the Engagement Report</a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -168,20 +172,21 @@ trans_url: '/'
         </div>
     </div>
 </section>
+   
 
-<section class="section section--contact">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12 col-sm-6 hidden-xs">
-                <div class="hiGraphic"></div>
-            </div>
-            <div class="col-xs-12 col-sm-6">
-                <h2>Connect with us!</h2>
-                {% include cds/contact-info.html %}
-            </div>
-        </div>
-    </div>
-</section>
+<section class="section section--contact page-wide--outer-container-padding">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-6 hidden-xs">
+				<div class="hiGraphic"></div>
+			</div>
+			<div class="col-xs-12 col-sm-6">
+				<h2>Connect with us!</h2>
+				{% include cds/contact-info.html %}
+			</div>
+		 </div>
+	</div>
+</section>	   
 
 <section class="section section--mailing-list">
     {% include cds/{{ page.lang }}/mailing-list.html %}

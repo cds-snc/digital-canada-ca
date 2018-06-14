@@ -207,12 +207,13 @@
             padding-right: 3rem;
             padding-top: 1.5rem;
             padding-bottom: 1.5rem;
-            text-align: right;
+//            text-align: right;
         }
 
         @include desktop {
             padding-top: 2rem;
             padding-bottom: 5rem;
+		   padding-left: 10rem;
         }
     }
 
@@ -224,7 +225,7 @@
 
         @include desktop {
             padding-top: 3rem;
-		  padding-right: 3rem;
+//		  padding-right: 3rem;
         }
     }
 
@@ -259,7 +260,7 @@
         }
 
         @include desktop {
-            margin-left: 5rem;
+            padding-right: 2rem;
         }
     }
 }
