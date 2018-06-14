@@ -326,6 +326,37 @@
       display: none;
     }
   }
+	
+	.mobile-lang {
+	    	display    : block;
+	    	text-align : right;
+	    	color      : $white;
+		position: fixed;
+		top: 2.3rem;
+		left: 2rem;
+		
+		@include tablet{
+			display: none;
+		}
+
+    a {
+      display: inline-block;
+      color           : $white;
+      display: inline-block;
+      font-size       : 1.25rem;
+      font-weight: 400;
+      margin-top: 0.75rem;
+      text-align      : center;
+      text-decoration: none;
+      padding-bottom: 1rem;
+      border-bottom: #000 1px solid;
+      transition: all 0.3s ease-in-out;
+
+      &:hover {
+        border-bottom: #CCC 1px solid;
+      }
+    }
+  }
 }
 
 ////////////////////////////////////////////////////////////
@@ -367,18 +398,23 @@
 }
 
 .main-nav-button--text {
-  display: inline-block;
-  font-size: 1rem;
-  text-transform: uppercase;
-  margin-right: 0.5rem;
+	display: inline-block;
+	font-size: 1rem;
+	text-transform: uppercase;
+	margin-right: 0.5rem;
+	
+	.home & {
+    color: $white;
+  }
 }
 
 .main-nav-button--button {
-  display: inline-block;
-  text-align: center;
-  border: 1px solid;
-  border-radius: 50%;
-  padding: 1.25rem;
+	display: inline-block;
+	text-align: center;
+	border: 1px solid;
+	border-radius: 50%;
+	padding: 1.25rem;
+	margin-right: 15px;
 }
 
 ////////////////////////////////////////////////////////////
