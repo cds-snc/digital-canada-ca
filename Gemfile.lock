@@ -41,6 +41,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.9.3)
       jekyll (~> 3.3)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-watch (1.5.1)
@@ -86,6 +87,7 @@ DEPENDENCIES
   html-proofer
   jekyll (= 3.4.3)
   jekyll-feed (~> 0.6)
+  jekyll-paginate
   tzinfo-data
 
 RUBY VERSION
