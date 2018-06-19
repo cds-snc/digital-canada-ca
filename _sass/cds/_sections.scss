@@ -238,6 +238,16 @@
         }
     }
 
+    .read-the-report {
+        color: #fc3 !important;
+        border-bottom: #fc3 1px dotted;
+        transition: all 0.3s ease-in-out;
+
+        &:hover {
+          border-bottom: $primary-color 1px solid;
+        }
+    }
+    
     h2 {
         font-size: 3.25rem;
         font-weight: 100;
