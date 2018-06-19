@@ -756,6 +756,11 @@ span.live {
     .dark-background {
         background: #034;
         border-radius: 20px;
+	    
+	    @include mobile-only{
+		   	padding-top: 1rem;
+	    		padding-bottom: 2rem; 
+	    }
     }
 
     .border-top {
