@@ -388,6 +388,9 @@
     h3 {
         color: #000000;
     }
+	
+	padding-bottom: 6rem;
+
 }
 
 span.discovery {
@@ -408,7 +411,9 @@ span.live {
 
 .work-in-progress--product-module {
 
-    h2 {
+    h3 {
+	    font-weight: 500; 
+	    
         @include mobile_only {
             font-size: 24pt;
         }
@@ -425,7 +430,7 @@ span.live {
         margin-top: 50px;
     }
 
-    h2.alpha::after {
+    h3.alpha::after {
         content: "Alpha";
 
         position: relative;
@@ -458,7 +463,7 @@ span.live {
         }
     }
 
-    h2.discovery::after {
+    h3.discovery::after {
         content: "Discovery";
 
         position: relative;
@@ -491,7 +496,7 @@ span.live {
         }
     }
 
-    h2.decouverte::after {
+    h3.decouverte::after {
         content: "Découverte";
 
         position: relative;
@@ -524,7 +529,7 @@ span.live {
         }
     }
 
-    h2.beta::after {
+    h3.beta::after {
         content: "Beta";
 
         position: relative;
@@ -590,7 +595,7 @@ span.live {
         }
     }
 
-    h3 {
+    h4 {
         font-weight: 500;
 
         @include mobile_only {
@@ -705,7 +710,11 @@ span.live {
 }
 
 .work-in-progress--partners-long {
-    width: 45%;
+	padding-bottom: 20px;
+	
+	@include tablet{
+		width: 45%;
+	}
 }
 
 .statusButton {
