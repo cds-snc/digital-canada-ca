@@ -74,12 +74,10 @@
         font-size: 2.5rem;
         margin-top: 1rem;
     }
-	
 	.what-caption{
 		@include mobile-only{
 			margin-top: 4rem;
 		}
-	}
 }
 
 .homepage--intro-cds {
@@ -114,6 +112,7 @@
     .homepage--our-team--buttons {
         text-align: center;
     }
+	
     a:not([class]) {
         color: $primary-color !important;
         border-bottom: $primary-color 1px dotted;
@@ -123,7 +122,16 @@
             border-bottom: $primary-color 1px solid;
         }
     }
+	
+	.fr-team-link{
+		text-align: left;
+		
+		@include desktop{
+			text-align: right;
+		}
+	}
 }
+
 
 .homepage--budget {
     @include desktop {
@@ -244,6 +252,16 @@
         }
     }
 
+    .read-the-report {
+        color: #fc3 !important;
+        border-bottom: #fc3 1px dotted;
+        transition: all 0.3s ease-in-out;
+
+        &:hover {
+          border-bottom: $primary-color 1px solid;
+        }
+    }
+    
     h2 {
         font-size: 3.25rem;
         font-weight: 100;
@@ -370,6 +388,9 @@
     h3 {
         color: #000000;
     }
+	
+	padding-bottom: 6rem;
+
 }
 
 span.discovery {
@@ -390,7 +411,9 @@ span.live {
 
 .work-in-progress--product-module {
 
-    h2 {
+    h3 {
+	    font-weight: 500; 
+	    
         @include mobile_only {
             font-size: 24pt;
         }
@@ -407,7 +430,7 @@ span.live {
         margin-top: 50px;
     }
 
-    h2.alpha::after {
+    h3.alpha::after {
         content: "Alpha";
 
         position: relative;
@@ -440,7 +463,7 @@ span.live {
         }
     }
 
-    h2.discovery::after {
+    h3.discovery::after {
         content: "Discovery";
 
         position: relative;
@@ -473,7 +496,7 @@ span.live {
         }
     }
 
-    h2.decouverte::after {
+    h3.decouverte::after {
         content: "Découverte";
 
         position: relative;
@@ -506,7 +529,7 @@ span.live {
         }
     }
 
-    h2.beta::after {
+    h3.beta::after {
         content: "Beta";
 
         position: relative;
@@ -572,7 +595,7 @@ span.live {
         }
     }
 
-    h3 {
+    h4 {
         font-weight: 500;
 
         @include mobile_only {
@@ -687,7 +710,11 @@ span.live {
 }
 
 .work-in-progress--partners-long {
-    width: 45%;
+	padding-bottom: 20px;
+	
+	@include tablet{
+		width: 45%;
+	}
 }
 
 .statusButton {
