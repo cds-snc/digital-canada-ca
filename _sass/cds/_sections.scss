@@ -330,6 +330,7 @@
                 color: $dark-grey;
                 font-size: 1rem;
                 font-weight: 500;
+			  margin-top: 1rem;
             }
 
             h3 {
@@ -1045,16 +1046,23 @@ article.post {
     }
 }
 
+.mc-field-group{
+	max-width: 45rem;
+	width: 90%;
+	margin: auto;
+}
+
 #mc_embed_signup {
     .email {
-        margin: 0 auto;
-        width: 90%;
-        max-width: 45rem;
+//        margin: 0 auto;
+//        width: 90%;
+//        max-width: 45rem;
         border-radius: 0;
         border: $primary-color 2px solid; // padding: 2rem 1rem;
         height: 42px;
         font-weight: 100;
         font-size: 2rem;
+	    width: 100%;
 
         &::placeholder {
             font-weight: 100;
@@ -1069,12 +1077,17 @@ article.post {
     }
 
     label[for="mce-EMAIL"] {
-        display: block !important;
-        width: 100%;
-    }
-
-    .label-text {
-        display: none;
+         display: block !important;
+//	    margin: auto;
+//	    padding-left: 0.2rem;
+	    padding-bottom: 0.5rem;
+	    font-size: 2rem;
+		color: $dark-grey;
+	    font-weight: 100;
+	    
+	    @include mobile-only{
+		    font-size: 1.75rem;
+	    }
     }
 
     .submit-button-container {
