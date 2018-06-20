@@ -112,6 +112,7 @@
     .homepage--our-team--buttons {
         text-align: center;
     }
+	
     a:not([class]) {
         color: $primary-color !important;
         border-bottom: $primary-color 1px dotted;
@@ -121,7 +122,16 @@
             border-bottom: $primary-color 1px solid;
         }
     }
+	
+	.fr-team-link{
+		text-align: left;
+		
+		@include desktop{
+			text-align: right;
+		}
+	}
 }
+
 
 .homepage--budget {
     @include desktop {
