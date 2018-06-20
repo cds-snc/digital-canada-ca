@@ -74,6 +74,10 @@
         font-size: 2.5rem;
         margin-top: 1rem;
     }
+	
+	.bottom-mar{
+		margin-bottom: 5rem;
+	}
 }
 
 .homepage--intro-cds {
@@ -108,6 +112,7 @@
     .homepage--our-team--buttons {
         text-align: center;
     }
+	
     a:not([class]) {
         color: $primary-color !important;
         border-bottom: $primary-color 1px dotted;
@@ -117,7 +122,16 @@
             border-bottom: $primary-color 1px solid;
         }
     }
+	
+	.fr-team-link{
+		text-align: left;
+		
+		@include desktop{
+			text-align: right;
+		}
+	}
 }
+
 
 .homepage--budget {
     @include desktop {
@@ -238,6 +252,16 @@
         }
     }
 
+    .read-the-report {
+        color: #fc3 !important;
+        border-bottom: #fc3 1px dotted;
+        transition: all 0.3s ease-in-out;
+
+        &:hover {
+          border-bottom: $primary-color 1px solid;
+        }
+    }
+    
     h2 {
         font-size: 3.25rem;
         font-weight: 100;
