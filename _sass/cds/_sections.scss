@@ -686,7 +686,11 @@ span.live {
 }
 
 .work-in-progress--partners-long {
-    width: 45%;
+	padding-bottom: 20px;
+	
+	@include tablet{
+		width: 45%;
+	}
 }
 
 .statusButton {
