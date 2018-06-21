@@ -74,9 +74,10 @@
         font-size: 2.5rem;
         margin-top: 1rem;
     }
-	
-	.bottom-mar{
-		margin-bottom: 5rem;
+	.what-caption{
+		@include mobile-only{
+			margin-top: 4rem;
+		}
 	}
 }
 
@@ -330,6 +331,7 @@
                 color: $dark-grey;
                 font-size: 1rem;
                 font-weight: 500;
+			  margin-top: 1rem;
             }
 
             h3 {
@@ -766,10 +768,6 @@ span.live {
         }
     }
 
-    .padding {
-        padding: 2rem;
-    }
-
     li {
         list-style: square;
         color: #f0ca4d;
@@ -793,6 +791,11 @@ span.live {
     .dark-background {
         background: #034;
         border-radius: 20px;
+	    
+	    @include mobile-only{
+		   	padding-top: 1rem;
+	    		padding-bottom: 2rem; 
+	    }
     }
 
     .border-top {
@@ -927,20 +930,19 @@ span.live {
     }
 
     .date {
-        border-left: $primary-color 5px solid;
-        padding-left: 1rem;
         font-size: 1.5rem;
-        margin: 0.5rem 0 1rem 0;
+        margin: 0rem 0 1rem 0;
 
         @include tablet {
             font-size: 1.75rem;
-            font-weight: 500;
+            font-weight: 300;
         }
     }
 
     .author {
-        margin: 2rem 0;
+        margin: 2rem 0 0 0;
         font-weight: 500;
+	   font-size: 2.25rem;
     }
 
     .photo {
@@ -1046,16 +1048,23 @@ article.post {
     }
 }
 
+.mc-field-group{
+	max-width: 45rem;
+	width: 90%;
+	margin: auto;
+}
+
 #mc_embed_signup {
     .email {
-        margin: 0 auto;
-        width: 90%;
-        max-width: 45rem;
+//        margin: 0 auto;
+//        width: 90%;
+//        max-width: 45rem;
         border-radius: 0;
         border: $primary-color 2px solid; // padding: 2rem 1rem;
         height: 42px;
         font-weight: 100;
         font-size: 2rem;
+	    width: 100%;
 
         &::placeholder {
             font-weight: 100;
@@ -1070,12 +1079,17 @@ article.post {
     }
 
     label[for="mce-EMAIL"] {
-        display: block !important;
-        width: 100%;
-    }
-
-    .label-text {
-        display: none;
+         display: block !important;
+//	    margin: auto;
+//	    padding-left: 0.2rem;
+	    padding-bottom: 0.5rem;
+	    font-size: 2rem;
+		color: $dark-grey;
+	    font-weight: 100;
+	    
+	    @include mobile-only{
+		    font-size: 1.75rem;
+	    }
     }
 
     .submit-button-container {

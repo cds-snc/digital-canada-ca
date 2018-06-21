@@ -40,7 +40,7 @@ permalink: '/'
 					
 					<div class="col-xs-12 col-sm-4 icon-text">
 						<div class="cds-icon"><i class="fa fa-comments-o" aria-hidden="true"></i></div>
-						<div class="text">donner des conseils</div>
+						<div class="text what-caption">donner des conseils</div>
 					</div>
 				</div>
 				
@@ -183,7 +183,8 @@ permalink: '/'
                 <a class="post" href="{{ post.url | relative_url }}">
                     <div class="image" style="background-image:url('/assets/img/cds/post-images/{{ post.image }}')"></div>
                     <div class="text">
-                        <div class="date">
+                        <h3>{{ post.title }}</h3>
+					<div class="date">
                             {% assign m = post.date | date: "%-m" %}
                             {{ post.date | date: "%-d" }}
                             {% case m %}
@@ -202,7 +203,6 @@ permalink: '/'
                             {% endcase %}
                             {{ post.date | date: "%Y" }}
                         </div>
-                        <h3>{{ post.title }}</h3>
                     </div>
                 </a>
             </div>
