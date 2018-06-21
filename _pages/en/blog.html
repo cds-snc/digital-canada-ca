@@ -14,7 +14,6 @@ trans_url: '/blogue'
 	    {% for post in posts %}
 
 		    <li class="post">
-		    	<div class="date">{{ post.date | date: '%B %-d, %Y' }}</div>
 		    	<div class="row">
 		    		<div class="col-xs-12 col-sm-4">
 						{% if post.image-alt %}
@@ -27,6 +26,7 @@ trans_url: '/blogue'
 				    	<div class="text">
 				        	<div class="title"><a href="{{ post.url }}"><h2>{{ post.title }}</h2></a></div>
 				        	<div class="author">By: {{ post.author }}</div>
+						<div class="date">{{ post.date | date: '%B %-d, %Y' }}</div>
 				        	<div class="summary">{{ post.excerpt | strip_html | truncatewords:75 }}</div>
 				        	<div class="readmore"><a href="{{ post.url }}" aria-label="Continue reading {{ post.title }}">Read More</a></div>
 				        </div>

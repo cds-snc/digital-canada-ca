@@ -13,25 +13,6 @@ trans_url: '/blog'
 	<ul class="blogpost-list">
 	    {% for post in posts %}
 			<li class="post">
-		    	<div class="date">
-					{% assign m = post.date | date: "%-m" %}
-					{{ post.date | date: "%-d" }}
-					{% case m %}
-						{% when '1' %}janvier
-						{% when '2' %}février
-						{% when '3' %}mars
-						{% when '4' %}avril
-						{% when '5' %}mai
-						{% when '6' %}juin
-						{% when '7' %}juillet
-						{% when '8' %}août
-						{% when '9' %}septembre
-						{% when '10' %}octobre
-						{% when '11' %}novembre
-						{% when '12' %}décembre
-					{% endcase %}
-					{{ post.date | date: "%Y" }}
-				</div>
 		    	<div class="row">
 		    		<div class="col-xs-12 col-sm-4">
 						{% if post.image-alt %}
@@ -44,6 +25,25 @@ trans_url: '/blog'
 				    	<div class="text">
 				        	<div class="title"><a href="{{ post.url }}"><h2>{{ post.title }}</h2></a></div>
 				        	<div class="author">{{ post.author }}</div>
+						<div class="date">
+							{% assign m = post.date | date: "%-m" %}
+							{{ post.date | date: "%-d" }}
+							{% case m %}
+								{% when '1' %}janvier
+								{% when '2' %}février
+								{% when '3' %}mars
+								{% when '4' %}avril
+								{% when '5' %}mai
+								{% when '6' %}juin
+								{% when '7' %}juillet
+								{% when '8' %}août
+								{% when '9' %}septembre
+								{% when '10' %}octobre
+								{% when '11' %}novembre
+								{% when '12' %}décembre
+							{% endcase %}
+							{{ post.date | date: "%Y" }}
+						</div>
 				        	<div class="summary">{{post.excerpt | strip_html | truncatewords:75}}</div>
 				        	<div class="readmore"><a href="{{ post.url }}" aria-label="Lire la suite de {{ post.title }}">Lire davantage</a></div>
 				        </div>
