@@ -97,7 +97,7 @@ trans_url: '/'
 					data specialists, and communicators who make up CDS.</p>
                   
 				<div class="row">
-					<div class="col-xs-6 text-right">
+					<div class="col-xs-6 fr-team-link">
 					    <a href="/our-team">Meet our team</a>
 					</div>
 					<div class="col-xs-6 text-left">
@@ -162,8 +162,8 @@ trans_url: '/'
                 <a class="post" href="{{ post.url | relative_url }}">
                     <div class="image" style="background-image:url('/assets/img/cds/post-images/{{ post.image }}')"></div>
                     <div class="text">
-                        <div class="date">{{ post.date | date: '%B %-d, %Y' }}</div>
                         <h3>{{ post.title }}</h3>
+					<div class="date">{{ post.date | date: '%B %-d, %Y' }}</div>
                     </div>
                 </a>
             </div>
