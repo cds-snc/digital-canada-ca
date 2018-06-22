@@ -41,11 +41,8 @@ trans_url: '/'
 							<div class="text">provide advice</div>
 						</div>
 					</div>
-					
 					<p class="text-left bottom-mar">We are agile and iterate based on user feedback. We learn by doing.</p>
 					<a href="/what-we-do" class="how-we-work-button">Learn more about how we work</a>
-				
-                    
 				</div>
 			</div>
 	</section>
@@ -165,8 +162,8 @@ trans_url: '/'
                 <a class="post" href="{{ post.url | relative_url }}">
                     <div class="image" style="background-image:url('/assets/img/cds/post-images/{{ post.image }}')"></div>
                     <div class="text">
-                        <div class="date">{{ post.date | date: '%B %-d, %Y' }}</div>
                         <h3>{{ post.title }}</h3>
+					<div class="date">{{ post.date | date: '%B %-d, %Y' }}</div>
                     </div>
                 </a>
             </div>
