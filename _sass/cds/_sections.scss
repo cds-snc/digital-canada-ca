@@ -748,6 +748,42 @@ span.live {
     border-top: $medium-grey 1px solid;
 	padding-bottom: 4rem;
 //	this needs standardizing ^
+	
+	.cell-background {
+        background: $wwu-blue;
+        border-radius: 20px;
+		padding: 1rem 2rem 1rem 3rem;
+		color: $white;
+	    
+	    @include mobile-only{
+		   	padding-top: 1rem;
+	    		padding-bottom: 2rem; 
+	    }
+		a{
+			color: $white;
+			border-bottom: #fc3 1px dotted;
+			
+			@include mobile-only{
+				font-size: 1.75rem;
+			}
+		}
+		li{
+			color: $primary-color;
+			@include mobile-only{
+				margin-bottom: 1rem;
+			}
+		}
+
+		h4{
+			@include mobile-only{
+				font-size: 1.75rem;
+			}
+			
+			font-size: 2.25rem; 
+			font-weight: 500; 
+			margin-bottom: 2rem;
+		}
+    }
 }
 
 .work-with-us--looking-for {
@@ -755,8 +791,7 @@ span.live {
     color: $white;
 
     .section-smallcaps-title {
-        text-transform: uppercase;
-        font-weight: bold;
+        font-weight: 500;
         font-size: 1.75rem;
 
         @include tablet {
@@ -769,7 +804,6 @@ span.live {
     }
 
     li {
-        list-style: square;
         color: #f0ca4d;
         margin: 0 0 11.5px;
 
@@ -791,6 +825,9 @@ span.live {
     .dark-background {
         background: #034;
         border-radius: 20px;
+	    padding-left: 3rem;
+	    padding-right: 4rem;
+	    padding-top: 1rem;
 	    
 	    @include mobile-only{
 		   	padding-top: 1rem;
