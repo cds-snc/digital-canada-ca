@@ -763,6 +763,10 @@ span.live {
 			color: $white;
 			border-bottom: #fc3 1px dotted;
 			
+			 &:hover {
+            		border-bottom: $primary-color 1px solid;
+        		}
+			
 			@include mobile-only{
 				font-size: 1.75rem;
 			}
