@@ -83,15 +83,15 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  font-awesome-sass
-  html-proofer
+  font-awesome-sass (>= 5.0.9)
+  html-proofer (>= 3.8.0)
   jekyll (= 3.4.3)
-  jekyll-feed (~> 0.6)
+  jekyll-feed (~> 0.9, >= 0.9.3)
   jekyll-paginate
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.5.1p57
+   ruby 2.5.0p0
 
 BUNDLED WITH
    1.16.1
