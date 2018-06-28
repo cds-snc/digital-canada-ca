@@ -17,7 +17,8 @@
 				<div class="mobile-lang">{% include cds/lang-switch.html %}</div>
                     <ul class="top-nav">
                         {% for menu in site.data.menu[page.lang] %}
-                        <li class="top-nav--link {% if menu[1].url == page.url %} active {% endif %}">
+                         {% assign active_state_comparison_url = menu[1].url | append: "/" %}
+					                  <li class="top-nav--link{% if active_state_comparison_url == page.url %} active{% endif %}">
                             <a href="{{ menu[1].url }}">{{ menu[1].name }}</a>
                         </li>
                         {% endfor %}
