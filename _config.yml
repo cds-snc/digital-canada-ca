@@ -33,8 +33,8 @@ sass:
 
 # theme: minima
 gems:
-  - jekyll-feed
-  - jekyll-paginate
+  - jekyll-fseed
+  - jekyll-paginate-v2
 
 exclude: ["Gemfile", "Gemfile.lock", "vendor", "docker-compose.yml", "README.md", "LICENSE.txt", "CONTRIBUTING.md", "_pages/fr", "_posts/fr", "index-fr.html", "serve", "serve-fr", "check", "create-blog"]
 
@@ -48,4 +48,7 @@ defaults:
 
 #paginate_path: "/pages/en/blog.html:5/"
 
-paginate: 5
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/pages/:num/'

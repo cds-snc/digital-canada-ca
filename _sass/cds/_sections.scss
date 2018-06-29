@@ -984,6 +984,27 @@ span.live {
             //border-radius: 1rem;
         }
     }
+
+    & li.pagination {
+        position: relative;
+        padding: 0 0.5em;
+    }
+
+    & li.active a::after {
+		background: $primary-color;
+		border: $primary-color 1px solid;
+        width: 100%;
+        display: block;
+        content: "";
+        height: 4px;
+        position: absolute;
+        left: 0%;
+    }
+    
+    & .blogpost-paginator {
+        text-align: center;
+        padding: 0;
+    }
 }
 
 article.post {
