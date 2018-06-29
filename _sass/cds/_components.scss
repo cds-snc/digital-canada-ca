@@ -84,17 +84,6 @@
 
 }
 
-.video-container {
-
-	@include desktop {
-		padding: 0 10rem;
-	}
-}
-
-
-
-
-
 .our-team--listing {
 	border-top: $medium-grey 5px solid;
 	max-width: 100% !important;
