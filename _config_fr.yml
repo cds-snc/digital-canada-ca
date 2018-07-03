@@ -54,6 +54,7 @@ pagination:
   permalink: '/pages/:num/'
   sort_field: 'date'
   sort_reverse: true
+  title: ':title'
   trail:
     before: 2
     after: 2
