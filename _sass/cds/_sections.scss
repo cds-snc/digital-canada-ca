@@ -403,7 +403,7 @@ span.alpha {
 }
 
 span.beta {
-    color: #ff5a02;
+    color: #22a7f0;
 }
 
 span.live {
@@ -536,7 +536,7 @@ span.live {
         position: relative;
         bottom: 10px;
         color: #ffffff;
-        background-color: #ff5a02;
+        background-color: #22a7f0;
         margin-left: 20px;
 
         @include mobile_only {
@@ -569,7 +569,7 @@ span.live {
         position: relative;
         bottom: 10px;
         color: #ffffff;
-        background-color: #ff5a02;
+        background-color: #22a7f0;
         margin-left: 20px;
 
         @include mobile_only {
@@ -760,7 +760,7 @@ span.live {
 	    }
 		a{
 			color: $white;
-			border-bottom: #fc3 1px dotted;
+			border-bottom: $primary-color 1px dotted;
 			
 			 &:hover {
             		border-bottom: $primary-color 1px solid;
