@@ -27,15 +27,6 @@ exec:
     linkedin: cgovias
     email: Christopher.Govias@tbs-sct.gc.ca
 
-  - name: Lena Trudeau
-    title:
-      en: Senior Advisor
-      fr: Conseillère principale
-    image-name: lena-trudeau.jpg
-    twitter: ltrudeau
-    linkedin: ltrudeau
-    email: Lena.Trudeau@tbs-sct.gc.ca
-
   - name: Pascale Elvas
     title:
       en: Senior Director
@@ -397,13 +388,6 @@ team:
     twitter: sboots
     linkedin: seanboots
     github: sboots
-
-  - name: Shelley Bagg
-    title:
-      en: Operations | Administration
-      fr: Opérations | Administration
-    image-name: shelley-bagg.jpg
-    email: Shelley.Bagg@tbs-sct.gc.ca
 
   - name: Steve Astels
     title:
