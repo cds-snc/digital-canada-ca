@@ -26,15 +26,24 @@ exec:
     twitter: cgovias
     linkedin: cgovias
     email: Christopher.Govias@tbs-sct.gc.ca
-
-  - name: Lena Trudeau
+    
+  - name: John Millons
     title:
-      en: Senior Advisor
-      fr: Conseillère principale
-    image-name: lena-trudeau.jpg
-    twitter: ltrudeau
-    linkedin: ltrudeau
-    email: Lena.Trudeau@tbs-sct.gc.ca
+      en: Policy | Engagement
+      fr: Politiques | Mobilisation
+    image-name: john-millons.jpg
+    twitter: JohnMillons
+    email: John.Millons@tbs-sct.gc.ca
+    
+  - name: Mario Garneau
+    title:
+      en: Tech | Delivery
+      fr: Technologies | Prestation
+    image-name: mario-garneau.jpg
+    twitter: mcman12
+    linkedin: mario-garneau-76895412a
+    email: Mario.Garneau@tbs-sct.gc.ca
+    github: mcman12
 
   - name: Pascale Elvas
     title:
@@ -44,6 +53,15 @@ exec:
     twitter: PascaleElvas
     linkedin: pascaleelvas
     email: Pascale.Elvas@tbs-sct.gc.ca
+    
+  - name: Ross Ferguson
+    title:
+      en: Product Lead
+      fr: Chef de produit
+    image-name: ross-ferguson.jpg
+    twitter: rossferg
+    linkedin: rossferguson
+    email: Ross.Ferguson@tbs-sct.gc.ca
 
   - name: Wendy Luciani
     title:
@@ -73,6 +91,14 @@ team:
     linkedin: annieleblond
     email: Annie.Leblond@tbs-sct.gc.ca
 
+  - name: Bethany Dunfield
+    title:
+      en: Developer
+      fr: Développeur
+    image-name: bethany-dunfield.jpg
+    github: brdunfield
+    email: Bethany.Dunfield@tbs-sct.gc.ca
+
   - name: Brianne Matheson
     title:
       en: Partnerships Assistant
@@ -96,6 +122,13 @@ team:
     image-name: courtney-claessens.jpg
     linkedin: courtneyclaessens
     email: Courtney.Claessens@tbs-sct.gc.ca
+
+  - name: Damien Trudel
+    title:
+      en: Security Lead
+      fr: Responsable des questions de sécurité
+    image-name: damien-trudel.jpg
+    email: Damien.Trudel@tbs-sct.gc.ca
 
   - name: Daniel Tse
     title:
@@ -197,14 +230,6 @@ team:
     image-name: jessica-loadenthal.jpg
     email: Jessica.Loadenthal@tbs-sct.gc.ca
 
-  - name: John Millons
-    title:
-      en: Policy | Engagement
-      fr: Politiques | Mobilisation
-    image-name: john-millons.jpg
-    twitter: JohnMillons
-    email: John.Millons@tbs-sct.gc.ca
-
   - name: Kelsey Harris
     title:
       en: Events | Capacity Building
@@ -275,16 +300,6 @@ team:
     twitter: LynnChalati
     linkedin: lynn-chalati-aaa9218a
     email: Lynn.Chalati@tbs-sct.gc.ca
-
-  - name: Mario Garneau
-    title:
-      en: Tech | Delivery
-      fr: Technologies | Prestation
-    image-name: mario-garneau.jpg
-    twitter: mcman12
-    linkedin: mario-garneau-76895412a
-    email: Mario.Garneau@tbs-sct.gc.ca
-    github: mcman12
 
   - name: Max Neuvians
     title:
@@ -362,15 +377,6 @@ team:
     twitter: eneraluca
     linkedin: eneraluca
 
-  - name: Ross Ferguson
-    title:
-      en: Product Lead
-      fr: Chef de produit
-    image-name: ross-ferguson.jpg
-    twitter: rossferg
-    linkedin: rossferguson
-    email: Ross.Ferguson@tbs-sct.gc.ca
-
   - name: Samantha Sadasivan
     title:
       en: Design | Service Design
@@ -398,12 +404,14 @@ team:
     linkedin: seanboots
     github: sboots
 
-  - name: Shelley Bagg
+  - name: Stephen McMurtry
     title:
-      en: Operations | Administration
-      fr: Opérations | Administration
-    image-name: shelley-bagg.jpg
-    email: Shelley.Bagg@tbs-sct.gc.ca
+      en: Developer | Data
+      fr: Développeur | Données
+    image-name: stephen-mcmurtry.jpg
+    twitter: StephenMcMurtry
+    linkedin: stephen-mcmurtry-1b4a8879
+    email: Stephen.McMurtry@tbs-sct.gc.ca
 
   - name: Steve Astels
     title:
@@ -415,23 +423,6 @@ team:
     linkedin: sastels
     github: sastels
 
-  - name: Stephen McMurtry
-    title:
-      en: Developer | Data
-      fr: Développeur | Données
-    image-name: stephen-mcmurtry.jpg
-    twitter: StephenMcMurtry
-    linkedin: stephen-mcmurtry-1b4a8879
-    email: Stephen.McMurtry@tbs-sct.gc.ca
-
-  - name: Stevie-Ray Talbot
-    title:
-      en: Policy | Data
-      fr: Politiques | Données
-    image-name: steven-ray-talbot.jpg
-    twitter: StevieRayTalbot
-    email: Steven.Talbot@tbs-sct.gc.ca
-
   - name: Steve Zinck
     title:
       en: Platform | DevOps
@@ -441,6 +432,21 @@ team:
     twitter: szinck
     linkedin: stevezinck
     github: szinck1
+    
+  - name: Stevie-Ray Talbot
+    title:
+      en: Policy | Data
+      fr: Politiques | Données
+    image-name: steven-ray-talbot.jpg
+    twitter: StevieRayTalbot
+    email: Steven.Talbot@tbs-sct.gc.ca
+    
+  - name: Tim Arney
+    title:
+      en: Developer
+      fr: Développeur
+    image-name: tim-arney.jpg
+    email: Tim.Arney@tbs-sct.gc.ca
 
   - name: Zak Kain
     title:
