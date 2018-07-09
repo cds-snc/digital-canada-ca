@@ -743,16 +743,12 @@ span.live {
 // WORK WITH US
 //
 ////////////////////////////////////////////////////
-.work-with-us--details {
-    border-top: $medium-grey 1px solid;
-	padding-bottom: 4rem;
-//	this needs standardizing ^
-	
 	.cell-background {
         background: $wwu-blue;
         border-radius: 20px;
 		padding: 1rem 2rem 1rem 3rem;
 		color: $white;
+        margin-bottom: 3rem;
 	    
 	    @include mobile-only{
 		   	padding-top: 1rem;
@@ -787,6 +783,11 @@ span.live {
 			margin-bottom: 2rem;
 		}
     }
+
+.work-with-us--details {
+    border-top: $medium-grey 1px solid;
+	padding-bottom: 4rem;
+//	this needs standardizing ^
 }
 
 .work-with-us--looking-for {
