@@ -32,7 +32,7 @@ SNC collabore actuellement avec le SCT pour faire connaître ce produit et le d�
 
 L’avantage de ce produit? Lorsque vous créez le nouveau « truc », vous êtes alors le premier à le tester. Ainsi, nous avons testé nos propres noms de domaines, et nous étions consternés de nous rendre compte que, dans notre enthousiasme à mettre en service notre site Web l’an dernier, nous avions choisi un réglage dans notre configuration Cloudfront d’AWS qui privilégiait la rétrocompatibilité au détriment de l’utilisation de chiffres et de protocoles sécurisés.
 
-![alt text](digital.canada.ca/assets/img/cds/post-images/https-en.png "Test initial de la plateforme Pulse peuplée de domaines canada.ca.")
+<img width="100%" style="float:left;" alt="Initial testing of the Pulse platform seeded with canada.ca domains." src="/assets/img/cds/post-images/https-fr.png">
 
 Il va sans dire que nous avons échoué à nos propres vérifications de conformité, mais nous avons pu réparer un des problèmes en moins de temps que j’ai pris pour écrire ce dernier paragraphe. Nous nous pencherons bientôt sur la mise en œuvre du protocole HTTP Strict Transport Security, mais ce projet sera probablement le sujet d’un prochain billet.
 
