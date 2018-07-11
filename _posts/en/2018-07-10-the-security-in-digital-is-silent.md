@@ -4,7 +4,7 @@ description: "I’ve come to the conclusion that writing about security is harde
 author: John O'Brien, Security Lead
 date: 2018-07-10 09:00:00 -0400
 image: the-security-in-digital-is-silent.png
-image-alt: 
+image-alt: An open lock
 lang: en
 layout: cds/post
 trans_url: "2018-07-10/dans-le-monde-numerique-la-securie-se-cache"
@@ -34,7 +34,7 @@ The benefit to this product? When you’re building the “thing” you get to b
 
 <img width="100%" style="float:left;" alt="Initial testing of the Pulse platform seeded with canada.ca domains." src="/assets/img/cds/post-images/https-en.png">
 
-Suffice it to say, we failed our own compliance checks, but were able to fix the one of the issues in less time than it took to write this last paragraph. We’ll be cracking away at implementing HSTS soon, but that will likely be the topic of a future post. 
+Suffice it to say, we failed our own compliance checks, but were able to fix one of the issues in less time than it took to write this last paragraph. We’ll be cracking away at implementing HSTS soon, but that will likely be the topic of a future post. 
 
 ## Start with the fundamentals, work towards the shiny
 
