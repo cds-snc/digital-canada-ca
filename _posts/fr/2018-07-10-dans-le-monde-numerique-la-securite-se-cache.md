@@ -4,7 +4,7 @@ description: "J’en arrive à la conclusion qu’écrire sur la sécurité est 
 author: John O'Brien, responsable de la sécurité
 date: 2018-07-10 09:00:00 -0400
 image: the-security-in-digital-is-silent.png
-image-alt: An open key lock
+image-alt: Un verrou ouvert
 lang: fr
 layout: cds/post
 trans_url: "2018-07-10/the-security-in-digital-is-silent"
