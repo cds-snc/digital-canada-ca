@@ -23,7 +23,7 @@ gem 'font-awesome-sass', '>= 5.0.9'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.9", ">= 0.9.3"
-	gem "jekyll-paginate-v2"
+	gem "jekyll-paginate-v2", ">= 1.9.4"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
