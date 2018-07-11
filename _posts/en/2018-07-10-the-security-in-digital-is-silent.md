@@ -2,7 +2,7 @@
 title: "The s(ecurity) in digital is silent"
 description: "I’ve come to the conclusion that writing about security is harder than actually doing it. This is likely due to having avoided talking or writing about what I’ve done at work for the better part of the last decade. Bear with me, this may be interesting."
 author: John O'Brien, Security Lead
-date: 2018-07-10 09:00:00 -0400
+date: 2018-07-11 09:00:00 -0400
 image: the-security-in-digital-is-silent.png
 image-alt: An open lock
 lang: en
