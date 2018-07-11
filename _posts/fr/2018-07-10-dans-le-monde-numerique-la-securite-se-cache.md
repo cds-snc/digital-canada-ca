@@ -7,7 +7,7 @@ image: the-security-in-digital-is-silent.png
 image-alt: Un cadenas ouvert
 lang: fr
 layout: cds/post
-trans_url: "/2018-07-10/the-security-in-digital-is-silent"
+trans_url: "/2018/07/10/the-security-in-digital-is-silent"
 ---
 
 J’en arrive à la conclusion qu’écrire sur la sécurité est en fait plus difficile que de la faire appliquer. Cela est probablement attribuable au fait que j’ai évité de parler de mes activités au travail ou d’écrire à ce sujet pendant la majeure partie des dix dernières années. Permettez-moi de vous en dire plus, ça pourrait devenir intéressant.
