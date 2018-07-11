@@ -743,16 +743,12 @@ span.live {
 // WORK WITH US
 //
 ////////////////////////////////////////////////////
-.work-with-us--details {
-    border-top: $medium-grey 1px solid;
-	padding-bottom: 4rem;
-//	this needs standardizing ^
-	
 	.cell-background {
         background: $wwu-blue;
         border-radius: 20px;
 		padding: 1rem 2rem 1rem 3rem;
 		color: $white;
+        margin-bottom: 3rem;
 	    
 	    @include mobile-only{
 		   	padding-top: 1rem;
@@ -787,6 +783,11 @@ span.live {
 			margin-bottom: 2rem;
 		}
     }
+
+.work-with-us--details {
+    border-top: $medium-grey 1px solid;
+	padding-bottom: 4rem;
+//	this needs standardizing ^
 }
 
 .work-with-us--looking-for {
@@ -1023,6 +1024,36 @@ span.live {
             display: inline-block; //padding: 0.5rem 1.5rem;
             //font-size: 1.5rem;
             //border-radius: 1rem;
+        }
+    }
+
+    & li.pagination {
+        position: relative;
+        padding: 0 0.4em;
+    }
+
+    & li.active a::after {
+		background: $primary-color;
+		border: $primary-color 1px solid;
+        width: 100%;
+        display: block;
+        content: "";
+        height: 4px;
+        position: absolute;
+        left: 0%;
+    }
+    
+    & .blogpost-paginator {
+        text-align: center;
+        padding: 0;
+
+        @include mobile-only {
+            :first-child {
+                padding-left: 0;
+            }
+            :last-child {
+                padding-right: 0;
+            }
         }
     }
 }
