@@ -4,7 +4,7 @@ description: "Si vous cherchez un peu, vous pouvez trouver de la solidarité aut
 author: David Buckley, Developer
 date: 2018-07-17 09:00:00 -0400
 image: blog-david-https-header.jpg
-image-alt: 
+image-alt: Une illustration de deux personnes qui peinturent une maquette géante de page web.
 lang: en
 layout: cds/post
 trans_url: "/2018/07/17/community-driven-coding"
