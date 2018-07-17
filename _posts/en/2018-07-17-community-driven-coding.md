@@ -14,7 +14,7 @@ If you're looking, you can find community all around you. Open source software d
 
 When we adapt software, our relationship with the original author(s) could be distant - just a footnote attribution to their original work. But it's hard to stay distant when the developers go out of their way to be helpful. Eric went out of his way.
 
-[Eric Mill](https://twitter.com/konklone) is one of the original Pulse developers. Pulse is a project by 18F to help federal domain owners know if they meet new security requirements such as enforcing HTTPS. The Government of Canada has the same need, so we used 18F's existing open source code for Pulse to kick-start our development.
+[Eric Mill](https://twitter.com/konklone) is one of the original Pulse developers. [Pulse](https://pulse.cio.gov/) is a project by 18F to help federal domain owners know if they meet new security requirements such as enforcing HTTPS. The Government of Canada has the same need, so we used 18F's existing open source code for Pulse to kick-start our development.
 
 As a bonus, we got Eric's experience with it. Eric helped us know what to expect during the development phase of the HTTPS project. He shared:
 * the most common questions he got from domain owners
