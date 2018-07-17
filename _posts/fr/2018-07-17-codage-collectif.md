@@ -14,7 +14,7 @@ Si vous cherchez un peu, vous pouvez trouver de la solidarité autour de vous. L
 
 Lorsque nous adaptons un logiciel, notre relation avec ses créateurs peut être distante, une simple attribution à leur travail original dans une note de bas de page. On peut difficilement rester distant lorsque les développeurs font des pieds et des mains pour offrir leur aide. Eric, par exemple, s’est donné beaucoup de peine.
 
-[Eric Mill](https://twitter.com/konklone) est un des développeurs originaux de Pulse, un projet de 18F visant à aider les propriétaires de domaines fédéraux à savoir s’ils satisfont aux nouvelles exigences de sécurité comme l’application du protocole HTTPS. Le gouvernement du Canada a le même besoin, alors nous avons utilisé le code libre créé par 18F pour Pulse, histoire de donner un coup d’élan à notre développement.
+[Eric Mill](https://twitter.com/konklone) est un des développeurs originaux de [Pulse](https://pulse.cio.gov/), un projet de 18F visant à aider les propriétaires de domaines fédéraux à savoir s’ils satisfont aux nouvelles exigences de sécurité comme l’application du protocole HTTPS. Le gouvernement du Canada a le même besoin, alors nous avons utilisé le code libre créé par 18F pour Pulse, histoire de donner un coup d’élan à notre développement.
 
 En prime, nous avons pu profiter de l’expérience d’Eric, qui nous a aidés à comprendre ce qui nous attendait pendant la phase de développement du projet HTTPS. Il nous a fait part :
 * des questions les plus courantes des propriétaires de domaines
