@@ -1,5 +1,5 @@
 ---
-title: "Codage collectif : collaborer pour améliorer le travail des uns et des autres"
+title: "La phase de decouverte : comprendre le probleme"
 description: "Les anciens combattants ont consacré leur vie à servir le Canada. Que ce soit à la Gendarmerie royale du Canada ou aux Forces armées canadiennes, quitter le service, c’est comme quitter une famille et un emploi en même temps. Dans cette nouvelle phase de leur vie, les anciens combattants font face à de nombreux défis qui sont très différents du stress physique et psychologique qu’ils subissaient chaque jour alors qu’ils portaient l’uniforme. L’un des nombreux importants défis consiste à comprendre les plus de prestations et services qui leur sont offerts, et à y accéder."
 author: Daniel Tse, Product Manager
 date: 2018-07-20 09:00:00 -0400
