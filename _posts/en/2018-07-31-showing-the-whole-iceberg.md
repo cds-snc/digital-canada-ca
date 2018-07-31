@@ -7,7 +7,7 @@ image: blog-iceberg-header.jpg
 image-alt: A person standing behind a podium gestures towards an iceberg floating in an aquarium while a small dog watches.
 lang: en
 layout: cds/post
-trans_url: "2018/07/31/showing-the-whole-iceberg"
+trans_url: "/2018/07/31/montrer-liceberg-en-entier"
 ---
 
 *“I believe offices like CDS are change management offices disguised as digital service offices.”* - Aaron Snow, CEO

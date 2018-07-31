@@ -7,7 +7,7 @@ image: blog-iceberg-header.jpg
 image-alt: Une personne debout derrière un podium fait signe vers un iceberg qui flotte dans un aquarium, alors qu’un petit chien observe.
 lang: fr
 layout: cds/post
-trans_url: "2018/07/31/montrer-liceberg-en-entier"
+trans_url: "/2018/07/31/showing-the-whole-iceberg"
 ---
 
 *« Je crois que les équipes comme le SNC sont des équipes de gestion du changement déguisés en équipes de services numériques. »* – Aaron Snow, dirigeant principal
