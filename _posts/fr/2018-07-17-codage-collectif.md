@@ -1,7 +1,7 @@
 ---
 title: "Codage collectif : collaborer pour améliorer le travail des uns et des autres"
 description: "Si vous cherchez un peu, vous pouvez trouver de la solidarité autour de vous. Le développement de logiciels ouverts n’y fait pas exception. De par sa nature, le développement ouvert trouve sa source dans la collectivité. Grâce au partage, les gens peuvent tirer parti du travail de chacun, ce qui facilite la tâche de tout le monde."
-author: David Buckley, Developer
+author: David Buckley, développeur
 date: 2018-07-17 09:00:00 -0400
 image: blog-david-https-header.jpg
 image-alt: Une illustration de deux personnes qui peinturent une maquette géante de page web.
