@@ -1,7 +1,7 @@
 ---
 title: "Montrer l’iceberg en entier"
 description: "Bien entendu, nous sommes officiellement un bureau de services numériques. Mais si nous faisons preuve de la plus grande transparence possible quant à nos méthodes de travail, nous pouvons montrer les possibilités et assurer la prestation de meilleurs services, plus rapides et plus conviviaux auxquels les Canadiens s’attendent et qu’ils méritent."
-author: Par Charlotte Pedersen, Renforcement des capacités
+author: Charlotte Pedersen, renforcement des capacités
 date: 2018-07-31 09:00:00 -0400
 image: blog-iceberg-header.jpg
 image-alt: Une personne debout derrière un podium fait signe vers un iceberg qui flotte dans un aquarium, alors qu’un petit chien observe.
