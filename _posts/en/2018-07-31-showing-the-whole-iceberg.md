@@ -36,7 +36,7 @@ The CDS team is also active on social media, often sharing day-to-day “aha” 
 
 Every two weeks, CDS hosts  “Show the Thing” as an internal opportunity to, in rapid-fire-style, share a five minute presentation of projects followed by five minutes of Q&A. This becomes a good way for other teams to apply lesson-learned to their own challenges so mistakes aren’t repeated. 
 
-Externally, CDS has held a couple “Show & Tells” where teams demo product work and learnings publicly. These small-scale events are meant to be a way for us to share what are working on. It could be a completed product we can demo, a prototype in the works, or even post-retro insights, which helped us pivot in a different direction than originally planned.
+Externally, CDS has held a couple “Show & Tells” where teams demo product work and learnings publicly. These small-scale events are meant to be a way for us to share what we are working on. It could be a completed product we can demo, a prototype in the works, or even post-retro insights, which helped us pivot in a different direction than originally planned.
 
 ## Latest Show & Tell Summary
 
