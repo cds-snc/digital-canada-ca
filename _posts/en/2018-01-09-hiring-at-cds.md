@@ -1,5 +1,5 @@
 ---
-title: "Hiring at CDS – How we make it work in a start-up environment"
+title: "Hiring at CDS: How we make it work in a start-up environment"
 description: "There’s a lot of interest on how we are recruiting and staffing up a digital services team that can hit the ground running and help solve service challenges across the Government. This is why I am super excited to be writing a blog post about our hiring practices at CDS."
 author: Meera Makim Cunningham, Internal Operations
 date: 2018-01-09 09:00:00 -0400
