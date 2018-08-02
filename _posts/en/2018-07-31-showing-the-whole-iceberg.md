@@ -38,7 +38,7 @@ Every two weeks, CDS hosts  “Show the Thing” as an internal opportunity to, 
 
 Externally, CDS has held a couple “Show & Tells” where teams demo product work and learnings publicly. These small-scale events are meant to be a way for us to share what we are working on. It could be a completed product we can demo, a prototype in the works, or even post-retro insights, which helped us pivot in a different direction than originally planned.
 
-## Latest Show & Tell Summary
+## Latest Show & Tell summary
 
 Our latest Show & Tell was in mid-June. If you weren’t able to attend that one in person, you can check out the full recording of the talks [on Youtube](https://www.youtube.com/watch?v=uFjfrtuLLpQ&feature=youtu.be). 
 
