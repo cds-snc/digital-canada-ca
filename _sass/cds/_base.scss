@@ -14,7 +14,9 @@
 @include font-face("HKGrotesk", " fonts/HKGrotesk-Light",100);
 @include font-face("HKGrotesk", " fonts/HKGrotesk-LightItalic",100, italic);
 
-@import "font-awesome/font-awesome";
+@import "font-awesome/fontawesome";
+@import "font-awesome/solid.scss";
+@import "font-awesome/brands.scss";
 
 // CDS Base Styles and Style Overrides
 
