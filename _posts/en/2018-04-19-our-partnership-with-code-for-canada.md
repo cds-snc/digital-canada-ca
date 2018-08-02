@@ -1,7 +1,7 @@
 ---
-title: "Our Partnership with Code for Canada"
+title: "Our partnership with Code for Canada"
 description: "This past fall, we brought on one of the first two cohorts of Code for Canada (C4C) fellows, the other joining our colleagues in the Government of Ontario. This post outlines how to make the most out of a potential partnership!"
-author: John Millons, Policies and Engagement
+author: John Millons, Policy and engagement
 date: 2018-04-19 09:00:00 -0400
 image: blog-c4c.jpg
 image-alt: The six members of the first cohort of Code for Canada fellows outside the provincial parliament building in Toronto.

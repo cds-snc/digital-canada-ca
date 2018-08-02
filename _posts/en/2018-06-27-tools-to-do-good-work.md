@@ -1,7 +1,7 @@
 ---
 title: "Use the tools that you need to do good work"
 description: "In order to adopt modern digital practices, it’s also important to have the tools – both devices and software – that make this possible."
-author: Sean Boots, Policy Team
+author: Sean Boots, Policy team
 date: 2018-06-27 09:00:00 -0400
 image: blog-tools-for-work-2018.jpeg
 image-alt: Several MacBook computers covered in stickers laid out on a table.
