@@ -1,7 +1,7 @@
 ---
-title: "Showing the Whole Iceberg"
+title: "Showing the whole iceberg"
 description: "Sure, officially we’re a digital service office. But by being as transparent as possible about how we work, we can show the art of the possible and amplify the delivery of better, faster, and easier services that Canadians expect and deserve."
-author: Charlotte Pedersen, Capacity Building
+author: Charlotte Pedersen, Capacity building
 date: 2018-07-31 09:00:00 -0400
 image: blog-iceberg-header.jpg
 image-alt: A person standing behind a podium gestures towards an iceberg floating in an aquarium while a small dog watches.
