@@ -1,7 +1,7 @@
 ---
 title: "Discovery Phase: Understanding the problem"
 description: "Veterans have dedicated their lives to serving Canada. Whether it’s RCMP or Canadian Armed Forces, leaving the service is like leaving a family and a job all at once. Veterans face many different challenges in this new phase of their life that are very different from the physical and psychological stresses they faced every day while wearing the uniform. One of the many major challenges is understanding and accessing the 20-plus benefits and services offered to them."
-author: Daniel Tse, Product Manager
+author: Daniel Tse, Product manager
 date: 2018-07-20 09:00:00 -0400
 image: blog-discovery.jpg
 image-alt: Two people sit at a table with papers, using hand gestures as though discussing their work.
