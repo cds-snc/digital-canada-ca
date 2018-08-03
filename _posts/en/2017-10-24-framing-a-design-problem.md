@@ -1,5 +1,5 @@
 ---
-title: "Framing a design problem – An inside look at the citizenship application process"
+title: "Framing a design problem: An inside look at the citizenship application process"
 description: "It’s an exciting time at the Canadian Digital Service (CDS) as we start rolling up our sleeves and digging into our first service delivery projects, while we are working hard on choosing our next partnership opportunities. One of our partners in these early projects is Immigration, Refugees and Citizenship Canada (IRCC)."
 author: Mario Garneau, Mithula Naik and Ryan Androsoff
 date: 2017-10-24 09:00:00 -0400

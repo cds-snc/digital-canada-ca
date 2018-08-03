@@ -1,5 +1,5 @@
 ---
-title: "Service Design: That’s our jam"
+title: "Service design: That’s our jam"
 description: "On June 21, the Canadian Digital Service (CDS) hosted its very first Design Jam with 30 participants from the Canada Revenue Agency (CRA) & Employment and Social Development Canada (ESDC). With help from design mentors, participants brainstormed ideas to tackle current service challenges in the Government of Canada."
 author: Charlotte Pedersen and Eman El-Fayomi
 date: 2018-07-26 09:00:00 -0400

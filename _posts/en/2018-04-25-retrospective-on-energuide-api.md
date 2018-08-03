@@ -12,7 +12,7 @@ trans_url: "/2018/04/25/retrospective-sur-lapi-denerguide"
 
 As our partnership with NRCan on the EnerGuide API winds down, the CDS product team held a retrospective to reflect on our experience, accomplishments and lessons learned.
 
-## What is a Retrospective?
+## What is a retrospective?
 
 A retrospective or “retro” is a technique often used in agile development at the completion of a sprint. Sprints are used to accomplish something in a defined period of time (at CDS we do two week sprints). Each sprint contains:
 
@@ -36,7 +36,7 @@ Once everyone has contributed, each member is allowed to vote on up to three the
 
 Here’s what we took away from our final retro for the EnerGuide API product.
 
-## Lessons Learned
+## Lessons learned
 
 * **Team communication must extend beyond daily stand-up meetings**. Daily team stand-ups are a great way to keep everyone on the same page, raise issues and bring new team members up to speed quickly. But, to ensure everyone works together as a team and not teams within a team (i.e. research, design, development, etc.), members need to ensure communication with one another throughout the day.
 

@@ -1,5 +1,5 @@
 ---
-title: "Accessibility at CDS - Challenging our assumptions about ambient imagery"
+title: "Accessibility at CDS: Challenging our assumptions about ambient imagery"
 description: "We recently received some feedback through our Github repository regarding the accessibility of the hero images we use on some pages of our website, including the blog posts."
 author: Dave Samojlenko, Developer
 date: 2018-01-16 09:00:00 -0400

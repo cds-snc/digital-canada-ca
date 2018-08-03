@@ -1,7 +1,7 @@
 ---
-title: "Coding is a Team Activity"
+title: "Coding is a team activity"
 description: "In our experience, software development should be a team effort. This doesn’t mean multiple developers individually contributing code to a single code base; rather, the team as a whole is responsible for each line of code."
-author: Jason White, Head of Data Science
+author: Jason White, Head of data science
 date: 2018-04-24 09:00:00 -0400
 image: blog-team-coding.jpg
 image-alt: A computer screen displays 200 lines of JavaScript code in Sublime Text.
