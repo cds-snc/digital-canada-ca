@@ -15,7 +15,7 @@ jobs:
       # Restore bundle cache (persisted across builds)
       - restore_cache:
           keys:
-            - cds-vendor-bundle-{{ checksum "ClearGemfile.lock" }}
+            - cds-vendor-bundle-{{ checksum "Gemfile.lock" }}
 
       # Bundle install
       - run:
@@ -24,7 +24,7 @@ jobs:
 
       # Store bundle cache (persisted across builds)
       - save_cache:
-          key: cds-vendor-bundle-{{ checksum "ClearGemfile.lock" }}
+          key: cds-vendor-bundle-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
 
