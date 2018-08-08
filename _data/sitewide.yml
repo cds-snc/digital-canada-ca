@@ -3,3 +3,10 @@ email: cds-snc@tbs-sct.gc.ca
 youtube: cds
 github: cds-snc
 linkedin: cds-snc
+medium:
+  en:
+    name: Canadian Digital Service (CDS)
+    url: "https://medium.com/@canadiandigitalservice"
+  fr:
+    name: Service numérique canadien (SNC)
+    url: "https://medium.com/@servnumcanadien" 
