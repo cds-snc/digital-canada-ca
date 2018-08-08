@@ -1,7 +1,7 @@
 ---
 title: "Notre partenariat avec Code for Canada"
 description: "L’automne dernier, nous avons accueilli l’une des deux premières cohortes d’associés de Code for Canada (C4C), l’autre s’étant jointe à nos collègues du gouvernement de l’Ontario. Ce billet de blogue décrira comment tirer le meilleur parti d’un partenariat potentiel!"
-author: John Millons, Politiques et Mobilisation
+author: John Millons, politiques et mobilisation
 date: 2018-04-19 09:00:00 -0400
 image: blog-c4c.jpg
 image-alt: Les six membres de la première cohorte d’associés de Code for Canada à l’extérieur de l’édifice du parlement provincial à Toronto.

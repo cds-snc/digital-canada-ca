@@ -1,7 +1,7 @@
 ---
 title: "Rétrospective sur l’API d’ÉnerGuide : beaucoup de «&nbsp;premières&nbsp;» et de leçons "
 description: "Alors que notre partenariat avec Ressources naturelles Canada (RNCan) pour l’API (interface de programmation d’applications) d’ÉnerGuide tire à sa fin, l’équipe de produit du Service numérique canadien (SNC) a tenu une rétrospective pour réfléchir à son expérience, à ses réalisations et aux leçons à retenir."
-author: Jennifer Fletcher, Partenariats
+author: Jennifer Fletcher, partenariats
 date: 2018-04-25 09:00:00 -0400
 image: blog-energuide-retro.jpg
 image-alt: Sept membres de l’équipe sont assis autour d’une table. Ils regardent deux personnes debouts devant eux qui regroupent des papiers autocollants (« post-it ») sur le tableau blanc.
