@@ -1,7 +1,7 @@
 ---
 title: "Un service qui fonctionne mieux pour tout le monde : supporter plus d’utilisateurs au moyen de la dégradation progressive dans React"
 description: "Utiliser les technologies modernes peut rendre le développement plus rapide, mais, ultimement, nous devons livrer des solutions fonctionnelles sans sacrifier la robustesse et l’accessibilité. Nous avons créé le service pour « reporter un examen de citoyenneté » de sorte à repousser les limites de la prestation de services sans toutefois laisser les utilisateurs au dépourvu."
-author: Par Paul Craig, Développeur
+author: Paul Craig, développeur
 date: 2018-08-08 09:00:00 -0400
 image: blog-noJS.jpg
 image-alt: Une personne en train de naviguer à travers une gamme d’appareils électroniques, y compris un téléphone à cadran, un téléphone à clapet, un ordinateur portable et une tour d’ordinateur de bureau.

@@ -1,7 +1,7 @@
 ---
 title: "A service that works better for everybody: Supporting more users with gracefully degrading React"
 description: "Using modern technologies can make development faster, but ultimately we need to deliver working solutions without sacrificing robustness or accessibility. We’ve built the “Reschedule a citizenship test” service in a way that pushes service delivery forward without leaving users behind."
-author: By Paul Craig, Developer
+author: Paul Craig, Developer
 date: 2018-08-08 09:00:00 -0400
 image: blog-noJS.jpg
 image-alt: A person navigating through a range of devices, including a rotary dial phone, a flip phone, a laptop and a computer tower.
