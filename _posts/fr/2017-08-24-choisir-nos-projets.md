@@ -1,7 +1,7 @@
 ---
 title: "Choisir nos projets"
 description: "Si le fait d’utiliser la technologie de pointe suscite beaucoup d’engouement, au SNC, nous commençons par la base, soit définir un bon service, parce que c’est ce qui compte le plus. Dans vos rapports avec votre gouvernement, 1)&nbsp;il ne devrait pas y avoir d’ambiguïté sur ce que vous devez savoir et faire, et 2)&nbsp;il devrait être facile de faire ce qu’il y a à faire. Il ne s’agit pas seulement de refondre les sites Web; la technologie et les méthodes modernes nous donnent une réelle occasion de répondre aux besoins des utilisateurs alors que nous transformons nos services et, dans de nombreux cas, nous les mettons en ligne."
-author: Wendy Luciani, Partenariats
+author: Wendy Luciani, partenariats
 date: 2017-08-24 10:00:00 -0400
 image: picking-our-projects-2017.jpg
 image-alt: "Affiches dans les locaux du SNC."

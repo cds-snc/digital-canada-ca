@@ -1,7 +1,7 @@
 ---
 title: "C’est toujours un défi la première fois..."
 description: "Au cours de nos séances de mobilisation, les gens nous ont dit que le gouvernement devait trouver des façons de permettre aux joueurs non traditionnels de s’impliquer et de co-créer des solutions avec le gouvernement."
-author: Mario Garneau, Prestation et Wendy Luciani, Partenariats
+author: Mario Garneau et Wendy Luciani
 date: 2017-12-07 09:00:00 -0400
 image: blog-toujours-un-defi-2017.jpg
 image-alt: "La page d’accueil de la plateforme de défis Impact Canada."
