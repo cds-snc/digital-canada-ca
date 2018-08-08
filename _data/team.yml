@@ -17,6 +17,15 @@ exec:
     twitter: anatolep
     linkedin: anatole-papadopoulos-845a431
     email: Anatole.Papadopoulos@tbs-sct.gc.ca
+    
+  - name: Andrea Gilbrook 
+    title:
+      en: Head of Talent
+      fr: Responsable du talent
+    image-name: andrea-gilbrook.jpg
+    twitter: andreagilbrook
+    linkedin: andreagilbrook
+    email: Andrea.Gilbrook@tbs-sct.gc.ca
 
   - name: Chris Govias
     title:
@@ -72,14 +81,6 @@ exec:
     email: Wendy.Luciani@tbs-sct.gc.ca
     
 team:
-  - name: Anik Brazeau
-    title:
-      en: Communications
-      fr: Communications
-    image-name: anik-brazeau.jpg
-    twitter: brazeauanik
-    linkedin: anikbrazeau
-    email: Anik.Brazeau@tbs-sct.gc.ca
 
   - name: Annie Leblond
     title:
@@ -89,6 +90,15 @@ team:
     twitter: leblond_annie
     linkedin: annieleblond
     email: Annie.Leblond@tbs-sct.gc.ca
+
+  - name: Anik Brazeau
+    title:
+      en: Communications
+      fr: Communications
+    image-name: anik-brazeau.jpg
+    twitter: brazeauanik
+    linkedin: anikbrazeau
+    email: Anik.Brazeau@tbs-sct.gc.ca
 
   - name: Bethany Dunfield
     title:
