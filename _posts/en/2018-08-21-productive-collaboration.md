@@ -1,7 +1,7 @@
 ---
 title: "Productive collaboration: how to build a workflow that works across disciplines"
 description: "At CDS, we build our product teams to consist of product managers, researchers, designers, developers, policy experts, and communication specialists. But, assembling a multidisciplinary team does not mean the hardest part is done. All of the individuals that you’ve gathered onto your team come from different disciplines and they each have their own preferred ways of working. This includes (but is not limited to) the pace, tools, hours, times of day, environmental conditions, communication methods, and the ways each person prefers to give and receive feedback. With so many different variables, it’s easy for things to quickly get overwhelming."
-author: Eman El-Fayomi, Acting Head of Design
+author: Eman El-Fayomi, Head of Design
 date: 2018-08-21 09:00:00 -0400
 image: blog-productive-collaboration.jpg
 image-alt: The product team gathers around the sprint board at a daily standup meeting.
