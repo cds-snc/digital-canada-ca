@@ -1,7 +1,7 @@
 ---
 title: "Productive collaboration: how to build a workflow that works across disciplines"
 description: "At CDS, we build our product teams to consist of product managers, researchers, designers, developers, policy experts, and communication specialists. But, assembling a multidisciplinary team does not mean the hardest part is done. All of the individuals that you’ve gathered onto your team come from different disciplines and they each have their own preferred ways of working. This includes (but is not limited to) the pace, tools, hours, times of day, environmental conditions, communication methods, and the ways each person prefers to give and receive feedback. With so many different variables, it’s easy for things to quickly get overwhelming."
-author: Eman El-Fayomi, Acting Head of Design
+author: Eman El-Fayomi, Head of Design
 date: 2018-08-21 09:00:00 -0400
 image: blog-productive-collaboration.jpg
 image-alt: The product team gathers around the sprint board at a daily standup meeting.
@@ -30,13 +30,13 @@ During our initial orientation as a team, we used a tool called “[***A User Ma
 
 <img width="100%" alt="The User Manual for Me tool with eight boxes where you can indicate work style preferences, such as times I like to work or the best way to communicate with me." src="/assets/img/cds/post-images/blog-manual.png">
 
-Each person had to fill this in, and then share it with the team. This enabled us to talk through our work styles that don’t always come up organically in conversation. We’ve since used variations of this tool across other product teams at CDS, and created a [bilingual digital version](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit) for everyone on our wider teams to update frequently. 
+Each person had to fill this in, and then share it with the team. This enabled us to talk through our work styles that don’t always come up organically in conversation. We’ve since used variations of this tool across other product teams at CDS, and created a [bilingual digital version](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit?usp=sharing) for everyone on our wider teams to update frequently. 
 
 We also used a tool from the Atlassian Team Playbook called “[***Roles and Responsibilities***](https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities)” to define and chart each person's skills, contributions, and needs.
 
 <img width="100%" alt="The Roles and Responsibilities tool to better understand team members contributions." src="/assets/img/cds/post-images/blog-roles.png">
 
-Download a copy of the [Roles and Responsibilities tool](https://drive.google.com/drive/u/0/folders/1YYD5VFYyKD5ryy0QcKcabSEy4YGG0Nac).
+Download a copy of the [Roles and Responsibilities tool](https://drive.google.com/a/cds-snc.ca/file/d/1rsMtjSrh3TCVvtnezR5TQC1hBR67Y1Tq/view?usp=sharing).
 
 We used this tool with a bit of a twist. First, we filled it out thinking strictly about ourselves. Rather than ending the exercise there, each of us paired up with someone else on the team to fill out this sheet again, this time focusing on how we perceived their role — without talking to them about it first. Afterwards, we shared as a group, and each person took turns reading out what they wrote down for themselves, sharing what they’d written about others, and engaging in a discussion around our perceptions versus reality. This process enabled us to all get on the same page about how we contribute to the team and the ways in which we can lean on and learn from each other.
 

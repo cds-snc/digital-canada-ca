@@ -1,7 +1,7 @@
 ---
 title: "Collaboration productive : comment établir un flux de travail qui fonctionne pour toutes les disciplines"
 description: "Au Service numérique canadien (SNC), nous formons nos équipes de produits pour qu’elles se composent de gestionnaires de produits, de chercheurs, de concepteurs, de développeurs, d’experts en politiques et de spécialistes en communication. Mais le fait de réunir une équipe multidisciplinaire ne signifie pas que la partie la plus difficile est terminée. Toutes les personnes que vous avez rassemblées au sein de votre équipe proviennent de disciplines différentes et chacune a ses propres façons de travailler. Il peut s’agir (sans s’y limiter) du rythme, des outils, des heures, des moments de la journée, des conditions environnementales, des méthodes de communication et des moyens que chaque personne préfère pour donner et recevoir de la rétroaction. Avec tant de variables différentes, il est facile de se sentir rapidement dépassé."
-author: Eman El-Fayomi, chef intérimaire de la conception
+author: Eman El-Fayomi, chef de la conception
 date: 2018-08-21 09:00:00 -0400
 image: blog-productive-collaboration.jpg
 image-alt: L'équipe de produit se réunit autour du tableau de print lors d'une réunion quotidienne.
@@ -30,13 +30,13 @@ Au cours de notre première séance d’orientation en équipe, nous avons utili
 
 <img width="100%" alt="L'outil Manuel de l'utilisateur pour moi qui offre huit cases où les préférences de travail peuvent être indiquées dont les heures auxquels j'aime travailler et les meilleures façons de communiquer avec moi." src="/assets/img/cds/post-images/blog-manual-fr.png">
 
-Chaque personne devait remplir cet outil, puis le partager avec l’équipe. Cela nous a permis de discuter de nos styles de travail, un sujet qui ne ressort pas toujours naturellement dans nos conversations. Depuis, nous avons utilisé des variantes de cet outil parmi d’autres équipes de produits du SNC et avons créé une [version numérique bilingue](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit) pour que les membres de nos équipes élargies puissent la mettre à jour fréquemment.
+Chaque personne devait remplir cet outil, puis le partager avec l’équipe. Cela nous a permis de discuter de nos styles de travail, un sujet qui ne ressort pas toujours naturellement dans nos conversations. Depuis, nous avons utilisé des variantes de cet outil parmi d’autres équipes de produits du SNC et avons créé une [version numérique bilingue](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit#slide=id.g3fd0daa6c4_0_0) pour que les membres de nos équipes élargies puissent la mettre à jour fréquemment.
 
 Nous avons également utilisé un outil du guide de travail d’équipe d’Atlassian appelé [Roles and Responsibilities](https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities) (Rôles et responsabilités) pour définir et préciser les compétences, les contributions et les besoins de chaque personne.
 
 <img width="100%" alt="L'outil des Rôles et responsabilités pour mieux comprendre les contributions de tous les membres de l'équipe." src="/assets/img/cds/post-images/blog-roles-fr.png">
 
-Télécharger une copie de l’outil [Rôles et responsabilités](https://drive.google.com/drive/u/0/folders/1YYD5VFYyKD5ryy0QcKcabSEy4YGG0Nac) en français.
+Télécharger une copie de l’outil [Rôles et responsabilités](https://drive.google.com/a/cds-snc.ca/file/d/1DKI3I9_pTFAjRnVK_tlCYsGJ_jVQub0q/view?usp=sharing) en français.
 
 Nous avons utilisé cet outil en y ajoutant une petite variante. Premièrement, nous l’avons rempli en pensant strictement à nous-mêmes. Plutôt que d’arrêter l’exercice là, chacun d’entre nous s’est associé à un autre membre de l’équipe pour remplir de nouveau cette feuille, cette fois en nous concentrant sur la façon dont nous percevions le rôle de l’autre personne, sans lui en parler d’abord. Par la suite, nous avons fait une mise en commun, et à tour de rôle, chaque personne a lu ce qu’elle avait écrit pour elle-même, partagé ce qu’elle avait écrit au sujet des autres et participé à une discussion sur nos perceptions par rapport à la réalité. Ce processus nous a permis de nous mettre tous sur la même longueur d’onde quant à notre contribution à l’équipe et aux façons dont nous pouvons nous appuyer les uns sur les autres et apprendre les uns des autres.
 
