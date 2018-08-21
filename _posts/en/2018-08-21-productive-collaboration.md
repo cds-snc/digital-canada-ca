@@ -28,13 +28,13 @@ We’ve been working together to build our own unique multidisciplinary approach
 
 During our initial orientation as a team, we used a tool called “[***A User Manual for Me***](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694)” created by Cassie Robinson.
 
-<html><img width="100%" alt="The User Manual for Me tool with eight boxes where you can indicate work style preferences, such as times I like to work or the best way to communicate with me." src="/assets/img/cds/post-images/blog-manual.png"></html>
+<img width="100%" alt="The User Manual for Me tool with eight boxes where you can indicate work style preferences, such as times I like to work or the best way to communicate with me." src="/assets/img/cds/post-images/blog-manual.png">
 
 Each person had to fill this in, and then share it with the team. This enabled us to talk through our work styles that don’t always come up organically in conversation. We’ve since used variations of this tool across other product teams at CDS, and created a [bilingual digital version](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit) for everyone on our wider teams to update frequently. 
 
 We also used a tool from the Atlassian Team Playbook called “[***Roles and Responsibilities***](https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities)” to define and chart each person's skills, contributions, and needs.
 
-<html><img width="100%" alt="The Roles and Responsibilities tool to better understand team members contributions." src="/assets/img/cds/post-images/blog-roles.png"></html>
+<img width="100%" alt="The Roles and Responsibilities tool to better understand team members contributions." src="/assets/img/cds/post-images/blog-roles.png">
 
 Download a copy of the [Roles and Responsibilities tool](https://drive.google.com/drive/u/0/folders/1YYD5VFYyKD5ryy0QcKcabSEy4YGG0Nac).
 
@@ -46,15 +46,15 @@ Armed with a strategic direction and an improved understanding of how each team 
 
 As our product team worked iteratively, conducting a lot of testing with users on a biweekly basis, we needed to rapidly make changes to the product we were working on. With this, there was a need to translate all the insights we gathered from research into design interventions that could be implemented by our developers in a timely way before our next round of testing. Working in this way, we realized we needed line of sight into each others’ tasks, to link researchers, designers, developers, and all other members of the team.
 
-<html><img src="/assets/img/cds/post-images/translating-EN-01.svg" alt="Translating. Research into insights into issues into design interventions into Github issues into dev implementation."></html>
+<img src="/assets/img/cds/post-images/translating-EN-01.svg" alt="Translating. Research into insights into issues into design interventions into Github issues into dev implementation.">
 
 As a team, we used [Trello](https://trello.com/) to manage our product backlog and keep track of who was working on what during each sprint. In addition, we created a secondary board, called our Decision Dashboard, that enabled us to document the issues users experienced during each round of testing. As a team, we reviewed these issues and considered how we might tackle them through various design and development interventions. We created detailed cards that describe the changes needed, and attached the original “issue” cards they related back to. This way, we can trace every decision back to a research insight. Once a card is ready to be picked up by a developer, we move it to our “in progress” column and duplicate it to our general trello board to officially incorporate it into a sprint.
 
-<html><img width="100%" alt="The Decision Dashboard on Trello is split into five lists with these headings: Issues, Service Recommendations, Icebox - Design Interventions, In Progress, and Completed." src="/assets/img/cds/post-images/blog-ircc-dashboard.png"></html>
+<img width="100%" alt="The Decision Dashboard on Trello is split into five lists with these headings: Issues, Service Recommendations, Icebox - Design Interventions, In Progress, and Completed." src="/assets/img/cds/post-images/blog-ircc-dashboard.png">
 
 Developers are engaged throughout the design process in meetings, research activities, and on the decision dashboard. In an effort to help our entire team keep track of all the changes needed, we also open issues directly in [GitHub](https://github.com/cds-snc/ircc-rescheduler) outlining all the details developers need to know. GitHub allows us to engage with developers in a way that is familiar and productive to their existing workflow structure. GitHub also allows members of the public to raise inquiries and issues they experience as they check in on the iterations of the services we build. This has been particularly helpful on our IRCC product work, as we’ve continued to gain insights 
 
-<html><img width="100%" alt="The GitHub interface shows changes that have been implemented with issues that have been closed." src="/assets/img/cds/post-images/blog-eman-screenshot.png"></html>
+<img width="100%" alt="The GitHub interface shows changes that have been implemented with issues that have been closed." src="/assets/img/cds/post-images/blog-eman-screenshot.png">
 
 As we strive to *work in the open*, it’s not just about how we operate externally with the public. It’s a frame that we can apply internally across all product teams. These ways of working made it easier for our product team to communicate and keep track of each other. As CDS grows and builds larger teams that include members from partner departments, creating shared processes that address the unique needs of multidisciplinary teams and their members is more important than ever. **Larger teams need not be synonymous with larger challenges.**
 
