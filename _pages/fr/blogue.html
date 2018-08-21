@@ -46,7 +46,7 @@ pagination:
 							{% endcase %}
 							{{ post.date | date: "%Y" }}
 						</div>
-				        	<div class="summary">{{post.excerpt | strip_html | truncatewords:75}}</div>
+				        	<div class="summary">{{ post.description }}</div>
 				        	<div class="readmore"><a href="{{ post.url }}" aria-label="Lire la suite de {{ post.title }}">Lire davantage</a></div>
 				        </div>
 				    </div>
