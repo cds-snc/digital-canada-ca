@@ -30,7 +30,7 @@ During our initial orientation as a team, we used a tool called “[***A User Ma
 
 <img width="100%" alt="The User Manual for Me tool with eight boxes where you can indicate work style preferences, such as times I like to work or the best way to communicate with me." src="/assets/img/cds/post-images/blog-manual.png">
 
-Each person had to fill this in, and then share it with the team. This enabled us to talk through our work styles that don’t always come up organically in conversation. We’ve since used variations of this tool across other product teams at CDS, and created a [bilingual digital version](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit) for everyone on our wider teams to update frequently. 
+Each person had to fill this in, and then share it with the team. This enabled us to talk through our work styles that don’t always come up organically in conversation. We’ve since used variations of this tool across other product teams at CDS, and created a [bilingual digital version](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit#slide=id.g3bf878e576_0_30) for everyone on our wider teams to update frequently. 
 
 We also used a tool from the Atlassian Team Playbook called “[***Roles and Responsibilities***](https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities)” to define and chart each person's skills, contributions, and needs.
 
