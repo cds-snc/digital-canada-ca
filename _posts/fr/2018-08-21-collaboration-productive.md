@@ -4,7 +4,7 @@ description: "Au Service numérique canadien (SNC), nous formons nos équipes de
 author: Eman El-Fayomi, chef intérimaire de la conception
 date: 2018-08-21 09:00:00 -0400
 image: blog-productive-collaboration.jpg
-image-alt: 
+image-alt: L'équipe de produit se réunit autour du tableau de print lors d'une réunion quotidienne.
 lang: fr
 layout: cds/post
 trans_url: "/2018/08/21/productive-collaboration"
