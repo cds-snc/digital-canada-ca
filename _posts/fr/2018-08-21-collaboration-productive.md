@@ -30,7 +30,7 @@ Au cours de notre première séance d’orientation en équipe, nous avons utili
 
 <img width="100%" alt="L'outil Manuel de l'utilisateur pour moi qui offre huit cases où les préférences de travail peuvent être indiquées dont les heures auxquels j'aime travailler et les meilleures façons de communiquer avec moi." src="/assets/img/cds/post-images/blog-manual-fr.png">
 
-Chaque personne devait remplir cet outil, puis le partager avec l’équipe. Cela nous a permis de discuter de nos styles de travail, un sujet qui ne ressort pas toujours naturellement dans nos conversations. Depuis, nous avons utilisé des variantes de cet outil parmi d’autres équipes de produits du SNC et avons créé une [version numérique bilingue](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit#slide=id.g3bf878e576_0_30) pour que les membres de nos équipes élargies puissent la mettre à jour fréquemment.
+Chaque personne devait remplir cet outil, puis le partager avec l’équipe. Cela nous a permis de discuter de nos styles de travail, un sujet qui ne ressort pas toujours naturellement dans nos conversations. Depuis, nous avons utilisé des variantes de cet outil parmi d’autres équipes de produits du SNC et avons créé une [version numérique bilingue](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit#slide=id.g3fd0daa6c4_0_0) pour que les membres de nos équipes élargies puissent la mettre à jour fréquemment.
 
 Nous avons également utilisé un outil du guide de travail d’équipe d’Atlassian appelé [Roles and Responsibilities](https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities) (Rôles et responsabilités) pour définir et préciser les compétences, les contributions et les besoins de chaque personne.
 
