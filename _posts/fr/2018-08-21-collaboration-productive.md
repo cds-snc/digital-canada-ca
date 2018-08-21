@@ -36,7 +36,7 @@ Nous avons également utilisé un outil du guide de travail d’équipe d’Atla
 
 <img width="100%" alt="L'outil des Rôles et responsabilités pour mieux comprendre les contributions de tous les membres de l'équipe." src="/assets/img/cds/post-images/blog-roles-fr.png">
 
-Télécharger une copie de l’outil [Rôles et responsabilités](https://drive.google.com/drive/u/0/folders/1YYD5VFYyKD5ryy0QcKcabSEy4YGG0Nac) en français.
+Télécharger une copie de l’outil [Rôles et responsabilités](https://drive.google.com/a/cds-snc.ca/file/d/1DKI3I9_pTFAjRnVK_tlCYsGJ_jVQub0q/view?usp=sharing) en français.
 
 Nous avons utilisé cet outil en y ajoutant une petite variante. Premièrement, nous l’avons rempli en pensant strictement à nous-mêmes. Plutôt que d’arrêter l’exercice là, chacun d’entre nous s’est associé à un autre membre de l’équipe pour remplir de nouveau cette feuille, cette fois en nous concentrant sur la façon dont nous percevions le rôle de l’autre personne, sans lui en parler d’abord. Par la suite, nous avons fait une mise en commun, et à tour de rôle, chaque personne a lu ce qu’elle avait écrit pour elle-même, partagé ce qu’elle avait écrit au sujet des autres et participé à une discussion sur nos perceptions par rapport à la réalité. Ce processus nous a permis de nous mettre tous sur la même longueur d’onde quant à notre contribution à l’équipe et aux façons dont nous pouvons nous appuyer les uns sur les autres et apprendre les uns des autres.
 
