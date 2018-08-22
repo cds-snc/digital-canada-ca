@@ -40,17 +40,17 @@ pagination:
 		<ul class="blogpost-paginator">
 			{% if paginator.first_page and paginator.page != paginator.first_page %}
 				<li class="pagination">
-					<a href="{{paginator.first_page_path | prepend: site.baseurl }}">First</a>
+					<a href="{{paginator.first_page_path | prepend: site.baseurl | remove: "index.html" }}">First</a>
 				</li>
 			{% endif %}
 			{% for trail in paginator.page_trail %}
 				<li class = "pagination {% if page.url == trail.path %}active{% endif %} " >
-					<a href="{{trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num}}</a>
+					<a href="{{trail.path | prepend: site.baseurl | remove: "index.html" }}" title="{{trail.title}}">{{ trail.num}}</a>
 				</li>
 			{% endfor %}
 			{% if paginator.last_page and paginator.page != paginator.last_page %}
 				<li class="pagination">
-					<a href="{{paginator.last_page_path | prepend: site.baseurl }}">Last</a>
+					<a href="{{paginator.last_page_path | prepend: site.baseurl | remove: "index.html" }}">Last</a>
 				</li>
 			{% endif %}
 		</ul>
