@@ -82,15 +82,6 @@ exec:
     
 team:
 
-  - name: Annie Leblond
-    title:
-      en: Communications
-      fr: Communications
-    image-name: annie-leblond.jpg
-    twitter: leblond_annie
-    linkedin: annieleblond
-    email: Annie.Leblond@tbs-sct.gc.ca
-
   - name: Anik Brazeau
     title:
       en: Communications
@@ -107,14 +98,6 @@ team:
     image-name: bethany-dunfield.jpg
     github: brdunfield
     email: Bethany.Dunfield@tbs-sct.gc.ca
-
-  - name: Brianne Matheson
-    title:
-      en: Partnerships Assistant
-      fr: Adjointe aux partenariats
-    image-name: brianne-matheson.jpg
-    twitter: bri_matheson1
-    linkedin: brianne-matheson-8bba74132
 
   - name: Charlotte Pedersen
     title:
@@ -165,15 +148,6 @@ team:
     linkedin: davetoeg
     email: dave.toeg@tbs-sct.gc.ca
 
-  - name: David Buckley
-    title:
-      en: Developer | Data Scientist
-      fr: Développeur | Scientifique des données
-    image-name: david-buckley.jpg
-    linkedin: david-buckley-0aba5783
-    github: buckley-w-david
-    email: david.buckley@tbs-sct.gc.ca
-
   - name: Eman El-Fayomi
     title:
       en: Design | User Experience (UX)
@@ -182,15 +156,6 @@ team:
     twitter: emanelfy
     linkedin: eelfayomi
     email: Eman.El-Fayomi@tbs-sct.gc.ca
-    
-  - name: Emma Wootton
-    title:
-      en: Design
-      fr: Conception
-    image-name: emma-wootton.jpg
-    twitter: ewootwoot
-    linkedin: emma-wootton-b15553b1
-    email: Emma.Wootton@tbs-sct.gc.ca
 
   - name: Eva Demers-Brett
     title:
@@ -238,14 +203,6 @@ team:
       fr: Opérations | Dotation
     image-name: jessica-loadenthal.jpg
     email: Jessica.Loadenthal@tbs-sct.gc.ca
-
-  - name: Kelsey Harris
-    title:
-      en: Events | Capacity Building
-      fr: Évènements | Renforcement de la capacité
-    image-name: kelsey-harris.jpg
-    linkedin: kelsey-harris-39373b139
-    email: Kelsey.Harris@tbs-sct.gc.ca
 
   - name: Klara Steele
     title:
@@ -334,7 +291,6 @@ team:
     linkedin: ilovedesign
     email: michelle.ngai@tbs-sct.gc.ca
 
-
   - name: Mike Williamson
     title:
       en: Developer | Data
@@ -376,15 +332,6 @@ team:
     image-name: priyanka-rahman.jpg
     linkedin: priyanka-rahman-5b91a8145
     email: Priyanka.Rahman@tbs-sct.gc.ca
-
-  - name: Raluca Ene
-    title:
-      en: Code For Canada Fellow | UX Designer
-      fr: Associée de Code for Canada | Designer UX
-    image-name: raluca-ene.jpg
-    email: raluca.ene@tbs-sct.gc.ca
-    twitter: eneraluca
-    linkedin: eneraluca
 
   - name: Samantha Sadasivan
     title:
