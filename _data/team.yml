@@ -8,6 +8,15 @@ exec:
     linkedin: aaronsnow
     email: aaron.snow@tbs-sct.gc.ca
     github: aaronsnow
+    
+  - name: Alex MacEachern
+    title:
+      en: Chief of Staff to the CEO
+      fr: Chef de cabinet au Dirigeant principal
+    image-name: alex-maceachern.jpg
+    twitter: amaceachern123
+    linkedin: alexandra-maceachern-4b0209b2
+    email: Alex.MacEachern@tbs-sct.gc.ca
 
   - name: Anatole Papadopoulos
     title:
@@ -81,23 +90,12 @@ exec:
     email: Wendy.Luciani@tbs-sct.gc.ca
     
 team:
-
-  - name: Alex MacEachern
-    title:
-      en: Chief of Staff
-      fr: Chef de Cabinet
-    image-name: alex-maceachern.jpg
-    twitter: amaceachern123
-    linkedin: alexandra-maceachern-4b0209b2
-    email: Alex.MacEachern@tbs-sct.gc.ca
     
   - name: Alexa Davidson
     title:
       en: Operations | Staffing
       fr: Opérations | Dotation
     image-name: alexa-davidson.jpg
-    twitter: 
-    linkedin: 
     email: Alexa.Davidson@tbs-sct.gc.ca
   
   - name: Anik Brazeau
@@ -257,7 +255,7 @@ team:
     image-name: liam-davidson.jpg
     twitter: 
     linkedin: liamdavidson
-    email: Liam.Davidson@tbs-scit.gc.ca
+    email: Liam.Davidson@tbs-sct.gc.ca
 
   - name: Lucas Cherkewski
     title:
@@ -428,12 +426,14 @@ team:
       fr: Concepteur de contenu
     image-name: zak-kain.jpg
     twitter: zakkain
+    email: zachary.kain@tbs-sct.gc.ca
 
   - name: Zoe Langevin
     title:
-      en: 
-      fr: 
+      en: Operations | Administration
+      fr: Opérations | Administration
     image-name: zoe-langevin.jpg
+    email: zoe.langevin@tbs-sct.gc.ca
 
   # - name:
   #   title:
