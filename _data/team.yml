@@ -248,15 +248,6 @@ team:
     email: leon.lukashevsky@codefor.ca
     github: leonL
 
-  - name: Liam Davidson
-    title:
-      en: Design
-      fr: Conception
-    image-name: liam-davidson.jpg
-    twitter: 
-    linkedin: liamdavidson
-    email: Liam.Davidson@tbs-sct.gc.ca
-
   - name: Lucas Cherkewski
     title:
       en: Policy | Advice
@@ -428,12 +419,12 @@ team:
     twitter: zakkain
     email: zachary.kain@tbs-sct.gc.ca
 
-  - name: Zoe Langevin
+  - name: Zoe Ritchford
     title:
       en: Operations | Administration
       fr: Opérations | Administration
-    image-name: zoe-langevin.jpg
-    email: zoe.langevin@tbs-sct.gc.ca
+    image-name: zoe-richford.jpg
+    email: zoe.richford@tbs-sct.gc.ca
 
   # - name:
   #   title:
