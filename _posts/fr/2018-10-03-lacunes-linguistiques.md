@@ -4,7 +4,7 @@ description: "Les technologies modernes sont formidables, mais le monde de la te
 author: Eva Demers-Brett, développeuse
 date: 2018-10-03 09:00:00 -0400
 image: blog-language-gap.png
-image-alt: 
+image-alt: Un caniche français et un bouledogue anglais assis devant des ordinateurs portables.
 lang: fr
 layout: cds/post
 trans_url: "/2018/10/03/language-gap"
