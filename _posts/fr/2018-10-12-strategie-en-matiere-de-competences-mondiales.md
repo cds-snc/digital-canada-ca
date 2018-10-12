@@ -20,7 +20,7 @@ En juin 2017, IRCC a lancé la [Stratégie en matière de compétences mondiales
 
 Le programme est entre autres ouvert aux personnes originaires de pays qui n’ont pas besoin de visa, et dont le métier figure dans les [Codes de la Classification nationale des professions](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/entree-express/admissibilite/trouver-classification-nationale-professions.html) (Codes de la CNP) « O » et « A » : professions techniques et de la gestion. Si le candidat est dispensé d’une [étude d’impact sur le marché du travail (EIMT)](http://www.cic.gc.ca/francais/centre-aide/reponse.asp?qnum=163&top=17) et qu’il appartient au code de la CNP « O » ou « A », il peut alors bénéficier d’un traitement accéléré.
 
-<img width="100%" alt="L’aileron d’un avion qui vole au-dessus du Canada enneigé." src="/assets/img/cds/post-images/blog-global-skills-strategy-2.jpg">
+<img width="100%" alt="L’aileron d’un avion qui vole au-dessus du Canada enneigé." src="/assets/img/cds/post-images/blog-global-skills-strategy-1.jpg">
 
 Le cas de Kylie nous a permis d’essayer pour la première fois la Stratégie en matière de compétences mondiales. Notre objectif était que Kylie se joigne à l’équipe en janvier 2018. Voici ce qui a été fait :
 
