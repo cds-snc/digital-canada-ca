@@ -18,7 +18,7 @@ We want to provide the best service possible for our new hires and support them 
 
 In June 2017, IRCC launched the [Global Skills Strategy](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-foreign-worker/temporary/global-skills-strategy.html) to help firms recruit highly skilled workers in competitive knowledge sectors, including technology. With its two-week service standard to fast-track work permits for high-skilled talent, this was a potential tool to hire Kylie. The big question was whether or not we could use it. Indeed we can.
 
-Among other pathways, the program is eligible to people from non-visa-requiring countries and belonging to [National Occupation Codes](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html) (NOC codes) “O” and “A”: managerial and technical professions. If the candidate is exempt from a [Labour Market Impact Assessment (LMIA)](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=163&top=17) and belongs to NOC code “O” or “A”, a fast-track process is possible.
+Among other pathways, the program is eligible to people belonging to [National Occupation Codes](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html) (NOC codes) “0” and “A”: managerial and technical professions and exempt from a [Labour Market Impact Assessment](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=163&top=17) (LMIA).
 
 <img width="100%" alt="Airplane wingtip over a snowy Canada." src="/assets/img/cds/post-images/blog-global-skills-strategy-1.jpg">
 
