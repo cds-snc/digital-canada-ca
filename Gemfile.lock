@@ -28,16 +28,16 @@ GEM
       yell (~> 2.0)
     i18n (1.1.0)
       concurrent-ruby (~> 1.0)
-    jekyll (3.4.3)
+    jekyll (3.6.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
-      kramdown (~> 1.3)
-      liquid (~> 3.0)
+      kramdown (~> 1.14)
+      liquid (~> 4.0)
       mercenary (~> 0.3.3)
       pathutil (~> 0.9)
-      rouge (~> 1.7)
+      rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
     jekyll-feed (0.9.3)
       jekyll (~> 3.3)
@@ -47,8 +47,8 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    kramdown (1.16.2)
-    liquid (3.0.6)
+    kramdown (1.17.0)
+    liquid (4.0.1)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -66,10 +66,10 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
-    rouge (1.11.1)
+    rouge (2.2.1)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
-    sass (3.5.6)
+    sass (3.6.0)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -90,14 +90,14 @@ PLATFORMS
 DEPENDENCIES
   font-awesome-sass (>= 5.2.0)
   html-proofer (>= 3.8.0)
-  jekyll (= 3.4.3)
+  jekyll (>= 3.6.3)
   jekyll-feed (~> 0.9, >= 0.9.3)
   jekyll-paginate-v2 (>= 1.9.4)
   rake
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.3.6p384
+   ruby 2.5.1p57
 
 BUNDLED WITH
    1.16.6
