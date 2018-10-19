@@ -1,6 +1,6 @@
 ---
 title: "Hello, <strike>World</strike> Canada"
-description: "CDS is just over one year old, and having had the ~~honor~~ honour of serving with this team for six months now, I’m well overdue to write a few words here. Let me start with this: I wake up every day excited about what we do and what lies ahead."
+description: "CDS is just over one year old, and having had the <strike>honor</strike> honour of serving with this team for six months now, I’m well overdue to write a few words here. Let me start with this: I wake up every day excited about what we do and what lies ahead."
 author: Aaron Snow, Chief Executive Officer
 date: 2018-10-19 09:00:00 -0400
 image: blog-hello-world-canada.png
@@ -10,7 +10,7 @@ layout: cds/post
 trans_url: "/2018/10/19/bonjour-le-monde-canada"
 ---
 
-Hello! CDS is just over one year old, and having had the honor honour of serving with this team for six months now, I’m well overdue to write a few words here.
+Hello! CDS is just over one year old, and having had the ~~honor~~ honour of serving with this team for six months now, I’m well overdue to write a few words here.
 
 Let me start with this: I wake up every day excited about what we do and what lies ahead.
 
