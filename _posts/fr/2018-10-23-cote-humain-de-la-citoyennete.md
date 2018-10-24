@@ -87,7 +87,7 @@ Cela est particulièrement utile parce que d’autres services peuvent maintenan
 <img width="100%" alt="La page de confirmation indique que la demande a bien été reçue, les étapes suivantes et les coordonnées d’IRCC." src="/assets/img/cds/post-images/blog-human-story-confirmation-fr.png">
 <p class="translation-caption">Avis de réception immédiat de la page de confirmation et clarté quant à la suite du processus.</p>
 
-Vous pouvez essayer une version démo du nouveau service en ligne ici.
+Vous pouvez essayer une version démo du nouveau service en ligne [ici](https://vancouver.rescheduler-dev.cds-snc.ca/).
 
 ## Résultats
 

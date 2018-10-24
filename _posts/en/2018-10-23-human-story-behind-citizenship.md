@@ -86,7 +86,7 @@ This is particularly helpful because other services can now also work in this wa
 <img width="100%" alt="The confirmation page shows that the request has been received and indicates next steps and contact information." src="/assets/img/cds/post-images/blog-human-story-confirmation-en.png">
 <p class="translation-caption">The confirmation page provides immediate acknowledgement of receipt, and clarity on what happens next</p>
 
-You can try a demo version of the new online service here.
+You can try a demo version of the new online service [here](https://vancouver.rescheduler-dev.cds-snc.ca/).
 
 ## Outcomes
 
