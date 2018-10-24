@@ -26,7 +26,7 @@ Nos partenaires de la Direction générale de l’expérience client à IRCC ont
 
 Ensemble, nous avons trouvé deux points sensibles et nous avons entrepris de les régler.
 
-<img width="100%" alt="Citizenship test centre in Ottawa, Ontario" src="/assets/img/cds/post-images/blog-human-story-citizenship2.png">
+<img width="100%" alt="Un drapeau canadien et un signe qui montre où les cérémonies et les examens de citoyenneté ont lieu." src="/assets/img/cds/post-images/blog-human-story-citizenship2.png">
 <p class="translation-caption">Centre d’examen de la citoyenneté à Ottawa (Ontario)</p>
 
 ## 1. Avis de convocation
@@ -37,7 +37,7 @@ Les gens qui demandent la citoyenneté viennent de 23 pays différents et parlen
 
 Vers la fin du processus de citoyenneté, vous recevez une lettre vous avisant de la date de votre examen. Voici à quoi ressemblait cette lettre :
 
-<img width="100%" alt="" src="/assets/img/cds/post-images/notice-to-appear-French.png">
+<img width="100%" alt="La lettre originale s’intitule “Avis de convocation” et est dense avec du texte." src="/assets/img/cds/post-images/notice-to-appear-French.png">
 * Le titre « AVIS DE CONVOCATION » donne un ton sévère et sonne comme une citation à comparaître.
 * Le « langage gouvernemental » est impersonnel et compliqué.
 * Le niveau de lecture est le double de celui du Canadien moyen.
@@ -68,7 +68,7 @@ Nous avons pu nous rendre compte à quel point les gens avaient peur de demander
 
 Nous avons entrepris de rendre le processus plus facile tant pour le public que pour le personnel. Voici ce que nous avons fait :
 
-<img width="100%" alt="" src="/assets/img/cds/post-images/notice-to-appear-French2.png">
+<img width="100%" alt="La nouvelle lettre qui a été conçue est moins dense et plus personnelle offrant des félécitations à la personne qui a atteint l’étape suivante du processus de citoyenneté. Cette lettre offre également une liste avec tous les documents à apporter au rendez-vous. Il y a également un large bouton pour demander un nouveau rendez-vous." src="/assets/img/cds/post-images/notice-to-appear-French2.png">
 
 * Amélioration du ton, suppression du « langage gouvernemental » et utilisation d’un langage positif
 * Contenu clair, simple et facile à comprendre
@@ -78,13 +78,13 @@ Maintenant, lorsqu’une personne doit reporter son examen, elle doit suivre le 
 
 Cela est particulièrement utile parce que d’autres services peuvent maintenant fonctionner de cette façon également. La réception de toutes les demandes par l’intermédiaire du service en ligne aide également le personnel du bureau local en conservant tout dans un seul canal, soit sa boîte de réception.
 
-<img width="100%" alt="" src="/assets/img/cds/post-images/blog-human-story-reason-fr.png">
+<img width="100%" alt="On pose la question: “Quelle est la raison du report?” avec les options de réponses “Voyage (d’affaires ou vacances), Raisons médicales, Travail ou études, Raisons familiales, et Autre raison”" src="/assets/img/cds/post-images/blog-human-story-reason-fr.png">
 <p class="translation-caption">La liste de vérification à boutons radio rassure les gens quant à la validité de leurs besoins (voyages, études, travail).</p>
 
-<img width="100%" alt="" src="/assets/img/cds/post-images/blog-human-story-family-fr.png">
+<img width="100%" alt="Une boîte à cocher demande si vous avez besoin de reporter le rendez-vous pour un ou plusieurs membres de votre famille. Une boîte pour texte vous permet de préciser les noms de chacuns des membres pour qui vous désirez reporter le rendez-vous." src="/assets/img/cds/post-images/blog-human-story-family-fr.png">
 <p class="translation-caption">La case à cocher « famille » garde les groupes familiaux ensemble.</p>
 
-<img width="100%" alt="" src="/assets/img/cds/post-images/blog-human-story-confirmation-fr.png">
+<img width="100%" alt="La page de confirmation indique que la demande a bien été reçue, les étapes suivantes et les coordonnées d’IRCC." src="/assets/img/cds/post-images/blog-human-story-confirmation-fr.png">
 <p class="translation-caption">Avis de réception immédiat de la page de confirmation et clarté quant à la suite du processus.</p>
 
 Vous pouvez essayer une version démo du nouveau service en ligne ici.

@@ -24,7 +24,7 @@ Our partners in the client experience branch at IRCC have been [leading departme
 
 Together we found two major pain points and set out to fix them.
 
-<img width="100%" alt="Citizenship test centre in Ottawa, Ontario" src="/assets/img/cds/post-images/blog-human-story-citizenship2.png">
+<img width="100%" alt="A Canadian flag with a sign showing where Citizenship Ceremonies and Test Sessions take place." src="/assets/img/cds/post-images/blog-human-story-citizenship2.png">
 <p class="translation-caption">Citizenship test centre in Ottawa, Ontario</p>
 
 ## 1. Notice to appear
@@ -35,7 +35,7 @@ People applying for citizenship come from 23 different countries and speak 190 l
 
 Towards the end of the citizenship process, you get a letter in the mail notifying you about your test date. Here’s what this letter looked like:
 
-<img width="100%" alt="" src="/assets/img/cds/post-images/notice-to-appear-English.png">
+<img width="100%" alt="The original letter is titled “Notice to Appear” and is dense with text." src="/assets/img/cds/post-images/notice-to-appear-English.png">
 
 * NOTICE TO APPEAR sets a harsh tone and feels like a summons
 * ‘government speak’ is impersonal and complicated
@@ -67,7 +67,7 @@ We heard first hand how scared people were to ask, fearing their whole citizensh
 
 We set out to make the process smoother for both members of the public and staff. Here’s what we did.
 
-<img width="100%" alt="" src="/assets/img/cds/post-images/notice-to-appear-English2.png">
+<img width="100%" alt="The newly designed letter is less dense and more personal congratulating the recipient on reaching the next step of the citizenship process. It also provides a checklist with items to bring to the appointment. There is a large button at the bottom to request a new appointment." src="/assets/img/cds/post-images/notice-to-appear-English2.png">
 
 * Improved tone, removed ‘government speak’ and used positive language
 * Clear, simple, and easy to understand
@@ -77,13 +77,13 @@ Now, when someone needs to reschedule their test, they follow the link in the em
 
 This is particularly helpful because other services can now also work in this way. Having all requests come through the online service also helps local office staff by keeping everything in a single channel — their email inbox.
 
-<img width="100%" alt="" src="/assets/img/cds/post-images/blog-human-story-reason-en.png">
+<img width="100%" alt="Question asking “Why are you rescheduling?” with the options “Travel (business or vacation), Medical, Work or school, Family, and Other”" src="/assets/img/cds/post-images/blog-human-story-reason-en.png">
 <p class="translation-caption">The radio button checklist reassures people their needs are valid (travel, study, work)</p>
 
-<img width="100%" alt="" src="/assets/img/cds/post-images/blog-human-story-family-en.png">
+<img width="100%" alt="A checkbox asks whether you need to reschedule your family too. A text box allows you to enter the full name for each family member you want to reschedule." src="/assets/img/cds/post-images/blog-human-story-family-en.png">
 <p class="translation-caption">The family checkbox keeps family groups together</p>
 
-<img width="100%" alt="" src="/assets/img/cds/post-images/blog-human-story-confirmation-en.png">
+<img width="100%" alt="The confirmation page shows that the request has been received and indicates next steps and contact information." src="/assets/img/cds/post-images/blog-human-story-confirmation-en.png">
 <p class="translation-caption">The confirmation page provides immediate acknowledgement of receipt, and clarity on what happens next</p>
 
 You can try a demo version of the new online service here.
