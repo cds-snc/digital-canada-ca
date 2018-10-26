@@ -7,7 +7,7 @@ image: blog-building-a-research-plan.png
 image-alt: Female hands unwrap brown paper with coffee to the left and purple flowers to the right.
 lang: en
 layout: cds/post
-trans_url: "/2018/10/26/elaborer-un-plan-de-researche"
+trans_url: "/2018/10/26/elaborer-un-plan-de-recherche"
 ---
 
 A good discovery phase arms you with all the information you need to define the problem(s) you want to solve. Our discovery phase helped gather evidence that there’s a need for more awareness amongst Veterans on how to access the many programs, services, and benefits available to them through Veterans Affairs Canada (VAC).
