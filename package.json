@@ -1,5 +1,5 @@
 {
-  "name": "website-reboot",
+  "name": "digital-canada-ca",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -23,9 +23,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cds-snc/website-reboot.git"
+    "url": "git+https://github.com/cds-snc/digital-canada-ca.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/cds-snc/website-reboot#readme"
+  "homepage": "https://github.com/cds-snc/digital-canada-ca#readme"
 }
