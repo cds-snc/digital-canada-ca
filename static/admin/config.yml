@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: master # Branch to update (optional; defaults to master)
-  repo: cds-snc/website-reboot
+  repo: cds-snc/digital-canada-ca
   base_url: https://f1jj4za18c.execute-api.us-east-1.amazonaws.com
   auth_endpoint: /production/auth
 publish_mode: editorial_workflow
