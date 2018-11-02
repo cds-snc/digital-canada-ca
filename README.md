@@ -13,7 +13,7 @@ Run site:
 Both languages will be hosted at localhost:1313 and localhost:1414 respectively.
 
 To get Netlfy up and running:
-```npm insteall```
+```npm install```
 
 
 ```npm run dev```
