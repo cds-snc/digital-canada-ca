@@ -1,0 +1,3 @@
+{{ range .Translations }}
+    <a href="{{ .Permalink }}" lang="{{.Language}}" >{{ i18n "lang-switch-label"}}</a>
+{{ end }}

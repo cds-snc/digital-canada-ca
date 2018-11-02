@@ -1,0 +1,374 @@
+exec:
+  - email: aaron.snow@tbs-sct.gc.ca
+    github: aaronsnow
+    image-name: /img/cds/aaron-snow.jpg
+    linkedin: aaronsnow
+    name: Aaron Snow
+    title:
+      en: Chief Executive Officer
+      fr: Dirigeant principal
+    twitter: aaronsnow
+  - email: Alex.MacEachern@tbs-sct.gc.ca
+    image-name: /img/cds/alex-maceachern.jpg
+    linkedin: alexandra-maceachern-4b0209b2
+    name: Alex MacEachern
+    title:
+      en: Chief of Staff to the CEO
+      fr: Chef de cabinet au Dirigeant principal
+    twitter: amaceachern123
+  - email: Anatole.Papadopoulos@tbs-sct.gc.ca
+    image-name: /img/cds/anatole-papadopoulos.jpg
+    linkedin: anatole-papadopoulos-845a431
+    name: Anatole Papadopoulos
+    title:
+      en: Executive Director
+      fr: Directeur exécutif
+    twitter: anatolep
+  - email: Andrea.Gilbrook@tbs-sct.gc.ca
+    image-name: /img/cds/andrea-gilbrook.jpg
+    linkedin: andreagilbrook
+    name: Andrea Gilbrook
+    title:
+      en: Head of Talent
+      fr: Responsable du talent
+    twitter: andreagilbrook
+  - email: Christopher.Govias@tbs-sct.gc.ca
+    image-name: /img/cds/chris-govias.jpg
+    linkedin: cgovias
+    name: Chris Govias
+    title:
+      en: Chief of Design
+      fr: Chef de la conception
+    twitter: cgovias
+  - email: John.Millons@tbs-sct.gc.ca
+    image-name: /img/cds/john-millons.jpg
+    name: John Millons
+    title:
+      en: Policy | Engagement
+      fr: Politiques | Mobilisation
+    twitter: JohnMillons
+  - email: Mario.Garneau@tbs-sct.gc.ca
+    github: mcman12
+    image-name: /img/cds/mario-garneau.jpg
+    name: Mario Garneau
+    title:
+      en: Tech | Delivery
+      fr: Technologies | Prestation
+    twitter: mcman12
+  - email: Pascale.Elvas@tbs-sct.gc.ca
+    image-name: /img/cds/pascale-elvas.jpg
+    linkedin: pascaleelvas
+    name: Pascale Elvas
+    title:
+      en: Senior Director
+      fr: Directrice principale
+    twitter: PascaleElvas
+  - email: Ross.Ferguson@tbs-sct.gc.ca
+    image-name: /img/cds/ross-ferguson.jpg
+    linkedin: rossferguson
+    name: Ross Ferguson
+    title:
+      en: Product Lead
+      fr: Chef de produit
+    twitter: rossferg
+  - email: Wendy.Luciani@tbs-sct.gc.ca
+    image-name: /img/cds/wendy-luciani.jpg
+    linkedin: wmluciani
+    name: Wendy Luciani
+    title:
+      en: Partnership Lead
+      fr: Chef des partenariats
+    twitter: wmluciani
+team:
+  - email: Alexa.Davidson@tbs-sct.gc.ca
+    image-name: /img/cds/alexa-davidson.jpg
+    name: Alexa Davidson
+    title:
+      en: Operations | Staffing
+      fr: Opérations | Dotation
+  - email: Anik.Brazeau@tbs-sct.gc.ca
+    image-name: /img/cds/anik-brazeau.jpg
+    linkedin: anikbrazeau
+    name: Anik Brazeau
+    title:
+      en: Communications
+      fr: Communications
+    twitter: brazeauanik
+  - email: Bethany.Dunfield@tbs-sct.gc.ca
+    github: brdunfield
+    image-name: /img/cds/bethany-dunfield.jpg
+    name: Bethany Dunfield
+    title:
+      en: Developer
+      fr: Développeur
+  - email: Charlotte.Pedersen@tbs-sct.gc.ca
+    image-name: /img/cds/charlotte-pedersen.jpg
+    linkedin: charlottepedersen371
+    name: Charlotte Pedersen
+    title:
+      en: Capacity Building | Engagement
+      fr: Renforcement de la capacité | Mobilisation
+  - email: Courtney.Claessens@tbs-sct.gc.ca
+    image-name: /img/cds/courtney-claessens.jpg
+    linkedin: courtneyclaessens
+    name: Courtney Claessens
+    title:
+      en: Product Manager
+      fr: Gestionnaire de produits
+  - email: Damien.Trudel@tbs-sct.gc.ca
+    image-name: /img/cds/damien-trudel.jpg
+    name: Damien Trudel
+    title:
+      en: Security Lead
+      fr: Responsable des questions de sécurité
+  - github: danprime
+    image-name: /img/cds/daniel-tse.jpg
+    linkedin: danielmktse
+    name: Daniel Tse
+    title:
+      en: Code For Canada Fellow | Product Manager
+      fr: Associé de Code for Canada | Gestionnaire de produits
+    twitter: danprime
+  - github: dsamojlenko
+    image-name: /img/cds/dave-samojlenko.jpg
+    name: Dave Samojlenko
+    title:
+      en: Developer | DevOps
+      fr: Développeur | Développement et Exploitation
+    twitter: dsamojlenko
+  - email: dave.toeg@tbs-sct.gc.ca
+    image-name: /img/cds/dave-toeg.jpg
+    linkedin: davetoeg
+    name: Dave Toeg
+    title:
+      en: Senior Advisor | Partnerships
+      fr: Conseiller principal aux partenariats
+    twitter: davetoeg
+  - email: Eman.El-Fayomi@tbs-sct.gc.ca
+    image-name: /img/cds/eman-el-fayomi.jpg
+    linkedin: eelfayomi
+    name: Eman El-Fayomi
+    title:
+      en: Design | User Experience (UX)
+      fr: Conception | Expérience utilisateur
+    twitter: emanelfy
+  - email: Eva.Demers-Brett@tbs-sct.gc.ca
+    github: evadb
+    image-name: /img/cds/eva-demers-brett.jpg
+    name: Eva Demers-Brett
+    title:
+      en: Developer
+      fr: Développeuse
+    twitter: evadbee
+  - email: Hillary.Lorimer@tbs-sct.gc.ca
+    image-name: /img/cds/hillary-lorimer.jpg
+    linkedin: hillary-b-lorimer
+    name: Hillary Lorimer
+    title:
+      en: Design | Insights
+      fr: Conception | Perception
+    twitter: hillarylorimer
+  - image-name: /img/cds/james-mickle.jpg
+    linkedin: james-mickle-4b012796
+    name: James Mickle
+    title:
+      en: Policy | Research
+      fr: Politique | Recherche
+    twitter: james_mickle
+  - email: jennifer.fletcher@tbs-sct.gc.ca
+    image-name: /img/cds/jennifer-fletcher.jpg
+    name: Jennifer Fletcher
+    title:
+      en: Advisor | Partnerships
+      fr: Conseillère | Partenariats
+  - email: Jennifer.Morin@tbs-sct.gc.ca
+    image-name: /img/cds/jennifer-morin.jpg
+    name: Jennifer Morin
+    title:
+      en: Operations | Staffing
+      fr: Opérations | Dotation
+  - email: Jessica.Loadenthal@tbs-sct.gc.ca
+    image-name: /img/cds/jessica-loadenthal.jpg
+    name: Jessica Loadenthal
+    title:
+      en: Operations | Staffing
+      fr: Opérations | Dotation
+  - email: Klara.Steele@tbs-sct.gc.ca
+    image-name: /img/cds/klara-steele.jpg
+    name: Klara Steele
+    title:
+      en: Capacity Building | Policy
+      fr: Renforcement de la capacité | Politiques
+  - email: kylie.havelock@cds-snc.ca
+    image-name: /img/cds/kylie-havelock.jpg
+    linkedin: kylie-havelock-36175645
+    name: Kylie Havelock
+    title:
+      en: Senior Product Manager
+      fr: Gestionnaire de produits principale
+    twitter: kyliehavelock
+  - email: leon.lukashevsky@codefor.ca
+    github: leonL
+    image-name: /img/cds/leon-lukashevsky.jpg
+    linkedin: le0nl
+    name: Leon Lukashevsky
+    title:
+      en: Code For Canada Fellow | Developer
+      fr: Associé de Code for Canada | Développeur
+    twitter: le0nL
+  - email: Lucas.Cherkewski@tbs-sct.gc.ca
+    github: lchski
+    image-name: /img/cds/lucas-cherkewski.jpg
+    linkedin: lchski
+    name: Lucas Cherkewski
+    title:
+      en: Policy | Advice
+      fr: Politique | Conseil
+    twitter: lchski
+  - email: Lyn.Elliott@tbs-sct.gc.ca
+    image-name: /img/cds/lyn-elliott.jpg
+    name: Lyn Elliott
+    title:
+      en: Storyteller
+      fr: Conteuse
+  - email: Lynn.Chalati@tbs-sct.gc.ca
+    image-name: /img/cds/lynn-chalati.jpg
+    linkedin: lynn-chalati-aaa9218a
+    name: Lynn Chalati
+    title:
+      en: Communications
+      fr: Communications
+    twitter: LynnChalati
+  - github: maxneuvians
+    image-name: /img/cds/max-neuvians.jpg
+    linkedin: maxneuvians
+    name: Max Neuvians
+    title:
+      en: Developer | Data
+      fr: Développeur | Données
+  - email: Meera.Cunningham@tbs-sct.gc.ca
+    image-name: /img/cds/meera-cunningham.jpg
+    name: Meera Makim Cunningham
+    title:
+      en: Operations | Staffing
+      fr: Opérations | Dotation
+  - email: michelle.ngai@tbs-sct.gc.ca
+    image-name: /img/cds/michelle-ngai.jpg
+    linkedin: ilovedesign
+    name: Michelle Ngai
+    title:
+      en: Design | User Experience
+      fr: Conception | Expérience utilisateur
+    twitter: itsMichelleNgai
+  - email: mike.williamson@tbs-sct.gc.ca
+    github: sleepycat
+    image-name: /img/cds/mike-williamson.jpg
+    name: Mike Williamson
+    title:
+      en: Developer | Data
+      fr: Développeur | Données
+    twitter: dexterchief
+  - email: Mithula.Naik@tbs-sct.gc.ca
+    image-name: /img/cds/mithula-naik.jpg
+    name: Mithula Naik
+    title:
+      en: Design | Insights
+      fr: Conception | Perception
+  - email: nick.makuch@tbs-sct.gc.ca
+    github: nmakuch
+    image-name: /img/cds/nick-makuch.jpg
+    name: Nick Makuch
+    title:
+      en: Design | Multimedia
+      fr: Design | Multimédia
+    twitter: makuch_nick
+  - email: paul.craig@tbs-sct.gc.ca
+    github: pcraig3
+    image-name: /img/cds/paul-craig.jpg
+    name: Paul Craig
+    title:
+      en: Developer
+      fr: Développeur
+    twitter: pcraig3
+  - email: Priyanka.Rahman@tbs-sct.gc.ca
+    image-name: /img/cds/priyanka-rahman.jpg
+    linkedin: priyanka-rahman-5b91a8145
+    name: Priyanka Rahman
+    title:
+      en: Operations | Recruitment
+      fr: Opérations | Recrutement
+  - email: samantha.sadasivan@tbs-sct.gc.ca
+    image-name: /img/cds/sam-sadasivan.jpg
+    linkedin: samsadasivan
+    name: Samantha Sadasivan
+    title:
+      en: Design | Service Design
+      fr: Conception | Conception de services
+    twitter: samsadasivan
+  - email: Sana.Qureshi@tbs-sct.gc.ca
+    image-name: /img/cds/sana-qureshi.jpg
+    linkedin: sana-qureshi-35206a11
+    name: Sana Qureshi
+    title:
+      en: Operations | Recruitment
+      fr: Opérations | Recrutement
+  - github: sboots
+    image-name: /img/cds/sean-boots.jpg
+    linkedin: seanboots
+    name: Sean Boots
+    title:
+      en: Tech | Advice
+      fr: Technologies | Conseils
+    twitter: sboots
+  - email: Stephen.McMurtry@tbs-sct.gc.ca
+    image-name: /img/cds/stephen-mcmurtry.jpg
+    linkedin: stephen-mcmurtry-1b4a8879
+    name: Stephen McMurtry
+    title:
+      en: Developer | Data
+      fr: Développeur | Données
+    twitter: StephenMcMurtry
+  - email: steve.astels@tbs-sct.gc.ca
+    github: sastels
+    image-name: /img/cds/steve-astels.jpg
+    linkedin: sastels
+    name: Steve Astels
+    title:
+      en: Developer | Data
+      fr: Développeur | Données
+    twitter: sastels
+  - email: steven.zinck@tbs-sct.gc.ca
+    github: szinck1
+    image-name: /img/cds/steve-zinck.jpg
+    linkedin: stevezinck
+    name: Steve Zinck
+    title:
+      en: Platform | DevOps
+      fr: Platformes | DevOps
+    twitter: szinck
+  - email: Steven.Talbot@tbs-sct.gc.ca
+    image-name: /img/cds/steven-ray-talbot.jpg
+    name: Stevie-Ray Talbot
+    title:
+      en: Policy | Data
+      fr: Politiques | Données
+    twitter: StevieRayTalbot
+  - email: Tim.Arney@tbs-sct.gc.ca
+    image-name: /img/cds/tim-arney.jpg
+    name: Tim Arney
+    title:
+      en: Developer
+      fr: Développeur
+  - email: zak.kain@cds-snc.ca
+    image-name: /img/cds/zak-kain.jpg
+    name: Zak Kain
+    title:
+      en: Content Designer
+      fr: Concepteur de contenu
+    twitter: zakkain
+  - email: zoe.richford@tbs-sct.gc.ca
+    image-name: /img/cds/zoe-richford.jpg
+    name: Zoe Ritchford
+    title:
+      en: Operations | Administration
+      fr: Opérations | Administration

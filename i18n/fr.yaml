@@ -1,0 +1,90 @@
+404:
+  other: "Page introuvable"
+about-this-site:
+  other: "À propos du site"
+aria-canada-website:
+  other: "Gouvernement du Canada"
+blog:
+  other: "Blogue"
+canada-ca-link:
+  other: "https://www.canada.ca/fr.html"
+canada-ca:
+  other: "Visiter Canada.ca"
+canadian-digital-service: 
+  other: "Service numérique canadien"
+close:
+  other: 'Fermer'
+contact-us:
+  other: "Contactez-nous"
+email:
+  other: "courriel"
+ga:
+  other: 'UA-102484926-2'
+goc:
+  other: "Gouvernement du Canada"
+goc-symbol:
+  other: "Symbole du gouvernement du Canada"
+hiring:
+  other: "Nous embauchons"
+homepage-tag-line:
+  other: "Les gens s’attendent à ce que les services gouvernementaux soient simples et faciles à utiliser."
+in-flight:
+  other: "Produits en cours"
+key-contacts:
+  other: "Contacts"
+language-code:
+  other: "fr-ca"
+language-selection:
+  other: "Sélection de la langue"
+lang-switch-label:
+  other: English
+links:
+  other: "Liens"
+meet-the-full-team:
+  other: "Rencontrer l'équipe"
+next-post:
+  other: "Prochaine billet"
+our-team:
+  other: "Notre équipe"
+partner:
+  other: "Partenaire"
+past-products:
+  other: "Produits terminés"
+pause:
+  other: "Pause"
+play:
+  other: "Lecture"
+previous-post: 
+  other: "Billet précédent"
+privacy-link:
+  other: "/transparence/confidentialite/"
+privacy:
+  other: "Confidentialité"
+products:
+  other: "Produits"
+read-more:
+  other: "Lire davantage"
+rss-feed-url:
+  other: "/blogue/index.xml"
+skip-to-content:
+  other: "Passer au contenu principal"
+terms-and-conditions:
+  other: "Avis"
+terms-link: 
+  other: "/transparence/avis/"
+top-of-page:
+  other: "Haut de la page"
+trans-abbr-switch:
+  other: "en"
+trans-abbr:
+  other: "fr"
+trans-base-url:
+  other: "http://digital.canada.ca"
+twitter:
+  other: SNC_GC
+view-product:
+  other: "Voir ce produit"
+work-with-us:
+  other: "Travaillez avec nous"
+what-we-do:
+  other: "Ce que nous faisons"

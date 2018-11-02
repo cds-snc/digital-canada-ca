@@ -1,0 +1,110 @@
+{{ define "main" }}
+
+  {{ .Content }}
+  
+  <section class="section our-team--listing">
+      <h2 class="section--title">{{ i18n "key-contacts" }}</h2>
+  
+    <div class="container">
+      <div class="row team-listing exec wb-eqht">
+        {{ range $member := $.Site.Data.team.exec }}
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="team-member">
+    
+            <div class="photo-container">
+              <div class="photo" style="background-image: url('{{ index $member "image-name" }}');"></div>
+            </div>
+    
+            <div class="text">
+              <span class="name">{{ $member.name }}</span>
+              <span class="title" >{{ index $member.title (string ( $.Site.Language) ) }}</span>
+              <div class="social-links">
+                {{ if ne $member.email nil }}
+                  <span class="social-icons">
+                    <a href="mailto:{{ $member.email }}" aria-label="Link to {{ $member.name }}'s Email">
+                      <i class="fa fa-envelope" aria-hidden="true"></i>
+                    </a>
+                  </span>
+                {{ end }}
+                {{ if ne $member.twitter nil }}
+                  <span class="social-icons">
+                    <a href="https://twitter.com/{{ $member.twitter }}" aria-label="Link to {{ $member.name }}'s Twitter Account">
+                      <i class="fab fa-twitter" aria-hidden="true"></i>
+                    </a>
+                  </span>
+                {{ end }}
+                {{ if ne $member.linkedin nil }}
+                  <span class="social-icons">
+                    <a href="https://linkedin.com/in/{{ $member.linkedin }}" aria-label="Link to {{ $member.name }}'s Linkedin Profile">
+                      <i class="fab fa-linkedin" aria-hidden="true"></i>
+                    </a>
+                  </span>
+                {{ end }}
+                {{ if ne $member.github nil }}
+                  <span class="social-icons">
+                    <a href="https://github.com/{{ $member.github }}" aria-label="Link to {{ $member.name }}'s GitHub profile">
+                      <i class="fab fa-github-alt" aria-hidden="true"></i>
+                    </a>
+                  </span>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  
+    <h2 class="section--title">{{i18n "meet-the-full-team"}}</h2>
+  
+    <div class="container">
+      <div class="row team-listing wb-eqht">
+        {{ range $member := .Site.Data.team.team }}
+        <div class="col-xs-12 col-sm-6 col-md-4">
+          <div class="team-member">
+  
+              <div class="photo-container">
+                <div class="photo" style="background-image: url('{{ index $member "image-name" }}');"></div>
+              </div>
+  
+              <div class="text">
+                <span class="name">{{ $member.name }}</span>
+                <span class="title">{{ index $member.title (string ( $.Site.Language) ) }}</span>
+                <div class="social-links">
+                  {{ if ne $member.email nil }}
+                    <span class="social-icons">
+                      <a href="mailto:{{ $member.email }}" aria-label="Link to {{ $member.name }}'s Email">
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                      </a>
+                    </span>
+                  {{ end }}
+                  {{ if ne $member.twitter nil }}
+                    <span class="social-icons">
+                      <a href="https://twitter.com/{{ $member.twitter }}" aria-label="Link to {{ $member.name }}'s Twitter account">
+                        <i class="fab fa-twitter" aria-hidden="true"></i>
+                      </a>
+                    </span>
+                  {{ end }}
+                  {{ if ne $member.linkedin nil }}
+                    <span class="social-icons">
+                      <a href="https://ca.linkedin.com/in/{{ $member.linkedin }}" aria-label="Link to {{ $member.name }}'s LinkedIn Profile">
+                        <i class="fab fa-linkedin" aria-hidden="true"></i>
+                      </a>
+                    </span>
+                  {{ end }}
+                  {{ if ne $member.github nil }}
+                    <span class="social-icons">
+                      <a href="https://github.com/{{ $member.github }}" aria-label="Link to {{ $member.name }}'s GitHub profile">
+                        <i class="fab fa-github-alt" aria-hidden="true"></i>
+                      </a>
+                    </span>
+                  {{ end }}
+                </div>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+{{ end }}

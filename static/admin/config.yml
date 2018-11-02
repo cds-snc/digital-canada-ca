@@ -1,0 +1,218 @@
+backend:
+  name: github
+  branch: master # Branch to update (optional; defaults to master)
+  repo: cds-snc/website-reboot
+  base_url: https://f1jj4za18c.execute-api.us-east-1.amazonaws.com
+  auth_endpoint: /production/auth
+publish_mode: editorial_workflow
+media_folder: "static/img/cds"
+public_folder: "/img/cds"
+collections:
+  - name: "blog"
+    label: "(EN) Blog Post"
+    folder: "content/en/blog/posts"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title / Titre", name: "title", widget: "string"}
+      - {label: "Description / Description", name: "description", widget: "string"}
+      - {label: "Author, Title / Auteur, Titre", name: "author", widget: "string"}
+      - {label: "Publish Date / Date de publication", name: "date", widget: "datetime"}
+      - {label: "Banner Image / Image de la bannière", hint: "Max. 1MB", name: "image", widget: "image"}
+      - {label: "Image Alt-text / Texte alternatif de l'image", name: "image-alt"}
+      - {label: "Blog ID / Identification de blogue", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
+      - {label: "Body / Corps", name: "body", widget: "markdown"}
+  - name: "blogue"
+    label: "(FR) Billet de Blogue"
+    folder: "content/fr/blog/posts"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title / Titre", name: "title", widget: "string"}
+      - {label: "Description / Description", name: "description", widget: "string"}
+      - {label: "Author, Title / Auteur, Titre", name: "author", widget: "string"}
+      - {label: "Publish Date / Date de publication", name: "date", widget: "datetime"}
+      - {label: "Banner Image / Image de la bannière", hint: "Max. 1MB", name: "image", widget: "image"}
+      - {label: "Image Alt-text / Texte alternatif de l'image", name: "image-alt"}
+      - {label: "Blog ID / Identification de blogue", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
+      - {label: "Body / Corps", name: "body", widget: "markdown"}
+  - name: "work-with-us"
+    label: "(EN) Job Postings"
+    folder: "content/en/work-with-us/positions"
+    create: true
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting" }
+      - { label: "Type", name: "type", widget: "hidden", default: "section" }
+      - { label: "Title / Titre", name: "title", widget: "string" }
+      - { label: "Description / Description", name: "description", widget: "string"}
+      - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
+      - { label: "Posting ID / Identification de l’affichage", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
+      - { label: "Body / Corps", name: "body", widget: "markdown"}
+  - name: "travaillez-avec-nous"
+    label: "(FR) Carrières"
+    folder: "content/fr/work-with-us/positions"
+    create: true
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting" }
+      - { label: "Type", name: "type", widget: "hidden", default: "section" }
+      - { label: "Title / Titre", name: "title", widget: "string" }
+      - { label: "Description / Description", name: "description", widget: "string"}
+      - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
+      - { label: "Posting ID / Identification de l’affichage", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
+      - { label: "Body / Corps", name: "body", widget: "markdown"}
+  - name: "products"
+    label: "(EN) Products"
+    folder: "content/en/products/products"
+    create: true
+    fields:
+      - { label: "Title / Titre", name: "title", widget: "string", required: true }
+      - { label: "Description / Description", name: "description", widget: "text" }
+      - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: false}
+      - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery", "alpha", "beta", "live"], required: true}
+      - { label: "Product ID / Key", name: "translationKey", widget: "string", required: true }
+      - label: "Partner(s) / Le(s) partenaire(s)"
+        name: "partners"
+        widget: "list"
+        fields:
+          - { label: "Partner Name / Nom du partenaire", name: "name", widget: "string", required: true }
+          - { label: "Partner Link / Lien vers le site du partenaire", name: "url", widget: "string" }
+      - { label: "Status / État", name: "status", widget: "select", options: ["in-flight", "past"], required: true}
+      - label: "Links / Liens"
+        name: "list"
+        widget: "list"
+        fields:
+          - { label: "Name / Text - Nom / Texte", name: "name", widget: "string", required: true }
+          - { label: "URL / Lien URL", name: "url", widget: "string", required: true }
+  - name: "produits"
+    label: "(FR) Produits"
+    folder: "content/fr/products/products"
+    create: true
+    fields:
+      - { label: "Title / Titre", name: "title", widget: "string", required: true }
+      - { label: "Description / Description", name: "description", widget: "text" }
+      - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: false}
+      - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery", "alpha", "beta", "live"], required: true}
+      - { label: "Product ID / Key", name: "translationKey", widget: "string", required: true }
+      - label: "Partner(s) / Le(s) partenaire(s)"
+        name: "partners"
+        widget: "list"
+        fields:
+          - { label: "Partner Name / Nom du partenaire", name: "name", widget: "string", required: true }
+          - { label: "Partner Link / Lien vers le site du partenaire", name: "url", widget: "string" }
+      - { label: "Status / État", name: "status", widget: "select", options: ["in-flight", "past"], required: true}
+      - label: "Links / Liens"
+        name: "list"
+        widget: "list"
+        fields:
+          - { label: "Name / Text - Nom / Texte", name: "name", widget: "string", required: true }
+          - { label: "URL / Lien URL", name: "url", widget: "string", required: true }
+  - name: "datafiles"
+    label: "Data Files"
+    files:
+      - label: "Menu"
+        name: menu
+        file: "config.yaml"
+        fields:
+          - label: languages
+            name: languages
+            widget: list
+            fields:
+              - label: en
+                name: en
+                widget: object
+                fields:
+                  - label: menu
+                    name: menu
+                    widget: object
+                    fields:
+                      - label: main
+                        name: main
+                        widget: list
+                        fields:
+                          - {label: identifier, name: identifier, widget: string}
+                          - {label: name, name: name, widget: string}
+                          - {label: url, name: url, widget: string}
+                          - {label: weight, name: weight, widget: number}
+              - label: fr
+                name: fr
+                widget: object
+                fields:
+                  - label: menu
+                    name: menu
+                    widget: object
+                    fields:
+                      - label: main
+                        name: main
+                        widget: list
+                        fields:
+                          - {label: identifier, name: identifier, widget: string}
+                          - {label: name, name: name, widget: string}
+                          - {label: url, name: url, widget: string}
+                          - {label: weight, name: weight, widget: number}
+      - label: "Team"
+        name: "team"
+        file: "data/team.yml"
+        fields:
+          - label: exec
+            name: exec
+            widget: list
+            fields:
+              - {label: name, name: name, widget: string}
+              - label: title
+                name: title
+                widget: object
+                fields:
+                  - {label: en, name: en, widget: string}
+                  - {label: fr, name: fr, widget: string}
+              - {label: image-name, name: image-name, widget: image}
+              - {label: twitter, name: twitter, widget: string}
+              - {label: linkedin, name: linkedin, widget: string}
+              - {label: email, name: email, widget: string}
+              - {label: github, name: github, widget: string}
+          - label: team
+            name: team
+            widget: list
+            fields:
+              - {label: name, name: name, widget: string}
+              - label: title
+                name: title
+                widget: object
+                fields:
+                  - {label: en, name: en, widget: string}
+                  - {label: fr, name: fr, widget: string}
+              - {label: image-name, name: image-name, widget: image}
+              - {label: twitter, name: twitter, widget: string}
+              - {label: linkedin, name: linkedin, widget: string}
+              - {label: email, name: email, widget: string}
+              - {label: github, name: github, widget: string}
+      - label: "CDS Contact Info"
+        name: "contact"
+        file: "data/contact.yml"
+        fields:
+          - {label: email, name: email, widget: string}
+          - {label: youtube, name: youtube, widget: string}
+          - {label: github, name: github, widget: string}
+          - {label: linkedin, name: github, widget: string}
+          - label: medium
+            name: medium
+            widget: object
+            fields:
+              - label: en
+                name: en
+                widget: object
+                fields:
+                  - {label: name, name: name, widget: string}
+                  - {label: url, name: url, widget: string}
+              - label: fr
+                name: fr
+                widget: object
+                fields:
+                  - {label: name, name: name, widget: string}
+                  - {label: url, name: url, widget: string}
+
+exclude:
+ - admin/index.js
+ - webpack.config.js
+ - package.json
+ - README.md
+ - node_modules/

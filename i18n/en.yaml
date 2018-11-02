@@ -1,0 +1,90 @@
+404:
+  other: "Page not Found"
+aria-canada-website:
+  other: "Government of Canada"
+aria-cds-website: 
+  other: "Canadian Digital Service"
+blog:
+  other: "Blog"
+canada-ca: 
+  other: "Visit Canada.ca"
+canada-ca-link:
+  other: "https://www.canada.ca/en.html"
+canadian-digital-service:
+  other: "Canadian Digital Service"
+close:
+  other: "Close"
+contact-us:
+  other: "Contact us"
+email:
+  other: "email"
+ga:
+  other: 'UA-102484926-1'
+goc:
+  other: "Government of Canada"
+goc-symbol:
+  other: "Symbol of the Government of Canada"
+hiring:
+  other: "We're hiring"
+homepage-tag-line:
+  other: "People expect government services to be simple and easy to use."
+in-flight:
+  other: "In flight products"
+key-contacts:
+  other: "Key Contacts"
+language-code:
+  other: "en-ca"
+language-selection:
+  other: "Language selection"
+lang-switch-label:
+  other: "Français"
+links:
+  other: "Links"
+meet-the-full-team: 
+  other: "Meet the Full Team"
+next-post:
+  other: "Next post"
+our-team:
+  other: "Our team"
+partner:
+  other: "Partner"
+past-products:
+  other: "Past Products"
+pause:
+  other: "Pause"
+play:
+  other: "Play"
+previous-post:
+  other: "Previous post"
+privacy:
+  other: "Privacy"
+privacy-link: 
+  other: "/legal/privacy/"
+products:
+  other: "Products"
+read-more:
+  other: "Read More"
+rss-feed-url:
+  other: "/blog/index.xml"
+skip-to-content:
+  other: "Skip to main content"
+terms-and-conditions:
+  other: "Terms and Conditions"
+terms-link:
+  other: "/legal/terms/"
+top-of-page:
+  other: "Top of Page"
+trans-abbr-switch:
+  other: "fr"
+trans-abbr:
+  other: "en"
+trans-base-url:
+  other: "http://numerique.canada.ca"
+twitter:
+  other: CDS_GC
+view-product:
+  other: "View this product"
+work-with-us:
+  other: "Work with us"
+what-we-do:
+  other: "What we do"

@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div class="container">
+    <section class="section work-with-us--intro page-intro--outer-container-padding">
+        <div class="row">
+            <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+                <h2 class="section--title">Join CDS</h2>
+                    {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                        <div class="cell-background">
+                            <p><strong>Applications open for a limited time</strong></p>
+                            {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                                <p style="margin-bottom: 0.5rem;">We’re looking to fill these positions as soon as possible:</p>    
+                                <div class="row mrgn-tp-0">
+                                    <ul>
+                                        {{ range $p := (where .Pages ".Params.archived" "==" false) }}
+                                            <li><a href={{ .RelPermalink }}>{{ .Title }}</a></li>
+                                        {{ end }}
+                                    </ul>
+                                </div>
+                            {{ end }}
+                            <p>We're currently hiring in four streams:</p>
+                            <div class="row mrgn-tp-0">
+                                <ul>
+                                    <li><a href="#comms">Communications and engagement</a></li>
+                                    <li><a href="#design">Design</a></li>
+                                    <li><a href="#development">Development</a></li>
+                                    <li><a href="#prod">Product management</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    {{end}}
+
+                <p>We’re building a team of talented, passionate, and driven people to work on some of Canada’s <a href="/2017/08/24/picking-our-projects/">biggest service delivery opportunities</a>. From improving the citizenship process to helping veterans access their benefits, this is an opportunity to make a real impact for your country. <a href="/#mission">Learn more about our mission</a>.</p><h3>The team</h3>
+                <p>Our small, multi-disciplinary teams are made up of developers, designers, researchers, data scientists and product managers. We’re committed to building a team that’s diverse in gender, indigenous heritage, race, disability, age, language and professional background.</p>
+            </div>
+        </div>
+    </section>
+</div>
+
+{{ .Content }}
+
+{{ end }}

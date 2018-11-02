@@ -1,4 +1,4 @@
-[submodule "assets/lib/gcweb-dist"]
-	path = assets/lib/gcweb-dist
+[submodule "static/lib/gcweb-dist"]
+	path = static/lib/gcweb-dist
 	url = https://github.com/wet-boew/themes-dist
 	branch = GCWeb

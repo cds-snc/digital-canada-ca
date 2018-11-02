@@ -1,0 +1,221 @@
+// Font Imports
+@include font-face("HKGrotesk", "../fonts/HKGrotesk-Bold",600);
+@include font-face("HKGrotesk", "../fonts/HKGrotesk-BoldItalic", 600, italic);
+
+@include font-face("HKGrotesk", "../fonts/HKGrotesk-SemiBold",500);
+@include font-face("HKGrotesk", "../fonts/HKGrotesk-SemiBoldItalic",500, italic);
+
+
+@include font-face("HKGrotesk", "../fonts/HKGrotesk-Medium",400);
+@include font-face("HKGrotesk", "../fonts/HKGrotesk-MediumItalic",400, italic);
+
+@include font-face("HKGrotesk", "../fonts/HKGrotesk-Regular",300);
+
+@include font-face("HKGrotesk", " ../fonts/HKGrotesk-Light",100);
+@include font-face("HKGrotesk", " ../fonts/HKGrotesk-LightItalic",100, italic);
+
+@import "font-awesome/fontawesome";
+@import "font-awesome/solid.scss";
+@import "font-awesome/brands.scss";
+
+// CDS Base Styles and Style Overrides
+
+body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
+	font-family	: "HKGrotesk", sans-serif !important;
+}
+
+body {
+	box-sizing	: border-box;
+	overflow-x: hidden;
+	background-color: $bg-color;
+}
+
+a {
+	color 			: $secondary-color;
+	font-weight 	: 500;
+	text-decoration : none;
+	
+	@include mobile-only{
+		font-size: 1.75rem;
+	}
+	
+	@include tablet{
+		font-size: 2rem;
+	}
+	
+	@include desktop{
+		font-size: 2.25rem;
+	}
+
+	&:visited { color: $secondary-color; }
+
+	&:hover {
+		text-decoration : none;
+		color 			: lighten($secondary-color, 15);
+	}
+
+	&:hover:not[class] {
+		text-decoration : none;
+		border-bottom 	: $secondary-color 1px solid;
+	}
+}
+
+p, main ul, main ol {
+	font-weight 	: 100;
+	font-size 		: 1.75rem;
+	position 		: relative;
+
+	@include tablet {
+		font-size 	: 2rem;
+	}
+	
+	@include tv {
+		font-size 	: 2.25rem;
+		line-height: 3.5rem;
+		margin-bottom: 2.75rem;
+	}
+
+	&.lead {
+		font-size 	: 2.25rem ;
+		color 		: $secondary-color;
+
+		@include tablet {
+			font-size 	: 2.5rem;
+			line-height : 1.35em;
+		}
+
+		@include desktop {
+				font-size	: 3rem;
+				font-weight : 100;
+				//line-height : 4.5rem;
+		}
+
+		@include tv {
+			font-size 	: 3.5rem;
+		}
+	}
+}
+
+main p + ul {
+	margin-top:-0.5rem;
+
+	@include tablet {
+		margin-top:-1.0rem;
+	}
+
+	@include desktop {
+		margin-top:-2rem;
+	}
+}
+
+h1, .h1 {
+        padding: 0;
+        margin: 0;
+        font-weight: 100;
+        font-family: "HKGrotesk", sans-serif;
+        border-bottom: none;
+        margin-top: 2rem;
+        color: $white;
+        font-size   : 3rem;
+    	line-height : 1.2em;
+
+        @include mobile_only {
+          padding: 1.5rem 1.5rem;
+        }
+
+        @include tablet {
+          margin-top: 0.5rem;
+          font-size: 7rem;
+          //line-height: 8rem;
+        }
+
+        @include desktop {
+        	font-size: 9rem;
+        	//line-height: 9rem;
+        }
+
+        @include tv {
+          margin-top: 1.5rem;
+          font-size: 10rem;
+          //line-height: 10rem;
+        }
+      }
+
+h2 {
+	font-family: "HKGrotesk", sans-serif;
+	font-weight: 500;
+
+	@include desktop {
+		font-size: 2.75rem;
+		margin: 4.75rem 0 0.5rem 0;
+	}
+}
+
+h3 {
+	font-weight: 300;
+
+	@include tablet {
+		font-size: 2.5rem;
+	}
+
+	@include tv {
+		font-size: 3.5rem;
+	}
+}
+
+.section {
+	padding: 6rem 0;
+	position: relative;
+	z-index: 0;
+//    max-width: 800px;
+//    margin: auto;
+}
+
+.section--title {
+	font-size: 3rem;
+	font-weight:100;
+	position: relative;
+	margin: 1.5rem 0 3.5rem 0 ;
+	padding: 0;
+	text-align: center;
+
+	&::after {
+		content:'';
+		display: block;
+		position: absolute;
+		height: 3px;
+		background: $primary-color;
+		bottom:-1.5rem;
+		width: 5rem;
+		left: 50%;
+		transform: translateX(-50%);
+
+		@include desktop {
+			width: 10%;
+			bottom: -2rem;
+		}
+	}
+
+	@include tablet {
+		font-size: 3.5rem;
+	}
+
+	@include desktop {
+		font-size: 5rem;
+		margin-bottom: 4rem;
+	}
+}
+
+input.error {
+	border: 2px solid red;
+}
+
+.form-group.error {
+	padding-left: 10px;
+	border-left: 4px solid red;
+}
+
+.error-message {
+	color: red;
+}
+

@@ -1,0 +1,68 @@
+{{ define "title" }}
+    <div class="page-banner">     
+        {{ partial "menu.html" . }}
+        <div class="page-banner--tag-line">
+            <div class="container">
+                <section class="page-wide--outer-container-padding">
+                    <div class="row">
+                        <div class="col-sm-offset-1">
+                            <div class="page-banner--tag-line--logo-container col-xs-12 col-sm-3">
+                                <object type="image/svg+xml" tabindex="-1" data="/img/cds/cds-logo-{{ string (.Site.Language) }}.svg" class="page-banner--tag-line--logo"></object>
+                                <h1 class="wb-inv">{{ i18n "canadian-digital-service" }}</h1>
+                            </div>
+                            <div class="h1 col-xs-12 col-sm-8 col-md-8">{{ i18n "homepage-tag-line" }}</div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+{{ end }}
+{{ define "index" }}
+    <section class="section section--featured-blogposts">
+            <div class="container">
+                <h2 class="section--title">Featured blog posts</h2>
+        
+                <div class="row blog-posts">
+
+                    {{ $posts := where .Pages "Section" "blog" }}
+        
+                    {{ range first 4 $posts }}
+                    <div class="col-xs-12 col-sm-4 col-md-3">
+                        <a class="post" href="{{ .RelPermalink }}">
+                            <div class="image" style="background-image:url('{{ .Params.image }}')"></div>
+                            <div class="text">
+                                <h3>{{ .Params.title }}</h3>
+                            <div class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
+                            </div>
+                        </a>
+                    </div>
+                    {{ end }}
+                </div>
+        
+                <div class="button-center">
+                    <a href="/blog">More blog posts</a>
+                </div>
+            </div>
+        </section>
+
+    <section class="section section--contact page-wide--outer-container-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 hidden-xs">
+                        <div class="hiGraphic"></div>
+                    </div>
+                    <div class="col-xs-12 col-sm-6">
+                        <h2>Connect with us!</h2>
+                        {{ partial "contact-info.html" . }}
+                </div>
+            </div>
+        </div>
+    </section>	   
+        
+    <section class="section section--mailing-list">
+        {{ $path := printf "%s%s%s" "mailing-list." (string ($.Site.Language)) ".html" }}
+        {{ partial  $path }}
+    </section>
+
+{{ end }}

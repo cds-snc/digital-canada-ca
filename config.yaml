@@ -1,0 +1,90 @@
+DefaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+  en:
+    baseUrl: https://digital.canada.ca/
+    contentDir: content/en
+    lang: en
+    languageName: English
+    title: Blog
+    Paginate: 5
+    frontmatter:
+      date: [":filename", ":default"]
+    permalinks:
+      blog: /:year/:month/:day/:filename
+      work-with-us: /:title
+    weight: 1
+    menu:
+      main:
+      - identifier: home
+        name: Home
+        url: /
+        weight: 1
+      - identifier: what-we-do
+        name: What we do
+        url: /what-we-do/
+        weight: 2
+      - identifier: products
+        name: Products
+        url: /products/
+        weight: 6
+      - identifier: work-with-us
+        name: Work with us
+        url: /work-with-us/
+        weight: 4
+      - identifier: blog
+        name: Blog
+        url: /blog/
+        weight: 5
+      - identifier: our-team
+        name: Our team
+        url: /our-team/
+        weight: 3
+      - identifier: contact-us
+        name: Contact
+        url: /contact/
+        weight: 7
+      
+  fr:
+    baseUrl: https://numerique.canada.ca/
+    contentDir: content/fr
+    lang: fr
+    languageName: Francais
+    title: Blogue
+    Paginate: 5
+    weight: 2
+    frontmatter:
+      date: [":filename", ":default"]
+    permalinks:
+      blog: /:year/:month/:day/:filename
+      work-with-us: /:title
+    menu:
+      main:
+      - identifier: home
+        name: Home
+        url: /
+        weight: 1
+      - identifier: ce-que-nous-faisons
+        name: Ce que nous faisons
+        url: /ce-que-nous-faisons/
+        weight: 2
+      - identifier: produits
+        name: Produits
+        url: /produits/
+        weight: 6
+      - identifier: travaillez-avec-nous
+        name: Carrières
+        url: /travaillez-avec-nous/
+        weight: 4
+      - identifier: blogue
+        name: Blogue
+        url: /blogue/
+        weight: 5
+      - identifier: notre-equipe
+        name: Notre équipe
+        url: /notre-equipe/
+        weight: 3
+      - identifier: contactez-nous
+        name: Contactez-nous
+        url: /contactez-nous/
+        weight: 7

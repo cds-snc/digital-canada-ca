@@ -1,0 +1,31 @@
+{
+  "name": "website-reboot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^1.0.0",
+    "file-loader": "^1.1.11",
+    "netlify-cms": "^2.0.9",
+    "style-loader": "^0.22.1",
+    "webpack": "^4.16.5"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.0"
+  },
+  "scripts": {
+    "dev": "webpack && hugo server -D",
+    "build": "webpack && hugo",
+    "build_admin": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cds-snc/website-reboot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/cds-snc/website-reboot#readme"
+}

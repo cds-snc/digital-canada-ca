@@ -1,0 +1,64 @@
+{{define "title"}}
+  {{partial "menu.html" . }}
+  {{ with .Params.imagealt }}
+    <div class="page-banner" role="img" aria-label="{{ .Params.imagealt }}" style="background-image: url('{{ .Params.image }}')"></div>
+  {{ else }}
+    <div class="page-banner" style="background-image:url('{{ .Params.image }}')"></div>
+  {{ end }}
+{{end}}
+
+{{define "main"}}  
+  <div class="container">
+  <section class="page--outer-container-padding">
+    <div class="row">
+      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+        {{ with index .Params "image-translation" }}
+          <div class="header-translation"><strong>Traduction&nbsp;:&nbsp;</strong>{{ index .Params "image-translation" }}</div>
+        {{ end }}
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-header">
+            <span class="blogpost-pretitle">
+              <a href="/blog/">{{i18n "blog"}}</a>
+            </span>
+            <h1>{{ .Params.title | markdownify }}</h1>
+            <p class="post-meta">
+              <time datetime="{{ .Params.date }}" itemprop="datePublished">
+                {{ .Date.Format "Jan 2, 2006" }}
+              </time>          
+              <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                <span itemprop="name">{{ .Params.author }}</span>
+              </span>
+            </p>
+          </div>
+          <div class="post-content" itemprop="articleBody">
+              {{ .Content }}
+          </div>
+
+        </article>
+        <div class="previous-next-nav">
+            <div class="pull-left text-left mrgn-bttm-lg col-md-6 col-sm-12">
+                {{with .NextInSection }}
+                <a href="{{ .RelPermalink }}">
+                  <span class="fa fa-arrow-left"></span>
+                  {{i18n "next-post"}}<span class="wb-inv">:</span>
+                  <h5 class="mrgn-lft-md mrgn-tp-0 mrgn-bttm-0">{{ .Params.title | markdownify }}</h5>
+                </a>
+                {{end}}
+              </div>
+            
+              <div class="pull-right text-right mrgn-bttm-lg col-md-6 col-sm-12">
+                {{with .PrevInSection }}
+                <a href="{{ .RelPermalink }}">{{i18n "previous-post"}}<span class="wb-inv">:</span>
+                  <span class="fa fa-arrow-right"></span>
+                  <h5 class="mrgn-rght-md mrgn-tp-0 mrgn-bttm-0">{{ .Params.title | markdownify }}</h5>
+                </a>
+                {{ end }}
+              
+                </div>
+              </div>
+            </div>
+          </div>
+          </section>
+  </div>
+{{ end }}

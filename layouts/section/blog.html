@@ -1,0 +1,60 @@
+{{ define "main" }}       
+  <div class="container page-blog--container-padding">
+    <ul class="blogpost-list">
+      {{ range .Paginator.Pages }}
+        {{ .Render "list"}}
+      {{ end }}
+
+      <!-- Set variables for pagination -->
+      {{ $paginator := .Paginator }}
+      {{ $adjacent_links := 2 }}
+      {{ $max_links := (add (mul $adjacent_links 2) 1)}}
+      {{ $lower_limit := (add $adjacent_links 1) }}
+      {{ $upper_limit := (sub .Paginator.TotalPages $adjacent_links )}}
+
+      {{ if gt .Paginator.TotalPages 1 }}
+      <ul class="blogpost-paginator">
+        {{ if ne .Paginator.PageNumber 1 }}
+          <li class="pagination">
+            <a href="{{.Paginator.First.URL }}">First</a>
+          </li>
+        {{ end }}
+        {{ range $trail := .Paginator.Pagers }}
+          {{ $.Scratch.Set "page_number_flag" false }}
+          {{ if gt $paginator.TotalPages $max_links }}
+            <!-- Complex page number logic -->
+            {{ if le $paginator.PageNumber $lower_limit }}
+              <!-- show pages from 1 to 5 -->
+              {{ if le .PageNumber $max_links }}
+                {{ $.Scratch.Set "page_number_flag" true }}
+              {{ end }}
+            {{ else if ge $paginator.PageNumber $upper_limit }}
+              <!-- show pages from end -5  to end-->
+              {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }}
+                {{ $.Scratch.Set "page_number_flag" true }}
+              {{ end }}
+            {{ else }}
+              <!-- Show middle pages -->
+              {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber $adjacent_links) ) }}
+                {{ $.Scratch.Set "page_number_flag" true }}
+              {{ end }}
+            {{ end }}
+          {{ else }}
+            {{ $.Scratch.Set "page_number_flag" true }}
+          {{ end }}
+          {{ if eq ($.Scratch.Get "page_number_flag") true }}
+            <li class = "pagination {{ if eq . $paginator }}active{{ end }} " >
+              <a href="{{$trail.URL }}">{{ $trail.PageNumber }}</a>
+            </li>
+          {{ end }}
+        {{ end }}
+        {{ if ne .Paginator.PageNumber .Paginator.TotalPages }}
+          <li class="pagination">
+            <a href="{{.Paginator.Last.URL }}">Last</a>
+          </li>
+        {{ end }}
+      </ul>
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
