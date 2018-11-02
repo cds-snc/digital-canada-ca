@@ -1,7 +1,4 @@
-_site
-.sass-cache
-.jekyll-metadata
-.idea
-.DS_Store
-.bundle
-vendor
+node_modules/*
+static/admin/bundle.js
+public/*
+resources/*

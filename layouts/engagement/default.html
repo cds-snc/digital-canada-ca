@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="{{ .Site.Language }}" dir="ltr"><![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="{{ .Site.Language }}" dir="ltr">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+    wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+    <title>{{ .Params.title }} – {{ i18n "canadian-digital-service" }}</title>
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <!-- Meta data -->
+    <meta name="description" content="{{ .Params.description }}">
+
+    <!--[if gte IE 9 | !IE ]><!-->
+    <link href="/lib/gcweb-dist/assets/favicon.ico" rel="icon" type="image/x-icon">
+    <link rel="stylesheet" href="/lib/gcweb-dist/GCWeb/css/theme.min.css">
+
+    {{ $sass := resources.Get "sass/engagement.scss" }}
+    {{ $css := $sass | resources.ToCSS }}
+    <link rel="stylesheet" href="{{ print $css.RelPermalink | replaceRE "^/[a-z]{2}/(.*)" "$1" }}" media="screen" />
+    <!--<![endif]-->
+    <!--[if lt IE 9]>
+    <link href="/lib/gcweb-dist/assets/favicon.ico" rel="shortcut icon" />
+
+    <link rel="stylesheet" href="/lib/gcweb-dist/GCWeb/css/ie8-theme.min.css" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="/lib/gcweb-dist/wet-boew/js/ie8-wet-boew.min.js"></script>
+    <![endif]-->
+    <!--[if lte IE 9]>
+
+    <![endif]-->
+    <noscript>
+        <link rel="stylesheet" href="/lib/gcweb-dist/wet-boew/css/noscript.min.css" />
+    </noscript>
+    <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
+    <script>
+        dataLayer1 = [];
+    </script>
+    <!-- End Google Tag Manager -->
+</head>
+
+<body data-spy="scroll" data-target="#themenav" vocab="http://schema.org/" typeof="WebPage">
+<!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
+<noscript>
+    <iframe title="Google Tag Manager" src="//www.googletagmanager.com/ns.html?id=GTM-TLGQ9K" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer1' ? '&l=' + l : '';
+        j.async = true;
+        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer1', 'GTM-TLGQ9K');
+</script>
+<!-- End Google Tag Manager -->
+<ul id="wb-tphp">
+    <li class="wb-slc">
+        <a class="wb-sl" href="#wb-cont">{{ i18n "skip-to-content" }}</a>
+    </li>
+</ul>
+<header role="banner">
+    <div id="wb-bnr" class="container">
+        <section id="wb-lng" class="visible-md visible-lg text-right">
+            <h2 class="wb-inv">{{ i18n "language-selection" }}</h2>
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="list-inline margin-bottom-none">
+                        <li>
+                            {{ range .Translations }}
+                                <a href="{{ .Permalink }}">{{ i18n "lang-switch-label"}}</a>
+                            {{ end }}
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        <div class="row">
+            <div class="brand col-xs-8 col-sm-9 col-md-6">
+                <a href="https://www.canada.ca/{{ .Site.Language }}.html">
+                    <object type="image/svg+xml" tabindex="-1" data="/img/sig-blk-{{ .Site.Language }}.svg"></object><span class="wb-inv"> {{ i18n "goc" }}</span></a>
+            </div>
+        </div>
+    </div>
+</header>
+<main role="main" property="mainContentOfPage" class="container" id="wb-cont">
+    <!-- <h1 property="name" id="wb-cont">{{ .Params.title }}</h1>  -->
+    {{ .Content }}
+</main>
+
+<footer role="contentinfo" id="wb-info">
+    <div class="brand">
+        <div class="container">
+            <div class="row">
+                <nav class="col-md-10 ftr-urlt-lnk">
+                    <h2 class="wb-inv">{{ i18n "about-this-site" }}</h2>
+                    
+                    {{ partial "footer-links.html" }}
+
+                </nav>
+                <div class="col-xs-6 visible-sm visible-xs tofpg">
+                    <a href="#wb-cont">{{ i18n "top-of-page" }} <span class="glyphicon glyphicon-chevron-up"></span></a>
+                </div>
+                <div class="col-xs-6 col-md-2 text-right">
+                    <object type="image/svg+xml" tabindex="-1" role="img" data="/img/wmms-blk.svg" aria-label='{{ i18n "goc-symbol" }}'></object>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--[if gte IE 9 | !IE ]><!-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+<script src="/lib/gcweb-dist/wet-boew/js/wet-boew.min.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script src="/lib/gcweb-dist/wet-boew/js/ie8-wet-boew2.min.js"></script>
+<![endif]-->
+<script src="/lib/gcweb-dist/GCWeb/js/theme.min.js"></script>
+
+<!-- Extras -->
+<script src="/js/engagement-app.js"></script>
+
+<!-- Bootstrap Scrollspy Plugin -->
+<!-- https://gist.github.com/cf23e89dea6b460358436dec372eafb2 -->
+<!-- With thanks to http://www.budget.gc.ca/2017/js/bootstrap.js -->
+<script src="/bootstrap-affix-scrollspy.js"></script>
+
+<!-- Google Analytics -->
+{{ partial "analytics.html" }}
+
+</body>
+</html>

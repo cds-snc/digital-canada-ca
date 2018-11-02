@@ -1,0 +1,27 @@
+cards:
+  en:
+    - title: test promo card 1
+      text: Test blurb call to action
+      link: "/products/"
+      image: test.jpg
+    - title: test promo card 2
+      text: Test blurb call to action
+      link: "/contact/"
+      image: test.jpg
+    - title: test promo card 3
+      text: Test blurb call to action
+      link: "/work-with-us/"
+      image: test.jpg
+  fr:
+    - title: un
+      text: Test blurb call to action
+      link: "/produits/"
+      image: test.jpg
+    - title: deux
+      text: Test blurb call to action
+      link: "/contact-us/"
+      image: test.jpg
+    - title: trois
+      text: Test blurb call to action
+      link: "/work-with-us/"
+      image: test.jpg

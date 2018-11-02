@@ -1,0 +1,18 @@
+<li class="post">
+    <div class="row">
+        <div class="col-xs-12 col-sm-4">
+            <div class="photo" role="img" aria-label='{{ index .Params "image-alt" }}' style="background-image: url('{{ .Params.image }}')"></div>
+        </div>
+        <div class="col-xs-12 col-sm-8">
+            <div class="text">
+                <div class="title"><a href="{{ .RelPermalink }}"><h2>{{ .Title | markdownify }}</h2></a></div>
+                <div class="author">{{ .Params.author }}</div>
+            <div class="date">
+                {{ .Date.Format "Jan 2, 2006" }}
+            </div>
+                <div class="summary">{{ .Params.description | truncate 300 | markdownify }}</div>
+                <div class="readmore"><a href="{{ .Permalink }}" aria-label="Lire la suite de {{ .Params.title }}">{{ i18n "read-more" }}</a></div>
+            </div>
+        </div>
+    </div>
+</li>

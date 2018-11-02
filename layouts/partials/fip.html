@@ -1,0 +1,19 @@
+<div id="fip">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-4">
+                <a href="https://www.canada.ca/{{ string (.Site.Language) }}.html" class="fip-logo gl-FIP" aria-label="{{ i18n "aria-canada-website" }}">
+                    <object type="image/svg+xml" tabindex="-1" role="img" data="/img/cds/goc--header-logo.svg" aria-label="{{ i18n "goc-symbol" }}" class="logo"></object>
+                </a>
+            </div>
+            <div class="col-xs-8">
+                <section id="wb-lng" class="visible-sm visible-md visible-lg">
+                    <h2>{{ i18n "language-selection" }}</h2>
+                    <div id="lang" class="lang">
+                        {{ partial "langSwitch.html" . }}
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>

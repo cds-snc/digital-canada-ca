@@ -1,0 +1,36 @@
+<nav role="navigation" id="wb-sm" data-trgt="mb-pnl" class="cds-menu" typeof="SiteNavigationElement">
+    <div class="container topbar" id="site--topbar">
+        <h2>{{ i18n "topics-menu" }}</h2>
+        <div class="row">
+            <div class="col-xs-4 col-sm-3">
+                <a href="/" class="cds-logo" role="img" aria-label="{{ i18n "aria-cds-website" }}"></a>
+            </div>
+
+            <div class="nav-container">
+                <div id="js-mobileNav">
+                    <div id="js-mobileNav--closeContainer">
+                        <button id="js-mobileNav--button">
+                            <span class="text">{{ i18n "close" }}</span>
+                            <span class="glyphicon glyphicon-remove close-icon"></span>
+                        </button>
+                    </div>
+                <div class="mobile-lang">{{ partial "langSwitch.html" . }}</div>
+                    <ul class="top-nav">
+                        {{ $title := .Params.title }}
+                        {{ range $menu := .Site.Menus.main }}
+                            <li class="top-nav--link{{ if eq $title .Identifier }} active{{end}}">
+                                <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                            </li>
+                        {{end}}
+                    </ul>
+                </div>
+                <button class="main-nav-button" id="js-mainNavButton">
+                    <span class="main-nav-button--text">Menu</span>
+                    <span class="main-nav-button--button">
+                        <span class="glyphicon glyphicon-th"></span>
+                    </span>
+                </button>
+            </div>
+        </div>
+    </div>
+</nav>
