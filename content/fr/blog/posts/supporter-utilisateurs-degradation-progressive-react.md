@@ -8,7 +8,7 @@ image-alt: Une personne en train de naviguer à travers une gamme d’appareils 
 translationKey: "supporting-users-gracefully-degrading-react"
 ---
 
-Utiliser les technologies modernes peut rendre le développement plus rapide, mais, ultimement, nous devons livrer des solutions fonctionnelles sans sacrifier la robustesse et l’accessibilité. Nous avons créé le service pour « [reporter un examen de citoyenneté](https://rescheduler-dev.cds-snc.ca/?language=fr) » de sorte à repousser les limites de la prestation de services sans toutefois laisser les utilisateurs au dépourvu.
+Utiliser les technologies modernes peut rendre le développement plus rapide, mais, ultimement, nous devons livrer des solutions fonctionnelles sans sacrifier la robustesse et l’accessibilité. Nous avons créé le service pour « [reporter un examen de citoyenneté](https://vancouver.rescheduler-dev.cds-snc.ca/?language=fr) » de sorte à repousser les limites de la prestation de services sans toutefois laisser les utilisateurs au dépourvu.
 
 ## Un service robuste au bénéfice de tous les utilisateurs
 
