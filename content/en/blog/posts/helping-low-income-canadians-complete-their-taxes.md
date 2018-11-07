@@ -13,7 +13,7 @@ image: /img/cds/img_0880.jpg
 image-alt: Someone filling out taxes on paper and holding a mug.
 translationKey: Canadians-complete-taxes
 ---
-Every day, Canadians use government services. As public servants, we exist to design and deliver those services. Many of those services are mission critical to people who need them. What this means is that when people need government services, they are often facing significant hardship. 
+Every day, Canadians use government services. As public servants, we exist to design and deliver those services. Many of those services are mission critical to people who need them. What this means is that when people need government services, they are often facing significant hardship.  
 
 If we fail to provide accessible services, this has a very real impact on people's lives. No-one understands this more than the dedicated Canadians who give their time and energy to run the [Community Volunteer Income Tax Program](https://www.canada.ca/en/revenue-agency/services/tax/individuals/community-volunteer-income-tax-program.html). These volunteers run hundreds of local drop-in clinics all across Canada to help people on modest incomes file their tax returns - quickly, easily, and for free. 
 
