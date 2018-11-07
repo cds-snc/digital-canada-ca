@@ -1266,3 +1266,29 @@ article.post {
 		padding-bottom: 8rem;
 	}
 }
+
+////////////////////////////////////////////////////
+//
+// STORIES
+//
+////////////////////////////////////////////////////
+
+.story-text{
+    background-color: #000000;
+    color: #ffffff;
+    height: 75rem;
+    padding-top: 2rem;
+
+    .container{
+        width: 70%;
+    }
+}
+
+.story-image{
+    padding: 0;
+    .image-container{
+        height: 75rem;
+        background-size: cover;
+        background-position: center center;
+    }
+}
