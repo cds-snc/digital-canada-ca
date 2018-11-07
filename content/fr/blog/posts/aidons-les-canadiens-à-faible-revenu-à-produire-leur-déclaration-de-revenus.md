@@ -11,7 +11,9 @@ author: >-
   numérique canadien)
 date: 2018-11-07T16:00:00.000Z
 image: /img/cds/img_0880.jpg
-image-alt: Quelqu'un produit sa déclaration de revenus sur papier avec une tasse en main.
+image-alt: >-
+  Quelqu'un produit sa déclaration de revenus sur papier avec une tasse en
+  main. 
 translationKey: Canadians-complete-taxes
 ---
 Tous les jours, les Canadiens utilisent les services gouvernementaux. En tant que fonctionnaires, nous assurons la conception et la prestation de ces services. Bon nombre de ces services sont cruciaux pour les gens qui en ont besoin. Cela veut dire que lorsque les gens ont besoin de services gouvernementaux, ils sont souvent confrontés à de sérieuses difficultés. 
