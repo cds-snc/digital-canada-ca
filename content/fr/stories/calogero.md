@@ -5,7 +5,7 @@ archived: false
 layout: story
 type: section
 image: /img/cds/stories-calogero.jpg
-image-alt: "???"
+imagealt: Calogero, un vétéran, rit et sourit debout devant un écran décoratif dans son salon.
 translationKey: calogero
 url: /histoires/calogero
 ---

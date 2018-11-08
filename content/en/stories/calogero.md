@@ -5,7 +5,7 @@ archived: false
 layout: story
 type: section
 image: /img/cds/stories-calogero.jpg
-image-alt: "???"
+imagealt: Calogero, a veteran, laughing and smiling standing in front of a decorative screen in the living room of his home.
 translationKey: calogero
 
 ---
