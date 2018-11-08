@@ -81,8 +81,8 @@ collections:
         name: "list"
         widget: "list"
         fields:
-          - { label: "Name / Text - Nom / Texte", name: "name", widget: "string", required: true }
-          - { label: "URL / Lien URL", name: "url", widget: "string", required: true }
+          - { label: "Name / Text - Nom / Texte", name: "name", widget: "string"}
+          - { label: "URL / Lien URL", name: "url", widget: "string"}
   - name: "produits"
     label: "(FR) Produits"
     folder: "content/fr/products/products"
@@ -104,8 +104,8 @@ collections:
         name: "list"
         widget: "list"
         fields:
-          - { label: "Name / Text - Nom / Texte", name: "name", widget: "string", required: true }
-          - { label: "URL / Lien URL", name: "url", widget: "string", required: true }
+          - { label: "Name / Text - Nom / Texte", name: "name", widget: "string"}
+          - { label: "URL / Lien URL", name: "url", widget: "string"}
   - name: "datafiles"
     label: "Data Files"
     files:
