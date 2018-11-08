@@ -1,7 +1,7 @@
 ---
 title: "Recruteur créatif"
 description: "Nous cherchons un recruteur consultatif et créatif qui viendra faire croître notre équipe. Au programme, une vaste gamme de responsabilités à impact élevé : prendre en charge du recrutement tout au long du cycle, piloter la stratégie d’embauche et offrir au candidat la meilleure expérience possible. Vous devez avoir le profil de l’entrepreneur qui s’épanouit dans un milieu d’apprentissage sans craindre de remettre en question nos façons de faire, de mobiliser des partenaires à l’échelle du gouvernement ou de recevoir des suggestions sur des moyens d’améliorer nos processus."
-archived: false
+archived: true
 translationKey: creative-recruiter
 type: section
 layout: job-posting
