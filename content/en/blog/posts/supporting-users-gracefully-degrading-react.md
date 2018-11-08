@@ -8,7 +8,7 @@ image-alt: A person navigating through a range of devices, including a rotary di
 translationKey: "supporting-users-gracefully-degrading-react"
 ---
 
-Using modern technologies can make development faster, but ultimately we need to deliver working solutions without sacrificing robustness or accessibility. We’ve built the “[Reschedule a citizenship test](https://rescheduler-dev.cds-snc.ca/)” service in a way that pushes service delivery forward without leaving users behind.
+Using modern technologies can make development faster, but ultimately we need to deliver working solutions without sacrificing robustness or accessibility. We’ve built the “[Reschedule a citizenship test](https://vancouver.rescheduler-dev.cds-snc.ca/)” service in a way that pushes service delivery forward without leaving users behind.
 
 ## A robust service benefits all users
 
