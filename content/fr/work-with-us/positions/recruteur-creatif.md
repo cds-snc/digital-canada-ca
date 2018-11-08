@@ -1,10 +1,10 @@
 ---
-title: "Recruteur créatif"
-description: "Nous cherchons un recruteur consultatif et créatif qui viendra faire croître notre équipe. Au programme, une vaste gamme de responsabilités à impact élevé : prendre en charge du recrutement tout au long du cycle, piloter la stratégie d’embauche et offrir au candidat la meilleure expérience possible. Vous devez avoir le profil de l’entrepreneur qui s’épanouit dans un milieu d’apprentissage sans craindre de remettre en question nos façons de faire, de mobiliser des partenaires à l’échelle du gouvernement ou de recevoir des suggestions sur des moyens d’améliorer nos processus."
-archived: false
-translationKey: creative-recruiter
-type: section
 layout: job-posting
+type: section
+title: Recruteur créatif
+description: "Nous cherchons un recruteur consultatif et créatif qui viendra faire croître notre équipe. Au programme, une vaste gamme de responsabilités à impact élevé\_: prendre en charge du recrutement tout au long du cycle, piloter la stratégie d’embauche et offrir au candidat la meilleure expérience possible. Vous devez avoir le profil de l’entrepreneur qui s’épanouit dans un milieu d’apprentissage sans craindre de remettre en question nos façons de faire, de mobiliser des partenaires à l’échelle du gouvernement ou de recevoir des suggestions sur des moyens d’améliorer nos processus."
+archived: true
+translationKey: creative-recruiter
 ---
 
 Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
