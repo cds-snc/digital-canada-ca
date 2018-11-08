@@ -1266,3 +1266,60 @@ article.post {
 		padding-bottom: 8rem;
 	}
 }
+
+////////////////////////////////////////////////////
+//
+// STORIES
+//
+////////////////////////////////////////////////////
+
+.story-text{
+    background-color: $black;
+    color: $white;
+    padding-top: 3rem;
+    height: 75rem;
+
+    @include mobile-only{
+        height: auto;
+        padding-bottom: 3rem;
+        
+        h2{
+            font-size: 2.5rem;
+            margin-top: 3rem;
+        }
+        
+    }
+    @include tablet{
+        height: auto;
+        padding-bottom: 5rem;
+    }
+
+    @include desktop{
+        height: 85rem;
+    }
+
+    .container{
+        width: 70%;
+    }
+}
+
+.story-image{
+    padding: 0;
+
+    .image-container{
+        background-size: cover;
+        background-position: center center;
+
+        @include tablet{
+            height: 50rem;
+        }
+
+        @include desktop{
+            height: 85rem;
+        }
+
+        @include mobile-only{
+            height: 40rem;
+        }
+    }
+}
