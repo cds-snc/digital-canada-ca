@@ -4,7 +4,7 @@ title: Helping Canadians with low income complete their taxes
 description: >-
   Over the next few months, the Canadian Digital Service (CDS) and the CRA will
   be doing extensive research to understand how to improve the experience of
-  filing tax returns for low-income Canadians.
+  filing tax returns for Canadians with low income..
 author: >-
   Nancy McKenna (Canada Revenue Agency) and Kylie Havelock (Canadian Digital
   Service)
