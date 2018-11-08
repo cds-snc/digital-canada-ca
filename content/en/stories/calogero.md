@@ -9,7 +9,7 @@ imagealt: Calogero, a veteran, laughing and smiling standing in front of a decor
 translationKey: calogero
 
 ---
-## Mathematician. Solider. Veteran.
+## Mathematician. Soldier. Veteran.
 ## Also, software tester.
 
 Calogero’s experience protecting Canada’s interests across Europe was invaluable to our work. Thanks to his input, we’ll deliver a simple, intuitive service for Veterans. When people inform how technology is made, it’s a formula for success.
