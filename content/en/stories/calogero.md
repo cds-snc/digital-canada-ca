@@ -5,7 +5,7 @@ archived: false
 layout: story
 type: section
 image: /img/cds/stories-calogero.jpg
-image-alt: Eman and Jennifer looking at the Value Proposition Canvas
+image-alt: "???"
 translationKey: calogero
 ---
 ## Mathematician. Soldier. Veteran.

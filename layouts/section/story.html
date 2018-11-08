@@ -5,12 +5,12 @@
 {{ define "main" }}
     <section class="content">
         <div class="row">
-            <div class="story-text col-sm-4">
+            <div class="story-text col-lg-4 col-md-12">
                 <div class="container">
                     {{ .Content }}
                 </div>
             </div>
-            <div class="story-image col-sm-8">
+            <div class="story-image col-lg-8 col-md-12">
                 <div class="image-container" role="img" aria-label="{{ .Params.imagealt }}" style="background-image: url('{{ .Params.image }}')"></div>
             </div>
         </div>

@@ -1274,10 +1274,29 @@ article.post {
 ////////////////////////////////////////////////////
 
 .story-text{
-    background-color: #000000;
-    color: #ffffff;
+    background-color: $black;
+    color: $white;
+    padding-top: 3rem;
     height: 75rem;
-    padding-top: 2rem;
+
+    @include mobile-only{
+        height: auto;
+        padding-bottom: 3rem;
+        
+        h2{
+            font-size: 2.5rem;
+            margin-top: 3rem;
+        }
+        
+    }
+    @include tablet{
+        height: auto;
+        padding-bottom: 5rem;
+    }
+
+    @include desktop{
+        height: 75rem;
+    }
 
     .container{
         width: 70%;
@@ -1286,9 +1305,21 @@ article.post {
 
 .story-image{
     padding: 0;
+
     .image-container{
-        height: 75rem;
         background-size: cover;
         background-position: center center;
+
+        @include tablet{
+            height: 50rem;
+        }
+
+        @include desktop{
+            height: 75rem;
+        }
+
+        @include mobile-only{
+            height: 40rem;
+        }
     }
 }
