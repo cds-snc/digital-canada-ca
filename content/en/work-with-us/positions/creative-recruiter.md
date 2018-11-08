@@ -1,9 +1,16 @@
 ---
-title: "Creative Recruiter"
-description: "We are looking for a consultative and creative recruiter to scale our team. You can expect high impact and wide-ranging responsibility: owning full-cycle recruiting, driving hiring strategy, and delivering best-in-class candidate experience. You must be a builder who thrives in a learning environment—unafraid to challenge the way we’ve been doing things, engage partners across government and welcome suggestions for how we can iterate on our processes."
-archived: false
 layout: job-posting
 type: section
+title: Creative Recruiter
+description: >-
+  We are looking for a consultative and creative recruiter to scale our team.
+  You can expect high impact and wide-ranging responsibility: owning full-cycle
+  recruiting, driving hiring strategy, and delivering best-in-class candidate
+  experience. You must be a builder who thrives in a learning
+  environment—unafraid to challenge the way we’ve been doing things, engage
+  partners across government and welcome suggestions for how we can iterate on
+  our processes.
+archived: true
 translationKey: creative-recruiter
 ---
 
