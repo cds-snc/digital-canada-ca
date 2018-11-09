@@ -1,11 +1,12 @@
 ---
 title: "Chef de l’ingénierie"
 description: "Nous sommes à la recherche d’une personne pour diriger notre équipe d’ingénierie. À ce titre, vous serez responsable d’établir la vision et le ton, de façonner notre orientation et nos choix techniques, d’évaluer nos besoins et de recruter du personnel pour répondre à ces besoins, ainsi que d’appuyer l’apprentissage et le perfectionnement de l’équipe."
-aliases: [/head-of-engineering/]
+aliases: [/head-of-engineering/,/chef-de-l-ingenierie/]
 url: [/chef-de-l-ingenierie/]
-archived: false
+archived: true
 type: section
 layout: job-posting
+translationKey: head-of-engineering
 ---
 Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
 
