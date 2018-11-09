@@ -1277,7 +1277,6 @@ article.post {
     background-color: $black;
     color: $white;
     padding-top: 3rem;
-    height: 75rem;
 
     @include mobile-only{
         height: auto;
@@ -1295,7 +1294,7 @@ article.post {
     }
 
     @include desktop{
-        height: 85rem;
+        height: 95rem;
     }
 
     .container{
@@ -1315,7 +1314,7 @@ article.post {
         }
 
         @include desktop{
-            height: 85rem;
+            height: 95rem;
         }
 
         @include mobile-only{
