@@ -2,9 +2,10 @@
 title: "Head of Engineering"
 description: "We’re looking for someone to lead our engineering team. As the head of engineering, you’ll set the vision and tone, shape our technical direction and choices, assess our needs and recruit to fulfill them, and support the team’s learning and development."
 aliases: [/head-of-engineering/,/chef-de-l-ingenierie/]
-archived: false
+archived: true
 layout: job-posting
 type: section
+translationKey: head-of-engineering
 ---
 The Canadian Digital Service (CDS) works with federal departments to make the services people depend on simple and easy-to-use. We’re a small but mighty team that is rethinking service design and delivery, engaging users every step of the way. By working in the open, and connecting partners with tools, talent, and training grounded in practice, we’re building capacity across the government for better service delivery. And we need you.
 
