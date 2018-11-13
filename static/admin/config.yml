@@ -66,10 +66,16 @@ collections:
     create: true
     fields:
       - { label: "Title / Titre", name: "title", widget: "string", required: true }
+      - { label: "Product ID / Key", name: "translationKey", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", widget: "string", required: true }
       - { label: "Description / Description", name: "description", widget: "text" }
       - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: false}
       - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery", "alpha", "beta", "live"], required: true}
-      - { label: "Product ID / Key", name: "translationKey", widget: "string", required: true }
+      - label: "Contact"
+        name: "contact"
+        widget: "list"
+        fields:
+          - { label: "Contact Name", name: "name", widget: "string", required: true }
+          - { label: "Email / Courriel", name: "email", widget: "string" }
       - label: "Partner(s) / Le(s) partenaire(s)"
         name: "partners"
         widget: "list"
@@ -80,6 +86,7 @@ collections:
       - label: "Links / Liens"
         name: "list"
         widget: "list"
+        required: false
         fields:
           - { label: "Name / Text - Nom / Texte", name: "name", widget: "string"}
           - { label: "URL / Lien URL", name: "url", widget: "string"}
@@ -89,10 +96,16 @@ collections:
     create: true
     fields:
       - { label: "Title / Titre", name: "title", widget: "string", required: true }
+      - { label: "Product ID / Key", name: "translationKey", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", widget: "string", required: true }
       - { label: "Description / Description", name: "description", widget: "text" }
       - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: false}
       - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery", "alpha", "beta", "live"], required: true}
-      - { label: "Product ID / Key", name: "translationKey", widget: "string", required: true }
+      - label: "Contact"
+        name: "contact"
+        widget: "list"
+        fields:
+          - { label: "Contact Name", name: "name", widget: "string", required: true }
+          - { label: "Email / Courriel", name: "email", widget: "string" }
       - label: "Partner(s) / Le(s) partenaire(s)"
         name: "partners"
         widget: "list"
@@ -103,6 +116,7 @@ collections:
       - label: "Links / Liens"
         name: "list"
         widget: "list"
+        required: false
         fields:
           - { label: "Name / Text - Nom / Texte", name: "name", widget: "string"}
           - { label: "URL / Lien URL", name: "url", widget: "string"}
