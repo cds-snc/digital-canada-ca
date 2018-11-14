@@ -41,10 +41,12 @@
                     {{ end }}
                 </div>
                 <div class="work-in-progress--links">
-                    {{ if gt (len .Params.links) 0 }}
-                        <h4>{{ i18n "links" }}</h4>
-                        {{range .Params.links}}
-                            <p><a href="{{ .url }}">{{.name}}</a></p>
+                    {{with .Params.links }}
+                        {{ if gt (len .) 0 }}
+                            <h4>{{ i18n "links" }}</h4>
+                            {{range .}}
+                                <p><a href="{{ .url }}">{{.name}}</a></p>
+                            {{ end }}
                         {{ end }}
                     {{ end }}
                 </div>
