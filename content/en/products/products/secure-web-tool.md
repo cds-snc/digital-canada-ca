@@ -2,7 +2,7 @@
 title: "Track web security compliance"
 description: "An online tool to check which government sites and web services are meeting good security practices, such as requiring privacy-protecting Hypertext Transfer Protocol Secure (HTTPS) connections."
 product-url: ""
-phase: alpha
+phase: beta
 translationKey: "secure-web-tool"
 partners:
     - { name: "Treasury Board of Canada Secretariat", url: "https://www.canada.ca/en/treasury-board-secretariat.html" }

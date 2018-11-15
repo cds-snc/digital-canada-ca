@@ -2,7 +2,7 @@
 title: "Find relevant benefits for Veterans"
 description: "An online tool to make it easier for Veterans and their family members to determine which benefits, programs, and services are relevant to them."
 product-url: ""
-phase: alpha
+phase: beta
 translationKey: "vac-benefits"
 partners:
     - { name: "Veterans Affairs Canada", url: "http://www.veterans.gc.ca/eng"}
