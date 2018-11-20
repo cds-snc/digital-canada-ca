@@ -13,6 +13,8 @@ image: /img/cds/screen-shot-2018-11-01-at-3.42.39-pm.png
 image-alt: Une collection d'outils de travail
 translationKey: digital-training-needs
 ---
+**Mise à jour :** *Le sondage sur les besoins de formation numérique est maintenant ouvert aux tous fonctionnaires fédéraux! [Cliquez ici pour participer](https://form.simplesurvey.com/f/s.aspx?s=601CAD0C-4CFD-4E4C-B016-CB4E1F44BE30&lang=FR&r=dd56ff4c-4651-4839-ae9f-e747aef85a25). Le sondage sera disponible jusqu'à 16 h 00 (heure du Pacifique), le 30 novembre 2018. Merci de prendre le temps de compléter le sondage afin de façonner votre apprentissage de nouve disciplines numériques.*
+
 Afin de travailler dans l’ère numérique, les fonctionnaires ont besoin de posséder les compétences numériques appropriées. Cela est particulièrement vrai lorsqu’il est question de travailler en ayant recours à de nouvelles façons de concevoir et de fournir des services aux Canadiens.
 
 Au SNC, nous sommes enthousiastes à l’idée de travailler avec des collègues à l'échelle du gouvernement, afin accroître les connaissances et les compétences dans des domaines tels que la conception et l’élaboration de produits numérqieus, la cybersécurité et la science des données. 
