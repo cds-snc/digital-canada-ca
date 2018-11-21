@@ -13,7 +13,7 @@ partners:
   - name: Royal Canadian Mounted Police
     url: 'http://www.rcmp-grc.gc.ca/en'
 status: in-flight
-list:
+links:
   - name: GitHub
     url: 'https://github.com/cds-snc/report-a-cybercrime'
 ---

@@ -13,7 +13,7 @@ partners:
   - name: Gendarmerie royale du Canada
     url: 'http://www.rcmp-grc.gc.ca/fr'
 status: in-flight
-list:
+links:
   - name: GitHub
     url: 'https://github.com/cds-snc/report-a-cybercrime'
 ---
