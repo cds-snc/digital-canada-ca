@@ -41,12 +41,14 @@ This is done first by talking to users to find out their needs, then testing ide
 
 
 
-*Discovery: uncover user needs* 
+**Discovery: uncover user needs** 
+
 Looking deeper into the problem, who the users are, and what they need  
 * Starting to plan a new service if the existing one isn’t meeting user needs and no other products available can do so  
 * Mapping the priority data, design, and technology capabilities that the new service should have (the ‘minimum viable product’) to meet the user needs
 
-*Alpha: test assumptions*  
+**Alpha: test assumptions**
+  
 Starting to design, build, and test the minimum viable product  
 * Exploring and experimenting in small ways, with the emphasis on testing ideas rather than building the solution 
 * Building and testing simple versions (‘prototypes’) of the minimum viable product in quick iterations with a small group of users to get feedback on what works and what doesn’t
@@ -55,6 +57,7 @@ Starting to design, build, and test the minimum viable product
 It’s okay to run another alpha phase, or stop after Alpha if the product is not meeting user needs. 
  
 **Beta: limited public release with regular improvements**  
+
 Taking what was learned during Alpha and building a working service  
 * Continually testing and improving this product with a larger group of users in a controlled public environment 
 * Looking at analytics to see if the service is solving the original problem 
@@ -63,6 +66,7 @@ Taking what was learned during Alpha and building a working service
 It’s okay to run another beta phase if the product is not meeting user needs. It’s also okay to stop after Beta, though less likely if you have proved the need for the product in earlier phases.
 
 **Live: full release**  
+
 Putting the service out in the public domain, being used in real situations 
 * Remembering that just because a service is public, does not mean it is done: Live is an ongoing phase
 
