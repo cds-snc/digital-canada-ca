@@ -1,12 +1,10 @@
 ---
 title: "Setting up users for success with content design"
-description:
 author: Zak Kain, Content designer
 date: 2018-06-12 09:00:00 -0400
 image: /img/cds/blog-setting-up-users-for-success.jpg
 image-alt: Paper prototypes of an early version of the IRCC Reschedule a Citizenship Test service. Four pages are laid out on a table. They  include a web form, a calendar, a confirmation and checkboxes with appointment times.
 description: "As you might have already read, CDS is working with Immigration, Refugees and Citizenship Canada (IRCC) to make the process of rescheduling a citizenship appointment as convenient and stress-free as possible for applicants, while empowering office staff."
-image-translation: 
 translationKey: "setting-users-up-for-success-with-content-design"
 ---
 
