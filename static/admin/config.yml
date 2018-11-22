@@ -84,7 +84,7 @@ collections:
           - { label: "Partner Link / Lien vers le site du partenaire", name: "url", widget: "string" }
       - { label: "Status / État", name: "status", widget: "select", options: ["in-flight", "past"], required: true}
       - label: "Links / Liens"
-        name: "list"
+        name: "links"
         widget: "list"
         required: false
         fields:
@@ -114,7 +114,7 @@ collections:
           - { label: "Partner Link / Lien vers le site du partenaire", name: "url", widget: "string" }
       - { label: "Status / État", name: "status", widget: "select", options: ["in-flight", "past"], required: true}
       - label: "Links / Liens"
-        name: "list"
+        name: "links"
         widget: "list"
         required: false
         fields:

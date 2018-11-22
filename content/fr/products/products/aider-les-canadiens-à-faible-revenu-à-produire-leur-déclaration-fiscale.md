@@ -14,8 +14,5 @@ partners:
   - name: Agence du revenu du Canada
     url: 'https://www.canada.ca/fr/agence-revenu.html'
 status: in-flight
-list:
-  - {}
-  - {}
 ---
 
