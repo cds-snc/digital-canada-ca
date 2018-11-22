@@ -69,7 +69,7 @@ collections:
       - { label: "Product ID / Key", name: "translationKey", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", widget: "string", required: true }
       - { label: "Description / Description", name: "description", widget: "text" }
       - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: false}
-      - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery", "alpha", "beta", "live"], required: true}
+      - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery / découverte", "alpha / alpha", "beta / bêta", "live / en ligne"], required: true}
       - label: "Contact"
         name: "contact"
         widget: "list"
@@ -99,7 +99,7 @@ collections:
       - { label: "Product ID / Key", name: "translationKey", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", widget: "string", required: true }
       - { label: "Description / Description", name: "description", widget: "text" }
       - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: false}
-      - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery", "alpha", "beta", "live"], required: true}
+      - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery / découverte", "alpha / alpha", "beta / bêta", "live / en ligne"], required: true}
       - label: "Contact"
         name: "contact"
         widget: "list"
