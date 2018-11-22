@@ -394,19 +394,19 @@
 
 }
 
-span.discovery {
+span.discovery, span.discoveryfr {
     color: #b7028e;
 }
 
-span.alpha {
+span.alpha, span.alphafr {
     color: #f90277;
 }
 
-span.beta {
+span.beta, span.betafr {
     color: #22a7f0;
 }
 
-span.live {
+span.live, span.livefr {
     color: #6ea748;
 }
 
@@ -431,7 +431,7 @@ span.live {
         margin-top: 50px;
     }
 
-    h3.alpha::after {
+    h3.alpha::after, h3.alphafr::after {
         content: "Alpha";
 
         position: relative;
@@ -497,7 +497,7 @@ span.live {
         }
     }
 
-    h3.decouverte::after {
+    h3.discoveryfr::after {
         content: "Découverte";
 
         position: relative;
