@@ -3,21 +3,21 @@ layout: job-posting
 type: section
 title: Adjoint(e) de direction
 description: >-
-  Le SNC recherche un(e) adjoint(e) ou une adjointe pour soutenir les membres de
-  notre équipe de direction. La logistique et la planification vous passionnent?
-  Vous adorez prendre en charge de nouveaux projets ou de nouvelles tâches? Vous
-  trouvez stimulant de travailler dans un environnement en constante évolution
-  qui exige d’être multitâche? On vous apprécie pour votre esprit d’équipe? Vous
-  êtes bilingue et adorez travailler dans les deux langues officielles? Vous
-  êtes à la recherche de défis et de possibilités d’avancement? Vous gardez la
-  tête calme même lorsque vous êtes sous pression ou que votre boîte de
-  courriels déborde?
+  Le SNC recherche un(e) adjoint(e) pour soutenir les membres de notre équipe de
+  direction. La logistique et la planification vous passionnent? Vous adorez
+  prendre en charge de nouveaux projets ou de nouvelles tâches? Vous trouvez
+  stimulant de travailler dans un environnement en constante évolution qui exige
+  d’être multitâche? On vous apprécie pour votre esprit d’équipe? Vous êtes
+  bilingue et adorez travailler dans les deux langues officielles? Vous êtes à
+  la recherche de défis et de possibilités d’avancement? Vous gardez la tête
+  calme même lorsque vous êtes sous pression ou que votre boîte de courriels
+  déborde?
 archived: false
 translationKey: executive-assistant
 ---
 Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
 
-Le SNC recherche un(e) adjoint(e) ou une adjointe pour soutenir les membres de notre équipe de direction. La logistique et la planification vous passionnent? Vous adorez prendre en charge de nouveaux projets ou de nouvelles tâches? Vous trouvez stimulant de travailler dans un environnement en constante évolution qui exige d’être multitâche? On vous apprécie pour votre esprit d’équipe? Vous êtes bilingue et adorez travailler dans les deux langues officielles? Vous êtes à la recherche de défis et de possibilités d’avancement? Vous gardez la tête calme même lorsque vous êtes sous pression ou que votre boîte de courriels déborde?
+Le SNC recherche un(e) adjoint(e) pour soutenir les membres de notre équipe de direction. La logistique et la planification vous passionnent? Vous adorez prendre en charge de nouveaux projets ou de nouvelles tâches? Vous trouvez stimulant de travailler dans un environnement en constante évolution qui exige d’être multitâche? On vous apprécie pour votre esprit d’équipe? Vous êtes bilingue et adorez travailler dans les deux langues officielles? Vous êtes à la recherche de défis et de possibilités d’avancement? Vous gardez la tête calme même lorsque vous êtes sous pression ou que votre boîte de courriels déborde?
 
 ## À ce titre, vous aurez à :
 * Assurer la gestion stratégique et administrative ainsi que la gestion de projets
