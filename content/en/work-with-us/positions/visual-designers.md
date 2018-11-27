@@ -14,7 +14,7 @@ Visual designers create graphic elements that underpin interaction and service d
 
 Their work uses typography, colour, space, layout, iconography, and illustration to ensure that content is legible and readable and that interactions are seen and understood by all users. They are also responsible for creating visuals that are accessible for users of all abilities while communicate complex topics in the simplest and easiest terms. Visual designers can work in both print and digital while understand the specifics of both.
 
-We are currently hiring in Ottawa, Toronto, Waterloo, and Montréal.
+We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
 
 ## We’re looking for dedicated Designers to join our team:
 
