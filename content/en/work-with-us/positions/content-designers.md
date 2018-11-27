@@ -12,7 +12,7 @@ Content designers turn difficult concepts into easy to understand content. They 
 
 This ranges from the exact language and words on a page, to the macro-level context of how to design content for new products and services in Government. Content designers focus on the hierarchy, flow, and structure of information to achieve better user experiences. They are in constant collaboration with service designers, visual designers, interaction designers, and researchers. 
 
-We are currently hiring in Ottawa, Toronto, Waterloo, and Montréal.
+We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
 
 ## We’re looking for dedicated Designers to join our team:
 
