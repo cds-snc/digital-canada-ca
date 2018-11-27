@@ -35,4 +35,4 @@ Email us at <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca> with "Visual De
 ## Want to learn more about CDS?
 
 Read our [blog](https://digital.canada.ca/blog/) to find out what we’ve been up to.
-For the latest news, follow us on [twitter](https://twitter.com/CDS_GC).
+For the latest news, follow us on [Twitter](https://twitter.com/CDS_GC).
