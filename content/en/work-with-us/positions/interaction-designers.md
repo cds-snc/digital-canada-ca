@@ -4,18 +4,15 @@ type: section
 title: Interaction Designers
 description: >-
   Interaction designers work out the best way to let users interact with
-  services, both in terms of overall flow and at the level of individual design
-  elements.
+  services.
 archived: false
 translationKey: interaction-designers
 ---
-The Canadian Digital Service (CDS) works with federal departments to make the services people depend on simple and easy-to-use. We’re a small but mighty team that is rethinking service design and delivery, engaging users every step of the way. By working in the open, and connecting partners with tools, talent, and training grounded in best practices, we’re building capacity across the government for better service delivery. And we need you.
+The Canadian Digital Service (CDS) works with federal departments to make the services people depend on simple and easy-to-use. We’re a small but mighty team that is rethinking service design and delivery, engaging users every step of the way. By working in the open and connecting partners with tools, talent, and training grounded in best practices, we’re building capacity across the government for better service delivery. And we need you.
 
-## Interaction Designers
+Interaction designers work out the best way to let users interact with services, both in terms of overall flow and at the level of individual design elements.
 
-Interaction designers work out the best way to let users interact with services both in terms of overall flow, and at the level of individual design elements.
-
-They are responsible for creating intelligent, simple interactions that allow users to achieve their goals quickly and easily. Interaction designers collaborate extensively with developers, and should be comfortable with code (HTML, CSS, GitHub) and able to rapidly develop low and high-fidelity prototypes. Interaction designers also observe and interpret user interactions during usability testing, and help translate research insights into design requirements. 
+They are responsible for creating intelligent, simple interactions that allow users to achieve their goals quickly and easily. Interaction designers collaborate extensively with developers, should be comfortable with code (HTML, CSS, GitHub), and able to rapidly develop low and high-fidelity prototypes. Interaction designers also observe and interpret user interactions during usability testing and help translate research insights into design requirements. 
 
 We are currently hiring in Ottawa, Toronto, Waterloo, and Montréal.
 
