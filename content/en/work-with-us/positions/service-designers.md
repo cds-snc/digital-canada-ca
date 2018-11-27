@@ -14,7 +14,7 @@ Service designers craft end-to-end services to help users complete their goals a
 
 Their work delves into crafting design considerations for all the touch-points different people might encounter while using and managing government services. This may involve the creation of — or change to — transactions, products, and content, and may stretch across digital and offline channels provided by different parts of government.
 
-We are currently hiring in Ottawa, Toronto, Waterloo, and Montréal.
+We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
 
 ## We’re looking for dedicated Designers to join our team:
 
@@ -34,4 +34,4 @@ Email us at <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca> with "Service D
 ## Want to learn more about CDS?
 
 Read our [blog](https://digital.canada.ca/blog/) to find out what we’ve been up to.
-For the latest news, follow us on [twitter](https://twitter.com/CDS_GC).
+For the latest news, follow us on [Twitter](https://twitter.com/CDS_GC).
