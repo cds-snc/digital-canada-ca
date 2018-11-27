@@ -14,7 +14,7 @@ Interaction designers work out the best way to let users interact with services,
 
 They are responsible for creating intelligent, simple interactions that allow users to achieve their goals quickly and easily. Interaction designers collaborate extensively with developers, should be comfortable with code (HTML, CSS, GitHub), and able to rapidly develop low and high-fidelity prototypes. Interaction designers also observe and interpret user interactions during usability testing and help translate research insights into design requirements. 
 
-We are currently hiring in Ottawa, Toronto, Waterloo, and Montréal.
+We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
 
 ## We’re looking for dedicated Designers to join our team:
 
