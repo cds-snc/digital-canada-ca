@@ -41,6 +41,8 @@ This is done first by talking to users to find out their needs, then testing ide
 
 ## The Details
 
+![test](/img/cds/testimg.png)
+
 ![test](/img/cds/imageen.png)
 
 **Discovery: uncover user needs** 
