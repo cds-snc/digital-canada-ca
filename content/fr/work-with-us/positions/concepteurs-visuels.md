@@ -12,16 +12,17 @@ Le Service numérique canadien (SNC), en collaboration avec les ministères féd
 
 Les concepteurs visuels créent des éléments graphiques qui sous-tendent l’interaction et la conception des services.
 
-Leur travail utilise la typographie, la couleur, l’espace, la mise en page, l’iconographie et l’illustration pour s’assurer que le contenu est lisible et lisible, et que les interactions sont visibles et comprises par tous les utilisateurs. Ils sont également chargés de créer des éléments visuels accessibles aux utilisateurs de toutes capacités et de communiquer des sujets complexes dans les termes les plus simples. Les concepteurs visuels peuvent travailler en format imprimé et numérique et comprendre les particularités des deux.
+Leur travail utilise la typographie, la couleur, l’espace, la mise en page, l’iconographie et l’illustration pour s’assurer que le contenu est lisible et facile à lire, et que les interactions sont visibles et comprises par tous les utilisateurs. Ils sont également chargés de créer des éléments visuels accessibles aux utilisateurs de toutes capacités et de communiquer des sujets complexes dans les termes les plus simples. Les concepteurs visuels peuvent travailler en format imprimé et numérique et comprendre les particularités des deux.
 
 Nous embauchons actuellement à Ottawa, Toronto, Waterloo et Montréal.
 
-## Nous sommes à la recherche de concepteurs dévoués qui se joindront à notre équipe :
+## Nous sommes à la recherche de concepteurs dévoués pour se joindre à notre équipe :
+
 * Votre approche de la conception commence par l’inclusion et l’accessibilité.
-* Vous réussissez très bien à communiquer avec des gens qui ne connaissent pas bien la conception, a être à l’aise de travailler avec des clients pendant le processus de conception et qui sont enthousiastes à l’idée de travailler avec des gens dans le domaine de la recherche et de la mise à l’essai.
+* Vous réussissez très bien à communiquer avec des gens qui ne connaissent pas bien la conception, a être à l’aise de travailler avec des clients pendant le processus de conception et qui sont enthousiastes à l’idée de travailler avec des gens dans le domaine de la recherche et des tests avec les utilisateurs.
 * Vous pouvez démontrer efficacement en quoi consiste votre processus de conception détaillée.
 * Vous êtes passionné par l’expérience des utilisateurs et vous voulez apporter des améliorations mesurables aux services gouvernementaux.
-* Vous avez de l’expérience dans le travail avec des développeurs et de la recherche, et du prototypage rapide.
+* Vous avez de l’expérience dans le travail avec des développeurs et de la recherche et du prototypage rapide.
 
 Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons. Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Notre capacité à fournir de meilleurs services publics, soit des services accessibles et inclusifs, ne peut être réalisée que si nous pouvons reconnaître et exploiter les diverses idées, expériences et compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
 
