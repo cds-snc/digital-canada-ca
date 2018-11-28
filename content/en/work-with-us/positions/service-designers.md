@@ -25,6 +25,7 @@ We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
 * You have experience working alongside developers and researchers, and rapidly prototyping
 
 ​At CDS, we don’t just accept difference - we celebrate it. We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we recognize and harness the most diverse range of thoughts, experiences, and skills. We are committed to helping diverse talent thrive.
+
 CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy, or family commitments.
 
 ## Interested?
