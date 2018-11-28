@@ -40,6 +40,14 @@ exec:
       en: Chief of Design
       fr: Chef de la conception
     twitter: cgovias
+  - email: Colin.MacArthur@tbs-sct.gc.ca
+    image-name: /img/cds/colin-mcarthur.png
+    linkedin: 'https://www.linkedin.com/in/colinpmacarthur'
+    name: Colin MacArthur
+    title:
+      en: Head of Design Research
+      fr: Chef de recherche en design
+    twitter: 'https://twitter.com/colinpmacarthur'
   - email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
     name: John Millons
@@ -79,14 +87,6 @@ exec:
       en: Partnership Lead
       fr: Chef des partenariats
     twitter: wmluciani
-  - email: Colin.MacArthur@tbs-sct.gc.ca
-    image-name: /img/cds/colin-mcarthur.png
-    linkedin: 'https://www.linkedin.com/in/colinpmacarthur'
-    name: Colin MacArthur
-    title:
-      en: Head of Design Research
-      fr: Chef de recherche en design
-    twitter: 'https://twitter.com/colinpmacarthur'
 team:
   - email: Alexa.Davidson@tbs-sct.gc.ca
     image-name: /img/cds/alexa-davidson.png
