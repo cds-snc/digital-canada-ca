@@ -43,7 +43,7 @@ Pour ce faire, il faut d’abord parler aux utilisateurs pour connaître leurs b
 
 ## Les détails
 
-![test](/img/cds/image-1-.png)
+![Quatre cercles, avec les titres, Découverte, Alpha, Bêta, et Mis en ligne; chaque cercle se dirige vers la prochaine phase quand le cercle est complète.](/img/cds/image-1-.png)
 
 **Découverte : déceler les besoins des utilisateurs**
 
