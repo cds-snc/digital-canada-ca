@@ -39,9 +39,9 @@ Methods like ‘service design’ and ‘user-centred design’ embrace this new
 
 This is done first by talking to users to find out their needs, then testing ideas early and often with them. As new feedback comes up, improvements are continuously applied (known as ‘iteration’). 
 
-## The Details
+## The details
 
-![test](/img/cds/imageen.png)
+![Four circles, labelled Discovery, Alpha, Beta, and Live; each pointing towards the next phase once the circle is closed.](/img/cds/imageen.png)
 
 **Discovery: uncover user needs** 
 
