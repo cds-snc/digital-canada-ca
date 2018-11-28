@@ -41,7 +41,7 @@ This is done first by talking to users to find out their needs, then testing ide
 
 ## The details
 
-![Four circles, labelled Discovery, Alpha, Beta, and Live; each pointing towards the next phase once the circle is closed.](/img/cds/imageen.png)
+![Four circles, labelled Discovery, Alpha, Beta, and Live; each pointing towards the next phase once the circle is closed.](/img/cds/workflowenglish.png)
 
 **Discovery: uncover user needs** 
 
