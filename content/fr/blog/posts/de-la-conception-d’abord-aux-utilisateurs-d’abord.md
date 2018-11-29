@@ -6,7 +6,7 @@ description: >-
   d’une compréhension de la conception de services et de la conception centrée
   sur l’utilisateur au gouvernement  
 author: 'Charlotte Pedersen, Renforcement des capacités'
-date: 2018-11-21T11:50:14.421Z
+date: 2018-11-29T14:30:00.000Z
 image: /img/cds/fullsizeoutput_55.jpeg
 image-alt: >-
   un croquis d’un bloc, à côté de deux blocs empilés, à côté de trois blocs
