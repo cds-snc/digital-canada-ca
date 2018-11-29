@@ -5,7 +5,7 @@ description: >-
   The first test release of a growing resource area, describing the starting
   point for understanding service design and user-centred design in government.
 author: 'Charlotte Pedersen, Capacity building'
-date: 2018-11-19T14:11:23.029Z
+date: 2018-11-29T14:30:00.000Z
 image: /img/cds/fullsizeoutput_55.jpeg
 image-alt: >-
   a sketch of one block, beside two stacked blocks, beside three stacked blocks
