@@ -5,7 +5,7 @@ description: >-
   Why we chose to move our content from code to cloud, and how that made it
   easier for everyone to make simple changes without a developer.
 author: 'Steve Astels and Stephen McMurtry, Developers'
-date: 2018-12-05T02:30:00.000Z
+date: 2018-12-04T14:30:00.000Z
 image: /img/cds/magnificent-cloud.jpg
 image-alt: A magnificent cloud rises above the trees.
 translationKey: from-code-to-cloud
