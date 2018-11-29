@@ -49,7 +49,7 @@ Looking deeper into the problem, who the users are, and what they need
 
 * Starting to plan a new service if the existing one isn’t meeting user needs and no other products available can do so  
 * Mapping the priority data, design, and technology capabilities that the new service should have (the ‘minimum viable product’) to meet the user needs
-* It’s okay to run another discovery phase, or stop after Discovery if your findings show that's the best thing to do.
+* It’s okay to run another discovery phase, or stop after Discovery if your findings show that's the best thing to do
 
 **Alpha: test assumptions**
 
