@@ -51,6 +51,7 @@ Analyser le problème en profondeur, découvrir qui sont les utilisateurs et ce 
 
 * Commencer à planifier la conception d’un nouveau service si le service actuel ne répond pas aux besoins des utilisateurs et si aucun autre produit existant ne peut le faire  
 * Définir les capacités prioritaires en matière de données, de conception et de technologie que le nouveau service devrait posséder (le « produit viable minimum ») pour répondre aux besoins des utilisateurs
+* Il est acceptable d’exécuter une autre phase de découverte, ou d’arrêter après une phase de découverte si vos résultats montrent que c'est la meilleure chose à faire
 
 **Alpha : vérifier les hypothèses**
 
