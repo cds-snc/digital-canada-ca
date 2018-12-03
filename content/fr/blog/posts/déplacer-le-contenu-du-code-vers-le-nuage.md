@@ -5,7 +5,7 @@ description: >-
   Pourquoi avons-nous choisi de déplacer notre contenu du code vers le nuage, et
   comment cette décision a-t-elle facilité pour tous l’apport de changements
   simples sans l’intervention d’un développeur?
-author: 'Steve Astels et Stephen McMurtry, Développeurs'
+author: 'Steve Astels et Stephen McMurtry, développeurs'
 date: 2018-12-04T14:30:00.000Z
 image: /img/cds/magnificent-cloud.jpg
 image-alt: Un nuage magnifique s’élève au-dessus des arbres.
