@@ -86,7 +86,7 @@
 }
 
 .page-banner {
-  background-color    : #6e1b7d;
+  background-color    : $dark-grey;
   background-size     : cover;
   background-position : center center;
   height              : 12rem;
@@ -134,7 +134,7 @@
 
   // Page Banner for Front Page
   .home &, .accueil & {
-    background  : $dark-grey;
+    background  : #6e1b7d;
     clear       : both;
     display     : block;
     height      : 40rem;
