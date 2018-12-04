@@ -18,7 +18,7 @@ Au début, nous avons stocké ce texte directement dans notre code source, ce qu
 ## Vers le nuage!
 Nous avons décidé de transférer tout ce contenu vers une base de données dans le nuage. Cela signifie que lorsque les propriétaires de contenu ajoutent de nouveaux avantages ou peaufinent le libellé, ils peuvent le faire sans avoir à faire de demande de tirage. Nous avons choisi [Airtable] (https://airtable.com/) à cette fin.
 
-Airtable est semblable à Google Sheets, mais avec une interface de programmation d’application (API) plus facile à utiliser (https://fr.wikipedia.org/wiki/Interface_de_programmation) et une documentation et des exemples vraiment intéressants. Comme notre application avait déjà un [serveur] (https://github.com/cds-snc/vac-benefits-directory/blob/master/server.js), nous lui avons ajouté un code pour obtenir les données de Airtable toutes les heures, les garder en antémémoire et les mettre à la disposition de tous.
+Airtable est semblable à Google Sheets, mais avec une [interface de programmation d’application (API)](https://fr.wikipedia.org/wiki/Interface_de_programmation) plus facile à utiliser  et une documentation et des exemples vraiment intéressants. Comme notre application avait déjà un [serveur] (https://github.com/cds-snc/vac-benefits-directory/blob/master/server.js), nous lui avons ajouté un code pour obtenir les données de Airtable toutes les heures, les garder en antémémoire et les mettre à la disposition de tous.
 
 Cela a très bien fonctionné. Nos concepteurs peaufinaient le contenu à leur rythme, aussi rapidement qu’ils pouvaient le rédiger, sans que les développeurs aient à lever le petit doigt.
 
