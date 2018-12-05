@@ -10,3 +10,10 @@ medium:
   fr:
     name: Service numérique canadien (SNC)
     url: "https://medium.com/@servnumcanadien" 
+mailchimp:
+  en:
+    name: CDS Newsletter
+    url: "https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&id=eb357181d2"
+  fr:
+    name: SNC Infolettre
+    url: "https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&id=5fe89f4d28"

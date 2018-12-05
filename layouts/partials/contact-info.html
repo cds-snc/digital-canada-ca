@@ -28,4 +28,8 @@
         <div class="contact-icon"><a href={{ index $.Site.Data.contact.medium (string ($.Site.Language)) "url" }}><i class="fab fa-medium" aria-hidden="true"></i></a></div>
         <div class="text"><a href={{ index $.Site.Data.contact.medium (string ($.Site.Language)) "url" }}><span class="sr-only">Medium: </span>{{ index $.Site.Data.contact.medium (string ($.Site.Language)) "name" }}</a></div>
     </li>
+    <li>
+        <div class="contact-icon"><a href={{ index $.Site.Data.contact.mailchimp (string ($.Site.Language)) "url" }}><i class="fab fa-mailchimp" aria-hidden="true"></i></a></div>
+        <div class="text"><a href={{ index $.Site.Data.contact.mailchimp (string ($.Site.Language)) "url" }}><span class="sr-only">Mailchimp: </span>{{ index $.Site.Data.contact.mailchimp (string ($.Site.Language)) "name" }}</a></div>
+    </li>
 </ul>
