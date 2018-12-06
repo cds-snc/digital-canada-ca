@@ -13,7 +13,7 @@ image: /img/cds/screen-shot-2018-11-01-at-3.42.39-pm.png
 image-alt: Une collection d'outils de travail
 translationKey: digital-training-needs
 ---
-**Mise à jour :** *Le sondage sur les besoins de formation numérique est maintenant ouvert aux tous fonctionnaires fédéraux! [Cliquez ici pour participer](https://form.simplesurvey.com/f/l/DTNS_Open ). Le sondage sera disponible jusqu'à 16 h 00 (heure du Pacifique), le 30 novembre 2018. Merci de prendre le temps de compléter le sondage afin de façonner votre apprentissage de nouvelles disciplines numériques.*
+**Mise à jour :** *Le sondage sur les besoins de formation numérique est maintenant ouvert aux tous fonctionnaires fédéraux! [Cliquez ici pour participer](https://form.simplesurvey.com/f/s.aspx?s=601cad0c-4cfd-4e4c-b016-cb4e1f44be30&lang=FR). Le sondage sera disponible jusqu'à 16 h 00 (heure du Pacifique), le 30 novembre 2018. Merci de prendre le temps de compléter le sondage afin de façonner votre apprentissage de nouvelles disciplines numériques.*
 
 Afin de travailler dans l’ère numérique, les fonctionnaires ont besoin de posséder les compétences numériques appropriées. Cela est particulièrement vrai lorsqu’il est question de travailler en ayant recours à de nouvelles façons de concevoir et de fournir des services aux Canadiens.
 

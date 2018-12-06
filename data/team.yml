@@ -40,6 +40,14 @@ exec:
       en: Chief of Design
       fr: Chef de la conception
     twitter: cgovias
+  - email: Colin.MacArthur@tbs-sct.gc.ca
+    image-name: /img/cds/colin-mcarthur.png
+    linkedin: 'https://www.linkedin.com/in/colinpmacarthur'
+    name: Colin MacArthur
+    title:
+      en: Head of Design Research
+      fr: Chef de recherche en design
+    twitter: 'https://twitter.com/colinpmacarthur'
   - email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
     name: John Millons
@@ -168,13 +176,6 @@ team:
       en: Design | Insights
       fr: Conception | Perception
     twitter: hillarylorimer
-  - image-name: /img/cds/james-mickle.jpg
-    linkedin: james-mickle-4b012796
-    name: James Mickle
-    title:
-      en: Policy | Research
-      fr: Politique | Recherche
-    twitter: james_mickle
   - email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jennifer-fletcher.jpg
     name: Jennifer Fletcher
@@ -252,6 +253,22 @@ team:
     title:
       en: Operations | Staffing
       fr: Opérations | Dotation
+  - email: megan.beretta@tbs-sct.gc.ca
+    image-name: /img/cds/meg-beretta.jpg
+    linkedin: 'https://ca.linkedin.com/in/meganberetta'
+    name: Megan Beretta
+    title:
+      en: Policy
+      fr: Politiques
+    twitter: '@megberetta '
+  - email: melissa.banyard@tbs-sct.gc.ca
+    image-name: /img/cds/mel-banyard.png
+    linkedin: 'https://ca.linkedin.com/in/melbanyard'
+    name: Mel Banyard
+    title:
+      en: Design | Insights
+      fr: Conception | Perception
+    twitter: '@melbanyard'
   - email: michelle.ngai@tbs-sct.gc.ca
     image-name: /img/cds/michelle-ngai.png
     linkedin: ilovedesign
