@@ -12,6 +12,7 @@ status: "past"
 links:
     - {name: "GitHub", url: "https://github.com/cds-snc/track-web"}
     - {name: "Github - Domain scanner", url: "https://github.com/cds-snc/tracker"}
+    - {name: "Documentation", url: "https://cds-snc.github.io/track-web-security-compliance"}
 ---
 # Product 1
 
