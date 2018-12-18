@@ -63,14 +63,6 @@ exec:
       en: Tech | Delivery
       fr: Technologies | Prestation
     twitter: mcman12
-  - email: Pascale.Elvas@tbs-sct.gc.ca
-    image-name: /img/cds/pascale-elvas.png
-    linkedin: pascaleelvas
-    name: Pascale Elvas
-    title:
-      en: Senior Director
-      fr: Directrice principale
-    twitter: PascaleElvas
   - email: Ross.Ferguson@tbs-sct.gc.ca
     image-name: /img/cds/ross-ferguson.png
     linkedin: rossferguson
@@ -200,14 +192,6 @@ team:
     title:
       en: Capacity Building | Policy
       fr: Renforcement de la capacité | Politiques
-  - email: kylie.havelock@cds-snc.ca
-    image-name: /img/cds/kylie-havelock.jpg
-    linkedin: kylie-havelock-36175645
-    name: Kylie Havelock
-    title:
-      en: Senior Product Manager
-      fr: Gestionnaire de produits principale
-    twitter: kyliehavelock
   - email: leon.lukashevsky@codefor.ca
     github: leonL
     image-name: /img/cds/leon-lukashevsky.png
