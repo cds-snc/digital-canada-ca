@@ -22,7 +22,7 @@ exec:
     name: Anatole Papadopoulos
     title:
       en: Executive Director
-      fr: Directeur exécutif
+      fr: Directeur général
     twitter: anatolep
   - email: Andrea.Gilbrook@tbs-sct.gc.ca
     image-name: /img/cds/andrea-gilbrook.jpg
@@ -48,6 +48,14 @@ exec:
       en: Head of Design Research
       fr: Chef de recherche en conception
     twitter: 'https://twitter.com/colinpmacarthur'
+  - email: Eman.El-Fayomi@tbs-sct.gc.ca
+    image-name: /img/cds/eman-elfayomi.png
+    linkedin: eelfayomi
+    name: Eman El-Fayomi
+    title:
+      en: Acting Head of Design
+      fr: Chef par intérim conception
+    twitter: emanelfy
   - email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
     name: John Millons
@@ -55,6 +63,14 @@ exec:
       en: Head of Policy
       fr: Chef des politiques
     twitter: JohnMillons
+  - email: john.obrien@tbs-sct.gc.ca
+    image-name: /img/cds/john-obrien.jpg
+    linkedin: 'https://www.linkedin.com/in/boardom/'
+    name: John O'Brien
+    title:
+      en: Head of Security
+      fr: Chef de sécurité
+    twitter: '@boardom_ca'
   - email: leanne.labelle@tbs-sct.gc.ca
     image-name: /img/cds/leeane-labelle.png
     linkedin: 'http://www.linkedin.com/in/leannelabelle'
@@ -63,6 +79,12 @@ exec:
       en: Head of Partnership
       fr: Chef des partenariats
     twitter: 'https://twitter.com/leannelabelle?lang=en'
+  - email: Lyn.Elliott@tbs-sct.gc.ca
+    image-name: /img/cds/lyn-elliott.png
+    name: Lyn Elliott
+    title:
+      en: Acting Head of Communications
+      fr: Chef par intérim de communications
   - email: Mario.Garneau@tbs-sct.gc.ca
     github: mcman12
     image-name: /img/cds/mario-garneau.png
@@ -71,6 +93,12 @@ exec:
       en: Head of Development
       fr: Chef du développement
     twitter: mcman12
+  - email: Meera.Cunningham@tbs-sct.gc.ca
+    image-name: /img/cds/meera-makim-cunningham.png
+    name: Meera Makim Cunningham
+    title:
+      en: Head of Internal Operations
+      fr: Chef des opérations internes
   - email: Ross.Ferguson@tbs-sct.gc.ca
     image-name: /img/cds/ross-ferguson.png
     linkedin: rossferguson
@@ -152,14 +180,6 @@ team:
       en: Partnerships
       fr: Partenariats
     twitter: davetoeg
-  - email: Eman.El-Fayomi@tbs-sct.gc.ca
-    image-name: /img/cds/eman-elfayomi.png
-    linkedin: eelfayomi
-    name: Eman El-Fayomi
-    title:
-      en: Design
-      fr: Conception
-    twitter: emanelfy
   - email: Eva.Demers-Brett@tbs-sct.gc.ca
     github: evadb
     image-name: /img/cds/eva-demers-brett.png
@@ -227,12 +247,6 @@ team:
       en: Policy
       fr: Politiques
     twitter: lchski
-  - email: Lyn.Elliott@tbs-sct.gc.ca
-    image-name: /img/cds/lyn-elliott.png
-    name: Lyn Elliott
-    title:
-      en: Communications
-      fr: Communications
   - email: Lynn.Chalati@tbs-sct.gc.ca
     image-name: /img/cds/lynn-chalati.png
     linkedin: lynn-chalati-aaa9218a
@@ -248,12 +262,6 @@ team:
     title:
       en: Development
       fr: Développement
-  - email: Meera.Cunningham@tbs-sct.gc.ca
-    image-name: /img/cds/meera-makim-cunningham.png
-    name: Meera Makim Cunningham
-    title:
-      en: Head of Internal Operations
-      fr: Chef des opérations internes
   - email: megan.beretta@tbs-sct.gc.ca
     image-name: /img/cds/meg-beretta.jpg
     linkedin: 'https://ca.linkedin.com/in/meganberetta'
@@ -298,7 +306,7 @@ team:
     name: Nick Makuch
     title:
       en: Design | Development
-      fr: Design | Développement
+      fr: Conception | Développement
     twitter: makuch_nick
   - email: paul.craig@tbs-sct.gc.ca
     github: pcraig3
@@ -381,8 +389,8 @@ team:
     image-name: /img/cds/zak-kain.jpg
     name: Zak Kain
     title:
-      en: Content Designer
-      fr: Concepteur de contenu
+      en: Design
+      fr: Conception
     twitter: zakkain
   - email: zoe.richford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.png
