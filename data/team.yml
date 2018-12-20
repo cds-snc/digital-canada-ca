@@ -121,8 +121,8 @@ team:
     linkedin: courtneyclaessens
     name: Courtney Claessens
     title:
-      en: Product Manager
-      fr: Gestionnaire de produits
+      en: Product Management
+      fr: Gestion de produits
   - email: Damien.Trudel@tbs-sct.gc.ca
     image-name: /img/cds/damien-trudel.png
     name: Damien Trudel
@@ -134,8 +134,8 @@ team:
     linkedin: danielmktse
     name: Daniel Tse
     title:
-      en: Product Manager
-      fr: Gestionnaire de produits
+      en: Product Management
+      fr: Gestion de produits
     twitter: danprime
   - github: dsamojlenko
     image-name: /img/cds/dave-samojlenko.png
