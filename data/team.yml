@@ -194,6 +194,15 @@ team:
     title:
       en: Talent
       fr: Talent
+  - email: julianna.rowsell@tbs-sct.gc.ca
+    github: 'https://github.com/JuliannaR/juliannar.github.io'
+    image-name: /img/cds/julianna-rowsell.png
+    linkedin: 'https://www.linkedin.com/in/julianna-rowsell-86625624/'
+    name: Julianna Rowsell
+    title:
+      en: Accessibility
+      fr: Accessibilité
+    twitter: '@JuliannaRowsell'
   - email: Klara.Steele@tbs-sct.gc.ca
     image-name: /img/cds/klara-steele.png
     name: Klara Steele
