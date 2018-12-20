@@ -13,8 +13,8 @@ exec:
     linkedin: alexandra-maceachern-4b0209b2
     name: Alex MacEachern
     title:
-      en: Chief of Staff to the CEO
-      fr: Chef de cabinet au Dirigeant principal
+      en: Chief of Staff
+      fr: Chef de cabinet
     twitter: amaceachern123
   - email: Anatole.Papadopoulos@tbs-sct.gc.ca
     image-name: /img/cds/anatole-papadopoulos.jpg
@@ -30,7 +30,7 @@ exec:
     name: Andrea Gilbrook
     title:
       en: Head of Talent
-      fr: Responsable du talent
+      fr: Chef du talent
     twitter: andreagilbrook
   - email: Christopher.Govias@tbs-sct.gc.ca
     image-name: /img/cds/chris-govias.jpg
@@ -46,46 +46,54 @@ exec:
     name: Colin MacArthur
     title:
       en: Head of Design Research
-      fr: Chef de recherche en design
+      fr: Chef de recherche en conception
     twitter: 'https://twitter.com/colinpmacarthur'
   - email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
     name: John Millons
     title:
-      en: Policy | Engagement
-      fr: Politiques | Mobilisation
+      en: Head of Policy
+      fr: Chef des politiques
     twitter: JohnMillons
+  - email: leanne.labelle@tbs-sct.gc.ca
+    image-name: /img/cds/leeane-labelle.png
+    linkedin: 'http://www.linkedin.com/in/leannelabelle'
+    name: Leanne Labelle
+    title:
+      en: Head of Partnership
+      fr: Chef des partenariats
+    twitter: 'https://twitter.com/leannelabelle?lang=en'
   - email: Mario.Garneau@tbs-sct.gc.ca
     github: mcman12
     image-name: /img/cds/mario-garneau.png
     name: Mario Garneau
     title:
-      en: Tech | Delivery
-      fr: Technologies | Prestation
+      en: Head of Development
+      fr: Chef du développement
     twitter: mcman12
   - email: Ross.Ferguson@tbs-sct.gc.ca
     image-name: /img/cds/ross-ferguson.png
     linkedin: rossferguson
     name: Ross Ferguson
     title:
-      en: Product Lead
-      fr: Chef de produit
+      en: Head of Delivery
+      fr: Chef de la prestation des services
     twitter: rossferg
   - email: Wendy.Luciani@tbs-sct.gc.ca
     image-name: /img/cds/wendy-luciani.png
     linkedin: wmluciani
     name: Wendy Luciani
     title:
-      en: Partnership Lead
-      fr: Chef des partenariats
+      en: Head of Consulting
+      fr: Chef des consultations
     twitter: wmluciani
 team:
   - email: Alexa.Davidson@tbs-sct.gc.ca
     image-name: /img/cds/alexa-davidson.png
     name: Alexa Davidson
     title:
-      en: Operations | Staffing
-      fr: Opérations | Dotation
+      en: Internal Operations | Talent
+      fr: Opérations internes | Talent
   - email: Anik.Brazeau@tbs-sct.gc.ca
     image-name: /img/cds/anik-brazeau.jpg
     linkedin: anikbrazeau
@@ -99,15 +107,15 @@ team:
     image-name: /img/cds/bethany-dunfield.png
     name: Bethany Dunfield
     title:
-      en: Developer
-      fr: Développeur
+      en: Development
+      fr: Développement
   - email: Charlotte.Pedersen@tbs-sct.gc.ca
     image-name: /img/cds/charlotte-pederson.png
     linkedin: charlottepedersen371
     name: Charlotte Pedersen
     title:
-      en: Capacity Building | Engagement
-      fr: Renforcement de la capacité | Mobilisation
+      en: Capacity Building
+      fr: Renforcement de la capacité
   - email: Courtney.Claessens@tbs-sct.gc.ca
     image-name: /img/cds/courtney-claessens.png
     linkedin: courtneyclaessens
@@ -119,87 +127,87 @@ team:
     image-name: /img/cds/damien-trudel.png
     name: Damien Trudel
     title:
-      en: Security Lead
-      fr: Responsable des questions de sécurité
+      en: Security
+      fr: Sécurité
   - github: danprime
     image-name: /img/cds/daniel-tse.jpg
     linkedin: danielmktse
     name: Daniel Tse
     title:
-      en: Code For Canada Fellow | Product Manager
-      fr: Associé de Code for Canada | Gestionnaire de produits
+      en: Product Manager
+      fr: Gestionnaire de produits
     twitter: danprime
   - github: dsamojlenko
     image-name: /img/cds/dave-samojlenko.png
     name: Dave Samojlenko
     title:
-      en: Developer | DevOps
-      fr: Développeur | Développement et Exploitation
+      en: Development
+      fr: Développement
     twitter: dsamojlenko
   - email: dave.toeg@tbs-sct.gc.ca
     image-name: /img/cds/dave-toeg.png
     linkedin: davetoeg
     name: Dave Toeg
     title:
-      en: Senior Advisor | Partnerships
-      fr: Conseiller principal aux partenariats
+      en: Partnerships
+      fr: Partenariats
     twitter: davetoeg
   - email: Eman.El-Fayomi@tbs-sct.gc.ca
     image-name: /img/cds/eman-elfayomi.png
     linkedin: eelfayomi
     name: Eman El-Fayomi
     title:
-      en: Design | User Experience (UX)
-      fr: Conception | Expérience utilisateur
+      en: Design
+      fr: Conception
     twitter: emanelfy
   - email: Eva.Demers-Brett@tbs-sct.gc.ca
     github: evadb
     image-name: /img/cds/eva-demers-brett.png
     name: Eva Demers-Brett
     title:
-      en: Developer
-      fr: Développeuse
+      en: Development
+      fr: Développement
     twitter: evadbee
   - email: Hillary.Lorimer@tbs-sct.gc.ca
     image-name: /img/cds/hillary-lorimer.png
     linkedin: hillary-b-lorimer
     name: Hillary Lorimer
     title:
-      en: Design | Insights
-      fr: Conception | Perception
+      en: Design Research
+      fr: Recherche en conception
     twitter: hillarylorimer
   - email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.png
     name: Jennifer Fletcher
     title:
-      en: Advisor | Partnerships
-      fr: Conseillère | Partenariats
+      en: Partnerships
+      fr: Partenariats
   - email: Jennifer.Morin@tbs-sct.gc.ca
     image-name: /img/cds/jennifer-morin.jpg
     name: Jennifer Morin
     title:
-      en: Operations | Staffing
-      fr: Opérations | Dotation
+      en: Internal Operations
+      fr: Opérations internes
   - email: Jessica.Loadenthal@tbs-sct.gc.ca
     image-name: /img/cds/jessica-loadenthal.png
     name: Jessica Loadenthal
     title:
-      en: Operations | Staffing
-      fr: Opérations | Dotation
+      en: Talent
+      fr: Talent
   - email: Klara.Steele@tbs-sct.gc.ca
     image-name: /img/cds/klara-steele.png
     name: Klara Steele
     title:
-      en: Capacity Building | Policy
-      fr: Renforcement de la capacité | Politiques
+      en: Capacity Building
+      fr: Renforcement de la capacité
   - email: leon.lukashevsky@codefor.ca
     github: leonL
     image-name: /img/cds/leon-lukashevsky.png
     linkedin: le0nl
     name: Leon Lukashevsky
     title:
-      en: Code For Canada Fellow | Developer
-      fr: Associé de Code for Canada | Développeur
+      en: Development
+      fr: Développement
     twitter: le0nL
   - email: Lucas.Cherkewski@tbs-sct.gc.ca
     github: lchski
@@ -207,15 +215,15 @@ team:
     linkedin: lchski
     name: Lucas Cherkewski
     title:
-      en: Policy | Advice
-      fr: Politique | Conseil
+      en: Policy
+      fr: Politiques
     twitter: lchski
   - email: Lyn.Elliott@tbs-sct.gc.ca
     image-name: /img/cds/lyn-elliott.png
     name: Lyn Elliott
     title:
-      en: Storyteller
-      fr: Conteuse
+      en: Communications
+      fr: Communications
   - email: Lynn.Chalati@tbs-sct.gc.ca
     image-name: /img/cds/lynn-chalati.png
     linkedin: lynn-chalati-aaa9218a
@@ -229,14 +237,14 @@ team:
     linkedin: maxneuvians
     name: Max Neuvians
     title:
-      en: Developer | Data
-      fr: Développeur | Données
+      en: Development
+      fr: Développement
   - email: Meera.Cunningham@tbs-sct.gc.ca
     image-name: /img/cds/meera-makim-cunningham.png
     name: Meera Makim Cunningham
     title:
-      en: Operations | Staffing
-      fr: Opérations | Dotation
+      en: Head of Opérations internes
+      fr: Chef des opérations internes
   - email: megan.beretta@tbs-sct.gc.ca
     image-name: /img/cds/meg-beretta.jpg
     linkedin: 'https://ca.linkedin.com/in/meganberetta'
@@ -250,84 +258,84 @@ team:
     linkedin: 'https://ca.linkedin.com/in/melbanyard'
     name: Mel Banyard
     title:
-      en: Design | Insights
-      fr: Conception | Perception
+      en: Design Research
+      fr: Recherche en conception
     twitter: '@melbanyard'
   - email: michelle.ngai@tbs-sct.gc.ca
     image-name: /img/cds/michelle-ngai.png
     linkedin: ilovedesign
     name: Michelle Ngai
     title:
-      en: Design | User Experience
-      fr: Conception | Expérience utilisateur
+      en: Design
+      fr: Conception
     twitter: itsMichelleNgai
   - email: mike.williamson@tbs-sct.gc.ca
     github: sleepycat
     image-name: /img/cds/mike-williamson.png
     name: Mike Williamson
     title:
-      en: Developer | Data
-      fr: Développeur | Données
+      en: Development
+      fr: Développement
     twitter: dexterchief
   - email: Mithula.Naik@tbs-sct.gc.ca
     image-name: /img/cds/mithula-naik.png
     name: Mithula Naik
     title:
-      en: Design | Insights
-      fr: Conception | Perception
+      en: Design Research
+      fr: Recherche en conception
   - email: nick.makuch@tbs-sct.gc.ca
     github: nmakuch
     image-name: /img/cds/nick-makuch.png
     name: Nick Makuch
     title:
-      en: Design | Multimedia
-      fr: Design | Multimédia
+      en: Design | Development
+      fr: Design | Développement
     twitter: makuch_nick
   - email: paul.craig@tbs-sct.gc.ca
     github: pcraig3
     image-name: /img/cds/paul-craig.png
     name: Paul Craig
     title:
-      en: Developer
-      fr: Développeur
+      en: Development
+      fr: Développement
     twitter: pcraig3
   - email: Priyanka.Rahman@tbs-sct.gc.ca
     image-name: /img/cds/priyanka-rahman.png
     linkedin: priyanka-rahman-5b91a8145
     name: Priyanka Rahman
     title:
-      en: Operations | Recruitment
-      fr: Opérations | Recrutement
+      en: Internal Operations
+      fr: Opérations internes
   - email: samantha.sadasivan@tbs-sct.gc.ca
     image-name: /img/cds/sam-sadasivan.jpg
     linkedin: samsadasivan
     name: Samantha Sadasivan
     title:
-      en: Design | Service Design
-      fr: Conception | Conception de services
+      en: Design
+      fr: Conception
     twitter: samsadasivan
   - email: Sana.Qureshi@tbs-sct.gc.ca
     image-name: /img/cds/sana-qureshi.png
     linkedin: sana-qureshi-35206a11
     name: Sana Qureshi
     title:
-      en: Operations | Recruitment
-      fr: Opérations | Recrutement
+      en: Internal Operations
+      fr: Opérations Internes
   - github: sboots
     image-name: /img/cds/sean-boots.png
     linkedin: seanboots
     name: Sean Boots
     title:
-      en: Tech | Advice
-      fr: Technologies | Conseils
+      en: Policy
+      fr: Politiques
     twitter: sboots
   - email: Stephen.McMurtry@tbs-sct.gc.ca
     image-name: /img/cds/stephen-mcmurtry.png
     linkedin: stephen-mcmurtry-1b4a8879
     name: Stephen McMurtry
     title:
-      en: Developer | Data
-      fr: Développeur | Données
+      en: Development
+      fr: Développement
     twitter: StephenMcMurtry
   - email: steve.astels@tbs-sct.gc.ca
     github: sastels
@@ -335,8 +343,8 @@ team:
     linkedin: sastels
     name: Steve Astels
     title:
-      en: Developer | Data
-      fr: Développeur | Données
+      en: Development
+      fr: Développement
     twitter: sastels
   - email: steven.zinck@tbs-sct.gc.ca
     github: szinck1
@@ -344,22 +352,22 @@ team:
     linkedin: stevezinck
     name: Steve Zinck
     title:
-      en: Platform | DevOps
-      fr: Platformes | DevOps
+      en: Development
+      fr: Développement
     twitter: szinck
   - email: Steven.Talbot@tbs-sct.gc.ca
     image-name: /img/cds/stevie-ray-talbot.png
     name: Stevie-Ray Talbot
     title:
-      en: Policy | Data
-      fr: Politiques | Données
+      en: Policy
+      fr: Politiques
     twitter: StevieRayTalbot
   - email: Tim.Arney@tbs-sct.gc.ca
     image-name: /img/cds/tim-arney.png
     name: Tim Arney
     title:
-      en: Developer
-      fr: Développeur
+      en: Development
+      fr: Développement
   - email: zak.kain@cds-snc.ca
     image-name: /img/cds/zak-kain.jpg
     name: Zak Kain
@@ -371,5 +379,5 @@ team:
     image-name: /img/cds/zoe-richford.png
     name: Zoe Ritchford
     title:
-      en: Operations | Administration
-      fr: Opérations | Administration
+      en: Internal Operations
+      fr: Opérations internes
