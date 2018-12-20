@@ -1,13 +1,13 @@
 ---
 layout: job-posting
 type: section
-title: Chercheur(e) de conception
+title: Chercheur en conception
 description: >-
-  Nous recherchons un(e) chercheur(e) de conception. À titre de chercheur(e),
-  vous devrez concevoir, mener, analyser des recherches qualitatives et les
-  présenter aux équipes de produits. En tant que membre clé d’une équipe de
-  produits du Service numérique canadien (SNC), vous aiderez l’équipe à prendre
-  des décisions liées à la conception à la lumière des connaissances que vous
+  Nous recherchons un chercheur en conception. À titre de chercheur, vous devrez
+  concevoir, mener, analyser des recherches qualitatives et les présenter aux
+  équipes de produits. En tant que membre clé d’une équipe de produits du
+  Service numérique canadien (SNC), vous aiderez l’équipe à prendre des
+  décisions liées à la conception à la lumière des connaissances que vous
   acquerrez. Vous composerez avec les contraintes politiques et réglementaires
   associées à la recherche au sein du gouvernement. Vous présenterez aux
   ministères partenaires et enseignerez à nos partenaires de nouvelles
@@ -21,9 +21,9 @@ translationKey: designer-researcher
 ---
 Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
 
-Nous recherchons un(e) chercheur(e) de conception. À titre de chercheur(e), vous devrez concevoir, mener, analyser des recherches qualitatives et les présenter aux équipes de produits. En tant que membre clé d’une équipe de produits du Service numérique canadien (SNC), vous aiderez l’équipe à prendre des décisions liées à la conception à la lumière des connaissances que vous acquerrez. Vous composerez avec les contraintes politiques et réglementaires associées à la recherche au sein du gouvernement. Vous présenterez aux ministères partenaires et enseignerez à nos partenaires de nouvelles compétences en recherche. Vous aiderez aussi vos collègues de l’équipe du SNC à devenir de meilleurs chercheurs (nous croyons que chaque membre de l’équipe du SNC est un chercheur dans une certaine mesure). Mais surtout, vous défendrez les intérêts des personnes qui utilisent les services du gouvernement du Canada, des Canadiennes et Canadiens de tous les horizons.
+Nous recherchons un chercheur en conception. À titre de chercheur, vous devrez concevoir, mener, analyser des recherches qualitatives et les présenter aux équipes de produits. En tant que membre clé d’une équipe de produits du Service numérique canadien (SNC), vous aiderez l’équipe à prendre des décisions liées à la conception à la lumière des connaissances que vous acquerrez. Vous composerez avec les contraintes politiques et réglementaires associées à la recherche au sein du gouvernement. Vous présenterez aux ministères partenaires et enseignerez à nos partenaires de nouvelles compétences en recherche. Vous aiderez aussi vos collègues de l’équipe du SNC à devenir de meilleurs chercheurs (nous croyons que chaque membre de l’équipe du SNC est un chercheur dans une certaine mesure). Mais surtout, vous défendrez les intérêts des personnes qui utilisent les services du gouvernement du Canada, des Canadiennes et Canadiens de tous les horizons.
 
-## Nous cherchons un(e) candidat(e) qui sait :
+## Nous cherchons un candidat ou une candidate qui sait :
 * conduire des recherches convaincantes susceptibles d’orienter les décisions relatives aux produits; mener des entrevues exploratoires, dégager des observations et procéder à l’analyse de données existantes; établir la portée de plans de recherche qui mèneront au succès à court et à long terme 
 * faire en sorte que les utilisateurs aient voix au chapitre et que l’on prenne leur point de vues en considération dans les discussions sur les services; choisir des méthodes de recherche qui tiennent compte de la situation et des expériences des utilisateurs 
 * planifier et mener des tests d'utilisabilité et utiliser d’autres méthodes de recherche rapides dans un environnement agile
@@ -48,4 +48,4 @@ Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethniqu
 	
 ### Vous êtes intéressé?
 	
-Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca] (mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Chercheur(e) de conception » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
+Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca] (mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Chercheur en conception » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
