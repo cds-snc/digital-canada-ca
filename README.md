@@ -39,9 +39,10 @@ Powered by [Hugo](https://gohugo.io/), and the [Web Experience Toolkit](https://
     run_hugo.bat
     ```
 
-Both languages will be hosted at localhost:1313 and localhost:1414 respectively.
+Both languages will be hosted at localhost:1313 and localhost:1314 respectively.
 
 To get Netlfy CMS up and running:
+
     ```
     # Linux/Mac
     sh run_netlify.sh
