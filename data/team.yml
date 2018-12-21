@@ -42,7 +42,7 @@ exec:
     twitter: cgovias
   - email: Colin.MacArthur@tbs-sct.gc.ca
     image-name: /img/cds/colin-mcarthur.png
-    linkedin: 'https://www.linkedin.com/in/colinpmacarthur'
+    linkedin: colinpmacarthur
     name: Colin MacArthur
     title:
       en: Head of Design Research
@@ -65,7 +65,7 @@ exec:
     twitter: JohnMillons
   - email: john.obrien@tbs-sct.gc.ca
     image-name: /img/cds/john-obrien.jpg
-    linkedin: 'https://www.linkedin.com/in/boardom/'
+    linkedin: boardom
     name: John O'Brien
     title:
       en: Head of Security
@@ -217,7 +217,7 @@ team:
   - email: julianna.rowsell@tbs-sct.gc.ca
     github: 'https://github.com/JuliannaR/juliannar.github.io'
     image-name: /img/cds/julianna-rowsell.png
-    linkedin: 'https://www.linkedin.com/in/julianna-rowsell-86625624/'
+    linkedin: julianna-rowsell-86625624
     name: Julianna Rowsell
     title:
       en: Accessibility
