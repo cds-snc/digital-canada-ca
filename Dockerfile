@@ -20,6 +20,10 @@ RUN curl -sL -o /tmp/hugo.deb \
     rm /tmp/hugo.deb && \
     mkdir ${SITE_DIR}
 
+# Expose ports (English, Français)
+EXPOSE 1313
+EXPOSE 1314
+
 # Automatically build site
 WORKDIR ${SITE_DIR}
 ADD . ${SITE_DIR}
