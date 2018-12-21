@@ -17,7 +17,7 @@
     "webpack-cli": "^3.1.2"
   },
   "scripts": {
-    "dev": "webpack && hugo server -D",
+    "dev": "webpack && hugo server -D --bind=0.0.0.0",
     "build": "webpack && hugo",
     "build_admin": "webpack --config webpack.config.js"
   },
