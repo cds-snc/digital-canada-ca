@@ -42,7 +42,7 @@ exec:
     twitter: cgovias
   - email: Colin.MacArthur@tbs-sct.gc.ca
     image-name: /img/cds/colin-mcarthur.png
-    linkedin: colinpmacarthur
+    linkedin: 'https://www.linkedin.com/in/colinpmacarthur'
     name: Colin MacArthur
     title:
       en: Head of Design Research
@@ -65,7 +65,7 @@ exec:
     twitter: JohnMillons
   - email: john.obrien@tbs-sct.gc.ca
     image-name: /img/cds/john-obrien.jpg
-    linkedin: boardom
+    linkedin: 'https://www.linkedin.com/in/boardom/'
     name: John O'Brien
     title:
       en: Head of Security
@@ -73,7 +73,7 @@ exec:
     twitter: '@boardom_ca'
   - email: leanne.labelle@tbs-sct.gc.ca
     image-name: /img/cds/leeane-labelle.png
-    linkedin: 'leannelabelle'
+    linkedin: 'http://www.linkedin.com/in/leannelabelle'
     name: Leanne Labelle
     title:
       en: Head of Partnership
@@ -107,6 +107,13 @@ exec:
       en: Head of Delivery
       fr: Chef de la prestation des services
     twitter: rossferg
+  - email: Sana.Qureshi@tbs-sct.gc.ca
+    image-name: /img/cds/sana-qureshi.png
+    linkedin: sana-qureshi-35206a11
+    name: Sana Qureshi
+    title:
+      en: Acting Head of Internal Operations
+      fr: Chef par intérim des opérations Internes
   - email: Wendy.Luciani@tbs-sct.gc.ca
     image-name: /img/cds/wendy-luciani.png
     linkedin: wmluciani
@@ -217,7 +224,7 @@ team:
   - email: julianna.rowsell@tbs-sct.gc.ca
     github: 'https://github.com/JuliannaR/juliannar.github.io'
     image-name: /img/cds/julianna-rowsell.png
-    linkedin: julianna-rowsell-86625624
+    linkedin: 'https://www.linkedin.com/in/julianna-rowsell-86625624/'
     name: Julianna Rowsell
     title:
       en: Accessibility
@@ -264,7 +271,7 @@ team:
       fr: Développement
   - email: megan.beretta@tbs-sct.gc.ca
     image-name: /img/cds/meg-beretta.jpg
-    linkedin: 'meganberetta'
+    linkedin: 'https://ca.linkedin.com/in/meganberetta'
     name: Megan Beretta
     title:
       en: Policy
@@ -272,7 +279,7 @@ team:
     twitter: '@megberetta '
   - email: melissa.banyard@tbs-sct.gc.ca
     image-name: /img/cds/mel-banyard.png
-    linkedin: 'melbanyard'
+    linkedin: 'https://ca.linkedin.com/in/melbanyard'
     name: Mel Banyard
     title:
       en: Design Research
@@ -331,13 +338,6 @@ team:
       en: Design
       fr: Conception
     twitter: samsadasivan
-  - email: Sana.Qureshi@tbs-sct.gc.ca
-    image-name: /img/cds/sana-qureshi.png
-    linkedin: sana-qureshi-35206a11
-    name: Sana Qureshi
-    title:
-      en: Internal Operations
-      fr: Opérations Internes
   - github: sboots
     image-name: /img/cds/sean-boots.png
     linkedin: seanboots
