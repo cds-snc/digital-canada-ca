@@ -1,16 +1,16 @@
 FROM debian:stretch
 
-ENV HUGO_VERSION '0.52'
-ENV HUGO_BINARY 'hugo_extended_${HUGO_VERSION}_Linux-64bit.deb'
-ENV NODE_SERIES '10.x'
-ENV SITE_DIR '/usr/share/site'
+ENV HUGO_VERSION 0.52
+ENV HUGO_BINARY hugo_extended_${HUGO_VERSION}_Linux-64bit.deb
+ENV NODE_SERIES 10.x
+ENV SITE_DIR /usr/share/site
 
 
 # Install Hugo (and deps) and NodeJS/NPM
 RUN apt-get update \
-    && apt-get -y -qq install curl gnupg \
+    && apt-get -y install curl gnupg \
 	&& curl -sL https://deb.nodesource.com/setup_${NODE_SERIES} | bash - \
-    && apt-get -y -qq install nodejs \
+    && apt-get -y install nodejs \
     && rm -rf /var/lib/apt/lists/*
 
 # Download and install hugo
