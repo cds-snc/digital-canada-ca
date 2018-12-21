@@ -3,6 +3,7 @@
 Both [digital.canada.ca](digital.canada.ca) and [numerique.canada.ca](numerique.canada.ca) are published from this repository.
 
 Powered by [Hugo](https://gohugo.io/), and the [Web Experience Toolkit](https://github.com/wet-boew/wet-boew/).
+
 ### To install locally:
 
 1. Clone the repository.
@@ -17,16 +18,25 @@ Powered by [Hugo](https://gohugo.io/), and the [Web Experience Toolkit](https://
     cd digital-canada-ca
     git submodule update --init --recursive
     ```
-3. If you do not have Hugo installed on your machine, install it:
+
+3. Build the Docker image (this requires [Docker](https://www.docker.com/products/docker-desktop) to be installed and running)
 
     ```
-    brew install hugo
+    # Linux/Mac
+    sh docker_build.sh
+
+    # Windows
+    docker_build.bat
     ```
 
-4. Serve:
+4. Serve. This requires [Docker](https://www.docker.com/products/docker-desktop) to be installed and running. This step only needs to be re-run when `./Dockerfile` changes:
 
     ```
-    hugo server -D 
+    # Linux/Mac
+    sh run_hugo.sh
+
+    # Windows
+    run_hugo.bat
     ```
 
 Both languages will be hosted at localhost:1313 and localhost:1414 respectively.
