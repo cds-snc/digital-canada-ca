@@ -70,4 +70,4 @@ Joining CDS and the Government of Canada, you can have access to some great bene
             
 ### How to apply
             
-To apply for this opportunity, please [email us](CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with ‘Product Manager’ in the subject line, include a copy of your resume, a statement on how you meet our criteria and links to a few examples of things you have worked on that are relevant to the role.
+To apply for this opportunity, please [email us](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with ‘Product Manager’ in the subject line, include a copy of your resume, a statement on how you meet our criteria and links to a few examples of things you have worked on that are relevant to the role.
