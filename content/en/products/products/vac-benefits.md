@@ -10,7 +10,8 @@ contact:
     - { name: "Courtney Claessens", email: "courtney.claessens@tbs-sct.gc.ca"}
 status: "in-flight"
 links:
-    - {name: "GitHub", url: "https://github.com/cds-snc/vac-poc"}
+    - {name: "GitHub", url: "https://github.com/veteransaffairscanada/vac-benefits-directory"}
+    - {name: "Documentation", url: "https://cds-snc.github.io/vac-benefits-directory-documentation"}
 ---
 # Product 1
 
