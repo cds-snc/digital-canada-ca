@@ -3,7 +3,7 @@ layout: blog
 title: "Libérer le talent\_et 4 autres conseils pour changer le gouvernement"
 description: >-
   Cinq conseils d’une pionnière du SNC pour changer la façon dont le
-  gouvernement livre ses services
+  gouvernement livre ses services.
 author: 'Pascale Elvas, Directrice principale'
 date: 2019-01-03T14:00:35.062Z
 image: /img/cds/nordwood-themes-1066398-unsplash.jpg
@@ -24,9 +24,8 @@ Réduisons l’écart entre ceux qui prennent les décisions et ceux qui en subi
 
 De nos jours, les prestations de services demandent aux équipes multidisciplinaires des’attaquer à des problèmes complexes. L’apport des perspectives de chacun et le travail d’équipe font en sorte que la culture doit être au sommet de nos préoccupations. Soyons des leaders compatissants, créons des espaces permettant d’entendre chaque voix et défendons l’idée des « opinions fortes, mais ouvertes à évoluer ». Cela permettra de garantir un environnement de travail sain et respectueux.
 
-## Libérer le talent d’une façon nouvelle.
+## Libérer le talent d’une façon nouvelle
 
 Soyons créatifs dans la façon dont nous déployons les plus brillants esprits au gouvernement. Lorsque nous recrutons, essayons d’examiner les habiletés plutôt que les références, puis créons des parcours professionnels qui amènent les bonnes personnes à rester. Les échanges ou affectations temporaires constituent un mécanisme puissant pour attirer des gens à la fonction publique. N’ayez donc pas peur de les utiliser. De plus, ce n’est pas tout le monde qui souhaite déménager à Gatineau-Ottawa. Ainsi, vous gagnez à faire du télétravail une expérience enrichissante. Enfin, les grandes demandes de propositions peuvent être inaccessibles pour les petites organisations. C’est une bonne idée d’élaborer des petits contrats pour aider les petites entreprises, et de rectifier le tir plus souvent si nécessaire.
 
-
-*Note biographique : Pascale Elvas a été fondatrice et directrice principale du Service numérique canadien. En décembre 2018, elle a accepté un nouveau défi au Secrétariat du Conseil du Trésor. Elle met sur pied un secrétariat qui aidera 75 organisations et ministères à réviser leurs pratiques de collecte et d’utilisation des informations de genre et de sexe. Grâce à cela, le Canada pourrait devenir un leader mondial en conception de services inclusifs. Cette révision touchera à tout, de l’aspect numérique (interopérabilité et gestion d’identité) à la prestation de services (par téléphone, en personne et en ligne), en passant par les politiques sociales (quels renseignements sont vraiment nécessaires, et pour quelles fins sont-ils utilisés ?).*
+_Note biographique : Pascale Elvas a été fondatrice et directrice principale du Service numérique canadien. En décembre 2018, elle a accepté un nouveau défi au Secrétariat du Conseil du Trésor. Elle met sur pied un secrétariat qui aidera 75 organisations et ministères à réviser leurs pratiques de collecte et d’utilisation des informations de genre et de sexe. Grâce à cela, le Canada pourrait devenir un leader mondial en conception de services inclusifs. Cette révision touchera à tout, de l’aspect numérique (interopérabilité et gestion d’identité) à la prestation de services (par téléphone, en personne et en ligne), en passant par les politiques sociales (quels renseignements sont vraiment nécessaires, et pour quelles fins sont-ils utilisés ?)._
