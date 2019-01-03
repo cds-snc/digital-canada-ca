@@ -29,9 +29,9 @@ Powered by [Hugo](https://gohugo.io/), and the [Web Experience Toolkit](https://
     hugo server -D 
     ```
 
-Both languages will be hosted at localhost:1313 and localhost:1414 respectively.
+Both languages will be hosted at localhost:1313 and localhost:1314 respectively.
 
-To get Netlfy CMS up and running:
+To get Netlify CMS up and running:
 1. Pull in dependencies
     ```
     npm install
