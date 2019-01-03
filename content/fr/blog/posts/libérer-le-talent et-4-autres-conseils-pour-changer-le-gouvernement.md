@@ -18,7 +18,7 @@ Si nous souhaitons, par exemple, adopter l’infonuagique dès le commencement, 
 
 ## Établissons une connexion entre les décisions et les personnes
 
-Réduisons l’écart entre ceux qui prennent les décisions et ceux qui en subissent les conséquences. Le fait de voir un client peiner à utiliser un service peut nous enseigner davantage que des mois de breffage. Michelle Lattimore, l’une des premières partenaires du SNC en tant qu’ancienne directrice générale de l’expérience client à Immigration, Réfugiés et Citoyenneté Canada, est très éloquente à propos de cette connexion avec les utilisateurs. Si vous êtes responsable d’un centre d’appels, allez passer un avant-midi là-bas pour écouter et apprendre.
+Réduisons l’écart entre ceux qui prennent les décisions et ceux qui en subissent les conséquences. Le fait de voir un client peiner à utiliser un service peut nous enseigner davantage que des mois de breffage. Michelle Lattimore, l’une des premières partenaires du SNC en tant qu’ancienne directrice générale de l’expérience client à Immigration, Réfugiés et Citoyenneté Canada, est [très éloquente](https://www.thestar.com/news/immigration/2017/09/10/customer-service-a-new-concept-for-canadas-immigration-department.html) à propos de cette connexion avec les utilisateurs. Si vous êtes responsable d’un centre d’appels, allez passer un avant-midi là-bas pour écouter et apprendre.
 
 ## Faites de la culture une priorité
 
