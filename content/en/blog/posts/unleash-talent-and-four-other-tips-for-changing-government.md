@@ -3,7 +3,7 @@ layout: blog
 title: Unleash talent and four other tips for changing government
 description: >-
   Five tips on changing how government delivers services from someone who’s been
-  here from the beginning
+  here from the beginning.
 author: 'Pascale Elvas, Senior Director'
 date: 2019-01-03T14:00:04.407Z
 image: /img/cds/nordwood-themes-1066398-unsplash.jpg
