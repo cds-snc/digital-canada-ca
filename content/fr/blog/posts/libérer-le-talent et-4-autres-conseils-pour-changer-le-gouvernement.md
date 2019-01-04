@@ -14,7 +14,7 @@ Après deux ans à bâtir le SNC, j’ai voulu partager quelques réflexions sur
 
 ## Transformons le travail qui s’impose en ce qu’il y a de plus facile
 
-Si nous souhaitons, par exemple, adopter l’infonuagique dès le commencement, l’achat de services infonuagiques devrait être aussi facile que l’achat de stylos. Si nous voulons que les personnes travaillent en transparence, donnons-leur le pouvoir de gazouiller. Lorsque des gens disent « non », demandons pourquoi. Essayons de comprendre leur situation et de trouver ce qui conduira à un « oui ». Parfois, les « blocages » ne sont que des interprétations ou des pratiques de gestion, et non des politiques ou des lois.
+Si nous souhaitons, par exemple, adopter l’infonuagique dès le commencement, l’achat de services infonuagiques devrait être aussi facile que l’achat de stylos. Si nous voulons que les personnes travaillent ouvertement, donnons-leur le pouvoir de gazouiller. Lorsque des gens disent « non », demandons pourquoi. Essayons de comprendre leur situation et de trouver ce qui conduira à un « oui ». Parfois, les « blocages » ne sont que des interprétations ou des pratiques de gestion, et non des politiques ou des lois.
 
 ## Établissons une connexion entre les décisions et les personnes
 
