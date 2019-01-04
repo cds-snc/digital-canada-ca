@@ -17,7 +17,6 @@
           {{ $profileImage:= index $member "image-name"}}
           {{ $imageScratch.Set "team" $profileImage }}
           {{ if getenv "HUGO_ENV" }}
-          {{ $profileImage:= replace $profileImage "cds" "cds/min" }}
           {{ $profileImage:= replace $profileImage "png" "jpg"}}
           {{ $imageScratch.Set "team" $profileImage }}
           {{end}}
@@ -78,13 +77,11 @@
           {{ $profileImage:= index $member "image-name"}}
           {{ $imageScratch.Set "team" $profileImage }}
           {{ if getenv "HUGO_ENV" }}
-          {{ $profileImage:= replace $profileImage "cds" "cds/min" }}
           {{ $profileImage:= replace $profileImage "png" "jpg"}}
           {{ $imageScratch.Set "team" $profileImage }}
           {{end}}
 
           {{ $profileImage:= $imageScratch.Get "team"}}
-
 
           <div class="photo-container">
             <div class="photo" style="background-image: url('{{ $profileImage }}');"></div>

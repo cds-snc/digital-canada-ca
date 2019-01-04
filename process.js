@@ -9,11 +9,10 @@ const getFileInfo = file => {
   return { name, ext };
 };
 
-
 const saveFile = (dirname, filename) => {
 
   const filePath = `${dirname}/${filename}`;
-  const targetPath = `${dirname}/min`
+  const targetPath = `${dirname}`
   const fileInfo = getFileInfo(filePath);
 
   if (!fs.existsSync(targetPath)) {
@@ -32,14 +31,15 @@ const saveFile = (dirname, filename) => {
       fit: "inside",
       position: "entropy",
       withoutEnlargement: true
-
     })
     .toFormat('jpeg')
-    .toFile(`${targetPath}/${fileInfo.name}.jpg`, (err, info) => {
-      if (err) {
-        console.log(err);
-        return;
-      }
+    .toBuffer(function(err, buffer) {
+      fs.writeFile(`${targetPath}/${fileInfo.name}.jpg`, buffer, function(err) {
+        if (err) {
+          console.log(err);
+          return;
+        }
+      });
     });
 };
 
@@ -62,4 +62,4 @@ function moveFiles(dirname, target) {
   });
 }
 
-moveFiles("public/en/img/cds/");
+moveFiles("static/img/cds/");
