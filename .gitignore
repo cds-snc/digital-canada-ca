@@ -2,3 +2,4 @@ node_modules/*
 static/admin/bundle.js
 public/*
 resources/*
+.DS_store

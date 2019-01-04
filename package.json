@@ -14,12 +14,14 @@
     "webpack": "^4.26.1"
   },
   "devDependencies": {
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.1.2",
+    "sharp": "^0.21.1"
   },
   "scripts": {
     "dev": "webpack && hugo server -D",
-    "build": "webpack && hugo",
-    "build_admin": "webpack --config webpack.config.js"
+    "build": "export HUGO_ENV='production' && webpack && hugo && npm run image:process",
+    "build_admin": "webpack --config webpack.config.js",
+    "image:process": "node process.js"
   },
   "repository": {
     "type": "git",
