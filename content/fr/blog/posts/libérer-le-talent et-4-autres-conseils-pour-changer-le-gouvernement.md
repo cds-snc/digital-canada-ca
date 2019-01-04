@@ -22,7 +22,7 @@ Réduisons l’écart entre ceux qui prennent les décisions et ceux qui en subi
 
 ## Faites de la culture une priorité
 
-De nos jours, les prestations de services demandent aux équipes multidisciplinaires des’attaquer à des problèmes complexes. L’apport des perspectives de chacun et le travail d’équipe font en sorte que la culture doit être au sommet de nos préoccupations. Soyons des leaders compatissants, créons des espaces permettant d’entendre chaque voix et défendons l’idée des « opinions fortes, mais ouvertes à évoluer ». Cela permettra de garantir un environnement de travail sain et respectueux.
+De nos jours, les prestations de services demandent aux équipes multidisciplinaires de s’attaquer à des problèmes complexes. L’apport des perspectives de chacun et le travail d’équipe font en sorte que la culture doit être au sommet de nos préoccupations. Soyons des leaders compatissants, créons des espaces permettant d’entendre chaque voix et défendons l’idée des « opinions fortes, mais ouvertes à évoluer ». Cela permettra de garantir un environnement de travail sain et respectueux.
 
 ## Libérer le talent d’une façon nouvelle
 
