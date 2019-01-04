@@ -16,7 +16,8 @@ jobs:
           name: "Build admin section"
           command: |
             npm install
-            npm run build_admin
+            npm run build:admin
+            npm run image:process
 
       # Store compiled cache (persisted across jobs)
       - run: echo $CIRCLE_SHA1 > .circle-sha

@@ -20,7 +20,7 @@
   "scripts": {
     "dev": "webpack && hugo server -D",
     "build": "export HUGO_ENV='production' && webpack && npm run image:process && hugo",
-    "build_admin": "webpack --config webpack.config.js",
+    "build:admin": "webpack --config webpack.config.js",
     "image:process": "node process.js"
   },
   "repository": {
