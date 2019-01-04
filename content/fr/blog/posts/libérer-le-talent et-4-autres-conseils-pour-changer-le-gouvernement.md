@@ -20,11 +20,11 @@ Si nous souhaitons, par exemple, adopter l’infonuagique dès le commencement, 
 
 Réduisons l’écart entre ceux qui prennent les décisions et ceux qui en subissent les conséquences. Le fait de voir un client peiner à utiliser un service peut nous enseigner davantage que des mois de breffage. Michelle Lattimore, l’une des premières partenaires du SNC en tant qu’ancienne directrice générale de l’expérience client à Immigration, Réfugiés et Citoyenneté Canada, est [très éloquente](https://www.thestar.com/news/immigration/2017/09/10/customer-service-a-new-concept-for-canadas-immigration-department.html) à propos de cette connexion avec les utilisateurs. Si vous êtes responsable d’un centre d’appels, allez passer un avant-midi là-bas pour écouter et apprendre.
 
-## Faites de la culture une priorité
+## Faisons de la culture une priorité
 
 De nos jours, les prestations de services demandent aux équipes multidisciplinaires de s’attaquer à des problèmes complexes. L’apport des perspectives de chacun et le travail d’équipe font en sorte que la culture doit être au sommet de nos préoccupations. Soyons des leaders compatissants, créons des espaces permettant d’entendre chaque voix et défendons l’idée des « opinions fortes, mais ouvertes à évoluer ». Cela permettra de garantir un environnement de travail sain et respectueux.
 
-## Libérer le talent d’une façon nouvelle
+## Libérons le talent d’une façon nouvelle
 
 Soyons créatifs dans la façon dont nous déployons les plus brillants esprits au gouvernement. Lorsque nous recrutons, essayons d’examiner les habiletés plutôt que les références, puis créons des parcours professionnels qui amènent les bonnes personnes à rester. Les échanges ou affectations temporaires constituent un mécanisme puissant pour attirer des gens à la fonction publique. N’ayez donc pas peur de les utiliser. De plus, ce n’est pas tout le monde qui souhaite déménager à Gatineau-Ottawa. Ainsi, vous gagnez à faire du télétravail une expérience enrichissante. Enfin, les grandes demandes de propositions peuvent être inaccessibles pour les petites organisations. C’est une bonne idée d’élaborer des petits contrats pour aider les petites entreprises, et de rectifier le tir plus souvent si nécessaire.
 
