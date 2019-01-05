@@ -88,3 +88,4 @@ languages:
         name: Contactez-nous
         url: /contactez-nous/
         weight: 7
+disableKinds: [taxonomyTerm, section]
