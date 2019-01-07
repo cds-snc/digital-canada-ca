@@ -14,5 +14,7 @@ partners:
   - name: Anciens Combattants Canada
     url: 'http://www.veterans.gc.ca/fra'
 status: in-flight
+links:
+  - name: Documentation
+    url: 'https://cds-snc.github.io/vac-benefits-directory-documentation/accueil/'
 ---
-

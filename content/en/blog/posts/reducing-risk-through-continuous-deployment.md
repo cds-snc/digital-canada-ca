@@ -1,11 +1,13 @@
 ---
-title: "Reducing risk through continuous deployment"
-description: "It’s not just possible; it’s standard practice in industry. The tooling is available to everyone today, and it’s cheap."
-author: Jason White, Head of data science
-date: 2018-05-16 09:00:00 -0400
+title: Reducing risk through continuous deployment
+description: >-
+  It’s not just possible; it’s standard practice in industry. The tooling is
+  available to everyone today, and it’s cheap.
+author: 'Jason White, Head of Data Science'
+date: '2018-05-16 09:00:00 -0400'
 image: /img/cds/blog-continuous-deployment.jpg
 image-alt: A man works at his desk working on code.
-translationKey: "reducing-risk-through-continuous-deployment"
+translationKey: reducing-risk-through-continuous-deployment
 ---
 
 Most of the departments we work with are deploying new versions of their code quarterly, semi-annually, or annually. This fits well with the standard [waterfall software development](https://en.wikipedia.org/wiki/Waterfall_model) process, but it comes with some serious risks.
