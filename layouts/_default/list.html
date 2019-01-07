@@ -1,2 +1,20 @@
-<!-- removes warnings about missing teplates for taxonomies -->
-<!-- add markup here as needed -->
+{{ define "title"}}
+    {{ partial "menu" }}
+    <div class="page-banner" style="background-image:url('/img/cds/header-images/our-team.jpg')">
+        <div class="page-banner--scrim"></div>
+        <div class="container">
+            <div class="page-banner--title">
+                <h1>{{ i18n "404"}}</h1>
+            </div>
+        </div>
+    </div>
+{{ end }}
+
+{{ define "main"}}
+    <div class="container">
+        <div class="content">
+            {{ $path := printf "%s%s%s" "404." (string ($.Site.Language)) ".html" }}
+            {{ partial  $path }}
+        </div>
+    </div>
+{{ end }}
