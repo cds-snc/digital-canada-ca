@@ -5,7 +5,7 @@ description: >-
   A service that allows people to reschedule their citizenship test online,
   moving away from paper-based processes and providing a simpler, easier and
   faster user experience for citizenship applicants.
-product-url: ''
+product-url: 'https://github.com/cds-snc/ircc-rescheduler'
 phase: beta
 contact:
   - email: kylie.havelock@cds-snc.ca
