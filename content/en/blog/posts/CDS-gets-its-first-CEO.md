@@ -1,11 +1,14 @@
 ---
-title: "CDS gets its first Chief Executive Officer, Aaron Snow"
-description: "We are thrilled to have Aaron Snow join us at CDS. As our first CEO, Aaron will have a key role helping departments make better use of digital, to better serve Canadians."
-author: Anatole Papadopoulos, Executive director
-date: 2018-03-09 09:00:00 -0400
+title: 'CDS gets its first Chief Executive Officer, Aaron Snowdddd'
+description: >-
+  We are thrilled to have Aaron Snow join us at CDS. As our first CEO, Aaron
+  will have a key role helping departments make better use of digital, to better
+  serve Canadians.
+author: 'Anatole Papadopoulos, Executive director'
+date: '2018-03-09 09:00:00 -0400'
 image: /img/cds/blog-aaron-snow.jpg
 image-alt: Aaron Snow
-translationKey: "CDS-gets-its-first-CEO"
+translationKey: CDS-gets-its-first-CEO
 ---
 
 In September, Yaprak Baltacıoğlu, Secretary of the Treasury Board, [launched the search for CDS's first CEO.](https://digital.canada.ca/2017/09/12/wanted-ceo-cds/) The global search attracted candidates from all over the world.
