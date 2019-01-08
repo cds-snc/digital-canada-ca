@@ -7,8 +7,8 @@ description: >
   facilitant le travail d'analyse et d'enquête de la police.
 phase: discovery
 contact:
-  - email: ross.ferguson@tbs-sct.gc.ca
-    name: Ross Ferguson
+  - email: daniel.tse@tbs-sct.gc.ca
+    name: Daniel Tse
 partners:
   - name: Gendarmerie royale du Canada
     url: 'http://www.rcmp-grc.gc.ca/fr'
