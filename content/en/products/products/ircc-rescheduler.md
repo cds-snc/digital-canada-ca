@@ -8,8 +8,8 @@ description: >-
 product-url: 'https://github.com/cds-snc/ircc-rescheduler'
 phase: beta
 contact:
-  - email: ross.ferguson@tbs-sct.gc.ca
-    name: Ross Ferguson
+  - email: kylie.havelock@cds-snc.ca
+    name: Kylie Havelock
 partners:
   - name: 'Immigration, Refugees and Citizenship Canada'
     url: 'https://www.canada.ca/en/immigration-refugees-citizenship.html'
