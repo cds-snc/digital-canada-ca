@@ -5,7 +5,7 @@ description: >-
   En adoptant une approche pluridisciplinaire, j’ai pu élargir mon champ de
   compétences et contribuer à la création de produits améliorés.
 author: 'Nick Makuch, concepteur d’interaction et développeur spécialiste du front-end'
-date: 2019-01-08T16:29:47.052Z
+date: 2019-01-08T14:00:00.000Z
 image: /img/cds/yoel-j-gonzalez-304137-unsplash.jpg
 image-alt: >-
   Vue en plan d’une intersection où des voitures sont arrêtées et où des
