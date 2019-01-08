@@ -6,7 +6,7 @@ description: >-
   moving away from paper-based processes and providing a simpler, easier and
   faster user experience for citizenship applicants.
 product-url: ''
-phase: beta
+phase: beta / bêta
 contact:
   - email: ross.ferguson@tbs-sct.gc.ca
     name: Ross Ferguson
