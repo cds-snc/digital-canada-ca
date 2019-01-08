@@ -16,5 +16,5 @@ partners:
 status: in-flight
 links:
   - name: Documentation
-    url: 'https://cds-snc.github.io/vac-benefits-directory-documentation/accueil/'
+    url: 'https://cds-snc.github.io/find-benefits-and-services-documentation/accueil/'
 ---
