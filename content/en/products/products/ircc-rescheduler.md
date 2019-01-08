@@ -14,5 +14,8 @@ partners:
   - name: 'Immigration, Refugees and Citizenship Canada'
     url: 'https://www.canada.ca/en/immigration-refugees-citizenship.html'
 status: past
+links:
+  - name: GitHub
+    url: 'https://github.com/cds-snc/ircc-rescheduler'
 ---
 
