@@ -7,8 +7,8 @@ description: >
   police analyze and investigate reports.
 phase: discovery
 contact:
-  - email: ross.ferguson@tbs-sct.gc.ca
-    name: Ross Ferguson
+  - email: daniel.tse@tbs-sct.gc.ca
+    name: Daniel Tse
 partners:
   - name: Royal Canadian Mounted Police
     url: 'http://www.rcmp-grc.gc.ca/en'
