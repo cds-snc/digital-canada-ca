@@ -8,8 +8,8 @@ description: >
 product-url: ''
 phase: discovery
 contact:
-  - email: kylie.havelock@cds-snc.ca
-    name: Kylie Havelock
+  - email: josh.ruihley@tbs-sct.gc.ca
+    name: Josh Ruihley
 partners:
   - name: Agence du revenu du Canada
     url: 'https://www.canada.ca/fr/agence-revenu.html'
