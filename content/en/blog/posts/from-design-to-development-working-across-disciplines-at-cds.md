@@ -5,7 +5,7 @@ description: >-
   By taking an interdisciplinary approach, I’ve been able to broaden my skills
   and collaborate to build better products. 
 author: 'Nick Makuch, Interaction designer/Front-end developer'
-date: 2019-01-08T16:27:05.121Z
+date: 2019-01-08T14:00:00.000Z
 image: /img/cds/yoel-j-gonzalez-304137-unsplash.jpg
 image-alt: >-
   An aerial view of an intersection where cars are stopped and people are
