@@ -8,6 +8,7 @@ exec:
       en: Chief Executive Officer
       fr: Dirigeant principal
     twitter: aaronsnow
+    archived: false
   - email: Alex.MacEachern@tbs-sct.gc.ca
     image-name: /img/cds/alex-maceachern.jpg
     linkedin: alexandra-maceachern-4b0209b2
@@ -16,6 +17,7 @@ exec:
       en: Chief of Staff
       fr: Chef de cabinet
     twitter: amaceachern123
+    archived: false
   - email: Anatole.Papadopoulos@tbs-sct.gc.ca
     image-name: /img/cds/anatole-papadopoulos.jpg
     linkedin: anatole-papadopoulos-845a431
@@ -24,6 +26,7 @@ exec:
       en: Chief Operating Officer
       fr: Directeur de l’exploitation
     twitter: anatolep
+    archived: false
   - email: Andrea.Gilbrook@tbs-sct.gc.ca
     image-name: /img/cds/andrea-gilbrook.jpg
     linkedin: andreagilbrook
@@ -32,6 +35,7 @@ exec:
       en: Head of Talent
       fr: Chef du talent
     twitter: andreagilbrook
+    archived: false
   - email: Christopher.Govias@tbs-sct.gc.ca
     image-name: /img/cds/chris-govias.jpg
     linkedin: cgovias
@@ -40,6 +44,7 @@ exec:
       en: Chief of Design
       fr: Chef de la conception
     twitter: cgovias
+    archived: false
   - email: Colin.MacArthur@tbs-sct.gc.ca
     image-name: /img/cds/colin-mcarthur.png
     linkedin: 'https://www.linkedin.com/in/colinpmacarthur'
@@ -48,6 +53,7 @@ exec:
       en: Head of Design Research
       fr: Chef de recherche en conception
     twitter: 'https://twitter.com/colinpmacarthur'
+    archived: false
   - email: Eman.El-Fayomi@tbs-sct.gc.ca
     image-name: /img/cds/eman-elfayomi.png
     linkedin: eelfayomi
@@ -56,6 +62,7 @@ exec:
       en: Acting Head of Design
       fr: Chef par intérim conception
     twitter: emanelfy
+    archived: false
   - email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
     name: John Millons
@@ -63,6 +70,7 @@ exec:
       en: Head of Policy
       fr: Chef des politiques
     twitter: JohnMillons
+    archived: false
   - email: john.obrien@tbs-sct.gc.ca
     image-name: /img/cds/john-obrien.jpg
     linkedin: 'https://www.linkedin.com/in/boardom/'
@@ -71,6 +79,7 @@ exec:
       en: Head of Security
       fr: Chef de sécurité
     twitter: '@boardom_ca'
+    archived: false
   - email: leanne.labelle@tbs-sct.gc.ca
     image-name: /img/cds/leeane-labelle.png
     linkedin: 'http://www.linkedin.com/in/leannelabelle'
@@ -79,12 +88,14 @@ exec:
       en: Head of Partnership
       fr: Chef des partenariats
     twitter: 'https://twitter.com/leannelabelle?lang=en'
+    archived: false
   - email: Lyn.Elliott@tbs-sct.gc.ca
     image-name: /img/cds/lyn-elliott.png
     name: Lyn Elliott
     title:
       en: Acting Head of Outreach
       fr: Chef par intérim de liaison et diffusion
+    archived: false
   - email: Mario.Garneau@tbs-sct.gc.ca
     github: mcman12
     image-name: /img/cds/mario-garneau.png
@@ -93,12 +104,14 @@ exec:
       en: Head of Development
       fr: Chef du développement
     twitter: mcman12
+    archived: false
   - email: Meera.Cunningham@tbs-sct.gc.ca
     image-name: /img/cds/meera-makim-cunningham.png
     name: Meera Makim Cunningham
     title:
       en: Head of Internal Operations
       fr: Chef des opérations internes
+    archived: false
   - email: Ross.Ferguson@tbs-sct.gc.ca
     image-name: /img/cds/ross-ferguson.png
     linkedin: rossferguson
@@ -107,6 +120,7 @@ exec:
       en: Head of Delivery
       fr: Chef de la prestation des services
     twitter: rossferg
+    archived: false
   - email: Sana.Qureshi@tbs-sct.gc.ca
     image-name: /img/cds/sana-qureshi.png
     linkedin: sana-qureshi-35206a11
@@ -114,6 +128,7 @@ exec:
     title:
       en: Acting Head of Internal Operations
       fr: Chef par intérim des opérations internes
+    archived: false
   - email: Wendy.Luciani@tbs-sct.gc.ca
     image-name: /img/cds/wendy-luciani.png
     linkedin: wmluciani
@@ -122,6 +137,7 @@ exec:
       en: Head of Consulting
       fr: Chef des consultations
     twitter: wmluciani
+    archived: false
 team:
   - email: Alexa.Davidson@tbs-sct.gc.ca
     image-name: /img/cds/alexa-davidson.png
@@ -129,6 +145,7 @@ team:
     title:
       en: Internal Operations | Talent
       fr: Opérations internes | Talent
+    archived: false
   - email: Anik.Brazeau@tbs-sct.gc.ca
     image-name: /img/cds/anik-brazeau.jpg
     linkedin: anikbrazeau
@@ -137,6 +154,7 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: brazeauanik
+    archived: false
   - email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
     image-name: /img/cds/bethany-dunfield.png
@@ -144,6 +162,7 @@ team:
     title:
       en: Development
       fr: Développement
+    archived: false
   - email: Charlotte.Pedersen@tbs-sct.gc.ca
     image-name: /img/cds/charlotte-pederson.png
     linkedin: charlottepedersen371
@@ -151,6 +170,7 @@ team:
     title:
       en: Capacity Building
       fr: Renforcement de la capacité
+    archived: false
   - email: Courtney.Claessens@tbs-sct.gc.ca
     image-name: /img/cds/courtney-claessens.png
     linkedin: courtneyclaessens
@@ -158,12 +178,14 @@ team:
     title:
       en: Product Management
       fr: Gestion de produits
+    archived: false
   - email: Damien.Trudel@tbs-sct.gc.ca
     image-name: /img/cds/damien-trudel.png
     name: Damien Trudel
     title:
       en: Security
       fr: Sécurité
+    archived: false
   - github: danprime
     image-name: /img/cds/daniel-tse.jpg
     linkedin: danielmktse
@@ -172,6 +194,7 @@ team:
       en: Product Management
       fr: Gestion de produits
     twitter: danprime
+    archived: false
   - github: dsamojlenko
     image-name: /img/cds/dave-samojlenko.png
     name: Dave Samojlenko
@@ -179,6 +202,7 @@ team:
       en: Development
       fr: Développement
     twitter: dsamojlenko
+    archived: false
   - email: dave.toeg@tbs-sct.gc.ca
     image-name: /img/cds/dave-toeg.png
     linkedin: davetoeg
@@ -187,6 +211,7 @@ team:
       en: Partnerships
       fr: Partenariats
     twitter: davetoeg
+    archived: false
   - email: Eva.Demers-Brett@tbs-sct.gc.ca
     github: evadb
     image-name: /img/cds/eva-demers-brett.png
@@ -195,6 +220,7 @@ team:
       en: Development
       fr: Développement
     twitter: evadbee
+    archived: false
   - email: Hillary.Lorimer@tbs-sct.gc.ca
     image-name: /img/cds/hillary-lorimer.png
     linkedin: hillary-b-lorimer
@@ -203,24 +229,28 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: hillarylorimer
+    archived: false
   - email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.png
     name: Jennifer Fletcher
     title:
       en: Partnerships
       fr: Partenariats
+    archived: false
   - email: Jennifer.Morin@tbs-sct.gc.ca
     image-name: /img/cds/jennifer-morin.jpg
     name: Jennifer Morin
     title:
       en: Internal Operations
       fr: Opérations internes
+    archived: false
   - email: Jessica.Loadenthal@tbs-sct.gc.ca
     image-name: /img/cds/jessica-loadenthal.png
     name: Jessica Loadenthal
     title:
       en: Talent
       fr: Talent
+    archived: false
   - email: julianna.rowsell@tbs-sct.gc.ca
     github: 'https://github.com/JuliannaR/juliannar.github.io'
     image-name: /img/cds/julianna-rowsell.png
@@ -230,12 +260,14 @@ team:
       en: Accessibility
       fr: Accessibilité
     twitter: '@JuliannaRowsell'
+    archived: false
   - email: Klara.Steele@tbs-sct.gc.ca
     image-name: /img/cds/klara-steele.png
     name: Klara Steele
     title:
       en: Capacity Building
       fr: Renforcement de la capacité
+    archived: false
   - email: leon.lukashevsky@codefor.ca
     github: leonL
     image-name: /img/cds/leon-lukashevsky.png
@@ -245,6 +277,7 @@ team:
       en: Development
       fr: Développement
     twitter: le0nL
+    archived: false
   - email: Lucas.Cherkewski@tbs-sct.gc.ca
     github: lchski
     image-name: /img/cds/lucas-cherkewski.png
@@ -254,6 +287,7 @@ team:
       en: Policy
       fr: Politiques
     twitter: lchski
+    archived: false
   - email: Lynn.Chalati@tbs-sct.gc.ca
     image-name: /img/cds/lynn-chalati.png
     linkedin: lynn-chalati-aaa9218a
@@ -262,6 +296,7 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: LynnChalati
+    archived: false
   - github: maxneuvians
     image-name: /img/cds/max-neuvians.png
     linkedin: maxneuvians
@@ -269,6 +304,7 @@ team:
     title:
       en: Development
       fr: Développement
+    archived: false
   - email: megan.beretta@tbs-sct.gc.ca
     image-name: /img/cds/meg-beretta.jpg
     linkedin: 'https://ca.linkedin.com/in/meganberetta'
@@ -277,6 +313,7 @@ team:
       en: Policy
       fr: Politiques
     twitter: '@megberetta '
+    archived: false
   - email: melissa.banyard@tbs-sct.gc.ca
     image-name: /img/cds/mel-banyard.png
     linkedin: 'https://ca.linkedin.com/in/melbanyard'
@@ -285,6 +322,7 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: '@melbanyard'
+    archived: false
   - email: michelle.ngai@tbs-sct.gc.ca
     image-name: /img/cds/michelle-ngai.png
     linkedin: ilovedesign
@@ -293,6 +331,7 @@ team:
       en: Design
       fr: Conception
     twitter: itsMichelleNgai
+    archived: false
   - email: mike.williamson@tbs-sct.gc.ca
     github: sleepycat
     image-name: /img/cds/mike-williamson.png
@@ -301,12 +340,14 @@ team:
       en: Development
       fr: Développement
     twitter: dexterchief
+    archived: false
   - email: Mithula.Naik@tbs-sct.gc.ca
     image-name: /img/cds/mithula-naik.png
     name: Mithula Naik
     title:
       en: Design Research
       fr: Recherche en conception
+    archived: false
   - email: nick.makuch@tbs-sct.gc.ca
     github: nmakuch
     image-name: /img/cds/nick-makuch.png
@@ -315,6 +356,7 @@ team:
       en: Design | Development
       fr: Conception | Développement
     twitter: makuch_nick
+    archived: false
   - email: paul.craig@tbs-sct.gc.ca
     github: pcraig3
     image-name: /img/cds/paul-craig.png
@@ -323,6 +365,7 @@ team:
       en: Development
       fr: Développement
     twitter: pcraig3
+    archived: false
   - email: Priyanka.Rahman@tbs-sct.gc.ca
     image-name: /img/cds/priyanka-rahman.png
     linkedin: priyanka-rahman-5b91a8145
@@ -330,6 +373,7 @@ team:
     title:
       en: Internal Operations
       fr: Opérations internes
+    archived: false
   - email: samantha.sadasivan@tbs-sct.gc.ca
     image-name: /img/cds/sam-sadasivan.jpg
     linkedin: samsadasivan
@@ -338,6 +382,7 @@ team:
       en: Design
       fr: Conception
     twitter: samsadasivan
+    archived: false
   - github: sboots
     image-name: /img/cds/sean-boots.png
     linkedin: seanboots
@@ -346,6 +391,7 @@ team:
       en: Policy
       fr: Politiques
     twitter: sboots
+    archived: false
   - email: Stephen.McMurtry@tbs-sct.gc.ca
     image-name: /img/cds/stephen-mcmurtry.png
     linkedin: stephen-mcmurtry-1b4a8879
@@ -354,6 +400,7 @@ team:
       en: Development
       fr: Développement
     twitter: StephenMcMurtry
+    archived: false
   - email: steve.astels@tbs-sct.gc.ca
     github: sastels
     image-name: /img/cds/steve-astels.png
@@ -363,6 +410,7 @@ team:
       en: Development
       fr: Développement
     twitter: sastels
+    archived: false
   - email: Steven.Talbot@tbs-sct.gc.ca
     image-name: /img/cds/stevie-ray-talbot.png
     name: Stevie-Ray Talbot
@@ -370,12 +418,14 @@ team:
       en: Policy
       fr: Politiques
     twitter: StevieRayTalbot
+    archived: false
   - email: Tim.Arney@tbs-sct.gc.ca
     image-name: /img/cds/tim-arney.png
     name: Tim Arney
     title:
       en: Development
       fr: Développement
+    archived: false
   - email: zak.kain@cds-snc.ca
     image-name: /img/cds/zak-kain.jpg
     name: Zak Kain
@@ -383,9 +433,11 @@ team:
       en: Design
       fr: Conception
     twitter: zakkain
+    archived: false
   - email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.png
     name: Zoe Ritchford
     title:
       en: Internal Operations
       fr: Opérations internes
+    archived: false
