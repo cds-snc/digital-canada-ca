@@ -6,13 +6,16 @@ description: >-
   moving away from paper-based processes and providing a simpler, easier and
   faster user experience for citizenship applicants.
 product-url: ''
-phase: beta
+phase: beta / bêta
 contact:
-  - email: kylie.havelock@cds-snc.ca
-    name: Kylie Havelock
+  - email: ross.ferguson@tbs-sct.gc.ca
+    name: Ross Ferguson
 partners:
   - name: 'Immigration, Refugees and Citizenship Canada'
     url: 'https://www.canada.ca/en/immigration-refugees-citizenship.html'
 status: past
+links:
+  - name: GitHub
+    url: 'https://github.com/cds-snc/ircc-rescheduler'
 ---
 

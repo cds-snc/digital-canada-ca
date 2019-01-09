@@ -83,8 +83,8 @@ exec:
     image-name: /img/cds/lyn-elliott.png
     name: Lyn Elliott
     title:
-      en: Acting Head of Communications
-      fr: Chef par intérim de communications
+      en: Acting Head of Outreach
+      fr: Chef par intérim de liaison et diffusion
   - email: Mario.Garneau@tbs-sct.gc.ca
     github: mcman12
     image-name: /img/cds/mario-garneau.png
@@ -107,6 +107,13 @@ exec:
       en: Head of Delivery
       fr: Chef de la prestation des services
     twitter: rossferg
+  - email: Sana.Qureshi@tbs-sct.gc.ca
+    image-name: /img/cds/sana-qureshi.png
+    linkedin: sana-qureshi-35206a11
+    name: Sana Qureshi
+    title:
+      en: Acting Head of Internal Operations
+      fr: Chef par intérim des opérations internes
   - email: Wendy.Luciani@tbs-sct.gc.ca
     image-name: /img/cds/wendy-luciani.png
     linkedin: wmluciani
@@ -127,8 +134,8 @@ team:
     linkedin: anikbrazeau
     name: Anik Brazeau
     title:
-      en: Communications
-      fr: Communications
+      en: Outreach
+      fr: Liaison et diffusion
     twitter: brazeauanik
   - email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
@@ -252,8 +259,8 @@ team:
     linkedin: lynn-chalati-aaa9218a
     name: Lynn Chalati
     title:
-      en: Communications
-      fr: Communications
+      en: Outreach
+      fr: Liaison et diffusion
     twitter: LynnChalati
   - github: maxneuvians
     image-name: /img/cds/max-neuvians.png
@@ -331,13 +338,6 @@ team:
       en: Design
       fr: Conception
     twitter: samsadasivan
-  - email: Sana.Qureshi@tbs-sct.gc.ca
-    image-name: /img/cds/sana-qureshi.png
-    linkedin: sana-qureshi-35206a11
-    name: Sana Qureshi
-    title:
-      en: Internal Operations
-      fr: Opérations Internes
   - github: sboots
     image-name: /img/cds/sean-boots.png
     linkedin: seanboots
@@ -383,7 +383,7 @@ team:
       en: Design
       fr: Conception
     twitter: zakkain
-  - email: zoe.richford@tbs-sct.gc.ca
+  - email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.png
     name: Zoe Ritchford
     title:
