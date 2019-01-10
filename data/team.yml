@@ -1,5 +1,6 @@
 exec:
-  - email: aaron.snow@tbs-sct.gc.ca
+  - archived: false
+    email: aaron.snow@tbs-sct.gc.ca
     github: aaronsnow
     image-name: /img/cds/aaron-snow.jpg
     linkedin: aaronsnow
@@ -137,7 +138,8 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: brazeauanik
-  - email: Bethany.Dunfield@tbs-sct.gc.ca
+  - archived: true
+    email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
     image-name: /img/cds/bethany-dunfield.png
     name: Bethany Dunfield
