@@ -1,6 +1,5 @@
 exec:
-  - archived: false
-    email: aaron.snow@tbs-sct.gc.ca
+  - email: aaron.snow@tbs-sct.gc.ca
     github: aaronsnow
     image-name: /img/cds/aaron-snow.jpg
     linkedin: aaronsnow
