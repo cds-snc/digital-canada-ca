@@ -1,5 +1,6 @@
 exec:
-  - email: test
+  - archived: true
+    email: test
     github: test
     image-name: /img/cds/bethany-dunfield.png
     linkedin: test
