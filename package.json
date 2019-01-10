@@ -9,12 +9,12 @@
     "babel-preset-env": "^1.7.0",
     "css-loader": "^1.0.1",
     "file-loader": "^1.1.11",
-    "netlify-cms": "^2.2.0",
+    "netlify-cms": "^2.3.2",
     "style-loader": "^0.22.1",
-    "webpack": "^4.26.1"
+    "webpack": "^4.28.1"
   },
   "devDependencies": {
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.2.1"
   },
   "scripts": {
     "dev": "webpack && hugo server -D",
