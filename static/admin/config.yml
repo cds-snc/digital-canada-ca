@@ -183,6 +183,7 @@ collections:
               - {label: linkedin, hint: "Username Only", name: linkedin, widget: string}
               - {label: email, name: email, widget: string}
               - {label: github, hint: "Username Only", name: github, widget: string}
+              - {label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
           - label: team
             name: team
             widget: list
@@ -199,6 +200,7 @@ collections:
               - {label: linkedin, hint: "Username Only", name: linkedin, widget: string}
               - {label: email, name: email, widget: string}
               - {label: github, hint: "Username Only", name: github, widget: string}
+              - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
       - label: "CDS Contact Info"
         name: "contact"
         file: "data/contact.yml"
