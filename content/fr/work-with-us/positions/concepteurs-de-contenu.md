@@ -14,7 +14,7 @@ Les concepteurs de contenu transforment des concepts difficiles en contenu facil
 
 Nous embauchons actuellement à Ottawa, Toronto, Waterloo et Montréal.
 
-## Nous sommes à la recherche de concepteurs dévoués pour se joindre à notre équipe :
+## Nous sommes à la recherche de conceptrices et concepteurs dévoués pour se joindre à notre équipe :
 
 * Votre approche de la conception commence par l’inclusion et l’accessibilité.
 * Vous réussissez très bien à communiquer avec des gens qui ne connaissent pas bien la conception, êtes à l’aise de travailler avec des clients pendant le processus de conception et êtes enthousiaste à l’idée de travailler avec des gens dans le domaine de la recherche et des tests avec les utilisateurs.
