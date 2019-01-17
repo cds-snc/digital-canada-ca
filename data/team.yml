@@ -155,7 +155,7 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: brazeauanik
-  - archived: true
+  - archived: false
     email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
     image-name: /img/cds/bethany-dunfield.png
