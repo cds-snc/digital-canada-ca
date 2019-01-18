@@ -296,7 +296,7 @@ team:
     title:
       en: Outreach
       fr: Liaison et diffusion
-    twitter: ''
+    twitter: test
   - archived: false
     github: maxneuvians
     image-name: /img/cds/max-neuvians.png
