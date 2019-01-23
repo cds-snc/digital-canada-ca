@@ -9,9 +9,9 @@
     "babel-preset-env": "^1.7.0",
     "css-loader": "^1.0.1",
     "file-loader": "^1.1.11",
-    "netlify-cms": "^2.3.2",
+    "netlify-cms": "^2.3.3",
     "style-loader": "^0.22.1",
-    "webpack": "^4.28.1"
+    "webpack": "^4.29.0"
   },
   "devDependencies": {
     "webpack-cli": "^3.2.1"
