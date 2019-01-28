@@ -52,3 +52,7 @@ Le SNC accepte tous les candidats, peu importe la race, l’origine ethnique, la
 
 ## Vous êtes intéressé?
 Envoyez un courriel à l’adresse [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) avec la mention « Responsable de liaison et diffusion à la ligne Objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous savons que chacun apporte des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
+
+## Vous voulez en apprendre davantage sur le SNC ?
+Pour découvrir ce que nous avons fait, lisez notre [blogue](https://numerique.canada.ca/blogue/).
+Pour obtenir les dernières nouvelles, suivez-nous sur [Twitter](https://twitter.com/snc_gc?lang=fr).
