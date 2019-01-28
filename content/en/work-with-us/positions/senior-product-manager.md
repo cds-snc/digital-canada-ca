@@ -50,6 +50,6 @@ CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orie
 ### Interested?
 Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca] (mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Senior Product Manager” in the subject line. Tell us why you’re right for the job. We recognize that everyone brings different skills and experiences to the table and that nobody “checks all the boxes.” Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
 
-Want to learn more about CDS? 
+## Want to learn more about CDS? 
 Read our [blog](https://digital.canada.ca/blog/) to find out what we’ve been up to.
 For the latest news, follow us on [Twitter](https://twitter.com/CDS_GC).
