@@ -279,13 +279,6 @@ team:
       fr: Développement
     twitter: 'https://twitter.com/ElagganK'
   - archived: false
-    email: Klara.Steele@tbs-sct.gc.ca
-    image-name: /img/cds/klara-steele.png
-    name: Klara Steele
-    title:
-      en: Capacity Building
-      fr: Renforcement de la capacité
-  - archived: false
     email: leon.lukashevsky@codefor.ca
     github: leonL
     image-name: /img/cds/leon-lukashevsky.png
