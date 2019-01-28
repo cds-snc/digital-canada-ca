@@ -22,7 +22,8 @@ Nous embauchons actuellement à Ottawa, Toronto, Waterloo et Montréal.
 * Vous êtes passionné par l’expérience des utilisateurs et vous voulez apporter des améliorations mesurables aux services gouvernementaux.
 * Vous avez l’expérience du travail avec les développeurs et les chercheurs et du prototypage rapide.
 
-Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons. Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Notre capacité à fournir de meilleurs services publics, soit des services accessibles et inclusifs, ne peut être réalisée que si nous pouvons reconnaître et exploiter toute la diversité d'idées, d'expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
+## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
+Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Notre capacité à fournir de meilleurs services publics, soit des services accessibles et inclusifs, ne peut être réalisée que si nous pouvons reconnaître et exploiter toute la diversité d'idées, d'expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
 
 Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
 
