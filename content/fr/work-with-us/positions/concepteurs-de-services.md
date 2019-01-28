@@ -25,13 +25,14 @@ Nous embauchons actuellement à Ottawa, Toronto, Waterloo et Montréal.
 * Vous êtes passionné par l’expérience des utilisateurs et vous voulez apporter des améliorations mesurables aux services gouvernementaux.
 * Vous avez l’expérience du travail avec les développeurs et les chercheurs et du prototypage rapide.
 
-Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons. Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Nous cultivons la diversité sur le plan des idées, des expériences et des compétences, car, à nos yeux, c’est la seule manière d’arriver à fournir des services qui soient à la fois de meilleure qualité, plus accessibles et plus inclusifs. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
+## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
+Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Nous cultivons la diversité sur le plan des idées, des expériences et des compétences, car, à nos yeux, c’est la seule manière d’arriver à fournir des services qui soient à la fois de meilleure qualité, plus accessibles et plus inclusifs. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
 
 Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
 
 ## Vous êtes intéressé?
 
-Envoyez-nous un courriel à <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca> et indiquez « Concepteurs de services » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
+Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Concepteurs de services » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
 
 ## Vous voulez en apprendre davantage sur le SNC?
 
