@@ -73,7 +73,7 @@ exec:
     twitter: JohnMillons
   - archived: false
     email: john.obrien@tbs-sct.gc.ca
-    image-name: /img/cds/john-obrien.jpg
+    image-name: /img/cds/john_o-brian.png
     linkedin: 'https://www.linkedin.com/in/boardom/'
     name: John O'Brien
     title:
@@ -163,6 +163,15 @@ team:
     title:
       en: Development
       fr: Développement
+  - email: Bryan.Willey@tbs-sct.gc.ca
+    github: 'https://github.com/willeybryan'
+    image-name: /img/cds/bryan-willey.png
+    linkedin: 'https://www.linkedin.com/in/bryan-willey/'
+    name: Bryan Willey
+    title:
+      en: Product Management
+      fr: Gestion de produits
+    twitter: ''
   - archived: false
     email: Charlotte.Pedersen@tbs-sct.gc.ca
     image-name: /img/cds/charlotte-pederson.png
@@ -261,6 +270,14 @@ team:
       en: Accessibility
       fr: Accessibilité
     twitter: '@JuliannaRowsell'
+  - email: Khalid.Elaggan@tbs-sct.gc.ca
+    image-name: /img/cds/khalid_elaggan.png
+    linkedin: 'https://www.linkedin.com/in/khalidelaggan/'
+    name: Khalid Elaggan
+    title:
+      en: Development
+      fr: Développement
+    twitter: 'https://twitter.com/ElagganK'
   - archived: false
     email: Klara.Steele@tbs-sct.gc.ca
     image-name: /img/cds/klara-steele.png
@@ -426,6 +443,15 @@ team:
     title:
       en: Development
       fr: Développement
+  - email: victoria.chan@tbs-sct.gc.ca
+    github: 'https://github.com/victoriachanimal'
+    image-name: /img/cds/victoria-chan.png
+    linkedin: 'https://www.linkedin.com/in/victoriakaychan/'
+    name: Victoria Chan
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    twitter: 'https://twitter.com/vchanimal'
   - archived: false
     email: zak.kain@cds-snc.ca
     image-name: /img/cds/zak-kain.jpg
