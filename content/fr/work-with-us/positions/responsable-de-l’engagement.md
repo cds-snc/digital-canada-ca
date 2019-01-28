@@ -18,7 +18,9 @@ archived: false
 translationKey: head-outreach
 ---
 Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous repensons la conception et la prestation des services et collaborons avec les utilisateurs à chaque étape du processus. En travaillant ouvertement et en mettant à la disposition de nos partenaires des outils, des talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
+
 En tant qu’équipe de liaison et diffusion, nous sommes les narrateurs du SNC. Nous racontons les histoires qui aident les fonctionnaires à améliorer les services gouvernementaux et à rendre la vie des gens meilleure. Mais sachez que nous ne nous contentons pas de raconter des histoires amusantes. Les problèmes que nous abordons sont complexes, tout comme les histoires que nous racontons. Nous n’avons pas peur de parler de ce qui a fonctionné, de ce qui n’a pas fonctionné et de la façon dont nous pouvons mieux faire. Il n’y a pas de méchants dans les histoires que nous racontons : nous nous engageons à comprendre les besoins de chacun et à résoudre les problèmes avec eux. Si vous êtes prêt à vous exprimer de manière ouverte et personnelle au gouvernement, ce poste vous convient. 
+
 ## Nous cherchons quelqu’un pour les tâches suivantes :
 * Bâtir, conseiller et gérer une équipe travaillant principalement à distance d’un bout à l’autre du Canada
 * Guider l’équipe pour qu’elle développe des outils et des flux de travaux qui renforcent la narration créative et le savoir-faire
@@ -28,8 +30,7 @@ En tant qu’équipe de liaison et diffusion, nous sommes les narrateurs du SNC.
 * Nouer d’excellentes relations et collaborer avec les parties prenantes, les partenaires et les équipes interfonctionnelles
 * Utiliser ses compétences en communication écrite, verbale et visuelle pour conseiller notre équipe
 * Définir les opportunités stratégiques de liaison et diffusion, et savoir les exploiter à bon escient
- 
- 
+
 ## Vous avez le profil parfait si :
 * Vous êtes une personne sociable qui sait comment conseiller une équipe et établir un consensus
 * Vous savez comment émouvoir les gens avec des histoires
@@ -38,19 +39,16 @@ En tant qu’équipe de liaison et diffusion, nous sommes les narrateurs du SNC.
 * Vous savez donner l’impression aux collègues qu’ils sont en votre présence même s’ils communiquent par Google Hangout
 * Vous êtes une personne qui sait écouter et qui valorise les nouvelles idées et perspectives
 * Vous savez que parfois, essayer quelque chose est le meilleur moyen de savoir si ça va marcher
-
-
 * Vous vous souciez de créer la bonne histoire pour le bon public, qu’il s’agisse de recruter un candidat, d’établir un nouveau partenariat ou d’amorcer un changement de culture en milieu de travail 
 * Vous savez qu’il vaut mieux terminer vos tâches qu’être obsédé par la perfection
-
 * Vous êtes un maître jongleur et savez comment gérer de multiples choses en déplacement, y compris les communications proactives et réactives
 * Vous parlez couramment le français et l’anglais (ce serait l’idéal) 
 * Vous aimez la crème glacée. Pas parce qu’on transpire et qu’on a besoin de se calmer. Juste parce qu’on aime avoir nos réunions d’équipe avec des cornets. (Végétalien? Allergique au lactose? Nous avons ce qu’il vous faut.)
 
-Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons. Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus inclusif et représentatif de la société que nous servons. Nous cultivons la diversité sur le plan des idées, des expériences et des compétences, car, à nos yeux, c’est la seule manière d’arriver à fournir des services qui soient à la fois de meilleure qualité, plus accessibles et plus inclusifs. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous nous sommes engagés à aider les talents de tout type à prospérer.
+## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
+Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus inclusif et représentatif de la société que nous servons. Nous cultivons la diversité sur le plan des idées, des expériences et des compétences, car, à nos yeux, c’est la seule manière d’arriver à fournir des services qui soient à la fois de meilleure qualité, plus accessibles et plus inclusifs. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous nous sommes engagés à aider les talents de tout type à prospérer.
 
 Le SNC accepte tous les candidats, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
 
 ## Vous êtes intéressé?
-
-Envoyez un courriel à l’adresse [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca] avec la mention « Responsable de liaison et diffusion à la ligne Objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous savons que chacun apporte des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
+Envoyez un courriel à l’adresse [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) avec la mention « Responsable de liaison et diffusion à la ligne Objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous savons que chacun apporte des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
