@@ -2,10 +2,15 @@
 layout: job-posting
 type: section
 title: Chef de la conception
-description: TEST
+description: >-
+  Nous recherchons un chef de conception qui dirigera une équipe de concepteurs
+  visuels, d’interaction, de contenu et de services dans la création de services
+  publics accessibles et simples à utiliser pour tous.
 archived: false
 translationKey: head-of-design
 ---
+Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous repensons la conception et la prestation des services et collaborons avec les utilisateurs à chaque étape du processus. En travaillant ouvertement et en mettant à la disposition de nos partenaires des outils, des talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
+
 ## Le rôle
 À titre de chef de la conception pour le Service numérique canadien (SNC), vous serez enthousiasmé par le défi de créer et de gérer des services numériques qui fonctionnent sur de multiples canaux, appareils, navigateurs et plateformes. Vous et votre équipe devrez contribuer à faire en sorte que le SNC et ses partenaires mettent en place et révèlent au grand jour des services de qualité, accessibles, inclusifs et sécuritaires. Vous devrez également vous assurer d’aider ces partenaires à se préparer à contrôler, à maintenir et à améliorer continuellement les services que nous offrons avec eux.
  
@@ -13,14 +18,14 @@ Vous devrez diriger une équipe de concepteurs visuels, d’interaction, de cont
  
 Vous devrez être à l’aise de guider et d’encadrer votre équipe dans son travail et son avancement professionnel en créant un environnement où la conception est valorisée et synonyme de succès. En prêchant par l’exemple, vous devrez être en mesure d’avoir une vision d’ensemble, mais aussi détaillée, de comprendre comment concevoir dans un environnement agile, de produire des ébauches en code, dans un logiciel, ainsi que sur papier.
  
-## Ce que nous recherchons :
+## Ce que nous recherchons
 * Vous utilisez les bons outils pour résoudre les problèmes. Vous avez de l’expérience de travail dans un environnement allégé, agile ou en évolution rapide, dans lequel vous avez déployé, à grande échelle, des sources ouvertes et des technologies de l’informatique en nuage.
 * Vous construisez et dirigez des équipes de conception très performantes qui s’occupent de plusieurs produits et services à la fois. Vous interagissez bien avec les autres, à l’interne et à l’externe. Vous inspirez la collaboration et la créativité et pouvez communiquer efficacement à la fois avec des publics spécialisés et non spécialisés.
 * Vous défendez les intérêts des gens que vous servez. Vous construisez avec les gens, en intégrant données et expériences utilisateurs. Vous avez une vision de ce que la conception au sein du gouvernement et pour le gouvernement peut et devrait être, et vous avez envie de remettre en question le statu quo.
 * Vous vous assurez que la conception des services est conséquente, tant à l’interne qu’avec les autres initiatives du SNC. Vous avez le désir de renforcer la capacité à l’échelle du gouvernement du Canada et vous pouvez contribuer activement aux communautés de conception intergouvernementales.
 * Vous avez à cœur de faire du Canada un meilleur endroit.
  
-## Pour être un excellent candidat, vous devez être en mesure de :
+## Pour être un excellent candidat, vous devez être en mesure de
 * Promouvoir l’innovation et orienter les changements de conception du SNC et de nos partenaires gouvernementaux.
 * Diriger vos équipes et votre communauté de pratique dans la conception, la construction et l’exploitation des systèmes critiques.
 * Établir, surveiller et encadrer les concepteurs afin qu’ils respectent les normes professionnelles et qu’ils développent et améliorent continuellement leurs compétences.
