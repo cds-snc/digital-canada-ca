@@ -221,6 +221,13 @@ team:
       en: Partnerships
       fr: Partenariats
     twitter: davetoeg
+  - email: elise.cossette@tbs-sct.gc.ca
+    image-name: /img/cds/elise-cossette.png
+    linkedin: 'https://www.linkedin.com/in/%C3%A9lise-cossette-590b56ab/'
+    name: Élise Cossette
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
   - archived: false
     email: Eva.Demers-Brett@tbs-sct.gc.ca
     github: evadb
