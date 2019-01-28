@@ -19,7 +19,7 @@ You’ll lead a team of interaction, visual, content, and service designers in t
 
 You’ll be comfortable guiding and mentoring your team in their work and career progression by creating an environment where design is valued and can succeed. Leading by example, you’re able to see the bigger picture as well as the fine detail, understand how to design in an agile environment, and can sketch in code, software, as well as on paper. 
 
-## What we’re looking for
+## What we’re looking for:
 
 * You apply the right tools to solve problems. You have experience working in lean, agile, or other fast-moving environments, where you’ve deployed open source and cloud technologies at scale.
 * You build and lead high-performing design teams that are engaged in several products and services at a time. You engage well with others, internally and externally. You inspire collaboration and creativity and can communicate effectively with specialist and non-specialist audiences alike.
@@ -27,7 +27,8 @@ You’ll be comfortable guiding and mentoring your team in their work and career
 * You ensure that the design of services is consistent, both internally and with the rest of CDS initiatives. You have a desire to build capacity across the Government of Canada, and can actively contribute to the cross-government design community. 
 * You are passionate about making Canada a better place.
 
-## An excellent candidate will be able to
+## An excellent candidate will be able to:
+
 * Promote innovation and guide design change at CDS and with our government partners.
 * Lead your teams and community of practice to design, build, and operate critical systems.
 * Set, monitor, and coach designers to meet professional standards and continuously develop and improve their skills.
@@ -42,6 +43,7 @@ You’ll be comfortable guiding and mentoring your team in their work and career
 * Effectively represent government design with cross-industry communities.
 
 ## At CDS, we don’t just accept difference—we celebrate it.
+
 We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the societies we serve. Our ability to deliver better public services—accessible, inclusive services—can only be realized if we can recognise and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 
 CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments.
@@ -50,6 +52,7 @@ CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orie
 
 Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca with](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) “Head of Design” in the subject line. Tell us why you’re right for the job. We recognize that everyone brings different skills and experiences to the table, and that nobody “checks all the boxes.” Include a link to your CV and detailed examples of work that puts a spotlight on your process. Feel free to share whatever else you think will help us get to know you better! 
 
-## Want to learn more about CDS? 
+## Want to learn more about CDS?
+
 Read our [blog](https://digital.canada.ca/blog/) to find out what we’ve been up to.
 For the latest news, follow us on [Twitter](https://twitter.com/CDS_GC).
