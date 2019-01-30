@@ -6,7 +6,7 @@ description: >-
   Canadian Digital Service (CDS) get to operate the way you do?" So I thought I
   would share the full list of authorities and exemptions.
 author: 'Anatole Papadopoulos, Chief Operating Officer'
-date: 2019-01-30T17:32:31.603Z
+date: 2019-01-30T14:00:00.000Z
 image: /img/cds/katka-pavlickova-131100-unsplash-min.jpg
 image-alt: >-
   Two vintage Volkswagen Beetles face each other in a green grass field with a
