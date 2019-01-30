@@ -9,8 +9,8 @@ author: 'Anatole Papadopoulos, Chief Operating Officer'
 date: 2019-01-30T17:32:31.603Z
 image: /img/cds/katka-pavlickova-131100-unsplash-min.jpg
 image-alt: >-
-  Two vintage Volkswagen beetles faceing each other in a green grass feild with
-  a blue sky.
+  Two vintage Volkswagen Beetles face each other in a green grass field with a
+  blue sky.
 translationKey: help-from-friends
 ---
 I often get asked by fellow public servants "What authorities did the Canadian Digital Service (CDS) get to operate the way it does?" So I thought I would share the full list of those authorities and exemptions from our 2017 Treasury Board submission:
