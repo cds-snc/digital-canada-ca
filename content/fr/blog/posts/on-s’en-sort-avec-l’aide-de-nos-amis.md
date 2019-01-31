@@ -12,15 +12,15 @@ image: /img/cds/katka-pavlickova-131100-unsplash-min.jpg
 image-alt: Deux vieux Volkswagen Beetles se font face dans un champ sous un ciel bleu.
 translationKey: help-from-friends
 ---
-Des collègues fonctionnaires me demandent souvent « Quelles autorisations le Service numérique canadien (SNC) a-t-il obtenues pour fonctionner comme il le fait ? » J’ai donc pensé vous faire part de la liste complète de ces autorisations et exceptions qui figurent dans notre présentation au Conseil du Trésor de 2017 :
+Des collègues fonctionnaires me demandent souvent « Quelles autorisations le Service numérique canadien (SNC) a-t-il obtenues pour fonctionner comme il le fait ? » J’ai donc pensé vous faire part des autorisations et permissions que nous avons reçues quand nous sommes allés au Conseil du Trésor pour fonder le SNC :
 
-> « Autoriser le Service numérique canadien à ajouter un identificateur visuel unique à son image de marque conformément à la Politique sur les communications et l’image de marque du gouvernement du Canada. »
+> « Ajouter un identificateur visuel unique à l’image de marque du SNC conformément à la Politique sur les communications et l’image de marque du gouvernement du Canada. »
 
 C’est tout. Cette simple disposition nous permet d’avoir un « identificateur visuel ». *toussotement*, logo, *toussotement*. Voilà, c’est la liste complète, mais évidemment, l’histoire ne s’arrête pas là. 
 
 Nous avons eu recours à des ententes opérationnelles, avec le soutien de la haute direction du Secrétariat du Conseil du Trésor (SCT), afin d’obtenir une plus grande flexibilité et des outils importants. Par exemple :
 
-* Nous gérons nos propres communications, ainsi que notre site Web et nos médias sociaux, en vertu d’une entente avec nos collègues des communications ministérielles. Cela nous permet de travailler dans un esprit d’ouverture. 
+* Nous gérons nos propres communications, ainsi que notre site Web et nos médias sociaux, en collaboration avec nos collègues des communications ministérielles. Cela nous permet de travailler dans un esprit d’ouverture. 
 * Nous exploitons un réseau Wi-Fi non filtré et des [dispositifs non standard](https://numerique.canada.ca/2018/06/27/outils-pour-faire-du-bon-travail/) dans le cadre d’une « autorisation d’exploitation » avec nos collègues des TI. Nous vous expliquerons comment nous avons procédé dans un prochain billet, mais cela fait partie de la façon dont nous veillons à ce que notre équipe ait accès aux outils dont elle a besoin pour accomplir un meilleur travail.
 * Et nous avons utilisé des processus établis pour demander quelques exceptions à la politique. Par exemple, nous avons accueilli nos [associés de Code for Canada](https://numerique.canada.ca/2018/04/19/notre-partenariat-avec-code-for-canada/) par l’entremise d’Échanges Canada, en dérogeant en partie à [la directive](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=12553) (voir B.1.1b). Le Bureau du dirigeant principal des ressources humaines a ensuite appliqué cette exception à l’ensemble de la fonction publique. Cela a permis à Transport Canada, à la Commission de la fonction publique et à d’autres (bientôt !) de faire venir leurs propres associés.
 
