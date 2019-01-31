@@ -13,9 +13,9 @@ image-alt: >-
   blue sky.
 translationKey: help-from-friends
 ---
-I often get asked by fellow public servants “What authorities did the Canadian Digital Service (CDS) get to operate the way it does?” So I thought I would share the authorities we received when we went to Treasury Board to establish CDS:
+I often get asked by fellow public servants “What authorities did the Canadian Digital Service (CDS) get to operate the way it does?” So I thought I would share the authorities we received from government when CDS was established in 2017:
 
-> Adding a unique visual identifier to the corporate identity for CDS per the Government of Canada Policy on Communications and Federal Identity.
+> Adding a unique visual identifier to the corporate identity for CDS as an exception to the Government of Canada Policy on Communications and Federal Identity.
 
 That’s it. This single provision allows us to have a “visual identifier.” That’s the whole list, but obviously, it’s nowhere near the whole story.
 
