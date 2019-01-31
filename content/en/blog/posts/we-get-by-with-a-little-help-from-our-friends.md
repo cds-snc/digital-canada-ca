@@ -17,7 +17,7 @@ I often get asked by fellow public servants “What authorities did the Canadian
 
 > Adding a unique visual identifier to the corporate identity for CDS per the Government of Canada Policy on Communications and Federal Identity.
 
-That’s it. This single provision allows us to have a “visual identifier.” *cough* logo *cough* That’s the whole list, but obviously, it’s nowhere near the whole story.
+That’s it. This single provision allows us to have a “visual identifier.” That’s the whole list, but obviously, it’s nowhere near the whole story.
 
 We’ve used operational agreements, with senior-level support at the Treasury Board Secretariat (TBS), to secure important flexibilities and tools. For example:
 
