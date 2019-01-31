@@ -20,6 +20,7 @@ I often get asked by fellow public servants "What authorities did the Canadian D
 That’s it. This single provision allows us to have a “visual identifier.” *cough*, logo, *cough* That’s the whole list, but obviously, it's nowhere near the whole story. 
 
 We’ve used operational agreements, with senior-level support at the Treasury Board Secretariat (TBS), to secure important flexibilities and tools. For example:
+
 * We manage our own communications, website, and social media, based on an agreement with our departmental communications colleagues. This enables us to work in the open. 
 * We operate unfiltered WiFi and [non-standard devices](https://digital.canada.ca/2018/06/27/tools-to-do-good-work/) under an “Authority to Operate” with our IT colleagues. We'll tell you how we did this in an upcoming post, but it’s part of how we make sure our team has access to the tools it needs to do its best work.
 * And we’ve used established processes to seek a few policy exemptions. For example, we brought in our [Code for Canada fellows](https://digital.canada.ca/2018/04/19/our-partnership-with-code-for-canada/) through Interchange Canada, with an exemption from part of [the directive](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12553) (see B.1.1b). The Office of the Chief of Human Resources Officer (OCHRO) then applied that exemption to the entire public service. This enabled Transport Canada, the Public Service Commission, and others (coming soon!) to bring in their own fellows.
