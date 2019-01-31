@@ -13,11 +13,11 @@ image-alt: >-
   blue sky.
 translationKey: help-from-friends
 ---
-I often get asked by fellow public servants "What authorities did the Canadian Digital Service (CDS) get to operate the way it does?" So I thought I would share the full list of those authorities and exemptions from our 2017 Treasury Board submission:
+I often get asked by fellow public servants “What authorities did the Canadian Digital Service (CDS) get to operate the way it does?” So I thought I would share the authorities and permissions we received when we went to Treasury Board to establish CDS:
 
-> “Provide authority for the Canadian Digital Service to add a unique visual identifier to its corporate identity per the Government of Canada Policy on Communications and Federal Identity.”
+> Adding a unique visual identifier to the corporate identity for CDS per the Government of Canada Policy on Communications and Federal Identity.
 
-That’s it. This single provision allows us to have a “visual identifier.” *cough*, logo, *cough* That’s the whole list, but obviously, it's nowhere near the whole story. 
+That’s it. This single provision allows us to have a “visual identifier.” *cough* logo *cough* That’s the whole list, but obviously, it’s nowhere near the whole story.
 
 We’ve used operational agreements, with senior-level support at the Treasury Board Secretariat (TBS), to secure important flexibilities and tools. For example:
 
@@ -30,7 +30,6 @@ But most importantly, we can operate the way we do because of — you guessed it
 They’re creative. They focus on outcomes and values over process. They know the rules — and the intent behind them — inside-out. And they’re willing to take risks and support us taking them. 
 
 They’re lawyers, human resource and classification advisors, procurement specialists, technology professionals, immigration program managers, and more. They work with our own [“bureaucracy hackers”](https://digital.canada.ca/2018/09/07/policy/) to find ways for us to deliver. Without them, we’d be nowhere.
-
 
 And for every partner we have, we know there are many more out there across the public service, doing the hard work necessary to help their departments serve the public better.
 
