@@ -16,7 +16,7 @@ Des collègues fonctionnaires me demandent souvent « Quelles autorisations le
 
 > « Ajouter un identificateur visuel unique à l’image de marque du SNC conformément à la Politique sur les communications et l’image de marque du gouvernement du Canada. »
 
-C’est tout. Cette simple disposition nous permet d’avoir un « identificateur visuel ». *toussotement*, logo, *toussotement*. Voilà, c’est la liste complète, mais évidemment, l’histoire ne s’arrête pas là. 
+C’est tout. Cette simple disposition nous permet d’avoir un « identificateur visuel ». Voilà, c’est la liste complète, mais évidemment, l’histoire ne s’arrête pas là. 
 
 Nous avons eu recours à des ententes opérationnelles, avec le soutien de la haute direction du Secrétariat du Conseil du Trésor (SCT), afin d’obtenir une plus grande flexibilité et des outils importants. Par exemple :
 
