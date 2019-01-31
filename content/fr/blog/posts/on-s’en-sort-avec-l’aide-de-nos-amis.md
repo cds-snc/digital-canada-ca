@@ -7,7 +7,7 @@ description: >-
   le faites ? » J’ai donc pensé vous donner la liste complète des autorisations
   et des exceptions.
 author: 'Anatole Papadopoulos, directeur de l’exploitation'
-date: 2019-01-30T14:00:00.000Z
+date: 2019-01-31T14:00:00.000Z
 image: /img/cds/katka-pavlickova-131100-unsplash-min.jpg
 image-alt: Deux vieux Volkswagen Beetles se font face dans un champ sous un ciel bleu.
 translationKey: help-from-friends
