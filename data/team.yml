@@ -11,7 +11,7 @@ exec:
     twitter: aaronsnow
   - archived: false
     email: Alex.MacEachern@tbs-sct.gc.ca
-    image-name: /img/cds/alex-maceachern.jpg
+    image-name: /img/cds/alex-maceachern.png
     linkedin: alexandra-maceachern-4b0209b2
     name: Alex MacEachern
     title:
@@ -144,6 +144,13 @@ exec:
       en: Head of Engagement
       fr: Chef de mobilisation
     twitter: wmluciani
+  - email: Joshua.Ruihley@tbs-sct.gc.ca
+    github: '@jroo'
+    image-name: /img/cds/josh-ruihley.png
+    name: Josh Ruihley
+    title:
+      en: Senior Technical Advisor
+      fr: Conseiller technique principal
 team:
   - archived: false
     email: Alexa.Davidson@tbs-sct.gc.ca
@@ -415,6 +422,12 @@ team:
       en: Policy
       fr: Politiques
     twitter: sboots
+  - email: Stephanie.Gauthier@tbs-sct.gc.ca
+    image-name: /img/cds/stephanie-gauthier.png
+    name: Stephanie Gauthier
+    title:
+      en: Talent
+      fr: Talent
   - archived: false
     email: Stephen.McMurtry@tbs-sct.gc.ca
     image-name: /img/cds/stephen-mcmurtry.png
