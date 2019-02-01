@@ -145,6 +145,7 @@ exec:
       fr: Chef de mobilisation
     twitter: wmluciani
   - email: Joshua.Ruihley@tbs-sct.gc.ca
+    github: '@jroo'
     image-name: /img/cds/josh-ruihley.png
     name: Josh Ruihley
     title:
