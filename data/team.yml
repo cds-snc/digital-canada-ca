@@ -11,7 +11,7 @@ exec:
     twitter: aaronsnow
   - archived: false
     email: Alex.MacEachern@tbs-sct.gc.ca
-    image-name: /img/cds/alex-maceachern.jpg
+    image-name: /img/cds/alex-maceachern.png
     linkedin: alexandra-maceachern-4b0209b2
     name: Alex MacEachern
     title:
@@ -63,6 +63,12 @@ exec:
       en: Acting Head of Design
       fr: Chef par intérim conception
     twitter: emanelfy
+  - email: jennifer.fletcher@tbs-sct.gc.ca
+    image-name: /img/cds/jen-fletcher.png
+    name: Jennifer Fletcher
+    title:
+      en: Acting Head of Partnerships
+      fr: Chef par intérim des partenariats
   - archived: false
     email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
@@ -80,14 +86,21 @@ exec:
       en: Head of Security
       fr: Chef de sécurité
     twitter: '@boardom_ca'
+  - email: Joshua.Ruihley@tbs-sct.gc.ca
+    github: '@jroo'
+    image-name: /img/cds/josh-ruihley.png
+    name: Josh Ruihley
+    title:
+      en: Senior Technical Advisor
+      fr: Conseiller technique principal
   - archived: false
     email: leanne.labelle@tbs-sct.gc.ca
     image-name: /img/cds/leeane-labelle.png
     linkedin: 'http://www.linkedin.com/in/leannelabelle'
     name: Leanne Labelle
     title:
-      en: Head of Partnership
-      fr: Chef des partenariats
+      en: Senior Advisor
+      fr: Conseiller principal
     twitter: 'https://twitter.com/leannelabelle?lang=en'
   - archived: false
     email: Lyn.Elliott@tbs-sct.gc.ca
@@ -246,7 +259,7 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: hillarylorimer
-  - archived: false
+  - archived: true
     email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.png
     name: Jennifer Fletcher
@@ -409,6 +422,12 @@ team:
       en: Policy
       fr: Politiques
     twitter: sboots
+  - email: Stephanie.Gauthier@tbs-sct.gc.ca
+    image-name: /img/cds/stephanie-gauthier.png
+    name: Stephanie Gauthier
+    title:
+      en: Talent
+      fr: Talent
   - archived: false
     email: Stephen.McMurtry@tbs-sct.gc.ca
     image-name: /img/cds/stephen-mcmurtry.png
