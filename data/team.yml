@@ -144,6 +144,12 @@ exec:
       en: Head of Engagement
       fr: Chef de mobilisation
     twitter: wmluciani
+  - email: Joshua.Ruihley@tbs-sct.gc.ca
+    image-name: /img/cds/josh-ruihley.png
+    name: Josh Ruihley
+    title:
+      en: Senior Technical Advisor
+      fr: Conseiller technique principal
 team:
   - archived: false
     email: Alexa.Davidson@tbs-sct.gc.ca
