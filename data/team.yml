@@ -63,7 +63,8 @@ exec:
       en: Acting Head of Design
       fr: Chef par intérim conception
     twitter: emanelfy
-  - email: jennifer.fletcher@tbs-sct.gc.ca
+  - archived: true
+    email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.png
     name: Jennifer Fletcher
     title:
