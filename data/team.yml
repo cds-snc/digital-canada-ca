@@ -63,7 +63,8 @@ exec:
       en: Acting Head of Design
       fr: Chef par intérim conception
     twitter: emanelfy
-  - email: jennifer.fletcher@tbs-sct.gc.ca
+  - archived: true
+    email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.png
     name: Jennifer Fletcher
     title:
@@ -86,7 +87,8 @@ exec:
       en: Head of Security
       fr: Chef de sécurité
     twitter: '@boardom_ca'
-  - email: Joshua.Ruihley@tbs-sct.gc.ca
+  - archived: true
+    email: Joshua.Ruihley@tbs-sct.gc.ca
     github: '@jroo'
     image-name: /img/cds/josh-ruihley.png
     name: Josh Ruihley
@@ -422,7 +424,8 @@ team:
       en: Policy
       fr: Politiques
     twitter: sboots
-  - email: Stephanie.Gauthier@tbs-sct.gc.ca
+  - archived: true
+    email: Stephanie.Gauthier@tbs-sct.gc.ca
     image-name: /img/cds/stephanie-gauthier.png
     name: Stephanie Gauthier
     title:
@@ -462,7 +465,8 @@ team:
     title:
       en: Development
       fr: Développement
-  - email: victoria.chan@tbs-sct.gc.ca
+  - archived: false
+    email: victoria.chan@tbs-sct.gc.ca
     github: 'https://github.com/victoriachanimal'
     image-name: /img/cds/victoria-chan.png
     linkedin: 'https://www.linkedin.com/in/victoriakaychan/'
