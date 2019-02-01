@@ -87,6 +87,14 @@ exec:
       en: Head of Security
       fr: Chef de sécurité
     twitter: '@boardom_ca'
+  - archived: true
+    email: Joshua.Ruihley@tbs-sct.gc.ca
+    github: '@jroo'
+    image-name: /img/cds/josh-ruihley.png
+    name: Josh Ruihley
+    title:
+      en: Senior Technical Advisor
+      fr: Conseiller technique principal
   - archived: false
     email: leanne.labelle@tbs-sct.gc.ca
     image-name: /img/cds/leeane-labelle.png
@@ -145,14 +153,6 @@ exec:
       en: Head of Engagement
       fr: Chef de mobilisation
     twitter: wmluciani
-  - archived: false
-    email: Joshua.Ruihley@tbs-sct.gc.ca
-    github: '@jroo'
-    image-name: /img/cds/josh-ruihley.png
-    name: Josh Ruihley
-    title:
-      en: Senior Technical Advisor
-      fr: Conseiller technique principal
 team:
   - archived: false
     email: Alexa.Davidson@tbs-sct.gc.ca
@@ -424,7 +424,8 @@ team:
       en: Policy
       fr: Politiques
     twitter: sboots
-  - email: Stephanie.Gauthier@tbs-sct.gc.ca
+  - archived: true
+    email: Stephanie.Gauthier@tbs-sct.gc.ca
     image-name: /img/cds/stephanie-gauthier.png
     name: Stephanie Gauthier
     title:
@@ -464,7 +465,8 @@ team:
     title:
       en: Development
       fr: Développement
-  - email: victoria.chan@tbs-sct.gc.ca
+  - archived: false
+    email: victoria.chan@tbs-sct.gc.ca
     github: 'https://github.com/victoriachanimal'
     image-name: /img/cds/victoria-chan.png
     linkedin: 'https://www.linkedin.com/in/victoriakaychan/'
