@@ -63,7 +63,7 @@ exec:
       en: Acting Head of Design
       fr: Chef par intérim conception
     twitter: emanelfy
-  - archived: true
+  - archived: false
     email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.png
     name: Jennifer Fletcher
@@ -87,7 +87,7 @@ exec:
       en: Head of Security
       fr: Chef de sécurité
     twitter: '@boardom_ca'
-  - archived: true
+  - archived: false
     email: Joshua.Ruihley@tbs-sct.gc.ca
     github: '@jroo'
     image-name: /img/cds/josh-ruihley.png
@@ -236,7 +236,8 @@ team:
       en: Partnerships
       fr: Partenariats
     twitter: davetoeg
-  - email: elise.cossette@tbs-sct.gc.ca
+  - archived: false
+    email: elise.cossette@tbs-sct.gc.ca
     image-name: /img/cds/elise-cossette.png
     linkedin: 'https://www.linkedin.com/in/%C3%A9lise-cossette-590b56ab/'
     name: Élise Cossette
