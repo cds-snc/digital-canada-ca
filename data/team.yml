@@ -287,7 +287,8 @@ team:
       en: Accessibility
       fr: Accessibilité
     twitter: '@JuliannaRowsell'
-  - email: Khalid.Elaggan@tbs-sct.gc.ca
+  - archived: true
+    email: Khalid.Elaggan@tbs-sct.gc.ca
     image-name: /img/cds/khalid_elaggan.png
     linkedin: 'https://www.linkedin.com/in/khalidelaggan/'
     name: Khalid Elaggan
@@ -419,7 +420,7 @@ team:
       en: Policy
       fr: Politiques
     twitter: sboots
-  - archived: true
+  - archived: false
     email: Stephanie.Gauthier@tbs-sct.gc.ca
     image-name: /img/cds/stephanie-gauthier.png
     name: Stephanie Gauthier
