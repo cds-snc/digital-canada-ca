@@ -171,7 +171,8 @@ team:
     title:
       en: Development
       fr: Développement
-  - email: Bryan.Willey@tbs-sct.gc.ca
+  - archived: true
+    email: Bryan.Willey@tbs-sct.gc.ca
     github: 'https://github.com/willeybryan'
     image-name: /img/cds/bryan-willey.png
     linkedin: 'https://www.linkedin.com/in/bryan-willey/'
