@@ -9,6 +9,9 @@ translationKey: sr-dev
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
  
 Le Service numérique canadien est un collectif de personnes créatives qui s’engagent à utiliser ses compétences et ses connaissances numériques pour faciliter l’accès aux services gouvernementaux et l’utilisation de ceux-ci. Nos équipes multidisciplinaires de plus en plus nombreuses collaborent avec les ministères fédéraux pour faire en sorte que les services dont les gens dépendent soient simples et faciles à utiliser. Nous nous concentrons sur la prestation de services publics améliorés en recourant aux meilleures technologies et conceptions, le tout éclairé par les besoins des utilisateurs.
+
+En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, nous renforçons les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services.
+
  
 ## Nous recherchons des développeurs expérimentés et dévoués pour faire grandir notre équipe.
 
