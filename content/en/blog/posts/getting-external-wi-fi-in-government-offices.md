@@ -8,7 +8,7 @@ description: >-
 author: 'Sean Boots, Policy'
 date: 2019-02-06T14:00:31.390Z
 image: /img/cds/img_20190206_121320.jpg
-image-alt: A person holding the wifi logo on paper in nature.
+image-alt: A person connecting their MacBook to a handheld MiFi device.
 translationKey: external-wifi
 ---
 Having access to modern tools is a prerequisite for delivering modern digital services. We’ve written previously about [the importance of modern tools](https://digital.canada.ca/2018/06/27/tools-to-do-good-work/), like MacBooks and Linux-based laptops, for design and software development work.
