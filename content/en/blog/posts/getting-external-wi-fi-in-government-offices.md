@@ -15,7 +15,7 @@ Having access to modern tools is a prerequisite for delivering modern digital se
 
 One of the key ingredients when using these tools is access to external, unfiltered Internet. Our partners across government often ask us how to get external Wi-Fi access for their teams. Here are a few of the options we’ve explored and recommend.
 
-This post is focused on, using external devices for unclassified design and software development work. If you’re dealing with sensitive or protected information, be sure to use an approved device (your department-issued computer and protected network, for example). Note that some links in this post are only available on Government of Canada networks.
+This post is focused on using external devices for unclassified design and software development work. If you’re dealing with sensitive or protected information, be sure to use an approved device (your department-issued computer and protected network, for example). Note that some links in this post are only available on Government of Canada networks.
 
 ## Tethering on a smartphone
 
