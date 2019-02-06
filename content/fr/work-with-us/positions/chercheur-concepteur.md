@@ -44,11 +44,16 @@ Nous recherchons une chercheuse ou un chercheur en conception. À ce titre, vous
 * constamment remettre en question le statu quo et d’exercer des pressions pour favoriser l’adoption de pratiques exemplaires
 * proposer aux membres de l’équipe de nouvelles pistes de réflexion et d’accepter qu’ils remettent aussi en cause sa façon de penser
 
-Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons. Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Nous cultivons la diversité sur le plan des idées, des expériences et des compétences, car, à nos yeux, c’est la seule manière d’arriver à fournir des services qui soient à la fois de meilleure qualité, plus accessibles et plus inclusifs. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
+## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
+Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Nous cultivons la diversité sur le plan des idées, des expériences et des compétences, car, à nos yeux, c’est la seule manière d’arriver à fournir des services qui soient à la fois de meilleure qualité, plus accessibles et plus inclusifs. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
 	
 Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
 	
 
 ### Vous êtes intéressé?
 
-Envoyez-nous un courriel à <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca> et indiquez « Chercheur en conception » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
+Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Chercheur en conception » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
+
+## Vous voulez en apprendre davantage sur le SNC ?
+Pour découvrir ce que nous avons fait, lisez notre [blogue](https://numerique.canada.ca/blogue/).
+Pour obtenir les dernières nouvelles, suivez-nous sur [Twitter](https://twitter.com/snc_gc?lang=fr).
