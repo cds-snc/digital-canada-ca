@@ -8,10 +8,10 @@ description: >-
   votre équipe.
 author: 'Sean Boots, Politiques'
 date: 2019-02-06T14:00:58.492Z
-image: /img/cds/external-wifi-options.jpg
+image: /img/cds/img_20190206_121320.jpg
 image-alt: >-
-  Une photo d’un téléphone intelligent, un appareil MiFi et un routeur Wi-Fi sur
-  un bureau.
+  Une personne tient une feuille de papier affichant le logo du Wi-Fi, dans la
+  nature.
 translationKey: external-wifi
 ---
 Le fait d’avoir accès à des outils modernes est une condition préalable pour la prestation de services numériques modernes. Nous avons écrit auparavant au sujet de [l’importance des outils modernes](https://numerique.canada.ca/2018/06/27/outils-pour-faire-du-bon-travail/), tels que des MacBook et des ordinateurs portables basés sur Linux, pour la conception et le développement de logiciels.
