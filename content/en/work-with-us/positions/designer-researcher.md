@@ -41,10 +41,15 @@ We’re hiring a design researcher. As a researcher, you’ll design, conduct, a
 * Always question the status quo and push for better practices.
 * Challenge your team with your thinking, and you’re open to their challenging yours.
 
-At CDS, we don’t just accept difference - we celebrate it. We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we recognize and harness the most diverse range of thoughts, experiences, and skills. We are committed to helping diverse talent thrive. 
+## At CDS, we don’t just accept difference - we celebrate it.
+We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we recognize and harness the most diverse range of thoughts, experiences, and skills. We are committed to helping diverse talent thrive. 
 
 CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy, or family commitments.
 
 ### Interested?
 
 Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with "Design Researcher" in the subject line. Tell us why you’re right for the job. We recognize that everyone brings different skills and experiences to the table, and that nobody “checks all the boxes.” Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
+
+## Want to learn more about CDS? 
+Read our [blog](https://digital.canada.ca/blog/) to find out what we’ve been up to.
+For the latest news, follow us on [Twitter](https://twitter.com/CDS_GC).

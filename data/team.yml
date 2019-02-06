@@ -11,7 +11,7 @@ exec:
     twitter: aaronsnow
   - archived: false
     email: Alex.MacEachern@tbs-sct.gc.ca
-    image-name: /img/cds/alex-maceachern.jpg
+    image-name: /img/cds/alex-maceachern.png
     linkedin: alexandra-maceachern-4b0209b2
     name: Alex MacEachern
     title:
@@ -64,6 +64,13 @@ exec:
       fr: Chef par intérim conception
     twitter: emanelfy
   - archived: false
+    email: jennifer.fletcher@tbs-sct.gc.ca
+    image-name: /img/cds/jen-fletcher.png
+    name: Jennifer Fletcher
+    title:
+      en: Acting Head of Partnerships
+      fr: Chef par intérim des partenariats
+  - archived: false
     email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
     name: John Millons
@@ -73,7 +80,7 @@ exec:
     twitter: JohnMillons
   - archived: false
     email: john.obrien@tbs-sct.gc.ca
-    image-name: /img/cds/john-obrien.jpg
+    image-name: /img/cds/john_obrien.png
     linkedin: 'https://www.linkedin.com/in/boardom/'
     name: John O'Brien
     title:
@@ -81,13 +88,21 @@ exec:
       fr: Chef de sécurité
     twitter: '@boardom_ca'
   - archived: false
+    email: Joshua.Ruihley@tbs-sct.gc.ca
+    github: '@jroo'
+    image-name: /img/cds/josh-ruihley.png
+    name: Josh Ruihley
+    title:
+      en: Senior Technical Advisor
+      fr: Conseiller technique principal
+  - archived: false
     email: leanne.labelle@tbs-sct.gc.ca
     image-name: /img/cds/leeane-labelle.png
     linkedin: 'http://www.linkedin.com/in/leannelabelle'
     name: Leanne Labelle
     title:
-      en: Head of Partnership
-      fr: Chef des partenariats
+      en: Senior Advisor
+      fr: Conseiller principal
     twitter: 'https://twitter.com/leannelabelle?lang=en'
   - archived: false
     email: Lyn.Elliott@tbs-sct.gc.ca
@@ -105,13 +120,6 @@ exec:
       en: Head of Development
       fr: Chef du développement
     twitter: mcman12
-  - archived: false
-    email: Meera.Cunningham@tbs-sct.gc.ca
-    image-name: /img/cds/meera-makim-cunningham.png
-    name: Meera Makim Cunningham
-    title:
-      en: Head of Internal Operations
-      fr: Chef des opérations internes
   - archived: false
     email: Ross.Ferguson@tbs-sct.gc.ca
     image-name: /img/cds/ross-ferguson.png
@@ -135,8 +143,8 @@ exec:
     linkedin: wmluciani
     name: Wendy Luciani
     title:
-      en: Head of Consulting
-      fr: Chef des consultations
+      en: Head of Engagement
+      fr: Chef de mobilisation
     twitter: wmluciani
 team:
   - archived: false
@@ -163,6 +171,16 @@ team:
     title:
       en: Development
       fr: Développement
+  - archived: false
+    email: Bryan.Willey@tbs-sct.gc.ca
+    github: 'https://github.com/willeybryan'
+    image-name: /img/cds/bryan-willey.png
+    linkedin: 'https://www.linkedin.com/in/bryan-willey/'
+    name: Bryan Willey
+    title:
+      en: Product Management
+      fr: Gestion de produits
+    twitter: ''
   - archived: false
     email: Charlotte.Pedersen@tbs-sct.gc.ca
     image-name: /img/cds/charlotte-pederson.png
@@ -213,6 +231,14 @@ team:
       fr: Partenariats
     twitter: davetoeg
   - archived: false
+    email: elise.cossette@tbs-sct.gc.ca
+    image-name: /img/cds/elise-cossette.png
+    linkedin: 'https://www.linkedin.com/in/%C3%A9lise-cossette-590b56ab/'
+    name: Élise Cossette
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+  - archived: false
     email: Eva.Demers-Brett@tbs-sct.gc.ca
     github: evadb
     image-name: /img/cds/eva-demers-brett.png
@@ -230,7 +256,7 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: hillarylorimer
-  - archived: false
+  - archived: true
     email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.png
     name: Jennifer Fletcher
@@ -262,12 +288,14 @@ team:
       fr: Accessibilité
     twitter: '@JuliannaRowsell'
   - archived: false
-    email: Klara.Steele@tbs-sct.gc.ca
-    image-name: /img/cds/klara-steele.png
-    name: Klara Steele
+    email: Khalid.Elaggan@tbs-sct.gc.ca
+    image-name: /img/cds/khalid_elaggan.png
+    linkedin: 'https://www.linkedin.com/in/khalidelaggan/'
+    name: Khalid Elaggan
     title:
-      en: Capacity Building
-      fr: Renforcement de la capacité
+      en: Development
+      fr: Développement
+    twitter: 'https://twitter.com/ElagganK'
   - archived: false
     email: leon.lukashevsky@codefor.ca
     github: leonL
@@ -376,7 +404,7 @@ team:
       fr: Opérations internes
   - archived: false
     email: samantha.sadasivan@tbs-sct.gc.ca
-    image-name: /img/cds/sam-sadasivan.jpg
+    image-name: /img/cds/samantha-sadasivan.png
     linkedin: samsadasivan
     name: Samantha Sadasivan
     title:
@@ -392,6 +420,13 @@ team:
       en: Policy
       fr: Politiques
     twitter: sboots
+  - archived: false
+    email: Stephanie.Gauthier@tbs-sct.gc.ca
+    image-name: /img/cds/stephanie-gauthier.png
+    name: Stephanie Gauthier
+    title:
+      en: Talent
+      fr: Talent
   - archived: false
     email: Stephen.McMurtry@tbs-sct.gc.ca
     image-name: /img/cds/stephen-mcmurtry.png
@@ -426,6 +461,16 @@ team:
     title:
       en: Development
       fr: Développement
+  - archived: false
+    email: victoria.chan@tbs-sct.gc.ca
+    github: 'https://github.com/victoriachanimal'
+    image-name: /img/cds/victoria-chan.png
+    linkedin: 'https://www.linkedin.com/in/victoriakaychan/'
+    name: Victoria Chan
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    twitter: 'https://twitter.com/vchanimal'
   - archived: false
     email: zak.kain@cds-snc.ca
     image-name: /img/cds/zak-kain.jpg
