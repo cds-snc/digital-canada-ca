@@ -4,7 +4,7 @@ translationKey: low-income-file-taxes
 description: >-
   Exploring a service to help Canadians with low income receive the benefits and
   refunds they’re entitled to by making it easier to file their taxes.
-phase: discovery
+phase: alpha
 contact:
   - email: josh.ruihley@tbs-sct.gc.ca
     name: Josh Ruihley
