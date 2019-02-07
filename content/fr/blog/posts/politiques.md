@@ -49,4 +49,4 @@ Vous souhaitez en discuter davantage? Communiquez avec notre équipe!
 
 [John Millons](https://twitter.com/JohnMillons), [Klara Steele](mailto:Klara.Steele@tbs-sct.gc.ca), [Sean Boots](https://twitter.com/sboots), [Lucas Cherkewski](https://twitter.com/lchski), [Stevie-Ray Talbot](https://twitter.com/StevieRayTalbot) et [James Mickle](https://twitter.com/james_mickle).
 
-*Cette histoire a été produite par [Apolitical](https://apolitical.co/).
+*Cette nouvelle a été produite par [Apolitical](https://apolitical.co/).
