@@ -1,0 +1,68 @@
+{{ define "main" }}
+<div class="container">
+    <section class="content">
+        <section class="section page--outer-container-padding">
+            <div class="row">
+                <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+                    <h2 class="section--title">{{ i18n "hiring" }}</h2>
+                    {{ .Content }}
+                </div>
+            </div>
+        </section>
+    </section>
+</div>
+
+<div>
+    <!-- START APPLY FORM EN  -->
+    {{ if .Params.leverId }}
+    <section class="section work-with-us--apply-now">
+        <div class="container page-wide--outer-container-padding">
+            <h2 class="section--title">Apply now</h2>
+            <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+                <form class="text-left" role="form" id="contactForm">
+                    <input type="hidden" id="jobId" name="jobId" value={{ .Params.leverId }} />
+                    <div class="form-group">
+                        <label for="name">Full Name</label>
+                        <input type="text" class="form-control validate-required" id="name" aria-required="true"
+                            aria-describedby="name-required">
+                        <span id="name-required" class="error-message validate-required-message" style="display: none;">This
+                            field is required</span>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" class="form-control validate-required validate-email" id="email"
+                            aria-required="true" aria-describedby="email-required">
+                        <span id="email-required" class="error-message validate-required-message" style="display: none;">This
+                            field is required</span>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="body">Tell us in 300 words or less why you want to work with us and what we should
+                            know about your work samples:</label>
+                        <textarea class="form-control validate-required validate-maxwords" id="body" rows="5"
+                            aria-required="true" aria-describedby="body-required word-count-message"></textarea>
+                        <span id="body-required" class="error-message validate-required-message" style="display: none;">This
+                            field is required<br></span>
+                        <span id="word-count-message" class="help-text"><span id="word-count">300</span> words
+                            remaining</span>
+                    </div>
+                    <div class="form-group">
+                        <label for="work_link">Samples of your work (URLs, please!)</label>
+                        <input type="text" class="form-control" id="work_link">
+                    </div>
+                    <div class="form-group">
+                        <label class="wb-inv" for="work_link_2">Additional Work Samples</label>
+                        <input type="text" class="form-control" id="work_link_2">
+                    </div>
+                    <button type="submit" class="button" id="submitButton"><span class="spinner" id="buttonSpinner"><i
+                                class="fa fa-refresh fa-spin"></i></span>Submit</button>
+                    <a href="/legal/privacy-notice">Privacy Notice</a>
+                </form>
+            </div>
+        </div>
+    </section>
+    {{ end }}
+    <!--END APPLY FORM EN -->
+
+</div>
+{{ end }}

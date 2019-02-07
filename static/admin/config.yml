@@ -41,25 +41,27 @@ collections:
     folder: "content/en/work-with-us/positions"
     create: true
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting.en" }
       - { label: "Type", name: "type", widget: "hidden", default: "section" }
       - { label: "Title / Titre", name: "title", widget: "string" }
       - { label: "Description / Description", name: "description", widget: "string"}
       - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
       - { label: "Posting ID / Identification de l’affichage", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
       - { label: "Body / Corps", name: "body", widget: "markdown"}
+      - { label: "Job Id", name: "leverId", widget: "string"}
   - name: "travaillez-avec-nous"
     label: "(FR) Carrières"
     folder: "content/fr/work-with-us/positions"
     create: true
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting.fr" }
       - { label: "Type", name: "type", widget: "hidden", default: "section" }
       - { label: "Title / Titre", name: "title", widget: "string" }
       - { label: "Description / Description", name: "description", widget: "string"}
       - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
       - { label: "Posting ID / Identification de l’affichage", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
       - { label: "Body / Corps", name: "body", widget: "markdown"}
+      - { label: "Job Id", name: "leverId", widget: "string"}
   - name: "products"
     label: "(EN) Products"
     folder: "content/en/products/products"
