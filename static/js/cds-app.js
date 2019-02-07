@@ -103,17 +103,6 @@ $(document).ready(function () {
         });
 
         /**
-         * Special handler for the radio buttons
-         */
-        if (!$('#contactForm [name="streams"]:checked').length) {
-            valid = false;
-            errors.push($('#contactForm [name="streams"]:first'));
-
-            $('#contactForm [name="streams"]').closest('.form-group').addClass('error');
-            $('#stream-required').show();
-        }
-
-        /**
          * Handle invalid items
          */
         if (!valid) {
@@ -143,17 +132,18 @@ $(document).ready(function () {
         var data = {
             name: $('#name').val(),
             email: $('#email').val(),
-            stream: $('input[name=streams]:checked').val(),
+            jobId: $('#jobId').val(),
             body: $('#body').val(),
             work_link: $('#work_link').val(),
             work_link_2: $('#work_link_2').val()
         }
 
         var pageLanguage = $('html').attr('lang');
-
+        // @todo this endpoint needs to be updated once the new serverless function is ready
+        var endpoint = "'https://344h8s4v80.execute-api.us-east-1.amazonaws.com/production/email/send"
         $.ajax({
             type: 'POST',
-            url: 'https://344h8s4v80.execute-api.us-east-1.amazonaws.com/production/email/send',
+            url: endpoint,
             dataType: 'text',
             data: JSON.stringify(data),
             complete: function (r) {
@@ -209,15 +199,4 @@ $(document).ready(function () {
             }
         }
     });
-
-    /**
-     * Special handler for radio buttons
-     */
-    $('#contactForm [name="streams"]').change(function () {
-        if ($('#contactForm [name="streams"]:checked').length) {
-            $('#contactForm [name="streams"]').closest('.form-group').removeClass('error');
-            $('#stream-required').hide();
-        }
-    });
-
 }); 

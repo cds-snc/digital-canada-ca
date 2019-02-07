@@ -16,6 +16,7 @@ description: >-
   ce poste vous convient.
 archived: false
 translationKey: head-outreach
+leverId: c990781c-9508-4483-99a3-9bcfeba14584
 ---
 Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous repensons la conception et la prestation des services et collaborons avec les utilisateurs à chaque étape du processus. En travaillant ouvertement et en mettant à la disposition de nos partenaires des outils, des talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
 
