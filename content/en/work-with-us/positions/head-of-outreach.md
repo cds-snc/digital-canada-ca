@@ -13,7 +13,7 @@ description: >-
   personal voice to government then this is the role for you. 
 archived: false
 translationKey: head-outreach
-leverId: c990781c-9508-4483-99a3-9bcfeba14584
+leverId: a4f73901-2595-43a7-a0d1-8d0cfc5d71e4
 ---
 The Canadian Digital Service (CDS) works with federal departments to make the services people depend on simple and easy-to-use. We’re rethinking service design and delivery, and engaging users every step of the way. By working in the open, and connecting partners with tools, talent, and training grounded in practice, we’re building capacity across the government for better service delivery. And we need you.
 

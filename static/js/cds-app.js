@@ -11,7 +11,7 @@ Object.defineProperty(HTMLMediaElement.prototype, 'playing', {
  */
 function validateEmail($email) {
     var emailReg = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
-    return emailReg.test( $email );
+    return emailReg.test($email);
 }
 
 $(document).ready(function () {
@@ -139,12 +139,10 @@ $(document).ready(function () {
         }
 
         var pageLanguage = $('html').attr('lang');
-        // @todo this endpoint needs to be updated once the new serverless function is ready
-        var endpoint = "'https://344h8s4v80.execute-api.us-east-1.amazonaws.com/production/email/send"
+        var endpoint = "https://cjumjswiil.execute-api.ca-central-1.amazonaws.com/production/lever";
         $.ajax({
             type: 'POST',
             url: endpoint,
-            dataType: 'text',
             data: JSON.stringify(data),
             complete: function (r) {
                 console.log(r.responseText);
