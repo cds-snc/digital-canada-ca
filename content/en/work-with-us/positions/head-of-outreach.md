@@ -20,7 +20,7 @@ As the Outreach Team, we are the storytellers of the CDS. We tell the stories th
 
 ## We’re looking for someone who will:
 * Build, coach, and manage a remote-first team working across Canada
-* Guide your team to buildthe tools and workflows to support creative storytelling and craftsmanship
+* Guide your team to build the tools and workflows to support creative storytelling and craftsmanship
 * Co-create and implement an outreach and branding strategy that makes people want to work *with* and *for* the Canadian Digital Service
 * Empower the whole organization to tell compelling stories that move people to approach government services like a start-up
 * Measure what matters and use the data to make the outreach team more effective
