@@ -46,9 +46,9 @@ collections:
       - { label: "Title / Titre", name: "title", widget: "string" }
       - { label: "Description / Description", name: "description", widget: "string"}
       - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
+      - { label: "Job Id", name: "leverId", widget: "string"}
       - { label: "Posting ID / Identification de l’affichage", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
       - { label: "Body / Corps", name: "body", widget: "markdown"}
-      - { label: "Job Id", name: "leverId", widget: "string"}
   - name: "travaillez-avec-nous"
     label: "(FR) Carrières"
     folder: "content/fr/work-with-us/positions"
@@ -59,9 +59,9 @@ collections:
       - { label: "Title / Titre", name: "title", widget: "string" }
       - { label: "Description / Description", name: "description", widget: "string"}
       - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
+      - { label: "Job Id", name: "leverId", widget: "string"}
       - { label: "Posting ID / Identification de l’affichage", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
       - { label: "Body / Corps", name: "body", widget: "markdown"}
-      - { label: "Job Id", name: "leverId", widget: "string"}
   - name: "products"
     label: "(EN) Products"
     folder: "content/en/products/products"

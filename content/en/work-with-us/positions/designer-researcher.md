@@ -15,10 +15,11 @@ description: >-
   Canadians from all walks of life.
 archived: false
 translationKey: designer-researcher
+leverId: 38de70c3-c178-45da-8d2d-9a5d85ed0815
 ---
-The Canadian Digital Service (CDS) works with federal departments to make the services people depend on simple and easy-to-use. We’re a small but mighty team that is rethinking service design and delivery, engaging users every step of the way. By working in the open, and connecting partners with tools, talent, and training grounded in best practices, we’re building capacity across the government for better service delivery. And we need you.
-
 We’re hiring a design researcher. As a researcher, you’ll design, conduct, analyze, and present qualitative research to product teams. You’ll be a key member of a CDS product team and help the team make design decisions based on the insights you discover. You’ll navigate the policy and regulatory constraints of conducting research inside government. You’ll present to partner departments and teach our partners new research skills. You’ll help your fellow CDS team members become better researchers as well, (We believe every CDS team member is a researcher in some way.) Most importantly, you will advocate for the people who use services provided by the Government of Canada; Canadians from all walks of life.
+
+We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
 
 ## What we’re looking for
 
@@ -40,16 +41,3 @@ We’re hiring a design researcher. As a researcher, you’ll design, conduct, a
 * Be non-judgemental and welcoming to research participants and observers of many backgrounds.
 * Always question the status quo and push for better practices.
 * Challenge your team with your thinking, and you’re open to their challenging yours.
-
-## At CDS, we don’t just accept difference - we celebrate it.
-We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we recognize and harness the most diverse range of thoughts, experiences, and skills. We are committed to helping diverse talent thrive. 
-
-CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy, or family commitments.
-
-### Interested?
-
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with "Design Researcher" in the subject line. Tell us why you’re right for the job. We recognize that everyone brings different skills and experiences to the table, and that nobody “checks all the boxes.” Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
-
-## Want to learn more about CDS? 
-Read our [blog](https://digital.canada.ca/blog/) to find out what we’ve been up to.
-For the latest news, follow us on [Twitter](https://twitter.com/CDS_GC).
