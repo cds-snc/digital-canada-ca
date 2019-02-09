@@ -307,3 +307,9 @@ main {
     text-decoration: underline;
   }
 }
+
+.social-links ul{
+  display:flex;
+  justify-content: center;
+  flex-direction: row;
+}

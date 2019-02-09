@@ -39,12 +39,7 @@ languages:
       - identifier: our-team
         name: Our team
         url: /our-team/
-        weight: 3
-      - identifier: contact-us
-        name: Contact
-        url: /contact/
-        weight: 7
-      
+        weight: 3 
   fr:
     baseUrl: https://numerique.canada.ca/
     contentDir: content/fr
@@ -84,7 +79,3 @@ languages:
         name: Notre équipe
         url: /notre-equipe/
         weight: 3
-      - identifier: contactez-nous
-        name: Contactez-nous
-        url: /contactez-nous/
-        weight: 7
