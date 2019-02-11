@@ -10,6 +10,7 @@ description: >-
   commune de créer de meilleurs services publics au Canada.
 archived: false
 translationKey: senior-product-manager
+leverId: 9b41e610-05e3-4ae0-be8c-059a5bb4b7b7
 ---
 Le Service numérique canadien (SNC), en collaboration avec les organisations fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
 

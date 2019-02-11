@@ -18,6 +18,7 @@ description: >-
   gouvernement du Canada, des Canadiennes et Canadiens de tous les horizons.
 archived: false
 translationKey: designer-researcher
+leverId: 93c7cc48-110f-4db3-8db0-b000cd86563c
 ---
 Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
 

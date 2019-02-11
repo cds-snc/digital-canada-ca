@@ -6,14 +6,6 @@ description: We’re looking for dedicated Senior Developers to join our team.
 archived: false
 translationKey: sr-dev
 ---
-We are transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. And we need you.
-
-The Canadian Digital Service is a collective of creative people committed to using our digital skills and knowledge to make it easier to access and use government services. Our growing multidisciplinary teams work with federal departments to make the services people depend on simple and easy-to-use. We are focused on delivering better public services using the best technology and design, all informed by user needs. 
-
-By working in the open, and connecting partners with tools, talent, and training grounded in practice, we’re building capacity across the government for better service delivery.
-
-We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
-
 ## We’re looking for dedicated Senior Developers to join our team.
 
 * You have a passion and skill for delivering high-quality code, in languages such as JavaScript, PHP, Python, Go, and you’ve worked with technologies like NodeJS, React, Angular, Serverless, etc.
@@ -31,13 +23,3 @@ We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
 * Contribute to open source projects and share your work on GitHub or other public code repositories.
 * Promote innovation and guide technological change at CDS and with our government partners.
 * Expand a culture of inclusive delivery and uphold principles of openness, integrity and fairness.
-
-## At CDS, we don’t just accept difference - we celebrate it. 
-
-We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
-
-CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments.
-
-## Interested?
-
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Senior Developers” in the subject line. Tell us why you’re right for the job. We recognize that everyone brings different skills and experiences to the table and that nobody “checks all the boxes.” Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
