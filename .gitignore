@@ -4,3 +4,4 @@ public/*
 resources/*
 .DS_Store
 Dockerfile
+deploy.md
