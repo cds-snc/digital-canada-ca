@@ -1,13 +1,20 @@
 ---
-title: "Bringing together policy and digital delivery"
-description: "Here at the Canadian Digital Service, we’ve been lucky to have great role models to learn from, in the U.K., the U.S., Italy, Australia, Ontario, and many other places, as we work with our partners to improve digital services for Canadians. We use a well-established play to help drive this mission: bringing together multidisciplinary talent into teams that tackle a service challenge together. Our product teams include designers, researchers, developers and product managers, but we’ve also embedded policy and communications people into those teams."
+title: Bringing together policy and digital delivery
+description: >-
+  Here at the Canadian Digital Service, we’ve been lucky to have great role
+  models to learn from, in the U.K., the U.S., Italy, Australia, Ontario, and
+  many other places, as we work with our partners to improve digital services
+  for Canadians. We use a well-established play to help drive this mission:
+  bringing together multidisciplinary talent into teams that tackle a service
+  challenge together. Our product teams include designers, researchers,
+  developers and product managers, but we’ve also embedded policy and
+  communications people into those teams.
 author: CDS Policy Team
-date: 2018-09-07 09:00:00 -0400
+date: '2018-09-07 09:00:00 -0400'
 image: /img/cds/blog-puzzle.jpg
 image-alt: Puzzle pieces of different colours connected together.
-translationKey: "policy"
+translationKey: policy
 ---
-
 Here at the Canadian Digital Service, we've been lucky to have great role models to learn from, in the U.K., the U.S., Italy, Australia, Ontario, and many other places, as we work with our partners to improve digital services for Canadians. We use a well-established play to help drive this mission: bringing together multidisciplinary talent into teams that tackle a service challenge together. Our product teams include designers, researchers, developers and product managers, but we've also embedded policy and communications people into those teams. 
 
 Inspiring initiatives are happening in Canada and around the world to bring different skills, perspectives and expertise together to better serve the public. One such movement is [OneTeamGov](https://www.oneteamgov.uk/), which brings together various people from across governments, from policy and design and software development, to front-line staff and senior executives and others, in order to make multidisciplinary delivery "[more than an experiment](https://medium.com/@kcollingwood/what-people-told-us-government-policy-and-service-design-event-c5596b7c8953)."
@@ -40,7 +47,7 @@ Doing policy work within a delivery team is really motivating, since it's easy t
 
 Within the Canadian government, there's a growing movement to bring more traditional policy work into the digital era. Earlier this year, our colleagues in the Policy Community Partnership office [held a conference](https://policomm-commpoli.gccollab.ca) on this topic: how working in the open and talking to users should be a key part of developing regulations and policies, reporting, analysis, and everything else that we do.
 
-Beyond service delivery, the future should bring digital skills, design and user research and data, into the policy and legislative areas themselves. Code for America focused on "[delivery-driven policy](https://medium.com/code-for-america/delivery-driven-government-67e698c57c7b)" at their recent annual summit. [Pia Andrews](https://twitter.com/piawaugh)' team in New Zealand is working on [incorporating developers and data experts into the legislative process](https://apolitical.co/solution_article/new-zealand-explores-machine-readable-laws-to-transform-government/), which is a brilliant approach, since successful digital delivery is sometimes hampered by policies and legislation that weren't developed with users (or technology) in mind. 
+Beyond service delivery, the future should bring digital skills, design and user research and data, into the policy and legislative areas themselves. Code for America focused on "[delivery-driven policy](https://medium.com/code-for-america/delivery-driven-government-67e698c57c7b)" at their recent annual summit.[Pia Andrews](https://twitter.com/piawaugh)' team in New Zealand is working on [incorporating developers and data experts into the legislative process](https://apolitical.co/solution_article/new-zealand-explores-machine-readable-laws-to-transform-government/)*, which is a brilliant approach, since successful digital delivery is sometimes hampered by policies and legislation that weren't developed with users (or technology) in mind. 
 
 For our policy team, we're working on a number of areas, including privacy and consent notices for user research, acquiring cloud that's certified for personal information, and providing compensation for participants in user research and usability testing. Working with policy centres, our goal is to eventually publish guidance and tools for broader use across government.
 
@@ -49,3 +56,5 @@ We're really excited about where things will go next, and it's clear that, no ma
 Interested in chatting more? Reach out to the team! 
 
 [John Millons](https://twitter.com/JohnMillons), [Klara Steele](mailto:Klara.Steele@tbs-sct.gc.ca), [Sean Boots](https://twitter.com/sboots), [Lucas Cherkewski](https://twitter.com/lchski), [Stevie-Ray Talbot](https://twitter.com/StevieRayTalbot), and [James Mickle](https://twitter.com/james_mickle).
+
+*This story was produced by [Apolitical](https://apolitical.co/).
