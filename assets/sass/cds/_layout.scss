@@ -308,13 +308,19 @@ main {
   }
 }
 
-.social-links{
+.social-links-footer{
   border-top: 4px solid #066169;
 }
 
-.social-links ul{
+.social-links-footer ul{
   display:flex;
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
+}
+
+.social-links-footer h4{
+  display:flex;
+  justify-content: center;
+  margin-bottom: 0.5rem;
 }
