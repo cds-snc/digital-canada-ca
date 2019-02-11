@@ -308,8 +308,13 @@ main {
   }
 }
 
+.social-links{
+  border-top: 4px solid #066169;
+}
+
 .social-links ul{
   display:flex;
   justify-content: center;
   flex-direction: row;
+  flex-wrap: wrap;
 }

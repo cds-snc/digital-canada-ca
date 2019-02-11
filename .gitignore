@@ -3,3 +3,4 @@ static/admin/bundle.js
 public/*
 resources/*
 .DS_Store
+Dockerfile
