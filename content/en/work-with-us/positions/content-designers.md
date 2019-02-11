@@ -12,11 +12,11 @@ We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
 
 ## We’re looking for dedicated Designers to join our team:
 
-* Your approach to design starts with inclusivity and accessibility
-* You’re great at communicating with people who aren’t familiar with design, comfortable working alongside clients during the design process, and are excited to work with people on research and testing
+* Your approach to design starts with inclusivity and accessibility.
+* You’re great at communicating with people who aren’t familiar with design, comfortable working alongside clients during the design process, and are excited to work with people on research and testing.
 * You can effectively demonstrate what your detailed design process entails.
-* You are passionate about users’ experiences and want to create measurable improvements to government services
-* You have experience working alongside developers and researchers and rapidly prototyping
+* You are passionate about users’ experiences and want to create measurable improvements to government services.
+* You have experience working alongside developers and researchers and rapidly prototyping.
 
 
 
