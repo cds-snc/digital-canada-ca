@@ -15,6 +15,7 @@ The Canadian Digital Service (CDS) works with federal organisations to make the 
 ## Be part of delivering public good for Canadians
 
 The role we’re looking to fill is a career-defining opportunity for someone passionate about using product management to transform public services as part of a world-class team of engineers, designers, and researchers who share a vision of better public services in Canada. A few examples of ways in which our portfolio is already benefiting Canadian society:
+
 * Helping veterans access benefits
 * Improving the citizenship process
 * Unlocking household energy data
@@ -22,7 +23,8 @@ The role we’re looking to fill is a career-defining opportunity for someone pa
 The products you'll deliver will make government services faster, simpler and more reliable. You'll have the opportunity to collaborate and engage with users and teams across government. This work will be creative, rewarding and high profile.
             
 ## Provide product management leadership:
-As a Senior Product Manager, you will help CDS and its partners through fulfilling responsibilities that include:			
+As a Senior Product Manager, you will help CDS and its partners through fulfilling responsibilities that include:
+		
 * Providing in-depth knowledge of the users’ needs and championing these in the delivery of your products and the services you support
 * Planning and coordinating delivery across multiple product teams
 * Building trust with our government partners and developing their understanding of the benefits of user-centred service design and delivery
@@ -33,6 +35,7 @@ As a Senior Product Manager, you will help CDS and its partners through fulfilli
 			
 ## Contribute your skills and experience
 We expect you to be able to demonstrate the following essential capabilities:
+
 * Creativity and passion for problem-solving through the use of quantitative and qualitative data about users, services and technology
 * Track record of developing business cases and delivery plans for products that have had significant reach and impact
 * Experience of leading the development, release and continuous improvement of digital products through different stages of delivery
