@@ -1,9 +1,10 @@
-# Canadian Digital Service website - [digital.canada.ca](digital.canada.ca)
+# Canadian Digital Service website - [digital.canada.ca](https://digital.canada.ca)
 
-Both [digital.canada.ca](digital.canada.ca) and [numerique.canada.ca](numerique.canada.ca) are published from this repository.
+Both [digital.canada.ca](https://digital.canada.ca) and [numerique.canada.ca](https://numerique.canada.ca) are published from this repository.
 
 Powered by [Hugo](https://gohugo.io/), and the [Web Experience Toolkit](https://github.com/wet-boew/wet-boew/).
-### To install locally:
+
+## To install locally
 
 1. Clone the repository.
 
@@ -29,9 +30,10 @@ Powered by [Hugo](https://gohugo.io/), and the [Web Experience Toolkit](https://
     hugo server -D 
     ```
 
-Both languages will be hosted at localhost:1313 and localhost:1314 respectively.
+The English and French versions will be hosted at [localhost:1313](http://localhost:1313) and [localhost:1314](http://localhost:1314), respectively.
 
-To get Netlify CMS up and running:
+## To get Netlify CMS up and running
+
 1. Pull in dependencies
     ```
     npm install
@@ -40,6 +42,3 @@ To get Netlify CMS up and running:
     ```
     npm run dev
     ```
-
-
-
