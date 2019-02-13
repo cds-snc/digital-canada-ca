@@ -32,7 +32,7 @@ The key is people need to know what to consider, what to be aware of, and what t
 
 At CDS, we design for accessibility early and often. As a result, we’re able to flag issues in our daily stand-ups, discuss approaches and requirements in our sprints, and track outcomes like lessons learned on what did and didn’t work in our retros. Champions are integrated into teams, and they navigate doing the right thing first as opposed to fixing the wrong thing later.
 
-\##What do we plan to do to help improve the human experience of digital services?
+## What do we plan to do to help improve the human experience of digital services?
 
 Though we’ve made strides towards better accessibility practices at CDS, here are our plans for the future. We have a long way to go and we’ll iterate along the way.
 
