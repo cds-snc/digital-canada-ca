@@ -7,7 +7,9 @@ description: >-
 author: 'Julianna Rowsell, responsable de l’accessibilité et des services inclusifs'
 date: 2019-02-13T14:37:43.384Z
 image: /img/cds/_mg_9837-2.jpg
-image-alt: test
+image-alt: >-
+  Un homme utilise un clavier ajustable et d’autres technologies qui l’aident à
+  utiliser son ordinateur.
 translationKey: not-perfect
 ---
 L'accessibilité a la réputation d'être difficile, et même parfois impossible à réaliser. Pourtant, l’élaboration de services inclusifs qui conviennent à tous n’est pas une question de perfection. C’est une question d’efforts et de progrès. Et lorsqu’on déploie ce genre d’efforts chaque jour, la transformation s’opère. À l’opposé, si l’on ne fait rien, les gens qui ont le plus besoin de nos services ne pourront pas y accéder. 
