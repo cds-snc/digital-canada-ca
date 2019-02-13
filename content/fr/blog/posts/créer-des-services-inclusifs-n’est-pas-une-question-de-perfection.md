@@ -5,7 +5,7 @@ description: >-
   L'accessibilité a la réputation d'être difficile, et même parfois impossible à
   réaliser. Voici par où commencer.
 author: 'Julianna Rowsell, responsable de l’accessibilité et des services inclusifs'
-date: 2019-02-13T14:37:43.384Z
+date: 2019-02-13T14:00:00.000Z
 image: /img/cds/_mg_9837-2.jpg
 image-alt: >-
   Un homme utilise un clavier ajustable et d’autres technologies qui l’aident à
