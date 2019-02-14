@@ -17,9 +17,11 @@ archived: false
 translationKey: designer-researcher
 leverId: 38de70c3-c178-45da-8d2d-9a5d85ed0815
 ---
-We’re hiring a design researcher. As a researcher, you’ll design, conduct, analyze, and present qualitative research to product teams. You’ll be a key member of a CDS product team and help the team make design decisions based on the insights you discover. You’ll navigate the policy and regulatory constraints of conducting research inside government. You’ll present to partner departments and teach our partners new research skills. You’ll help your fellow CDS team members become better researchers as well, (We believe every CDS team member is a researcher in some way.) Most importantly, you will advocate for the people who use services provided by the Government of Canada; Canadians from all walks of life.
+We’re transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. We need you.
 
-We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
+The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. We’re hiring people at all levels of experience in Ottawa, Toronto, Waterloo, and Montreal.
+
+We’re hiring a design researcher. As a researcher, you’ll design, conduct, analyze, and present qualitative research to product teams. You’ll be a key member of a CDS product team and help the team make design decisions based on the insights you discover. You’ll navigate the policy and regulatory constraints of conducting research inside government. You’ll present to partner departments and teach our partners new research skills. You’ll help your fellow CDS team members become better researchers as well, (We believe every CDS team member is a researcher in some way.) Most importantly, you will advocate for the people who use services provided by the Government of Canada; Canadians from all walks of life.
 
 ## What we’re looking for
 
@@ -41,3 +43,11 @@ We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
 * Be non-judgemental and welcoming to research participants and observers of many backgrounds.
 * Always question the status quo and push for better practices.
 * Challenge your team with your thinking, and you’re open to their challenging yours.
+
+We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
+
+## At CDS, we don’t just accept difference - we celebrate it. 
+
+We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
+
+CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.

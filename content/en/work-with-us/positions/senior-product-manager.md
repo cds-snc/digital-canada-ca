@@ -11,6 +11,10 @@ archived: false
 translationKey: senior-product-manager
 leverId: acfbf28d-15b3-4a6e-ad2e-3f6e706ae0be
 ---
+We’re transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. We need you.
+
+The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. We’re hiring people at all levels of experience in Ottawa, Toronto, Waterloo, and Montreal.
+
 The role we’re looking to fill is a career-defining opportunity for someone passionate about using product management to transform public services as part of a world-class team of engineers, designers, and researchers who share a vision of better public services in Canada. 
 
 A few examples of ways in which our portfolio is already benefiting Canadian society:
@@ -20,8 +24,6 @@ A few examples of ways in which our portfolio is already benefiting Canadian soc
 * Unlocking household energy data
 
 The products you'll deliver will make government services faster, simpler and more reliable. You'll have the opportunity to collaborate and engage with users and teams across government. This work will be creative, rewarding and high profile.
-
-We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
             
 ## Provide product management leadership:
 As a Senior Product Manager, you will help CDS and its partners through fulfilling responsibilities that include:		
@@ -44,3 +46,11 @@ We expect you to be able to demonstrate the following essential capabilities:
 * Ability to coordinate and motivate multiple teams of developers, designers, and researchers, with experience of having worked in similar roles and teams previously.
 * Capability to communicate persuasively through a variety channels - such as conferences, blog posts and product demos - with a range of audiences.
 * Habits of being organized, taking action, learning through doing and helping others to achieve their goals.
+
+We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
+
+## At CDS, we don’t just accept difference - we celebrate it. 
+
+We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
+
+CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.

@@ -9,6 +9,10 @@ description: >-
 archived: false
 translationKey: head-of-design
 ---
+We’re transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. We need you.
+
+The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. 
+
 As Head of Design for CDS, you’ll be excited by the challenge of creating and managing digital services that work across multiple channels, devices, browsers and platforms.  You and your team will help ensure CDS and its partners are building meaningful, accessible, inclusive, and secure services in the open, and help those partners prepare to own, maintain and continuously improve the services we deliver with them. 
 
 You’ll lead a team of interaction, visual, content, and service designers in the creation of accessible public services that are simple for everyone to use. You’ll set the vision and tone, shape our design direction and choices, assess our recruitment needs and recruit to fulfill them, and support the team’s learning and development. 
@@ -37,3 +41,11 @@ You’ll be comfortable guiding and mentoring your team in their work and career
 * Recruit, interview, hire, cultivate and support diverse design teams.
 * Explain design decisions to a range of audiences and collaborate with partners and stakeholders.
 * Effectively represent government design with cross-industry communities.
+
+We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
+
+## At CDS, we don’t just accept difference - we celebrate it. 
+
+We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
+
+CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.

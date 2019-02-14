@@ -15,6 +15,10 @@ archived: false
 translationKey: head-outreach
 leverId: a4f73901-2595-43a7-a0d1-8d0cfc5d71e4
 ---
+We’re transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. We need you.
+
+The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. 
+
 As the Outreach Team, we are the storytellers of the CDS. We tell the stories that help public servants improve government services and make people’s lives better. But, we don't just tell feel-good stories. The problems we tackle are complex, and so are the stories we tell. We are not afraid to talk about what worked, what didn't, and how we can do it better. There are no villains in the stories we tell - we’re committed to understanding everyone’s needs and working through problems with them. If you’re ready to bring an open and personal voice to government then this is the role for you. 
 
 ## We’re looking for someone who will:
@@ -40,3 +44,11 @@ As the Outreach Team, we are the storytellers of the CDS. We tell the stories th
 * You are a master juggler and know how to handle multiple things on the go - including proactive and reactive communications.
 * Ideally, you’re fluent in French and English. 
 * You like ice cream. Not because we’re breaking a sweat and need to chill. Just because we like to have our team meetings over cones. Vegan? Lactose intolerant? We’ve got you covered.
+
+We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
+
+## At CDS, we don’t just accept difference - we celebrate it. 
+
+We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
+
+CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.
