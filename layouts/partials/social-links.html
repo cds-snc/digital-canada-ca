@@ -4,12 +4,6 @@
     <ul class="contact-info">
         <li>
             <div class="contact-icon">
-                <a title="Email" href="mailto:{{ .Site.Data.contact.email }}"><i class="fa fa-envelope"
-                        aria-hidden="true"></i></a>
-            </div>
-        </li>
-        <li>
-            <div class="contact-icon">
                 <a title="Twitter" href="https://twitter.com/{{ i18n "twitter" }}">
                     <i class="fab fa-twitter" aria-hidden="true"></i>
                 </a>
@@ -48,6 +42,12 @@
                 <a title="Mailchimp" href={{ index $.Site.Data.contact.mailchimp (string ($.Site.Language)) "url" }}>
                     <i class="fab fa-mailchimp" aria-hidden="true"></i>
                 </a>
+            </div>
+        </li>
+        <li>
+            <div class="contact-icon">
+                <a title="Email" href="mailto:{{ .Site.Data.contact.email }}"><i class="fa fa-envelope"
+                        aria-hidden="true"></i></a>
             </div>
         </li>
     </ul>
