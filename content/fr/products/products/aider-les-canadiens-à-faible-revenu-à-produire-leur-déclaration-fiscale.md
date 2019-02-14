@@ -6,7 +6,7 @@ description: >
   recevoir les prestations et les remboursements auxquels ils ont droit en
   facilitant la production de leur déclaration de revenus.
 product-url: ''
-phase: discovery
+phase: alpha
 contact:
   - email: josh.ruihley@tbs-sct.gc.ca
     name: Josh Ruihley
