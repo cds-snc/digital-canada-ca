@@ -53,4 +53,4 @@ We moved from the initial prototype to the beta launch in about two months. Laun
 
 PCO is responsible for the [Impact Canada Challenge Platform](https://impact.canada.ca/en) and is leading efforts to identify and post challenges with Government of Canada departments. If you have questions about the Impact Canada Initiative, you can [contact PCO by email](mailto:iiu-uii@pco-bcp.gc.ca). 
 
-If you have questions or comments on our approach to this partnership build, we’d be happy to [hear from you](/contact/). We’re hosting a show and tell on December 8th where we will talk about this and our other early projects on the go! Register to attend via [webcast](https://www.eventbrite.ca/e/cds-show-and-tell-webcast-presentation-du-snc-web-diffusion-tickets-40847158952). 
+If you have questions or comments on our approach to this partnership build, we’d be happy to [hear from you](#contact-us-links). We’re hosting a show and tell on December 8th where we will talk about this and our other early projects on the go! Register to attend via [webcast](https://www.eventbrite.ca/e/cds-show-and-tell-webcast-presentation-du-snc-web-diffusion-tickets-40847158952). 

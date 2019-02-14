@@ -50,4 +50,4 @@ But working in the open is what we’ll continue to make a priority and iterate 
 
 To get there, it’s important for us to show the whole iceberg along the journey: the good, the bad, and the not-so-pretty, so we can help others in the future navigate the waters a little smoother. Just as we have been able to do because of those who have come before us. 
 
-We’re excited to be on the journey with our partners and the public to help Canadians. [Let us know](https://digital.canada.ca/contact/) what you want to learn more about.
+We’re excited to be on the journey with our partners and the public to help Canadians. [Let us know](#contact-us-links) what you want to learn more about.
