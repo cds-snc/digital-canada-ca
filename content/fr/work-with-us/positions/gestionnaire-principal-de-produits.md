@@ -16,6 +16,7 @@ Le Service numérique canadien (SNC), en collaboration avec les organisations f�
 
 ## Contribuer au bien public des Canadiens
 Le rôle constitue une occasion déterminante dans une carrière pour une personne passionnée par l’utilisation de la gestion de produits afin de transformer les services publics au sein d’une équipe d’ingénieurs, de concepteurs et de chercheurs de calibre international qui ont une vision commune de créer de meilleurs services publics au Canada. Voici quelques exemples de façons dont notre portefeuille bénéficie déjà à la société canadienne :
+
 * Aider les anciens combattants à obtenir des prestations.
 * Améliorer le processus d’obtention de la citoyenneté.
 * Déverrouiller des données sur l’énergie des ménages.
@@ -24,6 +25,7 @@ Les produits que vous livrerez rendront les services du gouvernement plus rapide
             
 ## Assurer un leadership en matière de gestion de produits
 À titre de gestionnaire principal de produits, vous aiderez le SNC et ses partenaires à s’acquitter de leurs responsabilités, soit :
+
 * Fournir des connaissances approfondies sur les besoins des utilisateurs et les défendre dans le cadre de la livraison de vos produits et de la prestation des services que vous soutenez.
 * Planifier et coordonner la prestation pour diverses équipes de produits.
 * Établir la confiance avec nos partenaires gouvernementaux et les aider à comprendre les avantages de la conception et de la prestation de services centrés sur les utilisateurs.
@@ -34,6 +36,7 @@ Les produits que vous livrerez rendront les services du gouvernement plus rapide
 			
 ## Mettez vos compétences et expériences à contribution          
 Nous nous attendons à ce que vous puissiez démontrer les capacités essentielles suivantes :
+
 * créativité et passion pour la résolution de problèmes par l’utilisation de données quantitatives et qualitatives sur les utilisateurs, les services et la technologie;
 * avoir fait ses preuves quant à l’élaboration de dossier d’analyse et de plans de livraison pour les produits qui ont une portée et une incidence importantes;
 * expérience de la direction de l’élaboration, de la diffusion et de l’amélioration continue de produits numériques à différentes étapes de la prestation;
