@@ -5,7 +5,7 @@ description: >
   Exploring a service that makes it easier for Canadians and businesses to
   report when they encounter or are victims of a cybercrime and that helps
   police analyze and investigate reports.
-phase: discovery
+phase: alpha
 contact:
   - email: daniel.tse@tbs-sct.gc.ca
     name: Daniel Tse
