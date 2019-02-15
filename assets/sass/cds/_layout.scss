@@ -308,8 +308,33 @@ main {
   }
 }
 
-.social-links ul{
+.social-links-footer{
+  border-top: 4px solid #066169;
+  margin-bottom:1.6rem;
+}
+
+.social-links-footer ul{
   display:flex;
   justify-content: center;
   flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.social-links-footer li:first-child{
+  margin-left:0;
+}
+
+.social-links-footer .contact-info li{
+  margin-top:1rem;
+  margin-bottom:1rem;
+  @include tablet {
+    margin-top:2rem;
+    margin-bottom:2rem;
+  }
+}
+
+.social-links-footer h4{
+  display:flex;
+  justify-content: center;
+  margin-bottom: 0.5rem;
 }
