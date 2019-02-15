@@ -50,5 +50,5 @@ Mais ce que nous allons continuer à faire et à prioriser, c’est de travaille
 
 Pour y arriver, nous devons montrer l’iceberg en entier tout au long de notre parcours, le bon comme le mauvais, afin d’aider les autres à naviguer un peu mieux dans les eaux à l’avenir, tout comme nous avons pu le faire grâce à ceux qui nous ont précédés. 
 
-Nous sommes ravis d’effectuer ce parcours avec nos partenaires et le public pour aider les Canadiens. [Dites-nous](https://numerique.canada.ca/contactez-nous/) les points sur lesquels vous voulez en savoir plus. 
+Nous sommes ravis d’effectuer ce parcours avec nos partenaires et le public pour aider les Canadiens. [Dites-nous](#contact-us-links) les points sur lesquels vous voulez en savoir plus. 
 

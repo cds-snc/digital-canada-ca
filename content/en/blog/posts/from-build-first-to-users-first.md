@@ -86,4 +86,4 @@ At this point for CDS, we take a step back and the partner department maintains 
 [Ontario Digital Service - Service Design Playbook](https://www.ontario.ca/page/service-design-playbook)\
 [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)  
 
-The resources will continue to grow. In the meantime, we want to hear from you. If you have feedback, or want to learn more about a particular topic, [let us know](https://digital.canada.ca/contact/)!
+The resources will continue to grow. In the meantime, we want to hear from you. If you have feedback, or want to learn more about a particular topic, [let us know](#contact-us-links)!
