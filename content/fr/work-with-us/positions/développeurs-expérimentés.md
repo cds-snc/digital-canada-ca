@@ -6,13 +6,10 @@ description: 'Nous recherchons des développeurs expérimentés et dévoués pou
 archived: false
 translationKey: sr-dev
 ---
-Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
- 
-Le Service numérique canadien est un collectif de personnes créatives qui s’engagent à utiliser ses compétences et ses connaissances numériques pour faciliter l’accès aux services gouvernementaux et l’utilisation de ceux-ci. Nos équipes multidisciplinaires de plus en plus nombreuses collaborent avec les ministères fédéraux pour faire en sorte que les services dont les gens dépendent soient simples et faciles à utiliser. Nous nous concentrons sur la prestation de services publics améliorés en recourant aux meilleures technologies et conceptions, le tout éclairé par les besoins des utilisateurs.
+Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
 
 En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, nous renforçons les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services.
 
- 
 ## Nous recherchons des développeurs expérimentés et dévoués pour faire grandir notre équipe.
 
 * Vous avez une passion et la compétence de livrer du code de haute qualité, dans des langages tels que JavaScript, PHP, Python, Go, et vous avez travaillé avec des technologies comme NodeJS, React, Angular, Serverless, etc.
@@ -32,9 +29,8 @@ En travaillant ouvertement et en établissant des liens entre les partenaires et
 * Développer une culture de prestation inclusive et respecter les principes d’ouverture, d’intégrité et d’équité.
  
 ## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
- 
-Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Nous cultivons la diversité sur le plan des idées, des expériences et des compétences, car, à nos yeux, c’est la seule manière d’arriver à fournir des services qui soient à la fois de meilleure qualité, plus accessibles et plus inclusifs. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
- 
+Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Notre capacité à fournir de meilleurs services publics, soit des services accessibles et inclusifs, ne peut être réalisée que si nous pouvons reconnaître et exploiter toute la diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
+
 Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
  
 ## Vous êtes intéressé ?

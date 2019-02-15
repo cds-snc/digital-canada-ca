@@ -68,6 +68,11 @@ Joining CDS and the Government of Canada, you can have access to some great bene
 * Diverse group of colleagues who are committed to providing a nurturing, and supportive working environment.
 * Our roles are open to people from anywhere in Canada and other countries, with remote working and relocation support options available.
             
-### How to apply
-            
-To apply for this opportunity, please [email us](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with ‘Product Manager’ in the subject line, include a copy of your resume, a statement on how you meet our criteria and links to a few examples of things you have worked on that are relevant to the role.
+## Interested?
+
+Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with "Product Manager" in the subject line. Tell us why you’re right for the job. We recognize that everyone brings different skills and experiences to the table, and that nobody “checks all the boxes.” Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
+
+## Want to learn more about CDS?
+
+Read our [blog](https://digital.canada.ca/blog/) to find out what we’ve been up to.
+For the latest news, follow us on [Twitter](https://twitter.com/CDS_GC).
