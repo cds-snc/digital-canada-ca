@@ -19,7 +19,8 @@
   "scripts": {
     "dev": "webpack && hugo server -D",
     "build": "webpack && hugo",
-    "build_admin": "webpack --config webpack.config.js"
+    "build_admin": "webpack --config webpack.config.js",
+    "build:stage": "webpack && hugo --environment staging"
   },
   "repository": {
     "type": "git",
