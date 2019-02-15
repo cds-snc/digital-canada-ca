@@ -9,7 +9,7 @@ description: >-
 archived: false
 translationKey: head-of-design
 ---
-The Canadian Digital Service (CDS) works with federal departments to make the services people depend on simple and easy-to-use. We’re rethinking service design and delivery, and engaging users every step of the way. By working in the open, and connecting partners with tools, talent, and training grounded in practice, we’re building capacity across the government for better service delivery. And we need you.
+The Canadian Digital Service (CDS) works with federal departments to make the services people depend on simple and easy-to-use. We’re a small but mighty team that is rethinking service design and delivery, engaging users every step of the way. By working in the open and connecting partners with tools, talent, and training grounded in best practices, we’re building capacity across the government for better service delivery. And we need you.
 
 ## The role
 
@@ -42,17 +42,12 @@ You’ll be comfortable guiding and mentoring your team in their work and career
 * Explain design decisions to a range of audiences and collaborate with partners and stakeholders.
 * Effectively represent government design with cross-industry communities.
 
-## At CDS, we don’t just accept difference—we celebrate it.
+## At CDS, we don’t just accept difference - we celebrate it.
+We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 
-We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the societies we serve. Our ability to deliver better public services—accessible, inclusive services—can only be realized if we can recognise and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
-
-CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments.
+CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.
 
 ## Interested?
 
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with "Head of design" in the subject line. Tell us why you’re right for the job. We recognize that everyone brings different skills and experiences to the table, and that nobody “checks all the boxes.” Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
+Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with "Head of design" in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
 
-## Want to learn more about CDS?
-
-Read our [blog](https://digital.canada.ca/blog/) to find out what we’ve been up to.
-For the latest news, follow us on [Twitter](https://twitter.com/CDS_GC).

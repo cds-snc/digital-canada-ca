@@ -11,7 +11,7 @@ description: >-
 archived: false
 translationKey: senior-product-manager
 ---
-Le Service numérique canadien (SNC), en collaboration avec les organisations fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
+Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
 
 ## Contribuer au bien public des Canadiens
 Le rôle constitue une occasion déterminante dans une carrière pour une personne passionnée par l’utilisation de la gestion de produits afin de transformer les services publics au sein d’une équipe d’ingénieurs, de concepteurs et de chercheurs de calibre international qui ont une vision commune de créer de meilleurs services publics au Canada. Voici quelques exemples de façons dont notre portefeuille bénéficie déjà à la société canadienne :
@@ -44,16 +44,11 @@ Nous nous attendons à ce que vous puissiez démontrer les capacités essentiell
 * capacité à communiquer de façon persuasive par divers canaux, par exemple, des conférences, des billets de blogue et des démonstrations de produits, à un éventail de publics cibles;
 * habitudes d’être organisé, d’agir, d’apprendre par l’action et d’aider les autres à atteindre leurs objectifs.
 
-## Au SNC, nous n’acceptons pas seulement les différentes, nous les célébrons.
+## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
+Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Notre capacité à fournir de meilleurs services publics, soit des services accessibles et inclusifs, ne peut être réalisée que si nous pouvons reconnaître et exploiter toute la diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
 
-Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Notre capacité à fournir de meilleurs services publics, soit des services accessibles et inclusifs, ne peut être réalisée que si nous pouvons reconnaître et exploiter les diverses idées, expériences et compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous nous sommes engagés à aider les talents de tout type à prospérer.
-	
-Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression sexuelle, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
+Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
 	
 ### Vous êtes intéressé?
 	
 Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca] (mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Gestionnaire principal de produits » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
-
-## Vous voulez en apprendre davantage sur le SNC ?
-Pour découvrir ce que nous avons fait, lisez notre [blogue](https://numerique.canada.ca/blogue/).
-Pour obtenir les dernières nouvelles, suivez-nous sur [Twitter](https://twitter.com/snc_gc?lang=fr).

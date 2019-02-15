@@ -6,9 +6,7 @@ description: We’re looking for dedicated Senior Developers to join our team.
 archived: false
 translationKey: sr-dev
 ---
-We are transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. And we need you.
-
-The Canadian Digital Service is a collective of creative people committed to using our digital skills and knowledge to make it easier to access and use government services. Our growing multidisciplinary teams work with federal departments to make the services people depend on simple and easy-to-use. We are focused on delivering better public services using the best technology and design, all informed by user needs. 
+The Canadian Digital Service (CDS) works with federal departments to make the services people depend on simple and easy-to-use. We’re a small but mighty team that is rethinking service design and delivery, engaging users every step of the way. By working in the open and connecting partners with tools, talent, and training grounded in best practices, we’re building capacity across the government for better service delivery. And we need you.
 
 By working in the open, and connecting partners with tools, talent, and training grounded in practice, we’re building capacity across the government for better service delivery.
 
@@ -40,9 +38,4 @@ CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orie
 
 ## Interested?
 
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with "Senior Developer" in the subject line. Tell us why you’re right for the job. We recognize that everyone brings different skills and experiences to the table, and that nobody “checks all the boxes.” Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
-
-## Want to learn more about CDS?
-
-Read our [blog](https://digital.canada.ca/blog/) to find out what we’ve been up to.
-For the latest news, follow us on [Twitter](https://twitter.com/CDS_GC).
+Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with "Senior Developer" in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.

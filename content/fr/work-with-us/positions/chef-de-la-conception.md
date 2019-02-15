@@ -9,7 +9,7 @@ description: >-
 archived: false
 translationKey: head-of-design
 ---
-Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous repensons la conception et la prestation des services et collaborons avec les utilisateurs à chaque étape du processus. En travaillant ouvertement et en mettant à la disposition de nos partenaires des outils, des talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
+Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
 
 ## Le rôle
 
@@ -42,19 +42,11 @@ Vous devrez être à l’aise de guider et d’encadrer votre équipe dans son t
 * Expliquer les décisions de conception à divers publics et collaborer avec les partenaires et les parties concernées.
 * Représenter efficacement la conception liée au gouvernement auprès des collectivités intersectorielles.
 
-## Au Service numérique canadien (SNC), nous n’acceptons pas seulement la différence, nous la célébrons.
+## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
+Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Notre capacité à fournir de meilleurs services publics, soit des services accessibles et inclusifs, ne peut être réalisée que si nous pouvons reconnaître et exploiter toute la diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
 
-Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif des sociétés que nous servons. Notre capacité d’offrir de meilleurs services publics — des services accessibles et inclusifs — ne peut être réalisée que si nous pouvons reconnaître et exploiter la gamme la plus diversifiée de pensées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous nous sommes engagés à aider les talents de tout type à prospérer.
-
-Le SNC accepte tous les candidats, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
+Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
 
 ## Vous êtes intéressé ?
 
-Envoyez-nous un courriel au <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca> en mentionnant « Chef de la conception » dans la ligne d’objet.
-
-Dites-nous pourquoi vous êtes fait pour ce travail. Nous reconnaissons que chaque personne apporte des compétences et des expériences différentes et que personne ne répond parfaitement à toutes les exigences. Incluez un lien vers votre CV et des exemples détaillés de travaux qui mettent en valeur votre cheminement. N’hésitez pas à nous faire part de tout ce que vous pensez qui pourrait nous aider à mieux vous connaître !
-
-## Vous voulez en apprendre davantage sur le SNC ?
-
-Pour découvrir ce que nous avons fait, lisez notre [blogue](https://numerique.canada.ca/blogue/).
-Pour obtenir les dernières nouvelles, suivez-nous sur [Twitter](https://twitter.com/snc_gc?lang=fr).
+Envoyez-nous un courriel au <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca> en mentionnant « Chef de la conception » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
