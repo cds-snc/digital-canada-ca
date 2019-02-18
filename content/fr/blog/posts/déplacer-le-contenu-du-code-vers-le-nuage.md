@@ -7,9 +7,11 @@ description: >-
   simples sans l’intervention d’un développeur?
 author: 'Steve Astels et Stephen McMurtry, développeurs'
 date: 2018-12-04T14:30:00.000Z
-image: /img/cds/magnificent-cloud.jpg
+image: /img/cds/blog/magnificent-cloud.jpg
 image-alt: Un nuage magnifique s’élève au-dessus des arbres.
 translationKey: from-code-to-cloud
+thumb: /img/cds/blog/thumb/magnificent-cloud.jpg
+processed: 1550507384431
 ---
 Au Service numérique canadien (SNC), nous travaillons actuellement sur une [application Web] (https://github.com/cds-snc/vac-benefits-directory) avec Anciens Combattants Canada (ACC). L’application aidera les vétérans et leurs familles à trouver des avantages et des programmes qui leur conviennent. Cela signifie que cette application doit surveiller beaucoup de contenu, soit le texte d’interface, les titres et les descriptions en une ligne des avantages, les questions à choix multiples, les étiquettes associées aux prestations, l’adresse des bureaux d’ACC et d’autres informations, dont aucune ne contenait des données ou des renseignements personnels. Bien sûr, tout ce texte est en anglais et en français.
 
@@ -27,3 +29,6 @@ Nous avions quand même un problème. Le contenu d’application statique (comme
 Nous avons donc déplacé le reste du contenu de l’application vers le nuage! Nous avons ajouté une feuille de « traductions » générale à notre base Airtable. Chaque ligne contient une clé qui est référencée dans notre code source, ainsi que le texte affiché en français et en anglais. Nous avons également ajouté un bouton caché pour « rafraîchir la mémoire cache » qui permet aux éditeurs de contenu de voir les changements instantanément dans l’application.
 
 Non seulement les développeurs sont heureux, mais les concepteurs et les propriétaires de contenu, tant au SNC qu’à ACC, sont maintenant en mesure de modifier rapidement et facilement le contenu, au besoin.
+
+
+

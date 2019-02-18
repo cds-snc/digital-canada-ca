@@ -1,11 +1,17 @@
 ---
-title: "C’est toujours un défi la première fois..."
-description: "Au cours de nos séances de mobilisation, les gens nous ont dit que le gouvernement devait trouver des façons de permettre aux joueurs non traditionnels de s’impliquer et de co-créer des solutions avec le gouvernement."
-author: Mario Garneau et Wendy Luciani
-date: 2017-12-07 09:00:00 -0400
-image: /img/cds/blog-toujours-un-defi-2017.jpg
-image-alt: "La page d’accueil de la plateforme de défis Impact Canada."
-translationKey: "always-a-challenge"
+title: C’est toujours un défi la première fois...
+description: >-
+  Au cours de nos séances de mobilisation, les gens nous ont dit que le
+  gouvernement devait trouver des façons de permettre aux joueurs non
+  traditionnels de s’impliquer et de co-créer des solutions avec le
+  gouvernement.
+author: "Mario\_Garneau et Wendy Luciani"
+date: '2017-12-07 09:00:00 -0400'
+image: /img/cds/blog/blog-toujours-un-defi-2017.jpg
+image-alt: La page d’accueil de la plateforme de défis Impact Canada.
+translationKey: always-a-challenge
+thumb: /img/cds/blog/thumb/blog-toujours-un-defi-2017.jpg
+processed: 1550507384704
 ---
 Au cours de nos [séances de mobilisation](/commencement-de-la-conversation/rapport-complet/), les gens nous ont dit que le gouvernement devait trouver des façons de permettre aux joueurs non traditionnels de s’impliquer et de co-créer des solutions avec le gouvernement.
 
@@ -56,3 +62,6 @@ Nous sommes passés du prototype initial au lancement de la version bêta en env
 Le BCP est responsable de [la plateforme de défis Impact Canada](https://impact.canada.ca/fr); il dirige les efforts visant à déterminer et à afficher les défis proposés par ministères fédéraux. Si vous avez des questions sur l’initiative Impact Canada, n’hésitez pas à [communiquer avec le BCP par courriel](mailto:iiu-uii@pco-bcp.gc.ca). 
 
 Si vous avez des questions ou des commentaires sur notre approche dans ce partenariat, n’hésitez pas à [nous en faire part](#contact-us-links). Nous organisons une présentation le 8 décembre où nous discuterons nos projets, notamment de celui-ci. Inscrivez-vous afin de participer à la [webdiffusion](https://www.eventbrite.ca/e/cds-show-and-tell-webcast-presentation-du-snc-web-diffusion-tickets-40847158952).
+
+
+

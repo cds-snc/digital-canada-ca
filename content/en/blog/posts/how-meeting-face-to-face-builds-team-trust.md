@@ -6,9 +6,11 @@ description: >-
   what getting some face time did for our teams.
 author: 'Allison Rothmel, Consultant at Veterans Affairs Canada'
 date: 2019-01-10T14:00:00.000Z
-image: /img/cds/groupvac_cds.jpg
+image: /img/cds/blog/groupvac_cds.jpg
 image-alt: The team members all stand together and smile for a photo.
 translationKey: VAC-CDS-visit
+thumb: /img/cds/blog/thumb/groupvac_cds.jpg
+processed: 1550507384334
 ---
 As a business analyst consulting at Veterans Affairs Canada (VAC) in Charlottetown partnered with the Canadian Digital Service, it’s been challenging to join an in-progress project when teams are located in different cities. Even with a daily remote standup, you don’t get to know who everybody is, and it’s hard to match a voice to a name when you’ve never met.
 
@@ -33,3 +35,6 @@ Throughout the week there were plenty of side chats and side projects. Developer
 ![The team members all stand together and smile for a photo.](/img/cds/groupvac_cds.jpg)
 
 Back in Charlottetown, the 15-minute standups don’t seem so remote anymore. Though team members are in Toronto, Ottawa, and Charlottetown, we all have the same goal to build on what we learned from each other in hopes of providing user-centred design in the Government of Canada.
+
+
+

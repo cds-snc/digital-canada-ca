@@ -1,11 +1,18 @@
 ---
-title: "L’accessibilité au SNC – Remettre en question nos hypothèses de départ concernant les images d’ambiance "
-description: "Nous avons récemment reçu des commentaires sur notre référentiel Github concernant l'accessibilité des images de premier plan utilisées sur certaines pages de notre site Web, y compris sur notre blogue."
-author: Dave Samojlenko, développeur 
-date: 2018-01-16 09:00:00 -0400
-image: /img/cds/blog-accessibility-2018.jpg
-image-alt: "Clavier avec des touches représentant des fonctionnalités d'accessibilité"
-translationKey: "challenging-our-assumption"
+title: >-
+  L’accessibilité au SNC – Remettre en question nos hypothèses de départ
+  concernant les images d’ambiance 
+description: >-
+  Nous avons récemment reçu des commentaires sur notre référentiel Github
+  concernant l'accessibilité des images de premier plan utilisées sur certaines
+  pages de notre site Web, y compris sur notre blogue.
+author: 'Dave Samojlenko, développeur'
+date: '2018-01-16 09:00:00 -0400'
+image: /img/cds/blog/blog-accessibility-2018.jpg
+image-alt: Clavier avec des touches représentant des fonctionnalités d'accessibilité
+translationKey: challenging-our-assumption
+thumb: /img/cds/blog/thumb/blog-accessibility-2018.jpg
+processed: 1550507384670
 ---
 
 Nous avons récemment reçu des commentaires sur notre [référentiel Github](https://github.com/cds-snc/digital-canada-ca) concernant l'accessibilité des images de premier plan utilisées sur certaines pages de notre site Web, y compris sur notre blogue.
@@ -38,3 +45,6 @@ Il existe plusieurs excellentes ressources pour en savoir davantage sur l'access
 
 
 Nous continuerons de bloguer sur l'accessibilité et nous aimerions que vous nous [fassiez part](mailto:cds-snc@tbs-sct.gc.ca) de vos commentaires, de vos suggestions de thèmes ou de façons d'améliorer l'accessibilité de tous nos projets. 
+
+
+

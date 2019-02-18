@@ -8,9 +8,11 @@ description: >-
   anciens combattants.
 author: 'Ross Ferguson, chef de produit'
 date: 2018-07-24T13:00:00.000Z
-image: /img/cds/blog-pei-banner.jpg
+image: /img/cds/blog/blog-pei-banner.jpg
 image-alt: Falaise rouge bordée d’herbe surplombant la mer.
 translationKey: teaming-up-to-deliver-better-outcomes-for-veterans
+thumb: /img/cds/blog/thumb/blog-pei-banner.jpg
+processed: 1550507384452
 ---
 
 Une petite équipe du Service numérique canadien (SNC) a récemment eu la chance de visiter l’Île-du-Prince-Édouard, située au large des côtes maritimes du Canada. Nous y étions invités par [Anciens Combattants Canada](http://www.veterans.gc.ca/fra) (ACC) avec qui nous collaborons pour améliorer la recherche en ligne de prestations pour les anciens combattants.
@@ -44,3 +46,6 @@ Quel fantastique constat de voir que nous poursuivons le même objectif, soit mi
 L’Île-du-Prince-Édouard est manifestement un bel endroit à visiter, mais il s’agit aussi d’un lieu qui est témoin d’un travail inspirant de transformation du service. Notre équipe est reconnaissante d’en faire partie. Notre visite a également été un rappel de l’honneur que représente le travail réalisé dans la fonction publique en appui aux anciens combattants du Canada. Nous avons hâte de poursuivre notre partenariat avec ACC.
 
 Vous pouvez suivre nos progrès grâce aux billets de blogue qui suivront. Surveillez la phase alpha dans nos [dépôts de codes](https://github.com/cds-snc/vac-benefits-directory) et suivez le [compte Twitter du SNC](https://twitter.com/SNC_GC) pour obtenir les derniers développements.
+
+
+

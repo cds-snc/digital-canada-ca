@@ -1,11 +1,17 @@
 ---
-title: "CDS’ first Request for Proposals: Eight things you need to know"
-description: "Do you want to support us in our mandate to improve services for newcomers to Canada, Veterans, seniors, and others? Help us implement and scale digital government in Canada by providing strategic advice, finding great people, and providing training to strengthen the government's digital capacity."
-author: Stevie-Ray Talbot, Policy
-date: 2018-08-31 09:00:00 -0400
-image: /img/cds/rfp_eng.jpg
-image-alt: A maple leaf sticker with the words, Strong and Free.
-translationKey: "rfp"
+title: 'CDS’ first Request for Proposals: Eight things you need to know'
+description: >-
+  Do you want to support us in our mandate to improve services for newcomers to
+  Canada, Veterans, seniors, and others? Help us implement and scale digital
+  government in Canada by providing strategic advice, finding great people, and
+  providing training to strengthen the government's digital capacity.
+author: 'Stevie-Ray Talbot, Policy'
+date: '2018-08-31 09:00:00 -0400'
+image: /img/cds/blog/rfp_eng.jpg
+image-alt: 'A maple leaf sticker with the words, Strong and Free.'
+translationKey: rfp
+thumb: /img/cds/blog/thumb/rfp_eng.jpg
+processed: 1550507384362
 ---
 
 Today we (the Canadian Digital Service) launched a [Request for Proposals](https://buyandsell.gc.ca/procurement-data/tender-notice/PW-18-00841347) (RFP). 
@@ -130,3 +136,6 @@ Estimated time to evaluate: 1 week per 10 bids submitted
 **Key contact information**
 
 For questions on applying or for clarification on the RFP, don't contact CDS or its employees. Contact Neil Charbonneau with Treasury Board Secretariat Contracting Services at [Neil.Charbonneau@tbs-sct.gc.ca](mailto:Neil.Charbonneau@tbs-sct.gc.ca) and [zzTBSCONT@tbs-sct.gc.ca](mailto:zzTBSCONT@tbs-sct.gc.ca) 
+
+
+

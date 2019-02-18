@@ -1,11 +1,17 @@
 ---
-title: "Coder : Une activité d’équipe"
-description: "D’après notre expérience, le développement de logiciels doit être un effort d’équipe. Cela ne veut pas dire que plusieurs développeurs contribuent individuellement à une seule base de code; au contraire, toute l’équipe est responsable de chaque ligne de code."
-author: Jason White, chef, sciences des données
-date: 2018-04-24 09:00:00 -0400
-image: /img/cds/blog-team-coding.jpg
+title: "Coder\_: Une activité d’équipe"
+description: >-
+  D’après notre expérience, le développement de logiciels doit être un effort
+  d’équipe. Cela ne veut pas dire que plusieurs développeurs contribuent
+  individuellement à une seule base de code; au contraire, toute l’équipe est
+  responsable de chaque ligne de code.
+author: 'Jason White, chef, sciences des données'
+date: '2018-04-24 09:00:00 -0400'
+image: /img/cds/blog/blog-team-coding.jpg
 image-alt: Un écran d'ordinateur affiche 200 lignes de code JavaScript dans Sublime Text.
-translationKey: "coding-is-a-team-activity"
+translationKey: coding-is-a-team-activity
+thumb: /img/cds/blog/thumb/blog-team-coding.jpg
+processed: 1550507384407
 ---
 
 D’après notre expérience, le développement de logiciels doit être un effort d’équipe. Cela ne veut pas dire que plusieurs développeurs contribuent individuellement à une seule base de code; au contraire, toute l’équipe est responsable de chaque ligne de code. Pour tout système de production, on s’attend à ce que tous les codes soient approuvés par au moins un autre développeur, avant qu’il ne soit accepté.
@@ -72,3 +78,6 @@ J’aime limiter les demandes de tirage à 200 lignes de code ou moins. Encore m
 Si nous fixons la taille des demandes de tirage à une taille raisonnable, nous pouvons également établir des attentes par rapport aux délais d’exécution. Pour moi, la limite raisonnable est d’un jour ouvrable, tout au plus, avec la possibilité de demander à quelqu’un de voir s’il est possible de procéder plus rapidement si la demande de tirage freine d’autre travail.
 
 Les examens de la qualité des codes par les pairs sont généralement assez faciles à entreprendre. Nous vous encourageons à leur donner une chance dès maintenant!
+
+
+

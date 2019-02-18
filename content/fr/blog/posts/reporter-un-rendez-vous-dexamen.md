@@ -1,11 +1,19 @@
 ---
-title: "Reporter un rendez-vous d’examen de citoyenneté ou rendre les demandeurs et le personnel de première ligne autonomes"
-description: "Notre partenariat avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) vise à ce que le processus de modification d’un rendez-vous d’examen de citoyenneté soit aussi pratique et facile que possible pour les demandeurs, tout en facilitant la vie au personnel de première ligne. "
+title: "Reporter un rendez-vous d’examen de citoyenneté\_ou rendre les demandeurs et le personnel de première ligne autonomes"
+description: >-
+  Notre partenariat avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) vise
+  à ce que le processus de modification d’un rendez-vous d’examen de citoyenneté
+  soit aussi pratique et facile que possible pour les demandeurs, tout en
+  facilitant la vie au personnel de première ligne. 
 author: Hillary Lorimer et Mithula Naik
-date: 2018-04-13 09:00:00 -0400
-image: /img/cds/blog-ircc-april.jpg
-image-alt: La salle d'attente du centre de soutien à la clientèle d'IRCC avec neuf places au comptoir de service.
-translationKey: "reschedule-a-citizenship-appointment"
+date: '2018-04-13 09:00:00 -0400'
+image: /img/cds/blog/blog-ircc-april.jpg
+image-alt: >-
+  La salle d'attente du centre de soutien à la clientèle d'IRCC avec neuf places
+  au comptoir de service.
+translationKey: reschedule-a-citizenship-appointment
+thumb: /img/cds/blog/thumb/blog-ircc-april.jpg
+processed: 1550507384671
 ---
 
 Notre partenariat avec [Immigration, Réfugiés et Citoyenneté Canada](https://www.canada.ca/fr/immigration-refugies-citoyennete.html) (IRCC) vise à ce que le processus de modification d’un rendez-vous d’examen de citoyenneté soit aussi pratique et facile que possible pour les demandeurs, tout en facilitant la vie au personnel de première ligne.
@@ -67,3 +75,6 @@ L’équipe du produit «&nbsp;immigration&nbsp;» travaille en étroite collabo
 En continuant les recherches et les tests d'utilisabilité sur place, nous pouvons appuyer les efforts déployés globalement par IRCC pour rendre les services davantage axés sur les utilisateurs. Nous aussi croyons en un service clair et simple qui permet aux futurs citoyens de reporter leur examen à un moment qui répond à leurs besoins, avec une intervention minimale du personnel.
 
 Suivez nos comptes Twitter et surveillez notre blogue pour obtenir des mises à jour à mesure que nous allons de l’avant.
+
+
+

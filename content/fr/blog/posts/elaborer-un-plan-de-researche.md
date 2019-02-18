@@ -1,11 +1,18 @@
 ---
-title: "Élaborer un plan de recherche avec cinq questions simples"
-description: "Avant de faire de la recherche utilisateur, nous établissons un plan dans lequel sont présentés les objectifs de la recherche afin d’assurer l’harmonisation, la transparence et une compréhension commune."
-author: Mithula Naik, chercheuse principale en conception
-date: 2018-10-26 09:00:00 -0400
-image: /img/cds/blog-building-a-research-plan.png
-image-alt: Les mains d’une femme déballent du papier brun. Il y a un café à la gauche et des fleurs violettes à la droite.
-translationKey: "building-a-research-plan"
+title: Élaborer un plan de recherche avec cinq questions simples
+description: >-
+  Avant de faire de la recherche utilisateur, nous établissons un plan dans
+  lequel sont présentés les objectifs de la recherche afin d’assurer
+  l’harmonisation, la transparence et une compréhension commune.
+author: 'Mithula Naik, chercheuse principale en conception'
+date: '2018-10-26 09:00:00 -0400'
+image: /img/cds/blog/blog-building-a-research-plan.jpg
+image-alt: >-
+  Les mains d’une femme déballent du papier brun. Il y a un café à la gauche et
+  des fleurs violettes à la droite.
+translationKey: building-a-research-plan
+thumb: /img/cds/blog/thumb/blog-building-a-research-plan.jpg
+processed: 1550507384432
 ---
 
 Une bonne phase de découverte vous fournit toute l’information dont vous avez besoin pour définir le ou les problèmes que vous voulez résoudre. Notre phase de découverte nous a permis de réunir des preuves qui indiquent qu’il était nécessaire de sensibiliser davantage les vétérans à la façon d’accéder les programmes, les services et les prestations qui leur sont offertes par Anciens Combattants Canada (ACC).
@@ -59,3 +66,5 @@ Nous avons également préparé la logistique pour :
 Alors que nous concevons un produit qui vise à résoudre le problème ci-dessus, nous ne devons pas oublier que l’incidence réelle se fait sentir lorsqu’on répond aux besoins des vétérans, des membres de leur famille et de ceux qui s’occupent d’eux. En apprenant de leurs histoires, de leurs expériences et de leurs points de vue, nous pourrions acquérir de nouvelles idées pour éclairer le processus de conception et de développement, ce qui, en fin de compte, permettrait une expérience plus axée sur les vétérans.
  
 Pour terminer, il est important de savoir que, même si un processus de recherche réussi exige beaucoup de travail, ce n’est souvent pas la partie la plus difficile. En tant que chercheure travaillant au gouvernement, c’est essentiel de travailler avec votre équipe, vos partenaires et les intervenants afin que tous peuvent participer à ce cheminement. Nous avons fait face à plusieurs questions au sujet de renseignements personnels, du consentement, et de la recherche sur l’opinion publique. Toutefois, savoir que nous partageons l’objectif ultime de servir les vétérans et que nous sommes plus forts lorsque nous travaillons ensemble, nous a mené à prendre des décisions constructives et progressistes.
+
+

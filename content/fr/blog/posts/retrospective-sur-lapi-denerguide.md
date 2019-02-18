@@ -1,11 +1,21 @@
 ---
-title: "Rétrospective sur l’API d’ÉnerGuide : beaucoup de «&nbsp;premières&nbsp;» et de leçons "
-description: "Alors que notre partenariat avec Ressources naturelles Canada (RNCan) pour l’API (interface de programmation d’applications) d’ÉnerGuide tire à sa fin, l’équipe de produit du Service numérique canadien (SNC) a tenu une rétrospective pour réfléchir à son expérience, à ses réalisations et aux leçons à retenir."
-author: Jennifer Fletcher, partenariats
-date: 2018-04-25 09:00:00 -0400
-image: /img/cds/blog-energuide-retro.jpg
-image-alt: Sept membres de l’équipe sont assis autour d’une table. Ils regardent deux personnes debouts devant eux qui regroupent des papiers autocollants (« post-it ») sur le tableau blanc.
-translationKey: "retrospective-on-EnerGuide-api"
+title: "Rétrospective sur l’API d’ÉnerGuide\_: beaucoup de «&nbsp;premières&nbsp;» et de leçons "
+description: >-
+  Alors que notre partenariat avec Ressources naturelles Canada (RNCan) pour
+  l’API (interface de programmation d’applications) d’ÉnerGuide tire à sa fin,
+  l’équipe de produit du Service numérique canadien (SNC) a tenu une
+  rétrospective pour réfléchir à son expérience, à ses réalisations et aux
+  leçons à retenir.
+author: "Jennifer\_Fletcher, partenariats"
+date: '2018-04-25 09:00:00 -0400'
+image: /img/cds/blog/blog-energuide-retro.jpg
+image-alt: >-
+  Sept membres de l’équipe sont assis autour d’une table. Ils regardent deux
+  personnes debouts devant eux qui regroupent des papiers autocollants («
+  post-it ») sur le tableau blanc.
+translationKey: retrospective-on-EnerGuide-api
+thumb: /img/cds/blog/thumb/blog-energuide-retro.jpg
+processed: 1550507384676
 ---
 
 Alors que notre partenariat avec Ressources naturelles Canada (RNCan) pour l’API (interface de programmation d’applications) d’ÉnerGuide tire à sa fin, l’équipe de produit du Service numérique canadien (SNC) a tenu une rétrospective pour réfléchir à son expérience, à ses réalisations et aux leçons à retenir.
@@ -49,3 +59,6 @@ Voici ce que nous avons tiré de notre rétrospective finale concernant l’API 
 * **Il faut travailler dans les mêmes locaux lorsque c’est possible**. Le fait de nous installer dans les locaux de RNCan nous a aidés à adapter notre renforcement des capacités pour répondre aux besoins des développeurs de RNCan avec qui nous travaillions. De plus, l’installation des développeurs de RNCan dans les locaux du SNC a permis à ces derniers d’avoir une idée de notre façon de travailler.
 
 Alors que nous terminions le sprint final de l’API d’ÉnerGuide de RNCan, un des thèmes ressortis était qu’il s’agissait de «&nbsp;premières&nbsp;» pour l’Office de l’efficacité énergétique. Avec des [tests automatisés](https://numerique.canada.ca/2018/03/26/les-tests-automatises/) et en utilisant [GraphQL](https://graphql.org/learn/) pour développer l’API, nous avons innové. Plus important encore, nous avons pu aider RNCan à prendre conscience de l’importance de mettre les utilisateurs au centre de la conception du produit et à se mouiller en adoptant des pratiques de développement modernes.
+
+
+

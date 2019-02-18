@@ -1,11 +1,16 @@
 ---
-title: "Travailler dans les locaux de RNCan pendant une semaine - Partie 2"
-description: "Nous construisons une interface de programmation d’applications (API) publique pour Ressources naturelles Canada (RNCan); cette API vise à ouvrir l’accès aux données ÉnerGuide sur la consommation d’énergie résidentielle."
-author: Jason White, chef, sciences des données
-date: 2018-02-15 09:00:00 -0400
-image: /img/cds/blog-colocating-with-NRCAN.jpg
+title: Travailler dans les locaux de RNCan pendant une semaine - Partie 2
+description: >-
+  Nous construisons une interface de programmation d’applications (API) publique
+  pour Ressources naturelles Canada (RNCan); cette API vise à ouvrir l’accès aux
+  données ÉnerGuide sur la consommation d’énergie résidentielle.
+author: 'Jason White, chef, sciences des données'
+date: '2018-02-15 09:00:00 -0400'
+image: /img/cds/blog/blog-colocating-with-NRCAN.jpg
 image-alt: Jason et Dave debouts devant l'édifice de Ressources naturelles Canada
-translationKey: "colocating-with-NRCan"
+translationKey: colocating-with-NRCan
+thumb: /img/cds/blog/thumb/blog-colocating-with-NRCAN.jpg
+processed: 1550507384400
 ---
 
 Nous construisons une interface de programmation d’applications (API) publique pour Ressources naturelles Canada (RNCan); cette API vise à ouvrir l’accès aux données ÉnerGuide sur la consommation d’énergie résidentielle. Les détails de ce partenariat font l’objet du billet [La recherche utilisateur avec RNCan&nbsp;: orienter la conception d’une API – Partie 1.](/2018/02/15/a-la-recherche-utilisateur-avec-rncan/)
@@ -29,3 +34,6 @@ Compte tenu des avantages de l’expérience de partage de locaux, nous recomman
 5. Tenir des conversations d’équipe publiques à l’aide de l’outil [Slack](https://slack.com), car il est facile de se sentir isolé de l’équipe. 
 
 Comme toujours, [nous aimerions recevoir](mailto:cds-snc@tbs-sct.gc.ca) vos commentaires sur ce partenariat en particulier et sur notre travail en général. 
+
+
+

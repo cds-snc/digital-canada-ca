@@ -1,11 +1,20 @@
 ---
-title: "Let’s talk **user** experience: Moving away from pixels, to people"
-description: "Many organizations and departments recognize the need to include user experience in their process. But in what capacity? And how? This can often manifest itself as simply hiring someone who acts as the team’s dedicated user experience designer. While this may be a good start, it misses the mark."
-author: Eman El-Fayomi, Senior designer
-date: 2018-06-14 09:00:00 -0400
-image: /img/cds/blog-user-experience.jpg
-image-alt: Three members of the CDS team workshop ideas with IRCC staff in Vancouver. They are writing ideas on post-it notes and placing those on quadrants posted on the wall.
-translationKey: "lets-talk-user-experience"
+title: 'Let’s talk **user** experience: Moving away from pixels, to people'
+description: >-
+  Many organizations and departments recognize the need to include user
+  experience in their process. But in what capacity? And how? This can often
+  manifest itself as simply hiring someone who acts as the team’s dedicated user
+  experience designer. While this may be a good start, it misses the mark.
+author: 'Eman El-Fayomi, Senior designer'
+date: '2018-06-14 09:00:00 -0400'
+image: /img/cds/blog/blog-user-experience.jpg
+image-alt: >-
+  Three members of the CDS team workshop ideas with IRCC staff in Vancouver.
+  They are writing ideas on post-it notes and placing those on quadrants posted
+  on the wall.
+translationKey: lets-talk-user-experience
+thumb: /img/cds/blog/thumb/blog-user-experience.jpg
+processed: 1550507384347
 ---
 
 <img width="100%" alt="Pixel evolving into a person — There are five shapes, starting with a square (pixel) on the left-hand side, eventually morphing into a full human figure on the right-hand side." src="/img/cds/ux-drawing.jpg">
@@ -45,3 +54,6 @@ Testing activities examined semantics, readability, flow and comprehension of co
 At the heart of our work with IRCC, we are aiming to create a clear, simple, and fast service that allows future citizens to reschedule their test at a time that works for them. We also want to facilitate communication between the call centre and local office staff and build the foundation for further service transformation.
 
 We just wrapped up our eight-week alpha phase, and are forging ahead in a twelve-week beta phase. Leading up to the launch of the IRCC “Reschedule a citizenship test” service, we’re conducting further accessibility and usability testing. After the launch, we’ll continue to iterate based on our metrics for success. Stay tuned!
+
+
+

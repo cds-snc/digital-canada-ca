@@ -1,11 +1,20 @@
 ---
-title: "Codage collectif : collaborer pour améliorer le travail des uns et des autres"
-description: "Si vous cherchez un peu, vous pouvez trouver de la solidarité autour de vous. Le développement de logiciels ouverts n’y fait pas exception. De par sa nature, le développement ouvert trouve sa source dans la collectivité. Grâce au partage, les gens peuvent tirer parti du travail de chacun, ce qui facilite la tâche de tout le monde."
-author: David Buckley, développeur
-date: 2018-07-17 09:00:00 -0400
-image: /img/cds/blog-david-https-header.jpg
-image-alt: Une illustration de deux personnes qui peinturent une maquette géante de page web.
-translationKey: "community-driven-coding"
+title: 'Codage collectif : collaborer pour améliorer le travail des uns et des autres'
+description: >-
+  Si vous cherchez un peu, vous pouvez trouver de la solidarité autour de vous.
+  Le développement de logiciels ouverts n’y fait pas exception. De par sa
+  nature, le développement ouvert trouve sa source dans la collectivité. Grâce
+  au partage, les gens peuvent tirer parti du travail de chacun, ce qui facilite
+  la tâche de tout le monde.
+author: 'David Buckley, développeur'
+date: '2018-07-17 09:00:00 -0400'
+image: /img/cds/blog/blog-david-https-header.jpg
+image-alt: >-
+  Une illustration de deux personnes qui peinturent une maquette géante de page
+  web.
+translationKey: community-driven-coding
+thumb: /img/cds/blog/thumb/blog-david-https-header.jpg
+processed: 1550507384406
 ---
 
 Si vous cherchez un peu, vous pouvez trouver de la solidarité autour de vous. Le développement de logiciels ouverts n’y fait pas exception. De par sa nature, le développement ouvert trouve sa source dans la collectivité. Grâce au partage, les gens peuvent tirer parti du travail de chacun, ce qui facilite la tâche de tout le monde.
@@ -35,3 +44,6 @@ Et la coopération continue. La semaine passée, lors d’un test nous avons dé
 Une fois que nous avons compris, il a été assez simple d’appliquer un tri numérique sur la colonne, ce qui a réglé le problème.
 
 La solution est maintenant appliquée dans nos deux projets, qui ne s’en portent que mieux. Et notre relation avec Eric est encore un petit peu plus solide. Merci Eric.
+
+
+

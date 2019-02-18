@@ -1,11 +1,16 @@
 ---
-title: "Designing for Canada"
-description: "After a short sabbatical and a decade in the U.K., I'm delighted to announce that I'm going to be the first Chief of Design with the Canadian Digital Service, a new initiative by the Government of Canada."
-author: Chris Govias, Design
-date: 2017-09-21 09:00:00 -0400
-image: /img/cds/blog-designing-for-canada-2017.jpg
-image-alt: "Chris Govias, Chief of Design at CDS"
-translationKey: "designing-for-canada"
+title: Designing for Canada
+description: >-
+  After a short sabbatical and a decade in the U.K., I'm delighted to announce
+  that I'm going to be the first Chief of Design with the Canadian Digital
+  Service, a new initiative by the Government of Canada.
+author: 'Chris Govias, Design'
+date: '2017-09-21 09:00:00 -0400'
+image: /img/cds/blog/blog-designing-for-canada-2017.jpg
+image-alt: 'Chris Govias, Chief of Design at CDS'
+translationKey: designing-for-canada
+thumb: /img/cds/blog/thumb/blog-designing-for-canada-2017.jpg
+processed: 1550507384306
 ---
 After a short sabbatical and a decade in the U.K., I'm delighted to announce that I'm going to be the first Chief of Design with the Canadian Digital Service, a new initiative by the Government of Canada.
 
@@ -16,3 +21,6 @@ Canadians expect web services, like Gmail and Facebook, to be easy to use and ac
 Since the launch of CDS this summer, the team's work and the scope of the projects has dramatically increased. CDS is going to be [hiring designers of all kinds](/work-with-us/) over the next couple of months. Please get in touch if you're interested in joining the team.
 
 I firmly believe that there's no better opportunity to make an impact through design. At the Canadian Digital Service, you'll work on projects that matter, in an open, transparent, inclusive, and diverse environment, to make the lives of your fellow Canadians better. It's that simple.
+
+
+

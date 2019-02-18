@@ -1,11 +1,19 @@
 ---
-title: "Showing the whole iceberg"
-description: "Sure, officially we’re a digital service office. But by being as transparent as possible about how we work, we can show the art of the possible and amplify the delivery of better, faster, and easier services that Canadians expect and deserve."
-author: Charlotte Pedersen, Capacity building
-date: 2018-07-31 09:00:00 -0400
-image: /img/cds/blog-iceberg-header.jpg
-image-alt: A person standing behind a podium gestures towards an iceberg floating in an aquarium while a small dog watches.
-translationKey: "showing-the-whole-iceberg"
+title: Showing the whole iceberg
+description: >-
+  Sure, officially we’re a digital service office. But by being as transparent
+  as possible about how we work, we can show the art of the possible and amplify
+  the delivery of better, faster, and easier services that Canadians expect and
+  deserve.
+author: 'Charlotte Pedersen, Capacity building'
+date: '2018-07-31 09:00:00 -0400'
+image: /img/cds/blog/blog-iceberg-header.jpg
+image-alt: >-
+  A person standing behind a podium gestures towards an iceberg floating in an
+  aquarium while a small dog watches.
+translationKey: showing-the-whole-iceberg
+thumb: /img/cds/blog/thumb/blog-iceberg-header.jpg
+processed: 1550507384366
 ---
 
 *“I believe offices like CDS are change management offices disguised as digital service offices.”* - Aaron Snow, CEO
@@ -51,3 +59,6 @@ But working in the open is what we’ll continue to make a priority and iterate 
 To get there, it’s important for us to show the whole iceberg along the journey: the good, the bad, and the not-so-pretty, so we can help others in the future navigate the waters a little smoother. Just as we have been able to do because of those who have come before us. 
 
 We’re excited to be on the journey with our partners and the public to help Canadians. [Let us know](#contact-us-links) what you want to learn more about.
+
+
+

@@ -4,9 +4,11 @@ title: Le POINT sur notre demande de propositions
 description: Voici une mise à jour sur le calendrier le plus plausible.
 author: 'Stevie-Ray Talbot, politiques'
 date: 2019-01-22T14:00:00.000Z
-image: /img/cds/rfp_fr.jpg
+image: /img/cds/blog/rfp_fr.jpg
 image-alt: 'Des autocollants en forme de feuilles d''érables avec les mots, fort et libre.'
 translationKey: update-rfp
+thumb: /img/cds/blog/thumb/rfp_fr.jpg
+processed: 1550507384520
 ---
 Nous tenons à remercier tous les soumissionnaires qui ont consacré le temps et les efforts nécessaires pour répondre à notre [demande de propositions](https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/appels-d-offres/PW-18-00841347). Depuis que le processus de demande de propositions a pris fin, nous travaillons sans relâche à l’évaluation des soumissions, mais cela prend plus de temps que nous l’aurions souhaité. Nous savons que vous et vos équipes devez établir des plans. Cela dit, voici une mise à jour sur le calendrier le plus plausible et quelques rappels :
 
@@ -30,3 +32,6 @@ Pour effectuer des travaux pour le gouvernement du Canada, vous devez obtenir un
 Les soumissionnaires, tout comme les employés qu’ils proposent, [devront avoir une cote de sécurité valide](https://www.tpsgc-pwgsc.gc.ca/esc-src/enquete-screening-fra.html) avant d’entreprendre les travaux des volets 1 et 2, à tout le moins une « cote de fiabilité ». Si vous obtenez un contrat, nous travaillerons avec vous pour faire en sorte que vous ayez la cote de sécurité nécessaire. Toutefois, vous ne pouvez pas entreprendre les travaux avec nous avant que votre entreprise ait obtenu la cote de sécurité qui s’impose.
  
 Si vous avez des questions au sujet des renseignements susmentionnés, veuillez vous adresser au personnel chargé des marchés du Secrétariat du Conseil du Trésor (SCT) à l’adresse [zzTBSCONT@tbs-sct.gc.ca](mailto:zzTBSCONT@tbs-sct.gc.ca).
+
+
+

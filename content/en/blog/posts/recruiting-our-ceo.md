@@ -1,11 +1,16 @@
 ---
-title: "Reflections on recruiting our CEO"
-description: "We recently announced that Aaron Snow is joining CDS as our first CEO. I’m delighted that Aaron is taking the leap to move to Ottawa and be part of our digital movement."
-author: Lena Trudeau, Senior advisor
-date: 2018-04-09 09:00:00 -0400
-image: /img/cds/blog-ceo-recruitment.jpg
+title: Reflections on recruiting our CEO
+description: >-
+  We recently announced that Aaron Snow is joining CDS as our first CEO. I’m
+  delighted that Aaron is taking the leap to move to Ottawa and be part of our
+  digital movement.
+author: 'Lena Trudeau, Senior advisor'
+date: '2018-04-09 09:00:00 -0400'
+image: /img/cds/blog/blog-ceo-recruitment.jpg
 image-alt: Chief Executive Officer Aaron Snow chatting with two other team members.
-translationKey: "recruiting-our-ceo"
+translationKey: recruiting-our-ceo
+thumb: /img/cds/blog/thumb/blog-ceo-recruitment.jpg
+processed: 1550507384357
 ---
 
 We recently [announced](https://digital.canada.ca/2018/03/09/CDS-gets-its-first-CEO/) that Aaron Snow is joining CDS as our first CEO. I’m delighted that Aaron is taking the leap to move to Ottawa and be part of our digital movement.
@@ -41,3 +46,6 @@ A huge thanks goes to the Treasury Board Secretariat’s Human Resources team. T
 ## Lessons learned
 
 It’s been a great learning experience about how we approach recruiting, the work involved in finding the right people, and where we need to raise the bar. We’ll keep sharing as we test and iterate. If you have great practices to share, we’d love to hear from you!
+
+
+

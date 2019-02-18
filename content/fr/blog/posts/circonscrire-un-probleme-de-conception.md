@@ -1,11 +1,15 @@
 ---
-title: "Circonscrire un problème de conception – Le processus de demande de citoyenneté, vu de l’intérieur"
-description: "C’est une période emballante au Service numérique canadien (SNC) : nous avons retroussé nos manches et nous nous sommes lancés dans nos premiers projets de prestation de services, tout en travaillant fort pour choisir nos prochains partenariats. L’un de nos partenaires pour ces tout premiers projets est Immigration, Réfugiés et Citoyenneté Canada (IRCC)."
-author: Mario Garneau, Mithula Naik et Ryan Androsoff 
-date: 2017-10-24 09:00:00 -0400
-image: /img/cds/blog-framing-a-design-problem-2017.jpg
-image-alt: "Une salle remplie de chaises inoccupées lors d’une cérémonie de citoyenneté."
-translationKey: "framing-a-design-problem"
+title: >-
+  Circonscrire un problème de conception – Le processus de demande de
+  citoyenneté, vu de l’intérieur
+description: "C’est une période emballante au Service numérique canadien (SNC)\_: nous avons retroussé nos manches et nous nous sommes lancés dans nos premiers projets de prestation de services, tout en travaillant fort pour choisir nos prochains partenariats. L’un de nos partenaires pour ces tout premiers projets est Immigration, Réfugiés et Citoyenneté Canada (IRCC)."
+author: 'Mario Garneau, Mithula Naik et Ryan Androsoff'
+date: '2017-10-24 09:00:00 -0400'
+image: /img/cds/blog/blog-framing-a-design-problem-2017.jpg
+image-alt: Une salle remplie de chaises inoccupées lors d’une cérémonie de citoyenneté.
+translationKey: framing-a-design-problem
+thumb: /img/cds/blog/thumb/blog-framing-a-design-problem-2017.jpg
+processed: 1550507384405
 ---
 C’est une période emballante au Service numérique canadien (SNC) : nous avons retroussé nos manches et nous nous sommes lancés dans nos premiers projets de prestation de services, tout en travaillant fort pour [choisir nos prochains partenariats](/2017/08/24/choisir-nos-projets/). L’un de nos partenaires pour ces tout premiers projets est Immigration, Réfugiés et Citoyenneté Canada (IRCC).
 
@@ -32,3 +36,6 @@ Pour mieux comprendre les problèmes auxquels nous nous attaquions, nous avons d
 Afin de nous familiariser avec le contexte opérationnel d’IRCC et de mener une recherche approfondie sur le terrain en interagissant avec les demandeurs à mesure qu’ils suivent le processus des rendez-vous pour la citoyenneté, nous avons entrepris un travail de recherche sur le terrain. Il s’agissait en particulier d’observer des examens et une cérémonie de citoyenneté, de réaliser au passage des entrevues avec des clients à la sortie de leur rendez-vous, et d’observer des agents d’immigration au travail pour comprendre leurs routines et leurs contextes quotidiens. Ces méthodes rapides mais immersives nous ont donné une compréhension approfondie des besoins, des espoirs et des préoccupations du point de vue des utilisateurs, ce qui contribuera à orienter le reste de notre processus de conception et de développement.
 
 Bien entendu, il s’agit de la toute première étape qui nous mènera à mieux comprendre les divers aspects des opérations d’IRCC ainsi que les gens qui bénéficient de ses services. Notre collaboration avec IRCC nous permet de préparer le terrain à une façon de concevoir les services, plus ancrée dans la réalité, et ce, grâce à nos nouvelles connaissances sur les groupes d’utilisateurs et sur les processus liés aux services.
+
+
+

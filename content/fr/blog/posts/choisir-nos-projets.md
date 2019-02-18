@@ -1,11 +1,22 @@
 ---
-title: "Choisir nos projets"
-description: "Si le fait d’utiliser la technologie de pointe suscite beaucoup d’engouement, au SNC, nous commençons par la base, soit définir un bon service, parce que c’est ce qui compte le plus. Dans vos rapports avec votre gouvernement, 1)&nbsp;il ne devrait pas y avoir d’ambiguïté sur ce que vous devez savoir et faire, et 2)&nbsp;il devrait être facile de faire ce qu’il y a à faire. Il ne s’agit pas seulement de refondre les sites Web; la technologie et les méthodes modernes nous donnent une réelle occasion de répondre aux besoins des utilisateurs alors que nous transformons nos services et, dans de nombreux cas, nous les mettons en ligne."
-author: Wendy Luciani, partenariats
-date: 2017-08-24 10:00:00 -0400
-image: /img/cds/picking-our-projects-2017.jpg
-image-alt: "Affiches dans les locaux du SNC."
-translationKey: "picking-our-projects/"
+title: Choisir nos projets
+description: >-
+  Si le fait d’utiliser la technologie de pointe suscite beaucoup d’engouement,
+  au SNC, nous commençons par la base, soit définir un bon service, parce que
+  c’est ce qui compte le plus. Dans vos rapports avec votre gouvernement,
+  1)&nbsp;il ne devrait pas y avoir d’ambiguïté sur ce que vous devez savoir et
+  faire, et 2)&nbsp;il devrait être facile de faire ce qu’il y a à faire. Il ne
+  s’agit pas seulement de refondre les sites Web; la technologie et les méthodes
+  modernes nous donnent une réelle occasion de répondre aux besoins des
+  utilisateurs alors que nous transformons nos services et, dans de nombreux
+  cas, nous les mettons en ligne.
+author: 'Wendy Luciani, partenariats'
+date: '2017-08-24 10:00:00 -0400'
+image: /img/cds/blog/picking-our-projects-2017.jpg
+image-alt: Affiches dans les locaux du SNC.
+translationKey: picking-our-projects/
+thumb: /img/cds/blog/thumb/picking-our-projects-2017.jpg
+processed: 1550507384404
 ---
 J’ai grandi sur une ferme. Mon enfance a été marquée par la sensation du gravier sous mes pieds, la terre sur mes mains et le bonheur de choisir des fruits et des légumes directement du champ. J’aimerais pouvoir vous dire que choisir des projets est semblable, mais je n’ai toujours pas vu de gravier, de terre, de fruits ou de légumes pendant une discussion portant sur un partenariat (points bonis si vous y arrivez!)
 
@@ -34,3 +45,6 @@ Si le problème «&nbsp;tombe dans notre palette&nbsp;» et que nous entrevoyons
 Si les deux parties décident que le partenariat est judicieux, nous mettrons en place une entente allégée décrivant notre approche, nos rôles et responsabilités et les échéances. Ensuite, nous retrousserons nos manches et nous nous mettrons au travail! Rappelez-vous que nous avons l’intention de travailler ouvertement avec nos partenaires, c’est-à-dire que nous partagerons, autant que possible, les conclusions que nous aurons tirées, nos défis et nos succès, au fur et à mesure.
 
 Jusqu’à présent, la réponse a été incroyable! C’est avec humilité que nous constatons l’intérêt qui nous a été manifesté à ce jour, et nous attendons avec impatience les nombreuses conversations à venir. Gardez ces renseignements à l’esprit, et n’hésitez pas à [communiquer avec nous](#contact-us-links) si vous souhaitez discuter de votre problème et des manières dont nous pourrions vous aider.
+
+
+

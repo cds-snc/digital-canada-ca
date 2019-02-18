@@ -1,11 +1,16 @@
 ---
-title: "Utilisez les outils dont vous avez besoin pour faire du bon travail"
-description: "Afin d’adopter des pratiques numériques modernes, il est également important d’avoir les outils – à la fois les appareils et les logiciels – qui rendent cela possible."
-author: Sean Boots, équipe des politiques
-date: 2018-06-27 09:00:00 -0400
-image: /img/cds/blog-tools-for-work-2018.jpeg
+title: Utilisez les outils dont vous avez besoin pour faire du bon travail
+description: >-
+  Afin d’adopter des pratiques numériques modernes, il est également important
+  d’avoir les outils – à la fois les appareils et les logiciels – qui rendent
+  cela possible.
+author: 'Sean Boots, équipe des politiques'
+date: '2018-06-27 09:00:00 -0400'
+image: /img/cds/blog/blog-tools-for-work-2018.jpg
 image-alt: Plusieurs ordinateurs MacBook couverts d'autocollants sur une table.
-translationKey: "tools-to-do-good-work"
+translationKey: tools-to-do-good-work
+thumb: /img/cds/blog/thumb/blog-tools-for-work-2018.jpg
+processed: 1550507384652
 ---
 
 Nous avons déjà blogué sur l’importance des [tests automatisés](https://numerique.canada.ca/2018/03/26/les-tests-automatises/), de [l’intégration continue](https://numerique.canada.ca/2018/05/16/reduire-le-risque-grace-au-deploiement-continu/), et certains de nos premiers [choix de plateformes technologiques](https://numerique.canada.ca/2017/11/06/les-choix-technologiques-du-snc/). Afin d’adopter des pratiques numériques modernes, il est également important d’avoir les outils – à la fois les appareils et les logiciels – qui rendent cela possible.
@@ -39,3 +44,5 @@ Nous ne sommes pas la seule équipe du gouvernement canadien à utiliser des Mac
 Au-delà de nos équipes de produits, nous commençons aussi à utiliser des MacBooks pour notre personnel des communications, des politiques et des opérations internes, même si ces équipes ont tendance à utiliser plus souvent leurs appareils ministériels standard, puisque leur travail peut parfois comporter des documents protégés. Nous travaillons avec nos collègues de la Direction du dirigeant principal de l’information et de la division de la TI du SCT pour [ouvrir l’accès aux outils de collaboration que nous utilisons](https://ouvert.canada.ca/fr/blog/permettre-le-gcnumerique-avec-une-securite-pragmatique) tous les jours sur les appareils ministériels standard.
 
 L’utilisation d’appareils non standard – les outils que notre personnel choisit d’utiliser – est une partie importante de nos efforts visant à créer un environnement habilitant efficace, où chaque personne peut être créative, productive et faire de son mieux. Nous aimerions connaître les approches adoptées par les autres équipes de conception et de logiciels du Ministère pour y parvenir – [communiquez avec nous](mailto:cds-snc@tbs-sct.gc.ca)!
+
+

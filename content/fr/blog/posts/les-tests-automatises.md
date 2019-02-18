@@ -1,16 +1,24 @@
 ---
-title: "Votre équipe n’a pas le temps de <strong>ne pas</strong> utiliser les tests automatisés"
-description: "Dans le cadre de l’interface de programmation d’applications (API)
-développée avec Ressources naturelles Canada (RNCan), nous suivons un processus
-commun d’intégration continue (IC), qui comprend l’utilisation intensive de tests
-automatisés. À notre avis, les tests d’IC et les tests automatisés constituent
-une condition fondamentale à la production et au maintien de produits logiciels
-de haute qualité."
-author: Jason White, chef, sciences des données
-date: 2018-03-26 09:00:00 -0400
-image: /img/cds/blog-automated-testing.jpg
-image-alt: "Trois personnes sont assises autour d’une table tout en travaillant sur des ordinateurs portables. Une personne montre du doigt l’écran de la personne en face d’elle qui montre un signe d’accord."
-translationKey: "automated-testing-blog"
+title: >-
+  Votre équipe n’a pas le temps de <strong>ne pas</strong> utiliser les tests
+  automatisés
+description: >-
+  Dans le cadre de l’interface de programmation d’applications (API) développée
+  avec Ressources naturelles Canada (RNCan), nous suivons un processus commun
+  d’intégration continue (IC), qui comprend l’utilisation intensive de tests
+  automatisés. À notre avis, les tests d’IC et les tests automatisés constituent
+  une condition fondamentale à la production et au maintien de produits
+  logiciels de haute qualité.
+author: 'Jason White, chef, sciences des données'
+date: '2018-03-26 09:00:00 -0400'
+image: /img/cds/blog/blog-automated-testing.jpg
+image-alt: >-
+  Trois personnes sont assises autour d’une table tout en travaillant sur des
+  ordinateurs portables. Une personne montre du doigt l’écran de la personne en
+  face d’elle qui montre un signe d’accord.
+translationKey: automated-testing-blog
+thumb: /img/cds/blog/thumb/blog-automated-testing.jpg
+processed: 1550507384600
 ---
 
 Dans le cadre de l’interface de programmation d’applications (API) développée avec Ressources naturelles Canada (RNCan), nous suivons un processus commun d’intégration continue (IC), qui comprend l’utilisation intensive de tests automatisés. À notre avis, les tests d’IC et les tests automatisés constituent une condition fondamentale à la production et au maintien de produits logiciels de haute qualité.
@@ -75,3 +83,6 @@ Nous parlerons davantage des aspects techniques de l’API que nous élaborons a
 
 * [Partie 1 – Effectuer la recherche utilisateur de RNCan: orienter la conception d’une API](https://numerique.canada.ca/2018/02/15/a-la-recherche-utilisateur-avec-RNCan/)
 * [Partie 2 – Travailler dans les locaux de RNCan pendant une semaine](https://numerique.canada.ca/2018/02/15/b-travailler-dans-les-locaux-de-RNCan/)
+
+
+

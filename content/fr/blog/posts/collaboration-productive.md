@@ -1,11 +1,29 @@
 ---
-title: "Collaboration productive : comment établir un flux de travail qui fonctionne pour toutes les disciplines"
-description: "Au Service numérique canadien (SNC), nous formons nos équipes de produits pour qu’elles se composent de gestionnaires de produits, de chercheurs, de concepteurs, de développeurs, d’experts en politiques et de spécialistes en communication. Mais le fait de réunir une équipe multidisciplinaire ne signifie pas que la partie la plus difficile est terminée. Toutes les personnes que vous avez rassemblées au sein de votre équipe proviennent de disciplines différentes et chacune a ses propres façons de travailler. Il peut s’agir (sans s’y limiter) du rythme, des outils, des heures, des moments de la journée, des conditions environnementales, des méthodes de communication et des moyens que chaque personne préfère pour donner et recevoir de la rétroaction. Avec tant de variables différentes, il est facile de se sentir rapidement dépassé."
-author: Eman El-Fayomi, chef de la conception
-date: 2018-08-21 09:00:00 -0400
-image: /img/cds/blog-productive-collaboration.jpg
-image-alt: L'équipe de produit se réunit autour du tableau de print lors d'une réunion quotidienne.
-translationKey: "productive-collaboration"
+title: >-
+  Collaboration productive : comment établir un flux de travail qui fonctionne
+  pour toutes les disciplines
+description: >-
+  Au Service numérique canadien (SNC), nous formons nos équipes de produits pour
+  qu’elles se composent de gestionnaires de produits, de chercheurs, de
+  concepteurs, de développeurs, d’experts en politiques et de spécialistes en
+  communication. Mais le fait de réunir une équipe multidisciplinaire ne
+  signifie pas que la partie la plus difficile est terminée. Toutes les
+  personnes que vous avez rassemblées au sein de votre équipe proviennent de
+  disciplines différentes et chacune a ses propres façons de travailler. Il peut
+  s’agir (sans s’y limiter) du rythme, des outils, des heures, des moments de la
+  journée, des conditions environnementales, des méthodes de communication et
+  des moyens que chaque personne préfère pour donner et recevoir de la
+  rétroaction. Avec tant de variables différentes, il est facile de se sentir
+  rapidement dépassé.
+author: 'Eman El-Fayomi, chef de la conception'
+date: '2018-08-21 09:00:00 -0400'
+image: /img/cds/blog/blog-productive-collaboration.jpg
+image-alt: >-
+  L'équipe de produit se réunit autour du tableau de print lors d'une réunion
+  quotidienne.
+translationKey: productive-collaboration
+thumb: /img/cds/blog/thumb/blog-productive-collaboration.jpg
+processed: 1550507384408
 ---
 
 Au Service numérique canadien (SNC), nous formons nos équipes de produits pour qu’elles se composent de gestionnaires de produits, de chercheurs, de concepteurs, de développeurs, d’experts en politiques et de spécialistes en communication. Mais le fait de réunir une équipe multidisciplinaire ne signifie pas que la partie la plus difficile est terminée. Toutes les personnes que vous avez rassemblées au sein de votre équipe proviennent de disciplines différentes et chacune a ses propres façons de travailler. Il peut s’agir (sans s’y limiter) du rythme, des outils, des heures, des moments de la journée, des conditions environnementales, des méthodes de communication et des moyens que chaque personne préfère pour donner et recevoir de la rétroaction. Avec tant de variables différentes, il est facile de se sentir rapidement dépassé.
@@ -59,4 +77,7 @@ Alors que nous nous efforçons de travailler ouvertement, il ne s’agit pas seu
 Il s’agit d’un aperçu de notre processus. C’est encore un travail en cours, et la patience, la souplesse et l’itération continue sont des ingrédients clés. Nous continuerons de vous faire part de la façon dont nous adaptons nos flux de travail dans l’espoir que cela vous aidera à améliorer les vôtres également.
 
 Si vous êtes à la recherche de conseils ou si vous avez des conseils que vous aimeriez partager, [nous aimerions avoir de vos nouvelles!](mailto:Eman.El-Fayomi@tbs-sct.gc.ca)
+
+
+
 

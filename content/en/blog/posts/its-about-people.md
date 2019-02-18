@@ -1,11 +1,16 @@
 ---
-title: "It’s about people"
-description: "Putting users first. That’s what CDS is all about.  Digital government is about people: their needs, their experiences, their frustrations, even their hopes."
-author: Anatole Papadopoulos, Executive Director
-date: 2017-07-25 10:00:00 -0400
-image: /img/cds/blog-its-about-people-2017.jpg
-image-alt: "Anatole Papadopoulos speaking to some CDS staff"
-translationKey: "its-about-people"
+title: It’s about people
+description: >-
+  Putting users first. That’s what CDS is all about.  Digital government is
+  about people: their needs, their experiences, their frustrations, even their
+  hopes.
+author: 'Anatole Papadopoulos, Executive Director'
+date: '2017-07-25 10:00:00 -0400'
+image: /img/cds/blog/blog-its-about-people-2017.jpg
+image-alt: Anatole Papadopoulos speaking to some CDS staff
+translationKey: its-about-people
+thumb: /img/cds/blog/thumb/blog-its-about-people-2017.jpg
+processed: 1550507384344
 ---
 Putting users first. That’s what CDS is all about. When we talk about “digital government,” it often conjures up websites, APIs, and apps. They’re part of the toolkit. But digital government is about people: their needs, their experiences, their frustrations, even their hopes.
 
@@ -18,3 +23,6 @@ From citizenship to taxes, from veterans’ benefits to employment insurance, go
 The key ingredient to doing that well is also people. People who combine empathy, curiosity, and proven methods to gain real insights into users – and who have the skills and tools to bring digital solutions to life quickly based on those insights. People excited about collaborating with like-minded departmental partners and external organizations - and about working in the open. People who want to solve problems with their users, not for their users. That’s the team we’re building. 
 
 At an all-staff meeting a few weeks ago, a team member brought up entrepreneur Uri Levene’s advice: “Fall in love with the problem, not the solution.” It’s a reminder to us to focus on the right thing – and to bring humility to our work. That’s our mission. To fall in love with our users’ problems again. We couldn’t be more excited.
+
+
+

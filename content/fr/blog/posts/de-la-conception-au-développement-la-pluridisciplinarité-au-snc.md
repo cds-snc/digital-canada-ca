@@ -6,11 +6,13 @@ description: >-
   compétences et contribuer à la création de produits améliorés.
 author: 'Nick Makuch, concepteur d’interaction et développeur spécialiste du front-end'
 date: 2019-01-08T14:00:00.000Z
-image: /img/cds/yoel-j-gonzalez-304137-unsplash.jpg
+image: /img/cds/blog/yoel-j-gonzalez-304137-unsplash.jpg
 image-alt: >-
   Vue en plan d’une intersection où des voitures sont arrêtées et où des
   personnes attendent pour traverser la rue.
 translationKey: working-across-disciplines
+thumb: /img/cds/blog/thumb/yoel-j-gonzalez-304137-unsplash.jpg
+processed: 1550507384427
 ---
 J’ai suivi le programme Interactive Multimedia and Design (Conception et multimédias interactifs) à l’université, et j’y ai acquis une solide base à la fois en conception et en développement. Les professeurs nous disaient qu’on travaillerait probablement à la croisée de ces deux disciplines, assurant le lien entre elles. Vers la fin de mon programme, j’ai décidé de me concentrer sur la conception. J’étais loin de savoir que, quelques années plus tard, j’apprendrais à nouveau à coder.
 
@@ -33,3 +35,6 @@ Il est essentiel de créer des prototypes pour effectuer des tests d’utilisabi
 C’est donc en adoptant une approche pluridisciplinaire que j’ai pu élargir mon champ de compétences et contribuer à la création de produits améliorés.
 
 Intégrer notre équipe vous intéresse ? Nous embauchons des [concepteurs d’interaction](https://numerique.canada.ca/concepteurs-dinteraction/), des [concepteurs de contenu](https://numerique.canada.ca/concepteurs-de-contenu/), des [concepteurs de services](https://numerique.canada.ca/concepteurs-de-services/) et des [concepteurs visuels](https://numerique.canada.ca/concepteurs-visuels/).
+
+
+

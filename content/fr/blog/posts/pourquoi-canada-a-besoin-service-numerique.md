@@ -1,11 +1,21 @@
 ---
-title: "Pourquoi le Canada a besoin d’un service numérique"
-description: "C’est pourquoi nous avons créé le SNC. Il nous faut une équipe qui peut démontrer l’art du possible dans le domaine du numérique. Une équipe qui peut fournir rapidement un prototype opérationnel pour voir comment il fonctionne et l’améliorer en fonction des commentaires des utilisateurs. Nous devons mettre les besoins réels des gens au cœur des efforts déployés pour concevoir les services gouvernementaux."
-author: Pascale Elvas, directrice
-date: 2017-08-03 10:00:00 -0400
-image: /img/cds/why-canada-needs-a-digital-service-2017.jpg
-image-alt: "Ryan Androsoff, Lena Trudeau, Anatole Papadopoulos, Olivia Neal et Pascale Elvas"
-translationKey: "why-canada-needs-a-digital-service/"
+title: Pourquoi le Canada a besoin d’un service numérique
+description: >-
+  C’est pourquoi nous avons créé le SNC. Il nous faut une équipe qui peut
+  démontrer l’art du possible dans le domaine du numérique. Une équipe qui peut
+  fournir rapidement un prototype opérationnel pour voir comment il fonctionne
+  et l’améliorer en fonction des commentaires des utilisateurs. Nous devons
+  mettre les besoins réels des gens au cœur des efforts déployés pour concevoir
+  les services gouvernementaux.
+author: 'Pascale Elvas, directrice'
+date: '2017-08-03 10:00:00 -0400'
+image: /img/cds/blog/why-canada-needs-a-digital-service-2017.jpg
+image-alt: >-
+  Ryan Androsoff, Lena Trudeau, Anatole Papadopoulos, Olivia Neal et Pascale
+  Elvas
+translationKey: why-canada-needs-a-digital-service/
+thumb: /img/cds/blog/thumb/why-canada-needs-a-digital-service-2017.jpg
+processed: 1550507384656
 ---
 Pendant plusieurs mois, j’ai travaillé en coulisses pour défendre cette cause qu’est le Service numérique canadien (SNC). J’ai beaucoup réfléchi à la raison d’être d’une organisation dédiée aux services numériques au Canada, ainsi qu’au potentiel de cette organisation de changer la façon de concevoir les services gouvernementaux. 
 
@@ -20,3 +30,6 @@ C’est pourquoi nous avons créé le SNC. Il nous faut une équipe qui peut dé
 On dit que la seule façon de marquer l’histoire est de le faire avec soin. Le Canada a pris ce virage du numérique relativement tard, mais cela nous permet de travailler et d’apprendre avec des gens de la trempe de [Mike Bracken](https://twitter.com/MTBracken) et [Olivia Neal](https://twitter.com/LivNeal) du Government Digital Service du Royaume-Uni ainsi que [Lena Trudeau](https://twitter.com/ltrudeau) de 18F des États-Unis, parmi tant d’autres.
 
 Je suis absolument ravie de participer à la définition d’une approche entièrement canadienne de la prestation des services numériques – une approche qui repose entièrement sur la collaboration et qui est un modèle de ce qui peut être réalisé en apprenant par la pratique et en mettant les gens au cœur du processus.
+
+
+

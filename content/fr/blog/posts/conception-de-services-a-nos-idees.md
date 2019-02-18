@@ -1,11 +1,20 @@
 ---
-title: "Conception de services : À nos idées!"
-description: "Le 21 juin, le Service numérique canadien (SNC) a organisé son tout premier atelier de conception, qui a réuni 30 participants de l’Agence du revenu du Canada (ARC) et d’Emploi et Développement social Canada (EDSC). Avec l’aide de mentors en conception, les participants ont échangé des idées sur des enjeux actuels quant aux services du gouvernement du Canada."
+title: 'Conception de services : À nos idées!'
+description: >-
+  Le 21 juin, le Service numérique canadien (SNC) a organisé son tout premier
+  atelier de conception, qui a réuni 30 participants de l’Agence du revenu du
+  Canada (ARC) et d’Emploi et Développement social Canada (EDSC). Avec l’aide de
+  mentors en conception, les participants ont échangé des idées sur des enjeux
+  actuels quant aux services du gouvernement du Canada.
 author: Charlotte Pedersen et Eman El-Fayomi
-date: 2018-07-26 09:00:00 -0400
-image: /img/cds/blog-jam-header.jpg
-image-alt: Quatre personnes parlent devant un tableau noir alors que des nuages ​​colorés tourbillonnent au-dessus de leurs têtes.
-translationKey: "service-design-thats-our-jam"
+date: '2018-07-26 09:00:00 -0400'
+image: /img/cds/blog/blog-jam-header.jpg
+image-alt: >-
+  Quatre personnes parlent devant un tableau noir alors que des nuages ​​colorés
+  tourbillonnent au-dessus de leurs têtes.
+translationKey: service-design-thats-our-jam
+thumb: /img/cds/blog/thumb/blog-jam-header.jpg
+processed: 1550507384418
 ---
 
 Le 21 juin, le Service numérique canadien (SNC) a organisé son tout premier [atelier de conception](https://www.youtube.com/watch?v=S_XeFWoR9uU), qui a réuni 30 participants de l’Agence du revenu du Canada (ARC) et d’Emploi et Développement social Canada (EDSC). Avec l’aide de mentors en conception, les participants ont échangé des idées sur des enjeux actuels quant aux services du gouvernement du Canada.
@@ -80,3 +89,5 @@ Il y avait toutefois quelques obstacles. Certains ont indiqué qu’ils trouvaie
 Nous avons hâte d’examiner la rétroaction reçue, de reproduire le modèle et de perfectionner la recette pour rendre les services de l’ensemble du gouvernement simples et faciles à utiliser.
 
 Vous êtes intéressés à échanger avec nous? [Dites-le-nous!](mailto:charlotte.pedersen@cds-snc.ca)
+
+

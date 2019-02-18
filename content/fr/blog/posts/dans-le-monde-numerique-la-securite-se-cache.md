@@ -1,11 +1,18 @@
 ---
-title: "Dans le monde numérique, la sécurité se cache"
-description: "J’en arrive à la conclusion qu’écrire sur la sécurité est en fait plus difficile que de la faire appliquer. Cela est probablement attribuable au fait que j’ai évité de parler de mes activités au travail ou d’écrire à ce sujet pendant la majeure partie des dix dernières années. Permettez-moi de vous en dire plus, ça pourrait devenir intéressant."
-author: John O'Brien, responsable de la sécurité
-date: 2018-07-11 09:00:00 -0400
-image: /img/cds/the-security-in-digital-is-silent.png
+title: 'Dans le monde numérique, la sécurité se cache'
+description: >-
+  J’en arrive à la conclusion qu’écrire sur la sécurité est en fait plus
+  difficile que de la faire appliquer. Cela est probablement attribuable au fait
+  que j’ai évité de parler de mes activités au travail ou d’écrire à ce sujet
+  pendant la majeure partie des dix dernières années. Permettez-moi de vous en
+  dire plus, ça pourrait devenir intéressant.
+author: 'John O''Brien, responsable de la sécurité'
+date: '2018-07-11 09:00:00 -0400'
+image: /img/cds/blog/the-security-in-digital-is-silent.jpg
 image-alt: Un cadenas ouvert
-translationKey: "the-security-in-digital-is-silent"
+translationKey: the-security-in-digital-is-silent
+thumb: /img/cds/blog/thumb/the-security-in-digital-is-silent.jpg
+processed: 1550507384425
 ---
 
 J’en arrive à la conclusion qu’écrire sur la sécurité est en fait plus difficile que de la faire appliquer. Cela est probablement attribuable au fait que j’ai évité de parler de mes activités au travail ou d’écrire à ce sujet pendant la majeure partie des dix dernières années. Permettez-moi de vous en dire plus, ça pourrait devenir intéressant.
@@ -39,3 +46,6 @@ Il va sans dire que nous avons échoué à nos propres vérifications de conform
 Mettre en œuvre des connexions sécurisées peut sembler un problème facile à régler, comme un de nos premiers projets de « sécurité ». C’est simple, sans danger, mais c’est également un domaine où des améliorations importantes sont encore possibles, ce qui fait que c’est avec plaisir que nous aidons les gens. Nous discuterons davantage de nos travaux sur ce projet au cours des prochaines semaines, alors, ne manquez pas la suite!
 
 Je prévois me concentrer sur les principes fondamentaux pour ensuite travailler sur les choses plus raffinées. J’espère vous y retrouver.
+
+
+

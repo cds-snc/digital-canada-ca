@@ -1,11 +1,19 @@
 ---
-title: "Notre partenariat avec Code for Canada"
-description: "L’automne dernier, nous avons accueilli l’une des deux premières cohortes d’associés de Code for Canada (C4C), l’autre s’étant jointe à nos collègues du gouvernement de l’Ontario. Ce billet de blogue décrira comment tirer le meilleur parti d’un partenariat potentiel!"
-author: John Millons, politiques et mobilisation
-date: 2018-04-19 09:00:00 -0400
-image: /img/cds/blog-c4c.jpg
-image-alt: Les six membres de la première cohorte d’associés de Code for Canada à l’extérieur de l’édifice du parlement provincial à Toronto.
-translationKey: "our-partnership-with-code-for-canada"
+title: Notre partenariat avec Code for Canada
+description: >-
+  L’automne dernier, nous avons accueilli l’une des deux premières cohortes
+  d’associés de Code for Canada (C4C), l’autre s’étant jointe à nos collègues du
+  gouvernement de l’Ontario. Ce billet de blogue décrira comment tirer le
+  meilleur parti d’un partenariat potentiel!
+author: 'John Millons, politiques et mobilisation'
+date: '2018-04-19 09:00:00 -0400'
+image: /img/cds/blog/blog-c4c.jpg
+image-alt: >-
+  Les six membres de la première cohorte d’associés de Code for Canada à
+  l’extérieur de l’édifice du parlement provincial à Toronto.
+translationKey: our-partnership-with-code-for-canada
+thumb: /img/cds/blog/thumb/blog-c4c.jpg
+processed: 1550507384629
 ---
 
 L’automne dernier, nous avons accueilli l’une des deux premières cohortes d’associés de [Code for Canada](https://codefor.ca/fr/) (C4C), l’autre s’étant jointe à nos collègues du gouvernement de l’Ontario. Ce billet de blogue décrira comment tirer le meilleur parti d’un partenariat potentiel!
@@ -46,3 +54,6 @@ Comment tirer le meilleur parti du partenariat? Voici les clés de notre point d
 La collaboration avec C4C s’est revélée une occasion importante, car nous partageons des objectifs communs, soit l’amélioration des services publiques et de la capacité numérique dans l’ensemble du gouvernement. Le recours au programme de C4C est une excellente occasion de renforcer l’approche multidisciplinaire de la résolution de problèmes dans votre organisation! Dan, Raluca et Leon ont chacun apporté au SNC une expertise et un point de vue unique qui font partie intégrante de la conception et de la prestation de services axés sur l’utilisateur.
 
 [Communiquez avec nous](mailto:cds-snc@tbs-sct.gc.ca) ou avec [C4C](mailto:dorothy@codefor.ca) pour en savoir plus sur notre expérience ou sur la façon dont vous pouvez en profiter!
+
+
+

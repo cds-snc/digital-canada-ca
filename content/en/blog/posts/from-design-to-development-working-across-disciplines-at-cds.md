@@ -6,11 +6,13 @@ description: >-
   and collaborate to build better products. 
 author: 'Nick Makuch, Interaction designer/Front-end developer'
 date: 2019-01-08T14:00:00.000Z
-image: /img/cds/yoel-j-gonzalez-304137-unsplash.jpg
+image: /img/cds/blog/yoel-j-gonzalez-304137-unsplash.jpg
 image-alt: >-
   An aerial view of an intersection where cars are stopped and people are
   waiting to cross the street.
 translationKey: working-across-disciplines
+thumb: /img/cds/blog/thumb/yoel-j-gonzalez-304137-unsplash.jpg
+processed: 1550507384319
 ---
 I took Interactive Multimedia and Design in school, where I learned a solid foundation in both design and development. Professors said we’d likely end up working between these two disciplines, as a bridge. Towards the end of my program, I chose to focus primarily on design. I didn’t realize that, some short years later, I’d be learning how to code again.
 
@@ -33,3 +35,6 @@ Prototyping is essential for testing usability and revealing parts of a design t
 By taking an interdisciplinary approach, I’ve been able to broaden my skills and collaborate to build better products. 
 
 Interested in joining our team? We’re hiring [interaction designers](https://digital.canada.ca/interaction-designers/), [content designers](https://digital.canada.ca/content-designers/), [service designers](https://digital.canada.ca/service-designers/), and [visual designers](https://digital.canada.ca/visual-designers/). 
+
+
+

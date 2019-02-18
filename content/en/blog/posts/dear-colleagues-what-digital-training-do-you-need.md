@@ -8,9 +8,11 @@ description: >-
   Analysis.
 author: 'James Mickle, Policy and research analyst'
 date: 2018-11-01T19:30:00.000Z
-image: /img/cds/screen-shot-2018-11-01-at-3.42.39-pm.png
+image: /img/cds/blog/screen-shot-2018-11-01-at-3.42.39-pm.jpg
 image-alt: A collection of work tools.
 translationKey: digital-training-needs
+thumb: /img/cds/blog/thumb/screen-shot-2018-11-01-at-3.42.39-pm.jpg
+processed: 1550507384302
 ---
 **Update:** *The Digital Training Needs Survey is now open to all federal public servants! [Click here to participate in the survey](https://form.simplesurvey.com/f/l/DTNS_Open). The survey is available until 16:00 Pacific Time, November 30, 2018. Thank you for taking the time to complete the survey to help shape your learning on emerging digital disciplines.* 
 
@@ -70,3 +72,6 @@ While the survey is underway, the team will be meeting with senior leaders to ga
 Results from the TNA will be used to inform the design and development of training at the recently announced [Digital Academy](https://www.canada.ca/en/treasury-board-secretariat/news/2018/10/government-of-canada-launches-digital-academy.html), and to support other departmental training initiatives across government. A final report of aggregated results will be shared publicly on [digital.canada.ca](https://digital.canada.ca/).
 
 **Colleagues, please stay tuned for the open survey in the coming weeks. We’d love to hear from you!**
+
+
+

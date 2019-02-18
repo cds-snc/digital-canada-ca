@@ -6,9 +6,11 @@ description: >-
   gouvernement livre ses services.
 author: 'Pascale Elvas, Directrice principale'
 date: 2019-01-03T14:00:35.062Z
-image: /img/cds/nordwood-themes-1066398-unsplash.jpg
+image: /img/cds/blog/nordwood-themes-1066398-unsplash.jpg
 image-alt: '2019 écrit en feux d''artifices, Photo : NordWood Themes/Unsplash'
 translationKey: unleash-talent
+thumb: /img/cds/blog/thumb/nordwood-themes-1066398-unsplash.jpg
+processed: 1550507384612
 ---
 Après deux ans à bâtir le SNC, j’ai voulu partager quelques réflexions sur ce que j’ai appris. Avec l’aide de nos partenaires, nous changeons la façon dont le gouvernement conçoit et livre ses services. Néanmoins, le chemin à parcourir est long. Voici ce qui nous permettra d’y arriver :
 
@@ -29,3 +31,6 @@ De nos jours, les prestations de services demandent aux équipes multidisciplina
 Soyons créatifs dans la façon dont nous déployons les plus brillants esprits au gouvernement. Lorsque nous recrutons, essayons d’examiner les habiletés plutôt que les références, puis créons des parcours professionnels qui amènent les bonnes personnes à rester. Les échanges ou affectations temporaires constituent un mécanisme puissant pour attirer des gens à la fonction publique. N’ayez donc pas peur de les utiliser. De plus, ce n’est pas tout le monde qui souhaite déménager à Gatineau-Ottawa. Ainsi, vous gagnez à faire du télétravail une expérience enrichissante. Enfin, les grandes demandes de propositions peuvent être inaccessibles pour les petites organisations. C’est une bonne idée d’élaborer des petits contrats pour aider les petites entreprises, et de rectifier le tir plus souvent si nécessaire.
 
 _Note biographique : Pascale Elvas a été fondatrice et directrice principale du Service numérique canadien. En décembre 2018, elle a accepté un nouveau défi au Secrétariat du Conseil du Trésor. Elle met sur pied un secrétariat qui aidera 75 organisations et ministères à réviser leurs pratiques de collecte et d’utilisation des informations de genre et de sexe. Grâce à cela, le Canada pourrait devenir un leader mondial en conception de services inclusifs. Cette révision touchera à tout, de l’aspect numérique (interopérabilité et gestion d’identité) à la prestation de services (par téléphone, en personne et en ligne), en passant par les politiques sociales (quels renseignements sont vraiment nécessaires, et pour quelles fins sont-ils utilisés ?)._
+
+
+

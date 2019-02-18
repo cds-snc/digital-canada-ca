@@ -7,7 +7,7 @@ description: >-
   sur l’utilisateur au gouvernement  
 author: 'Charlotte Pedersen, Renforcement des capacités'
 date: 2018-11-29T14:30:00.000Z
-image: /img/cds/fullsizeoutput_55.jpeg
+image: /img/cds/blog/fullsizeoutput_55.jpg
 image-alt: >-
   un croquis d’un bloc, à côté de deux blocs empilés, à côté de trois blocs
   empilés avec une personne qui se trouve en bas, incapable d'atteindre le
@@ -16,6 +16,8 @@ image-alt: >-
   personnes au sommet, à côté de trois blocs empilés avec une échelle et un
   groupe de personnes en-haut.
 translationKey: from-build-first-to-users-first
+thumb: /img/cds/blog/thumb/fullsizeoutput_55.jpg
+processed: 1550507384428
 ---
 Au Service numérique canadien (SNC), nous sommes heureux de collaborer avec les ministères afin de concevoir de meilleurs [services](https://numerique.canada.ca/produits/). Nous sommes également impatients de partager les leçons apprises de ces expériences pour tenter d’aider les autres dans leur propre travail.
 
@@ -88,3 +90,6 @@ Lancer le service dans le domaine public pour qu’il soit utilisé dans des sit
 [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)  
 
 Cette liste de ressources continuera d’évoluer. Entre-temps, nous voulons connaître votre opinion. Si vous avez des commentaires ou voulez en savoir plus sur un sujet précis, [communiquez avec nous](#contact-us-links)!
+
+
+

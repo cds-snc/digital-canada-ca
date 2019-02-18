@@ -1,11 +1,13 @@
 ---
-title: "Nous sommes tous concernés"
-description: "Il y a environ un mois, j’ai eu la chance de participer à la conférence Connected150 et de passer un peu de temps avec nos collègues du Service numérique canadien (SNC)."
-author: Hillary Hartley, directrice, Services numériques de l’Ontario
-date: 2017-11-20 09:00:00 -0400
-image: /img/cds/blog-in-this-together-2017.jpg
-image-alt: "L’équipe des Services numériques de l’Ontario."
-translationKey: "n-this-together"
+title: Nous sommes tous concernés
+description: "Il y a environ un mois, j’ai eu la chance de participer à la conférence\_Connected150 et de passer un peu de temps avec nos collègues du Service numérique canadien (SNC)."
+author: 'Hillary Hartley, directrice, Services numériques de l’Ontario'
+date: '2017-11-20 09:00:00 -0400'
+image: /img/cds/blog/blog-in-this-together-2017.jpg
+image-alt: L’équipe des Services numériques de l’Ontario.
+translationKey: n-this-together
+thumb: /img/cds/blog/thumb/blog-in-this-together-2017.jpg
+processed: 1550507384631
 ---
 Il y a environ un mois, j’ai eu la chance de participer à la [conférence Connected150](http://www.connected150.ca) et de passer un peu de temps avec nos collègues du Service numérique canadien (SNC). 
 
@@ -24,3 +26,6 @@ Voilà pourquoi j’étais si emballée par l’annonce de la création du SNC p
 À la suite de mes échanges avec des employés du SNC, je trouve encourageant qu’ils soient prêts à jouer ce rôle et à saisir cette occasion. La transformation nationale de la fonction publique exige de la coordination et du leadership à l’échelle nationale, et le SNC sera à la hauteur.
 
 [Nous sommes très fiers de ce que nous avons accompli jusqu’à maintenant en Ontario](https://medium.com/ontariodigital). Nous sommes heureux d’échanger et de travailler avec d’autres personnes qui rencontrent les mêmes difficultés, mais nous sommes conscients qu’il reste encore beaucoup à faire. Nous savons que collaborer avec les villes et les provinces du pays (et du monde entier, bien sûr) est le meilleur moyen de s’assurer que nous offrons les meilleurs services possible. Nous avons hâte de travailler avec le SNC dans le cadre de cette aventure nationale en vue d’améliorer les services gouvernementaux offerts à tous les Canadiens; après tout, nous sommes tous concernés.
+
+
+

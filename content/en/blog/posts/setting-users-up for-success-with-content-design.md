@@ -1,11 +1,20 @@
 ---
-title: "Setting up users for success with content design"
-author: Zak Kain, Content designer
-date: 2018-06-12 09:00:00 -0400
-image: /img/cds/blog-setting-up-users-for-success.jpg
-image-alt: Paper prototypes of an early version of the IRCC Reschedule a Citizenship Test service. Four pages are laid out on a table. They  include a web form, a calendar, a confirmation and checkboxes with appointment times.
-description: "As you might have already read, CDS is working with Immigration, Refugees and Citizenship Canada (IRCC) to make the process of rescheduling a citizenship appointment as convenient and stress-free as possible for applicants, while empowering office staff."
-translationKey: "setting-users-up-for-success-with-content-design"
+title: Setting up users for success with content design
+author: 'Zak Kain, Content designer'
+date: '2018-06-12 09:00:00 -0400'
+image: /img/cds/blog/blog-setting-up-users-for-success.jpg
+image-alt: >-
+  Paper prototypes of an early version of the IRCC Reschedule a Citizenship Test
+  service. Four pages are laid out on a table. They  include a web form, a
+  calendar, a confirmation and checkboxes with appointment times.
+description: >-
+  As you might have already read, CDS is working with Immigration, Refugees and
+  Citizenship Canada (IRCC) to make the process of rescheduling a citizenship
+  appointment as convenient and stress-free as possible for applicants, while
+  empowering office staff.
+translationKey: setting-users-up-for-success-with-content-design
+thumb: /img/cds/blog/thumb/blog-setting-up-users-for-success.jpg
+processed: 1550507384365
 ---
 
 
@@ -86,3 +95,6 @@ This addressed user anxieties around scheduling, and helped them complete the fo
 When a service is designed iteratively and with a “research-first” approach, designers gain insight into the mental model of the people they’re designing for, and how they think about the problems they encounter in a service.
 
 Being mindful of high-level content design principles like “set expectations up front” and “allowing critical information room to breathe” is helping the CDS design team build more accessible and effective services and products.
+
+
+

@@ -1,11 +1,22 @@
 ---
-title: "Discovery Phase: Understanding the problem"
-description: "Veterans have dedicated their lives to serving Canada. Whether it’s RCMP or Canadian Armed Forces, leaving the service is like leaving a family and a job all at once. Veterans face many different challenges in this new phase of their life that are very different from the physical and psychological stresses they faced every day while wearing the uniform. One of the many major challenges is understanding and accessing the 20-plus benefits and services offered to them."
-author: Daniel Tse, Product manager
-date: 2018-07-20 09:00:00 -0400
-image: /img/cds/blog-discovery.jpg
-image-alt: Two people sit at a table with papers, using hand gestures as though discussing their work.
-translationKey: "discovery-phase-understanding-the-problem"
+title: 'Discovery Phase: Understanding the problem'
+description: >-
+  Veterans have dedicated their lives to serving Canada. Whether it’s RCMP or
+  Canadian Armed Forces, leaving the service is like leaving a family and a job
+  all at once. Veterans face many different challenges in this new phase of
+  their life that are very different from the physical and psychological
+  stresses they faced every day while wearing the uniform. One of the many major
+  challenges is understanding and accessing the 20-plus benefits and services
+  offered to them.
+author: 'Daniel Tse, Product manager'
+date: '2018-07-20 09:00:00 -0400'
+image: /img/cds/blog/blog-discovery.jpg
+image-alt: >-
+  Two people sit at a table with papers, using hand gestures as though
+  discussing their work.
+translationKey: discovery-phase-understanding-the-problem
+thumb: /img/cds/blog/thumb/blog-discovery.jpg
+processed: 1550507384307
 ---
 
 Veterans have dedicated their lives to serving Canada. Whether it’s RCMP or Canadian Armed Forces, leaving the service is like leaving a family and a job all at once. Veterans face many different challenges in this new phase of their life that are very different from the physical and psychological stresses they faced every day while wearing the uniform. One of the many major challenges is understanding and accessing the 20-plus benefits and services offered to them.
@@ -38,3 +49,6 @@ This also falls directly in line with the [Ministerial Letter](https://pm.gc.ca/
 Understanding the Veteran’s journey was absolutely necessary, but not easy by any stretch. The team learned a lot from the volumes of research at VAC and other organizations but interactions with Veterans was very limited. By the end of 8 weeks (early January) the team still didn't have an understanding of the veteran's journey from pre-release to life after service. Plans to do simple interviews at VAC offices grew increasingly complex and so the team pivoted many times. 
 
 The importance of doing user research was so high that the team had to extend the discovery phase. Only after analyzing the Veteran’s journey to see their life, their needs, and their goals would the team be able to build a user-centric product.
+
+
+

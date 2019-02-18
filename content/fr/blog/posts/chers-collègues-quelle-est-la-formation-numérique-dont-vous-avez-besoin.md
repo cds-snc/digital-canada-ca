@@ -9,9 +9,11 @@ description: >-
   formation numérique.
 author: 'James Mickle, analyste de politiques et de recherches'
 date: 2018-11-01T19:50:46.952Z
-image: /img/cds/screen-shot-2018-11-01-at-3.42.39-pm.png
+image: /img/cds/blog/screen-shot-2018-11-01-at-3.42.39-pm.jpg
 image-alt: Une collection d'outils de travail
 translationKey: digital-training-needs
+thumb: /img/cds/blog/thumb/screen-shot-2018-11-01-at-3.42.39-pm.jpg
+processed: 1550507384403
 ---
 **Mise à jour :** *Le sondage sur les besoins de formation numérique est maintenant ouvert aux tous fonctionnaires fédéraux! [Cliquez ici pour participer](https://form.simplesurvey.com/f/s.aspx?s=601cad0c-4cfd-4e4c-b016-cb4e1f44be30&lang=FR). Le sondage sera disponible jusqu'à 16 h 00 (heure du Pacifique), le 30 novembre 2018. Merci de prendre le temps de compléter le sondage afin de façonner votre apprentissage de nouvelles disciplines numériques.*
 
@@ -70,3 +72,6 @@ Pendant que le sondage est en cours, l’équipe rencontrera les décideurs prin
 Les résultats de l’ABF seront utilisés pour éclairer la conception et l’élaboration de la formation dans le cadre de [l’Académie du numérique](https://www.canada.ca/fr/secretariat-conseil-tresor/nouvelles/2018/10/le-gouvernement-du-canada-annonce-la-creation-de-lacademie-du-numerique.html) qui a récemment fait l’objet d’une annonce , et pour appuyer les initiatives de formation d’autres ministères dans l’ensemble du gouvernement. Un rapport final sur les données agrégées sera affiché sur le site Web [numerique.canada.ca](https://numerique.canada.ca/).
 
 **Veuillez rester à l’affût du sondage ouvert au cours des prochaines semaines. Nous aimerions avoir vos impressions!**
+
+
+

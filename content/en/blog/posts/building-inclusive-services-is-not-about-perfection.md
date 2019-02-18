@@ -6,9 +6,11 @@ description: >-
   Here are some ways to start.
 author: 'Julianna Rowsell, Accessibility and Inclusive Services Lead'
 date: 2019-02-13T14:00:00.000Z
-image: /img/cds/_mg_9837-2.jpg
+image: /img/cds/blog/_mg_9837-2.jpg
 image-alt: A man uses a split keyboard and other technologies to help use his computer.
 translationKey: not-perfect
+thumb: /img/cds/blog/thumb/_mg_9837-2.jpg
+processed: 1550507384295
 ---
 Accessibility has a reputation for being hard and sometimes even unobtainable. But building inclusive services that work better for everyone isn’t about perfection. It’s about making an effort and seeing progress. When we bring that type of effort every day, transformation happens. On the flip side, when we don’t, the people who may need our services most can’t access them.
 
@@ -50,3 +52,6 @@ Though we’ve made strides towards better accessibility practices at CDS, here 
 > **Goal: Make it better than it was yesterday.**
 
 Together we can build more inclusive and accessible services for everyone.
+
+
+

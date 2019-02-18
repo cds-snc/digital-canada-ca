@@ -1,11 +1,18 @@
 ---
-title: "Wanted: CEO for CDS"
-description: "The services our government provides play an important role in the lives of millions of people. That is why we’ve launched the Canadian Digital Service, a team focused on redesigning services from the user’s perspective. We are recruiting an experienced and inspiring Chief Executive to lead the team in executing a bold agenda with a lasting impact."
-author: Yaprak Baltacıoğlu, Secretary of the Treasury Board
-date: 2017-09-12 09:00:00 -0400
-image: /img/cds/wanted-ceo-cds-2017.jpg
-image-alt: "Yaprak Baltacıoğlu, Secretary of the Treasury Board"
-translationKey: "wanted-ceo-cds"
+title: 'Wanted: CEO for CDS'
+description: >-
+  The services our government provides play an important role in the lives of
+  millions of people. That is why we’ve launched the Canadian Digital Service, a
+  team focused on redesigning services from the user’s perspective. We are
+  recruiting an experienced and inspiring Chief Executive to lead the team in
+  executing a bold agenda with a lasting impact.
+author: 'Yaprak Baltacıoğlu, Secretary of the Treasury Board'
+date: '2017-09-12 09:00:00 -0400'
+image: /img/cds/blog/wanted-ceo-cds-2017.jpg
+image-alt: 'Yaprak Baltacıoğlu, Secretary of the Treasury Board'
+translationKey: wanted-ceo-cds
+thumb: /img/cds/blog/thumb/wanted-ceo-cds-2017.jpg
+processed: 1550507384385
 ---
 The services our government provides play an important role in the lives of millions of people. 
 
@@ -22,4 +29,7 @@ The CEO of CDS will have a seat at the senior management table of the Treasury B
 If you’re excited by the opportunity we have before us as a government, as I am, I hope you will apply. As an immigrant to Canada, I learned the importance of service experience first-hand a long time ago. Whether we’re serving our nation’s immigrants, veterans, seniors, or the many other people and communities that depend on us, we have an obligation to provide services that are easy to access and simple to use.
 
 This is a unique opportunity to lead change for our country. You will make a difference.
+
+
+
 

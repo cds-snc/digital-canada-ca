@@ -1,15 +1,20 @@
 ---
-title: "Your team doesn’t have time <strong>not</strong> to use automated testing"
-description: "On the Natural Resources Canada (NRCan) application
-programming interface (API) product, we follow a common continuous
-integration (CI) process, including extensive use of automated testing.
-In our opinion, CI and automated testing is a fundamental requirement for
-producing and maintaining high-quality software products."
-author: Jason White, Head of data science
-date: 2018-03-26 09:00:00 -0400
-image: /img/cds/blog-automated-testing.jpg
-image-alt: "Three people are sitting around a table working on laptops. One person is pointing at the screen of a person across the table, who gives a thumbs-up."
-translationKey: "automated-testing-blog"
+title: Your team doesn’t have time <strong>not</strong> to use automated testing
+description: >-
+  On the Natural Resources Canada (NRCan) application programming interface
+  (API) product, we follow a common continuous integration (CI) process,
+  including extensive use of automated testing. In our opinion, CI and automated
+  testing is a fundamental requirement for producing and maintaining
+  high-quality software products.
+author: 'Jason White, Head of data science'
+date: '2018-03-26 09:00:00 -0400'
+image: /img/cds/blog/blog-automated-testing.jpg
+image-alt: >-
+  Three people are sitting around a table working on laptops. One person is
+  pointing at the screen of a person across the table, who gives a thumbs-up.
+translationKey: automated-testing-blog
+thumb: /img/cds/blog/thumb/blog-automated-testing.jpg
+processed: 1550507384289
 ---
 
 On the Natural Resources Canada (NRCan) application programming interface (API) product, we follow a common continuous integration (CI) process, including extensive use of automated testing. In our opinion, CI and automated testing is a fundamental requirement for producing and maintaining high-quality software products.
@@ -74,3 +79,6 @@ We will share more on the technical aspects of the API we are building with NRCa
 
 * [Part 1: Conducting user research with NRCan to inform an API build](https://digital.canada.ca/2018/02/15/a-conducting-user-research-with-NRCan/)
 * [Part 2: Co-locating with NRCan for a week](https://digital.canada.ca/2018/02/15/b-colocating-with-NRCan/)
+
+
+

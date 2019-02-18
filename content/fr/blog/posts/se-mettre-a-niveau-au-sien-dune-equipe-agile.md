@@ -1,11 +1,16 @@
 ---
-title: "De 0 à 100 km/h : se mettre à niveau au sein d’une équipe agile"
-description: "Pour autant que la configuration soit bonne, l’arrivée dans un nouvel environnement peut se faire en douceur, sans grande perte de productivité et sans causer trop de frictions ni de ralentissements au sein de l’équipe."
-author: Tim Arney, développeur
-date: 2018-10-16 09:00:00 -0400
-image: /img/cds/blog-up-to-speed.png
+title: 'De 0 à 100 km/h : se mettre à niveau au sein d’une équipe agile'
+description: >-
+  Pour autant que la configuration soit bonne, l’arrivée dans un nouvel
+  environnement peut se faire en douceur, sans grande perte de productivité et
+  sans causer trop de frictions ni de ralentissements au sein de l’équipe.
+author: 'Tim Arney, développeur'
+date: '2018-10-16 09:00:00 -0400'
+image: /img/cds/blog/blog-up-to-speed.jpg
 image-alt: Le tableau de bord d’une voiture avec l’indicateur de vitesse.
-translationKey: "getting-up-to-speed"
+translationKey: getting-up-to-speed
+thumb: /img/cds/blog/thumb/blog-up-to-speed.jpg
+processed: 1550507384678
 ---
 
 Conduire le véhicule de quelqu’un d’autre peut parfois être un peu étrange. Il faut ajuster les rétroviseurs et repositionner les sièges et le volant pour assurer son confort. Ce n’est pas votre voiture, mais vous avez quand même une idée générale de l’endroit où les choses devraient être et de la façon dont elles devraient fonctionner. Il devrait en aller de même lorsqu’on se joint à une nouvelle équipe. Dès le départ, vous devriez être en mesure de comprendre assez rapidement le fonctionnement des choses. Se joindre à une nouvelle équipe ne devrait pas vous faire sentir comme si vous montiez dans un hélicoptère et qu’on vous demandait de le faire voler sans avoir reçu aucune formation. 
@@ -29,3 +34,6 @@ Ma première tâche consistait à rendre dynamique et entièrement fonctionnel l
 Je pense que cela en dit long sur l’intérêt de travailler avec des processus ouverts et agiles. Pour autant que la configuration soit bonne, l’arrivée dans un nouvel environnement peut se faire en douceur, sans grande perte de productivité et sans causer trop de frictions ni de ralentissements au sein de l’équipe. 
 
 Engagez-vous sur la bretelle d’accès, prenez de la vitesse, et c’est parti! On peut apprendre à piloter l’hélicoptère une fois qu’on comprend mieux à quoi servent toutes les commandes.
+
+
+

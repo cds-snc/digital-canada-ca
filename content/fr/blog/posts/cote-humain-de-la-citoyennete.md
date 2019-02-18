@@ -1,11 +1,20 @@
 ---
-title: "Le côté humain de la citoyenneté"
-description: "De concert avec nos collègues d’IRCC, nous réorganisons la façon dont le gouvernement travaille afin de nous rapprocher de ce dont les gens ont besoin. Un long chemin reste encore à parcourir, mais ce travail est une étape importante vers notre objectif de services axés sur l’être humain qui changent des vies en mieux."
-author: Kylie Havelock, Gestionnaire de produits principale
-date: 2018-10-23 09:00:00 -0400
-image: /img/cds/blog-human-story-citizenship1.png
-image-alt: Des personnes sont debouts et prononcent le serment de citoyenneté canadienne à une cérémonie à Vancouver
-translationKey: "human-story-behind-citizenship"
+title: Le côté humain de la citoyenneté
+description: >-
+  De concert avec nos collègues d’IRCC, nous réorganisons la façon dont le
+  gouvernement travaille afin de nous rapprocher de ce dont les gens ont besoin.
+  Un long chemin reste encore à parcourir, mais ce travail est une étape
+  importante vers notre objectif de services axés sur l’être humain qui changent
+  des vies en mieux.
+author: 'Kylie Havelock, Gestionnaire de produits principale'
+date: '2018-10-23 09:00:00 -0400'
+image: /img/cds/blog/blog-human-story-citizenship1.jpg
+image-alt: >-
+  Des personnes sont debouts et prononcent le serment de citoyenneté canadienne
+  à une cérémonie à Vancouver
+translationKey: human-story-behind-citizenship
+thumb: /img/cds/blog/thumb/blog-human-story-citizenship1.jpg
+processed: 1550507384421
 ---
 
 Au gouvernement, nous offrons des services qui répondent aux besoins humains fondamentaux, c’est-à-dire l’appartenance, la sécurité et les relations humaines. Devenir citoyen d’un nouveau pays est l’une des expériences de vie les plus émouvantes qu’une personne vivra et marque la fin d’un long cheminement.
@@ -107,3 +116,6 @@ Ce dernier point est particulièrement important, car il nous dit que les gens f
 Au cours des sept derniers mois, nous avons continuellement réitéré et amélioré le service en nous fondant sur la recherche sur les utilisateurs et des essais effectués auprès de vraies personnes engagées dans le processus de citoyenneté. Nous avons réduit le fardeau administratif du personnel et donné à 200 000 futurs Canadiens les meilleures chances de succès.
 
 De concert avec nos collègues d’IRCC, nous réorganisons la façon dont le gouvernement travaille afin de nous rapprocher de ce dont les gens ont besoin. Un long chemin reste encore à parcourir, mais ce travail est une étape importante vers notre objectif de services centrés sur l’être humain qui changent des vies en mieux.
+
+
+

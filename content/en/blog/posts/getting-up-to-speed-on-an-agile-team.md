@@ -1,11 +1,16 @@
 ---
-title: "0-100 kilometres per hour: getting up to speed on an agile team"
-description: "Coming into a new environment, given the right setup, can be a smooth ramp up and a quick transition into being productive without causing a lot of friction and slowdowns for the existing team."
-author: Tim Arney, Developer
-date: 2018-10-16 09:00:00 -0400
-image: /img/cds/blog-up-to-speed.png
+title: '0-100 kilometres per hour: getting up to speed on an agile team'
+description: >-
+  Coming into a new environment, given the right setup, can be a smooth ramp up
+  and a quick transition into being productive without causing a lot of friction
+  and slowdowns for the existing team.
+author: 'Tim Arney, Developer'
+date: '2018-10-16 09:00:00 -0400'
+image: /img/cds/blog/blog-up-to-speed.jpg
 image-alt: Car dashboard showing speedometer.
-translationKey: "getting-up-to-speed"
+translationKey: getting-up-to-speed
+thumb: /img/cds/blog/thumb/blog-up-to-speed.jpg
+processed: 1550507384325
 ---
 
 Driving someone else's vehicle can sometimes feel a little off. Mirrors need to be adjusted, seats repositioned, gauges moved to your comfort zone. It's not your car, but you still have a general sense of where things should be and roughly how they should work. Joining a new team should be the same. Walking in, you should be able to get a sense of how things work fairly quickly.  Joining a new team shouldn’t feel like getting into a helicopter with no training and being asked to fly it. 
@@ -29,3 +34,5 @@ My first task would be to make the application’s confirmation email dynamic an
 I think this says a lot about working in the open and agile processes. Coming into a new environment, given the right setup, can be a smooth ramp up and a quick transition into being productive without causing a lot of friction and slowdowns for the existing team.  
 
 Jump on the on-ramp, get up to speed, and off you go. You can learn to fly the helicopter once you understand all the controls better.
+
+
