@@ -29,8 +29,8 @@ const frontMatter = (dirName, fileName, ext, paths = { large, thumb }) => {
       const useExt = ext ? ext : imageInfo.ext;
 
       // update markdown data
-      data.image = `${paths.large}/${imageInfo.name}${useExt}`;
-      data.thumb = `${paths.thumb}${imageInfo.name}${useExt}`;
+      data.image = `/${paths.large}/${imageInfo.name}${useExt}`;
+      data.thumb = `/${paths.thumb}/${imageInfo.name}${useExt}`;
       data.processed = timestamp();
       matter.data = data;
     })
@@ -99,8 +99,8 @@ function readFileDir(dirname, cb) {
 }
 
 const start = (lang, markdownDir) => {
+  const prefixPath = path.join(__dirname, `../public/${lang}`);
 
-  const prefixPath = `../public/${lang}`;
   const imagePath = 'img/cds';
   const sourceImagePath = `${prefixPath}/${imagePath}`;
   const largeImagePath = `${imagePath}/blog`;
@@ -127,6 +127,8 @@ const start = (lang, markdownDir) => {
   })
 }
 
+
+
 // kickoff 
-start('en', '../content/en/blog/posts');
-start('fr', '../content/en/blog/posts');
+start('en', path.join(__dirname, '../content/en/blog/posts'));
+start('fr', path.join(__dirname, '../content/fr/blog/posts'));
