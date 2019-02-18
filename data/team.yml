@@ -2,7 +2,7 @@ exec:
   - archived: false
     email: aaron.snow@tbs-sct.gc.ca
     github: aaronsnow
-    image-name: /img/cds/aaron-snow.jpg
+    image-name: /img/cds/team/aaron-snow.jpg
     linkedin: aaronsnow
     name: Aaron Snow
     title:
@@ -11,7 +11,7 @@ exec:
     twitter: aaronsnow
   - archived: false
     email: Alex.MacEachern@tbs-sct.gc.ca
-    image-name: /img/cds/alex-maceachern.png
+    image-name: /img/cds/team/alex-maceachern.jpg
     linkedin: alexandra-maceachern-4b0209b2
     name: Alex MacEachern
     title:
@@ -20,7 +20,7 @@ exec:
     twitter: amaceachern123
   - archived: false
     email: Anatole.Papadopoulos@tbs-sct.gc.ca
-    image-name: /img/cds/anatole-papadopoulos.jpg
+    image-name: /img/cds/team/anatole-papadopoulos.jpg
     linkedin: anatole-papadopoulos-845a431
     name: Anatole Papadopoulos
     title:
@@ -29,7 +29,7 @@ exec:
     twitter: anatolep
   - archived: false
     email: Andrea.Gilbrook@tbs-sct.gc.ca
-    image-name: /img/cds/andrea-gilbrook.jpg
+    image-name: /img/cds/team/andrea-gilbrook.jpg
     linkedin: andreagilbrook
     name: Andrea Gilbrook
     title:
@@ -38,7 +38,7 @@ exec:
     twitter: andreagilbrook
   - archived: false
     email: Christopher.Govias@tbs-sct.gc.ca
-    image-name: /img/cds/chris-govias.jpg
+    image-name: /img/cds/team/chris-govias.jpg
     linkedin: cgovias
     name: Chris Govias
     title:
@@ -47,7 +47,7 @@ exec:
     twitter: cgovias
   - archived: false
     email: Colin.MacArthur@tbs-sct.gc.ca
-    image-name: /img/cds/colin-mcarthur.png
+    image-name: /img/cds/team/colin-mcarthur.jpg
     linkedin: 'https://www.linkedin.com/in/colinpmacarthur'
     name: Colin MacArthur
     title:
@@ -56,7 +56,7 @@ exec:
     twitter: 'https://twitter.com/colinpmacarthur'
   - archived: false
     email: Eman.El-Fayomi@tbs-sct.gc.ca
-    image-name: /img/cds/eman-elfayomi.png
+    image-name: /img/cds/team/eman-elfayomi.jpg
     linkedin: eelfayomi
     name: Eman El-Fayomi
     title:
@@ -65,14 +65,14 @@ exec:
     twitter: emanelfy
   - archived: false
     email: jennifer.fletcher@tbs-sct.gc.ca
-    image-name: /img/cds/jen-fletcher.png
+    image-name: /img/cds/team/jen-fletcher.jpg
     name: Jennifer Fletcher
     title:
       en: Acting Head of Partnerships
       fr: Chef par intérim des partenariats
   - archived: false
     email: John.Millons@tbs-sct.gc.ca
-    image-name: /img/cds/john-millons.jpg
+    image-name: /img/cds/team/john-millons.jpg
     name: John Millons
     title:
       en: Head of Policy
@@ -80,7 +80,7 @@ exec:
     twitter: JohnMillons
   - archived: false
     email: john.obrien@tbs-sct.gc.ca
-    image-name: /img/cds/john_obrien.png
+    image-name: /img/cds/team/john_obrien.jpg
     linkedin: 'https://www.linkedin.com/in/boardom/'
     name: John O'Brien
     title:
@@ -90,14 +90,14 @@ exec:
   - archived: false
     email: Joshua.Ruihley@tbs-sct.gc.ca
     github: '@jroo'
-    image-name: /img/cds/josh-ruihley.png
+    image-name: /img/cds/team/josh-ruihley.jpg
     name: Josh Ruihley
     title:
       en: Senior Technical Advisor
       fr: Conseiller technique principal
   - archived: false
     email: leanne.labelle@tbs-sct.gc.ca
-    image-name: /img/cds/leeane-labelle.png
+    image-name: /img/cds/team/leeane-labelle.jpg
     linkedin: 'http://www.linkedin.com/in/leannelabelle'
     name: Leanne Labelle
     title:
@@ -106,7 +106,7 @@ exec:
     twitter: 'https://twitter.com/leannelabelle?lang=en'
   - archived: false
     email: Lyn.Elliott@tbs-sct.gc.ca
-    image-name: /img/cds/lyn-elliott.png
+    image-name: /img/cds/team/lyn-elliott.jpg
     name: Lyn Elliott
     title:
       en: Acting Head of Outreach
@@ -114,7 +114,7 @@ exec:
   - archived: false
     email: Mario.Garneau@tbs-sct.gc.ca
     github: mcman12
-    image-name: /img/cds/mario-garneau.png
+    image-name: /img/cds/team/mario-garneau.jpg
     name: Mario Garneau
     title:
       en: Head of Development
@@ -122,7 +122,7 @@ exec:
     twitter: mcman12
   - archived: false
     email: Ross.Ferguson@tbs-sct.gc.ca
-    image-name: /img/cds/ross-ferguson.png
+    image-name: /img/cds/team/ross-ferguson.jpg
     linkedin: rossferguson
     name: Ross Ferguson
     title:
@@ -131,7 +131,7 @@ exec:
     twitter: rossferg
   - archived: false
     email: Sana.Qureshi@tbs-sct.gc.ca
-    image-name: /img/cds/sana-qureshi.png
+    image-name: /img/cds/team/sana-qureshi.jpg
     linkedin: sana-qureshi-35206a11
     name: Sana Qureshi
     title:
@@ -139,7 +139,7 @@ exec:
       fr: Chef par intérim des opérations internes
   - archived: false
     email: Wendy.Luciani@tbs-sct.gc.ca
-    image-name: /img/cds/wendy-luciani.png
+    image-name: /img/cds/team/wendy-luciani.jpg
     linkedin: wmluciani
     name: Wendy Luciani
     title:
@@ -149,14 +149,14 @@ exec:
 team:
   - archived: false
     email: Alexa.Davidson@tbs-sct.gc.ca
-    image-name: /img/cds/alexa-davidson.png
+    image-name: /img/cds/team/alexa-davidson.jpg
     name: Alexa Davidson
     title:
       en: Internal Operations | Talent
       fr: Opérations internes | Talent
   - archived: false
     email: Anik.Brazeau@tbs-sct.gc.ca
-    image-name: /img/cds/anik-brazeau.jpg
+    image-name: /img/cds/team/anik-brazeau.jpg
     linkedin: anikbrazeau
     name: Anik Brazeau
     title:
@@ -166,7 +166,7 @@ team:
   - archived: false
     email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
-    image-name: /img/cds/bethany-dunfield.png
+    image-name: /img/cds/team/bethany-dunfield.jpg
     name: Bethany Dunfield
     title:
       en: Development
@@ -174,7 +174,7 @@ team:
   - archived: false
     email: Bryan.Willey@tbs-sct.gc.ca
     github: 'https://github.com/willeybryan'
-    image-name: /img/cds/bryan-willey.png
+    image-name: /img/cds/team/bryan-willey.jpg
     linkedin: 'https://www.linkedin.com/in/bryan-willey/'
     name: Bryan Willey
     title:
@@ -183,7 +183,7 @@ team:
     twitter: ''
   - archived: false
     email: Charlotte.Pedersen@tbs-sct.gc.ca
-    image-name: /img/cds/charlotte-pederson.png
+    image-name: /img/cds/team/charlotte-pederson.jpg
     linkedin: charlottepedersen371
     name: Charlotte Pedersen
     title:
@@ -191,7 +191,7 @@ team:
       fr: Renforcement de la capacité
   - archived: false
     email: Courtney.Claessens@tbs-sct.gc.ca
-    image-name: /img/cds/courtney-claessens.png
+    image-name: /img/cds/team/courtney-claessens.jpg
     linkedin: courtneyclaessens
     name: Courtney Claessens
     title:
@@ -199,14 +199,14 @@ team:
       fr: Gestion de produits
   - archived: false
     email: Damien.Trudel@tbs-sct.gc.ca
-    image-name: /img/cds/damien-trudel.png
+    image-name: /img/cds/team/damien-trudel.jpg
     name: Damien Trudel
     title:
       en: Security
       fr: Sécurité
   - archived: false
     github: danprime
-    image-name: /img/cds/daniel-tse.jpg
+    image-name: /img/cds/team/daniel-tse.jpg
     linkedin: danielmktse
     name: Daniel Tse
     title:
@@ -215,7 +215,7 @@ team:
     twitter: danprime
   - archived: false
     github: dsamojlenko
-    image-name: /img/cds/dave-samojlenko.png
+    image-name: /img/cds/team/dave-samojlenko.jpg
     name: Dave Samojlenko
     title:
       en: Development
@@ -223,7 +223,7 @@ team:
     twitter: dsamojlenko
   - archived: false
     email: dave.toeg@tbs-sct.gc.ca
-    image-name: /img/cds/dave-toeg.png
+    image-name: /img/cds/team/dave-toeg.jpg
     linkedin: davetoeg
     name: Dave Toeg
     title:
@@ -232,7 +232,7 @@ team:
     twitter: davetoeg
   - archived: false
     email: elise.cossette@tbs-sct.gc.ca
-    image-name: /img/cds/elise-cossette.png
+    image-name: /img/cds/team/elise-cossette.jpg
     linkedin: 'https://www.linkedin.com/in/%C3%A9lise-cossette-590b56ab/'
     name: Élise Cossette
     title:
@@ -241,7 +241,7 @@ team:
   - archived: false
     email: Eva.Demers-Brett@tbs-sct.gc.ca
     github: evadb
-    image-name: /img/cds/eva-demers-brett.png
+    image-name: /img/cds/team/eva-demers-brett.jpg
     name: Eva Demers-Brett
     title:
       en: Development
@@ -249,7 +249,7 @@ team:
     twitter: evadbee
   - archived: false
     email: Hillary.Lorimer@tbs-sct.gc.ca
-    image-name: /img/cds/hillary-lorimer.png
+    image-name: /img/cds/team/hillary-lorimer.jpg
     linkedin: hillary-b-lorimer
     name: Hillary Lorimer
     title:
@@ -258,21 +258,21 @@ team:
     twitter: hillarylorimer
   - archived: true
     email: jennifer.fletcher@tbs-sct.gc.ca
-    image-name: /img/cds/jen-fletcher.png
+    image-name: /img/cds/team/jen-fletcher.jpg
     name: Jennifer Fletcher
     title:
       en: Partnerships
       fr: Partenariats
   - archived: false
     email: Jennifer.Morin@tbs-sct.gc.ca
-    image-name: /img/cds/jennifer-morin.jpg
+    image-name: /img/cds/team/jennifer-morin.jpg
     name: Jennifer Morin
     title:
       en: Internal Operations
       fr: Opérations internes
   - archived: false
     email: Jessica.Loadenthal@tbs-sct.gc.ca
-    image-name: /img/cds/jessica-loadenthal.png
+    image-name: /img/cds/team/jessica-loadenthal.jpg
     name: Jessica Loadenthal
     title:
       en: Talent
@@ -280,7 +280,7 @@ team:
   - archived: false
     email: julianna.rowsell@tbs-sct.gc.ca
     github: 'https://github.com/JuliannaR/juliannar.github.io'
-    image-name: /img/cds/julianna-rowsell.png
+    image-name: /img/cds/team/julianna-rowsell.jpg
     linkedin: 'https://www.linkedin.com/in/julianna-rowsell-86625624/'
     name: Julianna Rowsell
     title:
@@ -289,7 +289,7 @@ team:
     twitter: '@JuliannaRowsell'
   - archived: false
     email: Khalid.Elaggan@tbs-sct.gc.ca
-    image-name: /img/cds/khalid_elaggan.png
+    image-name: /img/cds/team/khalid_elaggan.jpg
     linkedin: 'https://www.linkedin.com/in/khalidelaggan/'
     name: Khalid Elaggan
     title:
@@ -299,7 +299,7 @@ team:
   - archived: false
     email: leon.lukashevsky@codefor.ca
     github: leonL
-    image-name: /img/cds/leon-lukashevsky.png
+    image-name: /img/cds/team/leon-lukashevsky.jpg
     linkedin: le0nl
     name: Leon Lukashevsky
     title:
@@ -309,7 +309,7 @@ team:
   - archived: false
     email: Lucas.Cherkewski@tbs-sct.gc.ca
     github: lchski
-    image-name: /img/cds/lucas-cherkewski.png
+    image-name: /img/cds/team/lucas-cherkewski.jpg
     linkedin: lchski
     name: Lucas Cherkewski
     title:
@@ -318,7 +318,7 @@ team:
     twitter: lchski
   - archived: false
     email: Lynn.Chalati@tbs-sct.gc.ca
-    image-name: /img/cds/lynn-chalati.png
+    image-name: /img/cds/team/lynn-chalati.jpg
     linkedin: lynn-chalati-aaa9218a
     name: Lynn Chalati
     title:
@@ -327,7 +327,7 @@ team:
     twitter: ''
   - archived: false
     github: maxneuvians
-    image-name: /img/cds/max-neuvians.png
+    image-name: /img/cds/team/max-neuvians.jpg
     linkedin: maxneuvians
     name: Max Neuvians
     title:
@@ -335,7 +335,7 @@ team:
       fr: Développement
   - archived: false
     email: megan.beretta@tbs-sct.gc.ca
-    image-name: /img/cds/meg-beretta.jpg
+    image-name: /img/cds/team/meg-beretta.jpg
     linkedin: 'https://ca.linkedin.com/in/meganberetta'
     name: Megan Beretta
     title:
@@ -344,7 +344,7 @@ team:
     twitter: '@megberetta '
   - archived: false
     email: melissa.banyard@tbs-sct.gc.ca
-    image-name: /img/cds/mel-banyard.png
+    image-name: /img/cds/team/mel-banyard.jpg
     linkedin: 'https://ca.linkedin.com/in/melbanyard'
     name: Mel Banyard
     title:
@@ -353,7 +353,7 @@ team:
     twitter: '@melbanyard'
   - archived: false
     email: michelle.ngai@tbs-sct.gc.ca
-    image-name: /img/cds/michelle-ngai.png
+    image-name: /img/cds/team/michelle-ngai.jpg
     linkedin: ilovedesign
     name: Michelle Ngai
     title:
@@ -363,7 +363,7 @@ team:
   - archived: false
     email: mike.williamson@tbs-sct.gc.ca
     github: sleepycat
-    image-name: /img/cds/mike-williamson.png
+    image-name: /img/cds/team/mike-williamson.jpg
     name: Mike Williamson
     title:
       en: Development
@@ -371,7 +371,7 @@ team:
     twitter: dexterchief
   - archived: false
     email: Mithula.Naik@tbs-sct.gc.ca
-    image-name: /img/cds/mithula-naik.png
+    image-name: /img/cds/team/mithula-naik.jpg
     name: Mithula Naik
     title:
       en: Design Research
@@ -379,7 +379,7 @@ team:
   - archived: false
     email: nick.makuch@tbs-sct.gc.ca
     github: nmakuch
-    image-name: /img/cds/nick-makuch.png
+    image-name: /img/cds/team/nick-makuch.jpg
     name: Nick Makuch
     title:
       en: Design | Development
@@ -388,7 +388,7 @@ team:
   - archived: false
     email: paul.craig@tbs-sct.gc.ca
     github: pcraig3
-    image-name: /img/cds/paul-craig.png
+    image-name: /img/cds/team/paul-craig.jpg
     name: Paul Craig
     title:
       en: Development
@@ -396,7 +396,7 @@ team:
     twitter: pcraig3
   - archived: false
     email: Priyanka.Rahman@tbs-sct.gc.ca
-    image-name: /img/cds/priyanka-rahman.png
+    image-name: /img/cds/team/priyanka-rahman.jpg
     linkedin: priyanka-rahman-5b91a8145
     name: Priyanka Rahman
     title:
@@ -404,7 +404,7 @@ team:
       fr: Opérations internes
   - archived: false
     email: samantha.sadasivan@tbs-sct.gc.ca
-    image-name: /img/cds/samantha-sadasivan.png
+    image-name: /img/cds/team/samantha-sadasivan.jpg
     linkedin: samsadasivan
     name: Samantha Sadasivan
     title:
@@ -413,7 +413,7 @@ team:
     twitter: samsadasivan
   - archived: false
     github: sboots
-    image-name: /img/cds/sean-boots.png
+    image-name: /img/cds/team/sean-boots.jpg
     linkedin: seanboots
     name: Sean Boots
     title:
@@ -422,14 +422,14 @@ team:
     twitter: sboots
   - archived: false
     email: Stephanie.Gauthier@tbs-sct.gc.ca
-    image-name: /img/cds/stephanie-gauthier.png
+    image-name: /img/cds/team/stephanie-gauthier.jpg
     name: Stephanie Gauthier
     title:
       en: Talent
       fr: Talent
   - archived: false
     email: Stephen.McMurtry@tbs-sct.gc.ca
-    image-name: /img/cds/stephen-mcmurtry.png
+    image-name: /img/cds/team/stephen-mcmurtry.jpg
     linkedin: stephen-mcmurtry-1b4a8879
     name: Stephen McMurtry
     title:
@@ -439,7 +439,7 @@ team:
   - archived: false
     email: steve.astels@tbs-sct.gc.ca
     github: sastels
-    image-name: /img/cds/steve-astels.png
+    image-name: /img/cds/team/steve-astels.jpg
     linkedin: sastels
     name: Steve Astels
     title:
@@ -448,7 +448,7 @@ team:
     twitter: sastels
   - archived: false
     email: Steven.Talbot@tbs-sct.gc.ca
-    image-name: /img/cds/stevie-ray-talbot.png
+    image-name: /img/cds/team/stevie-ray-talbot.jpg
     name: Stevie-Ray Talbot
     title:
       en: Policy
@@ -456,7 +456,7 @@ team:
     twitter: StevieRayTalbot
   - archived: false
     email: Tim.Arney@tbs-sct.gc.ca
-    image-name: /img/cds/tim-arney.png
+    image-name: /img/cds/team/tim-arney.jpg
     name: Tim Arney
     title:
       en: Development
@@ -464,7 +464,7 @@ team:
   - archived: false
     email: victoria.chan@tbs-sct.gc.ca
     github: 'https://github.com/victoriachanimal'
-    image-name: /img/cds/victoria-chan.png
+    image-name: /img/cds/team/victoria-chan.jpg
     linkedin: 'https://www.linkedin.com/in/victoriakaychan/'
     name: Victoria Chan
     title:
@@ -473,7 +473,7 @@ team:
     twitter: 'https://twitter.com/vchanimal'
   - archived: false
     email: zak.kain@cds-snc.ca
-    image-name: /img/cds/zak-kain.jpg
+    image-name: /img/cds/team/zak-kain.jpg
     name: Zak Kain
     title:
       en: Design
@@ -481,7 +481,7 @@ team:
     twitter: zakkain
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
-    image-name: /img/cds/zoe-richford.png
+    image-name: /img/cds/team/zoe-richford.jpg
     name: Zoe Ritchford
     title:
       en: Internal Operations
