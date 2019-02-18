@@ -99,7 +99,7 @@ function readFileDir(dirname, cb) {
 }
 
 const start = (lang, markdownDir) => {
-  const prefixPath = path.join(__dirname, `../public/${lang}`);
+  const prefixPath = path.join(__dirname, `../static`);
 
   const imagePath = 'img/cds';
   const sourceImagePath = `${prefixPath}/${imagePath}`;
