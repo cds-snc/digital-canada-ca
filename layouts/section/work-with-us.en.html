@@ -4,11 +4,15 @@
         <div class="row">
             <div class="col-sm-10 col-sm-offset-1 col-xs-12">
                 <h2 class="section--title">Join CDS</h2>
+                    <p>We’re transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. We need you.</p>
+
+                    <p>The Canadian Digital Service is a collective of creative people committed to using our digital skills and knowledge to make it easier to access and use government services. Our growing multidisciplinary teams work with federal departments to make the services people depend on simple and easy-to-use. We’re focused on delivering better public services using the best technology and design, all informed by people’s needs.</p>
+
+                    <p>By working in the open, and connecting partners with tools, talent, and training grounded in practice, we’re building capacity across the government for better service delivery.</p>
                     {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
                         <div class="cell-background">
                             <p><strong>Applications open for a limited time</strong></p>
-                            {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
-                                <p style="margin-bottom: 0.5rem;">We’re looking to fill these positions as soon as possible:</p>    
+                            {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}   
                                 <div class="row mrgn-tp-0">
                                     <ul>
                                         {{ range $p := (where .Pages ".Params.archived" "==" false) }}
@@ -17,20 +21,21 @@
                                     </ul>
                                 </div>
                             {{ end }}
-                            <p>We're currently hiring in four streams:</p>
-                            <div class="row mrgn-tp-0">
-                                <ul>
-                                    <li><a href="#comms">Communications and engagement</a></li>
-                                    <li><a href="#design">Design</a></li>
-                                    <li><a href="#development">Development</a></li>
-                                    <li><a href="#prod">Product management</a></li>
-                                </ul>
-                            </div>
                         </div>
                     {{end}}
 
-                <p>We’re building a team of talented, passionate, and driven people to work on some of Canada’s <a href="/2017/08/24/picking-our-projects/">biggest service delivery opportunities</a>. From improving the citizenship process to helping veterans access their benefits, this is an opportunity to make a real impact for your country. <a href="/#mission">Learn more about our mission</a>.</p><h3>The team</h3>
-                <p>Our small, multi-disciplinary teams are made up of developers, designers, researchers, data scientists and product managers. We’re committed to building a team that’s diverse in gender, indigenous heritage, race, disability, age, language and professional background.</p>
+                <p><strong>At CDS, we don’t just accept difference - we celebrate it. </strong></p>
+
+                <p>We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.</p>
+
+                <p>CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.</p>
+                
+                <p><strong>The mandatory requirements:</strong></p>
+                <ul>
+                    <li>Candidate must be fluent in one of Canada’s two official languages, English or French.</li>
+                    <li>Preference will be given to Canadian citizens or permanent residents.</li>
+                    <li>All candidates must be able to obtain Government of Canada security clearance at either Reliability or Secret level. We’ll help you with this once you’re offered a position.</li>
+                </ul>
             </div>
         </div>
     </section>
