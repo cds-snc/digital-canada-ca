@@ -19,7 +19,9 @@ description: >-
 archived: false
 translationKey: designer-researcher
 ---
-Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
+Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous. Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes.
+
+Nous embauchons des personnes de tous les niveaux d’expérience, à Ottawa, Toronto, Waterloo et Montréal.
 
 Nous recherchons une chercheuse ou un chercheur en conception. À ce titre, vous devrez concevoir, mener, analyser des recherches qualitatives et les présenter aux équipes de produits. En tant que membre clé d’une équipe de produits du Service numérique canadien (SNC), vous aiderez l’équipe à prendre des décisions liées à la conception à la lumière des connaissances que vous acquerrez. Vous composerez avec les contraintes politiques et réglementaires associées à la recherche au sein du gouvernement. Vous présenterez aux ministères partenaires et enseignerez à nos partenaires de nouvelles compétences en recherche. Vous aiderez aussi vos collègues de l’équipe du SNC à devenir de meilleurs chercheurs (nous croyons que chaque membre de l’équipe du SNC est un chercheur dans une certaine mesure). Mais surtout, vous défendrez les intérêts des personnes qui utilisent les services du gouvernement du Canada : les Canadiennes et les Canadiens de tous les horizons.
 
@@ -44,12 +46,13 @@ Nous recherchons une chercheuse ou un chercheur en conception. À ce titre, vous
 * constamment remettre en question le statu quo et d’exercer des pressions pour favoriser l’adoption de pratiques exemplaires
 * proposer aux membres de l’équipe de nouvelles pistes de réflexion et d’accepter qu’ils remettent aussi en cause sa façon de penser
 
+Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisation et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! Dites nous pourquoi vous êtes la personne idéale pour ce poste.
+
 ## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
-Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Notre capacité à fournir de meilleurs services publics, soit des services accessibles et inclusifs, ne peut être réalisée que si nous pouvons reconnaître et exploiter toute la diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
+
+Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. La prestation de services publics améliorés, accessibles et inclusifs n’est réalisable que si nous pouvons reconnaître et exploiter une diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à prospérer.
 
 Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
-	
 
-### Vous êtes intéressé?
-
+## Vous êtes intéressé?
 Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Chercheur en conception » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
