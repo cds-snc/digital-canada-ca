@@ -13,15 +13,19 @@ const frontMatter = (dirName, fileName, ext, paths = { large, thumb }) => {
   const filePath = path.join(`${dirName}/${fileName}`);
   const destPath = path.join(dirName);
   let imageInfo;
+  let saveFile = false;
 
+  fmEditor.saveFile = fmEditor.save
   fmEditor.read(filePath)
     .data((data, matter) => {
       if (data.processed) {
         console.log("processed => ", data.processed)
         imageInfo = { processed: data.processed };
+        saveFile = false
         return;
       }
 
+      saveFile = true;
       imageInfo = getFileInfo(data.image);
 
       if (!imageInfo) return;
@@ -33,12 +37,17 @@ const frontMatter = (dirName, fileName, ext, paths = { large, thumb }) => {
       data.thumb = `/${paths.thumb}/${imageInfo.name}${useExt}`;
       data.processed = timestamp();
       matter.data = data;
-    })
-    .save(destPath, { postfix: '' }, (err, data) => {
+    });
+
+  if (saveFile) {
+    fmEditor.save(destPath, { postfix: '' }, (err, data) => {
       if (err) {
         console.log("failed to save front matter data", err);
       }
-    });
+
+      console.log(`saved ${destPath}`)
+    })
+  }
 
   return imageInfo;
 }
