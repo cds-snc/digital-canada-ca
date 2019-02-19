@@ -54,6 +54,6 @@ CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orie
 
 ## Interested?
 
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with "Head Of Outreach" in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
+Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with "Head of Outreach" in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
 
 
