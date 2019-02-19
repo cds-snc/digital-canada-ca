@@ -6,9 +6,9 @@ description: 'Nous recherchons des développeurs expérimentés et dévoués pou
 archived: false
 translationKey: sr-dev
 ---
-Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous. Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes.
+Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
 
-Nous embauchons des personnes de tous les niveaux d’expérience, à Ottawa, Toronto, Waterloo et Montréal.
+Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes. Nous embauchons des personnes de tous les niveaux d’expérience, à Ottawa, Toronto, Waterloo et Montréal.
 
 En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, nous renforçons les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services.
 
