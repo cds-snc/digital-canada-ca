@@ -3,10 +3,9 @@ const path = require("path");
 const sharp = require("sharp");
 const fmEditor = require('front-matter-editor');
 const { getFileInfo } = require('./lib/getFileInfo');
-
-const timestamp = () => {
-  return new Date().valueOf();
-}
+const { timestamp } = require('./lib/timestamp');
+const { saveImage } = require('./lib/saveImage');
+const { readFileDir } = require('./lib/readFileDir');
 
 // read + edit front matter data
 const frontMatter = (dirName, fileName, ext, paths = { large, thumb }) => {
@@ -53,61 +52,6 @@ const frontMatter = (dirName, fileName, ext, paths = { large, thumb }) => {
   return imageInfo;
 }
 
-
-
-// save and resize image + update file ext
-const saveImage = (filePath, targetPath, useExt = ".jpg", width = 1200, height = 1200) => {
-  const imageInfo = getFileInfo(filePath);
-
-  if (!fs.existsSync(targetPath)) {
-    fs.mkdirSync(targetPath, { recursive: true });
-  }
-
-  if (!imageInfo.ext || imageInfo.ext === ".svg") {
-    return
-  }
-
-  const imageName = `${targetPath}/${imageInfo.name}${useExt}`
-
-  sharp(filePath)
-    .resize({
-      width,
-      height,
-      fit: "inside",
-      position: "entropy",
-      withoutEnlargement: true
-
-    })
-    .toFormat('jpeg')
-    .toBuffer(function (err, buffer) {
-      fs.writeFile(imageName, buffer, function (err) {
-        if (err) {
-          console.log(err);
-          return;
-        }
-      });
-    });
-};
-
-// read a directory of files + handle result via a callback
-function readFileDir(dirname, cb) {
-  fs.readdir(dirname, (err, filenames) => {
-    if (err) {
-      console.log("error reading files");
-      return;
-    }
-    if (filenames.length > 0) {
-
-      filenames.forEach((file) => {
-        cb(dirname, file)
-      })
-
-    } else {
-      console.log("done reading files")
-    }
-  });
-}
-
 const start = (lang, markdownDir) => {
   const prefixPath = path.join(__dirname, `../static`);
 
@@ -136,8 +80,6 @@ const start = (lang, markdownDir) => {
     saveImage(imagePath, `${prefixPath}/${thumbImagePath}`, '.jpg', 300, 300)
   })
 }
-
-
 
 // kickoff 
 start('en', path.join(__dirname, '../content/en/blog/posts'));
