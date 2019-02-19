@@ -17,7 +17,9 @@ description: >-
 archived: false
 translationKey: head-outreach
 ---
-Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous. Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes.
+Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
+
+Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes.
 
 En tant qu’équipe de liaison et diffusion, nous sommes les narrateurs du SNC. Nous racontons les histoires qui aident les fonctionnaires à améliorer les services gouvernementaux et à rendre la vie des gens meilleure. Mais sachez que nous ne nous contentons pas de raconter des histoires amusantes. Les problèmes que nous abordons sont complexes, tout comme les histoires que nous racontons. Nous n’avons pas peur de parler de ce qui a fonctionné, de ce qui n’a pas fonctionné et de la façon dont nous pouvons mieux faire. Il n’y a pas de méchants dans les histoires que nous racontons : nous nous engageons à comprendre les besoins de chacun et à résoudre les problèmes avec eux. Si vous êtes prêt à vous exprimer de manière ouverte et personnelle au gouvernement, ce poste vous convient. 
 
