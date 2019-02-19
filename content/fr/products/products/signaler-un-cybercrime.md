@@ -5,7 +5,7 @@ description: >
   Explorer la possibilité de mettre en place un service permettant aux Canadiens
   et aux entreprises de signaler plus aisément les crimes informatiques et
   facilitant le travail d'analyse et d'enquête de la police.
-phase: discovery
+phase: alpha
 contact:
   - email: daniel.tse@tbs-sct.gc.ca
     name: Daniel Tse

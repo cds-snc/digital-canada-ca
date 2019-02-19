@@ -33,6 +33,3 @@ At CDS, we don’t just accept difference - we celebrate it. We proudly, passion
 
 CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments.
 
-### Interested?
-
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca] (mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with [Head of Engineering] in the subject line. Tell us why you’re right for the job. We recognize that everyone brings different skills and experiences to the table, and that nobody “checks all the boxes.” Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.

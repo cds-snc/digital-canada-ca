@@ -9,7 +9,9 @@
     "babel-preset-env": "^1.7.0",
     "css-loader": "^1.0.1",
     "file-loader": "^1.1.11",
+    "front-matter-editor": "0.0.1",
     "netlify-cms": "^2.3.3",
+    "sharp": "^0.21.3",
     "style-loader": "^0.22.1",
     "webpack": "^4.29.0"
   },
@@ -19,7 +21,8 @@
   "scripts": {
     "dev": "webpack && hugo server -D",
     "build": "webpack && hugo",
-    "build_admin": "webpack --config webpack.config.js"
+    "build_admin": "webpack --config webpack.config.js",
+    "build:stage": "webpack && hugo --environment staging"
   },
   "repository": {
     "type": "git",

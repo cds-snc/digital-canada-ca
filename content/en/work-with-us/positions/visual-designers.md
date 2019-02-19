@@ -25,15 +25,10 @@ We are currently hiring in Ottawa, Toronto, Waterloo, and Montreal.
 * You have experience working alongside developers and researchers, and rapidly prototyping
 
 ## At CDS, we don’t just accept difference - we celebrate it.
-We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we recognize and harness the most diverse range of thoughts, experiences, and skills. We are committed to helping diverse talent thrive.
+We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 
-CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy, or family commitments.
+CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.
 
 ## Interested?
 
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with "Visual Designers" in the subject line. Tell us why you’re right for the job. We recognize that everyone brings different skills and experiences to the table, and that nobody “checks all the boxes.” Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
-
-## Want to learn more about CDS?
-
-Read our [blog](https://digital.canada.ca/blog/) to find out what we’ve been up to.
-For the latest news, follow us on [Twitter](https://twitter.com/CDS_GC).
+Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with "Visual Designer" in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.

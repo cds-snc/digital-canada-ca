@@ -33,4 +33,4 @@ If the problem falls within our wheelhouse and we think there’s potential to p
 
 If we both decide a partnership makes good sense, we’ll put in place a light touch agreement that outlines our approach, roles, responsibilities and timelines. And then, we get to roll up our sleeves and get to work! It’s important to keep in mind that we intend to work in the open with partners, sharing our lessons learned, challenges and successes along the way as much as possible.
 
-So far the response has been incredible! We’re humbled by the interest we’ve received to date and look forward to the many conversations to come. So with the above in mind, [don’t hesitate to reach out](/contact/) if you’d like to set up a chat about your problem and explore how we can help.
+So far the response has been incredible! We’re humbled by the interest we’ve received to date and look forward to the many conversations to come. So with the above in mind, [don’t hesitate to reach out](#contact-us-links) if you’d like to set up a chat about your problem and explore how we can help.

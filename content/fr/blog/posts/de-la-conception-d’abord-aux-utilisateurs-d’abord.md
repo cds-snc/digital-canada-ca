@@ -87,4 +87,4 @@ Lancer le service dans le domaine public pour qu’il soit utilisé dans des sit
 [Services numériques de l’Ontario - Guide de la conception de services](https://www.ontario.ca/fr/page/guide-de-la-conception-de-services)\
 [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)  
 
-Cette liste de ressources continuera d’évoluer. Entre-temps, nous voulons connaître votre opinion. Si vous avez des commentaires ou voulez en savoir plus sur un sujet précis, [communiquez avec nous](https://numerique.canada.ca/contactez-nous/)!
+Cette liste de ressources continuera d’évoluer. Entre-temps, nous voulons connaître votre opinion. Si vous avez des commentaires ou voulez en savoir plus sur un sujet précis, [communiquez avec nous](#contact-us-links)!
