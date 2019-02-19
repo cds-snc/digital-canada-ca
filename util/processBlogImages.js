@@ -55,7 +55,7 @@ const start = (lang, markdownDir) => {
 
   const imagePath = 'img/cds';
   const sourceImagePath = `${prefixPath}/${imagePath}`;
-  const largeImagePath = `${imagePath}/`;
+  const largeImagePath = `${imagePath}`;
   const thumbImagePath = `${imagePath}/thumbnails`;
 
   readFileDir(markdownDir, (dirName, fileName) => {
