@@ -6,7 +6,9 @@ description: 'Nous recherchons des développeurs expérimentés et dévoués pou
 archived: false
 translationKey: sr-dev
 ---
-Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
+Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous. Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes.
+
+Nous embauchons des personnes de tous les niveaux d’expérience, à Ottawa, Toronto, Waterloo et Montréal.
 
 En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, nous renforçons les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services.
 
@@ -28,11 +30,13 @@ En travaillant ouvertement et en établissant des liens entre les partenaires et
 * Promouvoir l’innovation et orienter le changement technologique au SNC et avec nos partenaires gouvernementaux.
 * Développer une culture de prestation inclusive et respecter les principes d’ouverture, d’intégrité et d’équité.
  
+Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisation et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! Dites nous pourquoi vous êtes la personne idéale pour ce poste.
+
 ## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
-Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Notre capacité à fournir de meilleurs services publics, soit des services accessibles et inclusifs, ne peut être réalisée que si nous pouvons reconnaître et exploiter toute la diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
+
+Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. La prestation de services publics améliorés, accessibles et inclusifs n’est réalisable que si nous pouvons reconnaître et exploiter une diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à prospérer.
 
 Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
- 
-## Vous êtes intéressé ?
 
-Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Développeurs expérimentés » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
+## Vous êtes intéressé?
+Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Développeurs expérimentés » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
