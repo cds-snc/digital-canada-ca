@@ -20,8 +20,8 @@ const saveImage = (filePath, targetPath, useExt = ".jpg", width = 1200, height =
       .resize({
         width,
         height,
-        fit: "inside",
-        position: "entropy",
+        fit: "cover",
+        position: "centre",
         withoutEnlargement: true
   
       })
