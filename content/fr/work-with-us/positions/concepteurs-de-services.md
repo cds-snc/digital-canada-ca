@@ -9,9 +9,9 @@ description: >-
 archived: false
 translationKey: service-designers
 ---
-Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous. Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes.
+Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
 
-Nous embauchons des personnes de tous les niveaux d’expérience, à Ottawa, Toronto, Waterloo et Montréal.
+Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes. Nous embauchons des personnes de tous les niveaux d’expérience, à Ottawa, Toronto, Waterloo et Montréal.
 
 Les conceptrices et concepteurs de services conçoivent des services de bout en bout pour aider les utilisateurs à atteindre leurs objectifs et à réaliser leurs objectifs stratégiques.
 
