@@ -8,9 +8,9 @@ description: >-
 archived: false
 translationKey: content-designers
 ---
-Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous. Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes.
+Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
 
-Nous embauchons des personnes de tous les niveaux d’expérience, à Ottawa, Toronto, Waterloo et Montréal.
+Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes. Nous embauchons des personnes de tous les niveaux d’expérience, à Ottawa, Toronto, Waterloo et Montréal.
 
 Les concepteurs de contenu transforment des concepts difficiles en contenu facile à comprendre. Ils façonnent et conçoivent tout le contenu d’un produit ou d’un service. Cela va du langage et des mots exacts sur une page jusqu'au contexte macro de la façon de concevoir du contenu pour de nouveaux produits et services au gouvernement. Les concepteurs de contenu se concentrent sur la hiérarchie, le flux et la structure de l’information afin d’améliorer l’expérience utilisateur. Ils collaborent constamment avec des concepteurs de services, des concepteurs visuels, des concepteurs d’interactions et des chercheurs. 
 
