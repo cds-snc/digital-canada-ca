@@ -19,9 +19,9 @@ description: >-
 archived: false
 translationKey: designer-researcher
 ---
-Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous. Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes.
+Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
 
-Nous embauchons des personnes de tous les niveaux d’expérience, à Ottawa, Toronto, Waterloo et Montréal.
+Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes. Nous embauchons des personnes de tous les niveaux d’expérience, à Ottawa, Toronto, Waterloo et Montréal.
 
 Nous recherchons une chercheuse ou un chercheur en conception. À ce titre, vous devrez concevoir, mener, analyser des recherches qualitatives et les présenter aux équipes de produits. En tant que membre clé d’une équipe de produits du Service numérique canadien (SNC), vous aiderez l’équipe à prendre des décisions liées à la conception à la lumière des connaissances que vous acquerrez. Vous composerez avec les contraintes politiques et réglementaires associées à la recherche au sein du gouvernement. Vous présenterez aux ministères partenaires et enseignerez à nos partenaires de nouvelles compétences en recherche. Vous aiderez aussi vos collègues de l’équipe du SNC à devenir de meilleurs chercheurs (nous croyons que chaque membre de l’équipe du SNC est un chercheur dans une certaine mesure). Mais surtout, vous défendrez les intérêts des personnes qui utilisent les services du gouvernement du Canada : les Canadiennes et les Canadiens de tous les horizons.
 
