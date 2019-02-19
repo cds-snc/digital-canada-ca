@@ -3,12 +3,16 @@
     <section class="section work-with-us--intro page-intro--outer-container-padding">
         <div class="row">
             <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-                <h2 class="section--title">Travaillez au SNC</h2>
+                <h2 class="section--title">Joignez-vous au SNC</h2>
+                <p>Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.</p>
+
+                <p>Le Service numérique canadien est un collectif de personnes créatives qui s’engagent à utiliser leurs compétences et leurs connaissances numériques pour faciliter l’accès aux services gouvernementaux et leur utilisation. Nos équipes multidisciplinaires de plus en plus nombreuses collaborent avec les ministères fédéraux pour faire en sorte que les services dont les gens ont besoin soient simples et faciles à utiliser. Nous nous concentrons sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en nous appuyant sur les besoins des personnes.</p>
+                
+                <p>En travaillant ouvertement et en mettant nos partenaires en lien avec des outils, des talents et une formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement pour améliorer la prestation des services.</p>
                 {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
                     <div class="cell-background">
-                        <p><strong>Candidatures possibles pour un temps limité</strong></p>
+                        <p><strong>Candidatures acceptées pour une durée limitée.</strong></p>
                         {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
-                            <p style="margin-bottom: 0.5rem;">Nous souhaitons combler ces postes le plus tôt possible&nbsp;:</p>
                             <div class="row mrgn-tp-0">
                                 <ul>
                                     {{ range $p := (where .Pages ".Params.archived" "==" false)}}
@@ -17,22 +21,15 @@
                                 </ul>
                             </div>
                         {{ end }}
-                        <p>Nous embauchons dans quatre volets&nbsp;:</p>
-                        <div class="row mrgn-tp-0">
-                            <ul>
-                                <li><a href="#comms">Communications et Mobilisation</a></li>
-                                <li><a href="#design">Conception</a></li>
-                                <li><a href="#development">Développement</a></li>
-                                <li><a href="#prod">Gestion de produit</a></li>
-                            </ul>
-                        </div>
                     </div>
                 {{end}}
-                <p>Le SNC constitue une équipe de personnes talentueuses, passionnées et résolues à relever les principaux <a href="/2017/08/24/choisir-nos-projets/">défis de prestation de services</a> au Canada. Qu’il s’agisse d’améliorer le processus d’immigration ou d’aider les anciens combattants à recevoir leurs prestations, saisissez l’occasion d’avoir un véritable impact pour votre pays. <a href="/#mission">Pour en savoir plus sur notre mission</a>.</p>
-                <h3>L’équipe</h3>
-                <p>Nos petites équipes multidisciplinaires sont constituées de développeurs, concepteurs, chercheurs en expérience utilisateur, scientifiques de données et gestionnaires de produit. Nous sommes soucieux de bâtir une équipe diversifiée sur plusieurs plans&nbsp;: représentation hommes-femmes, ascendance autochtone, races, personnes ayant un handicap, âges, langues et parcours professionnels.</p>
-                </div>
                 
+                <p><strong>Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.</strong></p>
+
+                <p>Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. La prestation de services publics améliorés, accessibles et inclusifs n’est réalisable que si nous pouvons reconnaître et exploiter une diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à prospérer.</p>
+                
+                <p>Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.</p>    
+            </div>
         </div>
     </section>
 </div>

@@ -17,7 +17,7 @@ description: >-
 archived: false
 translationKey: head-outreach
 ---
-Le Service numérique canadien (SNC), en collaboration avec les ministères fédéraux, élabore des services simples et faciles sur lesquels compte la population. Nous sommes une petite équipe, mais une équipe puissante qui repense la conception et la prestation des services, en assurant la participation des utilisateurs à chaque étape. En travaillant ouvertement et en établissant des liens entre les partenaires et les outils, les talents et la formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement afin d’améliorer la prestation des services. Et nous avons besoin de vous.
+Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous. Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes.
 
 En tant qu’équipe de liaison et diffusion, nous sommes les narrateurs du SNC. Nous racontons les histoires qui aident les fonctionnaires à améliorer les services gouvernementaux et à rendre la vie des gens meilleure. Mais sachez que nous ne nous contentons pas de raconter des histoires amusantes. Les problèmes que nous abordons sont complexes, tout comme les histoires que nous racontons. Nous n’avons pas peur de parler de ce qui a fonctionné, de ce qui n’a pas fonctionné et de la façon dont nous pouvons mieux faire. Il n’y a pas de méchants dans les histoires que nous racontons : nous nous engageons à comprendre les besoins de chacun et à résoudre les problèmes avec eux. Si vous êtes prêt à vous exprimer de manière ouverte et personnelle au gouvernement, ce poste vous convient. 
 
@@ -47,12 +47,14 @@ En tant qu’équipe de liaison et diffusion, nous sommes les narrateurs du SNC.
 * Vous parlez couramment le français et l’anglais (ce serait l’idéal) 
 * Vous aimez la crème glacée. Pas parce qu’on transpire et qu’on a besoin de se calmer. Juste parce qu’on aime avoir nos réunions d’équipe avec des cornets. (Végétalien? Allergique au lactose? Nous avons ce qu’il vous faut.)
 
+Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisation et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! Dites nous pourquoi vous êtes la personne idéale pour ce poste.
+
 ## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
 
-Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. Notre capacité à fournir de meilleurs services publics, soit des services accessibles et inclusifs, ne peut être réalisée que si nous pouvons reconnaître et exploiter toute la diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées. Nous sommes engagés à aider les talents de tout type à prospérer.
+Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. La prestation de services publics améliorés, accessibles et inclusifs n’est réalisable que si nous pouvons reconnaître et exploiter une diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à prospérer.
 
 Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
 
 ## Vous êtes intéressé?
 
-Envoyez un courriel à l’adresse <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca> avec la mention « Chef de liaison et diffusion » à la ligne Objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
+Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Chef de liaison et diffusion » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
