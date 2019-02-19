@@ -11,7 +11,9 @@ description: >-
 archived: false
 translationKey: senior-product-manager
 ---
-Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous. Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes.
+Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
+
+Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en s’appuyant sur les besoins des personnes.
 
 ## Contribuer au bien public des Canadiens
 Le rôle constitue une occasion déterminante dans une carrière pour une personne passionnée par l’utilisation de la gestion de produits afin de transformer les services publics au sein d’une équipe d’ingénieurs, de concepteurs et de chercheurs de calibre international qui ont une vision commune de créer de meilleurs services publics au Canada. Voici quelques exemples de façons dont notre portefeuille bénéficie déjà à la société canadienne :
