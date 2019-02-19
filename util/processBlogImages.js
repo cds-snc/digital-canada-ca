@@ -13,15 +13,20 @@ const frontMatter = (dirName, fileName, ext, paths = { large, thumb }) => {
   const filePath = path.join(`${dirName}/${fileName}`);
   const destPath = path.join(dirName);
   let imageInfo;
+  let saveFile = false;
 
+  fmEditor.saveFile = fmEditor.save
   fmEditor.read(filePath)
     .data((data, matter) => {
+
       if (data.processed) {
         console.log("processed => ", data.processed)
         imageInfo = { processed: data.processed };
+        saveFile = false
         return;
       }
 
+      saveFile = false;
       imageInfo = getFileInfo(data.image);
 
       if (!imageInfo) return;
@@ -29,16 +34,21 @@ const frontMatter = (dirName, fileName, ext, paths = { large, thumb }) => {
       const useExt = ext ? ext : imageInfo.ext;
 
       // update markdown data
-      data.image = `${paths.large}/${imageInfo.name}${useExt}`;
-      data.thumb = `${paths.thumb}${imageInfo.name}${useExt}`;
+      data.image = `/${paths.large}/${imageInfo.name}${useExt}`;
+      data.thumb = `/${paths.thumb}/${imageInfo.name}${useExt}`;
       data.processed = timestamp();
       matter.data = data;
-    })
-    .save(destPath, { postfix: '' }, (err, data) => {
+    });
+
+  if (saveFile) {
+    fmEditor.save(destPath, { postfix: '' }, (err, data) => {
       if (err) {
         console.log("failed to save front matter data", err);
       }
-    });
+
+      console.log(`saved ${destPath}`)
+    })
+  }
 
   return imageInfo;
 }
@@ -46,7 +56,7 @@ const frontMatter = (dirName, fileName, ext, paths = { large, thumb }) => {
 
 
 // save and resize image + update file ext
-const saveImage = (filePath, targetPath, useExt = ".jpg", width = 800, height = 800) => {
+const saveImage = (filePath, targetPath, useExt = ".jpg", width = 1200, height = 1200) => {
   const imageInfo = getFileInfo(filePath);
 
   if (!fs.existsSync(targetPath)) {
@@ -69,13 +79,13 @@ const saveImage = (filePath, targetPath, useExt = ".jpg", width = 800, height = 
 
     })
     .toFormat('jpeg')
-    .toFile(imageName, (err) => {
-      if (err) {
-        console.log("error saving file", err);
-        return;
-      }
-
-      console.log(`image created ${imageName}`)
+    .toBuffer(function (err, buffer) {
+      fs.writeFile(imageName, buffer, function (err) {
+        if (err) {
+          console.log(err);
+          return;
+        }
+      });
     });
 };
 
@@ -99,12 +109,12 @@ function readFileDir(dirname, cb) {
 }
 
 const start = (lang, markdownDir) => {
+  const prefixPath = path.join(__dirname, `../static`);
 
-  const prefixPath = `../public/${lang}`;
   const imagePath = 'img/cds';
   const sourceImagePath = `${prefixPath}/${imagePath}`;
-  const largeImagePath = `${imagePath}/blog`;
-  const thumbImagePath = `${imagePath}/blog/thumb`;
+  const largeImagePath = `${imagePath}/`;
+  const thumbImagePath = `${imagePath}/thumbnails`;
 
   readFileDir(markdownDir, (dirName, fileName) => {
 
@@ -127,6 +137,10 @@ const start = (lang, markdownDir) => {
   })
 }
 
+
+
 // kickoff 
-start('en', '../content/en/blog/posts');
-start('fr', '../content/en/blog/posts');
+start('en', path.join(__dirname, '../content/en/blog/posts'));
+start('fr', path.join(__dirname, '../content/fr/blog/posts'));
+
+process.exit()
