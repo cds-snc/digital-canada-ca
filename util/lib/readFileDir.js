@@ -1,3 +1,4 @@
+const fs = require("fs");
 // read a directory of files + handle result via a callback
 function readFileDir(dirname, cb) {
   fs.readdir(dirname, (err, filenames) => {

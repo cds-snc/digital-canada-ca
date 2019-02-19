@@ -1,6 +1,4 @@
-const fs = require("fs");
 const path = require("path");
-const sharp = require("sharp");
 const fmEditor = require('front-matter-editor');
 const { getFileInfo } = require('./lib/getFileInfo');
 const { timestamp } = require('./lib/timestamp');
@@ -25,7 +23,7 @@ const frontMatter = (dirName, fileName, ext, paths = { large, thumb }) => {
         return;
       }
 
-      saveFile = false;
+      saveFile = true;
       imageInfo = getFileInfo(data.image);
 
       if (!imageInfo) return;
@@ -85,4 +83,4 @@ const start = (lang, markdownDir) => {
 start('en', path.join(__dirname, '../content/en/blog/posts'));
 start('fr', path.join(__dirname, '../content/fr/blog/posts'));
 
-process.exit()
+//process.exit()
