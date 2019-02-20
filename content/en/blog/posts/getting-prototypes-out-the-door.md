@@ -1,11 +1,19 @@
 ---
-title: "Getting prototypes out the door: the e-briefing app"
-description: "Getting hands-on feedback from users is the best way to improve a digital product. To get our feet wet, prior to our official launch, we wanted to tackle a quick project that showed “the art of the possible” with modern digital tools."
+title: 'Getting prototypes out the door: the e-briefing app'
+description: >-
+  Getting hands-on feedback from users is the best way to improve a digital
+  product. To get our feet wet, prior to our official launch, we wanted to
+  tackle a quick project that showed “the art of the possible” with modern
+  digital tools.
 author: Dave Samojlenko and Sean Boots
-date: 2018-01-29 09:00:00 -0400
+date: '2018-01-29 09:00:00 -0400'
 image: /img/cds/blog-ebriefing-2018.jpg
-image-alt: "The initial CDS delivery team finalizing and testing the first version of the e-briefing app."
-translationKey: "getting-prototypes-out-the-door"
+image-alt: >-
+  The initial CDS delivery team finalizing and testing the first version of the
+  e-briefing app.
+translationKey: getting-prototypes-out-the-door
+thumb: /img/cds/thumbnails/blog-ebriefing-2018.jpg
+processed: 1550672961702
 ---
 
 Getting hands-on feedback from users is the best way to improve a digital product. All of the strategy meetings, planning, and requirements-gathering that are typical steps in developing software in government can’t compare to the experience of 
@@ -36,3 +44,4 @@ As part of CDS’ commitment to open source, both the [iOS e-briefing app](https
 A few important caveats: both the iOS app and the management software are early MVPs (minimum viable products). They don’t meet our own internal standards for the services that we build with departments, and a lot more work is needed to get them to that point. Multilingual support and more accessibility refinements would be the immediate next steps, along with feature improvements like notetaking. Deploying a system that could handle protected data would add another layer of complexity. iOS apps in particular can be challenging to configure and deploy, since they require a Mac running Xcode and an Apple developer license. Future iterations deployed via the iOS App Store would be easier to update and maintain.
 
 Building the e-briefing app was an early chance for us to test ourselves – how we work together, and how we develop applications. Building something imperfect, but working, and getting that into the hands of our users – both ministerial delegations and the trip coordination team – was a great way to learn how to build things better. Sharing what we build publicly is part of that commitment. As our colleague [Jason](https://twitter.com/Actinolite) would say, “if you wait to launch something until you’re not embarrassed by it, you’ve waited too long”. We’d love to hear people’s reactions, and if you take the e-briefing app and run with it, we’d [love to hear from you](mailto:cds-snc@tbs-sct.gc.ca).  
+

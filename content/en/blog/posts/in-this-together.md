@@ -1,11 +1,16 @@
 ---
-title: "We’re all in this together"
-description: "A few weeks ago, I had the chance to participate in the Connected150 conference and spend some time with our colleagues in the Canadian Digital Service (CDS)."
-author: Hillary Hartley, Chief Digital Officer, Government of Ontario
-date: 2017-11-20 09:00:00 -0400
+title: We’re all in this together
+description: >-
+  A few weeks ago, I had the chance to participate in the Connected150
+  conference and spend some time with our colleagues in the Canadian Digital
+  Service (CDS).
+author: 'Hillary Hartley, Chief Digital Officer, Government of Ontario'
+date: '2017-11-20 09:00:00 -0400'
 image: /img/cds/blog-in-this-together-2017.jpg
-image-alt: "The Ontario Digital Service team"
-translationKey: "in-this-together"
+image-alt: The Ontario Digital Service team
+translationKey: in-this-together
+thumb: /img/cds/thumbnails/blog-in-this-together-2017.jpg
+processed: 1550672961719
 ---
 A few weeks ago, I had the chance to participate in the [Connected150 conference](http://www.connected150.ca) and spend some time with our colleagues in the Canadian Digital Service (CDS). 
 
@@ -24,3 +29,4 @@ This is why I was so excited to hear about the establishment of the Canadian Dig
 My conversations with CDS have left me heartened to know that they are ready to play that role and seize that opportunity. A national transformation of public service requires national coordination and leadership, and CDS is up to the challenge.
 
 [We’re very proud of what we’ve accomplished so far in Ontario](https://medium.com/ontariodigital) – and we’re happy to share and work with others who are grappling with the same issues – but we also know that there’s a lot more work to be done. We know that working with cities and provinces across the country (and, of course, across the world) is the best way to make sure we’re delivering the best services we can. We’re ready and excited to work with the Canadian Digital Service on this pan-national journey to make government services better for all Canadians – we are, after all, all in this together.
+

@@ -1,11 +1,20 @@
 ---
-title: "Combler les lacunes linguistiques relatives aux sources libres en français"
-description: "Les technologies modernes sont formidables, mais le monde de la technologie est manifestement unilingue anglais. De nombreux outils de source libre n’offrent pas la fonction multilingue dont nous avons besoin, comme la capacité de changer une version du contenu en contexte. Comment comblons-nous donc ce fossé afin d’offrir des services modernes aux Canadiens?"
-author: Eva Demers-Brett, développeuse
-date: 2018-10-03 09:00:00 -0400
-image: /img/cds/blog-language-gap.png
-image-alt: Un caniche français et un bouledogue anglais assis devant des ordinateurs portables.
-translationKey: "language-gap"
+title: Combler les lacunes linguistiques relatives aux sources libres en français
+description: >-
+  Les technologies modernes sont formidables, mais le monde de la technologie
+  est manifestement unilingue anglais. De nombreux outils de source libre
+  n’offrent pas la fonction multilingue dont nous avons besoin, comme la
+  capacité de changer une version du contenu en contexte. Comment comblons-nous
+  donc ce fossé afin d’offrir des services modernes aux Canadiens?
+author: 'Eva Demers-Brett, développeuse'
+date: '2018-10-03 09:00:00 -0400'
+image: /img/cds/blog-language-gap.jpg
+image-alt: >-
+  Un caniche français et un bouledogue anglais assis devant des ordinateurs
+  portables.
+translationKey: language-gap
+thumb: /img/cds/thumbnails/blog-language-gap.jpg
+processed: 1550672961841
 ---
 
 Lorsque nous optons pour des outils de source libre (*open source*), l’un des plus grands obstacles que nous rencontrons est la langue, ou plutôt l’absence de la langue française. L’adaptation d’une application à la langue locale s’appelle l’internationalisation, ou [i18n](https://fr.wikipedia.org/wiki/Internationalisation_(informatique)) en forme abrégée. Au Canada, nous avons le défi d’offrir une expérience soutenue et accessible autant en français qu'en anglais, nos deux langues officielles. Les technologies modernes sont formidables, mais le monde de la technologie est manifestement unilingue anglais. De nombreux outils de source libre n’offrent pas la fonction multilingue dont nous avons besoin, comme la capacité de changer une version du contenu en contexte. Comment comblons-nous donc ce fossé afin d’offrir des services modernes aux Canadiens?

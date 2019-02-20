@@ -1,11 +1,15 @@
 ---
-title: "La recherche utilisateur avec RNCan: orienter la conception d’une API – Partie 1"
-description: "Lorsque Ressources naturelles Canada (RNCan) est venu nous voir avec l’idée d’ouvrir l’accès aux données d’ÉnerGuide, la solution semblait assez évidente : concevoir une interface de programmation d’applications (API) qui permettrait aux utilisateurs d’interroger les données d’ÉnerGuide. Mais d’abord, il fallait valider la solution proposée. "
+title: >-
+  La recherche utilisateur avec RNCan: orienter la conception d’une API – Partie
+  1
+description: "Lorsque Ressources naturelles Canada (RNCan) est venu nous voir avec l’idée d’ouvrir l’accès aux données d’ÉnerGuide, la solution semblait assez évidente\_: concevoir une interface de programmation d’applications (API) qui permettrait aux utilisateurs d’interroger les données d’ÉnerGuide. Mais d’abord, il fallait valider la solution proposée. "
 author: Eman El-Fayomi et Jennifer Fletcher
-date: 2018-02-15 09:00:00 -0400
+date: '2018-02-15 09:00:00 -0400'
 image: /img/cds/blog-conducting-user-research-with-NRCAN.jpg
 image-alt: Eman et Jennifer regardent le canevas de proposition de valeur
-translationKey: "conducting-user-research-with-NRCan"
+translationKey: conducting-user-research-with-NRCan
+thumb: /img/cds/thumbnails/blog-conducting-user-research-with-NRCAN.jpg
+processed: 1550672961792
 ---
 
 Lorsque Ressources naturelles Canada (RNCan) est venu nous voir avec l’idée d’ouvrir l’accès aux données d’[ÉnerGuide](https://www.rncan.gc.ca/energie/efficacite/habitations/maisons-ameliorees/5006), la solution semblait assez évidente: concevoir une interface de programmation d’applications (API) qui permettrait aux utilisateurs d’interroger les données d’ÉnerGuide. Mais d’abord, il fallait valider la solution proposée.
@@ -45,3 +49,4 @@ Actuellement, l’approche privilégiée pour la conception de l’API dépasse 
 Nous avons proposé une solution infonuagique sécurisée qui permettrait d’extraire des données de la base de données ÉnerGuide, de transformer les données en un format compatible avec l’API et de les charger dans une autre base de données à partir de laquelle l’API pourrait en faire l’extraction.
 
 L’équipe de développement travaille d’arrache-pied à la conception de cette API. Une partie de ce travail a consisté à travailler côte à côte avec l’équipe de RNCan. Lisez la [Partie 2: Travailler dans les locaux de RNCan pendant une semaine](/2018/02/15/b-travailler-dans-les-locaux-de-rncan/)pour en savoir davantage sur l’expérience de la co-location. Et gardez l’œil ouvert pour la Partie 3, qui portera sur l’aspect technique.
+

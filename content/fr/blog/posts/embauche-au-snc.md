@@ -1,11 +1,18 @@
 ---
-title: "L’embauche au SNC : comment s’y prend-on dans un modèle d’entreprise en démarrage?"
-description: "Notre manière de faire du recrutement et de renforcer l’effectif d’une équipe de services numériques qui se met immédiatement au travail et qui aide à relever les défis liés aux services dans l’ensemble du gouvernement suscite beaucoup d’intérêt. Voilà pourquoi je suis ravie de bloguer sur les pratiques d’embauche au SNC."
-author: Meera Makim Cunningham, opérations internes
-date: 2018-01-09 09:00:00 -0400
+title: "L’embauche au SNC\_: comment s’y prend-on dans un modèle d’entreprise en démarrage?"
+description: >-
+  Notre manière de faire du recrutement et de renforcer l’effectif d’une équipe
+  de services numériques qui se met immédiatement au travail et qui aide à
+  relever les défis liés aux services dans l’ensemble du gouvernement suscite
+  beaucoup d’intérêt. Voilà pourquoi je suis ravie de bloguer sur les pratiques
+  d’embauche au SNC.
+author: 'Meera Makim Cunningham, opérations internes'
+date: '2018-01-09 09:00:00 -0400'
 image: /img/cds/blog-hiring-2018.jpg
-image-alt: "Membres de l’équipe du SNC"
-translationKey: "hiring-at-cds"
+image-alt: Membres de l’équipe du SNC
+translationKey: hiring-at-cds
+thumb: /img/cds/thumbnails/blog-hiring-2018.jpg
+processed: 1550672961837
 ---
 Notre manière de faire du recrutement et de renforcer l’effectif d’une équipe de services numériques qui se met immédiatement au travail et qui aide à relever les défis liés aux services dans l’ensemble du gouvernement suscite beaucoup d’intérêt. Voilà pourquoi je suis ravie de bloguer sur les pratiques d’embauche au SNC.
 
@@ -36,3 +43,4 @@ Si vous êtes intéressé à en savoir plus sur la façon dont le SNC utilise le
 Il y a beaucoup de choses à dire et à partager. Nous ne manquerons pas de poursuivre la conversation à mesure que nous recruterons plus de personnes de talent dans une foule de disciplines, en utilisant une approche polyvalente pour bâtir le SNC de la meilleure manière qui soit.
 
 Avez-vous des questions à poser ou des commentaires à faire sur nos pratiques de recrutement? À votre avis, quels genres de méthodes de recrutement et de dotation fonctionnent bien? Existe-t-il d’autres manières ingénieuses de faire du recrutement et d’embaucher dans la fonction publique? [Faites-nous-en part](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca).
+

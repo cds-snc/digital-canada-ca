@@ -12,6 +12,8 @@ image-alt: >-
   Two vintage Volkswagen Beetles face each other in a green grass field with a
   blue sky.
 translationKey: help-from-friends
+thumb: /img/cds/thumbnails/katka-pavlickova-131100-unsplash-min.jpg
+processed: 1550672961787
 ---
 I often get asked by fellow public servants “What authorities did the Canadian Digital Service (CDS) get to operate the way it does?” So I thought I would share the authorities we received from government when CDS was established in 2017:
 
@@ -36,3 +38,4 @@ And for every partner we have, we know there are many more out there across the 
 There’s plenty of room in government for doing things differently. It’s not easy. And there are genuine barriers encoded in rules (we work with partners on those, too). I won’t pretend there aren’t times when we wish we had additional authorities. But much of the time, we’re our own worst enemy. As public servants, we too often limit ourselves based on unwritten rules, perceived or imagined consequences, and narrow interpretations. 
 
 Doing things differently takes will, know-how, and just the right mix of patience and persistence. We are so thankful for the steadfast support, ingenuity, and courage of our partners here at TBS and across government. In coming posts, we’ll tell you about how these incredible public servants enable us and our partners to build better services. We get by with a little help from our friends.
+

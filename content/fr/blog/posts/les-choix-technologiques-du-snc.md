@@ -1,11 +1,25 @@
 ---
-title: "Les choix technologiques du SNC"
-description: "Il y a quelques semaines, nous avons lancé notre campagne de recrutement publique dans le but d’embaucher des concepteurs, des développeurs, des scientifiques de données, des gestionnaires de produit et des experts en mobilisation. S’informant au sujet du volet des développeurs, certains nous ont demandé avec quelles plateformes technologiques et quels langages de programmation nous travaillons. Excellente question! L’un des aspects excitants de vous joindre au Service numérique canadien (SNC) si tôt dans notre existence est que vous aurez la chance de modeler la façon dont nos choix technologiques évoluent. Dans cet esprit, c’est-à-dire qu’aucune de ces technologies n’est définitive, j’ai pensé faire le point sur le raisonnement de notre équipe de développement à ce jour ainsi que sur les deux objectifs (en opposition) qui influencent nos choix technologiques."
-author: Sean Boots, développeur
-date: 2017-11-06 09:00:00 -0400
+title: Les choix technologiques du SNC
+description: >-
+  Il y a quelques semaines, nous avons lancé notre campagne de recrutement
+  publique dans le but d’embaucher des concepteurs, des développeurs, des
+  scientifiques de données, des gestionnaires de produit et des experts en
+  mobilisation. S’informant au sujet du volet des développeurs, certains nous
+  ont demandé avec quelles plateformes technologiques et quels langages de
+  programmation nous travaillons. Excellente question! L’un des aspects
+  excitants de vous joindre au Service numérique canadien (SNC) si tôt dans
+  notre existence est que vous aurez la chance de modeler la façon dont nos
+  choix technologiques évoluent. Dans cet esprit, c’est-à-dire qu’aucune de ces
+  technologies n’est définitive, j’ai pensé faire le point sur le raisonnement
+  de notre équipe de développement à ce jour ainsi que sur les deux objectifs
+  (en opposition) qui influencent nos choix technologiques.
+author: 'Sean Boots, développeur'
+date: '2017-11-06 09:00:00 -0400'
 image: /img/cds/blog-technology-choices-at-cds-2017.jpg
-image-alt: "Un écran d'ordinateur montrant les résultats d'une série de tests."
-translationKey: "technology-choices-at-cds"
+image-alt: Un écran d'ordinateur montrant les résultats d'une série de tests.
+translationKey: technology-choices-at-cds
+thumb: /img/cds/thumbnails/blog-technology-choices-at-cds-2017.jpg
+processed: 1550672962165
 ---
 Il y a quelques semaines, nous avons lancé notre [campagne de recrutement publique](/travaillez-avec-nous/) dans le but d’embaucher des concepteurs, des développeurs, des scientifiques de données, des gestionnaires de produits et des experts en mobilisation. S’informant au sujet du volet des développeurs, certains nous ont demandé avec quelles plateformes technologiques et quels langages de programmation nous travaillons. Excellente question! L’un des aspects excitants de vous joindre au Service numérique canadien (SNC) si tôt dans notre existence est que vous aurez la chance de modeler la façon dont nos choix technologiques évoluent. Dans cet esprit, c’est-à-dire qu’aucune de ces technologies n’est définitive, j’ai pensé faire le point sur le raisonnement de notre équipe de développement à ce jour ainsi que sur les deux objectifs (en opposition) qui influencent nos choix technologiques.
 
@@ -38,3 +52,4 @@ Puisque notre organisation a le mandat d’expérimenter et de démontrer ce qui
 Un autre aspect important de notre travail est d’aider nos collègues du gouvernement à expérimenter. Si vous êtes un développeur travaillant dans une « unité .NET » et souhaitez développer quelque chose dans un nouveau cadre ou langage de programmation, il nous ferait plaisir d’en jaser avec vous. Nous vous ferons part de nos constats, lorsque les choses fonctionnent et lorsqu’elles ne fonctionnent pas, et si nous pouvons vous aider à utiliser des outils de pointe, nous le ferons.
 
 Qu'en pensez-vous? Passons-nous à côté du meilleur et du plus récent cadre moderne? Nous aimerions vous entendre. Tout notre code est sur GitHub et nous ne faisons que commencer avec les nouveaux projets. Faites-nous signe sur [Twitter](https://twitter.com/SNC_GC) lorsque vous avez des questions. Si vous êtes intéressé à vous joindre à l’équipe, [postulez maintenant](/travaillez-avec-nous/)! Nous serons heureux de vous avoir à nos côtés pour cette aventure.
+

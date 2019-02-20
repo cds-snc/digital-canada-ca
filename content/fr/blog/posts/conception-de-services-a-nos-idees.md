@@ -1,11 +1,20 @@
 ---
-title: "Conception de services : À nos idées!"
-description: "Le 21 juin, le Service numérique canadien (SNC) a organisé son tout premier atelier de conception, qui a réuni 30 participants de l’Agence du revenu du Canada (ARC) et d’Emploi et Développement social Canada (EDSC). Avec l’aide de mentors en conception, les participants ont échangé des idées sur des enjeux actuels quant aux services du gouvernement du Canada."
+title: 'Conception de services : À nos idées!'
+description: >-
+  Le 21 juin, le Service numérique canadien (SNC) a organisé son tout premier
+  atelier de conception, qui a réuni 30 participants de l’Agence du revenu du
+  Canada (ARC) et d’Emploi et Développement social Canada (EDSC). Avec l’aide de
+  mentors en conception, les participants ont échangé des idées sur des enjeux
+  actuels quant aux services du gouvernement du Canada.
 author: Charlotte Pedersen et Eman El-Fayomi
-date: 2018-07-26 09:00:00 -0400
+date: '2018-07-26 09:00:00 -0400'
 image: /img/cds/blog-jam-header.jpg
-image-alt: Quatre personnes parlent devant un tableau noir alors que des nuages ​​colorés tourbillonnent au-dessus de leurs têtes.
-translationKey: "service-design-thats-our-jam"
+image-alt: >-
+  Quatre personnes parlent devant un tableau noir alors que des nuages ​​colorés
+  tourbillonnent au-dessus de leurs têtes.
+translationKey: service-design-thats-our-jam
+thumb: /img/cds/thumbnails/blog-jam-header.jpg
+processed: 1550672961818
 ---
 
 Le 21 juin, le Service numérique canadien (SNC) a organisé son tout premier [atelier de conception](https://www.youtube.com/watch?v=S_XeFWoR9uU), qui a réuni 30 participants de l’Agence du revenu du Canada (ARC) et d’Emploi et Développement social Canada (EDSC). Avec l’aide de mentors en conception, les participants ont échangé des idées sur des enjeux actuels quant aux services du gouvernement du Canada.

@@ -1,11 +1,17 @@
 ---
-title: "Community-driven coding: Cooperating to make each other’s work better"
-description: "If you're looking, you can find community all around you. Open source software development is no exception. By its nature, open source development is community-driven. People share and build on each other's work, making it better for all."
-author: David Buckley, Developer
-date: 2018-07-17 09:00:00 -0400
+title: 'Community-driven coding: Cooperating to make each other’s work better'
+description: >-
+  If you're looking, you can find community all around you. Open source software
+  development is no exception. By its nature, open source development is
+  community-driven. People share and build on each other's work, making it
+  better for all.
+author: 'David Buckley, Developer'
+date: '2018-07-17 09:00:00 -0400'
 image: /img/cds/blog-david-https-header.jpg
-image-alt: Illustration of two people painting a giant, physical web page.
-translationKey: "community-driven-coding"
+image-alt: 'Illustration of two people painting a giant, physical web page.'
+translationKey: community-driven-coding
+thumb: /img/cds/thumbnails/blog-david-https-header.jpg
+processed: 1550672961671
 ---
 
 If you're looking, you can find community all around you. Open source software development is no exception. By its nature, open source development is community-driven. People share and build on each other's work, making it better for all.

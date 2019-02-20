@@ -1,11 +1,19 @@
 ---
-title: "Les mots (maux?) du numérique - Le SNC publie son lexique"
-description: "Quand j’ai commencé à dresser la liste de termes que le SNC utilisait, c’était d’abord pour assurer une certaine uniformité dans la traduction. Plus la liste s’allongeait, plus je constatais que la façon de nommer les choses du numérique variait énormément, allant de l’utilisation telle quelle des termes anglais (cousins Français, je vous salue!) à l’utilisation de termes qui ne rendaient pas justice au sens."
-author: Annie Leblond, communications
-date: 2018-08-17 09:00:00 -0400
+title: Les mots (maux?) du numérique - Le SNC publie son lexique
+description: >-
+  Quand j’ai commencé à dresser la liste de termes que le SNC utilisait, c’était
+  d’abord pour assurer une certaine uniformité dans la traduction. Plus la liste
+  s’allongeait, plus je constatais que la façon de nommer les choses du
+  numérique variait énormément, allant de l’utilisation telle quelle des termes
+  anglais (cousins Français, je vous salue!) à l’utilisation de termes qui ne
+  rendaient pas justice au sens.
+author: 'Annie Leblond, communications'
+date: '2018-08-17 09:00:00 -0400'
 image: /img/cds/blog-lexicon.jpg
 image-alt: Une illustration d’un combo laveuse-sécheuse.
-translationKey: "lexicon"
+translationKey: lexicon
+thumb: /img/cds/thumbnails/blog-lexicon.jpg
+processed: 1550672962167
 ---
 
 ## Pourquoi un lexique?
@@ -33,3 +41,4 @@ Connaissez-vous des employés d’Hydro-Québec qui portent leurs “[grimpettes
 Tout ça pour dire qu’il a fallu s’adapter, et itérer (que de débats sur *test d’utilisabilité*, par exemple) même dans notre vocabulaire! 
 
 Je vous invite donc à consulter [le lexique du SNC](https://docs.google.com/spreadsheets/d/16Xo5ROhRLjH1sxlFLd9Jz3R-x5oCx62rkQ1cvOBV3jE/edit?usp=sharing), à faire vos propres recherches et à innover, mais surtout à avoir une pensée toute particulière pour les utilisateurs francophones. Être inclusif, c’est aussi veiller à ce que le message soit clair pour tout le monde. 
+

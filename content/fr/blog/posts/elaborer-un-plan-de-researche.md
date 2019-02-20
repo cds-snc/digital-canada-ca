@@ -1,11 +1,18 @@
 ---
-title: "Élaborer un plan de recherche avec cinq questions simples"
-description: "Avant de faire de la recherche utilisateur, nous établissons un plan dans lequel sont présentés les objectifs de la recherche afin d’assurer l’harmonisation, la transparence et une compréhension commune."
-author: Mithula Naik, chercheuse principale en conception
-date: 2018-10-26 09:00:00 -0400
-image: /img/cds/blog-building-a-research-plan.png
-image-alt: Les mains d’une femme déballent du papier brun. Il y a un café à la gauche et des fleurs violettes à la droite.
-translationKey: "building-a-research-plan"
+title: Élaborer un plan de recherche avec cinq questions simples
+description: >-
+  Avant de faire de la recherche utilisateur, nous établissons un plan dans
+  lequel sont présentés les objectifs de la recherche afin d’assurer
+  l’harmonisation, la transparence et une compréhension commune.
+author: 'Mithula Naik, chercheuse principale en conception'
+date: '2018-10-26 09:00:00 -0400'
+image: /img/cds/blog-building-a-research-plan.jpg
+image-alt: >-
+  Les mains d’une femme déballent du papier brun. Il y a un café à la gauche et
+  des fleurs violettes à la droite.
+translationKey: building-a-research-plan
+thumb: /img/cds/thumbnails/blog-building-a-research-plan.jpg
+processed: 1550672961836
 ---
 
 Une bonne phase de découverte vous fournit toute l’information dont vous avez besoin pour définir le ou les problèmes que vous voulez résoudre. Notre phase de découverte nous a permis de réunir des preuves qui indiquent qu’il était nécessaire de sensibiliser davantage les vétérans à la façon d’accéder les programmes, les services et les prestations qui leur sont offertes par Anciens Combattants Canada (ACC).

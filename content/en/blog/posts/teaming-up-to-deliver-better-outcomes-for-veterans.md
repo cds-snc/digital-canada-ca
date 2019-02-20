@@ -10,6 +10,8 @@ date: 2018-07-24T13:00:00.000Z
 image: /img/cds/blog-pei-banner.jpg
 image-alt: A red sanded clif overlooking the sea in Prince Edward Island.
 translationKey: teaming-up-to-deliver-better-outcomes-for-veterans
+thumb: /img/cds/thumbnails/blog-pei-banner.jpg
+processed: 1550672961767
 ---
 
 Recently a small contingent from CDS was lucky enough to visit Prince Edward Island off Canada’s Maritime coast. We were there at the invitation of [Veterans Affairs Canada](http://www.veterans.gc.ca/) (VAC), who we're working with to improve how Veterans find benefits online.
@@ -43,3 +45,4 @@ It was fantastic to find shared alignment on the objective of serving users bett
 Prince Edward Island is obviously a beautiful place to visit but it is also a place where inspirational service transformation work is happening. Our team was grateful to have been welcomed in to be part of it. Our visit to was an opportunity to remember the honour that it is to work in public service supporting Canada’s Veterans, and we look forward to continuing our partnership with VAC.
 
 You can watch our progress through future posts on this blog. Keep an eye on the Alpha on our [code repositories](https://github.com/cds-snc/vac-benefits-directory), and follow the [CDS Twitter account](https://twitter.com/cds_gc) for updates.
+
