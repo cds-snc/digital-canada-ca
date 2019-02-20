@@ -30,7 +30,7 @@
                     {{ range first 4 $posts }}
                     <div class="col-xs-12 col-sm-4 col-md-3">
                         <a class="post" href="{{ .RelPermalink }}">
-                            <div class="image" style="background-image:url('{{ .Params.image }}')"></div>
+                            <div class="image" style="background-image:url('{{ .Params.thumb }}')"></div>
                             <div class="text">
                                 <h3>{{ .Params.title }}</h3>
                             <div class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>

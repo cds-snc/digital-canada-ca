@@ -1,11 +1,18 @@
 ---
-title: "Digital words: mots vs. maux"
-description: "When I started keeping a list of the technical terms we use at CDS it was to ensure some consistency in translations. The longer the list became, the more I noticed that the way people name digital things varies enormously, ranging from using English terms directly to using terms that couldn’t do justice to the meaning."
-author: Annie Leblond, Communications
-date: 2018-08-17 09:00:00 -0400
+title: 'Digital words: mots vs. maux'
+description: >-
+  When I started keeping a list of the technical terms we use at CDS it was to
+  ensure some consistency in translations. The longer the list became, the more
+  I noticed that the way people name digital things varies enormously, ranging
+  from using English terms directly to using terms that couldn’t do justice to
+  the meaning.
+author: 'Annie Leblond, Communications'
+date: '2018-08-17 09:00:00 -0400'
 image: /img/cds/blog-lexicon.jpg
 image-alt: Illustration a front-loading washer-dryer combo.
-translationKey: "lexicon"
+translationKey: lexicon
+thumb: /img/cds/thumbnails/blog-lexicon.jpg
+processed: 1550672961730
 ---
 
 ## Why a lexicon? 
@@ -33,3 +40,4 @@ Do you know any Hydro-Québec employees who wear their “*[grimpettes](http://g
 All this to say that it was necessary to adapt and iterate (debating about *test d’utilisabilité*, for example) even in our vocabulary! 
 
 So I invite you to consult the [CDS lexicon](https://docs.google.com/spreadsheets/d/16Xo5ROhRLjH1sxlFLd9Jz3R-x5oCx62rkQ1cvOBV3jE/edit?usp=sharing). Do your own research and innovate, but do give special thought to francophone users. Being inclusive also means ensuring that the message is clear for everyone. 
+

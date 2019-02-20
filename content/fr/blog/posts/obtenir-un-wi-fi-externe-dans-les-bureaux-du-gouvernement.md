@@ -11,6 +11,8 @@ date: 2019-02-06T14:00:58.492Z
 image: /img/cds/img_20190206_121320.jpg
 image-alt: Une personne raccorde son Macbook à un appareil MiFi portatif.
 translationKey: external-wifi
+thumb: /img/cds/thumbnails/img_20190206_121320.jpg
+processed: 1550672962184
 ---
 Le fait d’avoir accès à des outils modernes est une condition préalable pour la prestation de services numériques modernes. Nous avons écrit auparavant au sujet de [l’importance des outils modernes](https://numerique.canada.ca/2018/06/27/outils-pour-faire-du-bon-travail/), tels que des MacBook et des ordinateurs portables basés sur Linux, pour la conception et le développement de logiciels.
 
@@ -67,3 +69,4 @@ Le Wi-Fi du GC est habituellement offert dans le cadre des mises à niveau du r�
 Comme il y a de plus en plus de ministères qui créent des équipes numériques et [adoptent de nouveaux ensembles et outils technologiques](https://medium.com/code-for-canada/inboxing-clever-db6a334dda7d) (en anglais), nous avons vu plusieurs solutions originales émerger pour obtenir un accès Wi-Fi externe. Les options sont nombreuses : le télétravail à partir de la maison ou d’un café, l’obtention d’adhésions pour des espaces partagés de travail, ou de nouvelles initiatives comme le programme [Milieu de travail GC](https://www.tpsgc-pwgsc.gc.ca/biens-property/mt-wp/mt-wp-fra.html) de Services publics et Approvisionnement Canada.
 
 Chaque fois que nous voyons des ministères sortir des sentiers battus afin de rendre leurs employés plus heureux, plus efficaces et mieux équipés pour travailler de façon moderne, nous sommes heureux de faire passer le mot. [Faites-nous savoir](mailto:cds-snc@tbs-sct.gc.ca) comment vous vous y êtes pris pour donner à votre équipe les ressources et les outils dont elle a besoin!
+

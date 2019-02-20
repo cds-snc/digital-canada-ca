@@ -19,7 +19,8 @@
     "webpack-cli": "^3.2.1"
   },
   "scripts": {
-    "dev": "webpack && hugo server -D",
+    "dev": "npm run process:blog-images && webpack && hugo server -D",
+    "process:blog-images": "node util/processBlogImages",
     "build": "webpack && hugo",
     "build_admin": "webpack --config webpack.config.js",
     "build:stage": "webpack && hugo --environment staging"

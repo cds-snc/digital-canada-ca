@@ -1,11 +1,22 @@
 ---
-title: "Technology choices at CDS"
-description: "A few weeks ago, we opened our public recruitment campaign, looking for designers, developers, data scientists, product managers, and engagement experts. On the developer stream, a number of people have reached out to ask which technology platforms and programming languages we work in. It’s a great question! One of the exciting parts of joining CDS at such an early stage in our existence is that you’ll have a chance to shape how our technology choices evolve. With that in mind – none of these are set in stone – I thought I’d share the current thinking of our developer team, and the two (competing) goals that influence the technologies we choose."
-author: Sean Boots, Developer
-date: 2017-11-06 09:00:00 -0400
+title: Technology choices at CDS
+description: >-
+  A few weeks ago, we opened our public recruitment campaign, looking for
+  designers, developers, data scientists, product managers, and engagement
+  experts. On the developer stream, a number of people have reached out to ask
+  which technology platforms and programming languages we work in. It’s a great
+  question! One of the exciting parts of joining CDS at such an early stage in
+  our existence is that you’ll have a chance to shape how our technology choices
+  evolve. With that in mind – none of these are set in stone – I thought I’d
+  share the current thinking of our developer team, and the two (competing)
+  goals that influence the technologies we choose.
+author: 'Sean Boots, Developer'
+date: '2017-11-06 09:00:00 -0400'
 image: /img/cds/blog-technology-choices-at-cds-2017.jpg
-image-alt: "A computer screen showing results from a test suite"
-translationKey: "technology-choices-at-cds"
+image-alt: A computer screen showing results from a test suite
+translationKey: technology-choices-at-cds
+thumb: /img/cds/thumbnails/blog-technology-choices-at-cds-2017.jpg
+processed: 1550672961768
 ---
 A few weeks ago, we opened our [public recruitment campaign](/work-with-us/), looking for designers, developers, data scientists, product managers, and engagement experts. On the developer stream, a number of people have reached out to ask which technology platforms and programming languages we work in. It’s a great question! One of the exciting parts of joining CDS at such an early stage in our existence is that you’ll have a chance to shape how our technology choices evolve. With that in mind – none of these are set in stone – I thought I’d share the current thinking of our developer team, and the two (competing) goals that influence the technologies we choose.
 
@@ -38,3 +49,4 @@ As an organization with a mandate to experiment and to demonstrate what’s poss
 A key part of this is also about helping enable colleagues across government to experiment as well. If you’re a developer working in a “.NET shop” and you’d like to build something in a new framework or programming language, we’d love to chat. We’ll share what we’re learning along the way – when things work, and when they don’t – and if there’s any way we can empower you to use leading-edge tools, we’re here to help.
 
 What do you think? Are we missing the latest and greatest modern framework? We’d love to hear from you. All of our code [is on GitHub](https://github.com/cds-snc), and we’re just getting started on new projects. Give us a shout on Twitter anytime you have questions, and if you’re interested in joining the team [apply now](/work-with-us/)! We’d love to have you along for the journey.
+

@@ -10,6 +10,8 @@ date: 2019-02-06T14:00:31.390Z
 image: /img/cds/img_20190206_121320.jpg
 image-alt: A person connecting their MacBook to a handheld MiFi device.
 translationKey: external-wifi
+thumb: /img/cds/thumbnails/img_20190206_121320.jpg
+processed: 1550672961697
 ---
 Having access to modern tools is a prerequisite for delivering modern digital services. We’ve written previously about [the importance of modern tools](https://digital.canada.ca/2018/06/27/tools-to-do-good-work/), like MacBooks and Linux-based laptops, for design and software development work.
 
@@ -66,3 +68,4 @@ GC-WIFI is usually only available as part of network upgrades that SSC conducts 
 As more departments stand up digital teams, and [adopt new tech stacks and tools](https://medium.com/code-for-canada/inboxing-clever-db6a334dda7d), we’ve seen a lot of creative options to get external Wi-Fi access. This includes everything from working remotely from home or a coffee shop, to getting memberships at co-working spaces, to new initiatives like Public Services and Procurement Canada’s [GCworkspace](https://www.tpsgc-pwgsc.gc.ca/biens-property/mt-wp/mt-wp-eng.html) program.
 
 Anytime we see departments thinking outside the box to make their employees happier, more effective, and more equipped for modern ways of working, we’re excited to spread the word. [Let us know](mailto:cds-snc@tbs-sct.gc.ca) how you’ve tackled getting your team the resources and tools that it needs!
+

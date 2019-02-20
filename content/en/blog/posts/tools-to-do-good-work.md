@@ -1,11 +1,15 @@
 ---
-title: "Use the tools that you need to do good work"
-description: "In order to adopt modern digital practices, it’s also important to have the tools – both devices and software – that make this possible."
-author: Sean Boots, Policy team
-date: 2018-06-27 09:00:00 -0400
-image: /img/cds/blog-tools-for-work-2018.jpeg
+title: Use the tools that you need to do good work
+description: >-
+  In order to adopt modern digital practices, it’s also important to have the
+  tools – both devices and software – that make this possible.
+author: 'Sean Boots, Policy team'
+date: '2018-06-27 09:00:00 -0400'
+image: /img/cds/blog-tools-for-work-2018.jpg
 image-alt: Several MacBook computers covered in stickers laid out on a table.
-translationKey: "tools-to-do-good-work"
+translationKey: tools-to-do-good-work
+thumb: /img/cds/thumbnails/blog-tools-for-work-2018.jpg
+processed: 1550672961772
 ---
 
 We’ve previously blogged about the importance of [automated testing](https://digital.canada.ca/2018/03/26/automated-testing-blog/), [continuous integration](https://digital.canada.ca/2018/05/16/reducing-risk-through-continuous-deployment/), and some of our early [technology platform choices](https://digital.canada.ca/2017/11/06/technology-choices-at-cds/). In order to adopt modern digital practices, it’s also important to have the tools – both devices and software – that make this possible.
@@ -41,3 +45,4 @@ We’re not the only team in the Canadian government to use MacBooks, Linux-base
 Beyond our product teams, we’re also beginning to use MacBooks for our communications, policy, and internal operations staff as well, although these teams tend to use their standard departmental devices more often since their work can sometimes involve protected documents. We’re working with our colleagues in the Chief Information Officer Branch and TBS’ corporate IT division to [open up access to the collaboration tools we use everyday](https://open.canada.ca/en/blog/enabling-gcdigital-pragmatic-security) on standard departmental devices as well.
 
 Using non-standard devices – the tools that our staff choose to use – is an important part of our effort to create an effective enabling environment, where each person can be creative, productive, and do their best work. We’d love to hear about the approaches other departmental software and design teams are adopting to make this happen – [get in touch](mailto:cds-snc@tbs-sct.gc.ca)!
+

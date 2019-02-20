@@ -1,11 +1,18 @@
 ---
-title: "Conducting user research with NRCan to inform an API build: Part 1"
-description: "When Natural Resources Canada (NRCan) came to us with the idea of opening up access to EnerGuide data, the solution seemed pretty obvious — build an ‘Application Programming Interface’ (API) that would allow users to query the EnerGuide data; but first, we had to validate whether this proposed solution was the way to go."
+title: 'Conducting user research with NRCan to inform an API build: Part 1'
+description: >-
+  When Natural Resources Canada (NRCan) came to us with the idea of opening up
+  access to EnerGuide data, the solution seemed pretty obvious — build an
+  ‘Application Programming Interface’ (API) that would allow users to query the
+  EnerGuide data; but first, we had to validate whether this proposed solution
+  was the way to go.
 author: Eman El-Fayomi and Jennifer Fletcher
-date: 2018-02-15 09:00:00 -0400
+date: '2018-02-15 09:00:00 -0400'
 image: /img/cds/blog-conducting-user-research-with-NRCAN.jpg
 image-alt: Eman and Jennifer looking at the Value Proposition Canvas
-translationKey: "conducting-user-research-with-NRCan"
+translationKey: conducting-user-research-with-NRCan
+thumb: /img/cds/thumbnails/blog-conducting-user-research-with-NRCAN.jpg
+processed: 1550672961653
 ---
 
 When Natural Resources Canada (NRCan) came to us with the idea of opening up access to [EnerGuide](https://www.nrcan.gc.ca/energy/efficiency/housing/home-improvements/5005) data, the solution seemed pretty obvious — build an ‘Application Programming Interface’ (API) that would allow users to query the EnerGuide data; but first, we had to validate whether this proposed solution was the way to go.  
@@ -45,3 +52,4 @@ The approach we are currently taking to building the API solution is more sophis
 What we proposed was a secure cloud-based solution that would extract data from the EnerGuide database, transform the data into a format that worked for the API, and load that data into another database from which the API would pull.
 
 Our development team is now hard at work building the proposed API solution. Part of this work meant co-locating with the NRCan team. Read [Part 2: Co-locating with NRCan for a week](/2018/02/15/b-colocating-with-nrcan/) to learn more about the co-location experience. Keep an eye out for Part 3 which will delve into the technical build.
+

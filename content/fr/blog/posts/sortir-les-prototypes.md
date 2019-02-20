@@ -1,11 +1,19 @@
 ---
-title: "Sortir les prototypes&nbsp;:&nbsp;l’application de breffage électronique"
-description: "Obtenir la rétroaction directe des utilisateurs est la meilleure façon d’améliorer un produit numérique. Pour nous faire la main, avant notre lancement officiel, nous voulions entreprendre un projet qui illustrerait « l’art du possible » avec des outils numériques modernes."
+title: 'Sortir les prototypes&nbsp;:&nbsp;l’application de breffage électronique'
+description: >-
+  Obtenir la rétroaction directe des utilisateurs est la meilleure façon
+  d’améliorer un produit numérique. Pour nous faire la main, avant notre
+  lancement officiel, nous voulions entreprendre un projet qui illustrerait «
+  l’art du possible » avec des outils numériques modernes.
 author: Dave Samojlenko et Sean Boots
-date: 2018-01-29 09:00:00 -0400
+date: '2018-01-29 09:00:00 -0400'
 image: /img/cds/blog-ebriefing-2018.jpg
-image-alt: "La première équipe de prestation du SNC en train de finaliser et de tester la première version de l'application de breffage électronique."
-translationKey: "getting-prototypes-out-the-door"
+image-alt: >-
+  La première équipe de prestation du SNC en train de finaliser et de tester la
+  première version de l'application de breffage électronique.
+translationKey: getting-prototypes-out-the-door
+thumb: /img/cds/thumbnails/blog-ebriefing-2018.jpg
+processed: 1550672962220
 ---
 
 Obtenir la rétroaction directe des utilisateurs est la meilleure façon d’améliorer un produit numérique. Toutes les activités comme les réunions stratégiques, la planification et la définition des exigences qui constituent les étapes typiques du développement d’un logiciel au gouvernement ne font pas le poids comparativement au véritable [test du produit par ses utilisateurs](https://medium.com/code-for-america/what-healthcare-gov-has-to-do-with-the-hawaii-false-alarm-and-what-to-do-about-it-445cb2b7af82).
@@ -35,3 +43,4 @@ Conformément à l’engagement du SNC à utiliser du code libre, [l’applicati
 Quelques mises en garde importantes&nbsp;:&nbsp;l’application iOS ainsi que le logiciel de gestion sont des produits minimums viables (PMV). Ils ne répondent pas à nos normes internes pour les services que nous produisons avec les ministères et il reste encore beaucoup de travail à faire pour les amener jusqu’à ce niveau. Dans l’immédiat, les prochaines étapes seraient le soutien multilingue, d’autres améliorations relatives à l’accessibilité et l’amélioration de certaines fonctions comme la prise de notes. Le déploiement d’un système en mesure de gérer des données protégées ajouterait une couche additionnelle de complexité. Il peut être particulièrement difficile de configurer et de déployer des application iOS étant donné qu’elles exigent un ordinateur Mac exécutant Xcode et une licence de développeur Apple. Les prochaines versions déployées par l’entremise de la boutique d’applications iOS seront plus faciles à tenir et à mettre à jour.
 
 Grâce au développement de l’application de breffage électronique, nous avons pu tester nos capacités, soit celles de travailler ensemble et de développer des applications, dès le départ. Le développement d’une solution imparfaite, mais fonctionnelle, et sa livraison à nos utilisateurs – les délégations ministérielles et l’équipe de coordination des voyages – nous ont donné une formidable occasion de découvrir comment améliorer notre capacité de développement. Le fait de mettre le fruit de notre travail à la disposition du public fait partie de cet engagement. Pour reprendre les mots de notre collègue [Jason](https://twitter.com/Actinolite)&nbsp;:&nbsp;«&nbsp;si vous avez attendu de ne plus avoir de réserves avant de lancer quelque chose, vous avez attendu trop longtemps&nbsp;». Nous serions ravis de connaître vos réactions, et si vous téléchargez et utilisez l’application de breffage électronique, nous aimerions [recevoir vos commentaires](mailto:cds-snc@tbs-sct.gc.ca).  
+
