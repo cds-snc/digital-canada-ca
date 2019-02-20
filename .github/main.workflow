@@ -1,6 +1,9 @@
 workflow "New workflow" {
   on = "push"
-  resolves = ["Process images"]
+  resolves = [
+    "Process images commit",
+    "Process images",
+  ]
 }
 
 action "Filter master" {
@@ -8,9 +11,21 @@ action "Filter master" {
   args = "not branch master"
 }
 
-action "Process images" {
+action "Process images commit" {
   uses = "docker://cdssnc/auto-commit-github-action"
-  needs = ["Filter master"]
+  needs = ["Process images"]
   args = "Processed images"
   secrets = ["GITHUB_TOKEN"]
+}
+
+action "Install" {
+  uses = "actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680"
+  needs = ["Filter master"]
+  args = "install"
+}
+
+action "Process images" {
+  uses = "actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680"
+  needs = ["Install"]
+  args = "process:blog-images"
 }
