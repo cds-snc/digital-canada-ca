@@ -1,11 +1,16 @@
 ---
-title: "Coding is a team activity"
-description: "In our experience, software development should be a team effort. This doesn’t mean multiple developers individually contributing code to a single code base; rather, the team as a whole is responsible for each line of code."
-author: Jason White, Head of data science
-date: 2018-04-24 09:00:00 -0400
+title: Coding is a team activity
+description: >-
+  In our experience, software development should be a team effort. This doesn’t
+  mean multiple developers individually contributing code to a single code base;
+  rather, the team as a whole is responsible for each line of code.
+author: 'Jason White, Head of data science'
+date: '2018-04-24 09:00:00 -0400'
 image: /img/cds/blog-team-coding.jpg
 image-alt: A computer screen displays 200 lines of JavaScript code in Sublime Text.
-translationKey: "coding-is-a-team-activity"
+translationKey: coding-is-a-team-activity
+thumb: /img/cds/thumbnails/blog-team-coding.jpg
+processed: 1550672961670
 ---
 
 In our experience, software development should be a team effort. This doesn’t mean multiple developers individually contributing code to a single code base; rather, the team as a whole is responsible for each line of code. For any production system, we have an expectation that all code will be approved by at least one other developer, before it is accepted.
@@ -72,3 +77,4 @@ I like to keep pull requests down to 200 lines of code or less. Preferably less.
 If we fix the size of pull requests down to a reasonable size, we can also set expectations for turnaround time. One business day is about as long as I find reasonable, along with an ability to ping someone to see if a faster review is possible if the pull request is blocking other work.
 
 Quality peer code reviews are typically fairly easy to begin on your projects right away. We encourage you to give them a shot!
+

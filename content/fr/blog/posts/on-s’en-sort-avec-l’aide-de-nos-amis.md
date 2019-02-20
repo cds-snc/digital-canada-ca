@@ -11,6 +11,8 @@ date: 2019-01-31T14:00:00.000Z
 image: /img/cds/katka-pavlickova-131100-unsplash-min.jpg
 image-alt: Deux vieux Volkswagen Beetles se font face dans un champ sous un ciel bleu.
 translationKey: help-from-friends
+thumb: /img/cds/thumbnails/katka-pavlickova-131100-unsplash-min.jpg
+processed: 1550672962186
 ---
 Des collègues fonctionnaires me demandent souvent « Quelles autorisations le Service numérique canadien (SNC) a-t-il obtenues pour fonctionner comme il le fait ? » J’ai donc pensé vous faire part des autorisations que nous avons reçues du gouvernement quand le SNC a été fondé en 2017:
 
@@ -35,3 +37,4 @@ Et pour chaque partenaire que nous avons, nous savons qu’il y en a beaucoup d�
 Cependant, il y a encore matière à amélioration au gouvernement. Ce n’est pas facile. Il y a de réels obstacles assujettis à des règles (nous collaborons aussi avec des partenaires pour régler ces questions), et je ne prétendrai pas qu’il n’y a pas d’occasions où nous aimerions avoir des autorisations supplémentaires. Pourtant, nous sommes très souvent notre pire ennemi, car, en tant que fonctionnaires, nous nous limitons trop souvent à des règles non écrites, à des conséquences perçues ou imaginées et à des interprétations étroites. 
 
 Pour faire les choses différemment, il faut de la volonté, du savoir-faire et un savant mélange de patience et de persévérance. Nous sommes très reconnaissants du soutien inébranlable, de l’ingéniosité et du courage de nos partenaires ici au SCT et dans l’ensemble du gouvernement. Dans les prochains billets, nous vous parlerons de la façon dont ces incroyables fonctionnaires nous permettent, à nous et à nos partenaires, de bâtir de meilleurs services. On s’en sort avec l’aide de nos amis.
+

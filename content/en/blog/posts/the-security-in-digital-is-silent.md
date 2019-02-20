@@ -1,11 +1,17 @@
 ---
-title: "The s(ecurity) in digital is silent"
-description: "I’ve come to the conclusion that writing about security is harder than actually doing it. This is likely due to having avoided talking or writing about what I’ve done at work for the better part of the last decade. Bear with me, this may be interesting."
-author: John O'Brien, Security lead
-date: 2018-07-11 09:00:00 -0400
-image: /img/cds/the-security-in-digital-is-silent.png
+title: The s(ecurity) in digital is silent
+description: >-
+  I’ve come to the conclusion that writing about security is harder than
+  actually doing it. This is likely due to having avoided talking or writing
+  about what I’ve done at work for the better part of the last decade. Bear with
+  me, this may be interesting.
+author: 'John O''Brien, Security lead'
+date: '2018-07-11 09:00:00 -0400'
+image: /img/cds/the-security-in-digital-is-silent.jpg
 image-alt: An open lock
-translationKey: "the-security-in-digital-is-silent"
+translationKey: the-security-in-digital-is-silent
+thumb: /img/cds/thumbnails/the-security-in-digital-is-silent.jpg
+processed: 1550672961769
 ---
 
 I’ve come to the conclusion that writing about security is harder than actually doing it. This is likely due to having avoided talking or writing about what I’ve done at work for the better part of the last decade. Bear with me, this may be interesting.
@@ -39,3 +45,4 @@ Suffice it to say, we failed our own compliance checks, but were able to fix one
 Implementing secure connections may seem like a trivial issue to tackle as a one of our first ‘security’ projects. It’s simple, it’s safe, but it it’s also an area where there is still room for significant improvement, and we’re glad to help others. We’ll be talking more about our work on this project in the coming weeks so stay tuned for further details.
 
 My plan is to focus on the fundamentals and work towards the shiny. I hope you come along for the adventure.
+

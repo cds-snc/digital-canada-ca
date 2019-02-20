@@ -1,11 +1,20 @@
 ---
-title: "Framing a design problem: An inside look at the citizenship application process"
-description: "It’s an exciting time at the Canadian Digital Service (CDS) as we start rolling up our sleeves and digging into our first service delivery projects, while we are working hard on choosing our next partnership opportunities. One of our partners in these early projects is Immigration, Refugees and Citizenship Canada (IRCC)."
-author: Mario Garneau, Mithula Naik and Ryan Androsoff
-date: 2017-10-24 09:00:00 -0400
+title: >-
+  Framing a design problem: An inside look at the citizenship application
+  process
+description: >-
+  It’s an exciting time at the Canadian Digital Service (CDS) as we start
+  rolling up our sleeves and digging into our first service delivery projects,
+  while we are working hard on choosing our next partnership opportunities. One
+  of our partners in these early projects is Immigration, Refugees and
+  Citizenship Canada (IRCC).
+author: 'Mario Garneau, Mithula Naik and Ryan Androsoff'
+date: '2017-10-24 09:00:00 -0400'
 image: /img/cds/blog-framing-a-design-problem-2017.jpg
-image-alt: "A room full of empty chairs at a citizenship ceremony"
-translationKey: "framing-a-design-problem"
+image-alt: A room full of empty chairs at a citizenship ceremony
+translationKey: framing-a-design-problem
+thumb: /img/cds/thumbnails/blog-framing-a-design-problem-2017.jpg
+processed: 1550672961688
 ---
 It’s an exciting time at the Canadian Digital Service (CDS) as we start rolling up our sleeves and digging into our first service delivery projects, while we are working hard on [choosing our next partnership opportunities](/2017/08/24/picking-our-projects/). One of our partners in these early projects is Immigration, Refugees and Citizenship Canada (IRCC).
 
@@ -32,3 +41,4 @@ To better understand the problems we were tackling, we decided, in collaboration
 To familiarize ourselves with IRCC’s operational environment and conduct in-depth field research interacting with applicants going through their citizenship appointments we undertook field research. Some highlights included being a fly-on-the-wall and observing citizenship testing and a ceremony, conducting intercept interviews with clients who completed their appointments, and shadowing immigration officers to understand their daily routines and contexts. These quick yet immersive methods gave us a deeper sense of the needs, hopes, and concerns from the perspective of the users which will inform the rest of our design and development process.
 
 This, of course, is but the first step in our journey forward to better understand the various aspects of IRCC’s operations and the people it serves. Through our collaboration with IRCC, we are laying the foundation for deeper service redesign by building knowledge about service processes and user groups.
+

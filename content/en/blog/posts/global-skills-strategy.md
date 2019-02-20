@@ -1,11 +1,22 @@
 ---
-title: "How we used the Global Skills Strategy to hire experienced international talent"
-description: "When I started at the Canadian Digital Service (CDS), I was expecting challenges and opportunities, but I hadn’t really thought about the new roads we’d travel to hire the best people. In this blog post, I’ll share our experiences of working with Immigration, Refugees, and Citizenship Canada (IRCC) to bring specialists from around the world into CDS. Specifically, how we used the new Global Skills Strategy to hire our first international team member."
-author: Meera Makim Cunningham, Operations
-date: 2018-10-12 09:00:00 -0400
+title: >-
+  How we used the Global Skills Strategy to hire experienced international
+  talent
+description: >-
+  When I started at the Canadian Digital Service (CDS), I was expecting
+  challenges and opportunities, but I hadn’t really thought about the new roads
+  we’d travel to hire the best people. In this blog post, I’ll share our
+  experiences of working with Immigration, Refugees, and Citizenship Canada
+  (IRCC) to bring specialists from around the world into CDS. Specifically, how
+  we used the new Global Skills Strategy to hire our first international team
+  member.
+author: 'Meera Makim Cunningham, Operations'
+date: '2018-10-12 09:00:00 -0400'
 image: /img/cds/blog-global-skills-strategy.jpg
 image-alt: A woman in silver shoes standing on a subway platform.
-translationKey: "global-skills-strategy"
+translationKey: global-skills-strategy
+thumb: /img/cds/thumbnails/blog-global-skills-strategy.jpg
+processed: 1550672961706
 ---
 
 When I started at the Canadian Digital Service (CDS), I was expecting challenges and opportunities, but I hadn’t really thought about the new roads we’d travel to hire the best people. In this blog post, I’ll share our experiences of working with Immigration, Refugees, and Citizenship Canada (IRCC) to bring specialists from around the world into CDS. Specifically, how we used the new Global Skills Strategy to hire our first international team member.

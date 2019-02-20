@@ -1,11 +1,20 @@
 ---
-title: "Montrer l’iceberg en entier"
-description: "Bien entendu, nous sommes officiellement un bureau de services numériques. Mais si nous faisons preuve de la plus grande transparence possible quant à nos méthodes de travail, nous pouvons montrer les possibilités et assurer la prestation de meilleurs services, plus rapides et plus conviviaux auxquels les Canadiens s’attendent et qu’ils méritent."
-author: Charlotte Pedersen, renforcement des capacités
-date: 2018-07-31 09:00:00 -0400
+title: Montrer l’iceberg en entier
+description: >-
+  Bien entendu, nous sommes officiellement un bureau de services numériques.
+  Mais si nous faisons preuve de la plus grande transparence possible quant à
+  nos méthodes de travail, nous pouvons montrer les possibilités et assurer la
+  prestation de meilleurs services, plus rapides et plus conviviaux auxquels les
+  Canadiens s’attendent et qu’ils méritent.
+author: 'Charlotte Pedersen, renforcement des capacités'
+date: '2018-07-31 09:00:00 -0400'
 image: /img/cds/blog-iceberg-header.jpg
-image-alt: Une personne debout derrière un podium fait signe vers un iceberg qui flotte dans un aquarium, alors qu’un petit chien observe.
-translationKey: "showing-the-whole-iceberg"
+image-alt: >-
+  Une personne debout derrière un podium fait signe vers un iceberg qui flotte
+  dans un aquarium, alors qu’un petit chien observe.
+translationKey: showing-the-whole-iceberg
+thumb: /img/cds/thumbnails/blog-iceberg-header.jpg
+processed: 1550672962171
 ---
 
 *« Je crois que les équipes comme le SNC sont des équipes de gestion du changement déguisés en équipes de services numériques. »* – Aaron Snow, dirigeant principal
@@ -51,4 +60,5 @@ Mais ce que nous allons continuer à faire et à prioriser, c’est de travaille
 Pour y arriver, nous devons montrer l’iceberg en entier tout au long de notre parcours, le bon comme le mauvais, afin d’aider les autres à naviguer un peu mieux dans les eaux à l’avenir, tout comme nous avons pu le faire grâce à ceux qui nous ont précédés. 
 
 Nous sommes ravis d’effectuer ce parcours avec nos partenaires et le public pour aider les Canadiens. [Dites-nous](#contact-us-links) les points sur lesquels vous voulez en savoir plus. 
+
 

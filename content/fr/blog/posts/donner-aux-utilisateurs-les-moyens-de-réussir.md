@@ -1,12 +1,22 @@
 ---
-title: "Donner aux utilisateurs les moyens de réussir grâce à la conception de contenu"
-author: Zak Kain, concepteur de contenu
-date: 2018-06-12 09:00:00 -0400
+title: Donner aux utilisateurs les moyens de réussir grâce à la conception de contenu
+author: 'Zak Kain, concepteur de contenu'
+date: '2018-06-12 09:00:00 -0400'
 image: /img/cds/blog-setting-up-users-for-success.jpg
-image-alt: Des prototypes en format papier d’une version précédente du service pour reporter un rendez-vous de citoyenneté. Quatre pages sont présentées sur une table. Elles montrent un formulaire en ligne, un calendrier, une confirmation et des cases pour choisir une heure de rendez-vous.
-description: "Vous avez peut-être déjà lu que le SNC travaille avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) pour rendre le processus de report d’un rendez-vous d’examen de citoyenneté aussi pratique et facile que possible pour les demandeurs, tout en facilitant la vie du personnel administratif."
-image-translation: 
-translationKey: "setting-users-up-for-success-with-content-design"
+image-alt: >-
+  Des prototypes en format papier d’une version précédente du service pour
+  reporter un rendez-vous de citoyenneté. Quatre pages sont présentées sur une
+  table. Elles montrent un formulaire en ligne, un calendrier, une confirmation
+  et des cases pour choisir une heure de rendez-vous.
+description: >-
+  Vous avez peut-être déjà lu que le SNC travaille avec Immigration, Réfugiés et
+  Citoyenneté Canada (IRCC) pour rendre le processus de report d’un rendez-vous
+  d’examen de citoyenneté aussi pratique et facile que possible pour les
+  demandeurs, tout en facilitant la vie du personnel administratif.
+image-translation: null
+translationKey: setting-users-up-for-success-with-content-design
+thumb: /img/cds/thumbnails/blog-setting-up-users-for-success.jpg
+processed: 1550672961832
 ---
 
 Vous avez peut-être déjà lu que le SNC travaille avec [Immigration, Réfugiés et Citoyenneté Canada (IRCC)](https://numerique.canada.ca/2017/10/24/circonscrire-un-probleme-de-conception/) pour rendre le processus de [report d’un rendez-vous d’examen de citoyenneté](https://numerique.canada.ca/2018/04/13/reporter-un-rendez-vous-dexamen/) aussi pratique et facile que possible pour les demandeurs, tout en facilitant la vie du personnel administratif.
@@ -105,3 +115,4 @@ Ce texte a apaisé les inquiétudes des utilisateurs au sujet du report et les a
 Lorsqu’un service est conçu de façon itérative et selon une approche «&nbsp;recherche d’abord&nbsp;», les concepteurs acquièrent un aperçu du modèle mental des utilisateurs et de la façon dont ils réfléchissent aux problèmes qu’ils rencontrent dans un service.
 
 Tenir compte des principes de conception de contenu de haut niveau comme «&nbsp;établir les attentes dès le départ&nbsp;» et «&nbsp;permettre à l’espace lié à l’information critique de respirer&nbsp;» aide l’équipe de conception du SNC à créer des produits et des services plus accessibles et efficaces.
+

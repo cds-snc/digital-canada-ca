@@ -1,11 +1,16 @@
 ---
-title: "The first one is always a challenge..."
-description: "During our engagement sessions, people told us that the government needed to identify ways to enable non-traditional players to work with government and co-create solutions.  "
+title: The first one is always a challenge...
+description: >-
+  During our engagement sessions, people told us that the government needed to
+  identify ways to enable non-traditional players to work with government and
+  co-create solutions.  
 author: Mario Garneau and Wendy Luciani
-date: 2017-12-07 09:00:00 -0400
+date: '2017-12-07 09:00:00 -0400'
 image: /img/cds/blog-always-a-challenge-2017.jpg
-image-alt: "The homepage of the Impact Canada Challenge Platform"
-translationKey: "always-a-challenge"
+image-alt: The homepage of the Impact Canada Challenge Platform
+translationKey: always-a-challenge
+thumb: /img/cds/thumbnails/blog-always-a-challenge-2017.jpg
+processed: 1550672961655
 ---
 During our [engagement sessions](/beginning-the-conversation/full-report/), people told us that the government needed to identify ways to enable non-traditional players to work with government and co-create solutions.  
 
@@ -54,3 +59,4 @@ We moved from the initial prototype to the beta launch in about two months. Laun
 PCO is responsible for the [Impact Canada Challenge Platform](https://impact.canada.ca/en) and is leading efforts to identify and post challenges with Government of Canada departments. If you have questions about the Impact Canada Initiative, you can [contact PCO by email](mailto:iiu-uii@pco-bcp.gc.ca). 
 
 If you have questions or comments on our approach to this partnership build, we’d be happy to [hear from you](#contact-us-links). We’re hosting a show and tell on December 8th where we will talk about this and our other early projects on the go! Register to attend via [webcast](https://www.eventbrite.ca/e/cds-show-and-tell-webcast-presentation-du-snc-web-diffusion-tickets-40847158952). 
+

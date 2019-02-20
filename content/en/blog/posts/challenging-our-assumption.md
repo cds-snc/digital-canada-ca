@@ -1,11 +1,13 @@
 ---
-title: "Accessibility at CDS: Challenging our assumptions about ambient imagery"
-description: "We recently received some feedback through our Github repository regarding the accessibility of the hero images we use on some pages of our website, including the blog posts."
-author: Dave Samojlenko, Developer
-date: 2018-01-16 09:00:00 -0400
+title: 'Accessibility at CDS: Challenging our assumptions about ambient imagery'
+description: "We recently received some feedback through our\_Github repository regarding the accessibility of the hero images we use on some pages of our website, including the blog posts."
+author: 'Dave Samojlenko, Developer'
+date: '2018-01-16 09:00:00 -0400'
 image: /img/cds/blog-accessibility-2018.jpg
-image-alt: "Keyboard with keys representing accessibility features"
-translationKey: "challenging-our-assumption"
+image-alt: Keyboard with keys representing accessibility features
+translationKey: challenging-our-assumption
+thumb: /img/cds/thumbnails/blog-accessibility-2018.jpg
+processed: 1550672961668
 ---
 
 We recently received some feedback through our [Github repository](https://github.com/cds-snc/digital-canada-ca) regarding the accessibility of the "hero" images we use on some pages of our website, including the blog posts.
@@ -36,3 +38,4 @@ There are so many great resources on the web for learning about accessibility. T
 * [GDS Accessibility Blog](https://accessibility.blog.gov.uk/)
 
 We will continue to blog about accessibility and would love to [hear from you](mailto:cds-snc@tbs-sct.gc.ca) if you have comments, topic suggestions, or ways to improve the accessibility of any of our projects.
+
