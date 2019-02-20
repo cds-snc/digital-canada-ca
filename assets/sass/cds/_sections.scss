@@ -743,51 +743,59 @@ span.live, span.livefr {
 // WORK WITH US
 //
 ////////////////////////////////////////////////////
-	.cell-background {
-        background: $wwu-blue;
-        border-radius: 20px;
-		padding: 1rem 2rem 1rem 3rem;
-		color: $white;
-        margin-bottom: 3rem;
-	    
-	    @include mobile-only{
-		   	padding-top: 1rem;
-	    		padding-bottom: 2rem; 
-	    }
-		a{
-			color: $white;
-			border-bottom: $primary-color 1px dotted;
-			
-			 &:hover {
-            		border-bottom: $primary-color 1px solid;
-        		}
-			
-			@include mobile-only{
-				font-size: 1.75rem;
-			}
-		}
-		li{
-			color: $primary-color;
-			@include mobile-only{
-				margin-bottom: 1rem;
-			}
-		}
-
-		h4{
-			@include mobile-only{
-				font-size: 1.75rem;
-			}
-			
-			font-size: 2.25rem; 
-			font-weight: 500; 
-			margin-bottom: 2rem;
-		}
+.cell-background {
+    background: $wwu-blue;
+    border-radius: 20px;
+    padding: 1rem 2rem 1rem 3rem;
+    color: $white;
+    margin-bottom: 3rem;
+    
+    @include mobile-only{
+        padding-top: 1rem;
+        padding-bottom: 2rem; 
+    }
+    a{
+        color: $white;
+        border-bottom: $primary-color 1px dotted;
+        
+            &:hover {
+                border-bottom: $primary-color 1px solid;
+            }
+        
+        @include mobile-only{
+            font-size: 1.75rem;
+        }
+    }
+    li{
+        color: $primary-color;
+        @include mobile-only{
+            margin-bottom: 1rem;
+        }
     }
 
+    h4{
+        @include mobile-only{
+            font-size: 1.75rem;
+        }
+        
+        font-size: 2.25rem; 
+        font-weight: 500; 
+        margin-bottom: 2rem;
+    }
+}
+
 .work-with-us--details {
-    border-top: $medium-grey 1px solid;
-	padding-bottom: 4rem;
+    // border-top: $medium-grey 1px solid;
+    padding-bottom: 4rem;
+    padding-top: 0rem;
 //	this needs standardizing ^
+
+    // below addresses stylistic change request to make spacing around element look more uniform to the rest of the page
+    .page-wide--outer-container-padding {
+        @include mobile-only {
+            padding-top: 0;
+        }
+    }
 }
 
 .work-with-us--looking-for {
