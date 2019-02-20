@@ -1,11 +1,18 @@
 ---
-title: "La première demande de propositions du SNC : Huit choses à savoir"
-description: "Avez-vous le désir d'appuyer notre mandat afin d'améliorer les services  pour les nouveaux arrivants au Canada, les anciens combattants, les aînés et bien d'autres personnes? Aidez-nous à mettre en oeuvre et faire avancer le gouvernement numérique au Canada, en trouvant des gens formidables et en offrant de la formation pour renforcer la capacité numérique du gouvernement."
-author: Stevie-Ray Talbot, politiques
-date: 2018-08-31 09:00:00 -0400
+title: 'La première demande de propositions du SNC : Huit choses à savoir'
+description: >-
+  Avez-vous le désir d'appuyer notre mandat afin d'améliorer les services  pour
+  les nouveaux arrivants au Canada, les anciens combattants, les aînés et bien
+  d'autres personnes? Aidez-nous à mettre en oeuvre et faire avancer le
+  gouvernement numérique au Canada, en trouvant des gens formidables et en
+  offrant de la formation pour renforcer la capacité numérique du gouvernement.
+author: 'Stevie-Ray Talbot, politiques'
+date: '2018-08-31 09:00:00 -0400'
 image: /img/cds/rfp_fr.jpg
-image-alt: Des autocollants en forme de feuilles d'érables avec les mots, fort et libre.
-translationKey: "rfp"
+image-alt: 'Des autocollants en forme de feuilles d''érables avec les mots, fort et libre.'
+translationKey: rfp
+thumb: /img/cds/thumbnails/rfp_fr.jpg
+processed: 1550672961826
 ---
 Aujourd'hui, nous (le Service numérique canadien) avons lancé une [demande de propositions](https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/appels-d-offres/PW-18-00841347). 
 
@@ -125,4 +132,5 @@ Estimation du temps nécessaire à l'évaluation : 1 semaine par tranche de 10 
 **Principales coordonnées**
 
 Si vous avez des questions ou besoin de précisions au sujet de la demande de propositions, ne communiquez pas avec le SNC ou ses employés. Communiquez avec Neil Charbonneau, des Services des marchés du Secrétariat du Conseil du Trésor, à l'adresse [Neil.Charbonneau@tbs-sct.gc.ca](mailto:Neil.Charbonneau@tbs-sct.gc.ca) et [zzTBSCONT@tbs-sct.gc.ca](mailto:zzTBSCONT@tbs-sct.gc.ca) 
+
 

@@ -1,11 +1,16 @@
 ---
-title: "Utilisez les outils dont vous avez besoin pour faire du bon travail"
-description: "Afin d’adopter des pratiques numériques modernes, il est également important d’avoir les outils – à la fois les appareils et les logiciels – qui rendent cela possible."
-author: Sean Boots, équipe des politiques
-date: 2018-06-27 09:00:00 -0400
-image: /img/cds/blog-tools-for-work-2018.jpeg
+title: Utilisez les outils dont vous avez besoin pour faire du bon travail
+description: >-
+  Afin d’adopter des pratiques numériques modernes, il est également important
+  d’avoir les outils – à la fois les appareils et les logiciels – qui rendent
+  cela possible.
+author: 'Sean Boots, équipe des politiques'
+date: '2018-06-27 09:00:00 -0400'
+image: /img/cds/blog-tools-for-work-2018.jpg
 image-alt: Plusieurs ordinateurs MacBook couverts d'autocollants sur une table.
-translationKey: "tools-to-do-good-work"
+translationKey: tools-to-do-good-work
+thumb: /img/cds/thumbnails/blog-tools-for-work-2018.jpg
+processed: 1550672962188
 ---
 
 Nous avons déjà blogué sur l’importance des [tests automatisés](https://numerique.canada.ca/2018/03/26/les-tests-automatises/), de [l’intégration continue](https://numerique.canada.ca/2018/05/16/reduire-le-risque-grace-au-deploiement-continu/), et certains de nos premiers [choix de plateformes technologiques](https://numerique.canada.ca/2017/11/06/les-choix-technologiques-du-snc/). Afin d’adopter des pratiques numériques modernes, il est également important d’avoir les outils – à la fois les appareils et les logiciels – qui rendent cela possible.

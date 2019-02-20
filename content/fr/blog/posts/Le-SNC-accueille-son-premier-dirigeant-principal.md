@@ -1,11 +1,16 @@
 ---
-title: "Le SNC accueille son premier dirigeant principal&nbsp;: Aaron Snow"
-description: "En septembre, Yaprak Baltacıoğlu, secrétaire du Conseil du Trésor, a lancé la recherche du premier dirigeant principal du SNC. Cet exercice a attiré des candidats de partout dans le monde."
-author: Anatole Papadopoulos, directeur exécutif
-date: 2018-03-09 09:00:00 -0400
+title: 'Le SNC accueille son premier dirigeant principal&nbsp;: Aaron Snow'
+description: >-
+  En septembre, Yaprak Baltacıoğlu, secrétaire du Conseil du Trésor, a lancé la
+  recherche du premier dirigeant principal du SNC. Cet exercice a attiré des
+  candidats de partout dans le monde.
+author: "Anatole\_Papadopoulos, directeur exécutif"
+date: '2018-03-09 09:00:00 -0400'
 image: /img/cds/blog-aaron-snow.jpg
 image-alt: Aaron Snow
-translationKey: "CDS-gets-its-first-CEO"
+translationKey: CDS-gets-its-first-CEO
+thumb: /img/cds/thumbnails/blog-aaron-snow.jpg
+processed: 1550672961791
 ---
 
 En septembre, Yaprak Baltacıoğlu, secrétaire du Conseil du Trésor, [a lancé la recherche du premier dirigeant principal du SNC](https://numerique.canada.ca/2017/09/12/recherche-dirigeant-principal-du-service-numerique-canadien/). Cet exercice a attiré des candidats de partout dans le monde.
@@ -28,3 +33,4 @@ En tant que dirigeant principal, il travaillera de concert avec le dirigeant pri
 Au nom de l’équipe du SNC, je tiens à remercier sincèrement tous ceux et celles qui ont postulé. Je suis toujours renversé – et je l’étais avant même que le SNC voit le jour officiellement – par la générosité avec laquelle nos collègues de partout au Canada et de partout au monde partagent leur expérience, leçons et sagesse avec nous. L’intérêt qu’ont démontré plusieurs leaders à vouloir s’unir à notre mission n’a fait que renforcer le dévouement et le sentiment d’appartenance à une communauté associés au mouvement gouvernemental numérique grandissant.  
 
 Nous sommes plus qu’enchantés d’accueillir Aaron au SNC en avril. Aaron, toute l’équipe est impatiente de vous appuyer dans votre nouveau rôle. Je suis certain que nos partenaires de l’ensemble du gouvernement partageront notre enthousiasme quant au leadership que vous procurerez en vue de développer de meilleurs services ici au Canada.  
+

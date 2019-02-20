@@ -9,6 +9,8 @@ date: 2019-01-03T14:00:04.407Z
 image: /img/cds/nordwood-themes-1066398-unsplash.jpg
 image-alt: '2019 written in fireworks, Photo: NordWood Themes/Unsplash'
 translationKey: unleash-talent
+thumb: /img/cds/thumbnails/nordwood-themes-1066398-unsplash.jpg
+processed: 1550672961778
 ---
 After two years building CDS, I wanted to share a few thoughts on what I’ve learned. With our partners, we’re changing how government designs and delivers services, but there’s a long way to go. Here’s how we can get there:
 
@@ -33,3 +35,4 @@ Modern service delivery calls for multidisciplinary teams to tackle complex prob
 Let’s get creative in how we bring the brightest minds to government. When we recruit, let’s look for skills over credentials and create career paths so that good people stay. Interchange is a powerful mechanism for bringing folks into the public service — don’t be afraid to use it. And not everyone wants to move to Ottawa-Gatineau — find ways to make remote work a great experience. Finally, large requests for proposals (RFPs) can be impenetrable for smaller organizations. Use smaller contracts to help small firms to contribute and allow for more course correction.
 
 _Biographical note: Pascale Elvas was a founder and Senior Director at the Canadian Digital Service. In December 2018, she started a new challenge with the Treasury Board Secretariat. She is standing up a secretariat to help 75 departments review their practices for collecting and using sex and gender information — an area in which Canada can be a world leader in inclusive service design. The review will touch on everything from digital (interoperability and identity management), to service delivery (by phone, in person, online), to social policy (what data is really needed and what it is being used for?)._
+

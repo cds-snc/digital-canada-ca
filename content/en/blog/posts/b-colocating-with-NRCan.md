@@ -1,11 +1,16 @@
 ---
-title: "Co-locating with NRCan for a week: Part 2"
-description: "We are building a public-facing application programming interface (API) for National Resources Canada to open up access to EnerGuide Home Energy Ratings data."
-author: Jason White, Head of data science
-date: 2018-02-15 09:00:00 -0400
+title: 'Co-locating with NRCan for a week: Part 2'
+description: >-
+  We are building a public-facing application programming interface (API) for
+  National Resources Canada to open up access to EnerGuide Home Energy Ratings
+  data.
+author: 'Jason White, Head of data science'
+date: '2018-02-15 09:00:00 -0400'
 image: /img/cds/blog-colocating-with-NRCAN.jpg
 image-alt: Jason and Dave standing in front of the building of Natural Resources Canada
-translationKey: "colocating-with-NRCan"
+translationKey: colocating-with-NRCan
+thumb: /img/cds/thumbnails/blog-colocating-with-NRCAN.jpg
+processed: 1550672961662
 ---
 
 We are building a public-facing application programming interface (API) for Natural Resources Canada to open up access to EnerGuide Home Energy Ratings data. We talk about the details of this partnership in our post [Conducting user research with NRCan to inform an API build - Part 1](/2018/02/15/a-conducting-user-research-with-nrcan/).
@@ -29,3 +34,4 @@ Given the benefits of our co-locating experience, we would recommend the followi
 5. Have team conversations in public on [Slack](https://slack.com); it’s easy to feel isolated and disconnected from the team.
 
 As always, [we would love to hear](mailto:cds-snc@tbs-sct.gc.ca) your feedback on this specific partnership and on our work in general.
+

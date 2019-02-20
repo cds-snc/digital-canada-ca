@@ -9,6 +9,8 @@ date: 2018-12-04T14:30:00.000Z
 image: /img/cds/magnificent-cloud.jpg
 image-alt: A magnificent cloud rises above the trees.
 translationKey: from-code-to-cloud
+thumb: /img/cds/thumbnails/magnificent-cloud.jpg
+processed: 1550672961732
 ---
 At CDS, we’re currently working on a [web app](https://github.com/cds-snc/vac-benefits-directory) with Veterans Affairs Canada (VAC). The app will help Veterans and their families find benefits and programs that are relevant to them. That means it needs to keep track of a lot of content: the user interface (UI) text, titles and one-line descriptions of the benefits, multiple choice questions, tags associated with the benefits, VAC office addresses, and more, none of which was personal data or information. And, of course, all this text is in English and French.
 
@@ -26,3 +28,4 @@ We still had a problem though. Static app content (like our headers and buttons)
 So, we moved the rest of this app content to the cloud! We added a general “translations” sheet to our Airtable base. Each row contains a key that gets referenced in our source code, as well as the English and French display text. And we added a hidden “refresh cache” button that allows content editors to see changes instantly in the app.
 
 Not only are the developers happy, but designers and content owners, at both CDS and VAC, are now able to change content as needed, quickly and easily.
+

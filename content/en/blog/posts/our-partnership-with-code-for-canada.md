@@ -1,11 +1,18 @@
 ---
-title: "Our partnership with Code for Canada"
-description: "This past fall, we brought on one of the first two cohorts of Code for Canada (C4C) fellows, the other joining our colleagues in the Government of Ontario. This post outlines how to make the most out of a potential partnership!"
-author: John Millons, Policy and engagement
-date: 2018-04-19 09:00:00 -0400
+title: Our partnership with Code for Canada
+description: >-
+  This past fall, we brought on one of the first two cohorts of Code for Canada
+  (C4C) fellows, the other joining our colleagues in the Government of Ontario.
+  This post outlines how to make the most out of a potential partnership!
+author: 'John Millons, Policy and engagement'
+date: '2018-04-19 09:00:00 -0400'
 image: /img/cds/blog-c4c.jpg
-image-alt: The six members of the first cohort of Code for Canada fellows outside the provincial parliament building in Toronto.
-translationKey: "our-partnership-with-code-for-canada"
+image-alt: >-
+  The six members of the first cohort of Code for Canada fellows outside the
+  provincial parliament building in Toronto.
+translationKey: our-partnership-with-code-for-canada
+thumb: /img/cds/thumbnails/blog-c4c.jpg
+processed: 1550672961733
 ---
 
 This past fall, we brought on one of the first two cohorts of [Code for Canada](https://codefor.ca/) (C4C) fellows, the other joining our colleagues in the Government of Ontario. This post outlines how to make the most out of a potential partnership!
@@ -49,3 +56,4 @@ So how do you make the most of the partnership? Here are the keys from our persp
 Working with C4C has been an exciting opportunity as we share common goals of building better public services and improving digital capacity across government! Participating in the fellowship program is a great opportunity to strengthen the multi-disciplinary approach to problem solving in your organization. Dan, Raluca and Leon have each brought unique expertise and perspectives to CDS that are integral to designing and delivering user-centered services!
 
 [Get in touch with us](mailto:cds-snc@tbs-sct.gc.ca) or with [C4C](mailto:dorothy@codefor.ca) to learn more about our experience or how you can get involved!
+

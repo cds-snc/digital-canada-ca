@@ -1,11 +1,17 @@
 ---
-title: "Hiring at CDS: How we make it work in a start-up environment"
-description: "There’s a lot of interest on how we are recruiting and staffing up a digital services team that can hit the ground running and help solve service challenges across the Government. This is why I am super excited to be writing a blog post about our hiring practices at CDS."
-author: Meera Makim Cunningham, Internal operations
-date: 2018-01-09 09:00:00 -0400
+title: 'Hiring at CDS: How we make it work in a start-up environment'
+description: >-
+  There’s a lot of interest on how we are recruiting and staffing up a digital
+  services team that can hit the ground running and help solve service
+  challenges across the Government. This is why I am super excited to be writing
+  a blog post about our hiring practices at CDS.
+author: 'Meera Makim Cunningham, Internal operations'
+date: '2018-01-09 09:00:00 -0400'
 image: /img/cds/blog-hiring-2018.jpg
-image-alt: "Team members of CDS"
-translationKey: "hiring-at-cds"
+image-alt: Team members of CDS
+translationKey: hiring-at-cds
+thumb: /img/cds/thumbnails/blog-hiring-2018.jpg
+processed: 1550672961713
 ---
 There’s a lot of interest on how we are recruiting and staffing up a digital services team that can hit the ground running and help solve service challenges across the Government. This is why I am super excited to be writing a blog post about our hiring practices at CDS.
 
@@ -36,4 +42,5 @@ If you are interested in knowing more about how CDS is using Interchange to buil
 There’s a lot to talk about and a lot to share. We’ll be sure to continue this discussion as we onboard more talent from a diversity of disciplines, using a versatile approach to building CDS in the best way possible.
 
 Do you have questions or comments on our recruitment practices? What kind of recruitment and staffing approaches do you think work well? Are there other ways to be agile in recruiting and hiring in the public service? [Let us know](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca).
+
 

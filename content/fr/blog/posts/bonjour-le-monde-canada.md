@@ -1,11 +1,18 @@
 ---
-title: "Bonjour, <strike>le Monde</strike> Canada"
-description: "Le Service numérique canadien a un peu plus d’un an, et comme j’ai eu l’honneur de faire partie de cette équipe depuis maintenant six mois, il est grand temps que j’écrive quelques mots ici. Permettez-moi de commencer par ceci : je me lève chaque matin enthousiasmé par ce que nous faisons et ce qui nous attend."
-author: Aaron Snow, Dirigeant principal
-date: 2018-10-19 09:00:00 -0400
-image: /img/cds/blog-hello-world-canada.png
+title: 'Bonjour, <strike>le Monde</strike> Canada'
+description: >-
+  Le Service numérique canadien a un peu plus d’un an, et comme j’ai eu
+  l’honneur de faire partie de cette équipe depuis maintenant six mois, il est
+  grand temps que j’écrive quelques mots ici. Permettez-moi de commencer par
+  ceci : je me lève chaque matin enthousiasmé par ce que nous faisons et ce qui
+  nous attend.
+author: 'Aaron Snow, Dirigeant principal'
+date: '2018-10-19 09:00:00 -0400'
+image: /img/cds/blog-hello-world-canada.jpg
 image-alt: Des feuilles d’érable rouge.
-translationKey: "hello-world-canada"
+translationKey: hello-world-canada
+thumb: /img/cds/thumbnails/blog-hello-world-canada.jpg
+processed: 1550672961801
 ---
 
 Bonjour! Le Service numérique canadien a un peu plus d’un an, et comme j’ai eu l’honneur de faire partie de cette équipe depuis maintenant six mois, il est grand temps que j’écrive quelques mots ici.

@@ -1,11 +1,20 @@
 ---
-title:  "Lancement du Service numérique canadien"
-description: "Le gouvernement du Canada a la possibilité et la responsabilité de fournir des services de classe mondiale aux Canadiens. Pendant la période de transition aux modèles souples de prestation numérique, il y aura des interruptions aux plans technique et culturel. Dans le but d’accélérer ces efforts, je suis heureux d’annoncer le lancement du Service numérique canadien (SNC) pour moderniser la façon dont le gouvernement du Canada conçoit et offre les services numériques."
-author: L'honorable Scott Brison, Président du Conseil du Trésor
-date:   2017-07-18 09:00:00 -0400
+title: Lancement du Service numérique canadien
+description: >-
+  Le gouvernement du Canada a la possibilité et la responsabilité de fournir des
+  services de classe mondiale aux Canadiens. Pendant la période de transition
+  aux modèles souples de prestation numérique, il y aura des interruptions aux
+  plans technique et culturel. Dans le but d’accélérer ces efforts, je suis
+  heureux d’annoncer le lancement du Service numérique canadien (SNC) pour
+  moderniser la façon dont le gouvernement du Canada conçoit et offre les
+  services numériques.
+author: 'L''honorable Scott Brison, Président du Conseil du Trésor'
+date: '2017-07-18 09:00:00 -0400'
 image: /img/cds/launch-post-2017.jpg
-image-alt: "L'honorable Scott Brison, Président du Conseil du Trésor"
-translationKey: "launch-of-the-canadian-digital-service"
+image-alt: 'L''honorable Scott Brison, Président du Conseil du Trésor'
+translationKey: launch-of-the-canadian-digital-service
+thumb: /img/cds/thumbnails/launch-post-2017.jpg
+processed: 1550672961842
 ---
 Les Canadiens méritent des services gouvernementaux accessibles et faciles à utiliser. Ils s’attendent à ce que leur gouvernement fournisse des services axés sur les citoyens. Dans ce monde hyper connecté du 21<sup>e</sup> siècle, un service de qualité entend la prestation numérique, qu’il s’agisse de commander un mets à emporter, de renouveler son hypothèque, de gérer ses ordonnances ou d’accéder à des programmes et services gouvernementaux.
 
@@ -21,3 +30,4 @@ Comme j’ai souvent dit, dans ce monde, si l’on n’est pas numérique, on es
 Nous devons changer notre façon de faire. Le SNC n’est qu’un outil dans la trousse, mais il représente une indication claire de notre engagement. Nous ne sommes pas le premier service numérique gouvernemental au monde, mais je suis convaincu que nous pouvons être le meilleur.
 
 J’espère que vous allez vous joindre à nous dans cette transition. Je serai heureux de vous faire part des progrès, alors que débute vraiment la mise en œuvre.
+

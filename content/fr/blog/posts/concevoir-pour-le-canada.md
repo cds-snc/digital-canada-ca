@@ -1,11 +1,16 @@
 ---
-title: "Concevoir pour le Canada"
-description: "Après un bref congé sabbatique et une décennie passée au Royaume-Uni, je suis fier d’annoncer que je serai le premier chef de la conception au Service numérique canadien (SNC), une nouvelle initiative du gouvernement du Canada."
-author: Chris Govias, conception
-date: 2017-09-21 09:00:00 -0400
+title: Concevoir pour le Canada
+description: >-
+  Après un bref congé sabbatique et une décennie passée au Royaume-Uni, je suis
+  fier d’annoncer que je serai le premier chef de la conception au Service
+  numérique canadien (SNC), une nouvelle initiative du gouvernement du Canada.
+author: 'Chris Govias, conception'
+date: '2017-09-21 09:00:00 -0400'
 image: /img/cds/blog-designing-for-canada-2017.jpg
-image-alt: "Chris Govias, Design"
-translationKey: "designing-for-canada/"
+image-alt: 'Chris Govias, Design'
+translationKey: designing-for-canada/
+thumb: /img/cds/thumbnails/blog-designing-for-canada-2017.jpg
+processed: 1550672961819
 ---
 Après un bref congé sabbatique et une décennie passée au Royaume-Uni, je suis fier d’annoncer que je serai le premier chef de la conception au Service numérique canadien (SNC), une nouvelle initiative du gouvernement du Canada.
 
@@ -16,3 +21,4 @@ Les Canadiens s’attendent à ce que les services en ligne soient, comme Gmail 
 Depuis le lancement du SNC cet été, la portée des projets s’est élargie et la charge de travail de l’équipe a augmenté considérablement. Au cours des mois à venir, le SNC entend [embaucher divers types de concepteurs](/travaillez-avec-nous/). Si vous voulez vous joindre à l’équipe, n’hésitez pas à communiquer avec nous.
 
 Je crois fermement que la conception est la meilleure façon d’avoir un impact. Au SNC, vous travaillerez sur des projets importants dans un environnement de travail ouvert, transparent, inclusif et diversifié afin d’améliorer la vie de vos concitoyens canadiens. C’est aussi simple que ça.
+

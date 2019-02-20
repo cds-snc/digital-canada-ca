@@ -1,11 +1,15 @@
 ---
-title: "À la recherche de la diversité : assister au défilé de fierté gaie d’Ottawa"
-description: "« C’était simplement la bonne chose à faire. Tant de gens nous ont dit qu’ils voulaient participer, mais qu’ils ne savaient simplement pas comment. »"
-author: Lynn Chalati, amie en communications 
-date: 2018-10-30 09:00:00 -0400
+title: 'À la recherche de la diversité : assister au défilé de fierté gaie d’Ottawa'
+description: >-
+  « C’était simplement la bonne chose à faire. Tant de gens nous ont dit qu’ils
+  voulaient participer, mais qu’ils ne savaient simplement pas comment. »
+author: 'Lynn Chalati, amie en communications'
+date: '2018-10-30 09:00:00 -0400'
 image: /img/cds/blog-striving-for-diversity.jpg
 image-alt: Une bannière de ruban bleu avec les mots « a mari usque ad mare » en jaune.
 translationKey: striving-for-diversity
+thumb: /img/cds/thumbnails/blog-striving-for-diversity.jpg
+processed: 1550672961794
 ---
 
 L’un des principaux avantages de travailler pour le Service numérique canadien (SNC) est que nous avons la possibilité de servir les Canadiens tous les jours. Les fonctionnaires s’efforcent d’avoir des répercussions positives sur les gens partout au Canada. En fait, la devise du Canada est *a mari usque ad mare*, qui signifie *d’un océan à l’autre*, et c’est la vérité. Cela dit, l’expression d’un océan à l’autre englobe beaucoup de gens. Les Autochtones, les immigrants, les réfugiés et les familles qui sont ici depuis des générations, des personnes de toutes les cultures, races, religions, identités et origines. Comment pouvons-nous servir tous ces groupes sur des principes d’égalité et d’équité? Pour commencer, nous pouvons bâtir des équipes aussi diversifiées que les gens que nous servons.
@@ -27,4 +31,5 @@ C’est ce que nous essayons de faire au SNC, et nous avons besoin de votre aide
 ![Les employés du SNC, y compris un collègue à distance sur un écran, prennent une photo de la fierté en tenant des drapeaux de la fierté.](/img/cds/blog-striving-for-diversity.jpg)
 
 Des félicitations spéciales à tous les ministères participants qui ont pris part au défilé de la fierté gaie et aux fonctionnaires dévoués qui travaillent jour après jour pour appuyer la diversité au sein du gouvernement du Canada, tout comme James.
+
 

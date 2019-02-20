@@ -1,11 +1,16 @@
 ---
-title: "0-100 kilometres per hour: getting up to speed on an agile team"
-description: "Coming into a new environment, given the right setup, can be a smooth ramp up and a quick transition into being productive without causing a lot of friction and slowdowns for the existing team."
-author: Tim Arney, Developer
-date: 2018-10-16 09:00:00 -0400
-image: /img/cds/blog-up-to-speed.png
+title: '0-100 kilometres per hour: getting up to speed on an agile team'
+description: >-
+  Coming into a new environment, given the right setup, can be a smooth ramp up
+  and a quick transition into being productive without causing a lot of friction
+  and slowdowns for the existing team.
+author: 'Tim Arney, Developer'
+date: '2018-10-16 09:00:00 -0400'
+image: /img/cds/blog-up-to-speed.jpg
 image-alt: Car dashboard showing speedometer.
-translationKey: "getting-up-to-speed"
+translationKey: getting-up-to-speed
+thumb: /img/cds/thumbnails/blog-up-to-speed.jpg
+processed: 1550672961704
 ---
 
 Driving someone else's vehicle can sometimes feel a little off. Mirrors need to be adjusted, seats repositioned, gauges moved to your comfort zone. It's not your car, but you still have a general sense of where things should be and roughly how they should work. Joining a new team should be the same. Walking in, you should be able to get a sense of how things work fairly quickly.  Joining a new team shouldn’t feel like getting into a helicopter with no training and being asked to fly it. 
