@@ -16,12 +16,13 @@
     "webpack": "^4.29.0"
   },
   "devDependencies": {
+    "node-yaml": "^3.1.1",
     "webpack-cli": "^3.2.1"
   },
   "scripts": {
-    "dev": "npm run process:blog-images && webpack && hugo server -D",
-    "process:blog-images": "node util/processBlogImages",
-    "build": "npm run process:blog-images && webpack && hugo",
+    "dev": "npm run process:images && webpack && hugo server -D",
+    "process:images": "node util/processBlogImages && node util/processTeamImages",
+    "build": "npm run process:images && webpack && hugo",
     "build_admin": "webpack --config webpack.config.js",
     "build:stage": "webpack && hugo --environment staging"
   },
