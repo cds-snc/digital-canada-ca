@@ -17,7 +17,7 @@ const frontMatter = (dirName, fileName, ext, paths = { large, thumb }) => {
     .data((data, matter) => {
 
       if (data.processed) {
-        console.log("processed => ", data.processed)
+        // console.log("processed => ", data.processed)
         imageInfo = { processed: data.processed };
         saveFile = false
         return;
@@ -43,7 +43,7 @@ const frontMatter = (dirName, fileName, ext, paths = { large, thumb }) => {
         console.log("failed to save front matter data", err);
       }
 
-      console.log(`saved ${destPath}`)
+      console.log(`saved ${destPath}`);
     })
   }
 
@@ -60,7 +60,7 @@ const start = (lang, markdownDir) => {
 
   readFileDir(markdownDir, (dirName, fileName) => {
 
-    console.log(`read ${dirName}/${fileName}`);
+    // console.log(`read ${dirName}/${fileName}`);
 
     const imageInfo = frontMatter(dirName, fileName, '.jpg', { large: largeImagePath, thumb: thumbImagePath });
 
