@@ -22,9 +22,9 @@ We are evaluating scopes one at a time in this order:
 
 Companies that submitted bids for Scope 2 will hear back from us within the next two weeks. 
 
-We are currently working through Scope 1 evaluations and aim to have responses for bidders by mid-February. 
+We are currently working through Scope 1 evaluations and aim to have responses for bidders by mid-March. 
 
-We aim to have responses for bidders for Scope 3 by early March. 
+We aim to have responses for bidders for Scope 3 by mid-April. 
 
 ## Reminders
 
