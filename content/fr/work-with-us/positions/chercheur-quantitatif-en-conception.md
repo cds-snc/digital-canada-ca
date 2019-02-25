@@ -49,4 +49,4 @@ Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethniqu
 
 ## Vous êtes intéressé?
 
-Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Chercheur quantitatif en conception » dans la ligne d’objet. Dites-nous pourquoi vous êtes la bonne personne pour ce poste. Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisme et que personne ne répond parfaitement à toutes les exigences. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
+Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Chercheur quantitatif en conception » dans la ligne d’objet. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
