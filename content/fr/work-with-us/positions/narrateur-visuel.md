@@ -17,14 +17,15 @@ Le Service numérique canadien se concentre sur la prestation de services public
 
 En tant qu’équipe de liaison et diffusion, nous sommes les narrateurs du SNC. Nous racontons les histoires qui aident les fonctionnaires à améliorer les services gouvernementaux et à rendre la vie des gens meilleure. Si vous êtes prêt à nous aider à utiliser moins de mots et plus d’images, alors ce rôle est pour vous. 
 
-## Nous sommes à la recherche d’une personne pour les tâches suivantes:
+## Nous sommes à la recherche d’une personne pour les tâches suivantes :
+
 * Nous aider à raconter nos histoires de façon visuelle : que cela soit avec des photos, des illustrations, des animations ou des vidéos. Nous n’avons pas besoin que vous soyez un expert en toutes choses. Nous sommes à la recherche d’une personne qui est réellement bonne dans l’une ou deux de ces choses et qui s’intéresse à être bonne dans les autres.
 * Apprendre à connaître notre public et à trouver exactement les images appropriées pour l’aider à ressentir quelque chose.
 * Créer de belles images fixes et mobiles qui améliorent notre blogue, nos médias sociaux, nos présentations, notre site Web et nos affiches. 
 * Expérimenter les nouveautés avec nous. Nous commençons tout juste et nous sommes à la recherche d’une personne qui sait apprendre avec nous, pendant que nous développons notre marque et notre style.
 * Raconter des histoires en français d’abord, à traduire en anglais.
 
-## Vous avez le parfait profil que nous cherchons si:
+## Vous avez le parfait profil que nous cherchons si :
 
 * Votre première question est toujours: « Qui est votre public et qu’est-ce que vous voulez qu’il ressente? »
 * Vous êtes un narrateur créatif qui peut faire pleurer ou rire les gens, ou leur donner envie de rester assis, émerveillés par les images que vous créez.
