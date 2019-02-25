@@ -49,4 +49,4 @@ CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orie
 ## Interested?
 
 Email us at 
-[CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Quantitative Design Researcher” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
+[CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Quantitative Design Researcher” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
