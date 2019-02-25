@@ -29,7 +29,7 @@ homepage-tag-line:
 in-flight:
   other: "Produits en cours"
 key-contacts:
-  other: "Contacts"
+  other: "Contacts principaux"
 language-code:
   other: "fr-ca"
 language-selection:
@@ -39,11 +39,11 @@ lang-switch-label:
 links:
   other: "Liens"
 meet-the-full-team:
-  other: "Rencontrer l'équipe"
+  other: "Toute l’équipe"
 next-post:
   other: "Prochaine billet"
 our-team:
-  other: "Notre équipe"
+  other: "Rencontrez l’équipe"
 partner:
   other: "Partenaire"
 past-products:
