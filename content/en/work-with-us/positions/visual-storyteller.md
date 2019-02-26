@@ -30,7 +30,8 @@ As the Outreach Team, we are the storytellers of the CDS. We tell the stories th
 * You’re a creative storyteller who can make people cry, laugh, or sit in wonder with the images you create.
 * You know your way around cameras, art supplies, and illustration, animation, and/or photo and video editing software.
 * You love learning a new camera or illustration app, and you keep a journal, sketchbook, or Instagram account of all things creative.
-* Your default mode is open collaboration. You listen and make space for new ideas. * Your secret power is making other people’s ideas better.
+* Your default mode is open collaboration. You listen and make space for new ideas.
+* Your secret power is making other people’s ideas better.
 * You know that sometimes just trying something is the best way to find out if it’ll work
 * You’re comfortable with what you know, comfortable with what you don’t know, and know how to work with others to make great things.
 * You know that done is better than perfect.
