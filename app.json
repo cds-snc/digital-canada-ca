@@ -4,6 +4,9 @@
   ],
   "buildpacks": [
     {
+      "url": "https://github.com/roperzh/heroku-buildpack-hugo.git"
+    },
+    {
       "url": "heroku/nodejs"
     }
   ],
