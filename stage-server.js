@@ -1,4 +1,8 @@
+const port = parseInt(process.env.PORT, 10) || 4000;
 const express = require('express');
-const app = express();
-app.use(express.static('public/en'));
-app.listen(3000);
+const server = express();
+server.use(express.static('public/en'));
+server.listen(port, err => {
+    if (err) throw err;
+    console.log(`> Ready on http://localhost:${port}`);
+});
