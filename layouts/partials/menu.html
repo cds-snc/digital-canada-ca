@@ -3,7 +3,7 @@
         <h2>{{ i18n "topics-menu" }}</h2>
         <div class="row">
             <div class="col-xs-4 col-sm-3">
-                <a href="/" class="cds-logo" role="img" aria-label="{{ i18n "aria-cds-website" }}"></a>
+                <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo" role="img" aria-label="{{ i18n "aria-cds-website" }}"></a>
             </div>
 
             <div class="nav-container">
