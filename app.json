@@ -4,6 +4,9 @@
   ],
   "buildpacks": [
     {
+      "url": "https://github.com/dmathieu/heroku-buildpack-submodules"
+    },
+    {
       "url": "https://github.com/cds-snc/heroku-digital-canada-ca-buildpack"
     },
     {
