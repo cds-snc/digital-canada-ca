@@ -37,7 +37,7 @@ languages:
         url: /blog/
         weight: 5
       - identifier: our-team
-        name: Our team
+        name: Meet the team
         url: /our-team/
         weight: 3 
   fr:
@@ -76,6 +76,6 @@ languages:
         url: /blogue/
         weight: 5
       - identifier: notre-equipe
-        name: Notre équipe
+        name: Rencontrez l’équipe
         url: /notre-equipe/
         weight: 3
