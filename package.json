@@ -8,6 +8,7 @@
     "babel-loader": "^7.1.5",
     "babel-preset-env": "^1.7.0",
     "css-loader": "^1.0.1",
+    "express": "^4.16.4",
     "file-loader": "^1.1.11",
     "front-matter-editor": "0.0.1",
     "netlify-cms": "^2.3.3",
