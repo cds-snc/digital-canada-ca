@@ -25,7 +25,9 @@
     "process:images": "node util/processBlogImages && node util/processTeamImages",
     "build": "npm run process:images && webpack && hugo",
     "build_admin": "webpack --config webpack.config.js",
-    "build:stage": "webpack && hugo --environment staging"
+    "build:stage": "webpack && hugo --environment staging",
+    "heroku-postbuild": "webpack && hugo --environment staging",
+    "stage-server": "node stage-server.js"
   },
   "repository": {
     "type": "git",
