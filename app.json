@@ -4,7 +4,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/roperzh/heroku-buildpack-hugo.git"
+      "url": "https://github.com/cds-snc/heroku-digital-canada-ca-buildpack"
     },
     {
       "url": "heroku/nodejs"
