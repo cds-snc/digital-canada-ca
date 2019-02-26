@@ -11,6 +11,12 @@ action "Filter master" {
   args = "not branch master"
 }
 
+action "Images touched?" {
+  uses = "docker://cdssnc/touched-github-action"
+  needs = ["Filter master"]
+  args = "{**jpg,**png}"
+}
+
 action "Process images commit" {
   uses = "docker://cdssnc/auto-commit-github-action"
   needs = ["Process images"]
@@ -20,7 +26,7 @@ action "Process images commit" {
 
 action "Install" {
   uses = "actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680"
-  needs = ["Filter master"]
+  needs = ["Images touched?"]
   args = "install"
 }
 
