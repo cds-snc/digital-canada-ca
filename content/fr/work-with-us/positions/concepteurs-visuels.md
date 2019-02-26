@@ -5,7 +5,7 @@ title: Concepteurs visuels
 description: >-
   Les concepteurs visuels créent des éléments graphiques qui sous-tendent
   l’interaction et la conception des services.
-archived: false
+archived: true
 translationKey: visual-designers
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.

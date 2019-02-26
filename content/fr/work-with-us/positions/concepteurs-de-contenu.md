@@ -5,7 +5,7 @@ title: Concepteurs de contenu
 description: >-
   Les concepteurs de contenu transforment des concepts difficiles en contenu
   facile à comprendre. 
-archived: false
+archived: true
 translationKey: content-designers
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.

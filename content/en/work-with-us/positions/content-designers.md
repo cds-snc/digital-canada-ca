@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: Content Designers
 description: Content designers turn difficult concepts into easy to understand content.
-archived: false
+archived: true
 translationKey: content-designers
 ---
 We’re transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. We need you.
