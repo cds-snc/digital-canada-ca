@@ -7,7 +7,7 @@ description: >-
 author: 'Stevie-Ray Talbot, Policy'
 date: 2019-02-28T09:00:00.918Z
 image: /img/cds/_mg_9837-2.jpg
-image-alt: temp
+image-alt: A footbridge leading towards a forest.
 translationKey: user-interview-policy
 thumb: /img/cds/thumbnails/_mg_9837-2.jpg
 processed: 1551284886152
@@ -49,6 +49,6 @@ If you’ve [built a research plan(https://digital.canada.ca/2018/10/26/building
 [Privacy notice for Email for Veterans’ friends or colleagues to pass on to Veterans](LINK)
 [Privacy and Consent notice for User Research](/files/consent-notice-public.docx)
 
-## Note about our resources
+## Note about our resources:
 
 It’s tough to share things that aren’t perfect. We know there is lots of room for improvement in these notices, like plain language and balancing policy requirements with participant understanding, but we hope that this can start the conversation with your ATIP office. For those using assistive devices, we encourage you to explore the comments for detailed information on the specific sections. They identify which sections of the Directive and Tri-Council Policy statement each line or block of text satisfies.
