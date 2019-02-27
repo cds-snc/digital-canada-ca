@@ -1,15 +1,14 @@
 ---
+layout: blog
 title: 'The sweet spot: when policy empowers design research'
 description: >-
   Conducting user interviews within government can be tough. Here are some tips
   to make that process easier.
 author: 'Stevie-Ray Talbot, Policy'
-date: '2019-02-28T09:00:00.918Z'
-image: /img/cds/_mg_9837-2.jpg
+date: 2019-02-28T09:00:00.918Z
+image: /img/cds/tim-swaan-45717-unsplash.jpg
 image-alt: A footbridge leading towards a forest.
 translationKey: user-interview-policy
-thumb: /img/cds/thumbnails/_mg_9837-2.jpg
-processed: 1551284886152
 ---
 Public servants who want to conduct interviews with the people that use your service, this post is for you. Recruiting people for service deisgn can be difficult in any sector, but government has some additional requirements. Though many are warranted due to the government’s position of authority, [others may be due to culture or habit](https://digital.canada.ca/2018/09/07/policy). In this post, we’ll talk about how we recruited Veterans and conducted research.
 
