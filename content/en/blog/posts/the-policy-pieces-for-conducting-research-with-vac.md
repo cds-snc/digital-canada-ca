@@ -9,6 +9,8 @@ date: 2019-02-27T16:13:50.918Z
 image: /img/cds/_mg_9837-2.jpg
 image-alt: temp
 translationKey: user-interview-policy
+thumb: /img/cds/thumbnails/_mg_9837-2.jpg
+processed: 1551284886152
 ---
 Public servants who want to conduct interviews with the people that use your service, this post is for you. Recruiting users for research can be difficult in any sector, but government has some additional requirements. Though many are warranted due to the government’s position of authority, [others may be due to culture or habit](https://digital.canada.ca/2018/09/07/policy). In this post, we’ll talk about how we recruited users and conducted research.
 
@@ -52,6 +54,7 @@ If you’ve [built a research plan(https://digital.canada.ca/2018/10/26/building
 
 [Privacy notice for Email for Veterans’ friends or colleagues to pass on to Veterans](LINK)
 
-[Privacy and Consent notice for User Research](LINK)
+[Privacy and Consent notice for User Research](/files/consent-notice-public.docx)
 
 As a final note about our resources, it’s tough to share things that aren’t perfect. We know there is lots of room for improvement in these notices, like plain language and balancing policy requirements with participant understanding, but we hope that this can start the conversation with your ATIP office. For those using assistive devices, we encourage you to explore the comments for detailed information on the specific sections. They identify which sections of the Directive and Tri-Council Policy statement each line or block of text satisfies.
+
