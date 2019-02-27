@@ -40,7 +40,7 @@ Si vous avez [élaboré un plan de recherche](https://numerique.canada.ca/2018/1
 
 * [Loi sur la protection des renseignements personnels du gouvernement fédéral](https://laws-lois.justice.gc.ca/fra/lois/p-21/page-1.html)
 * [Directive sur les pratiques relatives à la protection de la vie privée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=18309)
-[Énoncé de politique des trois Conseils : Éthique de la recherche avec des êtres humains](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf)
+* [Énoncé de politique des trois Conseils : Éthique de la recherche avec des êtres humains](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf)
 
 ## Ressources **matérielles**
 
