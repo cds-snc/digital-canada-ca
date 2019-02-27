@@ -44,8 +44,8 @@ Si vous avez [élaboré un plan de recherche](https://numerique.canada.ca/2018/1
 
 ## Ressources **matérielles**
 
-[Énoncé de confidentialité pour les courriels que les amis ou collègues des anciens combattants doivent transmettre aux anciens combattants](LINK)
-[Énoncé de confidentialité et avis de consentement pour la recherche auprès des utilisateurs](LINK)
+[Énoncé de confidentialité pour les courriels que les amis ou collègues des anciens combattants doivent transmettre aux anciens combattants](/files/Modèle-des-recruteurs.docx)
+[Énoncé de confidentialité et avis de consentement pour la recherche auprès des utilisateurs](/files/Avis-de-consentement.docx)
 
 Remarque concernant les ressources :
 
