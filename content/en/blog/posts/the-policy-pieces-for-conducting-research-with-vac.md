@@ -1,11 +1,10 @@
 ---
-layout: blog
-title: The sweet spot: when policy empowers design research
+title: 'The sweet spot: when policy empowers design research'
 description: >-
   Conducting user interviews within government can be tough. Here are some tips
   to make that process easier.
 author: 'Stevie-Ray Talbot, Policy'
-date: 2019-02-28T09:00:00.918Z
+date: '2019-02-28T09:00:00.918Z'
 image: /img/cds/_mg_9837-2.jpg
 image-alt: A footbridge leading towards a forest.
 translationKey: user-interview-policy
