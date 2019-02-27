@@ -38,13 +38,13 @@ The researcher sent the privacy and consent notice to the participant two days p
 
 If you’ve [built a research plan(https://digital.canada.ca/2018/10/26/building-a-research-plan/) and need to recruit users for an interview, we have provided some resources “for doing” below. If you found this useful and would like more resources or have any feedback, please consider tweeting or direct messaging CDS at [@CDS_GC](https://twitter.com/cds_gc?lang=en) or emailing us at [cds-snc@tbs-sct.gc.ca](mailto:cds-snc@tbs-sct.gc.ca).
 
-## Resources \*\*for reading\*\*
+## Resources **for reading**
 
 * [The Federal Privacy Act](https://laws-lois.justice.gc.ca/eng/acts/p-21/page-1.html)
 * [The Directive on Privacy Practices](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18309#)
 * [Tri-council policy statement on Ethical Conduct for Research involving Humans](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf)
 
-## Resources \*\*for doing\*\*
+## Resources **for doing**
 
 * [Privacy notice for Email for Veterans’ friends or colleagues to pass on to Veterans](LINK)
 * [Privacy and Consent notice for User Research](/files/consent-notice-public.docx)
