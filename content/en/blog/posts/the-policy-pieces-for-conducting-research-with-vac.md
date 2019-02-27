@@ -40,14 +40,14 @@ If you’ve [built a research plan(https://digital.canada.ca/2018/10/26/building
 
 ## Resources \*\*for reading\*\*
 
-[The Federal Privacy Act](https://laws-lois.justice.gc.ca/eng/acts/p-21/page-1.html)
-[The Directive on Privacy Practices](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18309#)
-[Tri-council policy statement on Ethical Conduct for Research involving Humans](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf)
+* [The Federal Privacy Act](https://laws-lois.justice.gc.ca/eng/acts/p-21/page-1.html)
+* [The Directive on Privacy Practices](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=18309#)
+* [Tri-council policy statement on Ethical Conduct for Research involving Humans](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf)
 
 ## Resources \*\*for doing\*\*
 
-[Privacy notice for Email for Veterans’ friends or colleagues to pass on to Veterans](LINK)
-[Privacy and Consent notice for User Research](/files/consent-notice-public.docx)
+* [Privacy notice for Email for Veterans’ friends or colleagues to pass on to Veterans](LINK)
+* [Privacy and Consent notice for User Research](/files/consent-notice-public.docx)
 
 ## Note about our resources:
 
