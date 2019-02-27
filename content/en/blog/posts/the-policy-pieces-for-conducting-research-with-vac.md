@@ -5,7 +5,7 @@ description: >-
   Conducting user interviews within government can be tough. Here are some tips
   to make that process easier.
 author: 'Stevie-Ray Talbot, Policy'
-date: 2019-02-28T09:00:00.918Z
+date: 2019-02-27T09:00:00.918Z
 image: /img/cds/tim-swaan-45717-unsplash.jpg
 image-alt: A footbridge leading towards a forest.
 translationKey: user-interview-policy
@@ -36,7 +36,7 @@ Once potential participants had reached out to us we were able to:
 
 The researcher sent the privacy and consent notice to the participant two days prior to the interview for their review before the test to ensure [informed consent](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf#page=38) was given. This isn’t the only method that can be used for recruiting users, but given our problem, type of research, and user group, we decided it was the best approach.
 
-If you’ve [built a research plan(https://digital.canada.ca/2018/10/26/building-a-research-plan/) and need to recruit users for an interview, we have provided some resources “for doing” below. If you found this useful and would like more resources or have any feedback, please consider tweeting or direct messaging CDS at [@CDS_GC](https://twitter.com/cds_gc?lang=en) or emailing us at [cds-snc@tbs-sct.gc.ca](mailto:cds-snc@tbs-sct.gc.ca).
+If you’ve [built a research plan](https://digital.canada.ca/2018/10/26/building-a-research-plan/) and need to recruit users for an interview, we have provided some resources “for doing” below. If you found this useful and would like more resources or have any feedback, please consider tweeting or direct messaging CDS at [@CDS_GC](https://twitter.com/cds_gc?lang=en) or emailing us at [cds-snc@tbs-sct.gc.ca](mailto:cds-snc@tbs-sct.gc.ca).
 
 ## Resources **for reading**
 
