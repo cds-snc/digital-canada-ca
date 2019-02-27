@@ -38,15 +38,15 @@ Si vous avez [élaboré un plan de recherche](https://numerique.canada.ca/2018/1
 
 ## Ressources **à lire**
 
-[Loi sur la protection des renseignements personnels du gouvernement fédéral](https://laws-lois.justice.gc.ca/fra/lois/p-21/page-1.html)
-[Directive sur les pratiques relatives à la protection de la vie privée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=18309)
+* [Loi sur la protection des renseignements personnels du gouvernement fédéral](https://laws-lois.justice.gc.ca/fra/lois/p-21/page-1.html)
+* [Directive sur les pratiques relatives à la protection de la vie privée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=18309)
 [Énoncé de politique des trois Conseils : Éthique de la recherche avec des êtres humains](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf)
 
 ## Ressources **matérielles**
 
-[Énoncé de confidentialité pour les courriels que les amis ou collègues des anciens combattants doivent transmettre aux anciens combattants](/files/Modèle-des-recruteurs.docx)
-[Énoncé de confidentialité et avis de consentement pour la recherche auprès des utilisateurs](/files/Avis-de-consentement.docx)
+* [Énoncé de confidentialité pour les courriels que les amis ou collègues des anciens combattants doivent transmettre aux anciens combattants](/files/Modèle-des-recruteurs.docx)
+* [Énoncé de confidentialité et avis de consentement pour la recherche auprès des utilisateurs](/files/Avis-de-consentement.docx)
 
-Remarque concernant les ressources :
+## Remarque concernant les ressources :
 
 Nous soulignons qu’il est difficile de partager des outils qui ne sont pas parfaits. En effet, ces énoncés peuvent certainement êtres améliorés. Nous pensons par exemple à l’écriture en langage clair et simple, et au juste milieu à trouver entre les exigences des politiques et la compréhension des participants. Nous espérons toutefois que cela peut amorcer la conversation avec votre bureau de l’AIPRP. Pour ceux qui utilisent des dispositifs d’assistance, nous vous encourageons à parcourir les commentaires ajoutés en marge des ressources matérielles pour plus d’informations concernant les sections spécifiques. Ils indiquent les sections de la Directive et de l’Énoncé de politique des trois Conseils auxquelles chaque ligne ou bloc de texte fait référence.
