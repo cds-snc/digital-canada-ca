@@ -9,8 +9,6 @@ date: 2019-02-27T14:00:00.000Z
 image: /img/cds/tim-swaan-45717-unsplash.jpg
 image-alt: Une passerelle qui mène vers une forêt.
 translationKey: user-interview-policy
-thumb: /img/cds/thumbnails/tim-swaan-45717-unsplash.jpg
-processed: 1551301962939
 ---
 Si vous êtes un fonctionnaire et que vous souhaitez mener des entrevues auprès des gens qui utilisent votre service, ce billet est pour vous. Dans tout secteur, il peut déjà être difficile de recruter des personnes à des fins de recherche en conception de services. Le gouvernement, toutefois, a des exigences supplémentaires. Bien que certaines d’entre elles soient justifiées par sa position en tant qu’autorité, [d’autres peuvent découler d’une culture ou d’habitudes](https://numerique.canada.ca/2018/09/07/politiques/). Dans ce billet, nous vous montrons comment nous avons fait pour recruter des anciens combattants et mener notre recherche.
 
@@ -36,7 +34,7 @@ Après que les clients potentiels ont eu communiqué avec nous, nous avons été
 
 Deux jours avant l’entrevue, le chercheur a envoyé l’énoncé de confidentialité et l’avis de consentement au participant pour qu’il les passe en revue, afin de garantir un [consentement éclairé](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf#page=38). Il existe bien sûr d’autres méthodes pour recruter des utilisateurs, mais nous avons conclu qu’il s’agissait de la meilleure étant donné la nature de notre problème, notre type de recherche et le groupe d’utilisateurs.
 
-Si vous avez [élaboré un plan de recherche](https://numerique.canada.ca/2018/10/26/elaborer-un-plan-de-researche/) et que vous avez besoin de recruter des utilisateurs pour mener des entrevues, nous avons listé quelques ressources matérielles ci-dessous. Si vous avez trouvé ce billet utile et que vous aimeriez bénéficier de plus de ressources ou de suggestions, vous pouvez nous envoyer un gazouillis ou un message direct à [@SNC_GC](https://twitter.com/SNC_GC), ou nous écrire par courriel à [cds-snc@tbs-sct.gc.ca](mailto:cds-snc@tbs-sct.gc.ca).
+Si vous avez [élaboré un plan de recherche](https://numerique.canada.ca/2018/10/26/elaborer-un-plan-de-researche/) et que vous avez besoin de recruter des utilisateurs pour mener des entrevues, nous avons listé quelques ressources matérielles ci-dessous. Si vous avez trouvé ce billet utile et que vous aimeriez bénéficier de plus de ressources ou de suggestions, vous pouvez nous envoyer un gazouillis ou un message direct à [@SNC_GC](https://twitter.com/SNC_GC), ou nous écrire par courriel à <mailto:cds-snc@tbs-sct.gc.ca>.
 
 ## Ressources **à lire**
 
@@ -51,5 +49,4 @@ Si vous avez [élaboré un plan de recherche](https://numerique.canada.ca/2018/1
 
 ## Remarque concernant les ressources :
 
-Nous soulignons qu’il est difficile de partager des outils qui ne sont pas parfaits. En effet, ces énoncés peuvent certainement êtres améliorés. Nous pensons par exemple à l’écriture en langage clair et simple, et au juste milieu à trouver entre les exigences des politiques et la compréhension des participants. Nous espérons toutefois que cela peut amorcer la conversation avec votre bureau de l’AIPRP. Pour ceux qui utilisent des dispositifs d’assistance, nous vous encourageons à parcourir les commentaires ajoutés en marge des ressources matérielles pour plus d’informations concernant les sections spécifiques. Ils indiquent les sections de la Directive et de l’Énoncé de politique des trois Conseils auxquelles chaque ligne ou bloc de texte fait référence.
-
+Nous soulignons qu’il est difficile de partager des outils qui ne sont pas parfaits. En effet, ces énoncés peuvent certainement être améliorés. Nous pensons par exemple à l’écriture en langage clair et simple, et au juste milieu à trouver entre les exigences des politiques et la compréhension des participants. Nous espérons toutefois que cela peut amorcer la conversation avec votre bureau de l’AIPRP. Pour ceux qui utilisent des dispositifs d’assistance, nous vous encourageons à parcourir les commentaires ajoutés en marge des ressources matérielles pour plus d’informations concernant les sections spécifiques. Ils indiquent les sections de la Directive et de l’Énoncé de politique des trois Conseils auxquelles chaque ligne ou bloc de texte fait référence.
