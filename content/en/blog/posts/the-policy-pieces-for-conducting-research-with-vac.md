@@ -6,8 +6,8 @@ description: >-
   tips to make that process easier.
 author: 'Stevie-Ray Talbot, Policy'
 date: 2019-02-27T16:13:50.918Z
-image: /img/cds/_mg_9837-2.jpg
-image-alt: temp
+image: /img/cds/tim-swaan-45717-unsplash.jpg
+image-alt: footbridge-leading-towards-forest
 translationKey: user-interview-policy
 ---
 Public servants who want to conduct interviews with the people that use your service, this post is for you. Recruiting people for service design research can be difficult in any sector, but government has some additional requirements. Though many are warranted due to the government’s position of authority, [others may be due to culture or habit](https://digital.canada.ca/2018/09/07/policy). In this post, we’ll talk about how we recruited Veterans and conducted research.
