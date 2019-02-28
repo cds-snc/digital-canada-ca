@@ -14,7 +14,7 @@ Public servants who want to conduct interviews with the people that use your ser
 
 Additionally, we have a few resources at the bottom of the post for other Government of Canada organizations to use. We also encourage you to engage your ATIP office for guidance; the sooner they're engaged the more they can help.
 
-We understood “what” the problem for Veterans was - low uptake and awareness of available services. Identifying the problem was step one; step two was building a research plan to understand the problem from a Veteran’s point of view. That left us at step three: finding Veterans to speak with 
+We understood “what” the problem for Veterans was - low uptake and awareness of available services. Identifying the problem was step one; step two was building a research plan to understand the problem from a Veteran’s point of view. That left us at step three: finding Veterans to speak with .
 
 ## What we did
 
