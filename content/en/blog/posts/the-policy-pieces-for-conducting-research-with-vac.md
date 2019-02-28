@@ -58,4 +58,3 @@ If you’ve [built a research plan](https://digital.canada.ca/2018/10/26/buildin
 
 It’s tough to share things that aren’t perfect. We know there is lots of room for improvement in these notices, like plain language and balancing policy requirements with participant understanding, but we hope that this can start the conversation with your ATIP office. For those using assistive devices, we encourage you to explore the comments for detailed information on the specific sections. They identify which sections of the Directive and Tri-Council Policy statement each line or block of text satisfies.
 
-
