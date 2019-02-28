@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: The policy pieces for conducting research with VAC
+title: 'The sweet spot: when policy empowers design research'
 description: >-
-  Conducting user interviews within government can be tough. Here are some tips
-  to make that process easier.
+  Conducting research interviews within government can be tough. Here are some
+  tips to make that process easier.
 author: 'Stevie-Ray Talbot, Policy'
 date: 2019-02-27T16:13:50.918Z
 image: /img/cds/_mg_9837-2.jpg
@@ -23,22 +23,18 @@ We began by asking people from our personal and professional networks to reach o
 In addition to contacting participants relevant to the research goals, this process had three advantages: 
 
 1. Veterans and still serving military members reached out to us on a voluntary basis, [reducing pressure to participate](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf#page=34) that may be associated with the Government of Canada asking them directly.
-
 2. We let participants know that the friend or colleague who contacted them would not be told if they chose to participate. Doing so [reduces a feeling of coercion and social pressure](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf#page=34) from the individual who contacted them.
-
 3. We did not collect any personal information from the participants until we knew for certain they understood the purpose and process of the research and their role in participating. 
 
 Once potential participants had reached out to us we were able to:
 
 * confirm their interest by providing more information on the research (see the privacy and consent notice below)
-
 * screen participants
-
 * schedule an interview (if the potential participant was still interested)
 
 The researcher sent the privacy and consent notice to the participant two days prior to the interview for their review before the test to ensure [informed consent](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf#page=38) was given. This isn’t the only method that can be used for recruiting people, but given our problem, type of research, and user group, we decided it was the best method.
 
-If you’ve [built a research plan(https://digital.canada.ca/2018/10/26/building-a-research-plan/) and need to recruit users for an interview, we have provided some resources “for doing” below. If you found this useful and would like more resources or have any feedback, please consider tweeting or direct messaging CDS at [@CDS_GC](https://twitter.com/cds_gc?lang=en) or emailing us at [cds-snc@tbs-sct.gc.ca](mailto:cds-snc@tbs-sct.gc.ca).
+If you’ve [built a research plan(https://digital.canada.ca/2018/10/26/building-a-research-plan/) and need to recruit people for an interview, we have provided some resources “for doing” below. If you found this useful and would like more resources or have any feedback, please consider tweeting or direct messaging CDS at [@CDS_GC](https://twitter.com/cds_gc?lang=en) or emailing us at <mailto:cds-snc@tbs-sct.gc.ca>.
 
 ## Resources \*\*for reading\*\*
 
@@ -56,5 +52,4 @@ If you’ve [built a research plan(https://digital.canada.ca/2018/10/26/building
 
 ## Note about our resources:
 
-It’s tough to share things that aren’t perfect. We know there is lots of room for improvement in these notices, like plain language and balancing policy requirements with participant understanding, but we hope that this can start the conversation with your ATIP office. For those using assistive devices, we encourage you to explore the comments for detailed information on the specific sections. They identify which sections of the Directive and Tri-Council Policy statement each line or block of text satisfies. 
-
+It’s tough to share things that aren’t perfect. We know there is lots of room for improvement in these notices, like plain language and balancing policy requirements with participant understanding, but we hope that this can start the conversation with your ATIP office. For those using assistive devices, we encourage you to explore the comments for detailed information on the specific sections. They identify which sections of the Directive and Tri-Council Policy statement each line or block of text satisfies.
