@@ -46,9 +46,9 @@ If you’ve [built a research plan(https://digital.canada.ca/2018/10/26/building
 
 ## Resources \*\*for doing\*\*
 
-[Privacy notice for Email for Veterans’ friends or colleagues to pass on to Veterans](LINK)
+[Privacy notice for Email for Veterans’ friends or colleagues to pass on to Veterans](https://digital.canada.ca/files/Template-for-Recruiter.docx)
 
-[Privacy and Consent notice for User Research](LINK)
+[Privacy and Consent notice for User Research](https://digital.canada.ca/files/Consent-Notice.docx)
 
 ## Note about our resources:
 
