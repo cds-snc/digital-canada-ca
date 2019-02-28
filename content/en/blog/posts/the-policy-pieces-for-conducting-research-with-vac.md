@@ -10,7 +10,11 @@ image: /img/cds/tim-swaan-45717-unsplash.jpg
 image-alt: footbridge-leading-towards-forest
 translationKey: user-interview-policy
 thumb: /img/cds/thumbnails/tim-swaan-45717-unsplash.jpg
+<<<<<<< HEAD
 processed: 1552050695046
+=======
+processed: 1551367403822
+>>>>>>> Skip CI - Processed images
 ---
 Public servants who want to conduct interviews with the people that use your service, this post is for you. Recruiting people for service design research can be difficult in any sector, but government has some additional requirements. Though many are warranted due to the government’s position of authority, [others may be due to culture or habit](https://digital.canada.ca/2018/09/07/policy). In this post, we’ll talk about how we recruited Veterans and conducted research.
 
@@ -57,4 +61,7 @@ If you’ve [built a research plan](https://digital.canada.ca/2018/10/26/buildin
 ## Note about our resources:
 
 It’s tough to share things that aren’t perfect. We know there is lots of room for improvement in these notices, like plain language and balancing policy requirements with participant understanding, but we hope that this can start the conversation with your ATIP office. For those using assistive devices, we encourage you to explore the comments for detailed information on the specific sections. They identify which sections of the Directive and Tri-Council Policy statement each line or block of text satisfies.
+<<<<<<< HEAD
 
+=======
+>>>>>>> Skip CI - Processed images
