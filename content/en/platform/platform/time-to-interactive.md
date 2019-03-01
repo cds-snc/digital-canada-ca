@@ -2,7 +2,7 @@
 title: Time to interactive tracking
 translationKey: time-to-interactive
 description: >-
-  A cloud function to check the time to interactive metrics for your website.
+  With this cloud function you can check how long it takes before a user can interact with your website from the time they request the page. This allows you to track time to interactive metrics for your website as you develop.
 phase: alpha
 contact:
   - email: bryan.willey@cds-snc.ca
