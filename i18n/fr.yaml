@@ -59,7 +59,7 @@ privacy-link:
 privacy:
   other: "Confidentialité"
 products:
-  other: "Produits"
+  other: "Découvrir nos produits"
 read-more:
   other: "Lire davantage"
 rss-feed-url:
@@ -81,14 +81,14 @@ trans-base-url:
 twitter:
   other: SNC_GC
 view-product:
-  other: "Voir ce produit"
+  other: "Voir ce produit" 
 work-with-us:
-  other: "Travaillez avec nous"
+  other: "Rejoindre notre équipe"
 what-we-do:
   other: "Ce que nous faisons"
 contact-us:
   other: "Contactez nous"
 featured-post:
   other: "Billets de blogue en vedette"
-more-posts:
+more-posts: 
   other: "Plus de billets de blogue"

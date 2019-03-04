@@ -5,7 +5,7 @@ aria-canada-website:
 aria-cds-website: 
   other: "Canadian Digital Service"
 blog:
-  other: "Blog"
+  other: "Read the blog"
 canada-ca: 
   other: "Visit Canada.ca"
 canada-ca-link:
@@ -61,7 +61,7 @@ privacy:
 privacy-link: 
   other: "/legal/privacy/"
 products:
-  other: "Products"
+  other: "View our products"
 read-more:
   other: "Read More"
 rss-feed-url:
@@ -85,7 +85,7 @@ twitter:
 view-product:
   other: "View this product"
 work-with-us:
-  other: "Work with us"
+  other: "Join our team"
 what-we-do:
   other: "What we do"
 featured-post:
