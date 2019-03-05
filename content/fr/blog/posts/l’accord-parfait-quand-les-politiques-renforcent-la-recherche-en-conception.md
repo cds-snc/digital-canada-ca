@@ -9,8 +9,6 @@ date: 2019-02-27T14:00:00.000Z
 image: /img/cds/tim-swaan-45717-unsplash.jpg
 image-alt: Une passerelle qui mène vers une forêt.
 translationKey: user-interview-policy
-thumb: /img/cds/thumbnails/tim-swaan-45717-unsplash.jpg
-processed: 1551383857005
 ---
 Si vous êtes un fonctionnaire et que vous souhaitez mener des entrevues auprès des gens qui utilisent votre service, ce billet est pour vous. Dans tout secteur, il peut déjà être difficile de recruter des personnes à des fins de recherche en conception de services. Le gouvernement, toutefois, a des exigences supplémentaires. Bien que certaines d’entre elles soient justifiées par sa position en tant qu’autorité, [d’autres peuvent découler d’une culture ou d’habitudes](https://numerique.canada.ca/2018/09/07/politiques/). Dans ce billet, nous vous montrons comment nous avons fait pour recruter des anciens combattants et mener notre recherche.
 
@@ -43,6 +41,7 @@ Si vous avez [élaboré un plan de recherche](https://numerique.canada.ca/2018/1
 * [Loi sur la protection des renseignements personnels du gouvernement fédéral](https://laws-lois.justice.gc.ca/fra/lois/p-21/page-1.html)
 * [Directive sur les pratiques relatives à la protection de la vie privée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=18309)
 * [Énoncé de politique des trois Conseils : Éthique de la recherche avec des êtres humains](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf)
+* [Lignes directrices du Secrétariat du Conseil du Trésor pour distinguer la recherche en conception (recherche sur les utilisateurs) de la recherche sur l’opinion publique](https://www.canada.ca/fr/secretariat-conseil-tresor/services/communications-gouvernementales/recherche-opinion-publique.html)
 
 ## Ressources **matérielles**
 
