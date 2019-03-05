@@ -51,4 +51,3 @@ Si vous avez [élaboré un plan de recherche](https://numerique.canada.ca/2018/1
 ## Remarque concernant les ressources :
 
 Nous soulignons qu’il est difficile de partager des outils qui ne sont pas parfaits. En effet, ces énoncés peuvent certainement être améliorés. Nous pensons par exemple à l’écriture en langage clair et simple, et au juste milieu à trouver entre les exigences des politiques et la compréhension des participants. Nous espérons toutefois que cela peut amorcer la conversation avec votre bureau de l’AIPRP. Pour ceux qui utilisent des dispositifs d’assistance, nous vous encourageons à parcourir les commentaires ajoutés en marge des ressources matérielles pour plus d’informations concernant les sections spécifiques. Ils indiquent les sections de la Directive et de l’Énoncé de politique des trois Conseils auxquelles chaque ligne ou bloc de texte fait référence.
-
