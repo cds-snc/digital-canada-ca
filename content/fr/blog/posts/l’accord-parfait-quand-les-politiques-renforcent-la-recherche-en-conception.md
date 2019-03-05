@@ -2,8 +2,8 @@
 layout: blog
 title: 'L’accord parfait : quand les politiques renforcent la recherche en conception'
 description: >-
-  nterviewer des utilisateurs au sein du gouvernement peut être difficile. Voici
-  quelques conseils pour faciliter ce processus.
+  Interviewer des utilisateurs au sein du gouvernement peut être difficile.
+  Voici quelques conseils pour faciliter ce processus.
 author: 'Stevie-Ray Talbot, Politiques'
 date: 2019-02-27T14:00:00.000Z
 image: /img/cds/tim-swaan-45717-unsplash.jpg
