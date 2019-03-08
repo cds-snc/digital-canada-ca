@@ -9,6 +9,8 @@ date: 2019-02-27T14:00:00.000Z
 image: /img/cds/tim-swaan-45717-unsplash.jpg
 image-alt: Une passerelle qui mène vers une forêt.
 translationKey: user-interview-policy
+thumb: /img/cds/thumbnails/tim-swaan-45717-unsplash.jpg
+processed: 1552050695071
 ---
 Si vous êtes un fonctionnaire et que vous souhaitez mener des entrevues auprès des gens qui utilisent votre service, ce billet est pour vous. Dans tout secteur, il peut déjà être difficile de recruter des personnes à des fins de recherche en conception de services. Le gouvernement, toutefois, a des exigences supplémentaires. Bien que certaines d’entre elles soient justifiées par sa position en tant qu’autorité, [d’autres peuvent découler d’une culture ou d’habitudes](https://numerique.canada.ca/2018/09/07/politiques/). Dans ce billet, nous vous montrons comment nous avons fait pour recruter des anciens combattants et mener notre recherche.
 
@@ -51,3 +53,4 @@ Si vous avez [élaboré un plan de recherche](https://numerique.canada.ca/2018/1
 ## Remarque concernant les ressources :
 
 Nous soulignons qu’il est difficile de partager des outils qui ne sont pas parfaits. En effet, ces énoncés peuvent certainement être améliorés. Nous pensons par exemple à l’écriture en langage clair et simple, et au juste milieu à trouver entre les exigences des politiques et la compréhension des participants. Nous espérons toutefois que cela peut amorcer la conversation avec votre bureau de l’AIPRP. Pour ceux qui utilisent des dispositifs d’assistance, nous vous encourageons à parcourir les commentaires ajoutés en marge des ressources matérielles pour plus d’informations concernant les sections spécifiques. Ils indiquent les sections de la Directive et de l’Énoncé de politique des trois Conseils auxquelles chaque ligne ou bloc de texte fait référence.
+
