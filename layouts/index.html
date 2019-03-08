@@ -21,7 +21,7 @@
 {{ define "index" }}
     <section class="section section--featured-blogposts">
             <div class="container">
-                <h2 class="section--title">{{i18n "featured-post" }}</h2>
+                <h3 class="section--title">{{i18n "featured-post" }}</h3>
         
                 <div class="row blog-posts">
 
@@ -45,24 +45,4 @@
                 </div>
             </div>
         </section>
-
-    <section class="section section--contact page-wide--outer-container-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12 col-sm-6 hidden-xs">
-                        <div class="hiGraphic"></div>
-                    </div>
-                    <div class="col-xs-12 col-sm-6">
-                        <h2>{{i18n "contact-us" }} </h2>
-                        {{ partial "contact-info.html" . }}
-                </div>
-            </div>
-        </div>
-    </section>	   
-        
-    <section class="section section--mailing-list">
-        {{ $path := printf "%s%s%s" "mailing-list." (string ($.Site.Language)) ".html" }}
-        {{ partial  $path }}
-    </section>
-
 {{ end }}
