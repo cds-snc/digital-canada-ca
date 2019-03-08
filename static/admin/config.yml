@@ -22,6 +22,8 @@ collections:
       - {label: "Image Alt-text / Texte alternatif de l'image", name: "image-alt"}
       - {label: "Blog ID / Identification de blogue", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
       - {label: "Body / Corps", name: "body", widget: "markdown"}
+      - {label: "Thumbnail", name: "thumb", widget: "hidden", default: "" }
+      - {label: "Processed", name: "processed", widget: "hidden", default: "" }
   - name: "blogue"
     label: "(FR) Billet de Blogue"
     folder: "content/fr/blog/posts"
@@ -36,6 +38,8 @@ collections:
       - {label: "Image Alt-text / Texte alternatif de l'image", name: "image-alt"}
       - {label: "Blog ID / Identification de blogue", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
       - {label: "Body / Corps", name: "body", widget: "markdown"}
+      - {label: "Thumbnail / La vignette", name: "thumb", widget: "hidden", default: "" }
+      - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
   - name: "work-with-us"
     label: "(EN) Job Postings"
     folder: "content/en/work-with-us/positions"
@@ -184,6 +188,7 @@ collections:
               - {label: email, name: email, widget: string}
               - {label: github, hint: "Username Only", name: github, widget: string}
               - {label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
+              - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
           - label: team
             name: team
             widget: list
@@ -200,7 +205,8 @@ collections:
               - {label: linkedin, hint: "Username Only", name: linkedin, widget: string}
               - {label: email, name: email, widget: string}
               - {label: github, hint: "Username Only", name: github, widget: string}
-              - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
+              - {label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
+              - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
       - label: "CDS Contact Info"
         name: "contact"
         file: "data/contact.yml"
