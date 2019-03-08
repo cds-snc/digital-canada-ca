@@ -21,7 +21,7 @@ languages:
         url: /
         weight: 1
       - identifier: what-we-do
-        name: What we do
+        name: Partner with us
         url: /what-we-do/
         weight: 2
       - identifier: products
