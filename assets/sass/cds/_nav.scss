@@ -41,18 +41,19 @@
 ////////////////////////////////////////////////////////////
 
 .cds-logo {
-  background-image: url("../img/cds/cds-logo-en.svg");
+  background-image: url("../img/cds/cds-logo-en-v2.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
   display: block;
   z-index: 1;
-
+  /*
   @include mobile_only {
     background-image: url("../img/cds/cds-logo-en-abbrev.svg");
     height: 5rem;
     width: 5rem;
   }
+  */
 
   @include tablet {
     height: 8rem;
@@ -80,11 +81,13 @@
 
   // BILINGUAL SPECIFIC CDS LOGO
   .fr & {
-    background-image: url("../img/cds/cds-logo-fr.svg") !important;
-
+    background-image: url("../img/cds/cds-logo-fr-v2.svg") !important;
+    /*
     @include mobile_only {
-      background-image: url("../img/cds/cds-logo-fr-abbrev.svg") !important;
+      background-image: url("../img/cds/cds-logo-fr-v2.svg") !important;
     }
+    */
+    
   }
 
   /*.en .sticky & { background-image: url('img/cds/cds-logo-en-abbrev.svg') !important; }
