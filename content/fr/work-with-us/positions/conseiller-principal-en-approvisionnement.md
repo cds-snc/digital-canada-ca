@@ -19,6 +19,7 @@ Nous recherchons un conseiller principal en approvisionnement qui pourra mettre 
 
 * Acquérir une compréhension de la communauté des fournisseurs et aider les fournisseurs à apprendre comment ils peuvent soutenir la prestation numérique avec le SNC.
 * Créer ou améliorer des outils, du contenu et des processus qui traitent des sources d’irritation de l’approvisionnement.
+
 * Comprendre le travail des équipes de produits et permettre à celles-ci d’acheter plus facilement les services dont elles ont besoin.
 * Élaborer et mettre en œuvre notre approche d’approvisionnement en matière de prestation. 
 * Fournir des conseils et une orientation en matière d’approvisionnement au SNC, à ses partenaires et au marché.
