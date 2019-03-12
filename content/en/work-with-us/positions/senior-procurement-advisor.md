@@ -33,7 +33,6 @@ We’re hiring a Senior Procurement Advisor to bring procurement expertise into 
 * As a proven relationship builder, you’ll enjoy making connections to get stuff done. 
 * You’re equally comfortable charting out the big picture and diving into the details to figure out how to bring that picture to life. 
 
-
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
 
 ## At CDS, we don’t just accept difference - we celebrate it. 
@@ -44,4 +43,4 @@ CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orie
 
 ## Interested?
 
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Senior Procurement Advisor” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
+Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Senior Procurement Advisor” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
