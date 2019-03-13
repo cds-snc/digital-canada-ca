@@ -16,6 +16,7 @@
                     </div>
                 <div class="mobile-lang">{{ partial "langSwitch.html" . }}</div>
                     <ul class="top-nav">
+        
                         {{ $title := .Params.title }}
                         {{ range $menu := .Site.Menus.main }}
                             <li class="top-nav--link{{ if eq $title .Identifier }} active{{end}}">

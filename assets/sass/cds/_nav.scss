@@ -8,7 +8,12 @@
   padding: 1rem;
   z-index: 999;
 
-  @include tablet {
+  // @include tablet {
+  //   padding-top: 5rem;
+  // }
+
+  // CUSTOM STYLING TO ADDRESS MENU CONTENT CHANGES AT menu_break mixin 
+  @include menu_break {
     padding-top: 5rem;
   }
 
@@ -26,9 +31,9 @@
   .home &, .accueil & {
     @include tablet {
       padding-top: 3rem;
-      position: absolute;
-      left: 50%;
-      transform: translateX(-50%);
+      // position: relative;
+      // left: 50%;
+      // transform: translateX(-50%);
       top: 0;
     }
   }
@@ -58,19 +63,29 @@
     height: 8rem;
     width: 8rem;
     position: absolute;
-    top: -3.9rem;
+    // top: -3.9rem;
   }
 
   @include desktop {
     height: 8rem;
     width: 8rem;
-    top: -3.9rem;
+    // top: -3.9rem;
   }
 
   @include tv {
     height: 8rem;
     width: 8rem;
     top: -3.7rem;
+  }
+
+  // CUSTOM MEDIA QUERY TO ADDRESS MENU CONTENT CHANGES
+  @include logo_break {
+      background-image: url("../img/cds/cds-logo-en-abbrev.svg");
+      height: 5rem;
+      width: 5rem;
+      position: absolute;
+      // top: -3.9rem;
+      top: 0;
   }
 
   // FRONT PAGE SPECIFIC STYLES FOR CDS LOGO
@@ -116,9 +131,9 @@
 
 .top-nav {
   clear: both;
-  float: right;
+  // float: right;
+  text-align: center;
   list-style: none;
-  text-align: right;
   margin: 1rem 0 1rem 0;
   padding: 0;
 
@@ -139,7 +154,7 @@
     a {
       color: $white;
       @include tablet {
-        font-size: 2.5rem;
+      font-size: 2rem;
       }
     }
   }
@@ -165,7 +180,7 @@
   }
 
   @include desktop {
-    margin: 0 1rem;
+    margin: 0 0.7rem;
   }
 
   // Link Styles
@@ -179,11 +194,11 @@
 
     @include tablet {
       color: $secondary-color;
-      font-size: 1.5rem;
+      font-size: 2rem;
       margin: 0 1.25rem 0.25rem 1.25rem;
 
       .fr & {
-        font-size: 1.4rem;
+        font-size: 2rem;
         padding-left: 0em;
         padding-right: 0em;
       }
@@ -193,7 +208,7 @@
       font-size: 2rem;
 
       .fr & {
-        font-size: 1.7rem;
+        font-size: 2rem;
         padding-left: 0em;
         padding-right: 0em;
       }
@@ -255,7 +270,12 @@
   -webkit-backface-visibility: none;
   -webkit-transform-style: preserve-3d;
 
-  @include tablet {
+  // @include tablet {
+  //   display: block;
+  // }
+
+  // CUSTOM MEDIA QUERY TO ADDRESS MENU CONTENT CHANGES
+  @include menu_break {
     display: block;
   }
 
@@ -328,9 +348,9 @@
   }
 	
 	.mobile-lang {
-	    	display    : block;
-	    	text-align : right;
-	    	color      : $white;
+	  display: block;
+	  text-align: right;
+	  color: $white;
 		position: fixed;
 		top: 2.3rem;
 		left: 2rem;
@@ -392,7 +412,12 @@
     color: $dark-grey;
   }
 
-  @include tablet {
+  // @include tablet {
+  //   display: none;
+  // }
+
+  // CUSTOM MEDIA QUERY TO ADDRESS MENU CONTENT CHANGES
+  @include menu_break {
     display: none;
   }
 }
