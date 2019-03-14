@@ -5,7 +5,7 @@ description: >-
   En utilisant des boucles de rétroaction automatisées, nous créons un
   environnement de confiance qui améliore la qualité des produits que nous
   bâtissons.
-author: 'Max Neuvians, Développeur'
+author: 'Max Neuvians, développeur'
 date: 2019-03-14T13:00:00.000Z
 image: /img/cds/grass-lawn-robot.jpg
 image-alt: 'Un petit robot en bois se tient debout dans une pelouse verdoyante. '
