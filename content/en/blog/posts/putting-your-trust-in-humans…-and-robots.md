@@ -12,7 +12,7 @@ translationKey: trust-humans-and-robots
 thumb: ''
 processed: ''
 ---
-Effective product development and service delivery is nothing without trust.  As a delivery team at CDS, we often speak to our partners about extending us the trust to help them leave their comfort zones and try new approaches. 
+Effective product development and service delivery is nothing without trust. As a delivery team at CDS, we often speak to our partners about extending us the trust to help them leave their comfort zones and try new approaches. 
 
 But that means we have to practice what we preach. If we ask for trust externally, it’s important to see its value within our own team. 
 
