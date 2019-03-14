@@ -17,17 +17,16 @@ Nous recherchons un conseiller principal en approvisionnement qui pourra mettre 
 
 ## Nous sommes à la recherche d’une personne qui effectuera ce qui suit :
 
-
 * Acquérir une compréhension de la communauté des fournisseurs et aider les fournisseurs à apprendre comment ils peuvent soutenir la prestation numérique avec le SNC.
 * Créer ou améliorer des outils, du contenu et des processus qui traitent des sources d’irritation de l’approvisionnement.
 * Comprendre le travail des équipes de produits et permettre à celles-ci d’acheter plus facilement les services dont elles ont besoin.
-* Élaborer et mettre en œuvre notre approche d’approvisionnement en matière de prestation. 
+* Élaborer et mettre en œuvre notre approche d’approvisionnement en matière de prestation.
 * Fournir des conseils et une orientation en matière d’approvisionnement au SNC, à ses partenaires et au marché.
 
 ## Vous êtes la bonne personne si :
 
 * Vous connaissez de fond en comble les règles et les processus fédéraux en matière d’approvisionnement.
-* Vous avez des idées pour améliorer l’expérience des entreprises en matière d’approvisionnement. 
+* Vous avez des idées pour améliorer l’expérience des entreprises en matière d’approvisionnement.
 * Vous êtes passionné par l’expérimentation de nouvelles façons de faire et vous aimez mesurer leurs répercussions.
 * Vous fournissez des conseils éclairés et ouverts d’esprit sur les processus d’approvisionnement et la gestion des contrats.
 * Vous divisez les projets en petites tâches et vous aimez itérer les solutions.
@@ -40,7 +39,6 @@ Nous reconnaissons que chaque personne peut apporter des compétences et des exp
 ## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
 
 Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. La prestation de services publics améliorés, accessibles et inclusifs n’est réalisable que si nous pouvons reconnaître et exploiter une diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à prospérer.
-
 Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
 
 ## Vous êtes intéressé?
