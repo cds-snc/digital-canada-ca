@@ -8,11 +8,7 @@
   padding: 1rem;
   z-index: 999;
 
-  // @include tablet {
-  //   padding-top: 5rem;
-  // }
-
-  // CUSTOM STYLING TO ADDRESS MENU CONTENT CHANGES AT menu_break mixin 
+  // below used to be @include tablet
   @include menu_break {
     padding-top: 5rem;
   }
@@ -29,11 +25,13 @@
 
   // TOPBAR SPECIFIC STYLE FOR HOMEPAGE
   .home &, .accueil & {
+
+    // below used to be @include tablet
     @include tablet {
       padding-top: 3rem;
-      // position: relative;
-      // left: 50%;
-      // transform: translateX(-50%);
+      position: absolute;
+      left: 50%;
+      transform: translateX(-50%);
       top: 0;
     }
   }
@@ -78,13 +76,12 @@
     top: -3.7rem;
   }
 
-  // CUSTOM MEDIA QUERY TO ADDRESS MENU CONTENT CHANGES
+  // added the below custom mixin to address menu content changes
   @include logo_break {
       background-image: url("../img/cds/cds-logo-en-abbrev.svg");
       height: 5rem;
       width: 5rem;
       position: absolute;
-      // top: -3.9rem;
       top: 0;
   }
 
@@ -131,16 +128,15 @@
 
 .top-nav {
   clear: both;
-  // float: right;
   text-align: center;
   list-style: none;
   margin: 1rem 0 1rem 0;
   padding: 0;
-
-  @include mobile_only {
+  
+  @include tablet_break {
     position: fixed;
     width: 100%;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
   }
@@ -153,8 +149,9 @@
 
     a {
       color: $white;
+      
       @include tablet {
-      font-size: 2rem;
+        font-size: 2rem;
       }
     }
   }
@@ -164,7 +161,7 @@
 .top-nav--link {
   display: block;
   text-align: center;
-
+  
   @include mobile_only {
     margin: 2rem 0;
   }
@@ -270,11 +267,6 @@
   -webkit-backface-visibility: none;
   -webkit-transform-style: preserve-3d;
 
-  // @include tablet {
-  //   display: block;
-  // }
-
-  // CUSTOM MEDIA QUERY TO ADDRESS MENU CONTENT CHANGES
   @include menu_break {
     display: block;
   }
@@ -354,8 +346,8 @@
 		position: fixed;
 		top: 2.3rem;
 		left: 2rem;
-		
-		@include tablet{
+    
+		@include tablet {
 			display: none;
 		}
 
@@ -416,7 +408,6 @@
   //   display: none;
   // }
 
-  // CUSTOM MEDIA QUERY TO ADDRESS MENU CONTENT CHANGES
   @include menu_break {
     display: none;
   }
@@ -464,7 +455,7 @@
   }
 
   .topbar {
-    @include tablet {
+    @include menu_break {
       padding: 0.5rem 1rem;
       margin: 0;
       width: 100%;
