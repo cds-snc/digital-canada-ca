@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Faire confiance aux humains....et aux robots
+title: Faire confiance aux humains... et aux robots
 description: >-
   En utilisant des boucles de rétroaction automatisées, nous créons un
   environnement de confiance qui améliore la qualité des produits que nous
