@@ -17,26 +17,26 @@ Le développement de produits et la prestation de services efficaces ne sont rie
 
 Mais cela signifie que nous devons mettre en pratique ce que nous prêchons. Si nous demandons la confiance de l’extérieur, il est important de voir sa valeur au sein de notre propre équipe. 
 
-Par conséquent, nous avons établi des processus qui nous aident à établir une confiance à l’égard des uns et des autres ainsi que des [choix] (https://numerique.canada.ca/2017/11/06/les-choix-technologiques-du-snc/) que nous faisons pour l’organisation. Ces outils comprennent des outils de rétroaction automatisés qui donnent aux développeurs les renseignements dont ils ont besoin pour prendre des décisions critiques. Tout aussi important, nous examinons le travail de chacun dans un environnement sans reproche. 
+Par conséquent, nous avons établi des processus qui nous aident à établir une confiance à l’égard des uns et des autres ainsi que des [choix](https://numerique.canada.ca/2017/11/06/les-choix-technologiques-du-snc/) que nous faisons pour l’organisation. Ces outils comprennent des outils de rétroaction automatisés qui donnent aux développeurs les renseignements dont ils ont besoin pour prendre des décisions critiques. Tout aussi important, nous examinons le travail de chacun dans un environnement sans reproche. 
 
 ## Automatiser les boucles de rétroaction
-	
+
 Nous faisons confiance aux membres de notre équipe pour faire de bons choix en matière d’accessibilité, de sécurité et de convivialité, qui sont fondés sur nos expériences et les données de l’industrie. 
 
 Toutefois, la collecte de suffisamment de renseignements et de contexte sur une décision donnée peut être onéreuse, alors nous croyons qu’une bonne partie de cette collecte peut être automatisée à l’aide de notre processus de développement quotidien.
 
-Voici certains de nos outils de rétroaction automatisés :
+Voici certains de nos outils de rétroaction automatisés:
 
-* [Notation automatique des dépendances au fur et à mesure qu’elles sont ajoutées aux projets, et alerte les développeurs pour qu’ils vérifient à nouveau tous les progiciels qui pourraient ne pas être de bons choix] (https://github.com/cds-snc/dependency-checker/)
-* [Calcul continu de la taille des lots dans les applications Web, ce qui aide les développeurs à éviter d’altérer le rendement des applications] (https://github.com/cds-snc/bundle-size-tracker/) 
-* [Vérifier continuellement si les applications assurent l’anonymisation des adresses IP lorsqu’elles utilisent l’analyse de l’information sur le Web] (https://github.com/cds-snc/piii-checker) 
-* [Vérification automatique de la conformité en matière de sécurité et d’accessibilité] (https://github.com/cds-snc/symmorfosi) 
-* [Applications d’examen automatique des branches] (https://github.com/cds-snc/elenchos)
+* [Notation automatique des dépendances au fur et à mesure qu’elles sont ajoutées aux projets, et alerte les développeurs pour qu’ils vérifient à nouveau tous les progiciels qui pourraient ne pas être de bons choix](https://github.com/cds-snc/dependency-checker/)
+* [Calcul continu de la taille des lots dans les applications Web, ce qui aide les développeurs à éviter d’altérer le rendement des applications](https://github.com/cds-snc/bundle-size-tracker/) 
+* [Vérifier continuellement si les applications assurent l’anonymisation des adresses IP lorsqu’elles utilisent l’analyse de l’information sur le Web](https://github.com/cds-snc/piii-checker) 
+* [Vérification automatique de la conformité en matière de sécurité et d’accessibilité](https://github.com/cds-snc/symmorfosi) 
+* [Applications d’examen automatique des branches](https://github.com/cds-snc/elenchos)
 
-Nous utilisons également des outils de l’industrie pour nous aider avec ce qui suit :
+Nous utilisons également des outils de l’industrie pour nous aider avec ce qui suit:
 
-* [Intégration continue et déploiement continu] (https://numerique.canada.ca/2018/03/26/les-tests-automatises/) 
-* [Examen du code] (https://numerique.canada.ca/2018/04/24/coder-une-activite-dequipe/) 
+* [Intégration continue et déploiement continu](https://numerique.canada.ca/2018/03/26/les-tests-automatises/) 
+* [Examen du code](https://numerique.canada.ca/2018/04/24/coder-une-activite-dequipe/) 
 * Analyse de la sécurité et tests de pénétration
 
 Notre équipe conçoit des outils internes qui sont **descriptifs plutôt que normatifs** – nous ne disons pas aux développeurs ce qu’ils doivent faire, mais nous leur donnons l’information nécessaire pour naviguer à la croisée des chemins. Cela permet à l’expert de prendre la décision, plutôt que de se fier à une politique générique comme mesure de protection générale. Nous communiquons également ces renseignements au public afin que ces décisions soient transparentes. 
@@ -49,7 +49,7 @@ Il est rare de trouver un développeur qui n’a jamais mis un site Web hors lig
 
 Ayant travaillé comme développeur unique et principal pendant de nombreuses années dans le secteur privé, j’aurais souvent aimé avoir une deuxième paire d’yeux pour examiner les problèmes qui se posaient. Ce qui m’a incité à me joindre à l’équipe de développement du SNC, c’est son environnement favorable et son approche constructive de la gestion des problèmes.
 	
-Une grande partie de l’amorce de ce voyage avec une nouvelle équipe consistait à adopter les [« autopsies exemptes de blâme »] (https://landing.google.com/sre/sre-book/chapters/postmortem-culture/), une approche qui vise à déterminer les circonstances qui ont contribué à une erreur, sans pointer du doigt un membre de l’équipe.  
+Une grande partie de l’amorce de ce voyage avec une nouvelle équipe consistait à adopter les [« autopsies exemptes de blâme »](https://landing.google.com/sre/sre-book/chapters/postmortem-culture/), une approche qui vise à déterminer les circonstances qui ont contribué à une erreur, sans pointer du doigt un membre de l’équipe.  
 
 En acceptant que des erreurs ont été commises dans le passé et qu’elles continueront de se produire à l’avenir, nous croyons pouvoir en tirer des leçons et nous protéger contre ces futures erreurs. 
 
@@ -61,5 +61,4 @@ Depuis que nous utilisons ces outils dans le cadre de nos projets, nous avons d�
 
 Nous ne rêvons peut-être pas de moutons électriques, mais je dors mieux la nuit en sachant que l’information que nous utilisons pour prendre des décisions est publique et à la disposition des développeurs au moment où ils en ont le plus besoin. 
 
-Si vous ou votre équipe souhaitez en savoir davantage sur les outils ou les processus dont il a été question ci-dessus, veuillez communiquer directement avec l’un des auteurs des outils sur [Github] (https://github.com/cds-snc) ou [communiquez avec le SNC] (https://numerique.canada.ca/notre-equipe/) par l’entremise de votre média préféré.
-
+Si vous ou votre équipe souhaitez en savoir davantage sur les outils ou les processus dont il a été question ci-dessus, veuillez communiquer directement avec l’un des auteurs des outils sur [Github](https://github.com/cds-snc) ou [communiquez avec le SNC](https://numerique.canada.ca/notre-equipe/) par l’entremise de votre média préféré.
