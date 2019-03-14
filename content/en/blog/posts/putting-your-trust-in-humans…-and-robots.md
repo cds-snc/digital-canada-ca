@@ -38,7 +38,7 @@ We also use industry tools to help us with:
 * [Code review](https://digital.canada.ca/2018/04/24/coding-is-a-team-activity/) 
 * Security analysis and penetration testing
 
-Our team designs internal tools to be \*descriptive rather than prescriptive\* - we don’t tell developers what they need to do, but give them the necessary information to navigate crossroads. This empowers the expert to make the decision, rather than relying on a generic policy as a catch-all safeguard. We also share this information publicly so that these decisions are transparent. 
+Our team designs internal tools to be **descriptive rather than prescriptive** - we don’t tell developers what they need to do, but give them the necessary information to navigate crossroads. This empowers the expert to make the decision, rather than relying on a generic policy as a catch-all safeguard. We also share this information publicly so that these decisions are transparent. 
 
 While using automated tools helps us maintain transparency, the second core ingredient to creating an environment of trust is not punishing mistakes.
 
