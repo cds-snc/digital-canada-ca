@@ -12,7 +12,7 @@ We’re transforming government. Our products will impact people’s everyday li
  
 The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. We're hiring people at all levels of experience in Ottawa, Toronto, Waterloo, and Montreal.
 
-We’re hiring a Senior Procurement Advisor to bring procurement expertise into CDS. You’ll help bring engineering and design firms into our projects to scale our team. You’ll treat businesses as users, finding ways to make it easier for them to navigate the federal buying process. Your work will create room for the smaller firms that are typically excluded by large, complex procurements. Working with our product teams and partners, you’ll enable our teams by providing pathways to outside expertise. 
+We’re hiring a Senior Procurement Advisor to bring procurement expertise into CDS. You’ll help bring engineering and design firms into our projects to support delivery. You’ll treat businesses as users, finding ways to make it easier for them to navigate the federal buying process. Your work will create room for the smaller firms that are typically excluded by large, complex procurements. Working with our product teams and partners, you’ll enable our teams by providing pathways to outside expertise. 
 
 ## We’re looking for someone who will:
 
