@@ -8,7 +8,8 @@
   padding: 1rem;
   z-index: 999;
 
-  @include tablet {
+  // below used to be @include tablet
+  @include menu_break {
     padding-top: 5rem;
   }
 
@@ -24,6 +25,8 @@
 
   // TOPBAR SPECIFIC STYLE FOR HOMEPAGE
   .home &, .accueil & {
+
+    // below used to be @include tablet
     @include tablet {
       padding-top: 3rem;
       position: absolute;
@@ -41,14 +44,15 @@
 ////////////////////////////////////////////////////////////
 
 .cds-logo {
-  background-image: url("../img/cds/cds-logo-en-v2.svg");
+  background-image: url("../img/cds/cds-logo-en.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
   display: block;
   z-index: 1;
-  
+
   @include mobile_only {
+    background-image: url("../img/cds/cds-logo-en-abbrev.svg");
     height: 5rem;
     width: 5rem;
   }
@@ -57,19 +61,28 @@
     height: 8rem;
     width: 8rem;
     position: absolute;
-    top: -3.9rem;
+    // top: -3.9rem;
   }
 
   @include desktop {
     height: 8rem;
     width: 8rem;
-    top: -3.9rem;
+    // top: -3.9rem;
   }
 
   @include tv {
     height: 8rem;
     width: 8rem;
     top: -3.7rem;
+  }
+
+  // added the below custom mixin to address menu content changes
+  @include logo_break {
+      background-image: url("../img/cds/cds-logo-en-abbrev.svg");
+      height: 5rem;
+      width: 5rem;
+      position: absolute;
+      top: 0;
   }
 
   // FRONT PAGE SPECIFIC STYLES FOR CDS LOGO
@@ -79,8 +92,32 @@
 
   // BILINGUAL SPECIFIC CDS LOGO
   .fr & {
-    background-image: url("../img/cds/cds-logo-fr-v2.svg") !important;  
+    background-image: url("../img/cds/cds-logo-fr.svg") !important;
+
+    @include mobile_only {
+      background-image: url("../img/cds/cds-logo-fr-abbrev.svg") !important;
+    }
   }
+
+  /*.en .sticky & { background-image: url('img/cds/cds-logo-en-abbrev.svg') !important; }
+  .fr .sticky & { background-image: url('img/cds/cds-logo-fr-abbrev.svg') !important; }
+
+  .home .sticky .topbar & { display: block !important; }
+
+  .sticky & {
+    @include tablet {
+      position: relative !important;
+      top: 0;
+      height: 5rem;
+      width: 5rem;
+    }
+
+    @include desktop {
+      height: 6rem;
+      width: 6rem;
+    }
+
+  }*/
 }
 
 ////////////////////////////////////////////////////////////
@@ -91,16 +128,15 @@
 
 .top-nav {
   clear: both;
-  float: right;
+  text-align: center;
   list-style: none;
-  text-align: right;
   margin: 1rem 0 1rem 0;
   padding: 0;
-
-  @include mobile_only {
+  
+  @include tablet_break {
     position: fixed;
     width: 100%;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
   }
@@ -113,8 +149,9 @@
 
     a {
       color: $white;
+      
       @include tablet {
-        font-size: 2.5rem;
+        font-size: 2rem;
       }
     }
   }
@@ -124,7 +161,7 @@
 .top-nav--link {
   display: block;
   text-align: center;
-
+  
   @include mobile_only {
     margin: 2rem 0;
   }
@@ -140,7 +177,7 @@
   }
 
   @include desktop {
-    margin: 0 1rem;
+    margin: 0 0.7rem;
   }
 
   // Link Styles
@@ -154,11 +191,11 @@
 
     @include tablet {
       color: $secondary-color;
-      font-size: 1.5rem;
+      font-size: 2rem;
       margin: 0 1.25rem 0.25rem 1.25rem;
 
       .fr & {
-        font-size: 1.4rem;
+        font-size: 2rem;
         padding-left: 0em;
         padding-right: 0em;
       }
@@ -168,7 +205,7 @@
       font-size: 2rem;
 
       .fr & {
-        font-size: 1.7rem;
+        font-size: 2rem;
         padding-left: 0em;
         padding-right: 0em;
       }
@@ -230,7 +267,7 @@
   -webkit-backface-visibility: none;
   -webkit-transform-style: preserve-3d;
 
-  @include tablet {
+  @include menu_break {
     display: block;
   }
 
@@ -303,14 +340,14 @@
   }
 	
 	.mobile-lang {
-	    	display    : block;
-	    	text-align : right;
-	    	color      : $white;
+	  display: block;
+	  text-align: right;
+	  color: $white;
 		position: fixed;
 		top: 2.3rem;
 		left: 2rem;
-		
-		@include tablet{
+    
+		@include tablet {
 			display: none;
 		}
 
@@ -367,7 +404,11 @@
     color: $dark-grey;
   }
 
-  @include tablet {
+  // @include tablet {
+  //   display: none;
+  // }
+
+  @include menu_break {
     display: none;
   }
 }
@@ -414,7 +455,7 @@
   }
 
   .topbar {
-    @include tablet {
+    @include menu_break {
       padding: 0.5rem 1rem;
       margin: 0;
       width: 100%;
