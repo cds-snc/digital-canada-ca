@@ -9,8 +9,8 @@ date: 2019-03-14T13:00:00.000Z
 image: /img/cds/grass-lawn-robot.jpg
 image-alt: 'A small wooden robot stands in a grassy green lawn. '
 translationKey: trust-humans-and-robots
-thumb: ''
-processed: ''
+thumb: /img/cds/thumbnails/grass-lawn-robot.jpg
+processed: 1552576946487
 ---
 Effective product development and service delivery is nothing without trust. As a delivery team at CDS, we often speak to our partners about extending us the trust to help them leave their comfort zones and try new approaches. 
 
@@ -61,3 +61,4 @@ Since using these tools across our projects, we discovered multiple accessibilit
 While we may not dream of electric sheep, I sleep better at night knowing that the information we use to make decisions is public and at the disposal of developers when they need it most. 
 
 If you or your team would like to know more about the tools or processes discussed above, please contact any of the authors of the tools directly on [Github](https://github.com/cds-snc) or [reach out to CDS](https://digital.canada.ca/our-team/) via your preferred medium.
+
