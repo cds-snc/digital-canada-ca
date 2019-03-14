@@ -1,11 +1,11 @@
 ---
 layout: blog
-title: Putting your trust in humans… and robots
+title: Putting your trust in humans…and robots
 description: >-
   By using automated feedback loops, we build an environment of trust that
   improves the quality of products we build.
 author: 'Max Neuvians, Developer'
-date: 2019-03-14T14:19:27.827Z
+date: 2019-03-14T13:00:00.000Z
 image: /img/cds/grass-lawn-robot.jpg
 image-alt: 'A small wooden robot stands in a grassy green lawn. '
 translationKey: trust-humans-and-robots
