@@ -6,7 +6,7 @@ description: >-
   improves the quality of products we build.
 author: 'Max Neuvians, Developer'
 date: 2019-03-14T14:19:27.827Z
-image: /img/cds/grass-lawn-green-wooden-6069.jpg
+image: /img/cds/grass-lawn-robot.jpg
 image-alt: 'A small wooden robot stands in a grassy green lawn. '
 translationKey: trust-humans-and-robots
 thumb: ''
