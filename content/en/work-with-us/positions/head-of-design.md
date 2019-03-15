@@ -6,7 +6,7 @@ description: >-
   We’re looking for a Head of Design to lead our team of user experience,
   interaction, visual, content, and service designers in the creation of
   accessible public services that are simple for everyone to use.
-archived: false
+archived: true
 translationKey: head-of-design
 ---
 We’re transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. We need you.

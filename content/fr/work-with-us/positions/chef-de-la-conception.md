@@ -6,7 +6,7 @@ description: >-
   Nous recherchons un chef de conception qui dirigera une équipe de concepteurs
   visuels, d’interaction, de contenu et de services dans la création de services
   publics accessibles et simples à utiliser pour tous.
-archived: false
+archived: true
 translationKey: head-of-design
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
