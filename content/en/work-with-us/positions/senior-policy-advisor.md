@@ -21,7 +21,8 @@ In this role, you’ll have the opportunity to work with colleagues with diverse
 * Serve on CDS product teams, to help navigate government and problem-solve.
 * Take practical delivery lessons and work with TBS and departments to drive change.
 * Find ways to change rules, governance, and practice to mainstream iterative software development and human-centred design.
-* Develop small solutions and scale them to government-wide potentialHelp measure the impact CDS is having.
+* Develop small solutions and scale them to government-wide potential
+* Help measure the impact CDS is having.
 * Coach, mentor, and help manage a team.
 * Plan, develop, and present briefing and decision materials to senior officials.
 
@@ -39,9 +40,7 @@ In this role, you’ll have the opportunity to work with colleagues with diverse
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
 
 ## At CDS, we don’t just accept difference - we celebrate it.
-
 We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.
 
 ## Interested?
-
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailtoCDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Senior Policy Advisor” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
+Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Senior Policy Advisor” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
