@@ -75,12 +75,13 @@
   }
 
   // added the below custom mixin to address menu content changes
-  @include logo_break {
+  @include logo_break2 {
     height: 5rem;
     width: 5rem;
     position: absolute;
     top: 0;
-}
+  }
+ 
 
   // FRONT PAGE SPECIFIC STYLES FOR CDS LOGO
   .home &, .accueil & {

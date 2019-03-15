@@ -6,8 +6,9 @@
 @mixin tv           { @media ( min-width: 900px ) { @content; } }
 
 // the following mixins are meant to address content changes on our header menus 
-@mixin menu_break { @media (min-width: 1200px) { @content; } }
+@mixin menu_break { @media (min-width: 1210px) { @content; } }
 @mixin logo_break { @media (max-width: 1200px) { @content; } }
+@mixin logo_break2 { @media (max-width: 1209px) { @content; } }
 @mixin tablet_break { @media (max-width: 768px) { @content; } }
 @mixin retina {
 	@media
