@@ -8,7 +8,8 @@
   padding: 1rem;
   z-index: 999;
 
-  @include tablet {
+  // below used to be @include tablet
+  @include menu_break {
     padding-top: 5rem;
   }
 
@@ -24,7 +25,8 @@
 
   // TOPBAR SPECIFIC STYLE FOR HOMEPAGE
   .home &, .accueil & {
-    @include tablet {
+    // below used to be @include tablet
+    @include menu_break {
       padding-top: 3rem;
       position: absolute;
       left: 50%;
@@ -72,6 +74,14 @@
     top: -3.7rem;
   }
 
+  // added the below custom mixin to address menu content changes
+  @include logo_break {
+    height: 5rem;
+    width: 5rem;
+    position: absolute;
+    top: 0;
+}
+
   // FRONT PAGE SPECIFIC STYLES FOR CDS LOGO
   .home &, .accueil & {
     display: none;
@@ -91,16 +101,16 @@
 
 .top-nav {
   clear: both;
-  float: right;
+  text-align: center;
   list-style: none;
-  text-align: right;
   margin: 1rem 0 1rem 0;
   padding: 0;
 
-  @include mobile_only {
+  // below used to be @include tablet
+  @include logo_break {
     position: fixed;
     width: 100%;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
   }
@@ -113,8 +123,10 @@
 
     a {
       color: $white;
-      @include tablet {
-        font-size: 2.5rem;
+      
+      // below used to be @include tablet
+      @include menu_break {
+        font-size: 2rem;
       }
     }
   }
@@ -129,7 +141,8 @@
     margin: 2rem 0;
   }
 
-  @include tablet {
+  // below used to be @include tablet
+  @include menu_break {
     display: inline-block;
     position: relative;
 
@@ -148,30 +161,36 @@
     color: $white;
     font-size: 3.5rem;
     font-weight: 100;
-    margin: 1.5rem;
+    margin: 0.7rem;
     text-decoration: none;
     position: relative;
 
-    @include tablet {
+    // @include tablet {
+    //   color: $secondary-color;
+    //   font-size: 2rem;
+    //   margin: 0 1.25rem 0.25rem 1.25rem;
+
+    //   .fr & {
+    //     font-size: 2rem;
+    //     padding-left: 0em;
+    //     padding-right: 0em;
+    //   }
+    // }
+
+    // @include desktop {
+    //   font-size: 2rem;
+
+    //   .fr & {
+    //     font-size: 2rem;
+    //     padding-left: 0em;
+    //     padding-right: 0em;
+    //   }
+    // }
+
+    // replacing the above previous styles
+    @include menu_break {
       color: $secondary-color;
-      font-size: 1.5rem;
-      margin: 0 1.25rem 0.25rem 1.25rem;
-
-      .fr & {
-        font-size: 1.4rem;
-        padding-left: 0em;
-        padding-right: 0em;
-      }
-    }
-
-    @include desktop {
       font-size: 2rem;
-
-      .fr & {
-        font-size: 1.7rem;
-        padding-left: 0em;
-        padding-right: 0em;
-      }
     }
 
     &::after {
@@ -230,7 +249,8 @@
   -webkit-backface-visibility: none;
   -webkit-transform-style: preserve-3d;
 
-  @include tablet {
+  // below used to be @include tablet
+  @include menu_break {
     display: block;
   }
 
@@ -272,8 +292,8 @@
     color: $white;
     border: none;
     position: fixed;
-    right: 1rem;
-    top: 1rem;
+    right: 10rem;
+    top: 5rem;
     padding: 1rem;
 
     &:focus {
@@ -297,22 +317,34 @@
       border-radius: 50%;
     }
 
-    @include tablet {
+    // used to be @include tablet
+    @include menu_break {
       display: none;
+    }
+
+    @include mobile_only {
+      right: 1rem;
+      top: 1rem;
     }
   }
 	
 	.mobile-lang {
-	    	display    : block;
-	    	text-align : right;
-	    	color      : $white;
+	  display    : block;
+	  text-align : right;
+	  color      : $white;
 		position: fixed;
-		top: 2.3rem;
-		left: 2rem;
+		top: 5.5rem;
+		left: 10rem;
 		
-		@include tablet{
+		// used to be @include tablet
+		@include menu_break {
 			display: none;
-		}
+    }
+    
+    @include mobile_only {
+      top: 2.3rem;
+		  left: 2rem;
+    }
 
     a {
       display: inline-block;
@@ -367,7 +399,8 @@
     color: $dark-grey;
   }
 
-  @include tablet {
+  // below used to be @include tablet
+  @include menu_break {
     display: none;
   }
 }
@@ -414,7 +447,8 @@
   }
 
   .topbar {
-    @include tablet {
+    // below used to be @include tablet
+    @include menu_break {
       padding: 0.5rem 1rem;
       margin: 0;
       width: 100%;

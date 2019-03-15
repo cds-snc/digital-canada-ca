@@ -5,6 +5,10 @@
 @mixin desktop      { @media ( min-width: 992px )  { @content; } }
 @mixin tv           { @media ( min-width: 900px ) { @content; } }
 
+// the following mixins are meant to address content changes on our header menus 
+@mixin menu_break { @media (min-width: 1200px) { @content; } }
+@mixin logo_break { @media (max-width: 1200px) { @content; } }
+@mixin tablet_break { @media (max-width: 768px) { @content; } }
 @mixin retina {
 	@media
 		only screen and (-webkit-min-device-pixel-ratio: 2),
