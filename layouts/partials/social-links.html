@@ -1,53 +1,53 @@
 <div class="social-links-footer">
     <h4 id="contact-us-links">{{i18n "contact-us"}}</h4>
     <p style="display: none" aria-hidden="false">using one of the options below</p>
-    <ul class="contact-info">
+    <ul class="contact-info contact-info-social">
         <li>
             <div class="contact-icon">
                 <a title="Twitter" href="https://twitter.com/{{ i18n "twitter" }}">
-                    <i class="fab fa-twitter" aria-hidden="true"></i>
+                    <i class="icon-twitter" aria-hidden="true"></i>
                 </a>
             </div>
         </li>
         <li>
             <div class="contact-icon">
                 <a title="LinkedIn" href="https://linkedin.com/company/{{$.Site.Data.contact.linkedin}}">
-                    <i class="fab fa-linkedin" aria-hidden="true"></i>
+                    <i class="icon-linkedin" aria-hidden="true"></i>
                 </a>
             </div>
         </li>
         <li>
             <div class="contact-icon">
                 <a title="Github" href="https://github.com/{{.Site.Data.contact.github}}">
-                    <i class="fab fa-github-alt" aria-hidden="true"></i>
+                    <i class="icon-github" aria-hidden="true"></i>
                 </a>
             </div>
         </li>
         <li>
             <div class="contact-icon">
                 <a title="Youtube" href="https://www.youtube.com/channel/UC7LZmDau701R-Tbs3c7miMQ">
-                    <i class="fab fa-youtube" aria-hidden="true"></i>
+                    <i class="icon-youtube" aria-hidden="true"></i>
                 </a>
             </div>
         </li>
         <li>
             <div class="contact-icon">
                 <a title="Medium" href={{ index $.Site.Data.contact.medium (string ($.Site.Language))  "url" }}>
-                    <i class="fab fa-medium" aria-hidden="true"></i>
+                    <i class="icon-medium" aria-hidden="true"></i>
                 </a>
             </div>
         </li>
         <li>
             <div class="contact-icon">
                 <a title="Mailchimp" href={{ index $.Site.Data.contact.mailchimp (string ($.Site.Language)) "url" }}>
-                    <i class="fab fa-mailchimp" aria-hidden="true"></i>
+                    <i class="icon-mailchimp" aria-hidden="true"></i>
                 </a>
             </div>
         </li>
         <li>
             <div class="contact-icon">
-                <a title="Email" href="mailto:{{ .Site.Data.contact.email }}"><i class="fa fa-envelope"
-                        aria-hidden="true"></i></a>
+                <a title="Email" href="mailto:{{ .Site.Data.contact.email }}">
+                    <i class="icon-envelope" aria-hidden="true"></i></a>
             </div>
         </li>
     </ul>

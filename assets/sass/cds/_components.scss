@@ -201,8 +201,11 @@
 	}
 
 	.social-icons a {
-		display: inline-block;
-		padding: 1rem 1.35rem;
+		/*display: inline-block;*/
+		display:inline-flex;
+		justify-content: center;
+		font-size:1em;
+		padding: 1.5rem 1.5rem;
 		border: $primary-color 2px solid;
 		color: $icon-grey;
 		border-radius: 50%;

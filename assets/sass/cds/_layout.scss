@@ -310,7 +310,7 @@ main {
 
 .social-links-footer{
   border-top: 4px solid #066169;
-  margin-bottom:1.6rem;
+  margin-bottom:3.5rem;
 }
 
 .social-links-footer ul{
@@ -325,9 +325,10 @@ main {
 }
 
 .social-links-footer .contact-info li{
-  margin-top:1rem;
+  margin-top:3rem;
   margin-bottom:1rem;
-  @include tablet {
+  
+  @include mobile_only {
     margin-top:2rem;
     margin-bottom:2rem;
   }
