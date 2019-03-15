@@ -75,7 +75,7 @@
   }
 
   // added the below custom mixin to address menu content changes
-  @include logo_break2 {
+  @include logo_break {
     height: 5rem;
     width: 5rem;
     position: absolute;
