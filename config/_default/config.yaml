@@ -25,15 +25,15 @@ languages:
         url: /what-we-do/
         weight: 2
       - identifier: products
-        name: Products
+        name: View our products
         url: /products/
         weight: 6
       - identifier: work-with-us
-        name: Work with us
+        name: Join our team
         url: /work-with-us/
         weight: 4
       - identifier: blog
-        name: Blog
+        name: Read the blog
         url: /blog/
         weight: 5
       - identifier: our-team
@@ -64,11 +64,11 @@ languages:
         url: /ce-que-nous-faisons/
         weight: 2
       - identifier: produits
-        name: Produits
+        name: Découvrir nos produits
         url: /produits/
         weight: 6
       - identifier: travaillez-avec-nous
-        name: Carrières
+        name: Rejoindre notre équipe
         url: /travaillez-avec-nous/
         weight: 4
       - identifier: blogue
