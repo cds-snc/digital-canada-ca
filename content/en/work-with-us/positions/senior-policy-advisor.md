@@ -44,4 +44,4 @@ We proudly, passionately, and actively strive to make CDS more reflective and in
 
 ## Interested?
 
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailtoCDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Senior Policy Advisor” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
+Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Senior Policy Advisor” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
