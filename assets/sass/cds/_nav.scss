@@ -27,7 +27,7 @@
   .home &, .accueil & {
 
     // below used to be @include tablet
-    @include tablet {
+    @include menu_break {
       padding-top: 3rem;
       position: absolute;
       left: 50%;
@@ -133,7 +133,8 @@
   margin: 1rem 0 1rem 0;
   padding: 0;
   
-  @include tablet_break {
+  // below used to be @include tablet
+  @include logo_break {
     position: fixed;
     width: 100%;
     top: 45%;
@@ -149,8 +150,11 @@
 
     a {
       color: $white;
+      font-size: 3.5rem;
+      // color: pink;
       
-      @include tablet {
+      // below used to be @include tablet
+      @include menu_break {
         font-size: 2rem;
       }
     }
@@ -166,7 +170,8 @@
     margin: 2rem 0;
   }
 
-  @include tablet {
+  // below used to be @include tablet
+  @include menu_break {
     display: inline-block;
     position: relative;
 
@@ -189,26 +194,32 @@
     text-decoration: none;
     position: relative;
 
-    @include tablet {
+    // @include tablet {
+    //   color: $secondary-color;
+    //   font-size: 2rem;
+    //   margin: 0 1.25rem 0.25rem 1.25rem;
+
+    //   .fr & {
+    //     font-size: 2rem;
+    //     padding-left: 0em;
+    //     padding-right: 0em;
+    //   }
+    // }
+
+    // @include desktop {
+    //   font-size: 2rem;
+
+    //   .fr & {
+    //     font-size: 2rem;
+    //     padding-left: 0em;
+    //     padding-right: 0em;
+    //   }
+    // }
+
+    // replacing the above previous styles
+    @include menu_break {
       color: $secondary-color;
       font-size: 2rem;
-      margin: 0 1.25rem 0.25rem 1.25rem;
-
-      .fr & {
-        font-size: 2rem;
-        padding-left: 0em;
-        padding-right: 0em;
-      }
-    }
-
-    @include desktop {
-      font-size: 2rem;
-
-      .fr & {
-        font-size: 2rem;
-        padding-left: 0em;
-        padding-right: 0em;
-      }
     }
 
     &::after {
@@ -229,6 +240,8 @@
       @include tablet {
         width: 100%;
         border-width: 1px;
+
+        
       }
     }
 
@@ -309,8 +322,8 @@
     color: $white;
     border: none;
     position: fixed;
-    right: 1rem;
-    top: 1rem;
+    right: 10rem;
+    top: 5rem;
     padding: 1rem;
 
     &:focus {
@@ -334,8 +347,14 @@
       border-radius: 50%;
     }
 
-    @include tablet {
+    // used to be @include tablet
+    @include menu_break {
       display: none;
+    }
+
+    @include mobile_only {
+      right: 1rem;
+      top: 1rem;
     }
   }
 	
@@ -343,13 +362,19 @@
 	  display: block;
 	  text-align: right;
 	  color: $white;
-		position: fixed;
-		top: 2.3rem;
-		left: 2rem;
-    
-		@include tablet {
+    position: fixed;
+    top: 5.5rem;
+		left: 10rem;
+		
+    // used to be @include tablet
+		@include menu_break {
 			display: none;
-		}
+    }
+    
+    @include mobile_only {
+      top: 2.3rem;
+		  left: 2rem;
+    }
 
     a {
       display: inline-block;
@@ -378,7 +403,7 @@
 ////////////////////////////////////////////////////////////
 
 .main-nav-button {
-  display: inline;
+  display: inline-block;
   line-height: 0;
   margin: 0;
   padding: 0;
