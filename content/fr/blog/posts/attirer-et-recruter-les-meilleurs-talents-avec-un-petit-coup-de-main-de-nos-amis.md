@@ -10,10 +10,10 @@ description: >-
   équipes multidisciplinaires.
 author: Andrea Gilbrook et Anatole Papadopoulos
 date: 2019-03-18T15:00:00.000Z
-image: /img/cds/img_7393.jpg
+image: /img/cds/beetletoy.jpg
 image-alt: >-
-  Émilie Payant des Ressources humaines (RH) et Jessica Loadenthal du Service
-  numérique canadien (SNC) travaillent ensemble au bureau du SNC.
+  Un jouet de voiture Volkswagen jaune sur une étagère en bois remplie de
+  livres.
 translationKey: help-from-friends-HR
 ---
 *[On s’en sort avec l’aide de nos amis] (https://numerique.canada.ca/2019/01/31/on-sen-sort-avec-laide-de-nos-amis/) est une série de billets de blogues mettant en vedette les fonctionnaires extraordinaires qui nous permettent, à nous et à nos partenaires, de concevoir et d’offrir de meilleurs services.*
