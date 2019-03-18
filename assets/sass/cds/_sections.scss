@@ -3,6 +3,12 @@
 // FRONTPAGE
 //
 ////////////////////////////////////////////////////
+
+
+.home h2{
+    font-size:5rem;
+}
+
 .homepage--intro {
 	
     .text {
@@ -45,7 +51,7 @@
         margin: 2rem 0;
 
         @include tablet {
-            font-size: 2.4rem;
+            /* font-size: 2.4rem; */
             font-weight: 300;
             line-height: 3.2rem;
             margin-top: 5rem;
