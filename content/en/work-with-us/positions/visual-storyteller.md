@@ -22,7 +22,7 @@ As the Outreach Team, we are the storytellers of the CDS. We tell the stories th
 * Get to know our audiences and find just the right images to help them feel something.
 * Craft great still and moving images that make our blog, social media accounts, presentations, website, and posters… better.
 * Experiment with us. We’re just getting started, and we’re looking for someone who can learn with us as we develop our brand and our style.
-* Tell stories in French first  - to be translated into English
+* Tell stories in French.
 
 ## You’ll fit right in if:
 
@@ -48,4 +48,4 @@ CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orie
 
 ## Interested?
 
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Visual Storyteller” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
+Email us at <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca> with “Visual Storyteller” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
