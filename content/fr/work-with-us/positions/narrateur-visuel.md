@@ -23,7 +23,7 @@ En tant qu’équipe de liaison et diffusion, nous sommes les narrateurs du SNC.
 * Apprendre à connaître notre public et à trouver exactement les images appropriées pour l’aider à ressentir quelque chose.
 * Créer de belles images fixes et mobiles qui améliorent notre blogue, nos médias sociaux, nos présentations, notre site Web et nos affiches. 
 * Expérimenter les nouveautés avec nous. Nous commençons tout juste et nous sommes à la recherche d’une personne qui sait apprendre avec nous, pendant que nous développons notre marque et notre style.
-* Raconter des histoires en français d’abord, à traduire en anglais.
+* Raconter des histoires en français.
 
 ## Vous avez le parfait profil que nous cherchons si :
 
@@ -48,4 +48,4 @@ Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethniqu
 
 ## Vous êtes intéressé?
 
-Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Narrateur visuel » dans la ligne d’objet. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
+Envoyez-nous un courriel à <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca> et indiquez « Narrateur visuel » dans la ligne d’objet. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
