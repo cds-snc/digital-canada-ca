@@ -15,6 +15,7 @@ image-alt: >-
   Un jouet de voiture Volkswagen jaune sur une étagère en bois remplie de
   livres.
 translationKey: help-from-friends-HR
+thumb: /img/cds/beetletoy.jpg
 ---
 *[On s’en sort avec l’aide de nos amis] (https://numerique.canada.ca/2019/01/31/on-sen-sort-avec-laide-de-nos-amis/) est une série de billets de blogues mettant en vedette les fonctionnaires extraordinaires qui nous permettent, à nous et à nos partenaires, de concevoir et d’offrir de meilleurs services.*
 
