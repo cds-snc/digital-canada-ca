@@ -15,8 +15,6 @@ image-alt: >-
   Émilie Payant des Ressources humaines (RH) et Jessica Loadenthal du Service
   numérique canadien (SNC) travaillent ensemble au bureau du SNC.
 translationKey: help-from-friends-HR
-thumb: ''
-processed: ''
 ---
 *[On s’en sort avec l’aide de nos amis] (https://numerique.canada.ca/2019/01/31/on-sen-sort-avec-laide-de-nos-amis/) est une série de billets de blogues mettant en vedette les fonctionnaires extraordinaires qui nous permettent, à nous et à nos partenaires, de concevoir et d’offrir de meilleurs services.*
 

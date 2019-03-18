@@ -12,8 +12,7 @@ image-alt: >-
   Émilie Payant (human resources) and Jessica Loadenthal (CDS) work together at
   the CDS office.
 translationKey: help-from-friends-HR
-thumb: ''
-processed: ''
+
 ---
 *[We get by with a little help from our friends](https://digital.canada.ca/2019/01/31/we-get-by-with-a-little-help-from-our-friends/) is a blog series profiling the amazing public servants who enable us and our partners to design and deliver better services.*
 
