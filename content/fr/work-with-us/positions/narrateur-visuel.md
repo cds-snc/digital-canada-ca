@@ -8,7 +8,7 @@ description: >-
   services gouvernementaux et à rendre la vie des gens meilleure. Si vous êtes
   prêt à nous aider à utiliser moins de mots et plus d’images, alors ce rôle est
   pour vous.
-archived: false
+archived: true
 translationKey: visual-storyteller
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
