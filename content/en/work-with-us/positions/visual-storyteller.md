@@ -7,7 +7,7 @@ description: >-
   that help public servants improve government services and make people’s lives
   better. If you’re ready to help us use fewer words and more pictures, then
   this is the role for you.
-archived: false
+archived: true
 translationKey: visual-storyteller
 ---
 We’re transforming government. Our products will impact people’s everyday lives. It’s an exciting thing to be part of. We need you.
