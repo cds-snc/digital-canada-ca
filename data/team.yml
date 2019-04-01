@@ -535,15 +535,15 @@ team:
       fr: Développement
   - archived: false
     email: victoria.chan@tbs-sct.gc.ca
-    github: 'https://github.com/victoriachanimal'
+    github: victoriachanimal
     image-name: /img/cds/victoria-chan.jpg
-    linkedin: 'https://www.linkedin.com/in/victoriakaychan/'
+    linkedin: victoriakaychan
     name: Victoria Chan
     processed: 1552050695394
     title:
       en: Outreach
       fr: Liaison et diffusion
-    twitter: 'https://twitter.com/vchanimal'
+    twitter: vchanimal
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.jpg
