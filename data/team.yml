@@ -203,6 +203,15 @@ team:
       fr: Gestion de produits
     twitter: ''
   - archived: false
+    email: ''
+    image-name: /img/cds/zak-kain.jpg
+    name: Cayce Fischer
+    processed: 1552050695394
+    title:
+      en: Design
+      fr: Conception
+    twitter: 'autotectonic '
+  - archived: false
     email: Charlotte.Pedersen@tbs-sct.gc.ca
     image-name: /img/cds/charlotte-pederson.jpg
     linkedin: charlottepedersen371
@@ -535,15 +544,6 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: 'https://twitter.com/vchanimal'
-  - archived: false
-    email: zak.kain@cds-snc.ca
-    image-name: /img/cds/zak-kain.jpg
-    name: Zak Kain
-    processed: 1552050695394
-    title:
-      en: Design
-      fr: Conception
-    twitter: zakkain
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.jpg
