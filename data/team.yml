@@ -536,14 +536,14 @@ team:
       fr: Liaison et diffusion
     twitter: 'https://twitter.com/vchanimal'
   - archived: false
-    email: zak.kain@cds-snc.ca
+    email: ''
     image-name: /img/cds/zak-kain.jpg
-    name: Zak Kain
+    name: Cayce Fischer
     processed: 1552050695394
     title:
       en: Design
       fr: Conception
-    twitter: zakkain
+    twitter: 'autotectonic '
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.jpg
