@@ -32,7 +32,7 @@ Au total, plus de 50 personnes provenant des secteurs public et privé, du milie
 
 Mais... les semblables s’attirent. Si nous voulons recruter des gens de divers milieux et de points de vue uniques, nous devons leur offrir un environnement où ils peuvent s’imaginer en train de s’épanouir.
 
-Pour être inclusif, il faut créer des espaces qui incitent les personnes à donner le meilleur d’elles-mêmes, sans discrimination fondée sur la race, l’origine nationale ou ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, la déficience, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse, la situation familiale, l’emplacement géographique... et la liste se poursuit!
+Pour être inclusif, il faut créer des espaces qui incitent les personnes à donner le meilleur d’elles-mêmes, sans discrimination fondée sur la race, l’origine nationale ou ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, la déficience, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse, la situation familiale, l’emplacement géographique... 
 
 Pour y arriver, nous devons inspirer la confiance. La confiance, c’est ce qui fait la différence entre une équipe qui collabore à l’atteinte d’un objectif commun tout en faisant preuve de créativité et un groupe de personnes qui travaillent sur un même projet. Et comme nous l’avons constaté lors de l’événement, c’est nous qui devons faire les premiers pas.
 
