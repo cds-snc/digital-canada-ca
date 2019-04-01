@@ -23,7 +23,6 @@ The accessibility services provided were:
 * Communication Access Realtime Translation (CART), in order to see the talks displayed as text on a screen
 * French translation with headsets for unilingual talks
 
-
 To learn how you can plan inclusive meetings, check out this [guide](https://www.canada.ca/en/employment-social-development/programs/disability/arc/inclusive-meetings.html) from Employment and Social Development Canada (ESDC). 
 
 In total, more than 50 people attended from public and private sectors, academia, and the CivicTech space. So what did we hear?
@@ -31,13 +30,11 @@ In total, more than 50 people attended from public and private sectors, academia
 ## 1. Opposites don’t attract 
 
 Like attracts like. If we want to recruit people with diverse backgrounds and unique perspectives, we have to provide environments where they can see themselves thriving. 
-
 Being inclusive means creating spaces for people to do their best work regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy, family commitments, geography . . .
 
 To get there, we need trust. Trust is the difference between a team creatively working towards the same goal and a group of people just working on the same thing. And that, we heard at the event, all starts at home. 
 
 **Where do we start?**
-
 Participants suggested laying the groundwork for better team inclusion and trust by:
 * Starting small. Don’t feel like you have to climb the mountain in one step. Small acts lead to big impacts. 
 * Creating a source of truth, like a team charter, to explicitly spell out what’s important for team culture.
@@ -59,7 +56,6 @@ Here are some resources and tools that came up to help foster a culture of belon
 * [Google Docs](https://www.google.com/docs/about/) 
 
 ## 2. Know our biases
-
 Even with impactful diversity and inclusion practices, there will always be blind spots. Our limitations translate into how we create digital services, and that's why we’ll always need research, testing, and audits. 
 
 To address blind spots when creating services for a diverse public, participants encouraged:
@@ -90,14 +86,12 @@ The great news? These qualities aren’t limited to traditional “leaders”. T
 What does that then mean? **Everyone has the ability to lead and drive change.** 
 
 ## Our small acts at home
-
 Thank you to everyone who candidly shared their experiences with us in February. As an organization, we don’t take this opportunity to grow lightly. 
 
 Inspired by the discussions and taking to heart that change has to start at home, CDS is committing to creating a space where our team can talk to each other more about diversity, inclusion, and belonging. While we acknowledge that this goal won’t be achieved overnight, in the immediate future our small acts will include:
-
 * Creating a Code of Conduct outlining behavioural expectations and highlighting how we aspire to create the conditions to do our best work together. 
-* Creating and sharing a Conflict Commitment to equip the team with strategies to proactively tackle conflict. 
+* Creating and sharing a Conflict Commitment to equip the team with strategies to proactively tackle conflict.
 * Ensuring all managers take Civility in the Workplace training.
-* Ensuring opportunities for Equity/Allyship training for the entire team. 
- 
+* Ensuring opportunities for Equity/Allyship training for the entire team.  
+
 What small acts have worked for you and your team? [Let us know](https://twitter.com/CDS_GC) so we can keep this important conversation going and collectively make a big impact together. 
