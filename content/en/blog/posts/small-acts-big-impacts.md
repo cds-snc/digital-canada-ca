@@ -32,7 +32,7 @@ In total, more than 50 people attended from public and private sectors, academia
 
 Like attracts like. If we want to recruit people with diverse backgrounds and unique perspectives, we have to provide environments where they can see themselves thriving. 
 
-Being inclusive means creating spaces for people to do their best work regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy, family commitments, geography . . . the list goes on!
+Being inclusive means creating spaces for people to do their best work regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy, family commitments, geography . . .
 
 To get there, we need trust. Trust is the difference between a team creatively working towards the same goal and a group of people just working on the same thing. And that, we heard at the event, all starts at home. 
 
