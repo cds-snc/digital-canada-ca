@@ -6,7 +6,7 @@ description: >-
   it inspired us to take.
 author: 'Charlotte Pedersen, Outreach'
 date: 2019-04-01T17:30:01.712Z
-image: /img/cds/diversity-day-banner-image.jpg
+image: /img/cds/diversity-day-banner-image-2.jpg
 image-alt: >-
   A panel of moderators speaking with sign language interpreters behind them, in
   front of event attendees. 
