@@ -203,6 +203,15 @@ team:
       fr: Gestion de produits
     twitter: ''
   - archived: false
+    email: ''
+    image-name: /img/cds/zak-kain.jpg
+    name: Cayce Fischer
+    processed: 1552050695394
+    title:
+      en: Design
+      fr: Conception
+    twitter: 'autotectonic '
+  - archived: false
     email: Charlotte.Pedersen@tbs-sct.gc.ca
     image-name: /img/cds/charlotte-pederson.jpg
     linkedin: charlottepedersen371
@@ -526,24 +535,15 @@ team:
       fr: Développement
   - archived: false
     email: victoria.chan@tbs-sct.gc.ca
-    github: 'https://github.com/victoriachanimal'
+    github: victoriachanimal
     image-name: /img/cds/victoria-chan.jpg
-    linkedin: 'https://www.linkedin.com/in/victoriakaychan/'
+    linkedin: victoriakaychan
     name: Victoria Chan
     processed: 1552050695394
     title:
       en: Outreach
       fr: Liaison et diffusion
-    twitter: 'https://twitter.com/vchanimal'
-  - archived: false
-    email: zak.kain@cds-snc.ca
-    image-name: /img/cds/zak-kain.jpg
-    name: Zak Kain
-    processed: 1552050695394
-    title:
-      en: Design
-      fr: Conception
-    twitter: zakkain
+    twitter: vchanimal
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.jpg
