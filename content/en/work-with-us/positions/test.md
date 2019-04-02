@@ -5,7 +5,7 @@ title: Quantitative Design Researcher
 description: >-
   We’re hiring a quantitative design researcher. You’ll empower the team to move
   forward by developing metrics and measuring result.
-archived: false
+archived: true
 translationKey: quantitative-researcher
 ---
 We’re transforming government. Our products will impact people’s everyday lives. It’s an exciting thing to be part of. We need you.
