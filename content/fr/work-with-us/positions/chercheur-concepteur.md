@@ -16,7 +16,7 @@ description: >-
   du SNC est un chercheur dans une certaine mesure). Mais surtout, vous
   défendrez les intérêts des personnes qui utilisent les services du
   gouvernement du Canada, des Canadiennes et Canadiens de tous les horizons.
-archived: false
+archived: true
 translationKey: designer-researcher
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
