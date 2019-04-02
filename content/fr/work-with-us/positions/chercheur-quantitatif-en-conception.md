@@ -6,7 +6,7 @@ description: >-
   Nous recherchons un chercheur quantitatif en conception. À ce titre, vous
   aurez à donner à l’équipe les moyens d’aller de l’avant en élaborant des
   indicateurs et en mesurant les résultats.
-archived: false
+archived: true
 translationKey: quantitative-researcher
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
