@@ -13,7 +13,7 @@ description: >-
   every CDS team member is a researcher in some way.) Most importantly, you will
   advocate for the people who use services provided by the Government of Canada;
   Canadians from all walks of life.
-archived: false
+archived: true
 translationKey: designer-researcher
 ---
 We’re transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. We need you.
