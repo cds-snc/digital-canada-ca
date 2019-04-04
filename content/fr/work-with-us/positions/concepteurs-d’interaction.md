@@ -6,7 +6,7 @@ description: >-
   Les concepteurs d’interactions déterminent la meilleure façon de permettre aux
   utilisateurs d’interagir avec les services, tant en termes de flux global
   qu’au niveau des éléments de conception individuels.
-archived: false
+archived: true
 translationKey: interaction-designers
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
