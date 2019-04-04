@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<div class="roadmap-container">
+
+	<div class="roadmap-heading-container">
+		<h1>
+			{{ .Params.title }}
+		</h1>
+	</div>
+
+	<div class="roadmap-content" id="main-content">
+		
+		{{ .Content }}
+
+		<p class="text-right">
+			<span class="sr-only">{{ i18n "roadmap-date-modified" }}</span> 
+			<time datetime="{{ .Params.dateUpdated }}">
+				{{ .Params.dateUpdatedString }}
+			</time>
+			{{ if .Params.versionLabel }}
+			<a href="https://github.com/cds-snc/digital-canada-ca" class="version-history-link" title="{{ i18n "version-history" }}">{{ .Params.versionLabel }}</a>
+			{{ end }}
+		</p>
+
+	</div>
+
+</div>
+
+{{ end }}
