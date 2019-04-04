@@ -5,52 +5,49 @@
         h1 {
             font-size: 52px;
             border-bottom: 0px;
-            max-width: 15em;
+            max-width: 12.3em;
 
             margin-top: 1.05em;
             margin-bottom: 1.05em;
+        }
+
+        h2 {
+            margin-bottom: 0.6em;
+            margin-top: 1.2em;
+        }
+
+        .screenreader-skip-links {
+            list-style-type: none;
+            margin-bottom: 0;
         }
 
         blockquote {
             font-size: inherit;
         }
 
-        .roadmap-introduction, .roadmap-conclusion {
+        p {
+            margin: 0 0 1.5em;
+            line-height: 1.5;
+        }
+
+        .roadmap-content {
             margin: 5rem auto;
             max-width: 61rem;
         }
 
-        .roadmap-action {
-            background-color: #eee;
-            padding: 20px;
-            margin-bottom: 20px;
+        // Date
+        .date {
+            border-left: #000 5px solid;
+            padding-left: 1.5rem;
+            margin-top: 1rem;
+            margin-bottom: 2.5rem;
+        }
+        .version-history-link {
+            display: block;
+        }
 
-            h3 {
-                margin-top: 0;
-            }
-
-            dl {
-                margin-bottom: 5px;
-            }
-
-            ul.tags {
-                float: right;
-                padding-left: 0;
-                margin: 0;
-                li {
-                    font-size: 14px;
-                    background-color: #666;
-                    color: #fff;
-                    margin: 0 6px 6px 0;
-                    padding: 2px 5px;
-                    border-radius: 3px;
-                    display: inline-block;
-
-                }
-            }
-
-            
-
+        .clean-list ul {
+            list-style: none;
         }
 
         .clearfix {
@@ -62,19 +59,61 @@
 
 @media print {
 
+    .no-page-break {
+        page-break-inside: avoid;
+    }
+
     .roadmap-container {
-        font-size: 18px;
+        font-size: 16px;
 
         h1 {
-            font-size: 41px;
+            font-size: 46px;
             border-bottom: 0px;
-            max-width: 15em;
-            margin-top: .6em;
+            max-width: 12.3em;
+            margin-top: 0.5em;
             margin-bottom: .6em;
         }
 
+        h2 {
+            margin-bottom: 0.6em;
+            margin-top: 1.2em;
+        }
+
+        p {
+            margin: 0 0 1.2em;
+        }
+
+        blockquote {
+            font-size: inherit;
+        }
+
+        dl {
+            margin-bottom: 0.2em;
+            font-size: 13px;
+
+            dt, dd {
+                display: inline;
+            }
+        }
+
+        .date {
+            margin-bottom: 1.1em;
+            // padding-bottom: 11.5px;
+         }
+
+
+        // Don't show URLs after links
         a[href]:after {
             content: "";
+        }
+
+        .roadmap-content {
+            margin: 3.5rem auto;
+            max-width: 61rem;
+        }
+
+        .clean-list ul {
+            list-style: none;
         }
 
     }
