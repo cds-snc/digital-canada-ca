@@ -525,7 +525,7 @@ team:
       en: Policy
       fr: Politiques
     twitter: StevieRayTalbot
-  - archived: false
+  - archived: true
     email: Tim.Arney@tbs-sct.gc.ca
     image-name: /img/cds/tim-arney.jpg
     name: Tim Arney
