@@ -6,7 +6,7 @@ description: >-
   other with a clear understanding of what needs to be done.
 author: 'Nancy McKenna, Service Owner'
 date: 2019-04-10T13:45:10.709Z
-image: /img/cds/blog-jam-header.jpg
+image: /img/cds/colourful-umbrellas.jpg
 image-alt: 'Colourful umbrellas floating side by side in the sky. '
 translationKey: cra-colocation
 thumb: ''
