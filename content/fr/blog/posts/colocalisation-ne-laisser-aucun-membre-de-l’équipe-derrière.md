@@ -9,8 +9,7 @@ date: 2019-04-10T13:57:43.293Z
 image: /img/cds/colourful-umbrellas.jpg
 image-alt: Des parapluies colorés flottant côte à côte dans le ciel.
 translationKey: cra-colocation
-thumb: ''
-processed: ''
+thumb: /img/cds/colourful-umbrellas.jpg
 ---
 Je n’arrive pas à croire que j’écris un billet de blogue! En tant que responsable du service pour ce projet à l’Agence du revenu du Canada (ARC), cela fait partie de la longue liste des « premières » que j’ai vécues depuis que j’ai commencé à partager les locaux avec nos partenaires du Service numérique canadien (SNC) il y a un peu plus d’un mois. 
 
