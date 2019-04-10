@@ -11,7 +11,8 @@ image-alt: >-
   Un groupe d’intervenants discute devant les participants de l’événement alors
   que des interprètes gestuels se trouvent derrière eux.
 translationKey: small-acts-big-impact
-thumb: /img/cds/diversity-day-banner-image-2.jpg
+thumb: /img/cds/thumbnails/diversity-day-banner-image.jpg
+processed: 1554905080133
 ---
 Des équipes diversifiées et inclusives offrent des services qui le sont tout autant. C’est pourquoi le vendredi 8 février, le Service numérique canadien a tenu l’événement [Diversité au sein des services numériques](https://www.eventbrite.ca/e/diversity-in-digital-services-diversite-au-sein-des-services-numeriques-registration-51465629082), une journée destinée à échanger des idées à propos de la diversité et de l’inclusion des équipes, ainsi que de leur incidence sur la prestation de meilleurs services.
 
@@ -102,3 +103,4 @@ Inspiré par les discussions et le fait que le changement doit venir de soi, le 
 * veiller à ce que toute l’équipe ait l’occasion de suivre une formation sur l’équité et la solidarité.
 
 Quels sont les petits gestes que vous avez adoptés et qui ont fonctionné pour vous et votre équipe? [Faites-nous-en part](https://twitter.com/SNC_GC) afin que nous puissions poursuivre cet important dialogue et générer ensemble des retombées significatives.
+
