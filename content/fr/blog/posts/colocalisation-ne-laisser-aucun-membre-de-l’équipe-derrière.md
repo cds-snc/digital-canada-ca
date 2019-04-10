@@ -6,7 +6,7 @@ description: >-
   les uns des autres tout en comprenant parfaitement ce qui doit être fait.
 author: 'Nancy McKenna, responsable du service'
 date: 2019-04-10T13:57:43.293Z
-image: /img/cds/blog-jam-header.jpg
+image: /img/cds/colourful-umbrellas.jpg
 image-alt: Des parapluies colorés flottant côte à côte dans le ciel.
 translationKey: cra-colocation
 thumb: ''
