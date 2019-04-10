@@ -11,8 +11,8 @@ image-alt: >-
   A panel of moderators speaking with sign language interpreters behind them, in
   front of event attendees. 
 translationKey: small-acts-big-impact
-thumb: /img/cds/diversity-day-banner-image-2.jpg
-
+thumb: /img/cds/thumbnails/diversity-day-banner-image-2.jpg
+processed: 1554905080022
 ---
 Diverse and inclusive teams deliver diverse and inclusive services. That’s why on Friday, February 8, The Canadian Digital Service hosted [Diversity in Digital Services](https://www.eventbrite.ca/e/diversity-in-digital-services-diversite-au-sein-des-services-numeriques-registration-51465629082), a day to brainstorm ideas around team diversity, inclusion, and their impact on delivering better services. 
 
@@ -104,3 +104,4 @@ Inspired by the discussions and taking to heart that change has to start at home
 * Ensuring opportunities for Equity/Allyship training for the entire team.  
 
 What small acts have worked for you and your team? [Let us know](https://twitter.com/CDS_GC) so we can keep this important conversation going and collectively make a big impact together. 
+
