@@ -53,13 +53,13 @@ exec:
   - archived: false
     email: Colin.MacArthur@tbs-sct.gc.ca
     image-name: /img/cds/colin-mcarthur.jpg
-    linkedin: 'https://www.linkedin.com/in/colinpmacarthur'
+    linkedin: colinpmacarthur
     name: Colin MacArthur
     processed: 1552050695385
     title:
       en: Head of Design Research
       fr: Chef de recherche en conception
-    twitter: 'https://twitter.com/colinpmacarthur'
+    twitter: colinpmacarthur
   - archived: false
     email: Eman.El-Fayomi@tbs-sct.gc.ca
     image-name: /img/cds/eman-elfayomi.jpg
@@ -90,13 +90,13 @@ exec:
   - archived: false
     email: john.obrien@tbs-sct.gc.ca
     image-name: /img/cds/john_obrien.jpg
-    linkedin: 'https://www.linkedin.com/in/boardom/'
+    linkedin: boardom
     name: John O'Brien
     processed: 1552050695386
     title:
       en: Head of Security
       fr: Chef de sécurité
-    twitter: '@boardom_ca'
+    twitter: boardom_ca
   - archived: false
     email: Joshua.Ruihley@tbs-sct.gc.ca
     github: '@jroo'
@@ -109,13 +109,13 @@ exec:
   - archived: false
     email: leanne.labelle@tbs-sct.gc.ca
     image-name: /img/cds/leeane-labelle.jpg
-    linkedin: 'http://www.linkedin.com/in/leannelabelle'
+    linkedin: leannelabelle
     name: Leanne Labelle
     processed: 1552050695386
     title:
       en: Senior Advisor
       fr: Conseiller principal
-    twitter: 'https://twitter.com/leannelabelle?lang=en'
+    twitter: leannelabelle
   - archived: false
     email: Lyn.Elliott@tbs-sct.gc.ca
     image-name: /img/cds/lyn-elliott.jpg
@@ -195,13 +195,12 @@ team:
     email: Bryan.Willey@tbs-sct.gc.ca
     github: 'https://github.com/willeybryan'
     image-name: /img/cds/bryan-willey.jpg
-    linkedin: 'https://www.linkedin.com/in/bryan-willey/'
+    linkedin: bryan-willey
     name: Bryan Willey
     processed: 1552050695389
     title:
       en: Product Management
       fr: Gestion de produits
-    twitter: ''
   - archived: false
     email: cayce.fischer@cds-snc.ca
     image-name: /img/cds/zak-kain.jpg
@@ -220,7 +219,7 @@ team:
     title:
       en: Outreach
       fr: Liaison et diffusion
-    twitter: '@Charp90'
+    twitter: Charp90
   - email: ' Clementine.Hahn@tbs-sct.gc.ca'
     image-name: /img/cds/clementine_hahn.jpg
     name: Clementine Hahn
@@ -278,7 +277,7 @@ team:
   - archived: false
     email: elise.cossette@tbs-sct.gc.ca
     image-name: /img/cds/elise-cossette.jpg
-    linkedin: 'https://www.linkedin.com/in/%C3%A9lise-cossette-590b56ab/'
+    linkedin: élise-cossette-590b56ab
     name: Élise Cossette
     processed: 1552050695391
     title:
@@ -332,23 +331,23 @@ team:
     email: julianna.rowsell@tbs-sct.gc.ca
     github: 'https://github.com/JuliannaR/juliannar.github.io'
     image-name: /img/cds/julianna-rowsell.jpg
-    linkedin: 'https://www.linkedin.com/in/julianna-rowsell-86625624/'
+    linkedin: julianna-rowsell-86625624
     name: Julianna Rowsell
     processed: 1552050695391
     title:
       en: Accessibility
       fr: Accessibilité
-    twitter: '@JuliannaRowsell'
+    twitter: JuliannaRowsell
   - archived: false
     email: Khalid.Elaggan@tbs-sct.gc.ca
     image-name: /img/cds/khalid_elaggan.jpg
-    linkedin: 'https://www.linkedin.com/in/khalidelaggan/'
+    linkedin: khalidelaggan
     name: Khalid Elaggan
     processed: 1552050695392
     title:
       en: Development
       fr: Développement
-    twitter: 'https://twitter.com/ElagganK'
+    twitter: ElagganK
   - archived: false
     email: leon.lukashevsky@codefor.ca
     github: leonL
@@ -380,7 +379,6 @@ team:
     title:
       en: Outreach
       fr: Liaison et diffusion
-    twitter: ''
   - archived: false
     github: maxneuvians
     image-name: /img/cds/max-neuvians.jpg
@@ -393,23 +391,23 @@ team:
   - archived: false
     email: megan.beretta@tbs-sct.gc.ca
     image-name: /img/cds/meg-beretta.jpg
-    linkedin: 'https://ca.linkedin.com/in/meganberetta'
+    linkedin: meganberetta
     name: Megan Beretta
     processed: 1552050695392
     title:
       en: Policy
       fr: Politiques
-    twitter: '@megberetta '
+    twitter: megberetta
   - archived: false
     email: melissa.banyard@tbs-sct.gc.ca
     image-name: /img/cds/mel-banyard.jpg
-    linkedin: 'https://ca.linkedin.com/in/melbanyard'
+    linkedin: melbanyard
     name: Mel Banyard
     processed: 1552050695392
     title:
       en: Design Research
       fr: Recherche en conception
-    twitter: '@melbanyard'
+    twitter: melbanyard
   - archived: false
     email: michelle.ngai@tbs-sct.gc.ca
     image-name: /img/cds/michelle-ngai.jpg
@@ -470,7 +468,6 @@ team:
   - archived: false
     email: samantha.sadasivan@tbs-sct.gc.ca
     image-name: /img/cds/samantha-sadasivan.jpg
-    linkedin: ''
     name: Samantha Sadasivan
     processed: 1552050695393
     title:
