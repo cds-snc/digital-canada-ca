@@ -9,7 +9,8 @@ date: 2019-04-10T13:57:43.293Z
 image: /img/cds/colourful-umbrellas.jpg
 image-alt: Des parapluies colorés flottant côte à côte dans le ciel.
 translationKey: cra-colocation
-thumb: /img/cds/colourful-umbrellas.jpg
+thumb: /img/cds/thumbnails/colourful-umbrellas.jpg
+processed: 1555070214990
 ---
 Je n’arrive pas à croire que j’écris un billet de blogue! En tant que responsable du service pour ce projet à l’Agence du revenu du Canada (ARC), cela fait partie de la longue liste des « premières » que j’ai vécues depuis que j’ai commencé à partager les locaux avec nos partenaires du Service numérique canadien (SNC) il y a un peu plus d’un mois. 
 
@@ -52,3 +53,4 @@ Si le partage des locaux n’est pas une option pour votre espace de travail, il
 Après mes inquiétudes du début, je dois dire que j’ai vraiment été conquise. Je sais que mes collègues et moi-même avons appris quelque chose de très précieux que nous pouvons rapporter à l’ARC bien après avoir terminé notre projet au SNC.
 
 L’Agence du revenu du Canada a travaillé fort pour devenir une organisation plus axée sur les personnes et pour améliorer les services offerts aux Canadiens. Selon moi, le travail que nous faisons ensemble au SNC nous aidera à tenir cette promesse en assurant de meilleurs résultats pour les Canadiens à faible revenu.
+

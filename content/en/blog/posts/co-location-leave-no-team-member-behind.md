@@ -9,8 +9,8 @@ date: 2019-04-10T13:45:10.709Z
 image: /img/cds/colourful-umbrellas.jpg
 image-alt: 'Colourful umbrellas floating side by side in the sky. '
 translationKey: cra-colocation
-thumb: /img/cds/colourful-umbrellas.jpg
-
+thumb: /img/cds/thumbnails/colourful-umbrellas.jpg
+processed: 1555070214884
 ---
 I can’t believe I’m writing a blog post! As a service owner for this project for the Canada Revenue Agency, it’s one of the things in a long list of “firsts” I’ve encountered since co-locating with our partners at the Canadian Digital Service just over a month ago. 
 
@@ -54,3 +54,4 @@ If co-locating isn’t an option for your workspace, there are still ways you ca
 After my initial anxiety about co-locating, I have to say it’s really won me over. I know my colleagues and I have learned something very valuable that we can bring back to CRA long after we’ve finished our project with CDS.
 
 The Canada Revenue Agency has worked hard to become a more people-centric organization, and to improve service for Canadians. Together, I believe the work we’re doing at CDS will help deliver on that promise by ensuring better outcomes for low-income Canadians. 
+
