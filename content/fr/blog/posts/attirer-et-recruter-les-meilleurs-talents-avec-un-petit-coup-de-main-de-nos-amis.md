@@ -15,7 +15,8 @@ image-alt: >-
   Un jouet de voiture Volkswagen jaune sur une étagère en bois remplie de
   livres.
 translationKey: help-from-friends-HR
-thumb: /img/cds/beetletoy.jpg
+thumb: /img/cds/thumbnails/beetletoy.jpg
+processed: 1554905080059
 ---
 *[On s’en sort avec l’aide de nos amis] (https://numerique.canada.ca/2019/01/31/on-sen-sort-avec-laide-de-nos-amis/) est une série de billets de blogues mettant en vedette les fonctionnaires extraordinaires qui nous permettent, à nous et à nos partenaires, de concevoir et d’offrir de meilleurs services.*
 
@@ -41,3 +42,4 @@ Aujourd’hui, nous sommes plus proches que jamais. Émilie Payant partage un es
 La Direction des ressources humaines du SCT nous a aidés à mettre sur pied le genre d’équipe que nous étions supposés bâtir. 
 
 Je remercie Émilie, Caroline et toute l’équipe d’avoir si bien répondu aux besoins de leurs utilisateurs. Le talent est le moteur du SNC, et sans vous, rien de tout cela ne serait possible.
+
