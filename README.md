@@ -14,19 +14,13 @@ Powered by [Hugo](https://gohugo.io/), and the [Web Experience Toolkit](https://
     git clone https://github.com/cds-snc/digital-canada-ca.git
     ```
 
-2. Load submodules
-    
-    ```
-    cd digital-canada-ca
-    git submodule update --init --recursive
-    ```
-3. If you do not have Hugo installed on your machine, install it:
+2. If you do not have Hugo installed on your machine, install it:
 
     ```
     brew install hugo
     ```
 
-4. Serve:
+3. Serve:
 
     ```
     hugo server -D 
@@ -59,19 +53,13 @@ Les sites [numerique.canada.ca](https://numerique.canada.ca) et [digital.canada.
     git clone https://github.com/cds-snc/digital-canada-ca.git
     ```
 
-2. Chargez les sous-modules.
-
-    ```
-    cd digital-canada-ca
-    git submodule update --init --recursive
-    ```
-3. Installez Hugo sur votre ordinateur, si ce n’est pas déjà fait.
+2. Installez Hugo sur votre ordinateur, si ce n’est pas déjà fait.
 
     ```
     brew install hugo
     ```
 
-4. Exécutez le serveur local.
+3. Exécutez le serveur local.
 
     ```
     hugo server -D
