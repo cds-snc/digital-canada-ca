@@ -10,7 +10,8 @@ date: 2019-03-18T15:00:00.000Z
 image: /img/cds/beetletoy.jpg
 image-alt: A yellow Volkswagen beetle toy on wooden shelf filled with books.
 translationKey: help-from-friends-HR
-thumb: /img/cds/beetletoy.jpg
+thumb: /img/cds/thumbnails/beetletoy.jpg
+processed: 1554905079877
 ---
 *[We get by with a little help from our friends](https://digital.canada.ca/2019/01/31/we-get-by-with-a-little-help-from-our-friends/) is a blog series profiling the amazing public servants who enable us and our partners to design and deliver better services.*
 
@@ -37,3 +38,4 @@ Today, our relationship is closer than ever. Émilie Payant co-locates with our 
 The Human Resources Directorate here at TBS has helped us assemble the kind of team we were mandated to build. 
 
 To Émilie, Caroline, and the whole team — thank you for meeting the needs of your users so well. Talent is the engine that drives CDS, and we couldn’t do it without you.
+
