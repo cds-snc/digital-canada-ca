@@ -3,7 +3,7 @@ layout: blog
 title: 'C’est comment, travailler dans une équipe géographiquement dispersée?'
 description: >-
   Une entrevue avec les membres d’équipe d’Anciens Combattants Canada à propos
-  de leur expériences de travail décentralisé.
+  de leur expérience de travail décentralisé.
 author: >-
   Emily Coffin, conceptrice d’expérience utilisateur et Phil Smith, concepteur
   d’expérience utilisateur
