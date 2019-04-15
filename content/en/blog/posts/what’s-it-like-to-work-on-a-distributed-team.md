@@ -6,13 +6,13 @@ description: >-
   experience working distributedly. 
 author: 'Emily Coffin, UX Design and Phil Smith, UX Design'
 date: 2019-04-15T14:46:56.823Z
-image: /img/cds/barn-images-12223-unsplash.jpg
+image: /img/cds/google-hangout.jpg
 image-alt: >-
   Phil and Emily having a coffee chat with a colleague who is in a Google
   Hangout
 translationKey: VAC-distributed-interview
-thumb: ''
-processed: ''
+thumb: /img/cds/thumbnails/google-hangout.jpg
+processed: 1555344168369
 ---
 Meet Phil and Emily, distributed team members from Veteran’s Affairs Canada (VAC) who have been working on the Benefits Finder partnership with us. 
 
@@ -53,3 +53,4 @@ It can be a challenge in the federal government to navigate policies in order to
 ## Q: Would you work distributed again?
 
 **Emily:** I would look forward to doing it again. Especially with the way the workplace movement is going, the opportunity to work remotely myself, even if my team is located here at VAC, if I’m in Ottawa for an event or I need to work from home for a week, I think it’s just the way the workforce is moving. 
+
