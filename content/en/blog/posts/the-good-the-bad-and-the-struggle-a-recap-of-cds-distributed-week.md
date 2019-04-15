@@ -24,8 +24,6 @@ As someone who’s based in Ottawa, the struggle was real. I had an incredibly h
 
 I (digitally) sat down with a colleague, Charlotte, who lives and works in Toronto. We talked about the challenges I faced during Distributed Week and what tips she had to help embrace the struggle.
 
-![Comedian Bo Burnham struggles to place microphone into the microphone stand but once he does he says "Keep it. Keep the struggle." while walking away.](/img/cds/screen-shot-2019-01-10-at-1.25.28-pm.png "Keep it. Keep the struggle.")
-
 ## Guilt
 
 **Lynn:**  Sometimes, I feel guilty about working from home. I feel like I need a really good reason and have to check in with people more regularly to convince them I’m working. That being said, I know both my colleagues and managers aren’t worried about me and don’t need justification, so I’m not sure why I feel that.
