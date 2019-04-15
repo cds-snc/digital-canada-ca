@@ -11,7 +11,8 @@ date: 2019-04-15T15:06:03.334Z
 image: /img/cds/google-hangout.jpg
 image-alt: 'Phil et Emily partagent un café avec un collègue utilisant Google Hangout. '
 translationKey: VAC-distributed-interview
-thumb: /img/cds/google-hangout.jpg
+thumb: /img/cds/thumbnails/google-hangout.jpg
+processed: 1555344168403
 ---
 Rencontrez Phil et Emily, des membres d’équipe géographiquement dispersés d’Anciens Combattants Canada (ACC) qui ont travaillé avec nous au sein du partenariat de recherche d’avantages et de services.
 
@@ -52,3 +53,4 @@ Au gouvernement fédéral, c’est difficile de composer avec les politiques pou
 ## Q : Répéteriez-vous l’expérience du travail décentralisé?
 
 **Emily :** J’ai hâte de recommencer. L’occasion de travailler à distance, même si mon équipe se trouve ici, à ACC, si je suis à un événement à Ottawa ou si je dois travailler de la maison pendant une semaine, est selon moi la façon dont le milieu de travail évolue. 
+
