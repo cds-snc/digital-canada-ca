@@ -8,11 +8,10 @@ author: >-
   Emily Coffin, conceptrice d’expérience utilisateur et Phil Smith, concepteur
   d’expérience utilisateur
 date: 2019-04-15T15:06:03.334Z
-image: /img/cds/barn-images-12223-unsplash.jpg
+image: /img/cds/google-hangout.jpg
 image-alt: 'Phil et Emily partagent un café avec un collègue utilisant Google Hangout. '
 translationKey: VAC-distributed-interview
-thumb: ''
-processed: ''
+thumb: /img/cds/google-hangout.jpg
 ---
 Rencontrez Phil et Emily, des membres d’équipe géographiquement dispersés d’Anciens Combattants Canada (ACC) qui ont travaillé avec nous au sein du partenariat de recherche d’avantages et de services.
 
