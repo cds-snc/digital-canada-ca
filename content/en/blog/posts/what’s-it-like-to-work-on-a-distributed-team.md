@@ -22,7 +22,7 @@ Check out what they have to say about working distributedly from Charlottetown, 
 
 **Phil:** There are a lot of pluses, but then there’s also some negatives that you’ve got to be careful of. It took a little while to get a groove going there with [Michelle, CDS Design Team] who was mainly who I worked with on my end, but once we got a shorthand going it worked very well. It can be such a beneficial way of working because you don’t have to be in the same space all the time. 
 
-**Emily:** Like Phil said, I think there are a lot of unique challenges of working with a distributed team. It’s not as easy to pop your head over to someone’s desk to ask them a question, although nowadays there are so many modern tools like **Slack, Google Hangouts, and Google Drive** that make it a lot easier to communicate and to collaborate with people in different geographical locations. One thing I love is the opportunity to work with people that you wouldn’t normally get the opportunity to work with if working on a distributed team or working remotely wasn’t an option. 
+**Emily:** Like Phil said, I think there are a lot of unique challenges of working with a distributed team. It’s not as easy to pop your head over to someone’s desk to ask them a question, although nowadays there are so many modern tools like  [Slack](https://slack.com/), [Google Hangouts](https://hangouts.google.com/), and [Google Drive](https://drive.google.com/) that make it a lot easier to communicate and to collaborate with people in different geographical locations. One thing I love is the opportunity to work with people that you wouldn’t normally get the opportunity to work with if working on a distributed team or working remotely wasn’t an option. 
 
 ## Q: On a personal level, how has working distributed made your life easier?
 
@@ -32,7 +32,7 @@ Check out what they have to say about working distributedly from Charlottetown, 
 
 **Phil:** The cloud-based tools were really helpful tools for working distributed because they make it very easy to collaborate. Google Drive and all the Google docs and sheets where you actually see other people in another province editing things at the same time as you are really makes it feel like you’re working together from the same space. These tools make it very easy to collaborate while not having to send files back and forth. 
 
-**Emily:** I cannot say enough good things about Slack. When it first came out I didn’t really get it. I kept using it and in my opinion, it’s the best industry standard communications tool. I’d used **Trello** before but not in the same context as we’re using it with this project, so that was a bit of a learning curve for me. We were able to integrate Trello into Slack so anytime there was an update made in Trello we would get notified about it in Slack. 
+**Emily:** I cannot say enough good things about Slack. When it first came out I didn’t really get it. I kept using it and in my opinion, it’s the best industry standard communications tool. I’d used [Trello](https://trello.com/) before but not in the same context as we’re using it with this project, so that was a bit of a learning curve for me. We were able to integrate Trello into Slack so anytime there was an update made in Trello we would get notified about it in Slack. 
 
 It can be a challenge in the federal government to navigate policies in order to get access to new tools. But, it seems as though that’s something that’s changing, not just here at VAC, but across all government departments, as digital policies are starting to become more flexible.
 
@@ -40,7 +40,7 @@ It can be a challenge in the federal government to navigate policies in order to
 
 **Emily:** One big thing I would recommend is to incorporate some kind of daily stand-up or check-in into what you’re doing. It’s a really great way to communicate what you’re working on, see what other people are working on and have a chance to connect with those people, even if you’re not going to be speaking to them or working with them throughout the day. 
 
-**Phil:** I would agree that communication is the biggest thing to consider and to be mindful of all the time. When you’re having those organic conversations or we’re having a meeting, just making sure everybody that should be included, is included. We started using Google Hangouts for meetings for smaller conversations so we can have more of a face-to-face experience. I’d also say Cloud-based applications are by far the better option for collaboration. In our case, we used **Sketch**. I’m now realizing if we’d used **Figma** we could have collaborated even better on work. 
+**Phil:** I would agree that communication is the biggest thing to consider and to be mindful of all the time. When you’re having those organic conversations or we’re having a meeting, just making sure everybody that should be included, is included. We started using Google Hangouts for meetings for smaller conversations so we can have more of a face-to-face experience. I’d also say Cloud-based applications are by far the better option for collaboration. In our case, we used [Sketch](https://www.sketch.com/). I’m now realizing if we’d used [Figma](https://www.figma.com/) we could have collaborated even better on work. 
 
 ## Q: How did you bring the fun into your experience of working distributed?
 
