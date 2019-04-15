@@ -26,8 +26,6 @@ En tant qu’employée qui travaille à Ottawa, la lutte était réelle. J’ai 
 
 Je me suis assise (numériquement) avec une collègue, Charlotte, qui vit et travaille à Toronto. Nous avons parlé des défis auxquels j’ai été confrontée pendant la Semaine de la décentralisation et elle m’a donné des conseils pour m’aider à accepter de poursuivre la lutte.
 
-Le comédien Bo Burnham tente de poser le microphone et lutte contre le pied de microphone, mais après avoir réussi, il dit tout en s’éloignant : « Lâche pas. Lâche pas la patate. »
-
 ## Culpabilité
 **Lynn :** Parfois, je me sens coupable de travailler à domicile. J’ai l’impression d’avoir besoin d’une très bonne raison et d’avoir à communiquer plus régulièrement avec les gens pour les convaincre que je travaille. Cela dit, je sais que tant mes collègues que mes gestionnaires ne sont pas inquiets à mon sujet et n’ont pas besoin de justification. Je ne sais donc pas pourquoi je ressens ces sentiments.
 
