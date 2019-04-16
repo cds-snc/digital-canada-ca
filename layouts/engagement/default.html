@@ -14,25 +14,25 @@
     <meta name="description" content="{{ .Params.description }}">
 
     <!--[if gte IE 9 | !IE ]><!-->
-    <link href="/lib/gcweb-dist/assets/favicon.ico" rel="icon" type="image/x-icon">
-    <link rel="stylesheet" href="/lib/gcweb-dist/GCWeb/css/theme.min.css">
+    <link href="/lib-cds/gcweb-dist/assets/favicon.ico" rel="icon" type="image/x-icon">
+    <link rel="stylesheet" href="/lib-cds/gcweb-dist/GCWeb/css/theme.min.css">
 
     {{ $sass := resources.Get "sass/engagement.scss" }}
     {{ $css := $sass | resources.ToCSS }}
     <link rel="stylesheet" href="{{ print $css.RelPermalink | replaceRE "^/[a-z]{2}/(.*)" "$1" }}" media="screen" />
     <!--<![endif]-->
     <!--[if lt IE 9]>
-    <link href="/lib/gcweb-dist/assets/favicon.ico" rel="shortcut icon" />
+    <link href="/lib-cds/gcweb-dist/assets/favicon.ico" rel="shortcut icon" />
 
-    <link rel="stylesheet" href="/lib/gcweb-dist/GCWeb/css/ie8-theme.min.css" />
+    <link rel="stylesheet" href="/lib-cds/gcweb-dist/GCWeb/css/ie8-theme.min.css" />
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="/lib/gcweb-dist/wet-boew/js/ie8-wet-boew.min.js"></script>
+    <script src="/lib-cds/gcweb-dist/wet-boew/js/ie8-wet-boew.min.js"></script>
     <![endif]-->
     <!--[if lte IE 9]>
 
     <![endif]-->
     <noscript>
-        <link rel="stylesheet" href="/lib/gcweb-dist/wet-boew/css/noscript.min.css" />
+        <link rel="stylesheet" href="/lib-cds/gcweb-dist/wet-boew/css/noscript.min.css" />
     </noscript>
     <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
     <script>
@@ -118,12 +118,12 @@
 </footer>
 <!--[if gte IE 9 | !IE ]><!-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
-<script src="/lib/gcweb-dist/wet-boew/js/wet-boew.min.js"></script>
+<script src="/lib-cds/gcweb-dist/wet-boew/js/wet-boew.min.js"></script>
 <!--<![endif]-->
 <!--[if lt IE 9]>
-<script src="/lib/gcweb-dist/wet-boew/js/ie8-wet-boew2.min.js"></script>
+<script src="/lib-cds/gcweb-dist/wet-boew/js/ie8-wet-boew2.min.js"></script>
 <![endif]-->
-<script src="/lib/gcweb-dist/GCWeb/js/theme.min.js"></script>
+<script src="/lib-cds/gcweb-dist/GCWeb/js/theme.min.js"></script>
 
 <!-- Extras -->
 <script src="/js/engagement-app.js"></script>

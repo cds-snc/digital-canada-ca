@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/*
+ * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+ * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
+ */
+/*
+ * Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+ * wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
+ */
+/*
+ * HOW TO USE THIS FILE
+ * Use this file to override Bootstrap variables and WET custom variables.
+ * If there is a Bootstrap variable not shown here that you want to override, go to "../node_modules/bootstrap-sass/assets/stylesheets/bootstrap/variables" to view the variables that you can override. Simply copy and paste the variable and its applicable section (if applicable) from the Bootstrap file into this override file and override the variables as applicable.
+ */
+.picker-overlay .cal-days a:hover, .picker-overlay .cal-days a:focus {
+  color: #fff !important; }
+
+.wb-date-wrap.input-group {
+  width: 10em; }
+
+.picker-overlay {
+  display: none;
+  position: absolute;
+  z-index: 10000; }
+  .picker-overlay.open {
+    display: block; }
+  .picker-overlay .picker-close {
+    font-size: 1.7em; }
+    .picker-overlay .picker-close.mfp-close {
+      background: #333;
+      border-radius: 0 10px 10px 0;
+      opacity: 1;
+      right: -44px; }
+  .picker-overlay .cal-days a {
+    color: #111;
+    text-decoration: underline; }
+    .picker-overlay .cal-days a[aria-selected] {
+      outline: 5px solid #000; }
+  .picker-overlay .cal-days td > time {
+    color: #999; }
+
+.datepicker-format {
+  display: inline !important; }
+
+[dir=rtl] .picker-toggle {
+  margin-left: 0;
+  margin-right: 5px; }
