@@ -1,6 +1,5 @@
-<!DOCTYPE html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="{{ (string ( $.Site.Language) ) }}" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
+<!DOCTYPE html>
     <html class="no-js" lang="{{ (string ( $.Site.Language) ) }}" dir="ltr">
-    <!--<![endif]-->
     {{ $pageTitle := i18n .Params.title }}
     <head>
         <meta charset="utf-8">
@@ -11,34 +10,17 @@
         <!-- Meta data -->
         <meta name="description" content="{{ .Params.description }}">
         <!-- Meta data-->
-        <!--[if gte IE 9 | !IE ]><!-->
-        <link href="/lib-cds/gcweb-dist/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon">
-        
-        
+        <link href="/lib-cds/gcweb-dist/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon"> 
         <link rel="preload" href="/fonts/HKGrotesk-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
         <link rel="preload" href="/fonts/HKGrotesk-SemiBold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
         <link rel="preload" href="/fonts/HKGrotesk-Light.woff2" as="font" type="font/woff2" crossorigin="anonymous">
         <link rel="preload" href="/fonts/HKGrotesk-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
         <link rel="preload" href="/fonts/HKGrotesk-Medium.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-        
         <link rel="stylesheet" href="/lib-cds/gcweb-dist/GCWeb/css/theme.min.css">
-
-
         <!-- workaround to get hugo pipes working with multihost: https://discourse.gohugo.io/t/problem-getting-hugo-pipes-working-with-multiple-languages/13477 -->
         {{- $target := printf "/sass/cds.css" }}
         {{- $css := resources.Get "sass/cds.scss" | toCSS (dict "targetPath" $target)}}
         <link rel="stylesheet" href="{{ print $css.RelPermalink | replaceRE "^/[a-z]{2}/(.*)" "$1" }}" media="screen" />
-        <!--<![endif]-->
-        <!--[if lt IE 9]>
-        <link href="/lib-cds/gcweb-dist/GCWeb/assets/favicon.ico" rel="shortcut icon" />
-    
-        <link rel="stylesheet" href="/lib-cds/gcweb-dist/GCWeb/css/ie8-theme.min.css" />
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        <script src="/lib-cds/gcweb-dist/wet-boew/js/ie8-wet-boew.min.js"></script>
-        <![endif]-->
-        <!--[if lte IE 9]>
-    
-        <![endif]-->
         <noscript><link rel="stylesheet" href="/lib-cds/gcweb-dist/wet-boew/css/noscript.min.css" /></noscript>
         <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
         <script>dataLayer1 = [];</script>
@@ -107,17 +89,10 @@
     <footer role="contentinfo" id="wb-info">
         {{ partial "footer.html" }}
     </footer>
-    <!--[if gte IE 9 | !IE ]><!-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
     <script src="/lib-cds/gcweb-dist/wet-boew/js/wet-boew.min.js"></script>
-    <!--<![endif]-->
-    <!--[if lt IE 9]>
-    <script src="/lib-cds/gcweb-dist/wet-boew/js/ie8-wet-boew2.min.js"></script>
-    
-    <![endif]-->
     <script src="/lib-cds/gcweb-dist/GCWeb/js/theme.min.js"></script>
     <script src="/js/cds-app.js"></script>
-    
     <!-- Google Analytics -->
         {{ partial "analytics.html" }}
     {{ end }}
