@@ -55,21 +55,25 @@ To ensure the product was meeting the standards set by the [Government of Canada
 ### Design with users
 
 **Description:** Research with users to understand their needs and the problems we want to solve. Conduct ongoing testing with users to guide design and development.
+
 **Score:** We did research and usability testing with 106 participants, including 81 participants over four sessions from the beta phase.
 
 ### Iterate and improve frequently
 
 **Description:** Develop services using agile, iterative, and user-centred methods. Continuously improve in response to user needs.
+
 **Score:** Throughout beta, the delivery team averaged 17 production deployments a week.
 
 ### Build accessibility in from the start
 
 **Description:** Services should meet or exceed accessibility standards. Users with distinct needs should be engaged from the outset to ensure what is delivered will work for everyone.
+
 **Score:** The product was 89% compliant against Web Content Accessibility Guidelines (WCAG) 2.1 AA.
 
 ### Collaborate widely
 
 **Description:** Create multidisciplinary teams with the range of skills needed to deliver a common goal.
+
 **Score:** VAC’s delivery team of 8 represented 8 disciplines (product management, delivery management, development, DevOps, business analysis, design, design research, content design).
 
 ## Passing the torch 
