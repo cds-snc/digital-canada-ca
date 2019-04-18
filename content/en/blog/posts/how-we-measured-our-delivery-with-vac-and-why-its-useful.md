@@ -22,29 +22,55 @@ From our in-depth user interviews in discovery, we identified three indicators w
 
 The following metrics are taken from our final usability test with 31 participants. We explain why we chose to test for each of these KPIs, how we knew the test met the goal, and what the average score was following our rounds of testing.
 
-| KPI | Why we're testing | How we're testing | Average Score |
-| --- | --- | --- | --- |
-| Completion rate | Veterans reported they needed guidance while searching for benefits. Completion rate lets us understand if Veterans can find benefits and are taking their next steps to learn more or apply. | Participants identify if they found benefits that are relevant to their needs. | 79.3% |
-| Confidence ranking | Veterans reported they need better-set expectations and clearer information during the process. | Participants give a score (from 1 to 10) on how confident they are in their results. | 7.4 out of 10 |
-| Comprehension | Veterans reported they experience information overload, disconnect with VAC's language, and stigma when deciding to apply. | Participants identify unclear words in the product. | 1 in 4 Veterans report one unclear word |
+### Completion rate
+
+**Why:** Veterans reported they needed guidance while searching for benefits. Completion rate lets us understand if Veterans can find benefits and are taking their next steps to learn more or apply. 
+
+**Score:** 79.3% of participants identified that they found benefits that were relevant to their needs. 
+
+### Confidence ranking
+
+**Why:** Veterans reported they need better-set expectations and clearer information during the process.
+
+**Score:** Participants gave a score of 7.4 out of 10 on how confident they are in their results.
+
+### Comprehension*
+
+**Why:** Veterans reported they experience information overload, disconnect with VAC’s language, and stigma when deciding to apply.
+
+**Score:** 1 in 4 participants reported a single unclear word.
 
 *A part of comprehension is the reading level of our content. We measured the reading level of our one-line descriptions to ensure that Veterans can quickly scan the content, get a sense of the benefit, and see if it’s one for them.
 
 The average reading level:
+
 English: **grade 8.5**
+
 French: **grade 9**
 
 ## Other metrics
 
 To ensure the product was meeting the standards set by the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), we conduct regular audits of product accessibility, deployment figures, and usability tests.
 
+### Design with users
 
-| Standard | Description | Score |
-| --- | --- | --- |
-| Design with users | Research with users to understand their needs and the problems we want to solve. Conduct ongoing testing with users to guide design and development. | We did research and usability testing with 106 participants, including 81 participants over four sessions from the beta phase. |
-| Iterate and improve frequently | Develop services using agile, iterative, and user-centred methods. Continuously improve in response to user needs. | Throughout beta, the delivery team averaged 17 production deployments a week. |
-| Build accessibility in from the start | Services should meet or exceed accessibility standards. Users with distinct needs should be engaged from the outset to ensure what is delivered will work for everyone. | The product was 89% compliant against Web Content Accessibility Guidelines (WCAG) 2.1 AA. |
-| Collaborate widely | Create multidisciplinary teams with the range of skills needed to deliver a common goal. | VAC's delivery team of 8 represented 8 disciplines (product management, delivery management, development, DevOps, business analysis, design, design research, content design). |
+**Description:** Research with users to understand their needs and the problems we want to solve. Conduct ongoing testing with users to guide design and development.
+**Score:** We did research and usability testing with 106 participants, including 81 participants over four sessions from the beta phase.
+
+### Iterate and improve frequently
+
+**Description:** Develop services using agile, iterative, and user-centred methods. Continuously improve in response to user needs.
+**Score:** Throughout beta, the delivery team averaged 17 production deployments a week.
+
+### Build accessibility in from the start
+
+**Description:** Services should meet or exceed accessibility standards. Users with distinct needs should be engaged from the outset to ensure what is delivered will work for everyone.
+**Score:** The product was 89% compliant against Web Content Accessibility Guidelines (WCAG) 2.1 AA.
+
+### Collaborate widely
+
+**Description:** Create multidisciplinary teams with the range of skills needed to deliver a common goal.
+**Score:** VAC’s delivery team of 8 represented 8 disciplines (product management, delivery management, development, DevOps, business analysis, design, design research, content design).
 
 ## Passing the torch 
 
