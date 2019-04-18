@@ -6,13 +6,13 @@ description: >-
   vient.
 author: Stevie-Ray Talbot et Courtney Claessens
 date: 2019-04-18T13:00:00.000Z
-image: /img/cds/screen-shot-2019-01-10-at-1.25.28-pm.png
+image: /img/cds/VACBemchmarkBlogFR.jpg
 image-alt: >-
   Une capture d’écran de la page d’accueil de l’outil Rechercher des avantages
   et des services.
 translationKey: by-the-numbers
-thumb: ''
-processed: ''
+thumb: /img/cds/thumbnails/VACBemchmarkBlogFR.jpg
+processed: 1555598177584
 ---
 Au cours de la dernière année, une équipe composée d’employés du Service numérique canadien (SNC) et d’Anciens Combattants Canada (ACC) a collaboré à la création de l’application [*Rechercher des avantages et des services*] (https://github.com/veteransaffairscanada/vac-benefits-directory). Au cours de l’année, nous avons travaillé en étroite collaboration, nous avons appris et nous avons grandi ensemble.
 
@@ -26,7 +26,11 @@ Tout au long de notre partenariat, nous nous sommes concentrés sur la collecte 
 
 Les mesures suivantes sont tirées de notre test d’utilisabilité final mené auprès de 31 participants. Nous expliquons pourquoi nous avons choisi de mettre à l’essai chacun de ces IRC, comment nous savions que le test atteignait l’objectif et quelle était la note moyenne après nos séries de tests.
 
-table
+| IRC | Pourquoi nous menons des tests | Notre façon de procéder | Note moyenne |
+| --- | --- | --- | --- |
+| Taux de succès | Les anciens combattants ont indiqué qu'ils avaient besoin de conseils pendant leur recherche d'avantages. Le taux de succès nous permet de savoir si les anciens combattants réussissent à trouver des avantages et s'ils prennent les mesures nécessaires pour en apprendre davantage ou présenter une demande. | Les participants indiquent s'ils ont trouvé des avantages qui répondent à leurs besoins. | 79,3 % |
+| Cote de confiance | Les anciens combattants ont indiqué avoir besoin d'attentes mieux définies et de renseignements plus clairs pendant le processus. | Les participants donnent une note (de 1 à 10) sur leur degré de confiance envers leurs résultats. | 7,4 sur 10 |
+| Compréhension | Les anciens combattants ont déclaré être surchargés d'information, déconnectés du langage d'ACC et stigmatisés lorsqu'ils décident de présenter une demande. | Les participants indiquent des mots imprécis dans le produit. | 1 vétéran sur 4 a indiqué un mot imprécis |
 
 *Une partie de la compréhension découle du niveau de lecture de notre contenu. Nous avons mesuré le niveau de lecture de nos brèves descriptions pour nous assurer que les anciens combattants peuvent parcourir rapidement le contenu, avoir une idée des avantages et voir si ceux-ci s’appliquent à leur situation.
 
@@ -38,7 +42,13 @@ Français : **3e secondaire**
 
 Pour veiller à ce que le produit respecte les normes établies par les [Normes numériques du gouvernement du Canada] (https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html), nous évaluons régulièrement l’accessibilité des produits, les chiffres sur les déploiements et les tests d’utilisabilité.
 
-Table
+
+| Norme | Description | Note |
+| --- | --- | --- |
+| Concevoir avec les utilisateurs | Faire des recherches en collaboration avec les utilisateurs pour bien comprendre leurs besoins et les problèmes que nous voulons régler. Mener des essais continus avec les utilisateurs pour éclairer la conception et le développement. | Nous avons mené des recherches et des tests d'utilisabilité auprès de 106 participants, et 81 d'entre eux ont participé à quatre séances de la phase bêta. |
+| Effectuer régulièrement des itérations et des améliorations | Élaborer des services au moyen de méthodes agiles et itératives, axées sur l'utilisateur. Effectuer constamment des améliorations en réponse aux besoins des utilisateurs. | Tout au long de la phase bêta, l'équipe de prestation a effectué en moyenne 17 déploiements de production par semaine. |
+| Intégrer l'accessibilité dès le départ   | Les services devraient respecter ou dépasser les normes d'accessibilité. Communiquer dès le départ avec les utilisateurs ayant des besoins particuliers, pour s'assurer que le résultat conviendra à tout le monde. | Le produit était conforme à 89 % par rapport aux Règles pour l'accessibilité des contenus Web (WCAG) 2.1 AA. |
+| Collaborer largement | Créer des équipes multidisciplinaires ayant des compétences variées qui sont nécessaires à l'atteinte d'un objectif commun. | L'équipe de prestation d'ACC, composée de 8 membres, représentait 8 disciplines (gestion de produit, gestion de la livraison, développement, opérations de développement, analyse opérationnelle, conception, recherche en conception, conception de contenu). |
 
 ## Passer le flambeau 
 
@@ -51,3 +61,4 @@ Nous sommes honorés d’avoir pu travailler avec ACC et participer à une meill
 Nous avons créé [une version générique](https://benefits-avantages.cds-snc.ca/?utm_source=CDS_measurement_blog) de ce produit qui est [disponible sur GitHub](https://github.com/cds-snc/find-benefits-and-services) et qui peut être adaptée par n’importe quel ministère pour leur cas d’utilisation spécifique!
 
 Si vous souhaitez prendre le code (ou toute autre partie du processus) et qu’un pépin arrive en cours de route, n’hésitez pas à créer un [problème (issue) dans GitHub](https://github.com/cds-snc/find-benefits-and-services/issues) ou à communiquer avec nous par courriel à l’adresse [cds-snc@tbs-sct.gc.ca] (mailto:cds-snc@tbs-sct.gc.ca). Vous pouvez aussi nous trouver sur Twitter à [@sidewalkballet](https://twitter.com/sidewalkballet) et [@stevieraytalbot](https://twitter.com/StevieRayTalbot).
+
