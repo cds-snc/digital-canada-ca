@@ -1,0 +1,53 @@
+---
+layout: blog
+title: Comment nous avons mesuré notre prestation avec ACC et pourquoi c’est utile
+description: >-
+  Nous sommes extrêmement fiers de ce partenariat et emballés par ce qui s’en
+  vient.
+author: Stevie-Ray Talbot et Courtney Claessens
+date: 2019-04-18T13:00:00.000Z
+image: /img/cds/screen-shot-2019-01-10-at-1.25.28-pm.png
+image-alt: >-
+  Une capture d’écran de la page d’accueil de l’outil Rechercher des avantages
+  et des services.
+translationKey: by-the-numbers
+thumb: ''
+processed: ''
+---
+Au cours de la dernière année, une équipe composée d’employés du Service numérique canadien (SNC) et d’Anciens Combattants Canada (ACC) a collaboré à la création de l’application [*Rechercher des avantages et des services*] (https://github.com/veteransaffairscanada/vac-benefits-directory). Au cours de l’année, nous avons travaillé en étroite collaboration, nous avons appris et nous avons grandi ensemble.
+
+Ce partenariat comportait des phases découverte, alpha et bêta. Ensemble, nous avons mené des recherches en conception pour déterminer les besoins des anciens combattants et de leurs familles. Ici au SNC, nous sommes extrêmement fiers du travail acharné que l’équipe d’ACC a accompli.
+
+Tout au long de notre partenariat, nous nous sommes concentrés sur la collecte de mesures appelées indicateurs de rendement clés (IRC). Ces IRC nous ont aidés à évaluer si le produit fonctionnait ou non en fonction de ce que les anciens combattants nous ont dit. Nous avons également suivi des indicateurs de développement agile de produits et de conception centrée sur la personne. Ces indicateurs ont tous été fondés sur les [Normes numériques du gouvernement du Canada] (https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html). Ces dernières aident à évaluer la fonction générale et la norme pour les services gouvernementaux.
+
+## Indicateurs de rendement clés (IRC)
+
+À partir des entrevues approfondies que nous avons menées auprès des utilisateurs pendant la phase de découverte, nous avons déterminé trois indicateurs que nous voulions mettre à l’essai pour déterminer le taux de succès du produit, la confiance envers le produit et la compréhension du produit. En cours de route, nous avons utilisé ces IRC en vue de mesurer les incidences de chaque modification.
+
+Les mesures suivantes sont tirées de notre test d’utilisabilité final mené auprès de 31 participants. Nous expliquons pourquoi nous avons choisi de mettre à l’essai chacun de ces IRC, comment nous savions que le test atteignait l’objectif et quelle était la note moyenne après nos séries de tests.
+
+table
+
+*Une partie de la compréhension découle du niveau de lecture de notre contenu. Nous avons mesuré le niveau de lecture de nos brèves descriptions pour nous assurer que les anciens combattants peuvent parcourir rapidement le contenu, avoir une idée des avantages et voir si ceux-ci s’appliquent à leur situation.
+
+Le niveau de lecture moyen :
+Anglais : **entre la 2e et la 3e secondaire**
+Français : **3e secondaire**
+
+## Autres mesures
+
+Pour veiller à ce que le produit respecte les normes établies par les [Normes numériques du gouvernement du Canada] (https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html), nous évaluons régulièrement l’accessibilité des produits, les chiffres sur les déploiements et les tests d’utilisabilité.
+
+Table
+
+## Passer le flambeau 
+
+Maintenant que le produit est entre les mains d’ACC, on se prépare à le rendre public d’ici la fin d’avril et à poursuivre la phase bêta. Jusqu’à maintenant, nos essais se sont déroulés dans un cadre modéré, et bien que nous ayons de très bonnes données pour nous dire que l’application *Rechercher des avantages et des services* fonctionne pour les anciens combattants, nous ne le saurons pas avec certitude jusqu’à ce que l’outil soit mis en ligne. Mais c’est la valeur d’une approche itérative : on reçoit de la rétroaction tôt et souvent pour limiter le risque. 
+
+Nous sommes honorés d’avoir pu travailler avec ACC et participer à une meilleure prestation de services aux anciens combattants. Nous sommes impatients de découvrir la réaction de l’équipe d’ACC face aux commentaires des anciens combattants sur l’outil, lorsque celui-ci sera « dans la nature » et qu’il sera utilisé par des milliers de personnes. Nous avons adoré travailler avec l’équipe de prestation. Nous sommes heureux qu’elle continue d’explorer et d’améliorer le service en plaçant les anciens combattants et leurs familles au cœur du projet.
+
+## Aimeriez-vous savoir si ce produit peut aider *vos* utilisateurs à trouver des services?
+
+Nous avons créé [une version générique](https://benefits-avantages.cds-snc.ca/?utm_source=CDS_measurement_blog) de ce produit qui est [disponible sur GitHub](https://github.com/cds-snc/find-benefits-and-services) et qui peut être adaptée par n’importe quel ministère pour leur cas d’utilisation spécifique!
+
+Si vous souhaitez prendre le code (ou toute autre partie du processus) et qu’un pépin arrive en cours de route, n’hésitez pas à créer un [problème (issue) dans GitHub](https://github.com/cds-snc/find-benefits-and-services/issues) ou à communiquer avec nous par courriel à l’adresse [cds-snc@tbs-sct.gc.ca] (mailto:cds-snc@tbs-sct.gc.ca). Vous pouvez aussi nous trouver sur Twitter à [@sidewalkballet](https://twitter.com/sidewalkballet) et [@stevieraytalbot](https://twitter.com/StevieRayTalbot).
