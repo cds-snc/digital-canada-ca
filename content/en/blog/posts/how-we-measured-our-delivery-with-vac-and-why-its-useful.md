@@ -44,9 +44,8 @@ The following metrics are taken from our final usability test with 31 participan
 
 The average reading level:
 
-English: **grade 8.5**
-
-French: **grade 9**
+* English: **grade 8.5**
+* French: **grade 9**
 
 ## Other metrics
 
