@@ -48,9 +48,8 @@ Les mesures suivantes sont tirées de notre test d’utilisabilité final mené 
 
 Le niveau de lecture moyen :
 
-Anglais : **entre la 2e et la 3e secondaire**
-
-Français : **3e secondaire**
+* Anglais : **entre la 2e et la 3e secondaire**
+* Français : **3e secondaire**
 
 ## Autres mesures
 
