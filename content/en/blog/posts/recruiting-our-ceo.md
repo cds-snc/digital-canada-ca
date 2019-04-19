@@ -13,7 +13,7 @@ thumb: /img/cds/thumbnails/blog-ceo-recruitment.jpg
 processed: 1550672961742
 ---
 
-We recently [announced](https://digital.canada.ca/2018/03/09/CDS-gets-its-first-CEO/) that Aaron Snow is joining CDS as our first CEO. I’m delighted that Aaron is taking the leap to move to Ottawa and be part of our digital movement.
+We recently [announced](https://digital.canada.ca/2018/03/09/cds-gets-its-first-ceo/) that Aaron Snow is joining CDS as our first CEO. I’m delighted that Aaron is taking the leap to move to Ottawa and be part of our digital movement.
 
 Admittedly, we were looking for a unicorn. Someone focused on making things better for the people who use government services, and who saw the value of collaborating and building capacity in our partner agencies. A track record of shipping, technical chops, with great soft skills. An evangelist, without the ego that often comes with that. Aaron ticks all those boxes and we couldn’t be more excited to welcome him.
 

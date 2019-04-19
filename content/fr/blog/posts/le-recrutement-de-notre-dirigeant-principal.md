@@ -12,7 +12,7 @@ thumb: /img/cds/thumbnails/blog-ceo-recruitment.jpg
 processed: 1550672962164
 ---
 
-Nous avons récemment [annoncé](https://numerique.canada.ca/2018/03/09/Le-SNC-accueille-son-premier-dirigeant-principal/) qu’Aaron Snow se joignait au Service numérique canadien (SNC) en tant que premier dirigeant principal pour faire partie de notre mouvement numérique.
+Nous avons récemment [annoncé](https://numerique.canada.ca/2018/03/09/le-snc-accueille-son-premier-dirigeant-principal/) qu’Aaron Snow se joignait au Service numérique canadien (SNC) en tant que premier dirigeant principal pour faire partie de notre mouvement numérique.
 
 Oui, nous cherchions une licorne. Quelqu’un qui se concentre sur l’amélioration des choses pour les personnes qui ont recours aux services gouvernementaux, et qui a vu la valeur de la collaboration et du renforcement des capacités dans nos organismes partenaires. Qui a fait ses preuves sur le plan de la livraison, qui a une maîtrise technique, avec d’excellentes compétences générales. Un évangéliste, sans l’amour-propre que cela procure souvent. Aaron répond à tous ces critères et nous sommes plus enthousiastes que jamais à l’idée de l’accueillir.
 

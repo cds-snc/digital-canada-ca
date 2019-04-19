@@ -21,7 +21,7 @@ processed: 1550672962171
 
 Bien entendu, nous sommes officiellement un bureau de services numériques. Mais si nous faisons preuve de la plus grande transparence possible quant à nos méthodes de travail, nous pouvons montrer les possibilités et assurer la prestation de meilleurs services, plus rapides et plus conviviaux auxquels les Canadiens s’attendent et qu’ils méritent. 
 
-À notre dernière présentation « Show and Tell », le dirigeant principal du Service numérique canadien (SNC), [Aaron Snow](https://numerique.canada.ca/2018/03/09/Le-SNC-accueille-son-premier-dirigeant-principal/), a parlé d’une culture axée sur la prestation de services qui se vit au grand jour. 
+À notre dernière présentation « Show and Tell », le dirigeant principal du Service numérique canadien (SNC), [Aaron Snow](https://numerique.canada.ca/2018/03/09/le-snc-accueille-son-premier-dirigeant-principal/), a parlé d’une culture axée sur la prestation de services qui se vit au grand jour. 
 
 Pour y arriver, nous comptons faire participer les ministères. Par conséquent, nous devons reconnaître qu’il est acceptable de montrer des produits qui ne sont pas mis en ligne ou terminés, et partager nos victoires et nos échecs même lorsque nous ne sommes pas à l’aise de le faire. Si nous cachons les mauvais côtés, nous sommes les seuls à en tirer des leçons. 
 

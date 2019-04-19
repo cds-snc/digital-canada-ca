@@ -36,7 +36,7 @@ Un grand nombre des personnes que nous avons embauchées au départ étaient des
 
 Nous espérons pouvoir conclure des échanges pour combler toutes sortes de besoins, puisque c’est une excellente manière de mobiliser les talents, de renforcer les capacités grâce à des affectations temporaires, d’enrichir des emplois et d’échanger des compétences.
 
-Si vous êtes intéressé à en savoir plus sur la façon dont le SNC utilise le programme Échanges Canada pour renforcer ses capacités, consultez le [billet de John Millons] (https://numerique.canada.ca/2018/04/19/notre-partenariat-avec-code-for-canada/, qui met en vedette notre partenariat avec Code for Canada.
+Si vous êtes intéressé à en savoir plus sur la façon dont le SNC utilise le programme Échanges Canada pour renforcer ses capacités, consultez le [billet de John Millons] (https://numerique.canada.ca/2018/04/19/notre-partenariat-avec-code-for-canada/), qui met en vedette notre partenariat avec Code for Canada.
 
 **Étudiants** – Le SNC a déjà profité des services d’étudiants grâce aux programmes de stage et d’alternance travail-études ainsi que par l’entremise du [Programme fédéral d’expérience de travail étudiant](https://www.canada.ca/fr/secretariat-conseil-tresor/services/perfectionnement-professionnel/echanges-canada.html) (PFETE).
 
