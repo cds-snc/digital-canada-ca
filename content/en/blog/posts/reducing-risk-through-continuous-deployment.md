@@ -61,7 +61,7 @@ This approach can seem very foreign to those used to the waterfall software deve
 
 A very common approach is that of “[feature flags](https://en.wikipedia.org/wiki/Feature_toggle)”. You deploy the new feature to production, but only enable it for certain users, such as your development team or user experience researchers. As your confidence in the implementation grows, you gradually turn it up to 1%, 2%, and then maybe 5% of your users, iterating and deploying as you go. When you’re fully confident, you “release” the feature; it’s simply switched on for everyone.
 
-[A/B testing](https://en.wikipedia.org/wiki/A/B_testing/) is another similar approach to iterating, using data from real usage. It can be used in combination with feature flags, but both rely on the simple idea that not everyone has to see the same interface.
+[A/B testing](https://en.wikipedia.org/wiki/A/B_testing) is another similar approach to iterating, using data from real usage. It can be used in combination with feature flags, but both rely on the simple idea that not everyone has to see the same interface.
 
 ## Enabling conditions for continuous deployment
 

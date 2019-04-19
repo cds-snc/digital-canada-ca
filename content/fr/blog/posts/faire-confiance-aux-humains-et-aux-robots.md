@@ -29,7 +29,7 @@ Voici certains de nos outils de rétroaction automatisés:
 
 * [Notation automatique des dépendances au fur et à mesure qu’elles sont ajoutées aux projets, et alerte les développeurs pour qu’ils vérifient à nouveau tous les progiciels qui pourraient ne pas être de bons choix](https://github.com/cds-snc/dependency-checker/)
 * [Calcul continu de la taille des lots dans les applications Web, ce qui aide les développeurs à éviter d’altérer le rendement des applications](https://github.com/cds-snc/bundle-size-tracker/) 
-* [Vérifier continuellement si les applications assurent l’anonymisation des adresses IP lorsqu’elles utilisent l’analyse de l’information sur le Web](https://github.com/cds-snc/piii-checker) 
+* [Vérifier continuellement si les applications assurent l’anonymisation des adresses IP lorsqu’elles utilisent l’analyse de l’information sur le Web](https://github.com/cds-snc/pii-checker) 
 * [Vérification automatique de la conformité en matière de sécurité et d’accessibilité](https://github.com/cds-snc/symmorfosi) 
 * [Applications d’examen automatique des branches](https://github.com/cds-snc/elenchos)
 
