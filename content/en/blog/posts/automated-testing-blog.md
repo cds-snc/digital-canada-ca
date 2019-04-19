@@ -77,6 +77,6 @@ Perhaps the best result is the simplest: after six weeks following these practic
 
 We will share more on the technical aspects of the API we are building with NRCan. In the meantime, you can read our previous posts on this partnership:
 
-* [Part 1: Conducting user research with NRCan to inform an API build](https://digital.canada.ca/2018/02/15/a-conducting-user-research-with-NRCan/)
-* [Part 2: Co-locating with NRCan for a week](https://digital.canada.ca/2018/02/15/b-colocating-with-NRCan/)
+* [Part 1: Conducting user research with NRCan to inform an API build](https://digital.canada.ca/2018/02/15/a-conducting-user-research-with-nrcan/)
+* [Part 2: Co-locating with NRCan for a week](https://digital.canada.ca/2018/02/15/b-colocating-with-nrcan/)
 
