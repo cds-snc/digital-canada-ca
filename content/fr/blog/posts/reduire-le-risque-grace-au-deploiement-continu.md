@@ -32,7 +32,7 @@ Il s’agit d’une histoire courante, et d’un effet secondaire du cycle de la
 
 ## Les correctifs d’urgence ne sont pas testés
 
-Nous ne sommes pas avisés longtemps d’avance des vulnérabilités de sécurité critiques comme la faille [Heartbleed](https://fr.wikipedia.org/wiki/Heartbleed/). Nous ne pouvons pas non plus attendre pour les corriger, puisqu’elles risquent de compromettre gravement notre infrastructure.
+Nous ne sommes pas avisés longtemps d’avance des vulnérabilités de sécurité critiques comme la faille [Heartbleed](https://fr.wikipedia.org/wiki/Heartbleed). Nous ne pouvons pas non plus attendre pour les corriger, puisqu’elles risquent de compromettre gravement notre infrastructure.
 
 Nous devons donc recourir à des correctifs d’urgence non testés et non standard, et ce, hors cycle. Il y a beaucoup de façons dont cela peut mal tourner.
 
@@ -60,7 +60,7 @@ Les deux sont importants, mais ils peuvent être assez différents.
 
 Une approche très courante est celle des [*feature flags*](https://blog.octo.com/feature-flipping/). Vous déployez la nouvelle fonctionnalité dans la production, mais vous ne l’activez que pour certains utilisateurs, comme votre équipe de développement ou les chercheurs en expérience utilisateur. Au fur et à mesure que le déploiement avance, vous l’élargissez graduellement à 1&nbsp;%, 2&nbsp;% et peut-être à 5&nbsp;% de vos utilisateurs, en itérant au fur et à mesure. Lorsque vous avez pleinement confiance, vous lancez la fonctionnalité, c’est-à-dire que vous l’activez pour tout le monde.
 
-Le [test A/B](https://fr.wikipedia.org/wiki/Test_A/B/) peut être utilisé en combinaison des *feature flags*, mais les deux reposent sur la simple idée que tout le monde doit voir la même interface.
+Le [test A/B](https://fr.wikipedia.org/wiki/Test_A/B) peut être utilisé en combinaison des *feature flags*, mais les deux reposent sur la simple idée que tout le monde doit voir la même interface.
 
 ## Favoriser les conditions pour un déploiement continu
 

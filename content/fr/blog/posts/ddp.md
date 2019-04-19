@@ -107,7 +107,7 @@ Nous communiquerons les dates et les détails des journées portes ouvertes sur 
 
  
 
-Pour travailler avec le gouvernement du Canada, vous aurez besoin d'un [Numéro d'entreprise (NE) canadien](https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscrire-votre-entreprise/avant-vous-inscrire.html) et d'un [Numéro d'entreprise - approvisionnement (NEA)](https://srisupplier.contractscanada.gc.ca/index-fra.cfm?af=ZnVzZWFjdGlvbj1yZWdpc3Rlci5pbnRybyZpZD00&lang=fra). Si vous n'avez pas déjà ces numéros, demandez-les immédiatement. Les propositions seront quand même acceptées sans numéro d'entreprise, **mais vous devez avoir les deux numéros pour obtenir un contrat**.
+Pour travailler avec le gouvernement du Canada, vous aurez besoin d'un [Numéro d'entreprise (NE) canadien](https://www.canada.ca/fr/agence-revenu/services/impot/entreprises/sujets/inscrire-votre-entreprise/comment-sinscrire.html) et d'un [Numéro d'entreprise - approvisionnement (NEA)](https://srisupplier.contractscanada.gc.ca/index-fra.cfm?af=ZnVzZWFjdGlvbj1yZWdpc3Rlci5pbnRybyZpZD00&lang=fra). Si vous n'avez pas déjà ces numéros, demandez-les immédiatement. Les propositions seront quand même acceptées sans numéro d'entreprise, **mais vous devez avoir les deux numéros pour obtenir un contrat**.
 
 Demandez d'abord le numéro d'entreprise canadienne. Le traitement se fait suivant le principe du « premier entré, premier sorti » et peut prendre de 30 à 60 jours. 
 
