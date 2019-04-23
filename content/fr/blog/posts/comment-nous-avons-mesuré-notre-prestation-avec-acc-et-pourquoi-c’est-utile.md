@@ -2,8 +2,10 @@
 layout: blog
 title: Comment nous mesurons notre prestation et pourquoi c’est utile
 description: >-
-  Nous sommes extrêmement fiers de ce partenariat et emballés par ce qui s’en
-  vient.
+  Nous avons mesuré notre travail concernant l’outil « Rechercher des avantages
+  et des services » d’Anciens Combattants Canada, et nous continuerons de
+  mesurer notre travail tandis que nous collaborons avec la GRC, EDSC et
+  d’autres intervenants pour développer des produits et outils.
 author: Stevie-Ray Talbot et Courtney Claessens
 date: 2019-04-18T13:00:00.000Z
 image: /img/cds/VACBemchmarkBlogFR.jpg
