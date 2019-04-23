@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Comment nous avons mesuré notre prestation avec ACC et pourquoi c’est utile
+title: Comment nous mesurons notre prestation et pourquoi c’est utile
 description: >-
   Nous sommes extrêmement fiers de ce partenariat et emballés par ce qui s’en
   vient.
@@ -14,11 +14,11 @@ translationKey: by-the-numbers
 thumb: /img/cds/thumbnails/VACBemchmarkBlogFR.jpg
 processed: 1555598177584
 ---
-Au cours de la dernière année, une équipe composée d’employés du Service numérique canadien (SNC) et d’Anciens Combattants Canada (ACC) a collaboré à la création de l’application [_Rechercher des avantages et des services_](https://github.com/veteransaffairscanada/vac-benefits-directory). Au cours de l’année, nous avons travaillé en étroite collaboration, nous avons appris et nous avons grandi ensemble.
+Si on mesure une prestation, on peut savoir si on l’améliore. C’est pourquoi au Service numérique canadien, nous aimons savoir où nous en sommes avant de commencer à itérer. De cette façon, nous pouvons constater tout le chemin parcouru après avoir perfectionné un produit ou un service.
 
-Ce partenariat comportait des phases découverte, alpha et bêta. Ensemble, nous avons mené des recherches en conception pour déterminer les besoins des anciens combattants et de leurs familles. Ici au SNC, nous sommes extrêmement fiers du travail acharné que l’équipe d’ACC a accompli.
+Au cours de la dernière année, une équipe composée d’employés du Service numérique canadien (SNC) et d’Anciens Combattants Canada (ACC) a collaboré à la création de l’application [_Rechercher des avantages et des services_](https://github.com/veteransaffairscanada/vac-benefits-directory). Ensemble, nous avons mené des recherches en conception pour déterminer les besoins des anciens combattants et de leurs familles.
 
-Tout au long de notre partenariat, nous nous sommes concentrés sur la collecte de mesures appelées indicateurs de rendement clés (IRC). Ces IRC nous ont aidés à évaluer si le produit fonctionnait ou non en fonction de ce que les anciens combattants nous ont dit. Nous avons également suivi des indicateurs de développement agile de produits et de conception centrée sur la personne. Ces indicateurs ont tous été fondés sur les [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html). Ces dernières aident à évaluer la fonction générale et la norme pour les services gouvernementaux.
+Nous nous sommes concentrés sur la collecte de mesures appelées indicateurs de rendement clés (IRC). Ces IRC nous ont aidés à évaluer si le produit fonctionnait ou non en fonction de ce que les anciens combattants nous ont dit. Nous avons également suivi des indicateurs de développement agile de produits et de conception centrée sur la personne. Ces indicateurs ont tous été fondés sur les [Normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html). Ces dernières aident à évaluer la fonction générale et la norme pour les services gouvernementaux.
 
 ## Indicateurs de rendement clés (IRC)
 
@@ -89,4 +89,4 @@ Nous sommes honorés d’avoir pu travailler avec ACC et participer à une meill
 
 Nous avons créé [une version générique](https://benefits-avantages.cds-snc.ca/?utm_source=CDS_measurement_blog) de ce produit qui est [disponible sur GitHub](https://github.com/cds-snc/find-benefits-and-services) et qui peut être adaptée par n’importe quel ministère pour leur cas d’utilisation spécifique!
 
-Si vous souhaitez prendre le code (ou toute autre partie du processus) et qu’un pépin arrive en cours de route, n’hésitez pas à créer un [problème (*issue*) dans GitHub](https://github.com/cds-snc/find-benefits-and-services/issues) ou à communiquer avec nous par courriel à l’adresse <mailto:cds-snc@tbs-sct.gc.ca>. Vous pouvez aussi nous trouver sur Twitter à [@sidewalkballet](https://twitter.com/sidewalkballet) et [@stevieraytalbot](https://twitter.com/StevieRayTalbot).
+Si vous souhaitez prendre le code (ou toute autre partie du processus) et qu’un pépin arrive en cours de route, n’hésitez pas à créer un [problème (_issue_) dans GitHub](https://github.com/cds-snc/find-benefits-and-services/issues) ou à communiquer avec nous par courriel à l’adresse <mailto:cds-snc@tbs-sct.gc.ca>. Vous pouvez aussi nous trouver sur Twitter à [@sidewalkballet](https://twitter.com/sidewalkballet) et [@stevieraytalbot](https://twitter.com/StevieRayTalbot).
