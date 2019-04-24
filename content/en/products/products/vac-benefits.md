@@ -11,7 +11,7 @@ contact:
 status: "in-flight"
 links:
     - {name: "GitHub", url: "https://github.com/veteransaffairscanada/vac-benefits-directory"}
-    - {name: "Documentation", url: "https://cds-snc.github.io/find-benefits-and-services-documentation/"}
+    - {name: "Documentation", url: "https://cds-snc.github.io/vac-find-benefits-and-services-documentation/"}
     
 ---
 # Product 1
