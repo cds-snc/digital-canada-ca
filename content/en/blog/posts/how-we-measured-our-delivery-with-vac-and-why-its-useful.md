@@ -1,20 +1,23 @@
 ---
 layout: blog
-title: How we measured our delivery with VAC and why it's useful
-description: We’re incredibly proud of this partnership and excited for what comes next.
+title: How we measure our delivery and why it's useful
+description: >-
+  We've been measuring our work with the Veterans Affairs Canada tool "Find
+  benefits and services," and we'll keep on measuring our work as we partner
+  with RCMP, ESDC and others on products and tools.
 author: Stevie-Ray Talbot and Courtney Claessens
-date: 2019-04-18T13:00:00.000Z
+date: 2019-04-24T13:00:00.000Z
 image: /img/cds/VACBenchmarkBlogENG.jpg
 image-alt: A screenshot of the tool *Find Benefits and services’* landing page.
 translationKey: by-the-numbers
 thumb: /img/cds/thumbnails/VACBenchmarkBlogENG.jpg
 processed: 1555597567075
 ---
-For the past year, a team made up of both the Canadian Digital Service (CDS) and Veterans Affairs Canada (VAC) staff have worked together to build [*Find benefits and services*](https://github.com/veteransaffairscanada/vac-benefits-directory). During the year, we’ve worked closely as a unit, learning and growing together.
+If you measure it, you know if you're making it better. That's why at the Canadian Digital Service we like to have a measure of where we are before we start iterating. That way, we know how far we've come after improving a product or service.
 
-This partnership had a discovery, alpha, and beta phase. Together, we conducted design research to identify the needs of Veterans and their families. Here at CDS, we’re immensely proud of the hard work the VAC team has done.
+For the past year, a team made up of both the Canadian Digital Service (CDS) and Veterans Affairs Canada (VAC) staff have worked together to build [*Find benefits and services*](https://github.com/veteransaffairscanada/vac-benefits-directory). Together, we conducted design research to identify the needs of Veterans and their families.
 
-Throughout our partnership, we focused on collecting metrics called key performance indicators (KPIs). These KPIs helped us assess whether or not the product was working based on what Veterans told us. We also tracked indicators of agile product development and human-centred design. These indicators were all based on the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), which help assess the general function and standard for government services.
+We focused on collecting metrics called key performance indicators (KPIs). These KPIs helped us assess whether or not the product was working based on what Veterans told us. We also tracked indicators of agile product development and human-centred design. These indicators were all based on the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), which help assess the general function and standard for government services.
 
 ## Key Performance Indicators (KPIs)
 
