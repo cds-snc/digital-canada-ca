@@ -8,13 +8,13 @@ description: >-
   d’autres intervenants pour développer des produits et outils.
 author: Stevie-Ray Talbot et Courtney Claessens
 date: 2019-04-24T13:00:00.000Z
-image: /img/cds/VACBemchmarkBlogFR.jpg
+image: /img/cds/VACBenchmarkBlogFRgood.jpg
 image-alt: >-
   Une capture d’écran de la page d’accueil de l’outil Rechercher des avantages
   et des services.
 translationKey: by-the-numbers
-thumb: /img/cds/thumbnails/VACBemchmarkBlogFR.jpg
-processed: 1555598177584
+thumb: /img/cds/thumbnails/VACBenchmarkBlogFRgood.jpg
+processed: 1556121236018
 ---
 Si nous mesurons une prestation, nous pouvons savoir si nous l’améliorons. C’est pourquoi au Service numérique canadien, nous aimons savoir où nous en sommes avant de commencer à itérer. De cette façon, nous pouvons constater tout le chemin parcouru après avoir perfectionné un produit ou un service.
 
@@ -92,3 +92,4 @@ Nous sommes honorés d’avoir pu travailler avec ACC et participer à une meill
 Nous avons créé [une version générique](https://benefits-avantages.cds-snc.ca/?utm_source=CDS_measurement_blog) de ce produit qui est [disponible sur GitHub](https://github.com/cds-snc/find-benefits-and-services) et qui peut être adaptée par n’importe quel ministère pour leur cas d’utilisation spécifique!
 
 Si vous souhaitez prendre le code (ou toute autre partie du processus) et qu’un pépin arrive en cours de route, n’hésitez pas à créer un [problème (_issue_) dans GitHub](https://github.com/cds-snc/find-benefits-and-services/issues) ou à communiquer avec nous par courriel à l’adresse <mailto:cds-snc@tbs-sct.gc.ca>. Vous pouvez aussi nous trouver sur Twitter à [@sidewalkballet](https://twitter.com/sidewalkballet) et [@stevieraytalbot](https://twitter.com/StevieRayTalbot).
+
