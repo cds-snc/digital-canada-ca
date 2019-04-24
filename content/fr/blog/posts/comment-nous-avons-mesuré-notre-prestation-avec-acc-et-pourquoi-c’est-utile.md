@@ -7,7 +7,7 @@ description: >-
   mesurer notre travail tandis que nous collaborons avec la GRC, EDSC et
   d’autres intervenants pour développer des produits et outils.
 author: Stevie-Ray Talbot et Courtney Claessens
-date: 2019-04-18T13:00:00.000Z
+date: 2019-04-24T13:00:00.000Z
 image: /img/cds/VACBemchmarkBlogFR.jpg
 image-alt: >-
   Une capture d’écran de la page d’accueil de l’outil Rechercher des avantages
@@ -16,7 +16,7 @@ translationKey: by-the-numbers
 thumb: /img/cds/thumbnails/VACBemchmarkBlogFR.jpg
 processed: 1555598177584
 ---
-Si on mesure une prestation, on peut savoir si on l’améliore. C’est pourquoi au Service numérique canadien, nous aimons savoir où nous en sommes avant de commencer à itérer. De cette façon, nous pouvons constater tout le chemin parcouru après avoir perfectionné un produit ou un service.
+Si nous mesurons une prestation, nous pouvons savoir si nous l’améliorons. C’est pourquoi au Service numérique canadien, nous aimons savoir où nous en sommes avant de commencer à itérer. De cette façon, nous pouvons constater tout le chemin parcouru après avoir perfectionné un produit ou un service.
 
 Au cours de la dernière année, une équipe composée d’employés du Service numérique canadien (SNC) et d’Anciens Combattants Canada (ACC) a collaboré à la création de l’application [_Rechercher des avantages et des services_](https://github.com/veteransaffairscanada/vac-benefits-directory). Ensemble, nous avons mené des recherches en conception pour déterminer les besoins des anciens combattants et de leurs familles.
 
