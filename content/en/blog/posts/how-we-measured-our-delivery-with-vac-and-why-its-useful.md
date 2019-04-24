@@ -11,6 +11,7 @@ image: /img/cds/VACBenchmarkBlogENG.jpg
 image-alt: A screenshot of the tool *Find Benefits and services’* landing page.
 translationKey: by-the-numbers
 thumb: /img/cds/thumbnails/VACBenchmarkBlogENG.jpg
+processed: 1556118143713
 ---
 If you measure it, you know if you're making it better. That's why at the Canadian Digital Service we like to have a measure of where we are before we start iterating. That way, we know how far we've come after improving a product or service.
 
@@ -88,5 +89,6 @@ We’re honoured to have been able to work with VAC and be a part of serving Vet
 We’ve made [a generic version](https://benefits-avantages.cds-snc.ca/?utm_source=CDS_measurement_blog) of this product that is [available on GitHub](https://github.com/cds-snc/find-benefits-and-services) and can be adapted by any department for their specific use case!
 
 If you’re looking to take the code - or any other part of the process - and hit a snag along the way, feel free to make a [GitHub issue](https://github.com/cds-snc/find-benefits-and-services/issues) or contact us by email at [cds-snc@tbs-sct.gc.ca](mailto:cds-snc@tbs-sct.gc.ca). Alternatively, you can find us both on twitter at [@sidewalkballet](https://twitter.com/sidewalkballet) and [@stevieraytalbot](https://twitter.com/StevieRayTalbot).
+
 
 
