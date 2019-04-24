@@ -8,13 +8,12 @@ description: >-
   d’autres intervenants pour développer des produits et outils.
 author: Stevie-Ray Talbot et Courtney Claessens
 date: 2019-04-24T13:00:00.000Z
-image: /img/cds/VACBemchmarkBlogFR.jpg
+image: /img/cds/VACBenchmarkBlogFRgood.jpg
 image-alt: >-
   Une capture d’écran de la page d’accueil de l’outil Rechercher des avantages
   et des services.
 translationKey: by-the-numbers
-thumb: /img/cds/thumbnails/VACBemchmarkBlogFR.jpg
-processed: 1555598177584
+thumb: /img/cds/VACBenchmarkBlogFRgood.jpg
 ---
 Si nous mesurons une prestation, nous pouvons savoir si nous l’améliorons. C’est pourquoi au Service numérique canadien, nous aimons savoir où nous en sommes avant de commencer à itérer. De cette façon, nous pouvons constater tout le chemin parcouru après avoir perfectionné un produit ou un service.
 
