@@ -15,7 +15,7 @@ processed: 1555597567075
 ---
 If you measure it, you know if you're making it better. That's why at the Canadian Digital Service we like to have a measure of where we are before we start iterating. That way, we know how far we've come after improving a product or service.
 
-For the past year, a team made up of both the Canadian Digital Service (CDS) and Veterans Affairs Canada (VAC) staff have worked together to build [*Find benefits and services*](https://github.com/veteransaffairscanada/vac-benefits-directory). Together, we conducted design research to identify the needs of Veterans and their families.
+For the past year, a team made up of both the Canadian Digital Service (CDS) and Veterans Affairs Canada (VAC) staff have worked together to build [_Find benefits and services_](https://github.com/veteransaffairscanada/vac-benefits-directory). Together, we conducted design research to identify the needs of Veterans and their families.
 
 We focused on collecting metrics called key performance indicators (KPIs). These KPIs helped us assess whether or not the product was working based on what Veterans told us. We also tracked indicators of agile product development and human-centred design. These indicators were all based on the [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html), which help assess the general function and standard for government services.
 
@@ -43,7 +43,7 @@ The following metrics are taken from our final usability test with 31 participan
 
 **Score:** 1 in 4 participants reported a single unclear word.
 
-*A part of comprehension is the reading level of our content. We measured the reading level of our one-line descriptions to ensure that Veterans can quickly scan the content, get a sense of the benefit, and see if it’s one for them.
+\*A part of comprehension is the reading level of our content. We measured the reading level of our one-line descriptions to ensure that Veterans can quickly scan the content, get a sense of the benefit, and see if it’s one for them.
 
 The average reading level:
 
@@ -78,16 +78,14 @@ To ensure the product was meeting the standards set by the [Government of Canada
 
 **Score:** VAC’s delivery team of 8 represented 8 disciplines (product management, delivery management, development, DevOps, business analysis, design, design research, content design).
 
-## Passing the torch 
+## Passing the torch
 
-Now that the product is in VAC’s hands, they’re gearing up for a public release by the end of April and continuation for the beta phase. Our testing to date has been in a moderated setting, and while we have really good data to tell us that *Find benefits and services* works for Veterans, we won’t know for sure until the tool goes live. But, that’s the value of an iterative approach, you get feedback early and often to limit risk.
+VAC is now gearing up for a public release by the end of April and therefore continuing the beta phase. Our testing to date has been in a moderated setting, and while we have really good data to tell us that *Find benefits and services* works for Veterans, we won’t know for sure until the tool goes live. But that’s the value of an iterative approach, you get feedback early and often to limit risk.
 
-We’re honoured to have been able to work with VAC and be a part of serving Veterans better. We can’t wait to see how the VAC team responds to the feedback Veterans give the tool once it’s “in the wild” and is being used by thousands of people. We loved working with the delivery team and are excited seeing them continue to explore and improve on the service, with Veterans and their families at the centre.
+We’re honoured to have been able to work with VAC and be a part of serving Veterans better. We can’t wait to see how the VAC team responds to the feedback Veterans give the tool once it’s “in the wild” and is being used by thousands of people. We loved working with the delivery team and are excited to see them continue to explore and improve on the service, with Veterans and their families at the centre.
 
-## Interested in seeing if this product can help *your* users find benefits?
+## Interested in seeing if this product can help _your_ users find benefits?
 
 We’ve made [a generic version](https://benefits-avantages.cds-snc.ca/?utm_source=CDS_measurement_blog) of this product that is [available on GitHub](https://github.com/cds-snc/find-benefits-and-services) and can be adapted by any department for their specific use case!
 
-If you’re looking to take the code - or any other part of the process - and hit a snag along the way, feel free to make a [GitHub issue](https://github.com/cds-snc/find-benefits-and-services/issues) or contact us by email at [cds-snc@tbs-sct.gc.ca](mailto:cds-snc@tbs-sct.gc.ca). Alternatively, you can find us both on twitter at [@sidewalkballet](https://twitter.com/sidewalkballet) and [@stevieraytalbot](https://twitter.com/StevieRayTalbot).
-
-
+If you’re looking to take the code - or any other part of the process - and hit a snag along the way, feel free to make a [GitHub issue](https://github.com/cds-snc/find-benefits-and-services/issues) or contact us by email at <mailto:cds-snc@tbs-sct.gc.ca>. Alternatively, you can find us both on twitter at [@sidewalkballet](https://twitter.com/sidewalkballet) and [@stevieraytalbot](https://twitter.com/StevieRayTalbot).
