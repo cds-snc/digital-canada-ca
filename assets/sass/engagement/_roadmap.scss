@@ -66,6 +66,26 @@
         }
 
     }
+
+    .fip-logo {
+        display: block;
+        padding-top: 10px;
+        
+        object {
+            height: 26px;
+        }
+    }
+
+    .header-border {
+        border-bottom: 1px solid #dedede;
+        padding-top: 5px;
+    }
+    .header-cds-lockup {
+        padding-top: 15px;
+        object {
+            height: 64px;
+        }
+    }
 }
 
 @media print {

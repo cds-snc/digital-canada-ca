@@ -69,26 +69,45 @@
 </ul>
 <header role="banner">
     <div id="wb-bnr" class="container">
-        <section id="wb-lng" class="visible-md visible-lg text-right">
-            <h2 class="wb-inv">{{ i18n "language-selection" }}</h2>
-            <div class="row">
-                <div class="col-md-12">
-                    <ul class="list-inline margin-bottom-none">
-                        <li>
-                            {{ range .Translations }}
-                                <a href="{{ .Permalink }}">{{ i18n "lang-switch-label"}}</a>
-                            {{ end }}
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
         <div class="row">
-            <div class="brand col-xs-6 col-sm-7 col-md-4">
-                <a href="https://www.canada.ca/{{ .Site.Language }}.html">
-                    <object type="image/svg+xml" tabindex="-1" data="/img/sig-blk-{{ .Site.Language }}.svg"></object><span class="wb-inv"> {{ i18n "goc" }}</span></a>
+            <div class="col-xs-8 col-sm-6 col-md-4">
+                <a href="https://www.canada.ca/{{ .Site.Language }}.html" class="fip-logo">
+                    <object type="image/svg+xml" tabindex="-1" data="/img/sig-blk-{{ .Site.Language }}.svg"></object><span class="wb-inv"> {{ i18n "goc" }}</span>
+                </a>
+            </div>
+            <div class="col-md-8 visible-md visible-lg">
+                <section id="wb-lng" class="text-right">
+                        <h2 class="wb-inv">{{ i18n "language-selection" }}</h2>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <ul class="list-inline margin-bottom-none">
+                                    <li>
+                                        {{ range .Translations }}
+                                            <a href="{{ .Permalink }}">{{ i18n "lang-switch-label"}}</a>
+                                        {{ end }}
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
             </div>
         </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="header-border"></div>
+            </div>
+        </div>
+
+        <div class="row">
+                <div class="col-xs-12">
+                    <div class="header-cds-lockup">
+                            <a href="/" class="cds-lockup">
+                                <object type="image/svg+xml" tabindex="-1" data="/img/cds/cds-lockup-{{ .Site.Language }}.svg"></object><span class="wb-inv"> {{ i18n "goc" }}</span>
+                            </a>
+                    </div>
+                </div>
+            </div>
+        
     </div>
 </header>
 <main role="main" property="mainContentOfPage" class="container" id="wb-cont">
