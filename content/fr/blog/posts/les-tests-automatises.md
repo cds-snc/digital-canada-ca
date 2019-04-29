@@ -81,6 +81,6 @@ Le meilleur résultat est peut-être le plus simple&nbsp;: après l’applicatio
 
 Nous parlerons davantage des aspects techniques de l’API que nous élaborons avec RNCan. Entre-temps, vous pouvez lire nos billets précédents sur ce partenariat&nbsp;:
 
-* [Partie 1 – Effectuer la recherche utilisateur de RNCan: orienter la conception d’une API](https://numerique.canada.ca/2018/02/15/a-la-recherche-utilisateur-avec-RNCan/)
-* [Partie 2 – Travailler dans les locaux de RNCan pendant une semaine](https://numerique.canada.ca/2018/02/15/b-travailler-dans-les-locaux-de-RNCan/)
+* [Partie 1 – Effectuer la recherche utilisateur de RNCan: orienter la conception d’une API](https://numerique.canada.ca/2018/02/15/a-la-recherche-utilisateur-avec-rncan/)
+* [Partie 2 – Travailler dans les locaux de RNCan pendant une semaine](https://numerique.canada.ca/2018/02/15/b-travailler-dans-les-locaux-de-rncan/)
 

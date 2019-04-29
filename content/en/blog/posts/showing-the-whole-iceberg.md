@@ -20,7 +20,7 @@ processed: 1550672961762
 
 Sure, officially we’re a digital service office. But by being as transparent as possible about how we work, we can show the art of the possible and amplify the delivery of better, faster, and easier services that Canadians expect and deserve. 
 
-At our [latest Show & Tell event](https://youtu.be/uFjfrtuLLpQ), the Canadian Digital Service’s (CDS) CEO, [Aaron Snow](https://digital.canada.ca/2018/03/09/CDS-gets-its-first-CEO/), talked about a delivery-first culture that works in the open. 
+At our [latest Show & Tell event](https://youtu.be/uFjfrtuLLpQ), the Canadian Digital Service’s (CDS) CEO, [Aaron Snow](https://digital.canada.ca/2018/03/09/cds-gets-its-first-ceo/), talked about a delivery-first culture that works in the open. 
 
 To get there, we want to bring departments along for the ride. That means acknowledging that it’s okay to show things that aren’t live or complete yet. It also means sharing both the wins and failures, even when it feels uncomfortable to do so. If we hide the ugly parts, no one learns but us. 
 

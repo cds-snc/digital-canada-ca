@@ -111,7 +111,7 @@ We'll share open house dates and details through [Twitter](https://twitter.com/C
 
  
 
-To do work with the Canadian Government, you need a [Canadian Business Number (BN)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/before-you-register.html) and a [Procurement Business Number (PBN)](https://srisupplier.contractscanada.gc.ca/index-eng.cfm?af=ZnVzZWFjdGlvbj1yZWdpc3Rlci5pbnRybyZpZD00&lang=eng). If you don't have these numbers already, apply for them right away. Bids will still be accepted without either business number, **however, you must have both numbers to be awarded a contract.**
+To do work with the Canadian Government, you need a [Canadian Business Number (BN)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/register.html) and a [Procurement Business Number (PBN)](https://srisupplier.contractscanada.gc.ca/index-eng.cfm?af=ZnVzZWFjdGlvbj1yZWdpc3Rlci5pbnRybyZpZD00&lang=eng). If you don't have these numbers already, apply for them right away. Bids will still be accepted without either business number, **however, you must have both numbers to be awarded a contract.**
 
 You'll want to apply for a Canadian Business Number first. Processing times are first-in-first-out, and can take between 30 to 60 days. 
 

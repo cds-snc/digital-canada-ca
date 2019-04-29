@@ -12,7 +12,7 @@
     "file-loader": "^3.0.1",
     "front-matter-editor": "0.0.1",
     "netlify-cms": "^2.9.1",
-    "sharp": "^0.22.0",
+    "sharp": "^0.22.1",
     "style-loader": "^0.23.1",
     "webpack": "^4.29.6"
   },
