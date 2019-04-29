@@ -54,6 +54,17 @@
             clear:both;
         }
 
+        .roadmap-footer {
+            background-color: #ebebeb;
+            border: 1px solid #dedede;
+            padding: 2rem;
+
+            p:last-child {
+                margin: 0;
+            }
+            margin-bottom: 1.5em;
+        }
+
     }
 }
 
