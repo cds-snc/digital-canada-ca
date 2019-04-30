@@ -6,7 +6,7 @@ description: >-
   de leur famille d’identifier les prestations, les programmes et les services
   auxquels ils sont admissibles.
 product-url: https://benefits-avantages.veterans.gc.ca/?lng=fr
-phase: live
+phase: beta
 contact:
   - email: courtney.claessens@tbs-sct.gc.ca
     name: Courtney Claessens
