@@ -13,7 +13,7 @@ contact:
 partners:
   - name: Anciens Combattants Canada
     url: 'http://www.veterans.gc.ca/fra'
-status: in-flight
+status: past
 links:
   - name: GitHub
     url: 'https://github.com/veteransaffairscanada/vac-benefits-directory'
