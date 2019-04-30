@@ -5,8 +5,8 @@ description: >-
   Un outil en ligne afin qu'il soit plus facile pour les vétérans et les membres
   de leur famille d’identifier les prestations, les programmes et les services
   auxquels ils sont admissibles.
-product-url: ''
-phase: beta
+product-url: https://benefits-avantages.veterans.gc.ca/?lng=fr
+phase: live
 contact:
   - email: courtney.claessens@tbs-sct.gc.ca
     name: Courtney Claessens

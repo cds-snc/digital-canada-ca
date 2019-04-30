@@ -437,6 +437,44 @@ span.live, span.livefr {
         margin-top: 50px;
     }
 
+    //
+
+    h3.live::after, h3.livefr::after {
+        content: "Live";
+
+        position: relative;
+        bottom: 10px;
+        color: #ffffff;
+        background-color: #6ea748;
+        margin-left: 20px;
+
+        @include mobile_only {
+            font-size: 10pt;
+            padding: 3px 20px 3px 20px;
+            border-radius: 6px;
+            margin-left: 15px;
+            bottom: 5px;
+        }
+
+        @include tablet {
+            margin-left: 20px;
+            margin-bottom: 30px;
+            padding: 5px 20px 5px 20px;
+            border-radius: 6px;
+            font-size: 10pt;
+        }
+
+        @include desktop {
+            margin-bottom: 30px;
+            padding: 5px 30px 5px 30px;
+            border-radius: 6px;
+            font-size: 12pt;
+        }
+    }
+
+
+    //
+
     h3.alpha::after, h3.alphafr::after {
         content: "Alpha";
 
