@@ -67,25 +67,29 @@
 
     }
 
+    // Header SVGs (screen)
     .fip-logo {
         display: block;
         padding-top: 10px;
         
         object {
-            height: 26px;
+            height: 24px;
         }
     }
 
     .header-cds-lockup-container {
         margin-top: 5px;
-        background-color: #231f20;
+        background-color: #000;
     }
     .header-cds-lockup {
         padding-top: 15px;
         padding-bottom: 10px;
         object {
-            height: 64px;
+            height: 49px;
         }
+    }
+    .cds-lockup-print {
+        display: none;
     }
 }
 
@@ -148,6 +152,40 @@
             list-style: none;
         }
 
+    }
+
+    // Header SVGs (print)
+    .fip-logo {
+        display: block;
+        padding-top: 10px;
+        
+        object {
+            height: 24px;
+        }
+        span.wb-inv {
+            display: none;
+        }
+    }
+    a.fip-logo[href]:after {
+        content: "";
+    }
+
+    .header-cds-lockup-container {
+        margin-top: 5px;
+        border-top: 1px solid #ccc;
+    }
+    .header-cds-lockup {
+        padding-top: 15px;
+        padding-bottom: 10px;
+        object {
+            height: 50px;
+        }
+    }
+    .cds-lockup {
+        display: none;
+    }
+    .cds-lockup-print {
+        display: block;
     }
 
 }
