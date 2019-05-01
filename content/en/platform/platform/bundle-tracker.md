@@ -5,8 +5,7 @@ description: >-
   With this cloud function you can keep track of changes in your application bundle size over time to ensure that it doesn't grow to large keeping it preformant on slow connections and mobile devices. 
 phase: beta
 contact:
-  - email: bryan.willey@tbs-sct.gc.ca
-    name: Bryan Willey
+  - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
 status: in-flight
 links:
   - name: GitHub
