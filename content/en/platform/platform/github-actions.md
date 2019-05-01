@@ -5,8 +5,7 @@ description: >-
   Git Hub Action ...
 phase: beta
 contact:
-  - email: bryan.willey@tbs-sct.gc.ca
-    name: Bryan Willey
+  - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
 status: in-flight
 links:
   - name: GitHub
