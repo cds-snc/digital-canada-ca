@@ -7,7 +7,7 @@ description: >-
   someone passionate about using product management to transform public services
   as part of a world-class team of engineers, designers, and researchers who
   share a vision of better public services in Canada.
-archived: false
+archived: true
 translationKey: senior-product-manager
 ---
 We’re transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. We need you.

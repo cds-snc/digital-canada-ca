@@ -8,7 +8,7 @@ description: >-
   transformer les services publics au sein d’une équipe d’ingénieurs, de
   concepteurs et de chercheurs de calibre international qui ont une vision
   commune de créer de meilleurs services publics au Canada.
-archived: false
+archived: true
 translationKey: senior-product-manager
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
