@@ -11,7 +11,7 @@ image: /img/cds/blog-up-to-speed.jpg
 image-alt: Indicateur de vitesse
 translationKey: accelerator-launch
 thumb: /img/cds/thumbnails/blog-up-to-speed.jpg
-processed: 1557153312952
+processed: 1556885855972
 ---
 La collaboration avec le secteur privé joue un rôle important dans les pays qui font de grands progrès en matière de gouvernement numérique. Le gouvernement ne peut pas y arriver seul. La passation de marchés contribue à l’expansion des technologies modernes et des méthodes de conception dans le secteur public. Les entreprises apportent une expertise spécialisée, une capacité d’intensification flexible, une envergure et une expérience à la fine pointe de la technologie et de la pratique.
 
