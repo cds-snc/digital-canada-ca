@@ -7,6 +7,7 @@ description: >-
   firms into our delivery work.
 archived: false
 translationKey: sr-proc-advisor
+leverId: 0beaa08a-9393-4852-bdb6-c25b95b53cfc
 ---
 We’re transforming government. Our products will impact people’s everyday lives. It’s an exciting thing to be part of. We need you. The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. We're hiring people at all levels of experience in Ottawa, Toronto, Waterloo, and Montreal.
 
