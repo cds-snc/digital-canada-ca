@@ -5,7 +5,7 @@ description: >-
   Un outil en ligne afin qu'il soit plus facile pour les vétérans et les membres
   de leur famille d’identifier les prestations, les programmes et les services
   auxquels ils sont admissibles.
-product-url: ''
+product-url: https://benefits-avantages.veterans.gc.ca/?lng=fr
 phase: beta
 contact:
   - email: courtney.claessens@tbs-sct.gc.ca
@@ -13,7 +13,7 @@ contact:
 partners:
   - name: Anciens Combattants Canada
     url: 'http://www.veterans.gc.ca/fra'
-status: in-flight
+status: past
 links:
   - name: GitHub
     url: 'https://github.com/veteransaffairscanada/vac-benefits-directory'
