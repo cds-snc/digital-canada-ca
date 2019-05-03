@@ -20,7 +20,12 @@
       <h2 class="section--title">Postulez maintenant</h2>
 
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-        <form class="text-left" role="form" id="contactForm">
+        <form
+          enctype="multipart/form-data"
+          class="text-left"
+          role="form"
+          id="contactForm"
+        >
           <!-- jobId -->
           <input
             type="hidden"
@@ -65,9 +70,14 @@
 
           <!-- Resume -->
           <div class="form-group">
-           <label for="resume">CV</label>
-           <input type="file" id="resume" name="resume" accept="application/msword, application/pdf, text/plain">
-         </div>
+            <label for="resume">CV</label>
+            <input
+              type="file"
+              id="resume"
+              name="resume"
+              accept="application/msword, application/pdf, text/plain"
+            />
+          </div>
 
           <!-- Body -->
           <div class="form-group">
@@ -106,10 +116,11 @@
             >
             <input type="text" class="form-control" id="work_link_2" />
           </div>
-           <!-- Submit-->
+          <!-- Submit-->
           <button type="submit" class="button" id="submitButton">
             <span class="spinner" id="buttonSpinner">
-              <i class="fa fa-refresh fa-spin"></i></span>Soumettre
+              <i class="fa fa-refresh fa-spin"></i></span
+            >Soumettre
           </button>
           <a href="/transparence/enonce-de-confidentialite/"
             >Énoncé de confidentialité</a
