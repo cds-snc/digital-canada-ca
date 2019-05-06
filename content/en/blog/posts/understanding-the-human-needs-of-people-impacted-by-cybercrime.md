@@ -11,8 +11,7 @@ date: 2019-05-06T14:28:22.886Z
 image: /img/cds/rcmp-first.jpg
 image-alt: The back of an elderly man sitting on a park bench by himself.
 translationKey: rcmp-cybercrime
-thumb: ''
-processed: ''
+thumb: /img/cds/rcmp-first.jpg
 ---
 Technology makes our lives easier by allowing us to do things quickly and conveniently, whether it’s banking and online shopping, connecting with family, or working from home. This convenience, however, can open the door to potential risks, like cybercrime. 
 
