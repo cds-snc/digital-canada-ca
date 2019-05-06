@@ -8,7 +8,7 @@ description: >-
   report. RCMP and CDS are working together to tackle this problem.
 author: 'Daniel Tse, Product Manager'
 date: 2019-05-06T14:28:22.886Z
-image: /img/cds/beetletoy.jpg
+image: /img/cds/rcmp-first.jpg
 image-alt: The back of an elderly man sitting on a park bench by himself.
 translationKey: rcmp-cybercrime
 thumb: ''
