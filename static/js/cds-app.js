@@ -70,6 +70,7 @@ $(document).ready(function() {
   $("#contactForm").submit(function(event) {
     event.preventDefault();
 
+    var formData = new FormData($("#contactForm")[0]);
     /**
      * Form Validation
      */
@@ -137,27 +138,19 @@ $(document).ready(function() {
     /**
      * Collect data for submitting
      */
-    var data = {
-      name: $("#name").val(),
-      resume: $("#resume").val(),
-      email: $("#email").val(),
-      jobId: $("#jobId").val(),
-      body: $("#body").val(),
-      work_link: $("#work_link").val(),
-      work_link_2: $("#work_link_2").val()
-    };
-
-    console.log(data);
-
+    var theForm = document.getElementById("contactForm");
+    var formData = new FormData(theForm);
     var pageLanguage = $("html").attr("lang");
-    //var endpoint = "https://cjumjswiil.execute-api.ca-central-1.amazonaws.com/production/lever";
 
-    var endpoint = "";
+    var endpoint =
+      "https://z2gda14zhb.execute-api.us-east-1.amazonaws.com/production/lever";
 
     $.ajax({
       type: "POST",
       url: endpoint,
-      data: JSON.stringify(data),
+      data: formData,
+      contentType: false,
+      processData: false,
       complete: function(r) {
         console.log(r.responseText);
       },

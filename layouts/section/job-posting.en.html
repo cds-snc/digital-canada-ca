@@ -39,6 +39,7 @@
               type="text"
               class="form-control validate-required"
               id="name"
+              name="name"
               aria-required="true"
               aria-describedby="name-required"
             />
@@ -54,6 +55,7 @@
             <label for="email">Email</label>
             <input
               type="email"
+              name="email"
               class="form-control validate-required validate-email"
               id="email"
               aria-required="true"
@@ -87,6 +89,7 @@
             <textarea
               class="form-control validate-required validate-maxwords"
               id="body"
+              name="body"
               rows="5"
               aria-required="true"
               aria-describedby="body-required word-count-message"
@@ -104,13 +107,13 @@
           <!-- Samples of your work -->
           <div class="form-group">
             <label for="work_link">Samples of your work (URLs, please!)</label>
-            <input type="text" class="form-control" id="work_link" />
+            <input type="text" class="form-control" id="work_link" name="work_link" />
           </div>
           <div class="form-group">
             <label class="wb-inv" for="work_link_2"
               >Additional Work Samples</label
             >
-            <input type="text" class="form-control" id="work_link_2" />
+            <input type="text" class="form-control" id="work_link_2" name="work_link_2" />
           </div>
           <!-- Submit-->
           <button type="submit" class="button" id="submitButton">

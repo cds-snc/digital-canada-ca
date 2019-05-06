@@ -40,6 +40,7 @@
               type="text"
               class="form-control validate-required"
               id="name"
+              name="name"
               aria-required="true"
               aria-describedby="name-required"
             />
@@ -57,6 +58,7 @@
               type="email"
               class="form-control validate-required validate-email"
               id="email"
+              name="email"
               aria-required="true"
               aria-describedby="email-required"
             />
@@ -89,6 +91,7 @@
             <textarea
               class="form-control validate-required validate-maxwords"
               id="body"
+              name="body"
               rows="5"
               aria-required="true"
               aria-describedby="body-required word-count-message"
@@ -108,10 +111,15 @@
             <label for="work_link"
               >Échantillons de votre travail (liens URL SVP!)</label
             >
-            <input type="text" class="form-control" id="work_link" />
+            <input
+              type="text"
+              class="form-control"
+              id="work_link"
+              name="work_link"
+            />
           </div>
           <div class="form-group">
-            <label class="wb-inv" for="work_link_2"
+            <label class="wb-inv" for="work_link_2" name="work_link_2"
               >Échantillons de votre travail</label
             >
             <input type="text" class="form-control" id="work_link_2" />
