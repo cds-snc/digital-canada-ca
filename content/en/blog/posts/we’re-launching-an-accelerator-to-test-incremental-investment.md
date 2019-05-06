@@ -9,7 +9,8 @@ date: 2019-05-02T20:00:00.000Z
 image: /img/cds/blog-up-to-speed.jpg
 image-alt: Car speedometer
 translationKey: accelerator-launch
-thumb: /img/cds/blog-up-to-speed.jpg
+thumb: /img/cds/thumbnails/blog-up-to-speed.jpg
+processed: 1557153312858
 ---
 In countries making significant progress with digital government, work with the private sector is an important part of the puzzle. Government can’t do it alone. Contracting helps scale modern technology and design methods across the public sector. Businesses bring specialized expertise, flexible surge capacity, scale, and experience with the cutting edge of technology and practice.
 
@@ -35,3 +36,4 @@ We’re excited about the potential to demystify procurement for digital deliver
 We plan to start small — quite small — to test a few elements of this over the coming months before we look to scale our procurement and idea-sourcing efforts. We’ll continue to work in the open and share our experiences, so look for updates here and on Twitter.
 
 Have thoughts or [want to help](https://digital.canada.ca/senior-procurement-advisor/)? We’d love to hear from you, by [e-mail](mailto:cds-snc@tbs-sct.gc.ca), on Twitter, or otherwise.
+

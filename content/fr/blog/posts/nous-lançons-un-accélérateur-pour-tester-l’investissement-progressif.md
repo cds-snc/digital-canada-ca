@@ -10,7 +10,8 @@ date: 2019-05-02T20:00:00.000Z
 image: /img/cds/blog-up-to-speed.jpg
 image-alt: Indicateur de vitesse
 translationKey: accelerator-launch
-thumb: /img/cds/blog-up-to-speed.jpg
+thumb: /img/cds/thumbnails/blog-up-to-speed.jpg
+processed: 1557153312952
 ---
 La collaboration avec le secteur privé joue un rôle important dans les pays qui font de grands progrès en matière de gouvernement numérique. Le gouvernement ne peut pas y arriver seul. La passation de marchés contribue à l’expansion des technologies modernes et des méthodes de conception dans le secteur public. Les entreprises apportent une expertise spécialisée, une capacité d’intensification flexible, une envergure et une expérience à la fine pointe de la technologie et de la pratique.
 
@@ -39,3 +40,4 @@ Nous sommes emballés par la possibilité d’éclairer l’approvisionnement po
 Nous envisageons de commencer modestement — assez modestement — pour d’abord tester quelques éléments du projet dans les prochains mois. Puis, nous pourrons considérer intensifier nos efforts en matière d’approvisionnement et de repérage d’idées. Nous continuerons à travailler ouvertement et à partager nos expériences.
 
 Restez donc à l’affût des nouvelles ici et sur Twitter. Vous avez des idées ou [souhaitez nous aider](https://numerique.canada.ca/conseiller-principal-en-approvisionnement/)? Nous aimerions avoir vos commentaires, par [courriel](mailto:cds-snc@tbs-sct.gc.ca) ou sur Twitter.
+
