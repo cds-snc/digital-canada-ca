@@ -57,4 +57,4 @@ RCMP wants to build a people-focused service. With the ever-changing nature of c
 
 We’ll be sharing more about this product as it progresses! Follow along on [GitHub](https://github.com/cds-snc/report-a-cybercrime) as we prototype in Alpha.
 
-Want to do this kind of work on your team?  Check out our [Design research handbook](https://cds-snc.github.io/design-research-handbook/home/) for tips and tools for getting started.
+Want to do this kind of work on your team?  Check out our recent post on policy and design research and our [Design research handbook](https://cds-snc.github.io/design-research-handbook/home/) for tips and tools for getting started.
