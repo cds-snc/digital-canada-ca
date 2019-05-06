@@ -10,7 +10,7 @@ description: >-
   s’attaquer à ce problème.
 author: 'Daniel Tse, gestionnaire de produit'
 date: 2019-05-06T14:38:54.712Z
-image: /img/cds/beetletoy.jpg
+image: /img/cds/rcmp-first.jpg
 image-alt: Le dos d’un homme âgé assis seul sur un banc de parc.
 translationKey: rcmp-cybercrime
 thumb: ''
