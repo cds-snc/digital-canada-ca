@@ -143,7 +143,7 @@ $(document).ready(function() {
     var pageLanguage = $("html").attr("lang");
 
     var endpoint =
-      "https://z2gda14zhb.execute-api.us-east-1.amazonaws.com/production/lever";
+      "https://3y0o2ahiub.execute-api.us-east-1.amazonaws.com/production/lever";
 
     $.ajax({
       type: "POST",
@@ -162,6 +162,8 @@ $(document).ready(function() {
         }
       },
       error: function(xhr, textStatus, errorThrown) {
+        console.log("Error", textStatus);
+        console.log("Error", errorThrown);
         if (pageLanguage == "en") {
           window.location.href = "/error/";
         } else {
