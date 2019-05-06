@@ -13,8 +13,7 @@ date: 2019-05-06T14:38:54.712Z
 image: /img/cds/rcmp-first.jpg
 image-alt: Le dos d’un homme âgé assis seul sur un banc de parc.
 translationKey: rcmp-cybercrime
-thumb: ''
-processed: ''
+thumb: /img/cds/rcmp-first.jpg
 ---
 Les technologies facilitent nos vies en nous permettant de faire les choses rapidement et de façon commode, qu’il s’agisse d’effectuer des transactions bancaires, de magasiner en ligne, de communiquer avec sa famille ou de travailler de la maison. Ces commodités, toutefois, peuvent ouvrir la porte à certains risques comme la cybercriminalité.
 
