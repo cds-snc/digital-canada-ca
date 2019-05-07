@@ -42,6 +42,7 @@ Discovery research is important because it sets the direction by focusing our wo
 Going into this, we assumed all people have the same motivation to report: to help provide information to police. Through Discovery research,  we learned our assumptions were too narrow and didn’t always consider the humans behind the screen.
 
 Sometimes people’s reasons for reporting might not be to directly help an investigation.  
+
 Through talking with people, we were reminded that an online tool can provide small pieces of **emotional comfort and support** that victims need after they’ve experienced a cybercrime. And sometimes that’s all the motivation they need to report. 
 
 Without conversations with people, we lose the little details. And often, it’s those little details that make the difference between someone using a service, and not using a service.
