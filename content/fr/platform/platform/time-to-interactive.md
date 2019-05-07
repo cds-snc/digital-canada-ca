@@ -1,8 +1,8 @@
 ---
-title: FR Time to interactive tracking
+title: Temps de suivi interactif
 translationKey: time-to-interactive
 description: >-
-  FR With this cloud function you can check how long it takes before a user can interact with your website from the time they request the page. This allows you to track time to interactive metrics for your website as you develop ensuring that your webpage will provide a great user experience to users on slower connections. 
+  Le but de cet outil est de vérifier combien de temps une application prend avant de pouvoir interagir avec elle. Une autre définition serait le temps qu'il faut pour charger complètement.
 phase: alpha
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca

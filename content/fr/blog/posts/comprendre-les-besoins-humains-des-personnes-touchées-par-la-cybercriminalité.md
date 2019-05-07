@@ -13,7 +13,8 @@ date: 2019-05-06T14:38:54.712Z
 image: /img/cds/rcmp-first.jpg
 image-alt: Le dos d’un homme âgé assis seul sur un banc de parc.
 translationKey: rcmp-cybercrime
-thumb: /img/cds/rcmp-first.jpg
+thumb: /img/cds/thumbnails/rcmp-first.jpg
+processed: 1557240369148
 ---
 Les technologies facilitent nos vies en nous permettant de faire les choses rapidement et de façon commode, qu’il s’agisse d’effectuer des transactions bancaires, de magasiner en ligne, de communiquer avec sa famille ou de travailler de la maison. Ces commodités, toutefois, peuvent ouvrir la porte à certains risques comme la cybercriminalité.
 
@@ -58,3 +59,4 @@ La GRC souhaite créer un service axé sur les personnes. La seule façon d’y 
 Nous continuerons à partager les dernières nouvelles sur le produit au fur et à mesure qu’il progresse. Vous pouvez suivre le développement du prototype en phase alpha sur [GitHub](https://github.com/cds-snc/report-a-cybercrime).
 
 Faire ce genre de travail au sein de votre équipe vous intéresse? Lisez notre récent [billet](https://numerique.canada.ca/2019/02/27/laccord-parfait-quand-les-politiques-renforcent-la-recherche-en-conception/) concernant les politiques et la recherche en conception ou jetez un œil sur notre [guide de recherche en conception](https://cds-snc.github.io/design-research-handbook/accueil/). Vous y trouverez des conseils et des outils pour vous lancer.
+

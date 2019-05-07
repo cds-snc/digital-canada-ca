@@ -1,8 +1,8 @@
 ---
-title: FR Bundle Size Tracker
+title: Bundle Size Tracker
 translationKey: bundle-tracker
 description: >-
-  FR With this cloud function you can keep track of changes in your application bundle size over time to ensure that it doesn't grow to large keeping it preformant on slow connections and mobile devices. 
+  Cette fonction infonuagique vise à consigner les changements dans la taille de votre paquet (bundle) au fil du temps.
 phase: beta
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca

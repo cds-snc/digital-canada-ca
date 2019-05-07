@@ -2,7 +2,7 @@
 title: Bundle Size Tracker
 translationKey: bundle-tracker
 description: >-
-  With this cloud function you can keep track of changes in your application bundle size over time to ensure that it doesn't grow to large keeping it preformant on slow connections and mobile devices. 
+  The purpose of this cloud function is to record changes in your bundle size over time.
 phase: beta
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca

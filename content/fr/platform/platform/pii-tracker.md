@@ -1,8 +1,8 @@
 ---
-title: FR Personal identifiable information checking
+title: Personal identifiable information checking
 translationKey: pii-tracker
 description: >-
-   FR A Github tool to ensure you've enabled the anonymizeIp setting for your Google Analytics tracker. This can help developers avoid the costly mistake of exposing IP data that should remain confidential when using Google Analytics. 
+   Le but de cet outil est de vérifier si une application anonymise les adresses IP lorsque des renseignements sont soumis à Google Analytics. 
 phase: beta
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
