@@ -27,7 +27,7 @@ jobs:
 
   hugo:
     docker:
-      - image: cibuilds/hugo
+      - image: cibuilds/hugo@sha256:8b1ab86e627871343d5b7366343f12aabe41dad8f710200f6a0e05869934f589
     working_directory: /tmp/cds-website-source
     steps:
       # Restore compiled cache (persisted across jobs)
