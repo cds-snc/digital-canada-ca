@@ -47,7 +47,8 @@
             margin-bottom: 2.5rem;
         }
         .version-history-link {
-            display: block;
+            display: inline-block;
+            margin-left: 0.2em;
         }
 
         .clean-list ul {
@@ -164,6 +165,17 @@
             list-style: none;
         }
 
+        .roadmap-footer {
+            border-top: 1px solid #DDD;
+            padding-top: 0.5em;
+            margin-top: 2.5em;
+        }
+
+        .version-history-link {
+            display: inline-block;
+            margin-left: 0.2em;
+        }
+
     }
 
     // Header SVGs (print)
@@ -173,7 +185,7 @@
         padding-bottom: 10px;
         
         object, img {
-            height: 25px;
+            height: 24px;
         }
     }
     a.fip-logo[href]:after {
@@ -182,13 +194,14 @@
 
     .header-cds-lockup-container {
         margin-top: 5px;
-        border-top: 1px solid #ccc;
+        border-top: 1px solid #DDD;
+        border-bottom: 1px solid #DDD;
     }
     .header-cds-lockup {
         padding-top: 15px;
-        padding-bottom: 10px;
+        padding-bottom: 30px;
         object, img {
-            height: 52px;
+            height: 50px;
         }
     }
     .cds-lockup {
