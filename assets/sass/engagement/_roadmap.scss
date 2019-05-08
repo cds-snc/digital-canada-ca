@@ -108,16 +108,18 @@
         page-break-inside: avoid;
     }
 
-    .roadmap-container {
-        font-size: 16px;
-
+    .roadmap-heading-container {
         h1 {
             font-size: 46px;
             border-bottom: 0px;
             max-width: 12.3em;
             margin-top: 0.5em;
-            margin-bottom: .6em;
+            margin-bottom: 0;
         }
+    }
+
+    .roadmap-container {
+        font-size: 16px;
 
         h2 {
             margin-bottom: 0.6em;
@@ -194,7 +196,7 @@
         display: none;
     }
     .cds-lockup-print {
-        display: block;
+        display: inline-block;
     }
 
 }
