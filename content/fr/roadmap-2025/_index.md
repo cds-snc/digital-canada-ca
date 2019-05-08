@@ -1,7 +1,7 @@
 ---
 type: roadmap
 layout: default
-url: /en-route-2025/
+url: /feuille-de-route-2025/
 title: "Lorem ipsum"
 dateUpdated: "2019-04-04"
 dateUpdatedString: "le 4 avril, 2019"
