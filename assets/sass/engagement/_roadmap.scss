@@ -74,11 +74,12 @@
     // Header SVGs (screen)
     .fip-logo {
         display: block;
-        padding-top: 14px;
-        padding-bottom: 4px;
+        margin-top: 4px;
+        padding-top: 10px;
+        padding-bottom: 10px;
         
-        object {
-            height: 24px;
+        object, img {
+            height: 25px;
         }
     }
 
@@ -88,9 +89,9 @@
     }
     .header-cds-lockup {
         padding-top: 1.5rem;
-        padding-bottom: 3.5rem;
-        object {
-            height: 49px;
+        padding-bottom: 4.1rem;
+        object, img {
+            height: 52px;
         }
     }
     .cds-lockup-print {
@@ -168,13 +169,11 @@
     // Header SVGs (print)
     .fip-logo {
         display: block;
-        padding-top: 10px;
+        padding-top: 14px;
+        padding-bottom: 10px;
         
-        object {
-            height: 24px;
-        }
-        span.wb-inv {
-            display: none;
+        object, img {
+            height: 25px;
         }
     }
     a.fip-logo[href]:after {
@@ -188,8 +187,8 @@
     .header-cds-lockup {
         padding-top: 15px;
         padding-bottom: 10px;
-        object {
-            height: 50px;
+        object, img {
+            height: 52px;
         }
     }
     .cds-lockup {
