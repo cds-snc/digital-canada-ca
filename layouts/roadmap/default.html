@@ -12,7 +12,7 @@
 				{{ .Params.dateUpdatedString }}
 			</time>
 			{{ if .Params.versionLabel }}
-			<a href="https://github.com/cds-snc/digital-canada-ca" class="version-history-link" title="{{ i18n "version-history" }}">{{ .Params.versionLabel }}</a>
+			<a href="https://github.com/cds-snc/digital-canada-ca/blob/master/content/{{ .File.Lang }}/{{ .File.Path }}" class="version-history-link" title="{{ i18n "version-history" }}">{{ .Params.versionLabel }}</a>
 			{{ end }}
 		</p>
 
