@@ -2,7 +2,7 @@
 title: Security Goals
 translationKey: security-goals
 description: >-
-  FR The purpose of this tool is to automate compliance checking for Kubernetes based applications. It assumes that certain aspects of compliance such as security and accessibility can be validated through automation, and therefore run at every deployment of the application. It leverages the introspectability of the Kubernetes cluster as well as multitude of external APIs that expose such information (ex. The GitHub API exposes data around code review).
+  L’objectif de cet outil est d’automatiser la vérification de la conformité pour les applications basées sur Kubernetes. Il suppose que certains aspects de la conformité comme la sécurité et l’accessibilité peuvent être validés de façon automatisée, et s’exécute donc à chaque déploiement de l’application. Il tire parti à la fois de la capacité d’introspection du cluster Kubernetes et des nombreuses API externes qui exposent des informations, telles que les données liées à l’examen du code que l’API de GitHub expose.
 phase: alpha
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
