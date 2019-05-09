@@ -11,7 +11,8 @@ date: 2019-05-06T14:28:22.886Z
 image: /img/cds/rcmp-first.jpg
 image-alt: The back of an elderly man sitting on a park bench by himself.
 translationKey: rcmp-cybercrime
-thumb: /img/cds/rcmp-first.jpg
+thumb: /img/cds/thumbnails/rcmp-first.jpg
+processed: 1557240369217
 ---
 Technology makes our lives easier by allowing us to do things quickly and conveniently, whether it’s banking and online shopping, connecting with family, or working from home. This convenience, however, can open the door to potential risks, like cybercrime. 
 
@@ -58,3 +59,4 @@ RCMP wants to build a people-focused service. With the ever-changing nature of c
 We’ll be sharing more about this product as it progresses! Follow along on [GitHub](https://github.com/cds-snc/report-a-cybercrime) as we prototype in Alpha.
 
 Want to do this kind of work on your team?  Check out our recent [post](https://digital.canada.ca/2019/02/27/the-policy-pieces-for-conducting-research-with-vac/) on policy and design research and our [Design research handbook](https://cds-snc.github.io/design-research-handbook/home/) for tips and tools for getting started.
+
