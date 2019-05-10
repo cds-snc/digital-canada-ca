@@ -14,8 +14,5 @@ partners:
   - name: Services publics et Approvisionnement Canada
     url: 'https://www.tpsgc-pwgsc.gc.ca/comm/index-fra.html'
 status: in-flight
-links:
-  - name: N/A
-    url: N/A
 ---
 
