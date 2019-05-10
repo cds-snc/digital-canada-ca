@@ -1,5 +1,5 @@
 ---
-title: Bundle Size Tracker
+title: Bundle size tracker
 translationKey: bundle-tracker
 description: >-
   The purpose of this cloud function is to record changes in your bundle size over time.

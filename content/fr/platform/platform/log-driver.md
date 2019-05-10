@@ -1,5 +1,5 @@
 ---
-title: CDS Log Driver 🇨🇦
+title: SNC camelot 🇨🇦
 translationKey: log-driver
 description: >-
   Un camelot déplace des journaux (publications sur l’actualité) d’un distributeur au domicile des gens. Dans notre cas, nous voulons déplacer les journaux (messages de console) des consoles de développeurs vers des endroits comme StackDriver.
