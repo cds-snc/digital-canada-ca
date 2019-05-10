@@ -1,5 +1,5 @@
 ---
-title: GitHub Actions
+title: Actions GitHub
 translationKey: github-actions
 description: >-
   Le but de ce référentiel est de suivre toutes les actions GitHub que la CDS crée pour ses propres besoins. N'hésitez pas à les utiliser dans vos propres workflows.

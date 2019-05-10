@@ -1,5 +1,5 @@
 ---
-title: GitHub Actions
+title: GitHub actions
 translationKey: github-actions
 description: >-
   The purpose of this repository is to track all the GitHub actions CDS creates for their own purposes. Feel free to use these in your own workflows.

@@ -1,5 +1,5 @@
 ---
-title: CDS Log Driver 🇨🇦
+title: CDS log driver 🇨🇦
 translationKey: log-driver
 description: >-
   Log driving is a means of moving logs (sawn tree trunks) from a forest to sawmills and pulp mills downstream using the current of a river.

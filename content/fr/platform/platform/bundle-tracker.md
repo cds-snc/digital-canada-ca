@@ -1,5 +1,5 @@
 ---
-title: Bundle Size Tracker
+title: Suivi de la taille de votre paquet
 translationKey: bundle-tracker
 description: >-
   Cette fonction infonuagique vise à consigner les changements dans la taille de votre paquet (bundle) au fil du temps.
