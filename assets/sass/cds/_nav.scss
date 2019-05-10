@@ -24,7 +24,8 @@
   }
 
   // TOPBAR SPECIFIC STYLE FOR HOMEPAGE
-  .home &, .accueil & {
+  .home &,
+  .accueil & {
     // below used to be @include tablet
     @include menu_break {
       padding-top: 3rem;
@@ -49,7 +50,7 @@
   background-size: contain;
   display: block;
   z-index: 1;
-  
+
   @include mobile_only {
     height: 5rem;
     width: 5rem;
@@ -81,16 +82,16 @@
     position: absolute;
     top: 0;
   }
- 
 
   // FRONT PAGE SPECIFIC STYLES FOR CDS LOGO
-  .home &, .accueil & {
+  .home &,
+  .accueil & {
     display: none;
   }
 
   // BILINGUAL SPECIFIC CDS LOGO
   .fr & {
-    background-image: url("../img/cds/cds-logo-fr-v2.svg") !important;  
+    background-image: url("../img/cds/cds-logo-fr-v2.svg") !important;
   }
 }
 
@@ -117,14 +118,15 @@
   }
 
   // FRONT PAGE SPECIFIC STYLES FOR TOP NAV
-  .home &, .accueil & {
+  .home &,
+  .accueil & {
     @include tablet {
       clear: none;
     }
 
     a {
       color: $white;
-      
+
       // below used to be @include tablet
       @include menu_break {
         font-size: 2rem;
@@ -267,7 +269,8 @@
     animation: fadeIn 0.3s ease-in-out forwards;
 
     @include mobile_only {
-      .home &, .accueil & {
+      .home &,
+      .accueil & {
         height: 100vh;
 
         .top-nav {
@@ -328,40 +331,40 @@
       top: 1rem;
     }
   }
-	
-	.mobile-lang {
-	  display    : block;
-	  text-align : right;
-	  color      : $white;
-		position: fixed;
-		top: 5.5rem;
-		left: 10rem;
-		
-		// used to be @include tablet
-		@include menu_break {
-			display: none;
+
+  .mobile-lang {
+    display: block;
+    text-align: right;
+    color: $white;
+    position: fixed;
+    top: 5.5rem;
+    left: 10rem;
+
+    // used to be @include tablet
+    @include menu_break {
+      display: none;
     }
-    
+
     @include mobile_only {
       top: 2.3rem;
-		  left: 2rem;
+      left: 2rem;
     }
 
     a {
       display: inline-block;
-      color           : $white;
+      color: $white;
       display: inline-block;
-      font-size       : 1.25rem;
+      font-size: 1.25rem;
       font-weight: 400;
       margin-top: 0.75rem;
-      text-align      : center;
+      text-align: center;
       text-decoration: none;
       padding-bottom: 1rem;
       border-bottom: #000 1px solid;
       transition: all 0.3s ease-in-out;
 
       &:hover {
-        border-bottom: #CCC 1px solid;
+        border-bottom: #ccc 1px solid;
       }
     }
   }
@@ -392,7 +395,8 @@
     margin: 0px;
   }
 
-  .home &, .accueil & {
+  .home &,
+  .accueil & {
     color: $white;
   }
 
@@ -407,23 +411,24 @@
 }
 
 .main-nav-button--text {
-	display: inline-block;
-	font-size: 1rem;
-	text-transform: uppercase;
-	margin-right: 0.5rem;
-	
-	.home &, .accueil & {
+  display: inline-block;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin-right: 0.5rem;
+
+  .home &,
+  .accueil & {
     color: $white;
   }
 }
 
 .main-nav-button--button {
-	display: inline-block;
-	text-align: center;
-	border: 1px solid;
-	border-radius: 50%;
-	padding: 1.25rem;
-	margin-right: 15px;
+  display: inline-block;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 50%;
+  padding: 1.25rem;
+  margin-right: 15px;
 }
 
 ////////////////////////////////////////////////////////////
@@ -441,7 +446,8 @@
   width: 100%;
   z-index: 999;
 
-  .home & .topbar, .accueil & .topbar {
+  .home & .topbar,
+  .accueil & .topbar {
     position: relative;
     transform: translateX(0%);
     left: 0;
@@ -516,4 +522,28 @@
   100% {
     top: 0;
   }
+}
+
+////////////////////////////////////////////////////////////
+//
+// Product Buttons
+//
+///////////////////////////////////////////////////////////
+.container-products-toggle {
+  margin-bottom: 20px;
+  @include desktop {
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+}
+
+.container-products-toggle a {
+  color: $primary-color;
+  margin: 30px;
+  padding: 10px;
+  border-bottom: 1px dashed $primary-color;
+}
+
+.container-products-toggle a.active {
+  border: 2px solid $primary-color;
 }

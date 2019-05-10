@@ -1,13 +1,29 @@
-{{ define "main" }}    
+{{ define "title"}}
+{{ partial "menu" }}
+<div class="page-banner">
+  <div class="page-banner--scrim"></div>
   <div class="container">
-      <section class="content">
-          <section class="page--outer-container-padding">
-                {{ .Content }}
-                <h2 class="section--title">{{ i18n "platform" }}</h2>
-                {{ range where .Pages ".Params.status" "==" "in-flight" }}
-                  {{ .Render "list"}}
-                {{ end }}
-          </section>
-      </section>
+    <div class="page-banner--title">
+      <h1>{{ i18n "platform"}}</h1>
+      <div class="container-products-toggle">
+        <a href="/products">{{ i18n "products-btn"}}</a>
+        <a href="/platform" class="active">{{ i18n "developer-tools-btn"}}</a>
+      </div>
+    </div>
   </div>
-{{end}}
+</div>
+{{ end }}
+
+{{ define "main" }}
+<div class="container">
+  <section class="content">
+    <section class="page--outer-container-padding">
+      {{ .Content }}
+      <h2 class="section--title">{{ i18n "platform" }}</h2>
+      {{ range where .Pages ".Params.status" "==" "in-flight" }}
+      {{ .Render "list"}}
+      {{ end }}
+    </section>
+  </section>
+</div>
+{{ end }}
