@@ -124,6 +124,6 @@ Au SNC, nous sommes reconnaissants de nous associer à d’autres fonctionnaires
 
 {{% roadmap/div class="roadmap-footer" %}}
 
-**Faites-nous part de vos réflexions!** Ce document se veut un point de départ, et non un point d’arrivée. Nous serions heureux de recevoir vos commentaires par <a href="mailto:cds-snc@tbs-sct.gc.ca" onclick="ga('send', 'event', 'roadmap-fr', 'outbound', 'email');">courriel</a>, <a href="https://www.linkedin.com/company/cds-snc" onclick="ga('send', 'event', 'roadmap-fr', 'outbound', 'linkedin');">LinkedIn</a> ou <a href="https://twitter.com/snc_gc" onclick="ga('send', 'event', 'roadmap-en', 'outbound', 'twitter');">Twitter</a>.
+**Faites-nous part de vos réflexions!** Ce document se veut un point de départ, et non un point d’arrivée. Nous serions heureux de recevoir vos commentaires par <a href="mailto:cds-snc@tbs-sct.gc.ca" onclick="ga('send', 'event', 'roadmap-fr', 'outbound', 'email');">courriel</a>, <a href="https://www.linkedin.com/company/cds-snc" onclick="ga('send', 'event', 'roadmap-fr', 'outbound', 'linkedin');">LinkedIn</a> ou <a href="https://twitter.com/snc_gc" onclick="ga('send', 'event', 'roadmap-fr', 'outbound', 'twitter');">Twitter</a>.
 
 {{% /roadmap/div %}}
