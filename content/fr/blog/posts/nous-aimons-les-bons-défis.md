@@ -12,8 +12,7 @@ image-alt: >-
   Aaron est en train de parler sur un podium, devant une bannière colorée
   affichant « FWD50 », et un écran à l’avant indique « Défi accepté ».
 translationKey: we-love-a-good-challenge
-thumb: ''
-processed: ''
+thumb: /img/cds/aaron-fwd50-challenge-accepted-fr.jpg
 ---
 L’été dernier, le gouvernement fédéral a réuni des chefs de file de l’industrie canadienne pour aider à orienter les [stratégies économiques du Canada](https://www.ic.gc.ca/eic/site/098.nsf/fra/accueil). L’un de ces groupes, soit la Table sur les industries numériques qui était présidée par le président-directeur général de Shopify, [Tobi Lütke](https://twitter.com/tobi), a examiné la façon dont le Canada pourrait devenir un chef de file du numérique. Son rapport, publié en septembre 2018, [présente une vision audacieuse](https://www.ic.gc.ca/eic/site/098.nsf/vwapj/ISEDC_IndustriesNumeriques.pdf/%24file/ISEDC_IndustriesNumeriques.pdf) du Canada en tant que société numérique.
 
