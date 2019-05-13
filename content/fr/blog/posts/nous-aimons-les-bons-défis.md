@@ -7,7 +7,7 @@ description: >-
   pourrions-nous y arriver?
 author: 'Aaron Snow, dirigeant principal'
 date: 2019-05-13T13:26:00.789Z
-image: /img/cds/yoel-j-gonzalez-304137-unsplash.jpg
+image: /img/cds/aaron-fwd50-challenge-accepted-fr.jpg
 image-alt: >-
   Aaron est en train de parler sur un podium, devant une bannière colorée
   affichant « FWD50 », et un écran à l’avant indique « Défi accepté ».
