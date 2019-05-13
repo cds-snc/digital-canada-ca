@@ -6,7 +6,7 @@ description: >-
   digitize all public-facing services by 2025. How could we make that happen?
 author: 'Aaron Snow, CEO'
 date: 2019-05-13T13:01:52.997Z
-image: /img/cds/yoel-j-gonzalez-304137-unsplash.jpg
+image: /img/cds/aaron-fwd50-challenge-accepted-en.jpg
 image-alt: >-
   Aaron Snow speaks at a podium in front of a colourful “FWD50” sign, with a
   screen in the background labelled “Challenge accepted.”
