@@ -12,7 +12,7 @@ image-alt: >-
   que des interprètes gestuels se trouvent derrière eux.
 translationKey: small-acts-big-impact
 thumb: /img/cds/thumbnails/diversity-day-banner-image.jpg
-processed: 1554491439504
+processed: 1554413470255
 ---
 Des équipes diversifiées et inclusives offrent des services qui le sont tout autant. C’est pourquoi le vendredi 8 février, le Service numérique canadien a tenu l’événement [Diversité au sein des services numériques](https://www.eventbrite.ca/e/diversity-in-digital-services-diversite-au-sein-des-services-numeriques-registration-51465629082), une journée destinée à échanger des idées à propos de la diversité et de l’inclusion des équipes, ainsi que de leur incidence sur la prestation de meilleurs services.
 

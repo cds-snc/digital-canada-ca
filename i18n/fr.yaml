@@ -94,3 +94,13 @@ more-posts:
   other: "Lire notre blogue"
 platform:
   other: "Outils"
+version-history:
+  other: "Versions historiques"
+roadmap-show-less:
+  other: "Voir moins"
+roadmap-show-all:
+  other: "Voir plus"
+roadmap-next-steps:
+  other: "Prochaines étapes"
+roadmap-date-modified:
+  other: "Date modifié:"
