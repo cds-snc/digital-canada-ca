@@ -3,6 +3,7 @@ type: roadmap
 layout: default
 url: /feuille-de-route-2025/
 title: "Offrir des services numériques d’ici 2025"
+description: "Les Canadiennes et les Canadiens s’attendent à des services numériques qui reflètent l’ère d’Internet. Des mesures concrètes et audacieuses nous aideront à répondre à ces attentes. Nous avons hâte d’élaborer cette feuille de route avec vous tous."
 dateUpdated: "2019-05-13"
 dateUpdatedString: "le 13 mai, 2019"
 versionLabel: "v0.1"

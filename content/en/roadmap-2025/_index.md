@@ -3,6 +3,7 @@ type: roadmap
 layout: default
 url: /roadmap-2025/
 title: "Delivering digital services by 2025"
+description: "Canadians expect digital services that reflect the Internet era. Concrete, bold actions will help us meet those expectations. We look forward to developing this roadmap together with all of you."
 dateUpdated: "2019-05-13"
 dateUpdatedString: "May 13, 2019"
 versionLabel: "v0.1"
