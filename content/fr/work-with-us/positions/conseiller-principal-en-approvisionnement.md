@@ -42,7 +42,3 @@ Nous reconnaissons que chaque personne peut apporter des compétences et des exp
 
 Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. La prestation de services publics améliorés, accessibles et inclusifs n’est réalisable que si nous pouvons reconnaître et exploiter une diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à prospérer.
 Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
-
-## Vous êtes intéressé?
-
-Envoyez-nous un courriel à [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) et indiquez « Conseiller principal en approvisionnement » dans la ligne d’objet. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.
