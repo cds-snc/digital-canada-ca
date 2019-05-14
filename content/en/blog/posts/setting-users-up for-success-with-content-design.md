@@ -1,6 +1,6 @@
 ---
 title: Setting up users for success with content design
-author: 'Zak Kain, Content designer'
+author: 'Cayce Fischer, Content designer'
 date: '2018-06-12 09:00:00 -0400'
 image: /img/cds/blog-setting-up-users-for-success.jpg
 image-alt: >-

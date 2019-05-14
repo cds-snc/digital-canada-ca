@@ -11,7 +11,8 @@ date: 2019-05-06T14:28:22.886Z
 image: /img/cds/rcmp-first.jpg
 image-alt: The back of an elderly man sitting on a park bench by himself.
 translationKey: rcmp-cybercrime
-thumb: /img/cds/rcmp-first.jpg
+thumb: /img/cds/thumbnails/rcmp-first.jpg
+processed: 1557351147289
 ---
 Technology makes our lives easier by allowing us to do things quickly and conveniently, whether it’s banking and online shopping, connecting with family, or working from home. This convenience, however, can open the door to potential risks, like cybercrime. 
 
@@ -41,7 +42,8 @@ Discovery research is important because it sets the direction by focusing our wo
 
 Going into this, we assumed all people have the same motivation to report: to help provide information to police. Through Discovery research,  we learned our assumptions were too narrow and didn’t always consider the humans behind the screen.
 
-Sometimes people’s reasons for reporting might not be to directly help an investigation.  
+Sometimes people’s reasons for reporting might not be to directly help an investigation.
+  
 Through talking with people, we were reminded that an online tool can provide small pieces of **emotional comfort and support** that victims need after they’ve experienced a cybercrime. And sometimes that’s all the motivation they need to report. 
 
 Without conversations with people, we lose the little details. And often, it’s those little details that make the difference between someone using a service, and not using a service.
@@ -57,3 +59,4 @@ RCMP wants to build a people-focused service. With the ever-changing nature of c
 We’ll be sharing more about this product as it progresses! Follow along on [GitHub](https://github.com/cds-snc/report-a-cybercrime) as we prototype in Alpha.
 
 Want to do this kind of work on your team?  Check out our recent [post](https://digital.canada.ca/2019/02/27/the-policy-pieces-for-conducting-research-with-vac/) on policy and design research and our [Design research handbook](https://cds-snc.github.io/design-research-handbook/home/) for tips and tools for getting started.
+

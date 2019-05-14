@@ -1,6 +1,6 @@
 ---
 title: Donner aux utilisateurs les moyens de réussir grâce à la conception de contenu
-author: 'Zak Kain, concepteur de contenu'
+author: 'Cayce Fischer, concepteur de contenu'
 date: '2018-06-12 09:00:00 -0400'
 image: /img/cds/blog-setting-up-users-for-success.jpg
 image-alt: >-

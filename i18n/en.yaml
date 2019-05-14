@@ -92,3 +92,15 @@ featured-post:
   other: "Learn more about how we work"
 more-posts:
   other: "Read our blog"
+platform:
+  other: "Tools"
+version-history:
+  other: "Version history"
+roadmap-show-less:
+  other: "Show less"
+roadmap-show-all:
+  other: "Show all"
+roadmap-next-steps:
+  other: "Next steps"
+roadmap-date-modified:
+  other: "Date modified:"

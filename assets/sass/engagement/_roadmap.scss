@@ -1,0 +1,215 @@
+@media screen {
+
+    .roadmap-heading-container {
+        h1 {
+            color: #fff;
+            font-size: 52px;
+            border-bottom: 0px;
+            max-width: 12.3em;
+    
+            margin-top: 9.5rem;
+            // margin-bottom: 1.05em;
+        }
+    }
+    
+    .roadmap-container {
+        font-size: 18px;
+
+        h2 {
+            margin-bottom: 0.6em;
+            margin-top: 1.2em;
+        }
+
+        .screenreader-skip-links {
+            list-style-type: none;
+            margin-bottom: 0;
+        }
+
+        blockquote {
+            font-size: inherit;
+        }
+
+        p {
+            margin: 0 0 1.5em;
+            line-height: 1.5;
+        }
+
+        .roadmap-content {
+            margin: 5rem auto;
+            max-width: 61rem;
+        }
+
+        // Date
+        .date {
+            border-left: #000 5px solid;
+            padding-left: 1.5rem;
+            margin-top: 1rem;
+            margin-bottom: 2.5rem;
+        }
+        .version-history-link {
+            display: inline-block;
+            margin-left: 0.2em;
+        }
+
+        .clean-list ul {
+            list-style: none;
+        }
+
+        .clearfix {
+            clear:both;
+        }
+
+        .roadmap-footer {
+            background-color: #ebebeb;
+            border: 1px solid #dedede;
+            padding: 2rem;
+
+            p:last-child {
+                margin: 0;
+            }
+            margin-bottom: 1.5em;
+        }
+
+    }
+
+    // Header SVGs (screen)
+    .fip-logo {
+        display: block;
+        margin-top: 4px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        
+        object, img {
+            height: 25px;
+        }
+    }
+
+    .header-cds-lockup-container {
+        margin-top: 5px;
+        background-color: #000;
+    }
+    .header-cds-lockup {
+        padding-top: 1.5rem;
+        padding-bottom: 4.1rem;
+        object, img {
+            height: 52px;
+        }
+    }
+    .cds-lockup-print {
+        display: none;
+    }
+
+    #wb-lng {
+        padding-top: 14px;
+    }
+}
+
+@media print {
+
+    .no-page-break {
+        page-break-inside: avoid;
+    }
+
+    .roadmap-heading-container {
+        h1 {
+            font-size: 46px;
+            border-bottom: 0px;
+            max-width: 12.3em;
+            margin-top: 0.5em;
+            margin-bottom: 0;
+        }
+    }
+
+    .roadmap-container {
+        font-size: 16px;
+
+        h2 {
+            margin-bottom: 0.6em;
+            margin-top: 1.2em;
+        }
+
+        p {
+            margin: 0 0 1.2em;
+        }
+
+        blockquote {
+            font-size: inherit;
+        }
+
+        dl {
+            margin-bottom: 0.2em;
+            font-size: 13px;
+
+            dt, dd {
+                display: inline;
+            }
+        }
+
+        .date {
+            margin-bottom: 1.1em;
+            // padding-bottom: 11.5px;
+         }
+
+
+        // Don't show URLs after links
+        a[href]:after {
+            content: "";
+        }
+
+        .roadmap-content {
+            margin: 3.5rem auto;
+            max-width: 61rem;
+        }
+
+        .clean-list ul {
+            list-style: none;
+        }
+
+        .roadmap-footer {
+            border-top: 1px solid #DDD;
+            padding-top: 0.5em;
+            margin-top: 2.5em;
+        }
+
+        .version-history-link {
+            display: inline-block;
+            margin-left: 0.2em;
+        }
+
+    }
+
+    // Header SVGs (print)
+    .fip-logo {
+        display: block;
+        padding-top: 14px;
+        padding-bottom: 10px;
+        
+        object, img {
+            height: 24px;
+        }
+    }
+    a.fip-logo[href]:after {
+        content: "";
+    }
+
+    .header-cds-lockup-container {
+        margin-top: 5px;
+        border-top: 1px solid #DDD;
+        border-bottom: 1px solid #DDD;
+    }
+    .header-cds-lockup {
+        padding-top: 15px;
+        padding-bottom: 30px;
+        object, img {
+            height: 50px;
+        }
+    }
+    .cds-lockup {
+        display: none;
+    }
+    .cds-lockup-print {
+        display: inline-block;
+    }
+
+}
+
