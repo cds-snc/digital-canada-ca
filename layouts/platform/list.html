@@ -32,7 +32,7 @@
             <div class="work-in-progress--team">
                 <h4>Contact</h4>
                 {{ range .Params.contact }}
-                    <p>The Platform Team (<a href='mailto:{{.email}}'>{{ i18n "email" }}</a>)</p>
+                    <p>{{ i18n "the-platform-team"}} (<a href='mailto:{{.email}}'>{{ i18n "email" }}</a>)</p>
                 {{ end }}
             </div>
             <div class="work-in-progress--links">
