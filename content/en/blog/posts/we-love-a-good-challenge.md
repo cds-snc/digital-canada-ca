@@ -11,7 +11,8 @@ image-alt: >-
   Aaron Snow speaks at a podium in front of a colourful “FWD50” sign, with a
   screen in the background labelled “Challenge accepted.”
 translationKey: we-love-a-good-challenge
-thumb: /img/cds/aaron-fwd50-challenge-accepted-en.jpg
+thumb: /img/cds/thumbnails/aaron-fwd50-challenge-accepted-en.jpg
+processed: 1557832757137
 ---
 Last summer, the federal government brought together Canadian industry leaders to help guide [economic strategies for Canada](https://www.ic.gc.ca/eic/site/098.nsf/eng/home). One of these, the Digital Industries table – chaired by Shopify CEO [Tobi Lütke](https://twitter.com/tobi) – examined how Canada could become a digital leader. Their report was published in September 2018, and [presents a bold vision](https://www.ic.gc.ca/eic/site/098.nsf/vwapj/ISEDC_Digital_Industries.pdf/$FILE/ISEDC_Digital_Industries.pdf) for Canada as a digital society.
  
@@ -22,3 +23,4 @@ It’s been [just over a year now](https://digital.canada.ca/2018/10/19/hello-wo
 In November at [FWD50](https://twitter.com/kathleenmonk/status/1060576882528268288), CDS [accepted the challenge](https://twitter.com/lecuyerkrista/status/1060572367330598912) to consider: What would it take for the Government of Canada to deliver its public-facing services digitally by 2025? As part of CDS’s mandate to provide advice to government about digital service delivery, we’re sharing the beginning of a roadmap to that goal: [*Delivering digital services by 2025*](https://digital.canada.ca/roadmap-2025/?utm_source=social&utm_medium=Blog&utm_campaign=roadmap-launch-initial). Public servants across government are working to improve digital service delivery, but efforts to date have not been enough. We need to put the wind at their backs.
 
 This document is the beginning of a broader conversation, and we look forward to developing it together with all of you. [Read it today](https://digital.canada.ca/roadmap-2025/?utm_source=social&utm_medium=Blog&utm_campaign=roadmap-launch-initial) and [let us know](mailto:cds-snc@tbs-sct.gc.ca) what you think.
+
