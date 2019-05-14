@@ -8,6 +8,7 @@ description: >-
   and learning from public servants.
 archived: false
 translationKey: head-of-partnerships
+leverId: ed874b58-e046-4d35-965c-697a2b585ffb
 ---
 The Canadian Digital Service (CDS) works with federal departments to make government services simple and easy-to-use. We’re rethinking service design and delivery, and engaging the people who depend on services every step of the way. By working in the open and connecting partners with tools and talent, we’re improving how government delivers services.
  
