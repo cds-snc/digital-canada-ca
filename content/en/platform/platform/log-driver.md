@@ -2,7 +2,7 @@
 title: CDS log driver 🇨🇦
 translationKey: log-driver
 description: >-
-  A tool to move logs (console messages) out of developer consoles and into a centralized logging services
+  A tool to move logs (console messages) out of developer consoles and into a centralized logging service
 phase: beta
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
