@@ -16,7 +16,7 @@ image-alt: >-
   livres.
 translationKey: help-from-friends-HR
 thumb: /img/cds/thumbnails/beetletoy.jpg
-processed: 1554905080059
+processed: 1554413470134
 ---
 *[On s’en sort avec l’aide de nos amis] (https://numerique.canada.ca/2019/01/31/on-sen-sort-avec-laide-de-nos-amis/) est une série de billets de blogues mettant en vedette les fonctionnaires extraordinaires qui nous permettent, à nous et à nos partenaires, de concevoir et d’offrir de meilleurs services.*
 

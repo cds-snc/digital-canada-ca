@@ -12,7 +12,7 @@ image-alt: >-
   front of event attendees. 
 translationKey: small-acts-big-impact
 thumb: /img/cds/thumbnails/diversity-day-banner-image-2.jpg
-processed: 1554905080022
+processed: 1554413470049
 ---
 Diverse and inclusive teams deliver diverse and inclusive services. That’s why on Friday, February 8, The Canadian Digital Service hosted [Diversity in Digital Services](https://www.eventbrite.ca/e/diversity-in-digital-services-diversite-au-sein-des-services-numeriques-registration-51465629082), a day to brainstorm ideas around team diversity, inclusion, and their impact on delivering better services. 
 
