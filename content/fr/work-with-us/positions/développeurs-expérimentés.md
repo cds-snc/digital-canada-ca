@@ -5,6 +5,7 @@ title: Développeurs expérimentés
 description: 'Nous recherchons des développeurs expérimentés et dévoués pour faire grandir '
 archived: false
 translationKey: sr-dev
+leverId: 1c2e54d9-be1f-468b-bf64-b4a50769d8d9
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
 
@@ -37,7 +38,3 @@ Nous reconnaissons que chaque personne peut apporter des compétences et des exp
 Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. La prestation de services publics améliorés, accessibles et inclusifs n’est réalisable que si nous pouvons reconnaître et exploiter une diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à prospérer.
 
 Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.
-
-## Vous êtes intéressé?
-
-Envoyez-nous un courriel à <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca> et indiquez « Développeurs expérimentés » dans la ligne d’objet. Fournissez-nous un lien vers votre CV, des exemples de votre travail ou ce que nous devrions voir pour mieux vous connaître.

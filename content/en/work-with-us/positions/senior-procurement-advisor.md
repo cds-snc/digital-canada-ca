@@ -7,6 +7,7 @@ description: >-
   firms into our delivery work.
 archived: false
 translationKey: sr-proc-advisor
+leverId: 0beaa08a-9393-4852-bdb6-c25b95b53cfc
 ---
 We’re transforming government. Our products will impact people’s everyday lives. It’s an exciting thing to be part of. We need you. The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. We're hiring people at all levels of experience in Ottawa, Toronto, Waterloo, and Montreal.
 
@@ -37,7 +38,3 @@ We recognize that everyone brings skills and experiences to the table and that n
 
 We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.
-
-## Interested?
-
-Email us at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) with “Senior Procurement Advisor” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
