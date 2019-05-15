@@ -1,8 +1,8 @@
 ---
-title: Suivi de la taille de votre paquet
+title: Outil de suivi de la taille des paquets
 translationKey: bundle-tracker
 description: >-
-  Cette fonction infonuagique vise à consigner les changements dans la taille de votre paquet (bundle) au fil du temps.
+  Cette fonction infonuagique consigne les changements dans la taille de votre paquet (bundle) au fil du temps.
 phase: beta
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
