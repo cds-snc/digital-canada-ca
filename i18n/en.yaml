@@ -93,7 +93,9 @@ featured-post:
 more-posts:
   other: "Read our blog"
 platform:
-  other: "Tools"
+  other: "Tools and resources"
+the-platform-team:
+  other: "The Platform Team"
 version-history:
   other: "Version history"
 roadmap-show-less:
@@ -104,3 +106,7 @@ roadmap-next-steps:
   other: "Next steps"
 roadmap-date-modified:
   other: "Date modified:"
+products-btn: 
+  other: "Products"
+developer-tools-btn:
+  other: "Tools and resources"

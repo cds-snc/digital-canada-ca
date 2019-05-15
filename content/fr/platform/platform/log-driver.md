@@ -1,8 +1,8 @@
 ---
-title: SNC camelot 🇨🇦
+title: Camelot du SNC 🇨🇦
 translationKey: log-driver
 description: >-
-  Un camelot déplace des journaux (publications sur l’actualité) d’un distributeur au domicile des gens. Dans notre cas, nous voulons déplacer les journaux (messages de console) des consoles de développeurs vers des endroits comme StackDriver.
+  Cet outil déplace les journaux (messages de console) hors des consoles de développement et vers des services de suivi comme StackDriver.
 phase: beta
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca

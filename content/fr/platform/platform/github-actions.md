@@ -2,7 +2,7 @@
 title: Actions GitHub
 translationKey: github-actions
 description: >-
-  Le but de ce référentiel est de suivre toutes les actions GitHub que la CDS crée pour ses propres besoins. N'hésitez pas à les utiliser dans vos propres workflows.
+  Ce référentiel assure le suivi de toutes les actions GitHub faites par les membres du SNC.
 phase: beta
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
