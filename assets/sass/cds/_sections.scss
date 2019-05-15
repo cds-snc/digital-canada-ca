@@ -1383,3 +1383,15 @@ article.post {
 .work-in-progress--platform-module {
   padding: 1rem 0;
 }
+
+.platform-banner{
+  background-color    : $dark-grey;
+  background-size     : cover;
+  background-position : center center;
+  height              : 12rem;
+  position            : relative;
+
+  @include tablet  { height: 20rem; }
+  @include desktop { height: 28rem; }
+
+}
