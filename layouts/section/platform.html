@@ -16,8 +16,8 @@
 
 {{ define "main" }}
 <div class="container">
-  <section class="content">
-    <section class="page--outer-container-padding"></section>
+    <section class="content">
+      <section class="page--outer-container-padding">
       {{ .Content }}
       {{ range where .Pages ".Params.status" "==" "in-flight" }}
       {{ .Render "list"}}
