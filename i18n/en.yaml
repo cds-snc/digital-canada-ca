@@ -106,3 +106,7 @@ roadmap-next-steps:
   other: "Next steps"
 roadmap-date-modified:
   other: "Date modified:"
+products-btn: 
+  other: "CDS products"
+developer-tools-btn:
+  other: "Developer Tools"

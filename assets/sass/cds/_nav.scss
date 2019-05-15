@@ -529,6 +529,11 @@
 // Product Buttons
 //
 ///////////////////////////////////////////////////////////
+
+.container-products-toggle {
+  display: none;
+}
+
 .container-products-toggle {
   margin-bottom: 20px;
   @include desktop {
@@ -542,12 +547,12 @@
   margin: 10px;
   padding: 5px 10px;
   border-bottom: 1px dashed $primary-color;
-  font-size:0.6em;
+  font-size: 0.6em;
 
   @include desktop {
     margin: 30px;
     padding: 10px;
-    font-size:0.9em;
+    font-size: 0.9em;
   }
 }
 
