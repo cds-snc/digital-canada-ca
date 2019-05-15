@@ -41,7 +41,7 @@ links:
 meet-the-full-team:
   other: "Toute l’équipe"
 next-post:
-  other: "Prochaine billet"
+  other: "Billet suivant"
 our-team:
   other: "Rencontrez l’équipe"
 partner:
@@ -95,7 +95,7 @@ more-posts:
 platform:
   other: "Outils"
 the-platform-team:
-  other: "The Platform Team"
+  other: "Équipe des plateformes"
 version-history:
   other: "Versions historiques"
 roadmap-show-less:
@@ -105,7 +105,7 @@ roadmap-show-all:
 roadmap-next-steps:
   other: "Prochaines étapes"
 roadmap-date-modified:
-  other: "Date modifié:"
+  other: "Date de modification:"
 products-btn: 
   other: "Produits"
 developer-tools-btn:
