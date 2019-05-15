@@ -94,6 +94,8 @@ more-posts:
   other: "Lire notre blogue"
 platform:
   other: "Outils"
+the-platform-team:
+  other: "The Platform Team"
 version-history:
   other: "Versions historiques"
 roadmap-show-less:
@@ -104,3 +106,7 @@ roadmap-next-steps:
   other: "Prochaines étapes"
 roadmap-date-modified:
   other: "Date modifié:"
+products-btn: 
+  other: "CDS products"
+developer-tools-btn:
+  other: "Developer Tools"
