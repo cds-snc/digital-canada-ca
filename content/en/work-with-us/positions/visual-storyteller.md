@@ -8,6 +8,7 @@ description: >-
   better. If you’re ready to help us use fewer words and more pictures, then
   this is the role for you.
 archived: true
+leverId: 220f78c1-4504-4c4e-8dc7-93bec226d18a
 translationKey: visual-storyteller
 ---
 We’re transforming government. Our products will impact people’s everyday lives. It’s an exciting thing to be part of. We need you.
@@ -35,7 +36,7 @@ As the Outreach Team, we are the storytellers of the CDS. We tell the stories th
 * You know that sometimes just trying something is the best way to find out if it’ll work
 * You’re comfortable with what you know, comfortable with what you don’t know, and know how to work with others to make great things.
 * You know that done is better than perfect.
-* You’re fluent in French and English 
+* You’re fluent in French and English. (In government speak, CBC.)
 * You like ice cream. Not because we’re breaking a sweat and need to chill. Just because we like to have our team meetings over cones. (Vegan? Lactose intolerant? We’ve got you covered.)
 
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
@@ -45,7 +46,3 @@ We recognize that everyone brings skills and experiences to the table and that n
 We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 
 CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.
-
-## Interested?
-
-Email us at <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca> with “Visual Storyteller” in the subject line. Include a link to a CV, examples of your work, and/or whatever you think we should see to get to know you.
