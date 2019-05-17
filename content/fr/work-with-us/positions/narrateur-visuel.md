@@ -9,6 +9,7 @@ description: >-
   prêt à nous aider à utiliser moins de mots et plus d’images, alors ce rôle est
   pour vous.
 archived: true
+leverId: 220f78c1-4504-4c4e-8dc7-93bec226d18a
 translationKey: visual-storyteller
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
@@ -35,7 +36,7 @@ En tant qu’équipe de liaison et diffusion, nous sommes les narrateurs du SNC.
 * Vous savez que parfois, essayer quelque chose est le meilleur moyen de savoir si ça va marcher.
 * Vous êtes à l’aise avec ce que vous savez et avec ce que vous ne savez pas, en plus de savoir comment travailler avec les autres pour réaliser de grandes choses.
 * Vous savez que l’exécution en temps voulu vaut mieux que la perfection.
-* Vous parlez et écrivez couramment en français et en anglais.
+* Vous parlez couramment le français et l’anglais (dans le langage du gouvernement : niveau CBC).
 * Vous aimez la crème glacée. Pas parce qu’on transpire et qu’on a besoin de se calmer. Juste parce qu’on aime avoir nos réunions d’équipe avec des cornets. (Végétalien? Allergique au lactose? Nous avons ce qu’il vous faut.)
 
 Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisation et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! Dites nous pourquoi vous êtes la personne idéale pour ce poste.
