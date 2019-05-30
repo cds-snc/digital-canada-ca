@@ -7,7 +7,7 @@ description: >-
   aventure passionnante dans le secteur privé [cry emoji]
 author: Yael Berger et Eva Demers-Brett
 date: 2019-05-30T15:30:00.000Z
-image: /img/cds/eva-demers-brett.jpg
+image: /img/cds/eva-blog.jpg
 image-alt: >-
   Une série de portraits en noir et blanc d’Eva Demers-Brett, allant de sérieux
   à de plus en plus loufoques, ainsi qu’un portrait de sa mascotte, M. Pinchey,
