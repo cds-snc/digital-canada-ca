@@ -6,7 +6,7 @@ description: >-
   du gouvernement ouvert (GO), nous quitte ce mois-ci pour entreprendre une
   aventure passionnante dans le secteur privé [cry emoji]
 author: Yael Berger et Eva Demers-Brett
-date: 2019-05-30T15:30:00.000Z
+date: 2019-05-30T15:00:00.000Z
 image: /img/cds/eva-blog.jpg
 image-alt: >-
   Une série de portraits en noir et blanc d’Eva Demers-Brett, allant de sérieux
