@@ -3,7 +3,7 @@ layout: blog
 title: 'Eva’s Exit Interview: Take a walk on the private side'
 description: >-
   One of our beloved developers and OG team member Eva Demers-Brett is leaving
-  us this month to embark on an exciting opportunity in the private sector
+  us this month to embark on an exciting opportunity in the private sector.
 author: Yael Berger and Eva Demers-Brett
 date: 2019-05-30T15:30:00.000Z
 image: /img/cds/eva-demers-brett.jpg
