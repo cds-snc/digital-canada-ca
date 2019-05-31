@@ -8,9 +8,9 @@ author: Yael Berger and Eva Demers-Brett
 date: 2019-05-30T15:00:00.000Z
 image: /img/cds/eva-blog.jpg
 image-alt: >-
-  A series of black and white portraits of Eva Demers-Brett, going from serious
-  to progressively more silly, including a portrait of her mascot, Mr. Pinchey,
-  an orange stuffed animal crab wearing a shark hat.
+  A series of portraits of Eva Demers-Brett, going from serious to progressively
+  more silly, including a portrait of her mascot, Mr. Pinchey, an orange stuffed
+  animal crab wearing a shark hat.
 translationKey: take-a-walk-on-the-private-side
 thumb: ''
 processed: ''
