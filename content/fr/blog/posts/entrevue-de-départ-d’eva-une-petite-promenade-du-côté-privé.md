@@ -9,9 +9,9 @@ author: Yael Berger et Eva Demers-Brett
 date: 2019-05-30T15:00:00.000Z
 image: /img/cds/eva-blog.jpg
 image-alt: >-
-  Une série de portraits en noir et blanc d’Eva Demers-Brett, allant de sérieux
-  à de plus en plus loufoques, ainsi qu’un portrait de sa mascotte, M. Pinchey,
-  un crabe en peluche orange portant un chapeau de requin.
+  Une série de portraits d’Eva Demers-Brett, allant de sérieux à de plus en plus
+  loufoques, ainsi qu’un portrait de sa mascotte, M. Pinchey, un crabe en
+  peluche orange portant un chapeau de requin.
 translationKey: take-a-walk-on-the-private-side
 thumb: ''
 processed: ''
