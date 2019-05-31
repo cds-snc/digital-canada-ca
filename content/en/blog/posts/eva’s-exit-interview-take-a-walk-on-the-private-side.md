@@ -12,10 +12,9 @@ image-alt: >-
   more silly, including a portrait of her mascot, Mr. Pinchey, an orange stuffed
   animal crab wearing a shark hat.
 translationKey: take-a-walk-on-the-private-side
-thumb: ''
-processed: ''
+thumb: /img/cds/eva-blog.jpg
 ---
-One of our beloved developers and OG team member Eva Demers-Brett is leaving us this month to embark on an exciting opportunity in the private sector [cry emoji]. It’ll be her first time working outside the public service during her career as a developer, so we wanted to capture her insights and find out what lessons she’ll bring with her as she takes a walk on the private side.
+One of our beloved developers and OG team member Eva Demers-Brett is leaving us this month to embark on an exciting opportunity in the private sector 😢. It’ll be her first time working outside the public service during her career as a developer, so we wanted to capture her insights and find out what lessons she’ll bring with her as she takes a walk on the private side.
 
 **Yael:** So let’s start back at the beginning. Why did you want to work at CDS?
 
