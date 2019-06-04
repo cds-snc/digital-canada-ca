@@ -9,5 +9,5 @@ contact:
 status: in-flight
 links:
   - name: Documentation
-    url: "https://numerique.canada.ca/platform/guide-tests-d-utilisabilité"
+    url: "/platform/guide-tests-d-utilisabilité"
 ---

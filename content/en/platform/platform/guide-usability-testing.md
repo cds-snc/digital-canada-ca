@@ -9,5 +9,5 @@ contact:
 status: in-flight
 links:
   - name: Documentation
-    url: "https://digital.canada.ca/platform/guide-usability-testing/"
+    url: "/platform/guide-usability-testing/"
 ---

@@ -9,5 +9,5 @@ contact:
 status: in-flight
 links:
   - name: Documentation
-    url: "https://digital.canada.ca/platform/guide-interviewing/"
+    url: "/platform/guide-interviewing/"
 ---
