@@ -6,6 +6,7 @@ description: >-
 phase: beta
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
+    name: The Platform Team
 status: in-flight
 links:
   - name: GitHub
