@@ -9,5 +9,5 @@ contact:
 status: in-flight
 links:
   - name: Documentation
-    url: "/platform/guide-tests-d-utilisabilité"
+    url: "/platform/guide-usability-testing/"
 ---
