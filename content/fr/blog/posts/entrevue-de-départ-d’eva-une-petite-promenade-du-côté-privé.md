@@ -13,7 +13,8 @@ image-alt: >-
   loufoques, ainsi qu’un portrait de sa mascotte, M. Pinchey, un crabe en
   peluche orange portant un chapeau de requin.
 translationKey: take-a-walk-on-the-private-side
-thumb: /img/cds/eva-blog.jpg
+thumb: /img/cds/thumbnails/eva-blog.jpg
+processed: 1559833507130
 ---
 L’une de nos développeuses bien-aimées, Eva Demers-Brett, membre de l’équipe du gouvernement ouvert (GO), nous quitte ce mois-ci pour entreprendre une aventure passionnante dans le secteur privé 😢. Ce sera la première fois de sa carrière de développeuse qu’elle travaillera à l’extérieur de la fonction publique; c’est pourquoi nous voulions connaître ses réflexions et les leçons qu’elle gardera en tête tandis qu’elle découvre le secteur privé.
 
@@ -72,3 +73,4 @@ J’ai aussi connu un changement de perspective qui va rester. Dans le milieu de
 **Yael:** Qu’est-ce qui te manquera le plus?
 
 **Eva:** Les gens! Les gens vont me manquer. J’adore le SNC, j’aime tous ceux avec qui j’ai travaillé. Ce sera très différent. Le travail était vraiment agréable, et c’était formidable de pouvoir écrire un vrai code au gouvernement. Mais au bout du compte, c’est à cause des gens si je suis restée ici deux ans. Continuez d’être géniaux. Je pense que c’est le moment parfait pour l’existence du SNC. Vous me manquerez beaucoup. Heureusement, le SNC travaille ouvertement, alors je pourrai me tenir au courant!
+
