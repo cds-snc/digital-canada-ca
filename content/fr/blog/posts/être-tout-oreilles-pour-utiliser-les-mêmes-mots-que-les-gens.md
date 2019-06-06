@@ -15,8 +15,7 @@ image-alt: >-
   des notes dans un petit carnet, avec une tasse de café et un téléphone à côté
   d’elle. L’autre a une tablette devant elle et un verre d’eau à sa droite.
 translationKey: using-words-people-use
-thumb: ''
-processed: ''
+thumb: /img/cds/bag-and-hands.jpg
 ---
 La façon dont le gouvernement s’exprime peut être très différente de la façon dont les gens s’expriment à l’extérieur du gouvernement. En tant que fonctionnaire, je sais qu’il m’est arrivé d’utiliser un langage spécialisé qui perd son sens en dehors de mon équipe ou de mon ministère. Mais j’ai aussi été de l’autre côté, perdue en essayant de naviguer dans un site Web du gouvernement ou frustrée en cherchant différentes combinaisons de mots pour trouver le bon formulaire. 
 
@@ -28,12 +27,18 @@ En collaboration avec la Gendarmerie royale du Canada (GRC), nous étudions ce q
 
 Après avoir parlé avec des gens qui ont été touchés par la cybercriminalité, nous avons appris que la plupart d’entre eux ne s’identifient pas comme des victimes de « cybercriminalité ». De plus, les gens ne mentionnent pas immédiatement le type de cybercrime qu’ils ont vécu. Ils parlent plutôt des répercussions de leur expérience, et ils décrivent celle-ci en termes de somme d’argent perdue, d’émotions ressenties ou de technologies affectées. 
 
-Au cours des séances de recherche, nous avons entendu des choses comme : 
+Au cours des séances de recherche, nous avons entendu des choses comme: 
+
 **“I was *scammed*” (« On m’a *arnaqué*. »)**
+
 **“We *lost* money” (« Nous avons *perdu* de l’argent. »)**
+
 **“The computer was *hacked*.” (« L’ordinateur a été *piraté*. »)**
+
 **“I received *suspicious emails*.” (« J’ai reçu des *courriels suspects*. »)**
+
 **“I was very *scared* and didn’t know what to do” (« J’avais très *peur* et ne savais pas quoi faire. »)**
+
 **« J’ai *perdu* des renseignements personnels. Ma réaction? J’étais en *colère*. »**
 
 Grâce à nos discussions avec les victimes, nous espérons adapter le contenu du service afin qu’il réponde à leurs besoins réels. Nous recueillons des [citations] (https://digital.canada.ca/files/lexicon-research.xlsx) chaque fois que nous sortons rencontrer des gens qui pourraient utiliser ce service. C’est ainsi que nous obtenons des données qui nous permettent de prendre des décisions éclairées sur les mots que nous employons.
@@ -48,6 +53,7 @@ Nous savions que le contenu de notre premier concept serait loin d’être parfa
 ![Légende: La première image est une capture d’écran d’une page dont le titre est : « Soupçonnez-vous une arnaque, un cybercrime ou une fraude? » La deuxième image est une nouvelle version de la page, qui se lit maintenant comme suit : « Signalez une fraude ».](/img/cds/french-concept-test.png)
 
 Voici ce que nous avons appris :
+
 * **Un langage simple n’est pas toujours un langage direct.** Nous avons essayé d’utiliser un ton décontracté et de conversation dans la première itération, et nous avons compris que poser une question plutôt que donner des directives mélangeait les gens. Par conséquent, nous avons utilisé des directives dans l’itération 2. 
 * **Les gens comprennent plus facilement ce qu’est une « fraude » que ce qu’est un « cybercrime ».** Commencer par une question générale qui comprenait les mots « cybercrime », « fraude » et « arnaque » créait une ambiguïté, mais cette approche nous a permis de comprendre quel mot interpellait le plus les gens.
 * **Les mots « partager » et « signaler » suscitent des attentes différentes chez les gens ».** Nous avons entendu des choses comme : *« Si je le partage, est-ce que ça signifie que je vais le répandre? »* et *« Je ne pense pas que je le partagerais avec qui que ce soit. J’aurais peur que quelque chose de mauvais y soit rattaché. »* Les gens voulaient plutôt signaler et, en retour, ils s’attendaient à une enquête ou à un suivi dans un avenir rapproché.
