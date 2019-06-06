@@ -29,15 +29,15 @@ Après avoir parlé avec des gens qui ont été touchés par la cybercriminalit�
 
 Au cours des séances de recherche, nous avons entendu des choses comme:
 
-**“I was *scammed*” (« On m’a *arnaqué*. »)**
+**“I was *scammed*.” (« On m’a *arnaqué*. »)**
 
-**“We *lost* money” (« Nous avons *perdu* de l’argent. »)**
+**“We *lost* money.” (« Nous avons *perdu* de l’argent. »)**
 
 **“The computer was *hacked*.” (« L’ordinateur a été *piraté*. »)**
 
 **“I received *suspicious emails*.” (« J’ai reçu des *courriels suspects*. »)**
 
-**“I was very *scared* and didn’t know what to do” (« J’avais très *peur* et ne savais pas quoi faire. »)**
+**“I was very *scared* and didn’t know what to do.” (« J’avais très *peur* et ne savais pas quoi faire. »)**
 
 **« J’ai *perdu* des renseignements personnels. Ma réaction? J’étais en *colère*. »**
 

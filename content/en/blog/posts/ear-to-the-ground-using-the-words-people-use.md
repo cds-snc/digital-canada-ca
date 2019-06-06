@@ -36,7 +36,7 @@ During research sessions, we heard things like:
 
 **“I received *suspicious emails*.”**
 
-**“I was very *scared* and didn't know what to do”**
+**“I was very *scared* and didn't know what to do.”**
 
 **“J’ai *perdu* des renseignements personnels. Ma réaction: j’étais en *colère*.”**
 
