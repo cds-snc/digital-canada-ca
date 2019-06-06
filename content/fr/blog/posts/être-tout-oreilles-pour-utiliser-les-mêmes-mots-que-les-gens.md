@@ -27,7 +27,7 @@ En collaboration avec la Gendarmerie royale du Canada (GRC), nous étudions ce q
 
 Après avoir parlé avec des gens qui ont été touchés par la cybercriminalité, nous avons appris que la plupart d’entre eux ne s’identifient pas comme des victimes de « cybercriminalité ». De plus, les gens ne mentionnent pas immédiatement le type de cybercrime qu’ils ont vécu. Ils parlent plutôt des répercussions de leur expérience, et ils décrivent celle-ci en termes de somme d’argent perdue, d’émotions ressenties ou de technologies affectées. 
 
-Au cours des séances de recherche, nous avons entendu des choses comme:
+Au cours des séances de recherche, nous avons entendu des choses comme: 
 
 **“I was *scammed*.” (« On m’a *arnaqué*. »)**
 
