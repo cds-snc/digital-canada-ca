@@ -43,7 +43,7 @@ Having an idea of how people describe cybercrime is a good start, but it’s not
 
 We knew the content in our first concept would be far from perfect. By releasing something early, with a goal of continuous iteration, we learned a whole lot about what people expect. Here’s a glimpse of how the first concept changed after people tried it out:
 
-[*Caption: The first image is a screenshot of a page that reads: “Do you suspect a scam, cybercrime, or fraud?” The second image is a new version of the page, which now reads, “Report a scam”.*](/img/cds/english-concept-test.png)
+![Caption: The first image is a screenshot of a page that reads: “Do you suspect a scam, cybercrime, or fraud?” The second image is a new version of the page, which now reads, “Report a scam”.](/img/cds/english-concept-test.png)
 
 We learned that:
 * **Simple language is not always straightforward language.** We experimented with a casual, conversational tone in the first iteration and learned that asking a question, rather than giving direction, was confusing. As a result, we switched to instructions in Iteration 2. 
