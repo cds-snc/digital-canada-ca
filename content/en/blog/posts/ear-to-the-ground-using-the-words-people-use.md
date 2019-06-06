@@ -35,7 +35,7 @@ During research sessions, we heard things like:
 **“I was very *scared* and didn't know what to do”**
 **“J’ai *perdu* des renseignements personnels. Ma réaction: j’étais en *colère*”**
 
-By talking with victims, we’re hoping to shape the content of the service so that it speaks to their actual needs. We’re collecting [quotes](https://docs.google.com/spreadsheets/d/1jdV7fZ2HiRpU8PICwezl_2leJrsTJax6YxJIIbLkqGE/edit?usp=sharing) every time we go out and meet people who might use this service. This gives us data to make informed decisions about the words we use.
+By talking with victims, we’re hoping to shape the content of the service so that it speaks to their actual needs. We’re collecting [quotes](https://digital.canada.ca/files/lexicon-research.xlsx) every time we go out and meet people who might use this service. This gives us data to make informed decisions about the words we use.
 
 ## Putting words to the test
 
@@ -43,18 +43,13 @@ Having an idea of how people describe cybercrime is a good start, but it’s not
 
 We knew the content in our first concept would be far from perfect. By releasing something early, with a goal of continuous iteration, we learned a whole lot about what people expect. Here’s a glimpse of how the first concept changed after people tried it out:
 
-Concept 1 - Iteration 1
-Before testing
-Concept 1 - Iteration 2
-After testing
-
-[Alt text: The first image is a screenshot of a page that reads: “Do you suspect a scam, cybercrime, or fraud?” The second image is a new version of the page, which now reads, “Report a scam”.]
+[*Caption: The first image is a screenshot of a page that reads: “Do you suspect a scam, cybercrime, or fraud?” The second image is a new version of the page, which now reads, “Report a scam”.*](/img/cds/english-concept-test.png)
 
 We learned that:
-* *Simple language is not always straightforward language.* We experimented with a casual, conversational tone in the first iteration and learned that asking a question, rather than giving direction, was confusing. As a result, we switched to instructions in Iteration 2. 
-* *People recognize a “scam” more easily than a “cybercrime”.* Starting with a broad question that included “cybercrime”, “fraud”, and “scams” was ambiguous, but it gave us insight into which word resonates most with people.
-* *People have different expectations of “sharing” and “reporting”.* We heard things like **“By sharing it, would I be spreading it?”** and **“I don’t think I would share this with anybody. I would be scared that something would be attached to it.”** Instead, people wanted to report, and, in return, expected an investigation or a follow-up in the near future.
-* *The purpose has to be clearly stated.* People weren’t sure whether the prototype was meant to test their knowledge or if it might be a scam itself. We made adjustments: paring down content, being specific about which government or law enforcement entity was asking for information, and having a stronger call to action.
+* **Simple language is not always straightforward language.** We experimented with a casual, conversational tone in the first iteration and learned that asking a question, rather than giving direction, was confusing. As a result, we switched to instructions in Iteration 2. 
+* **People recognize a “scam” more easily than a “cybercrime”.** Starting with a broad question that included “cybercrime”, “fraud”, and “scams” was ambiguous, but it gave us insight into which word resonates most with people.
+* **People have different expectations of “sharing” and “reporting”.** We heard things like *“By sharing it, would I be spreading it?”* and *“I don’t think I would share this with anybody. I would be scared that something would be attached to it.”* Instead, people wanted to report, and, in return, expected an investigation or a follow-up in the near future.
+* **The purpose has to be clearly stated.** People weren’t sure whether the prototype was meant to test their knowledge or if it might be a scam itself. We made adjustments: paring down content, being specific about which government or law enforcement entity was asking for information, and having a stronger call to action.
 
 While we’ve learned a lot from the victims we’ve spoken with so far, we have more work to do. [Follow along](https://github.com/cds-snc/report-a-cybercrime) as we continue to explore how to help people impacted by cybercrime feel supported and willing to report their experience.
 
