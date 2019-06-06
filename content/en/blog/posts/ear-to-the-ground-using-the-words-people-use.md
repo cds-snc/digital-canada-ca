@@ -14,8 +14,7 @@ image-alt: >-
   beside her. The other has a tablet in front of him, with a glass of water to
   his right. 
 translationKey: using-words-people-use
-thumb: ''
-processed: ''
+thumb: /img/cds/bag-and-hands.jpg
 ---
 The way government talks can be quite different than how people outside of government talk. As a public servant, I know I’ve been guilty of using specialized language that loses meaning when it leaves the context of my team or department. I’ve also been on the other side, lost while trying to navigate a government website, or frustrated while trying to search different combinations of words, to find the right form. 
 
@@ -28,11 +27,17 @@ Working with the Royal Canadian Mounted Police (RCMP), we’ve been exploring wh
 After talking with people who have been affected by cybercrime, we learned that most don’t identify themselves as victims of “cybercrime”. People also don’t immediately mention the type of cybercrime they’ve experienced. Rather, they talk about the impact of the experience. They describe it from their own perspective: how much money they lost, the emotions they felt, or which technologies were harmed. 
 
 During research sessions, we heard things like: 
+
 **“I was *scammed*”**
+
 **“We *lost* money”**
+
 **“The computer was *hacked*.”**
+
 **“I received *suspicious emails*.”**
+
 **“I was very *scared* and didn't know what to do”**
+
 **“J’ai *perdu* des renseignements personnels. Ma réaction: j’étais en *colère*”**
 
 By talking with victims, we’re hoping to shape the content of the service so that it speaks to their actual needs. We’re collecting [quotes](https://digital.canada.ca/files/lexicon-research.xlsx) every time we go out and meet people who might use this service. This gives us data to make informed decisions about the words we use.
@@ -47,6 +52,7 @@ We knew the content in our first concept would be far from perfect. By releasing
 
 We learned that:
 * **Simple language is not always straightforward language.** We experimented with a casual, conversational tone in the first iteration and learned that asking a question, rather than giving direction, was confusing. As a result, we switched to instructions in Iteration 2. 
+
 * **People recognize a “scam” more easily than a “cybercrime”.** Starting with a broad question that included “cybercrime”, “fraud”, and “scams” was ambiguous, but it gave us insight into which word resonates most with people.
 * **People have different expectations of “sharing” and “reporting”.** We heard things like *“By sharing it, would I be spreading it?”* and *“I don’t think I would share this with anybody. I would be scared that something would be attached to it.”* Instead, people wanted to report, and, in return, expected an investigation or a follow-up in the near future.
 * **The purpose has to be clearly stated.** People weren’t sure whether the prototype was meant to test their knowledge or if it might be a scam itself. We made adjustments: paring down content, being specific about which government or law enforcement entity was asking for information, and having a stronger call to action.
