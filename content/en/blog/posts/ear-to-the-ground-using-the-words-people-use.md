@@ -26,19 +26,19 @@ Working with the Royal Canadian Mounted Police (RCMP), we’ve been exploring wh
 
 After talking with people who have been affected by cybercrime, we learned that most don’t identify themselves as victims of “cybercrime”. People also don’t immediately mention the type of cybercrime they’ve experienced. Rather, they talk about the impact of the experience. They describe it from their own perspective: how much money they lost, the emotions they felt, or which technologies were harmed. 
 
-During research sessions, we heard things like: 
+During research sessions, we heard things like:
 
-**“I was *scammed*”**
+**“I was *scammed*.”**
 
-**“We *lost* money”**
+**“We *lost* money.”**
 
 **“The computer was *hacked*.”**
 
 **“I received *suspicious emails*.”**
 
-**“I was very *scared* and didn't know what to do”**
+**“I was very *scared* and didn't know what to do.”**
 
-**“J’ai *perdu* des renseignements personnels. Ma réaction: j’étais en *colère*”**
+**“J’ai *perdu* des renseignements personnels. Ma réaction: j’étais en *colère*.”**
 
 By talking with victims, we’re hoping to shape the content of the service so that it speaks to their actual needs. We’re collecting [quotes](https://digital.canada.ca/files/lexicon-research.xlsx) every time we go out and meet people who might use this service. This gives us data to make informed decisions about the words we use.
 
@@ -51,6 +51,7 @@ We knew the content in our first concept would be far from perfect. By releasing
 ![Caption: The first image is a screenshot of a page that reads: “Do you suspect a scam, cybercrime, or fraud?” The second image is a new version of the page, which now reads, “Report a scam”.](/img/cds/english-concept-test.png)
 
 We learned that:
+
 * **Simple language is not always straightforward language.** We experimented with a casual, conversational tone in the first iteration and learned that asking a question, rather than giving direction, was confusing. As a result, we switched to instructions in Iteration 2. 
 
 * **People recognize a “scam” more easily than a “cybercrime”.** Starting with a broad question that included “cybercrime”, “fraud”, and “scams” was ambiguous, but it gave us insight into which word resonates most with people.

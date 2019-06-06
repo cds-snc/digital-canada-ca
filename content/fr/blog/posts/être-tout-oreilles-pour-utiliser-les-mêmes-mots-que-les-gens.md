@@ -29,19 +29,19 @@ Après avoir parlé avec des gens qui ont été touchés par la cybercriminalit�
 
 Au cours des séances de recherche, nous avons entendu des choses comme: 
 
-**“I was *scammed*” (« On m’a *arnaqué*. »)**
+**“I was *scammed*.” (« On m’a *arnaqué*. »)**
 
-**“We *lost* money” (« Nous avons *perdu* de l’argent. »)**
+**“We *lost* money.” (« Nous avons *perdu* de l’argent. »)**
 
 **“The computer was *hacked*.” (« L’ordinateur a été *piraté*. »)**
 
 **“I received *suspicious emails*.” (« J’ai reçu des *courriels suspects*. »)**
 
-**“I was very *scared* and didn’t know what to do” (« J’avais très *peur* et ne savais pas quoi faire. »)**
+**“I was very *scared* and didn’t know what to do.” (« J’avais très *peur* et ne savais pas quoi faire. »)**
 
 **« J’ai *perdu* des renseignements personnels. Ma réaction? J’étais en *colère*. »**
 
-Grâce à nos discussions avec les victimes, nous espérons adapter le contenu du service afin qu’il réponde à leurs besoins réels. Nous recueillons des [citations] (https://docs.google.com/spreadsheets/d/1jdV7fZ2HiRpU8PICwezl_2leJrsTJax6YxJIIbLkqGE/edit?usp=sharing) chaque fois que nous sortons rencontrer des gens qui pourraient utiliser ce service. C’est ainsi que nous obtenons des données qui nous permettent de prendre des décisions éclairées sur les mots que nous employons.
+Grâce à nos discussions avec les victimes, nous espérons adapter le contenu du service afin qu’il réponde à leurs besoins réels. Nous recueillons des [citations] (https://digital.canada.ca/files/lexicon-research.xlsx) chaque fois que nous sortons rencontrer des gens qui pourraient utiliser ce service. C’est ainsi que nous obtenons des données qui nous permettent de prendre des décisions éclairées sur les mots que nous employons.
 
 ## Mettre les mots à l’essai
 
