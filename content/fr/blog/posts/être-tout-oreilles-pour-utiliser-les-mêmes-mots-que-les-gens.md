@@ -15,7 +15,8 @@ image-alt: >-
   des notes dans un petit carnet, avec une tasse de café et un téléphone à côté
   d’elle. L’autre a une tablette devant elle et un verre d’eau à sa droite.
 translationKey: using-words-people-use
-thumb: /img/cds/bag-and-hands.jpg
+thumb: /img/cds/thumbnails/bag-and-hands.jpg
+processed: 1560182437334
 ---
 La façon dont le gouvernement s’exprime peut être très différente de la façon dont les gens s’expriment à l’extérieur du gouvernement. En tant que fonctionnaire, je sais qu’il m’est arrivé d’utiliser un langage spécialisé qui perd son sens en dehors de mon équipe ou de mon ministère. Mais j’ai aussi été de l’autre côté, perdue en essayant de naviguer dans un site Web du gouvernement ou frustrée en cherchant différentes combinaisons de mots pour trouver le bon formulaire. 
 
@@ -66,3 +67,4 @@ Même si nous avons beaucoup appris des victimes à qui nous avons parlé jusqu�
 Nous savons que la manière dont les gens décrivent la cybercriminalité et le fait d’en être victime peut varier selon la langue. Il faut reconnaître que nous n’avons pas encore eu autant de conversations en français qu’en anglais. Nous avons donc besoin de votre aide pour mieux servir les Canadiens et leur offrir des expériences cohérentes qui fonctionnent dans les deux langues officielles. 
 
 Parlez-vous français? [Communiquez avec nous] (mailto:anik.brazeau@tbs-sct.gc.ca) pour nous faire part de votre expérience de la cybercriminalité, ou joignez-vous à nous pour une prochaine séance d’essai du prototype.
+

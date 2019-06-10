@@ -14,7 +14,8 @@ image-alt: >-
   beside her. The other has a tablet in front of him, with a glass of water to
   his right. 
 translationKey: using-words-people-use
-thumb: /img/cds/bag-and-hands.jpg
+thumb: /img/cds/thumbnails/bag-and-hands.jpg
+processed: 1560182437080
 ---
 The way government talks can be quite different than how people outside of government talk. As a public servant, I know I’ve been guilty of using specialized language that loses meaning when it leaves the context of my team or department. I’ve also been on the other side, lost while trying to navigate a government website, or frustrated while trying to search different combinations of words, to find the right form. 
 
@@ -65,3 +66,4 @@ While we’ve learned a lot from the victims we’ve spoken with so far, we have
 We know that the way people describe cybercrime and victimhood might vary depending on the language. Admittedly, we haven’t yet had as many conversations in French as we’ve had in English. We need your help to better serve Canadians and give them consistent experiences that work in both official languages. 
 
 Do you speak French? [Get in touch](mailto:anik.brazeau@tbs-sct.gc.ca) to share your cybercrime experience or join us for an upcoming prototype test session.
+
