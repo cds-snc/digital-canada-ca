@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: Analyste des politiques
+title: Analyste des politiques (Etudiant/ Etudiante)
 description: >-
   L’équipe des politiques du Service numérique canadien (SNC) est à la recherche
   d’un analyste des politiques pour soutenir les équipes chargées de la
@@ -9,7 +9,7 @@ description: >-
   l’organisation (poste d’étudiant pour l’automne 2019).
 archived: false
 leverId: policy-analyst-coop
-translationKey: 1d190edf-e5f8-403b-bf31-8d5e9fa72921
+translationKey: c085b289-749f-4a64-8c01-9973c4ba3293
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
 
