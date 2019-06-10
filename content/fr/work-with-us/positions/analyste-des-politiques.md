@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: Analyste des politiques
+title: Analyste des politiques (Etudiant/ Etudiante)
 description: >-
   L’équipe des politiques du Service numérique canadien (SNC) est à la recherche
   d’un analyste des politiques pour soutenir les équipes chargées de la
