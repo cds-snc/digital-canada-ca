@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: Policy Analyst (Student)
+title: Policy Analyst (Co-op)
 description: >-
   The Policy Team at CDS is looking for a Policy Analyst to support digital
   service delivery teams and to contribute to the strategy of the organization
