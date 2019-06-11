@@ -8,8 +8,8 @@ description: >-
   prestation des services numériques et contribuer à la stratégie de
   l’organisation (poste d’étudiant pour l’automne 2019).
 archived: false
-leverId: policy-analyst-coop
-translationKey: c085b289-749f-4a64-8c01-9973c4ba3293
+leverId: c085b289-749f-4a64-8c01-9973c4ba3293
+translationKey: policy-analyst-coop
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
 
