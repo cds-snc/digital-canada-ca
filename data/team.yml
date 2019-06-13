@@ -157,6 +157,15 @@ exec:
     twitter: wmluciani
 team:
   - archived: false
+    email: Adrianne.Lee@tbs-sct.gc.ca
+    image-name: /img/cds/adrianne-lee.jpg
+    linkedin: adriannehlee
+    name: Adrianne Lee
+    title:
+      en: Design Research
+      fr: Recherche en conception
+    twitter: adriannehlee
+  - archived: false
     email: Alexa.Davidson@tbs-sct.gc.ca
     image-name: /img/cds/alexa-davidson.jpg
     name: Alexa Davidson
@@ -175,6 +184,14 @@ team:
       fr: Liaison et diffusion
     twitter: brazeauanik
   - archived: false
+    email: Anne-Marie.Mulumba@tbs-sct.gc.ca
+    image-name: /img/cds/annemarie-mulumba.jpg
+    linkedin: annemariewm
+    name: Anne-Marie Mulumba
+    title:
+      en: Design Research
+      fr: Recherche en conception
+  - archived: false
     email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
     image-name: /img/cds/bethany-dunfield.jpg
@@ -183,6 +200,16 @@ team:
     title:
       en: Development
       fr: Développement
+  - archived: false
+    email: brock.higgins@tbs-sct.gc.ca
+    github: brockhigg10
+    image-name: /img/cds/brock-higgins.jpg
+    linkedin: brickhiggins
+    name: Brock Higgins
+    title:
+      en: Talent
+      fr: Talent
+    twitter: adriannehlee
   - archived: false
     email: Bryan.Willey@tbs-sct.gc.ca
     github: 'https://github.com/willeybryan'
@@ -285,6 +312,16 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: hillarylorimer
+  - archived: false
+    email: jeff.maher@tbs-sct.gc.ca
+    github: jeffmaher
+    image-name: /img/cds/jeff-maher.jpg
+    linkedin: jeffmaher
+    name: Jeff Maher
+    title:
+      en: Development
+      fr: Développement
+    twitter: plusjeff
   - archived: true
     email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.jpg
@@ -320,6 +357,16 @@ team:
       en: Accessibility
       fr: Accessibilité
     twitter: JuliannaRowsell
+  - archived: false
+    email: keith.emmerson@tbs-sct.gc.ca
+    github: keithiopia
+    image-name: /img/cds/keith-emmerson.jpg
+    linkedin: keithemmerson
+    name: Keith Emmerson
+    title:
+      en: Design
+      fr: Conception
+    twitter: keithEmmerson
   - archived: false
     email: Khalid.Elaggan@tbs-sct.gc.ca
     image-name: /img/cds/khalid_elaggan.jpg
@@ -369,6 +416,13 @@ team:
     title:
       en: Outreach
       fr: Liaison et diffusion
+  - archived: false
+    email: martha.edwards@tbs-sct.gc.ca
+    image-name: /img/cds/martha-edwards.jpg
+    name: Martha Edwards
+    title:
+      en: Design Research
+      fr: Recherche en conception
   - archived: false
     github: maxneuvians
     image-name: /img/cds/max-neuvians.jpg
@@ -474,6 +528,16 @@ team:
       en: Policy
       fr: Politiques
     twitter: sboots
+  - archived: false
+    email: stephane.boisvert@tbs-sct.gc.ca
+    github: sboisvert
+    image-name: /img/cds/stephane-boisvert.jpg
+    linkedin: stephaneboisvert
+    name: Stephane Boisvert
+    title:
+      en: Development
+      fr: Développement
+    twitter: stephBoisvert
   - archived: false
     email: Stephanie.Gauthier@tbs-sct.gc.ca
     image-name: /img/cds/stephanie-gauthier.jpg
