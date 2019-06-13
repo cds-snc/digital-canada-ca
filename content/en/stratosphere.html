@@ -16,118 +16,122 @@ aliases: [/stratosphere-fr/]
     
 <section class="section work-with-us--apply-now">
     <div class="container page-wide--outer-container-padding">
-      <h2 class="section--title">Fill out the form below </h2>
+      <h3 class="section--title">Fill out the form below </h3>
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-            <form
-              class="text-left"
-              role="form"
-              id="contactForm"
-            >
-              <!-- Full Name -->
-              <div class="form-group">
-                <label for="name">Full Name</label>
-                <input
-                  type="text"
-                  class="form-control validate-required"
-                  id="name"
-                  name="name"
-                  aria-required="true"
-                  aria-describedby="name-required"
-                />
-                <span
-                  id="name-required"
-                  class="error-message validate-required-message"
-                  style="display: none;"
-                  >This field is required</span
-                >
-              </div>
+          <form
+            class="text-left"
+            role="form"
+            id="contactForm"
+            method="POST"
+            action="https://m43tptjtti.execute-api.us-east-1.amazonaws.com/dev/stratosphere/"
+          >
+            <!-- Full Name -->
+            <div class="form-group">
+              <label for="name">Full Name</label>
+              <input
+                type="text"
+                class="form-control validate-required"
+                id="name"
+                name="name"
+                aria-required="true"
+                aria-describedby="name-required"
+              />
+              <span
+                id="name-required"
+                class="error-message validate-required-message"
+                style="display: none;"
+                >This field is required</span
+              >
+            </div>
 
-              <!-- Email -->
-              <div class="form-group">
-                <label for="email">Email</label>
-                <input
-                  type="email"
-                  name="email"
-                  class="form-control validate-required validate-email"
-                  id="email"
-                  aria-required="true"
-                  aria-describedby="email-required"
-                />
-                <span
-                  id="email-required"
-                  class="error-message validate-required-message"
-                  style="display: none;"
-                  >This field is required</span
-                >
-              </div>
+            <!-- Email -->
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input
+                type="email"
+                name="email"
+                class="form-control validate-required validate-email"
+                id="email"
+                aria-required="true"
+                aria-describedby="email-required"
+              />
+              <span
+                id="email-required"
+                class="error-message validate-required-message"
+                style="display: none;"
+                >This field is required</span
+              >
+            </div>
 
-              <!-- Product -->
-              <div class="form-group">
-                <label for="product">Email</label>
-                <select
-                  name="product"
-                  class="form-control validate-required"
-                  id="product"
-                  aria-required="true"
-                  aria-describedby="product-required"
-                >
-                  <option value="a11y-scanning">Automatic accessibility scanning</option>
-                  <option value="branch-review">Branch review applications</option>
-                  <option value="security-goals">Security goals</option>
-                  <option value="other">Other - describe below</option>
-                </select>
-                <span
-                  id="product-required"
-                  class="error-message validate-required-message"
-                  style="display: none;"
-                  >This field is required</span
-                >
-              </div>
-    
-              <!-- Body -->
-              <div class="form-group">
-                <label for="body"
-                  >Let us know if you have any other thoughts:
-                </label>
-                <textarea
-                  class="form-control validate-required validate-maxwords"
-                  id="body"
-                  name="body"
-                  rows="5"
-                  aria-required="true"
-                  aria-describedby="body-required word-count-message"
-                ></textarea>
-                <span
-                  id="body-required"
-                  class="error-message validate-required-message"
-                  style="display: none;"
-                  >This field is required<br />
-                </span>
-                <span id="word-count-message" class="help-text">
-                  <span id="word-count">300</span> words remaining</span
-                >
-              </div>
-              <!-- Submit-->
-              <button type="submit" class="button" id="submitButton">
-                <span class="spinner" id="buttonSpinner"
-                  ><i
-                    style="display:none;margin-right:10px;"
-                    class="fas fa-spinner fa-spin"
-                  ></i></span
-                >Submit
-              </button>
-              <a href="#privacy-notice-modal" aria-controls="privacy-notice-modal" class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">Privacy Notice</a>
-            </form>
-            
+            <!-- Product -->
+            <div class="form-group">
+              <label for="product">Email</label>
+              <select
+                name="product"
+                class="form-control validate-required"
+                id="product"
+                aria-required="true"
+                aria-describedby="product-required"
+              >
+                <option value="a11y-scanning">Automatic accessibility scanning</option>
+                <option value="branch-review">Branch review applications</option>
+                <option value="security-goals">Security goals</option>
+                <option value="other">Other - describe below</option>
+              </select>
+              <span
+                id="product-required"
+                class="error-message validate-required-message"
+                style="display: none;"
+                >This field is required</span
+              >
+            </div>
+  
+            <!-- Body -->
+            <div class="form-group">
+              <label for="body"
+                >Let us know if you have any other thoughts:
+              </label>
+              <textarea
+                class="form-control validate-required validate-maxwords"
+                id="body"
+                name="body"
+                rows="5"
+                aria-required="true"
+                aria-describedby="body-required word-count-message"
+              ></textarea>
+              <span
+                id="body-required"
+                class="error-message validate-required-message"
+                style="display: none;"
+                >This field is required<br />
+              </span>
+              <span id="word-count-message" class="help-text">
+                <span id="word-count">300</span> words remaining</span
+              >
+            </div>
+            <!-- Submit-->
+            <button type="submit" class="button" id="submitButton">
+              <span class="spinner" id="buttonSpinner"
+                ><i
+                  style="display:none;margin-right:10px;"
+                  class="fas fa-spinner fa-spin"
+                ></i></span
+              >Submit
+            </button>
+            <a href="#privacy-notice-modal" aria-controls="privacy-notice-modal" class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">Privacy Notice</a>
+          </form>
+      </div>
+    </div>	
+</section>
+
+<section class="section page--outer-container-padding">
+    <div class="row">
+        <div class="col-sm-10 col-sm-offset-1 col-xs-12">
             <h2>Your privacy</h2>
             <p>You're volunteering to take part in this research, so you can choose to stop participating at any time for any reason.</p>
-
-                <p>We (the Canadian Digital Service) will make sure your responses are confidential, which means they will not be linked back to anyone.</p>
-   
-                <p>Your participation and answers will not impact your relationship with the Canadian Digital Service or any part of the Government of Canada.</p>
-
-                <p>We handle all personal information in accordance with the Privacy Act, and we'll give you a copy of our Privacy Statement.</p>
-            
+            <p>We (the Canadian Digital Service) will make sure your responses are confidential, which means they will not be linked back to anyone.</p>
+            <p>Your participation and answers will not impact your relationship with the Canadian Digital Service or any part of the Government of Canada.</p>
+            <p>We handle all personal information in accordance with the Privacy Act, and we'll give you a copy of our Privacy Statement.</p>      
             <p>
               For any further questions about this research, please contact:<br>
               <strong>Adrianne Lee</strong><br>
