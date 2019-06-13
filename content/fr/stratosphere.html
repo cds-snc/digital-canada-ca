@@ -1,0 +1,157 @@
+---
+type: section
+layout: page
+title: Stratosphere
+aliases: [/stratosphere/]
+url: /stratosphere-fr/
+---
+<section class="section page--outer-container-padding">
+    <div class="row">
+        <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+            <h2 class="section--title">See somthing you liked? Let's talk!</h2>
+
+            <p>We're conducting research to try to improve the products we talked about at Stratosphere and would like to help people use our tools.</p>
+        </div>
+    </div>
+</section>
+    
+<section class="section work-with-us--apply-now">
+    <div class="container page-wide--outer-container-padding">
+      <h3 class="section--title">Fill out the form below </h3>
+      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+          <form
+            class="text-left"
+            role="form"
+            id="stratoForm"
+            method="POST"
+            action="https://m43tptjtti.execute-api.us-east-1.amazonaws.com/dev/stratosphere/"
+          >
+            <!-- Full Name -->
+            <div class="form-group">
+              <label for="name">Full Name</label>
+              <input
+                type="text"
+                class="form-control validate-required"
+                id="name"
+                name="name"
+                aria-required="true"
+                aria-describedby="name-required"
+              />
+              <span
+                id="name-required"
+                class="error-message validate-required-message"
+                style="display: none;"
+                >This field is required</span
+              >
+            </div>
+
+            <!-- Email -->
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input
+                type="email"
+                name="email"
+                class="form-control validate-required validate-email"
+                id="email"
+                aria-required="true"
+                aria-describedby="email-required"
+              />
+              <span
+                id="email-required"
+                class="error-message validate-required-message"
+                style="display: none;"
+                >This field is required</span
+              >
+            </div>
+
+            <!-- Product -->
+            <div class="form-group">
+              <label for="product">Product</label>
+              <select
+                name="product"
+                class="form-control validate-required"
+                id="product"
+                aria-required="true"
+                aria-describedby="product-required"
+              >
+                <option value="a11y-scanning">Automatic accessibility scanning</option>
+                <option value="branch-review">Branch review applications</option>
+                <option value="security-goals">Security goals</option>
+                <option value="other">Other - describe below</option>
+              </select>
+              <span
+                id="product-required"
+                class="error-message validate-required-message"
+                style="display: none;"
+                >This field is required</span
+              >
+            </div>
+  
+            <!-- Body -->
+            <div class="form-group">
+              <label for="body"
+                >Let us know if you have any other thoughts:
+              </label>
+              <textarea
+                class="form-control validate-required validate-maxwords"
+                id="body"
+                name="body"
+                rows="5"
+                aria-required="true"
+                aria-describedby="body-required word-count-message"
+              ></textarea>
+              <span
+                id="body-required"
+                class="error-message validate-required-message"
+                style="display: none;"
+                >This field is required<br />
+              </span>
+              <span id="word-count-message" class="help-text">
+                <span id="word-count">300</span> words remaining</span
+              >
+            </div>
+            <input type="hidden" name="success_url" id="success_url" value="https://numerique.canada.ca/reussi-stratosphere/" />
+            <input type="hidden" name="error_url" id="error_url" value="https://numerique.canada.ca/erreur-stratosphere/" />
+            <!-- Submit-->
+            <button type="submit" class="button" id="submitButton">
+              <span class="spinner" id="buttonSpinner"
+                ><i
+                  style="display:none;margin-right:10px;"
+                  class="fas fa-spinner fa-spin"
+                ></i></span
+              >Submit
+            </button>
+            <a href="#privacy-notice-modal" aria-controls="privacy-notice-modal" class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">Privacy Notice</a>
+          </form>
+      </div>
+    </div>	
+</section>
+
+<section class="section page--outer-container-padding">
+    <div class="row">
+        <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+            <h2>Your privacy</h2>
+            <p>You're volunteering to take part in this research, so you can choose to stop participating at any time for any reason.</p>
+            <p>We (the Canadian Digital Service) will make sure your responses are confidential, which means they will not be linked back to anyone.</p>
+            <p>Your participation and answers will not impact your relationship with the Canadian Digital Service or any part of the Government of Canada.</p>
+            <p>We handle all personal information in accordance with the Privacy Act, and we'll give you a copy of our Privacy Statement.</p>      
+            <p>
+              For any further questions about this research, please contact:<br>
+              <strong>Adrianne Lee</strong><br>
+              <strong>613-222-7880</strong><br>
+              <a href="mailto:adrianne.lee@tbs-sct.gc.ca"><strong>adrianne.lee@tbs-sct.gc.ca</strong></a>
+            </p>
+      </div>
+    </div>	
+</section>
+
+<section class="mfp-hide modal-dialog modal-content overlay-def" id="privacy-notice-modal">
+    <header class="modal-header">
+        <h2 class="modal-title">Privacy Notice</h2>
+    </header>
+    <div class="modal-body">
+        <p>Le Service num&eacute;rique canadien (SNC) s&rsquo;est engag&eacute; &agrave; prot&eacute;ger les droits relatifs &agrave; la vie priv&eacute;e des particuliers, y compris &agrave; prot&eacute;ger les renseignements personnels fournis au SNC de mani&egrave;re volontaire au moyen de ce formulaire en ligne et par courriel, ainsi que d&rsquo;autres formes de correspondance. Le SNC fait partie du Secr&eacute;tariat du Conseil du Tr&eacute;sor du Canada (SCT) et de plus amples renseignements au sujet de nos pratiques en mati&egrave;re de protection de la vie priv&eacute;e sont disponibles dans notre <a href="https://www.google.com/url?q=https://numerique.canada.ca/transparence/confidentialite/&amp;sa=D&amp;ust=1560443445467000">&eacute;nonc&eacute; de confidentialit&eacute;</a>.</p>
+        <p>La collecte et l&rsquo;utilisation de vos renseignements personnels sont autoris&eacute;es par la Loi sur la gestion des finances publiques. La collecte et l&rsquo;utilisation de vos renseignements personnels aux fins du pr&eacute;sent site sont conformes &agrave; la Loi f&eacute;d&eacute;rale sur la protection des renseignements personnels. Vos renseignements personnels peuvent servir &agrave; r&eacute;pondre &agrave; vos demandes de renseignements, au besoin, et &agrave; &eacute;valuer l&rsquo;efficacit&eacute; avec laquelle les programmes du Secr&eacute;tariat du Conseil du Tr&eacute;sor (SCT) r&eacute;pondent aux besoins des clients. Dans des cas exceptionnels (p. ex., le cas de quelqu&rsquo;un qui fait des remarques inappropri&eacute;es ou des menaces), les renseignements personnels peuvent &ecirc;tre divulgu&eacute;s sans votre consentement conform&eacute;ment au paragraphe 8(2) de la Loi sur la protection des renseignements personnels.</p>
+        <p>Tout renseignement personnel qui pourra &ecirc;tre recueilli est d&eacute;crit dans le Fichier de renseignement personnel ordinaire intitul&eacute; <a href="https://www.google.com/url?q=http://www.infosource.gc.ca/emp/emp03-fra.asp%23psu938&amp;sa=D&amp;ust=1560443445468000">Activit&eacute;s de sensibilisation, POU 938</a>&nbsp;qui figure sur la page Web du SCT intitul&eacute;e <a href="https://www.google.com/url?q=https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements/fichiers-renseignements-personnels-ordinaires.html&amp;sa=D&amp;ust=1560443445468000">Renseignements sur les programmes et les fonds de renseignements</a>.</p>
+        <p>Pour transmettre vos questions, commentaires ou pr&eacute;occupations concernant le pr&eacute;sent avis, vos droits en mati&egrave;re de protection des renseignements personnels ou la Loi sur la protection des renseignements personnels, communiquez avec le coordonnateur de l&rsquo;acc&egrave;s &agrave; l&rsquo;information et de la protection des renseignements personnels du SCT, &agrave; <a href="mailto:atip.aiprp@tbs-sct.gc.ca">atip.aiprp@tbs-sct.gc.ca</a>, ou en composant le 1-866-312-1511. Vous pouvez aussi communiquer avec le Commissariat &agrave; la protection de la vie priv&eacute;e du Canada par courriel, &agrave; <a href="mailto:info@priv.gc.ca">info@priv.gc.ca</a>, ou par t&eacute;l&eacute;phone, au 1-800-282-1376. Vous avez &eacute;galement la possibilit&eacute; de d&eacute;poser une plainte aupr&egrave;s du Commissariat &agrave; la protection de la vie priv&eacute;e du Canada quant &agrave; la fa&ccedil;on dont le SCT traite vos renseignements personnels.</p>    </div>
+</section>
