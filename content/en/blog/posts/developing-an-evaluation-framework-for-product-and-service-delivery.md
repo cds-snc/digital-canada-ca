@@ -8,7 +8,7 @@ description: >-
   on feedback, and then release these assets for use and further improvement by
   others beyond CDS.
 author: 'Ross Ferguson, Head of Delivery'
-date: 2019-06-13T18:00:00.000Z
+date: 2019-06-13T17:20:00.000Z
 image: /img/cds/four-frames.jpg
 image-alt: Four black empty picture frames hanging side by side on a white wall.
 translationKey: evaluation-framework
