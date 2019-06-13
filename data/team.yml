@@ -156,6 +156,16 @@ exec:
       fr: Chef de mobilisation
     twitter: wmluciani
 team:
+  - archived: true
+    email: Adrianne.Lee@tbs-sct.gc.ca
+    image-name: /img/cds/adrianne-lee.jpg
+    linkedin: adriannehlee
+    name: Adrianne Lee
+    processed: 1552050695390
+    title:
+      en: Design Research
+      fr: Recherche en conception
+    twitter: adriannehlee
   - archived: false
     email: Alexa.Davidson@tbs-sct.gc.ca
     image-name: /img/cds/alexa-davidson.jpg
