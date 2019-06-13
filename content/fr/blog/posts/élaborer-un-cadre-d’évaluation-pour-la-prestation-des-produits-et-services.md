@@ -13,8 +13,7 @@ date: 2019-06-13T17:20:00.000Z
 image: /img/cds/four-frames.jpg
 image-alt: Quatre cadres noirs et sans photo sont accrochés côte à côte sur un mur blanc.
 translationKey: evaluation-framework
-thumb: ''
-processed: ''
+thumb: /img/cds/four-frames.jpg
 ---
 # Élaborer un cadre d’évaluation pour la prestation des produits et services
  
