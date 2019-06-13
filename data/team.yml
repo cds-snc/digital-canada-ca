@@ -32,7 +32,7 @@ exec:
     twitter: anatolep
   - archived: false
     email: Andrea.Gilbrook@tbs-sct.gc.ca
-    image-name: /img/cds/andrea_gillbrook.jpg
+    image-name: /img/cds/andrea_gilbrook.jpg
     linkedin: andreagilbrook
     name: Andrea Gilbrook
     processed: 1552050695385
@@ -116,14 +116,6 @@ exec:
       en: Head of Procurement
       fr: Chef de l’approvisionnement
     twitter: leannelabelle
-  - archived: false
-    email: Lyn.Elliott@tbs-sct.gc.ca
-    image-name: /img/cds/lyn-elliott.jpg
-    name: Lyn Elliott
-    processed: 1552050695386
-    title:
-      en: Acting Head of Outreach
-      fr: Chef par intérim de liaison et diffusion
   - archived: false
     email: Mario.Garneau@tbs-sct.gc.ca
     github: mcman12
@@ -284,16 +276,6 @@ team:
       en: Outreach
       fr: Liaison et diffusion
   - archived: false
-    email: Eva.Demers-Brett@tbs-sct.gc.ca
-    github: evadb
-    image-name: /img/cds/eva-demers-brett.jpg
-    name: Eva Demers-Brett
-    processed: 1552050695391
-    title:
-      en: Development
-      fr: Développement
-    twitter: evadbee
-  - archived: false
     email: Hillary.Lorimer@tbs-sct.gc.ca
     image-name: /img/cds/hillary-lorimer.jpg
     linkedin: hillary-b-lorimer
@@ -370,6 +352,14 @@ team:
       en: Policy
       fr: Politiques
     twitter: lchski
+  - archived: false
+    email: Lyn.Elliott@tbs-sct.gc.ca
+    image-name: /img/cds/lyn-elliott.jpg
+    name: Lyn Elliott
+    processed: 1552050695386
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
   - archived: false
     email: Lynn.Chalati@tbs-sct.gc.ca
     image-name: /img/cds/lynn-chalati.jpg
