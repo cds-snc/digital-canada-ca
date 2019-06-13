@@ -9,7 +9,7 @@ description: >-
   reçus, puis partager ces solutions pour qu’elles puissent être utilisées et
   améliorées par d’autres personnes en dehors du SNC.
 author: 'Ross Ferguson, chef de la prestation des services'
-date: 2019-06-13T18:00:00.000Z
+date: 2019-06-13T17:20:00.000Z
 image: /img/cds/four-frames.jpg
 image-alt: Quatre cadres noirs et sans photo sont accrochés côte à côte sur un mur blanc.
 translationKey: evaluation-framework
