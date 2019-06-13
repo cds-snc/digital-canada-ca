@@ -15,9 +15,7 @@ image-alt: Quatre cadres noirs et sans photo sont accrochés côte à côte sur 
 translationKey: evaluation-framework
 thumb: /img/cds/four-frames.jpg
 ---
-# Élaborer un cadre d’évaluation pour la prestation des produits et services
- 
-Si vous êtes une personne qui suivez les activités du SNC ou qui travaillez avec ce dernier, vous êtes probablement intéressée par la façon dont nous évaluons le succès de nos produits et partenariats.
+ Si vous êtes une personne qui suivez les activités du SNC ou qui travaillez avec ce dernier, vous êtes probablement intéressée par la façon dont nous évaluons le succès de nos produits et partenariats.
  
 ## Évaluer notre évaluation
  
