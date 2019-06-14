@@ -12,7 +12,8 @@ date: 2019-06-13T17:20:00.000Z
 image: /img/cds/four-frames.jpg
 image-alt: Four black empty picture frames hanging side by side on a white wall.
 translationKey: evaluation-framework
-thumb: /img/cds/four-frames.jpg
+thumb: /img/cds/thumbnails/four-frames.jpg
+processed: 1560520020513
 ---
 If you're someone who follows or works with CDS you are probably interested in how we evaluate the success of our products and partnerships. 
 
@@ -63,3 +64,4 @@ We’re rolling this evaluation framework out across our product and service del
 Another feature will be the increasing regularity with which we share the evaluation plans and results publicly. For an example of how this all looks in practice, you can [read about the approach taken by the team making it easier for Veterans to find benefits](https://digital.canada.ca/2019/04/24/how-we-measured-our-delivery-with-vac-and-why-its-useful/). 
 
 Working in the open is important to CDS, our partners and for the Government of Canada’s work to change the way it delivers services to serve people better.
+
