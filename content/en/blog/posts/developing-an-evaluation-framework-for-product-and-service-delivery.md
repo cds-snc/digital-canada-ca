@@ -14,6 +14,7 @@ image-alt: Four black empty picture frames hanging side by side on a white wall.
 translationKey: evaluation-framework
 thumb: /img/cds/thumbnails/four-frames.jpg
 processed: 1560520010223
+
 ---
 If you're someone who follows or works with CDS you are probably interested in how we evaluate the success of our products and partnerships. 
 

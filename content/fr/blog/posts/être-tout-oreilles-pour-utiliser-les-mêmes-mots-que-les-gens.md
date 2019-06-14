@@ -17,6 +17,7 @@ image-alt: >-
 translationKey: using-words-people-use
 thumb: /img/cds/thumbnails/bag-and-hands.jpg
 processed: 1560358863965
+
 ---
 La façon dont le gouvernement s’exprime peut être très différente de la façon dont les gens s’expriment à l’extérieur du gouvernement. En tant que fonctionnaire, je sais qu’il m’est arrivé d’utiliser un langage spécialisé qui perd son sens en dehors de mon équipe ou de mon ministère. Mais j’ai aussi été de l’autre côté, perdue en essayant de naviguer dans un site Web du gouvernement ou frustrée en cherchant différentes combinaisons de mots pour trouver le bon formulaire. 
 

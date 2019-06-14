@@ -229,11 +229,11 @@
     @include tablet {
       font-size   : 2.5em;
       line-height : 1.25em;
-      margin-top  : 0.5rem;
+      // margin-top  : 0.5rem;
     }
 
     @include desktop { font-size  : 3em;     }
-    @include tv      { margin-top : 0.25rem; }
+    // @include tv      { margin-top : 0.25rem; }
   }
 }
 
