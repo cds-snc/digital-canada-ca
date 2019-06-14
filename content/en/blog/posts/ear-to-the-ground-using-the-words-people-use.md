@@ -15,7 +15,8 @@ image-alt: >-
   his right. 
 translationKey: using-words-people-use
 thumb: /img/cds/thumbnails/bag-and-hands.jpg
-processed: 1560182437080
+processed: 1560358863721
+
 ---
 The way government talks can be quite different than how people outside of government talk. As a public servant, I know I’ve been guilty of using specialized language that loses meaning when it leaves the context of my team or department. I’ve also been on the other side, lost while trying to navigate a government website, or frustrated while trying to search different combinations of words, to find the right form. 
 
