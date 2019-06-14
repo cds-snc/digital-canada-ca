@@ -13,7 +13,8 @@ date: 2019-06-13T17:20:00.000Z
 image: /img/cds/four-frames.jpg
 image-alt: Quatre cadres noirs et sans photo sont accrochés côte à côte sur un mur blanc.
 translationKey: evaluation-framework
-thumb: /img/cds/four-frames.jpg
+thumb: /img/cds/thumbnails/four-frames.jpg
+processed: 1560520010502
 ---
  Si vous êtes une personne qui suivez les activités du SNC ou qui travaillez avec ce dernier, vous êtes probablement intéressée par la façon dont nous évaluons le succès de nos produits et partenariats.
  
@@ -65,3 +66,4 @@ Nous appliquons ce cadre d’évaluation à l’ensemble de nos produits et serv
 Par ailleurs, nous partagerons publiquement les plans et les résultats de l’évaluation de plus en plus régulièrement. Pour un exemple de ce à quoi tout cela ressemble dans la pratique, vous pouvez [lire au sujet de l’approche adoptée par l’équipe pour faciliter la recherche d’avantages pour les anciens combattants] (https://numerique.canada.ca/2019/04/24/comment-nous-avons-mesur%C3%A9-notre-prestation-avec-acc-et-pourquoi-cest-utile/).
  
 Travailler ouvertement est important pour le SNC et ses partenaires, afin que le gouvernement du Canada puisse changer la façon dont il offre ses services pour mieux servir la population.
+

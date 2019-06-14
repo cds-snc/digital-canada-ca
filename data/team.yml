@@ -165,6 +165,7 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: adriannehlee
+    processed: 1560520011174
   - archived: false
     email: Alexa.Davidson@tbs-sct.gc.ca
     image-name: /img/cds/alexa-davidson.jpg
@@ -191,6 +192,7 @@ team:
     title:
       en: Design Research
       fr: Recherche en conception
+    processed: 1560520011181
   - archived: false
     email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
@@ -210,6 +212,7 @@ team:
       en: Talent
       fr: Talent
     twitter: adriannehlee
+    processed: 1560520011183
   - archived: false
     email: Bryan.Willey@tbs-sct.gc.ca
     github: 'https://github.com/willeybryan'
@@ -322,6 +325,7 @@ team:
       en: Development
       fr: Développement
     twitter: plusjeff
+    processed: 1560520011183
   - archived: true
     email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.jpg
@@ -367,6 +371,7 @@ team:
       en: Design
       fr: Conception
     twitter: keithEmmerson
+    processed: 1560520011183
   - archived: false
     email: Khalid.Elaggan@tbs-sct.gc.ca
     image-name: /img/cds/khalid_elaggan.jpg
@@ -423,6 +428,7 @@ team:
     title:
       en: Design Research
       fr: Recherche en conception
+    processed: 1560520011183
   - archived: false
     github: maxneuvians
     image-name: /img/cds/max-neuvians.jpg
@@ -538,6 +544,7 @@ team:
       en: Development
       fr: Développement
     twitter: stephBoisvert
+    processed: 1560520011183
   - archived: false
     email: Stephanie.Gauthier@tbs-sct.gc.ca
     image-name: /img/cds/stephanie-gauthier.jpg
