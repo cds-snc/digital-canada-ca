@@ -14,7 +14,8 @@ image: /img/cds/four-frames.jpg
 image-alt: Quatre cadres noirs et sans photo sont accrochés côte à côte sur un mur blanc.
 translationKey: evaluation-framework
 thumb: /img/cds/thumbnails/four-frames.jpg
-processed: 1560520136940
+processed: 1560520010502
+
 ---
  Si vous êtes une personne qui suivez les activités du SNC ou qui travaillez avec ce dernier, vous êtes probablement intéressée par la façon dont nous évaluons le succès de nos produits et partenariats.
  
