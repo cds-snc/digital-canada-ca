@@ -29,7 +29,7 @@ In June 2017, IRCC launched the [Global Skills Strategy](https://www.canada.ca/e
 
 Among other pathways, the program is eligible to people belonging to [National Occupation Codes](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html) (NOC codes) “0” and “A”: managerial and technical professions and exempt from a [Labour Market Impact Assessment](http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=163&top=17) (LMIA).
 
-<img width="100%" alt="Airplane wingtip over a snowy Canada." src="/img/cds//blog-global-skills-strategy-1.jpg">
+<img width="100%" alt="Airplane wingtip over a snowy Canada." src="/img/cds/blog-global-skills-strategy-1.jpg">
 
 Kylie was our first test of the Global Skills Strategy. Our goal was to bring her on board by January 2018. Here’s how we did it:
 
