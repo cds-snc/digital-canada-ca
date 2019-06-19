@@ -15,8 +15,7 @@ date: 2019-06-19T13:00:00.000Z
 image: /img/cds/mic.jpg
 image-alt: microphone à condensateur sur fond noir
 translationKey: building-a-multidisciplinary-team-at-ESDC-to-serve-people-better
-thumb: ''
-processed: ''
+thumb: /img/cds/mic.jpg
 ---
 À titre de gestionnaire de la Stratégie d’amélioration des services du Régime de pensions du Canada à Emploi et Développement social Canada (EDSC), j’ai contribué à la constitution de l’équipe multidisciplinaire au Service numérique canadien (SNC) qui travaille à l’amélioration du Régime de pensions du Canada (RPC) pour les personnes qui demandent des prestations d’invalidité. 
 
