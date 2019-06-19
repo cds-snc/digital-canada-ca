@@ -15,9 +15,10 @@ Digital security is hard. Even the best engineering and IT teams are prone to ma
 ## Base assumptions
 
 As far as security in your code goes, there are some basic assumptions we can make:
-* *Your security posture decays over time.* Iterations to the process will always be needed as technology updates.
-* *Self-policing is inefficient.* Airports don’t trust passengers to simply self-monitor as they pass through metal detectors.
-* *We need to constantly monitor.* Someone needs to be paying attention at all times, not just at the beginning.
+
+* _Your security posture decays over time._ Iterations to the process will always be needed as technology updates.
+* _Self-policing is inefficient._ Airports don’t trust passengers to simply self-monitor as they pass through metal detectors.
+* _We need to constantly monitor._ Someone needs to be paying attention at all times, not just at the beginning.
 
 ## Change is constant
 
@@ -39,11 +40,12 @@ Given current infrastructure and developer tooling, it should be possible to aut
 
 When it comes to security, we know that quality assurance checks need to be implemented and verified in a manual process. Typically that means manually assembling and printing a document or a series of documents. That would be like airport security printing off all your information and walking it over to the next person who needed to scan your passport. This doesn’t scale, right?
 
-## What we did 
+## What we did
 
 Our mission was simple; build a prototype and research it with possible users. So that’s what we did. Here’s how.
 
 To keep our deploys secure and to avoid manually creating these large documents, our mission was to build a series of checks that run on every deploy of our applications. Also we wanted to make the results of these checks available through an API. By doing this we can:
+
 * Ensure our controls don’t decay over time
 * Rerun our checks automatically and create up to date reports as changes happen
 * Run checks when we release new code or when we restart our containers
@@ -60,9 +62,13 @@ To keep our deploys secure and to avoid manually creating these large documents,
 We created a series of checks that can validate that our infrastructure and code is indeed doing what it says it is doing. When a check finishes it reports back by writing a file to a shared directory with its results.
 
 ### How we did it, step by step
+
 1. When an app is deployed it triggers a list of jobs (checks) to be run.
 2. Jobs are containers written in different programming languages (Go, Rust, JavaScript, Crystal).
 3. Each container writes a JSON file to a shared directory, tagged with the release ID.
+
+![The application uses an ESLint file to do a static code analysis.](/img/cds/compliance-code-en.png)
+
 4. We have a JavaScript app to watch a shared directory and ingest JSON files.
 5. The results get saved into MongoDB grouped by release and control.
 6. This app serves the data through a GraphQL API.
