@@ -17,9 +17,10 @@ La sécurité numérique, c’est difficile. Même les meilleures équipes d’i
 ## Hypothèses de base
 
 En ce qui concerne la sécurité de votre code, nous pouvons émettre certaines hypothèses :
-* *Votre posture de sécurité se détériore avec le temps.* Des itérations du processus seront toujours nécessaires tandis que les technologies se modernisent.
-* *L’autosurveillance est inefficace.* Les aéroports ne laissent pas simplement les passagers « s’autosurveiller » lorsqu’ils passent aux détecteurs de métal.
-* *Nous devons assurer une surveillance constante.* Quelqu’un doit être attentif en tout temps, pas seulement au début.
+
+* _Votre posture de sécurité se détériore avec le temps._ Des itérations du processus seront toujours nécessaires tandis que les technologies se modernisent.
+* _L’autosurveillance est inefficace._ Les aéroports ne laissent pas simplement les passagers « s’autosurveiller » lorsqu’ils passent aux détecteurs de métal.
+* _Nous devons assurer une surveillance constante._ Quelqu’un doit être attentif en tout temps, pas seulement au début.
 
 ## Le changement est constant
 
@@ -41,11 +42,12 @@ Compte tenu de l’infrastructure et des outils de développement actuels, il de
 
 À l’heure actuelle, en matière de sécurité, nous savons que les contrôles d’assurance de la qualité doivent être mis en œuvre et vérifiés dans le cadre d’un processus manuel. En général, cela signifie qu’il faut assembler et imprimer manuellement un document ou une série de documents. C’est comme si le système de sécurité de l’aéroport imprimait tous vos renseignements et les transmettait à la prochaine personne qui devait scanner votre passeport. Ça ne peut pas continuer comme ça, n’est-ce pas?
 
-## Ce que nous avons fait 
+## Ce que nous avons fait
 
 Notre mission était simple : construire un prototype et en faire l’essai lors de recherches menées auprès d’utilisateurs potentiels. C’est précisément ce que nous avons fait. Voici comment.
 
 Pour assurer la sécurité de nos déploiements et éviter de créer manuellement ces documents volumineux, notre but était de développer une série de vérifications qui s’effectuent à chaque déploiement de nos applications. Nous voulions aussi que les résultats de ces vérifications automatiques soient disponibles par l’intermédiaire d’une API. Grâce à ces mesures, nous pouvons :
+
 * nous assurer que nos contrôles ne se détériorent pas avec le temps;
 * réexécuter nos vérifications automatiquement et créer des rapports à jour dès qu’il y a des changements;
 * exécuter des vérifications lorsque nous libérons un nouveau code ou lorsque nous redémarrons nos conteneurs.
@@ -62,9 +64,13 @@ Pour assurer la sécurité de nos déploiements et éviter de créer manuellemen
 Nous avons créé une série de vérifications visant à confirmer que notre infrastructure et notre code fonctionnent comme prévu. Lorsqu’un contrôle se termine, un rapport est produit dans un répertoire partagé sous la forme d’un fichier contenant les résultats.
 
 ### Comment nous avons procédé, étape par étape
+
 1. Lorsque l’application est déployée, elle déclenche une liste de tâches (vérifications) à exécuter.
 2. Les tâches sont des conteneurs rédigés dans différents langages de programmation (Go, Rust, JavaScript, Crystal).
 3. Chaque conteneur écrit un fichier JSON, étiqueté avec le numéro d’identité, dans un répertoire partagé.
+
+![L’application utilise un fichier ESLint pour faire une analyse statique de programmes.](/img/cds/compliance-code-fr.png)
+
 4. Nous avons une application JavaScript qui surveille un répertoire partagé et ingère les fichiers JSON.
 5. Les résultats sont sauvegardés dans MongoDB et regroupés par version et contrôle.
 6. Cette application fournit les données à l’aide d’une API GraphQL.
