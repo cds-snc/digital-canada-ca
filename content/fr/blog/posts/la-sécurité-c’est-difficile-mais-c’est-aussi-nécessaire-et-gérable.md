@@ -9,8 +9,7 @@ image-alt: >-
   L’application utilise un fichier ESLint pour faire une analyse statique de
   programmes.
 translationKey: security-hard
-thumb: ''
-processed: ''
+thumb: /img/cds/airplane.jpg
 ---
 La sécurité numérique, c’est difficile. Même les meilleures équipes d’ingénieurs et de spécialistes des TI sont susceptibles de faire des erreurs à un moment donné. Mais tout comme la sécurité dans les aéroports, les étapes et les processus en place sont là pour votre sûreté.
 
