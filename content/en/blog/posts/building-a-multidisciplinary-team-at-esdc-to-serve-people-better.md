@@ -14,8 +14,7 @@ date: 2019-06-19T13:00:00.000Z
 image: /img/cds/mic.jpg
 image-alt: condenser microphone with black background
 translationKey: building-a-multidisciplinary-team-at-ESDC-to-serve-people-better
-thumb: ''
-processed: ''
+thumb: /img/cds/mic.jpg
 ---
 As a manager under the Canada Pension Plan Service Improvement Strategy at Employment and Social Development Canada (ESDC) I helped create the multidisciplinary team at the Canadian Digital Service (CDS) working on improving the Canada Pension Plan (CPP) for people applying for disability benefits. 
 
