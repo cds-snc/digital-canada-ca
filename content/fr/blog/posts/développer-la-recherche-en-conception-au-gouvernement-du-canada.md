@@ -19,8 +19,7 @@ image-alt: >-
   étant mis sur la main d'un individu tenant une unique pièce de casse-tête
   rouge.
 translationKey: design-research
-thumb: ''
-processed: ''
+thumb: /img/cds/puzzle.jpg
 ---
 La recherche en conception (ou la recherche sur les utilisateurs) nous aide à comprendre les gens qui utilisent nos services. Si nous les comprenons, nous pouvons mieux répondre à leurs besoins. Nous avons vu à quel point la recherche en conception est importante pour assurer la prestation de services numériques axés sur les personnes dans le cadre de notre travail avec nos partenaires. Nous avons également vu à quel point elle peut facilement être confondue avec la recherche sur l’opinion publique (ROP). 
 
