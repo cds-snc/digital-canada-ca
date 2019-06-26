@@ -13,7 +13,7 @@ author: >-
   Colin MacArthur, chef de la recherche en conception, John Millons, chef des
   politiques
 date: 2019-06-26T13:00:00.000Z
-image: /img/cds/blog-puzzle.jpg
+image: /img/cds/puzzle.jpg
 image-alt: >-
   Photo montrant une table recouverte de pièces de casse-tête blanches, l'accent
   étant mis sur la main d'un individu tenant une unique pièce de casse-tête
