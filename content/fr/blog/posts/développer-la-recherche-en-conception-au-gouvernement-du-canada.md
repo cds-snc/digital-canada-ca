@@ -29,10 +29,10 @@ Alors, en quoi la recherche en conception est-elle unique? Penchons-nous un peu 
 
 Au gouvernement, nous sommes habitués aux consultations, aux ROP et aux collectes d’exigences opérationnelles comme moyens de mobiliser le public. Toutefois, la recherche en conception est unique en raison de son objectif, de son public, de ses questions et de sa fréquence :
 
-* _Objectif différent :_ La recherche en conception se concentre sur la compréhension des objectifs, des comportements et des défis des gens. Elle examine comment les gens utilisent un service particulier et à quelle fin, plutôt que l’opinion générale des gens envers le service.
-* _Public différent :_ La recherche en conception étudie les utilisateurs d’un service en interagissant directement avec eux. Elle donne la voix au peuple lui-même.
-* _Questions différentes :_ La recherche en conception ne demande pas aux gens ce qu’ils veulent d’un service. Elle vise à déterminer ce que le service doit fournir en fonction des objectifs et des obstacles des personnes. 
-* _Fréquence différente :_ La recherche en conception se fait de façon répétée tout au long de la conception d’un service. Nous faisons un peu de recherche, tôt et souvent.
+* **Objectif différent :** La recherche en conception se concentre sur la compréhension des objectifs, des comportements et des défis des gens. Elle examine comment les gens utilisent un service particulier et à quelle fin, plutôt que l’opinion générale des gens envers le service.
+* **Public différent :** La recherche en conception étudie les utilisateurs d’un service en interagissant directement avec eux. Elle donne la voix au peuple lui-même.
+* **Questions différentes :** La recherche en conception ne demande pas aux gens ce qu’ils veulent d’un service. Elle vise à déterminer ce que le service doit fournir en fonction des objectifs et des obstacles des personnes. 
+* **Fréquence différente :** La recherche en conception se fait de façon répétée tout au long de la conception d’un service. Nous faisons un peu de recherche, tôt et souvent.
 
 Ce genre de recherche nous aide à mieux servir les gens. Les conversations directes avec les gens montrent la diversité de leurs besoins. Comprendre en profondeur la façon dont les gens ont recours à un service nous aide à mieux le concevoir, et le fait d’effectuer ces recherches à plusieurs reprises améliore les choses.
 
