@@ -7,7 +7,8 @@ date: 2019-06-20T13:00:00.000Z
 image: /img/cds/airplane.jpg
 image-alt: An airplane taking off on a runway at dusk.
 translationKey: security-hard
-thumb: /img/cds/airplane.jpg
+thumb: /img/cds/thumbnails/airplane.jpg
+processed: 1561556657992
 ---
 Digital security is hard. Even the best engineering and IT teams are prone to make mistakes at some point. But like airport security, steps and processes along the way keep you safe and secure.
 
@@ -78,3 +79,4 @@ Show me the code for [Security Goals](https://github.com/cds-snc/security-goals)
 ## Moving forward
 
 We've only begun our journey to prove our assumptions. We’re currently in the process of testing this on a couple of services we're working on at CDS. As we go we’ll be writing reusable “check containers” and working with the security teams of our partners to determine exactly how much we can automate.
+
