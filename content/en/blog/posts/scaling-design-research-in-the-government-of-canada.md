@@ -9,7 +9,7 @@ description: >-
   conflated with public opinion research (POR).
 author: 'Colin MacArthur, Head of Design Research, John Millons, Head of Policy'
 date: 2019-06-26T13:00:00.000Z
-image: /img/cds/blog-puzzle.jpg
+image: /img/cds/puzzle.jpg
 image-alt: >-
   A photo showing a table covered by white puzzle pieces, with a focus on an
   individual’s hand holding a unique red puzzle piece.
