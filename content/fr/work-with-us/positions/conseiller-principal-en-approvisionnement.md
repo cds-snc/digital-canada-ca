@@ -6,9 +6,9 @@ description: >-
   Nous recherchons un conseiller principal en approvisionnement pour nous aider
   à intégrer les firmes d’ingénierie et de conception à notre travail de
   prestation de services.
-archived: false
-translationKey: sr-proc-advisor
+archived: true
 leverId: d558151a-74f5-4f99-8873-a9d5b8562919
+translationKey: sr-proc-advisor
 ---
 
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
