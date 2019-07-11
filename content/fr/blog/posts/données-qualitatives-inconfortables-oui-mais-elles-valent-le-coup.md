@@ -69,6 +69,7 @@ Voici un lien vers chacun des prototypes que nous avons utilisés, et ce que nou
 |11 avril 2019|[Démo 1](https://rac-concept-1.herokuapp.com/) ([code](https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.2-alpha))|Moyenne (supérieure à la première version)|Opinion partagée (il y avait quelques réserves là où c’était pertinent)|
 |9 mai 2019|[Démo 2](https://rac-concept-2.herokuapp.com/) ([code](https://github.com/cds-snc/report-a-cybercrime/releases/tag/V0.3.1-alpha))|Moyenne (compréhension différente de ce qui est très urgent et peu urgent)|Moyenne à élevée|
 
+
 Parfois, ce que nous avons présenté aux participants n’était pas clair pour eux. Notamment, **la première fonctionnalité ayant fait l’objet d’un prototype n’était pas claire pour cinq des six personnes ayant participé à nos essais de validation individuels**. Mais ça ne veut pas dire que nous avons échoué. Ça signifie plutôt que nous avons eu l’occasion d’en apprendre beaucoup. Ça signifie également que nous avons eu l’occasion d’améliorer les services dans un environnement dépourvu de risque avant de les dévoiler au public.
 
 Lorsque nous avons mis à l’essai le nouveau prototype, la clarté était plus élevée, ce qui nous a permis d’évaluer l’utilité. Les résultats étaient partagés : si certaines victimes aimaient un processus de signalement qui demande peu d’efforts, d’autres s’attendaient à fournir plus de détails. Tout le monde a aimé le dernier écran, où nous remercions les participants pour leur signalement.
