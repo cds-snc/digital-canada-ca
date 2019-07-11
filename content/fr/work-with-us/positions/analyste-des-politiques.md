@@ -7,7 +7,7 @@ description: >-
   d’un analyste des politiques pour soutenir les équipes chargées de la
   prestation des services numériques et contribuer à la stratégie de
   l’organisation (poste d’étudiant pour l’automne 2019).
-archived: false
+archived: true
 leverId: c085b289-749f-4a64-8c01-9973c4ba3293
 translationKey: policy-analyst-coop
 ---
