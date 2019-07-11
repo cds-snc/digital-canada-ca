@@ -16,7 +16,7 @@ processed: ''
 ---
 I’m an avid reader. I love books. But sometimes I struggle to choose which ones to read. 
 
-My first instinct is to look at the numbers: star ratings, page numbers, and so on. But while these help me compare data, they don’t help me understand *why* one book has “better” numbers than others. For that, I read reviews. Combining numbers with stories helps me make better decisions.
+My first instinct is to look at the numbers: star ratings, page numbers, and so on. But while these help me compare data, they don’t help me understand _why_ one book has “better” numbers than others. For that, I read reviews. Combining numbers with stories helps me make better decisions.
 
 Designing online services is similar. **It’s hard to do. It’s even harder to do without data.**
 
@@ -28,8 +28,8 @@ At the end of this phase, we’ll look at the data with our partners to understa
 
 To help us decide if features work or not, we’re measuring two things:
 
-1. *Clarity.* Do people understand what they can use the service to do?
-2. *Value.* If the purpose of the service is clear, do people find it useful? Does it meet their needs?
+1. _Clarity._ Do people understand what they can use the service to do?
+2. _Value._ If the purpose of the service is clear, do people find it useful? Does it meet their needs?
 
 Since “clarity” and “value” can be hard concepts to measure, we had to adapt our testing. In the early stages, we focused on gathering rich qualitative data. As we move forward, we’ll also gather quantitative data.
 
@@ -47,21 +47,25 @@ To qualitatively evaluate “clarity”, we gauged people’s comfort with going
 
 To figure that out, we asked questions like:
 
-* (On each page of a flow) *“Can you describe what you see? What do you expect will happen next?”*
-* (After moving to the next page of a flow) *“Is this what you expected to see?”*
-* (After going through the prototype) *“Can you tell me what this website was for? Was there anything on this website that you found unclear or confusing?”*
+* (On each page of a flow) _“Can you describe what you see? What do you expect will happen next?”_
+* (After moving to the next page of a flow) _“Is this what you expected to see?”_
+* (After going through the prototype) _“Can you tell me what this website was for? Was there anything on this website that you found unclear or confusing?”_
 
 ### Value
 
 Once a prototype was clear for participants, we started exploring whether it was valuable for them. To do this, we spoke with them about their personal experiences with cybercrime. Then, we discussed whether the feature would help meet their needs.
 
-For example, we asked, *“Did you find this helpful? Why or why not?”*
+For example, we asked, _“Did you find this helpful? Why or why not?”_
 
 ## What we’ve discovered so far
 
 Here’s a link to each prototype we used, and our findings after testing them a few times:
 
-[TABLE HERE]
+|Date|Prototype|Clarity|Value|
+|--- |--- |--- |--- |
+|April 9, 2019|No demo (code)|Low|n/a (couldn't determine due to low clarity)|
+|April 11, 2019|Demo (code)|Medium (higher than first version)|Mixed (where there was value, was caveated)|
+|May 9, 2019|Demo 2 (code)|Medium (mixed understanding of what was high and low urgency)|Medium to high|
 
 Sometimes what we put in front of participants wasn’t clear for them. For example, **the first feature we prototyped was unclear for five out of the six people**. But that doesn’t mean we failed. It means we were given an opportunity to learn a lot. It also means we got to improve the service in a risk-free environment before we offer it to the public.
 
@@ -71,13 +75,13 @@ When we tested the new prototype, clarity was higher, so we could assess value. 
 
 As a structured data fan, diving into qualitative data was uncomfortable at first. My head understands the black and whiteness of numbers well, but stories are a little more grey. 
 
-By participating in these in-depth sessions, I saw the benefits of including a qualitative approach. While our evaluations of clarity and value were less quantitatively comparable, we could more confidently explain the *why* behind each participant’s experience.
+By participating in these in-depth sessions, I saw the benefits of including a qualitative approach. While our evaluations of clarity and value were less quantitatively comparable, we could more confidently explain the _why_ behind each participant’s experience.
 
-*(Big props to our team’s researcher, [Mel](https://twitter.com/melbanyard), for developing our research activities, facilitating sessions, and ensuring the whole team can participate so we see first-hand the impact of our efforts.)*
+_(Big props to our team’s researcher, [Mel](https://twitter.com/melbanyard), for developing our research activities, facilitating sessions, and ensuring the whole team can participate so we see first-hand the impact of our efforts.)_
 
 ## Next: quantitative numbers
 
-While our qualitative approach allows us to understand the why, it’s a bit harder to directly compare prototypes. Numbers would complement the stories, so as we move forward, it’s time to quantify! *(cue corny music)*
+While our qualitative approach allows us to understand the why, it’s a bit harder to directly compare prototypes. Numbers would complement the stories, so as we move forward, it’s time to quantify! _(cue corny music)_
 
 In the weeks ahead, we’ll follow our format of starting small, clarifying the prototype, and then running more research. This time, we’ll go from **small-scale qualitative** testing (5–10 people) to **large-scale quantitative** testing (50–100 people). This will give us data to more confidently compare the usability of different features.
 
