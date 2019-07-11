@@ -13,8 +13,7 @@ image-alt: >-
   d’une table. Ils sourient et examinent un diagramme de service composé de
   papillons adhésifs de différentes couleurs.
 translationKey: data-driven-service
-thumb: ''
-processed: ''
+thumb: /img/cds/rcmp-data-blog.jpg
 ---
 Je suis un grand lecteur. J’adore les livres. Mais j’ai parfois du mal à en choisir un. 
 
@@ -63,11 +62,38 @@ Par exemple, nous avons demandé : *« Avez-vous trouvé cela utile? Pourquoi ou
 
 Voici un lien vers chacun des prototypes que nous avons utilisés, et ce que nous avons constaté après les avoir testés à quelques reprises :
 
-|Date|Prototype|Clarté|Utilité|
-|--- |--- |--- |--- |
-|9 avril 2019|Pas de démo ([code](https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.1-alpha))|Faible|s.o (impossible à déterminer en raison du peu de clarté)|
-|11 avril 2019|[Démo 1](https://rac-concept-1.herokuapp.com/) ([code](https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.2-alpha))|Moyenne (supérieure à la première version)|Opinion partagée (il y avait quelques réserves là où c’était pertinent)|
-|9 mai 2019|[Démo 2](https://rac-concept-2.herokuapp.com/) ([code](https://github.com/cds-snc/report-a-cybercrime/releases/tag/V0.3.1-alpha))|Moyenne (compréhension différente de ce qui est très urgent et peu urgent)|Moyenne à élevée|
+<table>
+    <tbody>
+        <tr>
+            <th>9 avril 2019</th>
+            <th>Prototype</th>
+            <th>Clarté</th>
+            <th>Utilité</th>
+        </tr>
+        <tr>
+            <td>9 avril 2019</td>
+            <td>Pas de démo (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.1-alpha">code</a>)
+            </td>
+            <td>Faible</td>
+            <td>s.o (impossible à déterminer en raison du peu de clarté)</td>
+        </tr>
+        <tr>
+            <td>11 avril 2019</td>
+            <td>
+                <a href="https://rac-concept-1.herokuapp.com/">Démo 1</a> (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.2-alpha">code</a>)
+            </td>
+            <td>Moyenne (supérieure à la première version)</td>
+            <td>Opinion partagée (il y avait quelques réserves là où c’était pertinent)</td>
+        </tr>
+        <tr>
+            <td>9 mai 2019</td>
+            <td>
+            <a href="https://rac-concept-2.herokuapp.com/">Démo 2</a> (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/V0.3.1-alpha">code</a>)</td>
+            <td>Moyenne (compréhension différente de ce qui est très urgent et peu urgent)</td>
+            <td>Moyenne à élevée</td>
+        </tr>
+    </tbody>
+</table>
 
 
 Parfois, ce que nous avons présenté aux participants n’était pas clair pour eux. Notamment, **la première fonctionnalité ayant fait l’objet d’un prototype n’était pas claire pour cinq des six personnes ayant participé à nos essais de validation individuels**. Mais ça ne veut pas dire que nous avons échoué. Ça signifie plutôt que nous avons eu l’occasion d’en apprendre beaucoup. Ça signifie également que nous avons eu l’occasion d’améliorer les services dans un environnement dépourvu de risque avant de les dévoiler au public.
