@@ -11,9 +11,9 @@ image-alt: >-
   Photo of six members of the RCMP team around a table. They are smiling and
   reviewing a service diagram made up of different coloured sticky notes.
 translationKey: data-driven-service
-thumb: ''
-processed: ''
+thumb: /img/cds/rcmp-data-blog.jpg
 ---
+
 I’m an avid reader. I love books. But sometimes I struggle to choose which ones to read. 
 
 My first instinct is to look at the numbers: star ratings, page numbers, and so on. But while these help me compare data, they don’t help me understand _why_ one book has “better” numbers than others. For that, I read reviews. Combining numbers with stories helps me make better decisions.
@@ -61,11 +61,38 @@ For example, we asked, _“Did you find this helpful? Why or why not?”_
 
 Here’s a link to each prototype we used, and our findings after testing them a few times:
 
-|Date|Prototype|Clarity|Value|
-|--- |--- |--- |--- |
-|April 9, 2019|No demo ([code](https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.1-alpha))|Low|n/a (couldn't determine due to low clarity)|
-|April 11, 2019|[Demo 1](https://rac-concept-1.herokuapp.com/) ([code](https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.2-alpha))|Medium (higher than first version)|Mixed (where there was value, was caveated)|
-|May 9, 2019|[Demo 2](https://rac-concept-2.herokuapp.com/) ([code](https://github.com/cds-snc/report-a-cybercrime/releases/tag/V0.3.1-alpha))|Medium (mixed understanding of what was high and low urgency)|Medium to high|
+<table>
+    <tbody>
+        <tr>
+            <th>Date</th>
+            <th>Prototype</th>
+            <th>Clarity</th>
+            <th>Value</th>
+        </tr>
+        <tr>
+            <td>April 9, 2019</td>
+            <td>No demo (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.1-alpha">code</a>)
+            </td>
+            <td>Low</td>
+            <td>n/a (couldn&#39;t determine due to low clarity)</td>
+        </tr>
+        <tr>
+            <td>April 11, 2019</td>
+            <td>
+                <a href="https://rac-concept-1.herokuapp.com/">Demo 1</a> (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.2-alpha">code</a>)
+            </td>
+            <td>Medium (higher than first version)</td>
+            <td>Mixed (where there was value, was caveated)</td>
+        </tr>
+        <tr>
+            <td>May 9, 2019</td>
+            <td>
+            <a href="https://rac-concept-2.herokuapp.com/">Demo 2</a> (<a href="https://github.com/cds-snc/report-a-cybercrime/releases/tag/V0.3.1-alpha">code</a>)</td>
+            <td>Medium (mixed understanding of what was high and low urgency)</td>
+            <td>Medium to high</td>
+        </tr>
+    </tbody>
+</table>
 
 
 Sometimes what we put in front of participants wasn’t clear for them. For example, **the first feature we prototyped was unclear for five out of the six people**. But that doesn’t mean we failed. It means we were given an opportunity to learn a lot. It also means we got to improve the service in a risk-free environment before we offer it to the public.

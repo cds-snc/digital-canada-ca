@@ -242,6 +242,21 @@ main {
   z-index: 0;
 }
 
+// Universal style for blog post tables
+
+table{
+  border:1px solid #000;
+  margin-bottom: 30px;
+}
+
+td, th {
+  border:1px solid #000;
+  padding:10px;
+}
+
+th {
+  background-color:#ccc;
+}
 
 
 // Canada Footer
