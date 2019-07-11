@@ -19,7 +19,8 @@ image-alt: >-
   étant mis sur la main d'un individu tenant une unique pièce de casse-tête
   rouge.
 translationKey: design-research
-thumb: /img/cds/puzzle.jpg
+thumb: /img/cds/thumbnails/puzzle.jpg
+processed: 1562852147949
 ---
 La recherche en conception (ou la recherche sur les utilisateurs) nous aide à comprendre les gens qui utilisent nos services. Si nous les comprenons, nous pouvons mieux répondre à leurs besoins. Nous avons vu à quel point la recherche en conception est importante pour assurer la prestation de services numériques axés sur les personnes dans le cadre de notre travail avec nos partenaires. Nous avons également vu à quel point elle peut facilement être confondue avec la recherche sur l’opinion publique (ROP). 
 
@@ -43,3 +44,4 @@ Bien qu’il s’agisse d’une étape modeste — mais importante — pour enco
 [Rassembler les politiques et la prestation](https://sfadigital.blog.gov.uk/2017/03/24/dont-bring-policy-and-delivery-closer-together-make-them-the-same-thing/) nous permet d’obtenir de meilleurs résultats pour le public. En agissant de la sorte, nous pouvons mettre à jour ou rédiger de nouvelles politiques beaucoup plus rapidement pour répondre aux besoins et aux attentes des gens. L’un des moyens que [nous avons adopté au SNC](https://numerique.canada.ca/2018/09/07/politiques/) consiste à intégrer des [responsables des politiques dans nos équipes de prestation](https://gds.blog.gov.uk/2017/01/09/making-policy-an-integral-part-of-digital-delivery-teams/), ce qui aide à former un circuit de rétroaction étroit avec les centres de politiques. Dans ce cas-ci, nous avons été en mesure de transmettre rapidement les leçons tirées de notre travail sur le terrain avec les ministères, puis d’apporter des changements au guide relatif à la politique en quelques mois seulement. 
 
 Il s’agit là d’une avenue que nous avons empruntée pour permettre la recherche en conception, mais il y en a d’autres sur lesquelles nous travaillons. Éprouvez-vous des difficultés liées à ce type de recherche? Avez-vous des conseils ou des idées sur la façon dont nous pouvons renforcer et accroître la recherche en conception? [Communiquez avec nous](https://twitter.com/SNC_GC)!
+
