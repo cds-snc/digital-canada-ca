@@ -63,9 +63,9 @@ Here’s a link to each prototype we used, and our findings after testing them a
 
 |Date|Prototype|Clarity|Value|
 |--- |--- |--- |--- |
-|April 9, 2019|No demo (code)|Low|n/a (couldn't determine due to low clarity)|
-|April 11, 2019|Demo (code)|Medium (higher than first version)|Mixed (where there was value, was caveated)|
-|May 9, 2019|Demo 2 (code)|Medium (mixed understanding of what was high and low urgency)|Medium to high|
+|April 9, 2019|No demo ([code](https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.1-alpha))|Low|n/a (couldn't determine due to low clarity)|
+|April 11, 2019|[Demo 1](https://rac-concept-1.herokuapp.com/) ([code](https://github.com/cds-snc/report-a-cybercrime/releases/tag/v0.2.2-alpha))|Medium (higher than first version)|Mixed (where there was value, was caveated)|
+|May 9, 2019|[Demo 2](https://rac-concept-2.herokuapp.com/) ([code](https://github.com/cds-snc/report-a-cybercrime/releases/tag/V0.3.1-alpha))|Medium (mixed understanding of what was high and low urgency)|Medium to high|
 
 Sometimes what we put in front of participants wasn’t clear for them. For example, **the first feature we prototyped was unclear for five out of the six people**. But that doesn’t mean we failed. It means we were given an opportunity to learn a lot. It also means we got to improve the service in a risk-free environment before we offer it to the public.
 
