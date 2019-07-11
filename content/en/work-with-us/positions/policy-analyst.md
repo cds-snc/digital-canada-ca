@@ -6,7 +6,7 @@ description: >-
   The Policy Team at CDS is looking for a Policy Analyst to support digital
   service delivery teams and to contribute to the strategy of the organization
   (Fall 2019 student position).
-archived: false
+archived: true
 leverId: d81198b9-3536-4a4d-a370-576b94ac7f2a
 translationKey: policy-analyst-coop
 ---
