@@ -65,7 +65,7 @@ Voici un lien vers chacun des prototypes que nous avons utilisés, et ce que nou
 <table>
     <tbody>
         <tr>
-            <th>9 avril 2019</th>
+            <th>Date</th>
             <th>Prototype</th>
             <th>Clarté</th>
             <th>Utilité</th>
