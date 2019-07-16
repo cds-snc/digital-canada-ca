@@ -5,7 +5,7 @@ description: >-
   Reconnaissons la valeur des données qualitatives afin de concevoir un service
   facile à comprendre et utile permettant aux membres du public de signaler un
   cybercrime. 
-author: 'Lucas Cherkewsi, Politiques'
+author: 'Lucas Cherkewski, Politiques'
 date: 2019-07-11T16:43:12.022Z
 image: /img/cds/rcmp-data-blog.jpg
 image-alt: >-

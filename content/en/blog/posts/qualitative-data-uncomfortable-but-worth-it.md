@@ -4,7 +4,7 @@ title: 'Qualitative data: uncomfortable, but worth it.'
 description: >-
   Opening ourselves to the value of qualitative data by building a clear and
   valuable service for the public to report a cybercrime. 
-author: 'Lucas Cherkewsi, Policy'
+author: 'Lucas Cherkewski, Policy'
 date: 2019-07-11T16:39:10.164Z
 image: /img/cds/rcmp-data-blog.jpg
 image-alt: >-
