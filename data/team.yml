@@ -288,6 +288,13 @@ team:
       fr: Gestion de produits
     twitter: danprime
   - archived: false
+    email: dan.sinclair@tbs-sct.gc.ca
+    image-name: /img/cds/dan-sinclair.jpg
+    name: Dan Sinclair
+    title:
+      en: Development
+      fr: Développement
+  - archived: false
     github: dsamojlenko
     image-name: /img/cds/dave-samojlenko.jpg
     name: Dave Samojlenko
