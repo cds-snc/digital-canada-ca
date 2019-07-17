@@ -8,7 +8,7 @@ exec:
     processed: 1552050695382
     title:
       en: Chief Executive Officer
-      fr: Dirigeant principal
+      fr: Président-directeur général
     twitter: aaronsnow
   - archived: false
     email: Alex.MacEachern@tbs-sct.gc.ca
@@ -325,6 +325,13 @@ team:
       en: Outreach
       fr: Liaison et diffusion
   - archived: false
+    email: francois.moisan@tbs-sct.gc.ca
+    image-name: /img/cds/francois.moisan.jpg
+    name: Francois Moisan
+    title:
+      en: Support Technician
+      fr: Technicien de soutien
+  - archived: false
     email: Hillary.Lorimer@tbs-sct.gc.ca
     image-name: /img/cds/hillary-lorimer.jpg
     linkedin: hillary-b-lorimer
@@ -370,6 +377,14 @@ team:
       en: Talent
       fr: Talent
   - archived: false
+    email: jose.jimenez@tbs-sct.gc.ca
+    image-name: /img/cds/jose-jimenez.jpg
+    linkdin: jimenezj27
+    name: Jose Jimenez
+    title:
+      en: Partnerships
+      fr: Partenariats
+  - archived: false
     email: julianna.rowsell@tbs-sct.gc.ca
     github: 'https://github.com/JuliannaR/juliannar.github.io'
     image-name: /img/cds/julianna-rowsell.jpg
@@ -380,6 +395,13 @@ team:
       en: Accessibility
       fr: Accessibilité
     twitter: JuliannaRowsell
+  - archived: false
+    email: kate.wilhelm@tbs-sct.gc.ca
+    image-name: /img/cds/kate.wilhelm.jpg
+    name: Kate Wilhelm
+    title:
+      en: Design
+      fr: Conception
   - archived: false
     email: keith.emmerson@tbs-sct.gc.ca
     github: keithiopia
@@ -402,7 +424,7 @@ team:
       fr: Développement
     twitter: ElagganK
   - archived: false
-    email: leon.lukashevsky@codefor.ca
+    email: leon.lukashevsky@tbs-sct.gc.ca
     github: leonL
     image-name: /img/cds/leon-lukashevsky.jpg
     linkedin: le0nl
