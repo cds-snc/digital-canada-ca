@@ -331,6 +331,7 @@ team:
     title:
       en: Support Technician
       fr: Technicien de soutien
+    processed: 1563387298641
   - archived: false
     email: Hillary.Lorimer@tbs-sct.gc.ca
     image-name: /img/cds/hillary-lorimer.jpg
@@ -384,6 +385,7 @@ team:
     title:
       en: Partnerships
       fr: Partenariats
+    processed: 1563387298644
   - archived: false
     email: julianna.rowsell@tbs-sct.gc.ca
     github: 'https://github.com/JuliannaR/juliannar.github.io'
@@ -402,6 +404,7 @@ team:
     title:
       en: Design
       fr: Conception
+    processed: 1563387298644
   - archived: false
     email: keith.emmerson@tbs-sct.gc.ca
     github: keithiopia
