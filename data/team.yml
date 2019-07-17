@@ -41,6 +41,16 @@ exec:
       fr: Chef du talent
     twitter: andreagilbrook
   - archived: false
+    email: chelsea.novak@tbs-sct.gc.ca
+    image-name: /img/cds/chelsea-novak.jpg
+    github: chelseanovak
+    twitter: herhighnessness
+    linkedin: chelseanovak
+    name: Chelsea Novak
+    title:
+      en: Head of Outreach
+      fr: Chef de iaison et diffusion
+  - archived: false
     email: Christopher.Govias@tbs-sct.gc.ca
     image-name: /img/cds/chris-govias.jpg
     linkedin: cgovias
