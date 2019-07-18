@@ -279,6 +279,14 @@ team:
       en: Security
       fr: Sécurité
   - archived: false
+    email: dan.sinclair@tbs-sct.gc.ca
+    image-name: /img/cds/dan-sinclair.jpg
+    name: Dan Sinclair
+    processed: 1563384025792
+    title:
+      en: Development
+      fr: Développement
+  - archived: false
     github: danprime
     image-name: /img/cds/daniel-tse.jpg
     linkedin: danielmktse
@@ -288,14 +296,6 @@ team:
       en: Product Management
       fr: Gestion de produits
     twitter: danprime
-  - archived: false
-    email: dan.sinclair@tbs-sct.gc.ca
-    image-name: /img/cds/dan-sinclair.jpg
-    name: Dan Sinclair
-    title:
-      en: Development
-      fr: Développement
-    processed: 1563384025792
   - archived: false
     github: dsamojlenko
     image-name: /img/cds/dave-samojlenko.jpg
