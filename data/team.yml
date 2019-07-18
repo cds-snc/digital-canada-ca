@@ -326,7 +326,7 @@ team:
       fr: Liaison et diffusion
   - archived: false
     email: francois.moisan@tbs-sct.gc.ca
-    image-name: /img/cds/francois.moisan.jpg
+    image-name: /img/cds/francois-moisan.jpg
     name: Francois Moisan
     title:
       en: Support Technician
@@ -399,7 +399,7 @@ team:
     twitter: JuliannaRowsell
   - archived: false
     email: kate.wilhelm@tbs-sct.gc.ca
-    image-name: /img/cds/kate.wilhelm.jpg
+    image-name: /img/cds/kate-wilhelm.jpg
     name: Kate Wilhelm
     title:
       en: Design
