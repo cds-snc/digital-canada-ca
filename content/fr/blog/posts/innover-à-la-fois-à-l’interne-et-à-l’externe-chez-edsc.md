@@ -15,8 +15,7 @@ image-alt: >-
   monde de Trello, Slack et FunRetro » sur un fond bleu clair sur une photo des
   bois.
 translationKey: innovating-esdc
-thumb: ''
-processed: ''
+thumb: /img/cds/esdc-innovation-fr.jpg
 ---
 À Emploi et Développement social Canada, nous avons vraiment commencé à embrasser l’idée d’être novateurs dans la façon dont nous fournissons des services et des informations à nos clients. Ce qui parfois nous semble plus difficile, c’est de nous ouvrir à de nouvelles façons de faire notre travail quotidien *à l’interne*.
 

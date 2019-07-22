@@ -14,8 +14,7 @@ image-alt: >-
   A quote that reads “But all of a sudden we were thrown into a world of Trello,
   Slack and FunRetro” on a light blue background over a photo of the woods
 translationKey: innovating-esdc
-thumb: ''
-processed: ''
+thumb: /img/cds/esdc-innovation-en.jpg
 ---
 At Employment and Social Development Canada (ESDC), we’ve really started to embrace the idea of being innovative in how we provide services and information to our clients. What seems to be much harder, at times, is opening our doors internally to new and innovative ways of doing our day-to-day work.
 
