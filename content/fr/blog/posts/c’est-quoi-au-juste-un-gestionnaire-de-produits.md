@@ -7,7 +7,7 @@ description: >-
   travail de prestation de services au gouvernement et découvrez comment la
   gestion des produits diffère de la gestion de projet.
 author: 'Bryan Willey, Clémentine Hahn, Courtney Claessens, Dan Tse, Stevie-Ray Talbot'
-date: 2019-07-22T18:53:19.500Z
+date: 2019-07-23T13:00:00.000Z
 image: /img/cds/product-managers-10July2019.jpg
 image-alt: >-
   Une équipe souriante de cinq gestionnaires de produits dispersés du SNC :
