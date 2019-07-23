@@ -15,7 +15,8 @@ image-alt: >-
   monde de Trello, Slack et FunRetro » sur un fond bleu clair sur une photo des
   bois.
 translationKey: innovating-esdc
-thumb: /img/cds/esdc-innovation-fr.jpg
+thumb: /img/cds/thumbnails/esdc-innovation-fr.jpg
+processed: 1563891110033
 ---
 À Emploi et Développement social Canada, nous avons vraiment commencé à embrasser l’idée d’être novateurs dans la façon dont nous fournissons des services et des informations à nos clients. Ce qui parfois nous semble plus difficile, c’est de nous ouvrir à de nouvelles façons de faire notre travail quotidien *à l’interne*.
 
@@ -34,3 +35,4 @@ Récemment, pendant une réunion d’équipe via [Webex](https://www.webex.com/)
 Dans la salle, l’enthousiasme était palpable. L’équipe étendue a été encouragée à découvrir un outil qui, au-delà de son apparence tape-à-l’œil, pouvait réellement les aider à travailler de façon plus efficace, efficiente et collaborative.
 
 Ce que je trouve le plus emballant, c’est l’idée que nous n’avons pas toujours besoin de nous forcer à rentrer dans le moule. Au lieu de cela, il existe des applications et des outils exceptionnellement adaptables que nous pouvons « mouler » à notre façon, pour répondre plus précisément à nos besoins. Et si notre objectif est d’innover dans la façon dont nous servons nos clients, ne serait-il pas logique d’étendre cette idée à notre façon de travailler à l’interne?
+
