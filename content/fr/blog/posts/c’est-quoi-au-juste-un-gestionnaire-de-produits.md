@@ -8,7 +8,7 @@ description: >-
   gestion des produits diffère de la gestion de projet.
 author: 'Bryan Willey, Clémentine Hahn, Courtney Claessens, Dan Tse, Stevie-Ray Talbot'
 date: 2019-07-23T13:00:00.000Z
-image: /img/cds/product-managers-10July2019.jpg
+image: /img/cds/pm-banner-fix.jpg
 image-alt: >-
   Une équipe souriante de cinq gestionnaires de produits dispersés du SNC :
   quatre gestionnaires en vidéoconférence et un gestionnaire en personne qui se
@@ -17,7 +17,6 @@ image-alt: >-
   Waterloo, Toronto et Ottawa.
 translationKey: product-manager-QA
 thumb: /img/cds/thumbnails/product-managers-10July2019.jpg
-processed: 1563891109957
 ---
 
 Si vous tombez sur quelqu’un de très organisé, curieux, adaptatif, communicatif, empathique et passionné par l’élimination d’obstacles pour faire avancer les choses, vous venez de rencontrer soit un surhumain, soit un gestionnaire de produits.

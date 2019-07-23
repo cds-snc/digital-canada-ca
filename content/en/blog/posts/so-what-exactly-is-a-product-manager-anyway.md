@@ -7,15 +7,15 @@ description: >-
   project management.
 author: 'Bryan Willey, Clémentine Hahn, Courtney Claessens, Dan Tse, Stevie-Ray Talbot'
 date: 2019-07-23T13:00:00.000Z
-image: /img/cds/product-managers-10July2019.jpg
+image: /img/cds/pm-banner-fix.jpg
 image-alt: >-
   A team of 5 smiling CDS distributed product managers: 4 in a video chat and 1
   product manager in person standing in the middle. Google Meets helps us
   connect with distributed product management team members working from
   Montreal, Waterloo, Toronto, and Ottawa.
 translationKey: product-manager-QA
-thumb: /img/cds/thumbnails/product-managers-10July2019.jpg
-processed: 1563891109839
+thumb: /img/cds/thumbnails/pm-banner-fix.jpg
+# processed: 1563891109839
 ---
 If you find yourself speaking to someone who is highly organized, curious, adaptive, communicative, empathetic, and passionate about removing barriers in order to get stuff done, chances are you’re either talking to a superhuman or a product manager.
 
