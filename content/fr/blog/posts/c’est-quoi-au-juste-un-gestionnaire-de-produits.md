@@ -122,3 +122,4 @@ Si vous priorisez les besoins de votre équipe, vous accomplirez quelque chose d
 
 Aussi, soyons francs, le fait d’être agile est beaucoup mis de l’avant actuellement, et il y a beaucoup de formations qui ne se concentrent par sur votre contexte, votre travail ou vos problèmes. Essayez de trouver une formation qui encourage le principe de l’agilité dans votre contexte, au lieu du dogme de l’Agilité avec un grand « A ».
 
+
