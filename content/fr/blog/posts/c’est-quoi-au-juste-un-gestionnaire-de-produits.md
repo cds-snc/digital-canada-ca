@@ -16,7 +16,8 @@ image-alt: >-
   dispersés de l’équipe de gestion de produits qui travaillent de Montréal,
   Waterloo, Toronto et Ottawa.
 translationKey: product-manager-QA
-thumb: /img/cds/thumbnails/product-managers-10July2019.jpg
+thumb: /img/cds/thumbnails/pm-banner-fix.jpg
+processed: 1563904136241
 ---
 
 Si vous tombez sur quelqu’un de très organisé, curieux, adaptatif, communicatif, empathique et passionné par l’élimination d’obstacles pour faire avancer les choses, vous venez de rencontrer soit un surhumain, soit un gestionnaire de produits.
@@ -121,5 +122,6 @@ Si vous priorisez les besoins de votre équipe, vous accomplirez quelque chose d
 **Stevie-Ray :** Pour entrer dans l’espace de la gestion de produits du gouvernement, trouvez une équipe qui fait ce travail de manière multidisciplinaire et apprenez d’eux. J’ai passé plus d’un an à observer les gestionnaires de produits faire leur travail avant de commencer à assimiler quelques-uns des principes. Alors que je faisais cela, j’aurais aimé poser plus de questions et lire de la documentation pour créer ma propre trousse d’outils de gestionnaire de produits.
 
 Aussi, soyons francs, le fait d’être agile est beaucoup mis de l’avant actuellement, et il y a beaucoup de formations qui ne se concentrent par sur votre contexte, votre travail ou vos problèmes. Essayez de trouver une formation qui encourage le principe de l’agilité dans votre contexte, au lieu du dogme de l’Agilité avec un grand « A ».
+
 
 

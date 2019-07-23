@@ -14,8 +14,8 @@ image-alt: >-
   connect with distributed product management team members working from
   Montreal, Waterloo, Toronto, and Ottawa.
 translationKey: product-manager-QA
-thumb: /img/cds/thumbnails/product-managers-10July2019.jpg
-
+thumb: /img/cds/thumbnails/pm-banner-fix.jpg
+processed: 1563904136175
 ---
 If you find yourself speaking to someone who is highly organized, curious, adaptive, communicative, empathetic, and passionate about removing barriers in order to get stuff done, chances are you’re either talking to a superhuman or a product manager.
 
@@ -116,5 +116,6 @@ Government impacts people’s lives in a meaningful way, and there is always the
 **Stevie-Ray:** For getting into the PM space from government, find a team that is doing this work in a multi-disciplinary way and learn from them. It took me over a year of watching PMs do their work to start to internalize some of the principles. While I was doing that, I wish I was asking more questions and reading material to build out my own PM toolbox.
 
 Also, let’s face it, agile is being hyped up a lot right now, and there’s a lot of training that isn’t focused on your context, work, or problems. Try to find training that promotes the principle of agility in your context, instead of (big “A” Agile) dogma.
+
 
 
