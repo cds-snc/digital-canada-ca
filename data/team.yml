@@ -231,6 +231,7 @@ team:
     title:
       en: Design
       fr: Conception
+    processed: 1563897823753
   - archived: false
     email: Bryan.Willey@tbs-sct.gc.ca
     github: 'https://github.com/willeybryan'
@@ -349,13 +350,14 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: hillarylorimer
- - archived: false
+  - archived: false
     email: jeana.frost@tbs-sct.gc.ca
     image-name: /img/cds/jeana-frost.jpg
     name: Jeana Frost
     title:
       en: Design
-      fr: Conception    
+      fr: Conception
+    processed: 1563897907340
   - archived: false
     email: jeff.maher@tbs-sct.gc.ca
     github: jeffmaher
@@ -660,15 +662,16 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: vchanimal
-- archived: false
+  - archived: false
     email: yael.berger@tbs-sct.gc.ca
-    linkedin : yael-berger-5791a455
+    linkedin: yael-berger-5791a455
     image-name: /img/cds/yael-berger.jpg
     name: Yael Berger
     title:
       en: Outreach
       fr: Liaison et diffusion
     twitter: yaelberger
+    processed: 1563897966304
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.jpg
