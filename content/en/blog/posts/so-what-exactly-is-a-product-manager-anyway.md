@@ -6,7 +6,7 @@ description: >-
   delivery in government, and find out how product management differs from
   project management.
 author: 'Bryan Willey, Clémentine Hahn, Courtney Claessens, Dan Tse, Stevie-Ray Talbot'
-date: 2019-07-22T18:49:38.655Z
+date: 2019-07-23T13:00:00.000Z
 image: /img/cds/product-managers-10July2019.jpg
 image-alt: >-
   A team of 5 smiling CDS distributed product managers: 4 in a video chat and 1
