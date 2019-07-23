@@ -225,6 +225,13 @@ team:
     twitter: adriannehlee
     processed: 1560521882135
   - archived: false
+    email: brian.hendrick@tbs-sct.gc.ca
+    image-name: /img/cds/brian-hendrick.jpg
+    name: Brian Hendrick
+    title:
+      en: Design
+      fr: Conception
+  - archived: false
     email: Bryan.Willey@tbs-sct.gc.ca
     github: 'https://github.com/willeybryan'
     image-name: /img/cds/bryan-willey.jpg
@@ -342,6 +349,13 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: hillarylorimer
+ - archived: false
+    email: jeana.frost@tbs-sct.gc.ca
+    image-name: /img/cds/jeana-frost.jpg
+    name: Jeana Frost
+    title:
+      en: Design
+      fr: Conception    
   - archived: false
     email: jeff.maher@tbs-sct.gc.ca
     github: jeffmaher
@@ -646,6 +660,15 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: vchanimal
+- archived: false
+    email: yael.berger@tbs-sct.gc.ca
+    linkedin : yael-berger-5791a455
+    image-name: /img/cds/yael-berger.jpg
+    name: Yael Berger
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    twitter: yaelberger
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.jpg
