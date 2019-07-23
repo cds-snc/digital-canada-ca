@@ -36,9 +36,9 @@ languages:
         name: Read the blog
         url: /blog/
         weight: 5
-      - identifier: our-team
+      - identifier: meet-team
         name: Meet the team
-        url: /our-team/
+        url: /meet-team/
         weight: 3 
   fr:
     baseUrl: https://numerique.canada.ca/
