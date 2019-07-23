@@ -16,8 +16,7 @@ image-alt: >-
   dispersés de l’équipe de gestion de produits qui travaillent de Montréal,
   Waterloo, Toronto et Ottawa.
 translationKey: product-manager-QA
-thumb: ''
-processed: ''
+thumb: /img/cds/product-managers-10July2019.jpg
 ---
 
 Si vous tombez sur quelqu’un de très organisé, curieux, adaptatif, communicatif, empathique et passionné par l’élimination d’obstacles pour faire avancer les choses, vous venez de rencontrer soit un surhumain, soit un gestionnaire de produits.
