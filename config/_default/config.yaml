@@ -75,7 +75,7 @@ languages:
         name: Blogue
         url: /blogue/
         weight: 5
-      - identifier: notre-equipe
+      - identifier: rencontrez-lequipe
         name: Rencontrez l’équipe
-        url: /notre-equipe/
+        url: /rencontrez-lequipe/
         weight: 3
