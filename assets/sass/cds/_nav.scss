@@ -168,28 +168,6 @@
     text-decoration: none;
     position: relative;
 
-    // @include tablet {
-    //   color: $secondary-color;
-    //   font-size: 2rem;
-    //   margin: 0 1.25rem 0.25rem 1.25rem;
-
-    //   .fr & {
-    //     font-size: 2rem;
-    //     padding-left: 0em;
-    //     padding-right: 0em;
-    //   }
-    // }
-
-    // @include desktop {
-    //   font-size: 2rem;
-
-    //   .fr & {
-    //     font-size: 2rem;
-    //     padding-left: 0em;
-    //     padding-right: 0em;
-    //   }
-    // }
-
     // replacing the above previous styles
     @include menu_break {
       color: $secondary-color;
