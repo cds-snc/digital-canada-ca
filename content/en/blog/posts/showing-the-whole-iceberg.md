@@ -36,7 +36,7 @@ We, of course, have this [blog](https://digital.canada.ca/blog/) and a mirrored 
 
 We also have a [products page](https://digital.canada.ca/products/), where you can see what services we’ve shipped, and which we’re currently working on. 
 
-The CDS team is also active on social media, often sharing day-to-day “aha” moments. [Our team page](https://digital.canada.ca/our-team/) gives you access to personal Twitter and LinkedIn accounts to follow along the journey.
+The CDS team is also active on social media, often sharing day-to-day “aha” moments. [Our team page](/meet-the-team/) gives you access to personal Twitter and LinkedIn accounts to follow along the journey.
 
 ## Showing
 

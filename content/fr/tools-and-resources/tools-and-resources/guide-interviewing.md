@@ -9,5 +9,5 @@ contact:
 status: in-flight
 links:
   - name: Documentation
-    url: "/platform/guide-interviewing/"
+    url: "/outils-et-ressources/guide-entrevue/"
 ---
