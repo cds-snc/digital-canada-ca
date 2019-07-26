@@ -5,7 +5,7 @@ description: >-
   Civic Leave is an opportunity for a private sector employee to share their
   expertise by taking a tour of service with the public sector or civil society.
 author: 'Andrea Gillbrook, Head of Talent'
-date: 2019-07-26T13:45:00.165Z
+date: 2019-07-26T13:00:00.000Z
 image: /img/cds/aaron-snow.jpg
 image-alt: 'Photo of people side by side, each holding a maple leaf in their hand.'
 translationKey: civic-leave
