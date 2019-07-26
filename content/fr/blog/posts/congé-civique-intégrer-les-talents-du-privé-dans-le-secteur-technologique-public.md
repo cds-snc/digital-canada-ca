@@ -9,7 +9,7 @@ description: >-
   dans la société civile.
 author: 'Andrea Gillbrook, chef du talent'
 date: 2019-07-26T13:00:00.000Z
-image: /img/cds/aaron-snow.jpg
+image: /img/cds/small-maple-leafs.jpg
 image-alt: >-
   Photo de personnes côte à côte, chacune tenant une feuille d'érable dans sa
   main.
