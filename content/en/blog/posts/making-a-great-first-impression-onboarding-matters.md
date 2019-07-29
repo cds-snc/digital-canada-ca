@@ -14,7 +14,8 @@ image-alt: >-
   A photo of Eman's desk on her first day that says "Bienvenue Eman" in sticky
   notes. The desk is covered in stickers, chocolates and confetti.
 translationKey: onboarding-matters
-thumb: /img/cds/onboarding-banner-fitted.jpg
+thumb: /img/cds/thumbnails/onboarding-banner-fitted.jpg
+processed: 1564420750507
 ---
 As a growing organization, we onboard new employees almost every week. While this is something we do regularly, it’s a once in a lifetime experience for the employee starting. A new job can be stressful, and the decision to stick with a job or move on is often made within the first few days. It’s vital that we create a great onboarding experience. We never want to lose sight of the fact that people are at the heart of what we do.
 
@@ -49,3 +50,4 @@ We check in with employees and their managers at the two and six month marks. Th
 The next issue we plan to tackle head on is the process to sign up for health benefits. Our hope is that by creating clear documentation and being available for troubleshooting, employees will have a significantly better (and faster) process of getting everything they need as a part of the CDS team. There’s always something we can  improve on and since  onboarding is about starting something new, why not make it spectacular?
 
 ![Three CDS members who play a role in the integration of new employees are side by side, with open arms and a smile on their faces.](/img/cds/onboarding-3.jpg)
+

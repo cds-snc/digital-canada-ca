@@ -15,7 +15,8 @@ image-alt: >-
   étant collés sur les moniteurs de façon à écrire «Bienvenue Eman», et le
   bureau étant recouvert d'autocollants, de chocolats et de confettis.
 translationKey: onboarding-matters
-thumb: /img/cds/onboarding-banner-fitted.jpg
+thumb: /img/cds/thumbnails/onboarding-banner-fitted.jpg
+processed: 1564420750598
 ---
 En tant qu’organisme en pleine expansion, nous accueillons de nouveaux employés quasiment toutes les semaines. S’il s’agit de routine pour nous, c’est un événement unique pour les employés qui commencent. Un nouvel emploi peut être stressant, et la décision de garder son poste ou de passer à autre chose se prend souvent lors des premiers jours. Il est donc essentiel que nous créions une excellente expérience d’intégration. Après tout, les personnes sont au cœur de notre travail — il ne faut pas l’oublier. 
 
@@ -50,3 +51,4 @@ Nous faisons le point avec les employés et leur gestionnaire au bout de deux et
 Le prochain enjeu auquel nous planifions nous attaquer, c’est l’inscription aux avantages sociaux. Nous espérons qu’en créant une documentation claire et qu’en étant présents pour dépanner, nous mettrons en œuvre un processus amélioré (et plus rapide) permettant aux employés d’obtenir tout ce dont ils ont besoin au SNC. Il existe toujours quelque chose que nous pouvons améliorer. Et puisque l’accueil des employés est synonyme de nouveauté, pourquoi ne pas tenter quelque chose de spectaculaire?
 
 ![Trois membres du SNC jouant un rôle lors de l'intégration de nouveaux employés sont côte à côte, les bras ouverts et le sourire au visage.](/img/cds/onboarding-3.jpg)
+
