@@ -37,5 +37,5 @@ We’ve all been pretty thrilled about the past week, and to see so many positiv
 
 In pockets throughout the government, individual public servants are doing really inspiring work in software development, design, and data analysis. We’re excited to shine a light on awesome work that others are doing, and to work and learn together.
 
-In the weeks ahead, we’ll be using this blog to share what we’re working on, and what we’re learning as CDS gets off the launchpad. If you have thoughts or feedback, we’d love to hear from you! Please don’t hesitate to get in touch - you can [find us on Twitter](https://twitter.com/CDS_GC) or [reach out to anyone](/our-team) on the team.
+In the weeks ahead, we’ll be using this blog to share what we’re working on, and what we’re learning as CDS gets off the launchpad. If you have thoughts or feedback, we’d love to hear from you! Please don’t hesitate to get in touch - you can [find us on Twitter](https://twitter.com/CDS_GC) or [reach out to anyone](/meet-the-team/) on the team.
 

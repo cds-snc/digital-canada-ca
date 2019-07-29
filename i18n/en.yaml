@@ -44,7 +44,7 @@ meet-the-full-team:
   other: "The full team"
 next-post:
   other: "Next post"
-our-team:
+meet-the-team:
   other: "Meet the team"
 partner:
   other: "Partner"
@@ -84,7 +84,7 @@ twitter:
   other: CDS_GC
 view-product:
   other: "View this product"
-work-with-us:
+join-our-team:
   other: "Join our team"
 what-we-do:
   other: "What we do"
@@ -92,7 +92,7 @@ featured-post:
   other: "Learn more about how we work"
 more-posts:
   other: "Read our blog"
-platform:
+tools-and-resources:
   other: "Tools and resources"
 the-platform-team:
   other: "The Platform Team"

@@ -60,5 +60,5 @@ Since using these tools across our projects, we discovered multiple accessibilit
 
 While we may not dream of electric sheep, I sleep better at night knowing that the information we use to make decisions is public and at the disposal of developers when they need it most. 
 
-If you or your team would like to know more about the tools or processes discussed above, please contact any of the authors of the tools directly on [Github](https://github.com/cds-snc) or [reach out to CDS](https://digital.canada.ca/our-team/) via your preferred medium.
+If you or your team would like to know more about the tools or processes discussed above, please contact any of the authors of the tools directly on [Github](https://github.com/cds-snc) or [reach out to CDS](/meet-the-team/) via your preferred medium.
 
