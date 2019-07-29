@@ -9,7 +9,7 @@ description: >-
   Il s’avère que ça prenait de la recherche, des découvertes et des tests.
 author: Jessica Loadenthal et Alexa Davidson
 date: 2019-07-29T13:00:00.000Z
-image: /img/cds/onboarding-banner.jpg
+image: /img/cds/onboarding-banner-fitted.jpg
 image-alt: >-
   Une photo du bureau d'Eman lors de sa première journée, des papillons adhésifs
   étant collés sur les moniteurs de façon à écrire «Bienvenue Eman», et le
