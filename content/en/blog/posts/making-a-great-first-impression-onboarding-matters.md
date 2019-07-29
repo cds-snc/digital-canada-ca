@@ -39,7 +39,7 @@ Multiple team members help make day one successful. Our Internal Operations Team
 
 ![A photo of Kate's work station on her first day, specifically four sticky notes that read KATE, three pens, a notebook with Kate's name, a CDS sticker, and sticky notes.](/img/cds/onboarding-2.jpg)
 
-One very important thing we do is let the rest CDS know when a new staffer is joining us. We use a coming soon/now playing board on a wall in the head office in Ottawa. This means that everyone is ready to make a new hire feel welcomed. 
+One very important thing we do is let the rest of CDS know when a new staffer is joining us. We use a coming soon/now playing board on a wall in the head office in Ottawa. This means that everyone is ready to make a new hire feel welcomed. 
 
 Making sure the new CDS staff get off on the right foot, the first week, also includes meetings with key team members, coffee chats with the COO, an introduction at our weekly all-staff meeting, lunch with their team, and a meeting with an onboarding buddy to help them learn the ins and outs of CDS culture. 
 
