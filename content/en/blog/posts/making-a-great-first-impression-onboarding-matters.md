@@ -14,8 +14,7 @@ image-alt: >-
   A photo of Eman's desk on her first day that says "Bienvenue Eman" in sticky
   notes. The desk is covered in stickers, chocolates and confetti.
 translationKey: onboarding-matters
-thumb: ''
-processed: ''
+thumb: /img/cds/onboarding-banner-fitted.jpg
 ---
 As a growing organization, we onboard new employees almost every week. While this is something we do regularly, it’s a once in a lifetime experience for the employee starting. A new job can be stressful, and the decision to stick with a job or move on is often made within the first few days. It’s vital that we create a great onboarding experience. We never want to lose sight of the fact that people are at the heart of what we do.
 
