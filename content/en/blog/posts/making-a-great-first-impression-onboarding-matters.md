@@ -9,7 +9,7 @@ description: >-
   some testing.
 author: Jessica Loadenthal and Alexa Davidson
 date: 2019-07-29T13:00:00.000Z
-image: /img/cds/onboarding-banner.jpg
+image: /img/cds/onboarding-banner-fitted.jpg
 image-alt: >-
   A photo of Eman's desk on her first day that says "Bienvenue Eman" in sticky
   notes. The desk is covered in stickers, chocolates and confetti.
