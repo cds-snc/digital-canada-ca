@@ -7,7 +7,7 @@ description: >-
   Le congé civique, c’est l’occasion pour un employé du secteur privé de
   partager son expertise lors d’une période de service dans le secteur public ou
   dans la société civile.
-author: 'Andrea Gillbrook, chef du talent'
+author: 'Andrea Gilbrook, chef du talent'
 date: 2019-07-26T13:00:00.000Z
 image: /img/cds/small-maple-leafs.jpg
 image-alt: >-
