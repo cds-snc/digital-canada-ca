@@ -9,7 +9,8 @@ date: 2019-07-30T13:00:00.000Z
 image: /img/cds/pspc-team-1.jpg
 image-alt: A photo of PSPC’s Design Research team.
 translationKey: emilio-pspc
-thumb: /img/cds/pspc-team-1.jpg
+thumb: /img/cds/thumbnails/pspc-team-1.jpg
+processed: 1564604599900
 ---
 When we talk about service design in government, the conversation is focused on creating amazing citizen-facing services. This is true to our core purpose - we work to serve citizens and therefore need to create services that put citizens at their core.
 
@@ -64,3 +65,4 @@ I’m encouraged to see the beginnings of a focused effort to apply service desi
 - - -
 
 Want to know more about how CDS hires researchers? You can find job posting for [Design Researchers](https://cds-snc.github.io/talent/design-researcher/) and [Quantitative Design Researchers](https://cds-snc.github.io/talent/quantitative-design-researcher/) on the [CDS Talent Handbook](https://cds-snc.github.io/talent/home/). Additionally, feel free to reach out to CDS’s Talent team at [CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca](maito:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca) for more details.
+
