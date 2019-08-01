@@ -14,7 +14,8 @@ image-alt: >-
   Cinq cactus de couleur différente (orange, rouge, vert, rose et jaune) placés
   côte à côte dans des pots blancs et devant un fond blanc.
 translationKey: validation-testing-cra
-thumb: /img/cds/colourful-cactuses.jpg
+thumb: /img/cds/thumbnails/colourful-cactuses.jpg
+processed: 1564689903502
 ---
 Placer les gens au centre de notre travail, c’est aussi avoir confiance qu’ils sont les experts de leur contexte et de leurs besoins. 
 
@@ -54,3 +55,4 @@ Même après avoir trouvé une solution basée sur la recherche avec les gens qu
 À mesure que nous avançons en phase bêta avec notre projet, nous nous attendons à tester cette hypothèse à maintes reprises. Nous prévoyons effectuer d’autres itérations en menant des recherches supplémentaires et en utilisant des méthodes comme les tests d’utilisabilité. 
 
 Vous voulez en savoir plus sur les tests de validation et la façon de les intégrer à votre travail? Communiquez avec nous par [courriel](mailto:cds-snc@tbs-sct.gc.ca) ou sur [Twitter](https://twitter.com/SNC_GC). Nous serons ravis d’échanger avec vous.
+
