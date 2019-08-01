@@ -1,13 +1,13 @@
 ---
 layout: blog
-title: 'Tests de validation : une façon de remettre en question ses hypothèses'
-description: 'Hillary Lorimer, chercheuse en conception'
-author: >-
+title: 'Tests de validation: une façon de remettre en question ses hypothèses'
+description: >-
   Le recours aux tests de validation pour déceler les problèmes fondamentaux
   liés au concept de service de base permet à notre équipe de savoir si nous
   allons dans la bonne direction dès le début, ce qui, en définitive, limite les
   risques, tout en faisant gagner du temps et en économiser de l’argent à long
   terme.
+author: 'Hillary Lorimer, chercheuse en conception'
 date: 2019-07-31T20:09:21.155Z
 image: /img/cds/colourful-cactuses.jpg
 image-alt: >-
