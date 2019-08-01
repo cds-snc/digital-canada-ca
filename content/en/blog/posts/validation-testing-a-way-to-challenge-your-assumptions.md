@@ -12,8 +12,8 @@ image-alt: >-
   Five different-coloured cactuses (orange, red, green, pink and yellow)
   arranged side by side in white pots, in front of a white background.
 translationKey: validation-testing-cra
-thumb: ''
-processed: ''
+thumb: /img/cds/thumbnails/colourful-cactuses.jpg
+processed: 1564664417278
 ---
 Putting people at the centre of our work means trusting that they’re the experts of their own contexts and needs. 
 
@@ -53,3 +53,4 @@ Even after we come up with a solution based on research with the people who woul
 As we move forward with our project into Beta, we expect to test that hypothesis over and over. We plan to iterate further with more research, using methods such as usability testing. 
 
 Want to learn more about validation testing and how to incorporate it into your work? [Email us](mailto:cds-snc@tbs-sct.gc.ca) or reach out on [Twitter](https://twitter.com/CDS_GC) - we’d love to hear from you.
+
