@@ -12,8 +12,7 @@ image-alt: >-
   Five different-coloured cactuses (orange, red, green, pink and yellow)
   arranged side by side in white pots, in front of a white background.
 translationKey: validation-testing-cra
-thumb: /img/cds/thumbnails/colourful-cactuses.jpg
-processed: 1564664417278
+thumb: /img/cds/colourful-cactuses.jpg
 ---
 Putting people at the centre of our work means trusting that they’re the experts of their own contexts and needs. 
 
