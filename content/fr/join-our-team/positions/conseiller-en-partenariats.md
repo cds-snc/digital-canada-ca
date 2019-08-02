@@ -29,7 +29,8 @@ En tant qu’équipe des partenariats, nous sommes les jeteurs de ponts du SNC. 
 * Vous êtes un penseur créatif qui utilise la recherche pour améliorer sa compréhension, qui déconstruit les problèmes et qui sait trouver des opportunités 
 * Vous savez élaborer des recommandations réfléchies, défendre des décisions difficiles et fournir des conseils à des leaders expérimentés des secteurs public et privé
 * Vous restez calme sous pression, savez comment établir les priorités et travaillez en équipe
-* Vous parlez couramment le français et l’anglais (dans le langage du gouvernement, nous recherchons une personne de niveau CBC)
+* Vous parlez couramment le français et l’anglais (dans le langage du gouvernement, nous recherchons une personne de niveau CBC) 
+
 
 Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisation et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! Dites nous pourquoi vous êtes la personne idéale pour ce poste.
 

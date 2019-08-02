@@ -34,7 +34,8 @@ As the Partnerships Team, we’re the bridge builders at CDS. We grow the organi
 * You’re a creative thinker who uses research to improve your understanding, breaks down problems and finds opportunities 
 * You’re experienced at making reasoned recommendations, defending difficult decisions and providing advice to senior leaders in the public and private sectors
 * You remain calm under pressure, know how to prioritize, and work as part of a team
-* You’re fluent in French and English (in government speak, we’re looking for CBC)
+* You’re fluent in French and English (in government speak, we’re looking for CBC) 
+
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
  
 ## At CDS, we don’t just accept difference - we celebrate it.
