@@ -5,8 +5,8 @@ title: Partnerships Advisor
 description: >-
   If you’re ready to work as part of a small team, help CDS build a broader
   community, and deliver the greatest public value through our partnerships,
-  this is the role for you.
-archived: true
+  this is the role for you. 
+archived: false
 leverId: 3c266582-2e1b-4ad2-ac93-7f7216435120
 translationKey: partnerships-advisor
 ---
