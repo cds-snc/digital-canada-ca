@@ -31,6 +31,7 @@ En tant qu’équipe des partenariats, nous sommes les jeteurs de ponts du SNC. 
 * Vous restez calme sous pression, savez comment établir les priorités et travaillez en équipe
 * Vous parlez couramment le français et l’anglais (dans le langage du gouvernement, nous recherchons une personne de niveau CBC)
 
+
 Nous reconnaissons que chaque personne peut apporter des compétences et des expériences différentes à notre organisation et que personne ne répond parfaitement à toutes les exigences. Postulez quand même! Dites nous pourquoi vous êtes la personne idéale pour ce poste.
 
 ## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
