@@ -15,8 +15,7 @@ image-alt: >-
   Photo d’une main tenant un crayon et écrivant une liste avec des cases à
   cocher dans un calepin.
 translationKey: service-assessments
-thumb: ''
-processed: ''
+thumb: /img/cds/checklist.jpg
 ---
 Il faut une communauté de pratique pour transformer les services gouvernementaux. L’an dernier, le gouvernement du Canada a présenté ses [normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html). Il s’agit d’un ensemble de principes visant à aider les équipes à offrir des services numériques de meilleure qualité aux Canadiens. Depuis leur publication, le Service numérique canadien (SNC) examine comment les ministères peuvent s’évaluer en fonction des normes.
 
