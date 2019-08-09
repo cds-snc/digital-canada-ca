@@ -11,8 +11,6 @@ archived: false
 leverId: 009af27c-525c-47ea-8161-850273915cb6
 translationKey: head-product-management
 ---
-## We're hiring
-
 The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. We’re transforming government from the inside with simple, reliable products that make people’s lives better. It’s an exciting thing to be part of.
 
 Our multidisciplinary teams have the agency and autonomy to solve meaningful problems with proper agile flows and high-quality tooling. The CDS product portfolio has grown steadily with room for more. We need a Head of Product Management to coordinate this work and raise our game further.

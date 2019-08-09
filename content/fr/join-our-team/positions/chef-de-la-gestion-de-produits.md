@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: 'Chef de la gestion de produits '
+title: Chef de la gestion de produits
 description: >-
   Le nombre de gestionnaires de produits augmente au SNC et dans l’ensemble du
   gouvernement du Canada. Il nous faut donc quelqu’un pour promouvoir cette
@@ -12,8 +12,6 @@ archived: false
 leverId: 8fb5b5b7-7315-4b5a-a98d-8364321cf98f
 translationKey: head-product-management
 ---
-## Nous embauchons
-
 Au Service numérique canadien (SNC), nous visons à offrir des services publics améliorés, en recourant aux meilleures technologies et conceptions et en nous fondant sur les besoins des personnes. Nous transformons le gouvernement de l’intérieur en mettant au point des produits simples et fiables qui améliorent la vie des gens. Faire partie de notre mission, c’est passionnant.
 
 Nos équipes multidisciplinaires disposent des moyens et de l’autonomie nécessaires pour résoudre des problèmes importants grâce à des flux agiles et adéquats, et grâce à des outils de haute qualité. Le portfolio de produits du SNC n’a cessé de croître, et bien d’autres produits restent à venir. Nous avons besoin d’un chef de la gestion de produits pour coordonner ce travail et passer à la vitesse supérieure.     
