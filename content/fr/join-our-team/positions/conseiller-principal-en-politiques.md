@@ -6,7 +6,7 @@ description: >-
   Les membres de l’équipe des politiques sont les pirates bureaucratiques et les
   navigateurs gouvernementaux du SNC, assurant la prestation numérique avec nos
   partenaires et autres intervenants.
-archived: false
+archived: true
 translationKey: sr-policy-advisor
 leverId: 1d190edf-e5f8-403b-bf31-8d5e9fa72921
 ---
