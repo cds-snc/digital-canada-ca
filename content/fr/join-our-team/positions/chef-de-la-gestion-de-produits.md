@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: 'Chef de la gestion de produits '
+title: Chef de la gestion de produits
 description: >-
   Le nombre de gestionnaires de produits augmente au SNC et dans l’ensemble du
   gouvernement du Canada. Il nous faut donc quelqu’un pour promouvoir cette
