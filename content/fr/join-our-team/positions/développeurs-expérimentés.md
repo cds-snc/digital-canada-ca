@@ -2,7 +2,7 @@
 layout: job-posting
 type: section
 title: Développeurs expérimentés
-description: 'Nous recherchons des développeurs expérimentés et dévoués pour faire grandir '
+description: 'Nous recherchons des développeurs expérimentés et dévoués pour faire grandir.'
 archived: false
 translationKey: sr-dev
 leverId: 1c2e54d9-be1f-468b-bf64-b4a50769d8d9
