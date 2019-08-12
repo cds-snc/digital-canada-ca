@@ -9,7 +9,7 @@ leverId: 3bd6f7cd-339b-48a3-8d9e-e50b40dc4ecf
 ---
 We’re transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. We need you.
 
-The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. We’re hiring people at all levels of experience in Ottawa, Toronto, Waterloo, and Montreal.
+The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. We’re hiring in Ottawa, Toronto, Waterloo, and Montreal.
 
 ## We’re looking for dedicated Senior Developers to join our team.
 
