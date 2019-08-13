@@ -1,10 +1,11 @@
 ---
 title: Why Canada needs a digital service
 description: >-
-  That’s why we created CDS. We need a digital team that can demonstrate the art
-  of the possible. A team that can get a working prototype into people’s hands
-  quickly to see how it works and improve it based on user feedback. We need to
-  put real people’s needs at the centre of how we design government services.
+  That’s why we created CDS . We need a digital team that can demonstrate the
+  art of the possible. A team that can get a working prototype into people’s
+  hands quickly to see how it works and improve it based on user feedback. We
+  need to put real people’s needs at the centre of how we design government
+  services.
 author: 'Pascale Elvas, Director'
 date: '2017-08-03 10:00:00 -0400'
 image: /img/cds/why-canada-needs-a-digital-service-2017.jpg
