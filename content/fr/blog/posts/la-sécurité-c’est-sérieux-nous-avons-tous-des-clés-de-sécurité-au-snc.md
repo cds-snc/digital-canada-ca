@@ -10,8 +10,7 @@ date: 2019-08-15T13:00:00.000Z
 image: /img/cds/yubikey-3.jpg
 image-alt: Une main qui appuie sur sa clé yubikey.
 translationKey: yubikey-post
-thumb: ''
-processed: ''
+thumb: /img/cds/yubikey-3.jpg
 ---
 J’ai peur, très peur! J’ai peur de me réveiller le matin et de constater que les ressources infonuagiques du Service numérique canadien (SNC) ont été vandalisées ou détruites parce qu’une personne mal intentionnée a mis la main sur les justificatifs d’identité de quelqu’un et a décidé de tout bousiller. Cette peur est réelle, et même les plus consciencieux d’entre nous sont vulnérables.
 
