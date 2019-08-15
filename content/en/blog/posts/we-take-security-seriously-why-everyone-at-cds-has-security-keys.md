@@ -28,7 +28,7 @@ So in more technical terms, when that gold button gets pressed, a challenge-resp
 
 ![Three four different security keys lined up, one of which is on a set of keys.](/img/cds/yubikey-2.jpg)
 
-We then rolled out two security keys to every employee allowing everyone to pick two types of keys that worked best for them. We also took the time to guide everyone through the process of integrating the security keys into their work and personal life. This one-on-one time was also used to have serious conversations about[password safety](https://www.canada.ca/en/government/system/digital-government/password-guidance.html), [software updates](https://cyber.gc.ca/en/patch-os-and-applications), and other [cyber hygiene](https://www.getcybersafe.gc.ca/) topics.
+We then rolled out two security keys to every employee allowing everyone to pick two types of keys that worked best for them. We also took the time to guide everyone through the process of integrating the security keys into their work and personal life. This one-on-one time was also used to have serious conversations about [password safety](https://www.canada.ca/en/government/system/digital-government/password-guidance.html), [software updates](https://cyber.gc.ca/en/patch-os-and-applications), and other [cyber hygiene](https://www.getcybersafe.gc.ca/) topics.
 
 I'm happy to report that we've had zero reported account takeovers at CDS and using security keys has helped keep it that way. Stay tuned as we figure out how else we can leverage our security keys to pragmatically eliminate certain types of threats.
 
