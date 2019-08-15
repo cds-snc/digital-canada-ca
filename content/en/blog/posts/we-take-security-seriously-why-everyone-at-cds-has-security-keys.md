@@ -17,6 +17,8 @@ I have fears; big, big fears. Fears of waking up in the morning and seeing the C
 
 But how does someone lose control of their credentials? Well, maybe somebody got your credentials because they watched you type them in, or maybe you’re guilty of reusing the same password everywhere (looking at you!) and that password was exposed in a data breach, or perhaps you just got good old fashioned phished. Either way, it’s known to happen and when it does it will be a big-time suck on your productivity. When this happens it can lead to data loss, or intellectual property theft, or maybe someone just silently manipulates all your incoming and outgoing communications, without you noticing. Maybe; maybe; maybe.
 
+![A man in a red shirt with a lanyard on. Hanging from the lanyard is his ID and a security key.](/img/cds/yubikey-1.jpg)
+
 And according to the [2019 Verizon Data Breach Investigation Report](https://enterprise.verizon.com/resources/reports/2019-data-breach-investigations-report.pdf), 29 per cent of all reported security incidents involved the use of stolen credentials. _So the big question; can we eliminate this threat in a pragmatic way? Yes we can._
 
 ## What we did
