@@ -26,7 +26,7 @@ C’est là que j’interviens. Tout d’abord, notre équipe de sécurité a fa
 
 Donc, en termes plus techniques, lorsque vous appuyez sur le bouton doré, un exercice de questions-réponses est lancé au moyen de la cryptographie à clé publique entre la clé de sécurité et le fournisseur de services. Ce mécanisme a aussi pour effet caché d’éliminer efficacement la menace de prise de contrôle des comptes par hameçonnage et fuites de justificatifs.
 
-![Quatre différentes clés de sécurité côte à côte, l’une d’entre elles étant attachée à un porte-clés.](/img/cds/yubikey-2.jpg)
+![Quatre différentes clés de sécurité côte à côte, l’une d’entre elles étant attachée à un porte-clés.](/img/cds/yubikey-4.jpg)
 
 Nous avons ensuite remis deux clés de sécurité à chaque membre, ce qui permet aux employés de choisir le type de clé qui leur convient le mieux. Nous avons de plus pris le temps d’aider tout le monde à intégrer les clés de sécurité à leur travail et à leur vie personnelle. Ces rencontres individuelles ont aussi servi à avoir des conversations sérieuses sur la [sécurité des mots de passe](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/orientation-sur-mots-passe.html), les [mises à jour logicielles](https://cyber.gc.ca/fr/correctifs-aux-applications-et-aux-se) et d’autres sujets liés à la [cyberhygiène](https://www.pensezcybersecurite.gc.ca/). 
 

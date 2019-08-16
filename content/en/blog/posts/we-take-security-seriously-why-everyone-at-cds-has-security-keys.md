@@ -26,7 +26,7 @@ This is where I come in. First, our team did some research and quickly realized 
 
 So in more technical terms, when that gold button gets pressed, a challenge-response exercise is initiated using public-key cryptography between the security key and the service provider. Behind the scenes, this effectively eliminates the threat of account takeover from phishing and leaked credentials.
 
-![Three four different security keys lined up, one of which is on a set of keys.](/img/cds/yubikey-2.jpg)
+![Three four different security keys lined up, one of which is on a set of keys.](/img/cds/yubikey-4.jpg)
 
 We then rolled out two security keys to every employee allowing everyone to pick two types of keys that worked best for them. We also took the time to guide everyone through the process of integrating the security keys into their work and personal life. This one-on-one time was also used to have serious conversations about [password safety](https://www.canada.ca/en/government/system/digital-government/password-guidance.html), [software updates](https://cyber.gc.ca/en/patch-os-and-applications), and other [cyber hygiene](https://www.getcybersafe.gc.ca/) topics.
 
