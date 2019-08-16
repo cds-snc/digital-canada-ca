@@ -10,7 +10,8 @@ date: 2019-08-15T13:00:00.000Z
 image: /img/cds/yubikey-3.jpg
 image-alt: Une main qui appuie sur sa clé yubikey.
 translationKey: yubikey-post
-thumb: /img/cds/yubikey-3.jpg
+thumb: /img/cds/thumbnails/yubikey-3.jpg
+processed: 1565980653077
 ---
 J’ai peur, très peur! J’ai peur de me réveiller le matin et de constater que les ressources infonuagiques du Service numérique canadien (SNC) ont été vandalisées ou détruites parce qu’une personne mal intentionnée a mis la main sur les justificatifs d’identité de quelqu’un et a décidé de tout bousiller. Cette peur est réelle, et même les plus consciencieux d’entre nous sont vulnérables.
 
@@ -26,7 +27,7 @@ C’est là que j’interviens. Tout d’abord, notre équipe de sécurité a fa
 
 Donc, en termes plus techniques, lorsque vous appuyez sur le bouton doré, un exercice de questions-réponses est lancé au moyen de la cryptographie à clé publique entre la clé de sécurité et le fournisseur de services. Ce mécanisme a aussi pour effet caché d’éliminer efficacement la menace de prise de contrôle des comptes par hameçonnage et fuites de justificatifs.
 
-![Quatre différentes clés de sécurité côte à côte, l’une d’entre elles étant attachée à un porte-clés.](/img/cds/yubikey-2.jpg)
+![Quatre différentes clés de sécurité côte à côte, l’une d’entre elles étant attachée à un porte-clés.](/img/cds/yubikey-4.jpg)
 
 Nous avons ensuite remis deux clés de sécurité à chaque membre, ce qui permet aux employés de choisir le type de clé qui leur convient le mieux. Nous avons de plus pris le temps d’aider tout le monde à intégrer les clés de sécurité à leur travail et à leur vie personnelle. Ces rencontres individuelles ont aussi servi à avoir des conversations sérieuses sur la [sécurité des mots de passe](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/orientation-sur-mots-passe.html), les [mises à jour logicielles](https://cyber.gc.ca/fr/correctifs-aux-applications-et-aux-se) et d’autres sujets liés à la [cyberhygiène](https://www.pensezcybersecurite.gc.ca/). 
 
@@ -37,3 +38,4 @@ Je suis heureux de vous annoncer qu’aucune prise de contrôle de comptes n’a
 Si vous redoutez l’idée de tout nettoyer après un incident de prise de contrôle de compte, je vous recommande d’examiner de plus près comment les clés de sécurité matérielles conformes aux spécifications FIDO2 peuvent vous aider à revenir aux habitudes de sommeil précédant l’ère infonuagique.
 
 Bien que nous utilisions des clés de sécurité matérielles, ce n’est peut-être pas ce qui vous convient le mieux. Avant toute décision, nous vous recommandons de consulter cette récente [recherche de Google](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html) (en anglais) concernant l’efficacité des options d’authentification à deux facteurs. Cette étude fascinante indique que toutes les tentatives de prise de contrôle d’un compte ont échoué lorsque la personne utilisait exclusivement des clés de sécurité matérielles. À lire!
+
