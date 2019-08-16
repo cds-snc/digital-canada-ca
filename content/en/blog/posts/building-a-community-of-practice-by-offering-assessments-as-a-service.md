@@ -14,7 +14,8 @@ image-alt: >-
   A hand holding a pen and writing a checklist of empty black squares on a
   notebook.
 translationKey: service-assessments
-thumb: /img/cds/checklist.jpg
+thumb: /img/cds/thumbnails/checklist.jpg
+processed: 1565980652710
 ---
 It takes a community of practice to transform government services. Last year, the Government of Canada introduced its [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html). These are a set of principles to help teams deliver better quality digital services for Canadians. Since their release, CDS has been exploring how departments can assess themselves against the Standards.
 
@@ -43,3 +44,4 @@ Based on our experience, we would encourage other [Government of Canada departme
 In doing so, we would very soon build up a broader standard assessment community of practice capable of running independent, lightweight and blameless assessments that will lift the quality of service delivery for everyone.
 
 Are you interested in working with us or learning more about our Standards assessments? Get in touch through [email](mailto:cds-snc@tbs-sct.gc.ca) or [Twitter](https://twitter.com/CDS_GC) - we’d love to hear from you.
+

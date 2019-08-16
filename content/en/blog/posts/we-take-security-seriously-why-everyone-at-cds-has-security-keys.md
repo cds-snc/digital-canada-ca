@@ -10,7 +10,8 @@ date: 2019-08-15T13:00:00.000Z
 image: /img/cds/yubikey-3.jpg
 image-alt: A hand pushing their yubikey.
 translationKey: yubikey-post
-thumb: /img/cds/yubikey-3.jpg
+thumb: /img/cds/thumbnails/yubikey-3.jpg
+processed: 1565980652891
 ---
 I have fears; big, big fears. Fears of waking up in the morning and seeing the Canadian Digital Service’s cloud assets vandalized or destroyed because some bad actor got a hold of someone's credentials and decided to muck around. Hey, this fear is real and even the most conscientious of us are vulnerable.
 
@@ -37,3 +38,4 @@ I'm happy to report that we've had zero reported account takeovers at CDS and us
 If you dread the thought of cleaning up after an account takeover incident, I recommend taking a deeper look into how hardware-based security keys that support the FIDO2 specifications can help you return to those pre-cloud sleeping patterns.
 
 Though we use hardware-based security keys, it may not be the best option for you. Before making any decisions we recommend reviewing [Google's recent research](https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html) on the effectiveness of two-factor authentication options. This fascinating research states that all attempts to take over an individuals account failed, if that user was exclusively using hardware based security keys. It's a great read.
+
