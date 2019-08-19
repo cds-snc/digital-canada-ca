@@ -84,28 +84,27 @@ p, main ul, main ol {
 			line-height : 1.35em;
 		}
 
-		@include desktop {
-				font-size	: 3rem;
-				font-weight : 100;
-		}
-
 		@include tv {
-			font-size 	: 3.5rem;
+			font-size: 3rem;
+		}
+
+		@include desktop {
+			font-size	: 3.5rem;
 		}
 	}
 }
 
-main p + ul {
-	margin-top:-0.5rem;
+// main p + ul {
+// 	margin-top:-0.5rem;
 
-	@include tablet {
-		margin-top:-1.0rem;
-	}
+// 	@include tablet {
+// 		margin-top:-1.0rem;
+// 	}
 
-	@include desktop {
-		margin-top:-2rem;
-	}
-}
+// 	@include desktop {
+// 		margin-top:-2rem;
+// 	}
+// }
 
 h1, .h1 {
         padding: 0;
@@ -162,11 +161,9 @@ h3 {
 }
 
 .section {
-	padding: 6rem 0;
+	padding: 3rem 0;
 	position: relative;
 	z-index: 0;
-//    max-width: 800px;
-//    margin: auto;
 }
 
 .section--title {

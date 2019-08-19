@@ -1278,30 +1278,34 @@ article.post {
   //	this class is only applied to pages with page-wide layout and home layout (they can't have full-page containers, so sections need to be styled individually)
   //currently it's only applied to "Our Team", "What We Do" and "Engagement Report" sections, as intro for Home and Work With Us both needed their own top-padding to match the other pages
 
-  @include mobile-only {
-    padding: 3rem 1rem;
-  }
+  // @include mobile-only {
+  //   padding: 3rem 1rem;
+  //   background: blue;
+  // }
 
-  @include desktop {
-    padding-left: 9.5rem;
-    padding-right: 9.5rem;
-  }
+  // @include desktop {
+  //   padding-left: 9.5rem;
+  //   padding-right: 9.5rem;
+  // }
+  width: 95%;
+  margin: 0 auto;
+  padding-top: 3rem;
 }
 
 .page-intro--outer-container-padding {
   //	used on all pages that don't use the page template (no container), as well as 'Our Team', while the team images remain their current width
-  padding-top: 4rem;
-  padding-bottom: 2rem;
+  // padding-top: 4rem;
+  // padding-bottom: 2rem;
 
-  @include mobile-only {
-    padding: 3rem 1rem;
-  }
+  // @include mobile-only {
+  //   padding: 3rem 1rem;
+  // }
 
-  @include desktop {
-    padding-top: 8rem;
-    padding-left: 9.5rem;
-    padding-right: 9.5rem;
-  }
+  // @include desktop {
+  //   padding-top: 8rem;
+  //   padding-left: 9.5rem;
+  //   padding-right: 9.5rem;
+  // }
 }
 
 .page-blog--container-padding {
