@@ -15,8 +15,7 @@ image-alt: >-
   Vue aérienne de 4 coureurs à relais parcourant une piste dotée de 4 voies
   parallèles.
 translationKey: relay-race-ama
-thumb: ''
-processed: ''
+thumb: /img/cds/ama-thumb.jpg
 ---
 Imaginez que vous êtes le premier coureur d’une course à relais de 400 m. Vous vous placez en position de départ. On donne le signal, et vous vous lancez aussitôt dans un sprint en ne ménageant aucun effort. En vous approchant de la marque des 100 m, vous vous apercevez que personne n’est prêt à prendre le relais. Oh non! Vous devez maintenant continuer sur la même lancée et poursuivre ce sprint jusqu’à la fin de la course. 
 
