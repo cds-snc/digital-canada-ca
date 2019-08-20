@@ -21,7 +21,9 @@
     @include mobile_only {
       padding: 0;
 
-      .row { width: 100%; }
+      .row { 
+        width: 100%; 
+      }
     }
     
   }
@@ -162,9 +164,13 @@
   position    : absolute;
   text-align  : center;
   width       : 100%;
+  margin-top: 7rem;
+
+  @include mobile_only {
+    margin-top: 3rem;
+  }
 
   @include tablet {
-    margin-top : 10rem;
     text-align : left;
     top        : 10%;
   }
