@@ -108,8 +108,7 @@ h1, .h1 {
         font-weight: 100;
         font-family: "HKGrotesk", sans-serif;
         border-bottom: none;
-		// color: $white;
-		color: red;
+		color: $white;
         font-size   : 3rem;
     	line-height : 1.2em;
 
@@ -117,22 +116,22 @@ h1, .h1 {
           padding: 1.5rem 1.5rem;
         }
 
-        @include tablet {
+        // @include tablet {
         //   margin-top: 0.5rem;
         //   font-size: 7rem;
-          //line-height: 8rem;
-        }
+        //   line-height: 8rem;
+        // }
 
-        @include desktop {
-        	// font-size: 9rem;
-        	// line-height: 9rem;
-        }
+        // @include desktop {
+        // 	font-size: 9rem;
+        // 	line-height: 9rem;
+        // }
 
-        @include tv {
+        // @include tv {
         //   margin-top: 1.5rem;
         //   font-size: 10rem;
-          //line-height: 10rem;
-        }
+        //   line-height: 10rem;
+		// }
       }
 
 h2 {
@@ -161,13 +160,18 @@ h3 {
 	padding: 6rem 0;
 	position: relative;
 	z-index: 0;
+
+	@include mobile_only {
+		padding: 3rem 0;
+	}
 }
 
 .section--title {
 	font-size: 3rem;
 	font-weight:100;
 	position: relative;
-	margin: 1.5rem 0 3.5rem 0 ;
+	// margin: 1.5rem 0 3.5rem 0;
+	margin: 0 0 3.5rem 0;
 	padding: 0;
 	text-align: center;
 

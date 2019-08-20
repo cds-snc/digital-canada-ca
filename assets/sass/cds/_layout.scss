@@ -21,11 +21,10 @@
     @include mobile_only {
       padding: 0;
 
-      .row { 
-        width: 100%; 
-      }
+      // .row { 
+      //   width: 100%; 
+      // }
     }
-    
   }
 
   .fip-logo:after {
@@ -108,31 +107,31 @@
     }
   }
 
-  h1 {
-    border-bottom   : none;
-    color           : $white;
-    font-family     : "HKGrotesk", sans-serif;
-    font-weight     : 100;
-    margin          : 1.5rem;
-    padding         : 0;
+  // h1 {
+  //   border-bottom   : none;
+  //   color           : $white;
+  //   font-family     : "HKGrotesk", sans-serif;
+  //   font-weight     : 100;
+  //   margin          : 1.5rem;
+  //   padding         : 0;
     
-    @include tablet {
-      font-size   : 4rem;
-      line-height : 4.25rem;
-      margin-top  : 0.5rem;
-    }
+  //   @include tablet {
+  //     font-size   : 4rem;
+  //     line-height : 4.25rem;
+  //     margin-top  : 0.5rem;
+  //   }
 
-    @include desktop {
-      font-size   : 4.5rem;
-      line-height : 5rem;
-    }
+  //   @include desktop {
+  //     font-size   : 4.5rem;
+  //     line-height : 5rem;
+  //   }
 
-    @include tv {
-      font-size   : 4.75rem;
-      line-height : 5.5rem;
-      margin-top  : 0.25rem;
-    }
-  }
+  //   @include tv {
+  //     font-size   : 4.75rem;
+  //     line-height : 5.5rem;
+  //     margin-top  : 0.25rem;
+  //   }
+  // }
 
   // Page Banner for Front Page
   .home &, .accueil & {
@@ -164,10 +163,10 @@
   position    : absolute;
   text-align  : center;
   width       : 100%;
-  margin-top: 7rem;
+  margin-top: 9rem;
 
   @include mobile_only {
-    margin-top: 3rem;
+    margin-top: 3.5rem;
   }
 
   @include tablet {
@@ -183,25 +182,66 @@
   .h1 {
     border-bottom: none !important;
     line-height: 1.25em;
-    @include tablet { font-size: 3rem; }
-    @include tv { font-size: 3.5rem; }
-    @include desktop { font-size: 3.75rem; line-height: 1.35; }
+
+    @include tablet { 
+      font-size: 3rem; 
+    }
+
+    // @include tv { 
+    //   font-size: 3.5rem; 
+    // }
+
+    @include desktop { 
+      font-size: 3.75rem; 
+      line-height: 1.35; }
   }
 
 }
 
 .page-banner--tag-line--logo {
-  
   height:12rem;
-  @include tv { height: 14rem; }
-  @include desktop { height: 16rem; }
+
+  @include tv { 
+    height: 14rem; 
+  }
+
+  @include desktop { 
+    height: 16rem; 
+  }
 }
 
 .page-banner--tag-line--logo-container {
-  @include desktop { width: 28%; }
-  @media ( min-width: 1200px ) {
-    width: 25%
+  // @media ( min-width: 1200px ) {
+  //   width: 21.5%;
+  // }
+
+  // @include desktop { 
+  //   width: 20%; 
+  // }
+
+  // @include tv {
+  //   width: 28%;
+  // }
+
+  @media ( min-width: 900px ) {
+    width: 20%;
+    margin-right: 20px;
   }
+
+    @include tablet {
+      width: 25%;
+      margin-right: 15px;
+    }
+
+    // @media (max-width: 900px) {
+    //   background: green;
+    //   width: 25%;
+    // }
+
+    @include desktop {
+      width: 18%;
+      margin-right: 45px;
+    }
 }
 
 .page-banner--title {
