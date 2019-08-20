@@ -1261,16 +1261,16 @@ article.post {
 .page--outer-container-padding {
   //	adds 80px of padding (desktop) to the whole page for page layout (have an outer container) (80px + 15px totals 95px padding).
 
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 0rem;
+  // padding-bottom: 6rem;
 
   @include mobile-only {
-    padding: 3rem 1rem;
+    // padding: 3rem 1rem;
   }
 
-  @include desktop {
-    padding: 8rem;
-  }
+  // @include desktop {
+  //   padding: 8rem;
+  // }
 }
 
 .page-wide--outer-container-padding {

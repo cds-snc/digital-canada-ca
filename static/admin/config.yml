@@ -40,9 +40,9 @@ collections:
       - {label: "Body / Corps", name: "body", widget: "markdown"}
       - {label: "Thumbnail / La vignette", name: "thumb", widget: "hidden", default: "" }
       - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
-  - name: "work-with-us"
+  - name: "join-our-team"
     label: "(EN) Job Postings"
-    folder: "content/en/work-with-us/positions"
+    folder: "content/en/join-our-team/positions"
     create: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting" }
@@ -53,9 +53,9 @@ collections:
       - { label: "Job Id", name: "leverId", widget: "string"}
       - { label: "Posting ID / Identification de l’affichage", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
       - { label: "Body / Corps", name: "body", widget: "markdown"}
-  - name: "travaillez-avec-nous"
+  - name: "rejoindre-notre-equipe"
     label: "(FR) Carrières"
-    folder: "content/fr/work-with-us/positions"
+    folder: "content/fr/join-our-team/positions"
     create: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting" }

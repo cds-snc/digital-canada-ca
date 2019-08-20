@@ -84,12 +84,8 @@ p, main ul, main ol {
 			line-height : 1.35em;
 		}
 
-		@include tv {
-			font-size: 3rem;
-		}
-
 		@include desktop {
-			font-size	: 3.5rem;
+			font-size	: 3rem;
 		}
 	}
 }
@@ -112,7 +108,8 @@ h1, .h1 {
         font-weight: 100;
         font-family: "HKGrotesk", sans-serif;
         border-bottom: none;
-        color: $white;
+		// color: $white;
+		color: red;
         font-size   : 3rem;
     	line-height : 1.2em;
 
@@ -121,19 +118,19 @@ h1, .h1 {
         }
 
         @include tablet {
-          margin-top: 0.5rem;
-          font-size: 7rem;
+        //   margin-top: 0.5rem;
+        //   font-size: 7rem;
           //line-height: 8rem;
         }
 
         @include desktop {
-        	font-size: 9rem;
-        	//line-height: 9rem;
+        	// font-size: 9rem;
+        	// line-height: 9rem;
         }
 
         @include tv {
-          margin-top: 1.5rem;
-          font-size: 10rem;
+        //   margin-top: 1.5rem;
+        //   font-size: 10rem;
           //line-height: 10rem;
         }
       }
@@ -161,7 +158,7 @@ h3 {
 }
 
 .section {
-	padding: 3rem 0;
+	padding: 6rem 0;
 	position: relative;
 	z-index: 0;
 }
