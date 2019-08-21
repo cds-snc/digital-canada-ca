@@ -97,8 +97,7 @@
   @include desktop { height: 25rem; }
 
   .row {
-    width: 85%;
-    // padding-left: 20px;
+    width: 95%;
   }
 
   .page-blogpost & {
@@ -206,6 +205,7 @@
 
 .page-banner--tag-line--logo {
   height:12rem;
+  width: 100%;
 
   @include tv { 
     height: 14rem; 
@@ -216,38 +216,30 @@
   }
 }
 
-.page-banner--tag-line--logo-container {
-  // @media ( min-width: 1200px ) {
-  //   width: 21.5%;
-  // }
+.page-banner--container {
+  width: 70%;
+  margin: 0 auto;
 
-  // @include desktop { 
-  //   width: 20%; 
-  // }
-
-  // @include tv {
-  //   width: 28%;
-  // }
-
-  @media ( min-width: 900px ) {
-    width: 20%;
-    margin-right: 20px;
+  @include mobile_only {
+    width: 100%;
   }
+}
 
-    @include tablet {
-      width: 25%;
-      margin-right: 15px;
-    }
+.h1 {
+  width: calc(70% - (15px / 2));
 
-    // @media (max-width: 900px) {
-    //   background: green;
-    //   width: 25%;
-    // }
+  @include mobile_only {
+    width: 100%;
+  }
+}
 
-    @include desktop {
-      width: 18%;
-      margin-right: 45px;
-    }
+.page-banner--tag-line--logo-container {
+  width: calc(30% - (15px / 2));
+  margin-right: 15px;
+
+  @include mobile_only {
+    width: 100%;
+  }
 }
 
 .page-banner--title {
