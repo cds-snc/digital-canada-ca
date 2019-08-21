@@ -9,8 +9,8 @@ description: >-
   la façon de réutiliser nos outils et de transférer des connaissances
   techniques à l’ensemble du gouvernement.
 archived: false
-leverId: technical-writer
-translationKey: 40b0d153-f0a7-4268-8925-1b3bae2ba57e
+leverId: 40b0d153-f0a7-4268-8925-1b3bae2ba57e
+translationKey: technical-writer
 ---
 Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.
  
