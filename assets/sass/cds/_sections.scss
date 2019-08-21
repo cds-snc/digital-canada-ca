@@ -1024,13 +1024,17 @@ span.livefr {
   padding: 0;
   list-style: none;
 
+  .post:first-child {
+    padding-top: 0;
+  }
+
   .post {
-    padding: 4rem 0;
+    padding: 3rem 0rem;
     border-bottom: #ccc 1px solid;
 
-    @include tablet {
-      padding: 4rem 2rem;
-    }
+    // @include tablet {
+    //   padding: 4rem 0rem;
+    // }
   }
 
   .date {
