@@ -96,8 +96,14 @@
   @include tablet  { height: 20rem; }
   @include desktop { height: 25rem; }
 
+  .row {
+    width: 85%;
+    // padding-left: 20px;
+  }
+
   .page-blogpost & {
     height: 25rem;
+
     @include tablet {
       height: 30rem;
     }

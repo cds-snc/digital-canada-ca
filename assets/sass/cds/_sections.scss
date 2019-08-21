@@ -1321,17 +1321,17 @@ article.post {
 
 .page-blog--container-padding {
   //	currently blog width is diff than rest - this only affects top and bottom padding of the whole page
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  // padding-top: 4rem;
+  // padding-bottom: 4rem;
 
-  @include mobile-only {
-    padding-top: 3rem;
-  }
+  // @include mobile-only {
+  //   padding-top: 3rem;
+  // }
 
-  @include desktop {
-    padding-top: 8rem;
-    padding-bottom: 8rem;
-  }
+  // @include desktop {
+  //   padding-top: 8rem;
+  //   padding-bottom: 8rem;
+  // }
 }
 
 ////////////////////////////////////////////////////
