@@ -11,7 +11,8 @@ date: 2019-08-20T14:12:38.386Z
 image: /img/cds/ama-banner.jpg
 image-alt: A bird’s-eye view of 4 relay racers running on a track in 4 parallel lanes.
 translationKey: relay-race-ama
-thumb: /img/cds/ama-thumb.jpg
+thumb: /img/cds/thumbnails/ama-banner.jpg
+processed: 1566582503352
 ---
 Imagine this: you’re the starting runner in a 400m relay race. You get into the starting position, the gun goes off, and you sprint as hard as you can. As you reach that first 100m mark, you notice there’s no one to pass the baton to. Oh no. Now you have to sprint the whole relay race and keep the momentum going by yourself. 
 
@@ -90,3 +91,4 @@ Then I fell behind in the race. And that’s a good thing because it means that 
 ## Training for the next race
 
 We learned a lot about the power of teamwork in this experiment. Most importantly, we learned that something commonly done in private sector, like a real-time, open, and candid conversation, can indeed be done in government. We’re going to learn from our trips and stumbles and keep training for more AMAs in the future. Follow along on our [Twitter](https://twitter.com/CDS_GC) account for our next race!
+
