@@ -18,6 +18,7 @@
 @import "font-awesome/solid.scss";
 @import "font-awesome/brands.scss";
 
+
 // CDS Base Styles and Style Overrides
 
 body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
@@ -47,16 +48,18 @@ a {
 		font-size: 2.25rem;
 	}
 
-	&:visited { color: $secondary-color; }
+	&:visited { 
+		color: $secondary-color; 
+	}
 
 	&:hover {
-		text-decoration : none;
-		color 			: lighten($secondary-color, 15);
+		text-decoration: none;
+		color: lighten($secondary-color, 15);
 	}
 
 	&:hover:not[class] {
-		text-decoration : none;
-		border-bottom 	: $secondary-color 1px solid;
+		text-decoration: none;
+		border-bottom : $secondary-color 1px solid;
 	}
 }
 
@@ -76,63 +79,34 @@ p, main ul, main ol {
 	}
 
 	&.lead {
-		font-size 	: 2.25rem ;
-		color 		: $secondary-color;
+		font-size : 2.25rem ;
+		color: $secondary-color;
 
 		@include tablet {
-			font-size 	: 2.5rem;
-			line-height : 1.35em;
+			font-size: 2.5rem;
+			line-height: 1.35em;
 		}
 
 		@include desktop {
-			font-size	: 3rem;
+			font-size: 3rem;
 		}
 	}
 }
 
-// main p + ul {
-// 	margin-top:-0.5rem;
-
-// 	@include tablet {
-// 		margin-top:-1.0rem;
-// 	}
-
-// 	@include desktop {
-// 		margin-top:-2rem;
-// 	}
-// }
-
 h1, .h1 {
-        padding: 0;
-        margin: 0;
-        font-weight: 100;
-        font-family: "HKGrotesk", sans-serif;
-        border-bottom: none;
-		color: $white;
-        font-size   : 3rem;
-    	line-height : 1.2em;
+	padding: 0;
+	margin: 0;
+	font-weight: 100;
+	font-family: "HKGrotesk", sans-serif;
+	border-bottom: none;
+	color: $white;
+	font-size: 3rem;
+	line-height: 1.2em;
 
-        @include mobile_only {
-          padding: 1.5rem 1.5rem;
-        }
-
-        // @include tablet {
-        //   margin-top: 0.5rem;
-        //   font-size: 7rem;
-        //   line-height: 8rem;
-        // }
-
-        // @include desktop {
-        // 	font-size: 9rem;
-        // 	line-height: 9rem;
-        // }
-
-        // @include tv {
-        //   margin-top: 1.5rem;
-        //   font-size: 10rem;
-        //   line-height: 10rem;
-		// }
-      }
+	@include mobile_only {
+		padding: 1.5rem 1.5rem;
+	}
+}
 
 h2 {
 	font-family: "HKGrotesk", sans-serif;
@@ -166,8 +140,7 @@ footer .container {
 }
 
 .col-sm-10,
-.col-sm-offset-1
- {
+.col-sm-offset-1 {
 	margin: 0;
 	width: 100%;
 }
@@ -193,7 +166,6 @@ footer .container {
 	font-size: 3rem;
 	font-weight:100;
 	position: relative;
-	// margin: 1.5rem 0 3.5rem 0;
 	margin: 0 0 3.5rem 0;
 	padding: 0;
 	text-align: center;
