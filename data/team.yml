@@ -192,8 +192,8 @@ team:
     name: Anik Brazeau
     processed: 1552050695387
     title:
-      en: Outreach
-      fr: Liaison et diffusion
+      en: Design
+      fr: Conception
     twitter: brazeauanik
   - archived: false
     email: Anne-Marie.Mulumba@tbs-sct.gc.ca
@@ -213,6 +213,14 @@ team:
     title:
       en: Development
       fr: Développement
+  - archived: false
+    email: brian.hendrick@tbs-sct.gc.ca
+    image-name: /img/cds/brian-hendrick.jpg
+    linkedin: hendrickbrian
+    name: Brian Hendrick
+    title:
+      en: Design
+      fr: Conception
   - archived: false
     email: brock.higgins@tbs-sct.gc.ca
     github: brockhigg10
@@ -343,6 +351,14 @@ team:
       fr: Recherche en conception
     twitter: hillarylorimer
   - archived: false
+    email: jeana.frost@tbs-sct.gc.ca
+    image-name: /img/cds/jeana-frost.jpg
+    linkedin: jeanafrost
+    name: Jeana Frost
+    title:
+      en: Design Research
+      fr: Recherche en conception
+  - archived: false
     email: jeff.maher@tbs-sct.gc.ca
     github: jeffmaher
     image-name: /img/cds/jeff-maher.jpg
@@ -380,7 +396,7 @@ team:
   - archived: false
     email: jose.jimenez@tbs-sct.gc.ca
     image-name: /img/cds/jose-jimenez.jpg
-    linkdin: jimenezj27
+    linkedin: jimenezj27
     name: Jose Jimenez
     title:
       en: Partnerships
@@ -418,7 +434,7 @@ team:
     processed: 1560521882136
   - archived: false
     email: Khalid.Elaggan@tbs-sct.gc.ca
-    image-name: /img/cds/khalid_elaggan.jpg
+    image-name: /img/cds/khalid-elaggan.jpg
     linkedin: khalidelaggan
     name: Khalid Elaggan
     processed: 1552050695392
@@ -646,6 +662,15 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: vchanimal
+  - archived: false
+    email: yael.berger@tbs-sct.gc.ca
+    image-name: /img/cds/yael-berger.jpg
+    linkedin: yael-berger-5791a455
+    name: Yael Berger
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    twitter: yaelberger
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.jpg
