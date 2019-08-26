@@ -221,6 +221,7 @@ team:
     title:
       en: Design
       fr: Conception
+    processed: 1566844001404
   - archived: false
     email: brock.higgins@tbs-sct.gc.ca
     github: brockhigg10
@@ -358,6 +359,7 @@ team:
     title:
       en: Design Research
       fr: Recherche en conception
+    processed: 1566844001408
   - archived: false
     email: jeff.maher@tbs-sct.gc.ca
     github: jeffmaher
@@ -671,6 +673,7 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: yaelberger
+    processed: 1566844001408
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.jpg
