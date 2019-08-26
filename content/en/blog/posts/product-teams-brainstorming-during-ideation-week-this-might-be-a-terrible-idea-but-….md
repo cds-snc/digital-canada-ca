@@ -9,7 +9,7 @@ description: >-
   very good idea for a product team.
 author: 'Michelle Ngai, Design'
 date: 2019-08-26T14:05:22.645Z
-image: /img/cds/blog-building-a-research-plan.png
+image: /img/cds/ideas.jpg
 image-alt: CPP-D product team members looking up at lightbulbs drawn above their heads.
 translationKey: brainstorming-ideation-week
 thumb: ''
