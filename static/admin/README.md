@@ -159,3 +159,7 @@ Just a quick remainder we will be running a quick and fun accessibility clinic t
 |----------------|-------------------------------|-----------------------------|
 |`name`          | The name of a relevant link to include under the “Links” heading (eg. “Github,” “Documentation,” etc)                          | `optional` `string`         |
 |`url`           |  The url of each relevant link included under the “Links” heading.                          |`optional` `string`          |
+
+----------------------------------
+
+[Link G drive doc version](https://docs.google.com/document/d/1JF5AvZOCVLXT2Wn815Y7jRqstqVuEksNXGRQz_URwww/edit?ts=5d63d7f9)
