@@ -15,7 +15,8 @@ image-alt: >-
   Vue aérienne de 4 coureurs à relais parcourant une piste dotée de 4 voies
   parallèles.
 translationKey: relay-race-ama
-thumb: /img/cds/ama-thumb.jpg
+thumb: /img/cds/thumbnails/ama-banner.jpg
+processed: 1566597193279
 ---
 Imaginez que vous êtes le premier coureur d’une course à relais de 400 m. Vous vous placez en position de départ. On donne le signal, et vous vous lancez aussitôt dans un sprint en ne ménageant aucun effort. En vous approchant de la marque des 100 m, vous vous apercevez que personne n’est prêt à prendre le relais. Oh non! Vous devez maintenant continuer sur la même lancée et poursuivre ce sprint jusqu’à la fin de la course. 
 
@@ -94,3 +95,4 @@ Puis, j’ai pris du retard dans la course. Et c’est une bonne chose, car ça 
 ## Entraînement en vue de la prochaine course
 
 Cette expérience nous a appris beaucoup sur la force du travail d’équipe. Plus important encore, nous avons appris que c’est aussi possible de mener, au sein du gouvernement, des activités qui sont fréquentes dans le secteur privé, comme la tenue en temps réel d’une conversation franche et ouverte. Nous allons tirer des leçons de nos faux pas et de nos trébuchements et continuer de nous entraîner pour d’autres AMA dans l’avenir. Abonnez-vous à notre compte [Twitter](https://twitter.com/SNC_GC) en vue de la prochaine course!
+
