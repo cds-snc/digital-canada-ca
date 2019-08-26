@@ -49,7 +49,6 @@
     margin: 2rem 0;
 
     @include tablet {
-      /* font-size: 2.4rem; */
       font-weight: 300;
       line-height: 3.2rem;
       margin-top: 5rem;
@@ -137,12 +136,10 @@
 }
 
 .homepage--budget {
-  @include desktop {
-    padding-left: 12rem;
-  }
   blockquote {
+    width: 100%;
     padding: 0rem 3.5rem 0rem 3.5rem;
-    margin: 0rem;
+    margin: 0;
     border: 0;
     position: relative;
 
@@ -163,12 +160,8 @@
       }
     }
 
-    & + p {
-      padding-left: 3.5rem;
-
-      @include desktop {
-        padding-left: 5.5rem;
-      }
+    .lead {
+      margin-bottom: 0;
     }
   }
 
@@ -204,6 +197,7 @@
       @include desktop {
         bottom: -2rem;
       }
+      
     }
   }
 }
@@ -220,7 +214,6 @@
       padding-right: 3rem;
       padding-top: 1.5rem;
       padding-bottom: 1.5rem;
-      //            text-align: right;
     }
 
     @include desktop {
@@ -238,7 +231,6 @@
 
     @include desktop {
       padding-top: 3rem;
-      //		  padding-right: 3rem;
     }
   }
 
@@ -292,12 +284,18 @@
   background: $bg-grey;
   padding-bottom: 4rem;
 
+  .container {
+    width: 90%;
+  }
+
   .blog-posts {
     @include tablet {
       margin-bottom: 3rem;
     }
 
     .post {
+      display: float;
+      float: center;
       background: $white;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
       display: block;
@@ -314,8 +312,8 @@
       }
 
       @include tablet {
-        height: 25rem;
-        margin: 1.5rem 0;
+        height: 28rem;
+        margin: 1rem 0;
       }
 
       .image {
@@ -392,8 +390,6 @@
   h3 {
     color: #000000;
   }
-
-  padding-bottom: 6rem;
 }
 
 span.discovery,
@@ -436,8 +432,6 @@ span.livefr {
     margin-top: 50px;
   }
 
-  //
-
   h3.live::after,
   h3.livefr::after {
     content: "Live";
@@ -471,8 +465,6 @@ span.livefr {
       font-size: 12pt;
     }
   }
-
-  //
 
   h3.alpha::after,
   h3.alphafr::after {
@@ -738,7 +730,6 @@ span.livefr {
 }
 
 .title-container {
-  //border-top: $medium-grey 1px solid;
   display: flex;
 }
 
@@ -829,12 +820,9 @@ span.livefr {
 }
 
 .work-with-us--details {
-  // border-top: $medium-grey 1px solid;
   padding-bottom: 4rem;
   padding-top: 0rem;
-  //	this needs standardizing ^
 
-  // below addresses stylistic change request to make spacing around element look more uniform to the rest of the page
   .page-wide--outer-container-padding {
     @include mobile-only {
       padding-top: 0;
@@ -1013,13 +1001,13 @@ span.livefr {
   padding: 0;
   list-style: none;
 
-  .post {
-    padding: 4rem 0;
-    border-bottom: #ccc 1px solid;
+  .post:first-child {
+    padding-top: 0;
+  }
 
-    @include tablet {
-      padding: 4rem 2rem;
-    }
+  .post {
+    padding: 3rem 0rem;
+    border-bottom: #ccc 1px solid;
   }
 
   .date {
@@ -1072,10 +1060,7 @@ span.livefr {
     margin-top: 2rem;
 
     a {
-      //border: $secondary-color 1px solid;
-      display: inline-block; //padding: 0.5rem 1.5rem;
-      //font-size: 1.5rem;
-      //border-radius: 1rem;
+      display: inline-block; 
     }
   }
 
@@ -1111,7 +1096,11 @@ span.livefr {
 }
 
 article.post {
-  padding: 2rem 0;
+  padding: 6rem 0;
+
+  @include mobile_only {
+    padding: 3rem 0;
+  }
 
   img {
     width: 100%;
@@ -1179,11 +1168,8 @@ article.post {
 
 #mc_embed_signup {
   .email {
-    //        margin: 0 auto;
-    //        width: 90%;
-    //        max-width: 45rem;
     border-radius: 0;
-    border: $primary-color 2px solid; // padding: 2rem 1rem;
+    border: $primary-color 2px solid; 
     height: 42px;
     font-weight: 100;
     font-size: 2rem;
@@ -1203,8 +1189,6 @@ article.post {
 
   label[for="mce-EMAIL"] {
     display: block !important;
-    //	    margin: auto;
-    //	    padding-left: 0.2rem;
     padding-bottom: 0.5rem;
     font-size: 2rem;
     color: $dark-grey;
@@ -1258,65 +1242,9 @@ article.post {
   }
 }
 
-.page--outer-container-padding {
-  //	adds 80px of padding (desktop) to the whole page for page layout (have an outer container) (80px + 15px totals 95px padding).
-
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-
-  @include mobile-only {
-    padding: 3rem 1rem;
-  }
-
-  @include desktop {
-    padding: 8rem;
-  }
-}
-
 .page-wide--outer-container-padding {
-  //	needed because home & work with us don't have an outer container with 15px padding (9.5rem = 95px to match)
-  //	this class is only applied to pages with page-wide layout and home layout (they can't have full-page containers, so sections need to be styled individually)
-  //currently it's only applied to "Our Team", "What We Do" and "Engagement Report" sections, as intro for Home and Work With Us both needed their own top-padding to match the other pages
-
-  @include mobile-only {
-    padding: 3rem 1rem;
-  }
-
-  @include desktop {
-    padding-left: 9.5rem;
-    padding-right: 9.5rem;
-  }
-}
-
-.page-intro--outer-container-padding {
-  //	used on all pages that don't use the page template (no container), as well as 'Our Team', while the team images remain their current width
-  padding-top: 4rem;
-  padding-bottom: 2rem;
-
-  @include mobile-only {
-    padding: 3rem 1rem;
-  }
-
-  @include desktop {
-    padding-top: 8rem;
-    padding-left: 9.5rem;
-    padding-right: 9.5rem;
-  }
-}
-
-.page-blog--container-padding {
-  //	currently blog width is diff than rest - this only affects top and bottom padding of the whole page
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-
-  @include mobile-only {
-    padding-top: 3rem;
-  }
-
-  @include desktop {
-    padding-top: 8rem;
-    padding-bottom: 8rem;
-  }
+  width: 95%;
+  margin: 0 auto;
 }
 
 ////////////////////////////////////////////////////
@@ -1385,13 +1313,18 @@ article.post {
 }
 
 .platform-banner{
-  background-color    : $dark-grey;
-  background-size     : cover;
-  background-position : center center;
-  height              : 12rem;
-  position            : relative;
+  background-color: $dark-grey;
+  background-size: cover;
+  background-position: center center;
+  height: 12rem;
+  position: relative;
 
-  @include tablet  { height: 20rem; }
-  @include desktop { height: 28rem; }
+  @include tablet  { 
+    height: 20rem; 
+  }
+  
+  @include desktop {
+    height: 28rem; 
+  }
 
 }
