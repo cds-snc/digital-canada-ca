@@ -12,7 +12,8 @@ date: 2019-08-26T14:05:22.645Z
 image: /img/cds/ideas.jpg
 image-alt: CPP-D product team members looking up at lightbulbs drawn above their heads.
 translationKey: brainstorming-ideation-week
-thumb: /img/cds/ideas.jpg
+thumb: /img/cds/thumbnails/ideas.jpg
+processed: 1566844000614
 ---
 Imagine standing up in front of your team at work and saying the worst possible idea you’ve ever had. Did that make you feel uncomfortable? We’ve been conditioned to bring only our very best ideas forward, but voicing the worst possible ideas is exactly what I asked my team to do during our recent Ideation week. Let me explain why this “outlandish” exercise was actually a very good idea. 
 
@@ -45,3 +46,4 @@ It took a bit of time for the team to start, but once we got going it was surpri
 Now some of you might remember, Netflix actually started off as a DVD mail delivery service! Sure, maybe looking back on it now it seems like a terrible idea, but it was an idea that got them started and then allowed them to pivot, when needed, into the world’s seventh-largest Internet company by [revenue](https://en.wikipedia.org/wiki/List_of_largest_Internet_companies). The truth is it’s rare that you have an amazing idea the first time around. It takes many iterations, evolutions, and perspectives to get to something people are really going to love. The important part is to not be afraid to start with _something_. 
 
 By the end of Ideation Week we had a couple of hypotheses we’re excited to explore in our next development phase. I’m looking forward to running another Ideation Week in our Alpha phase, this time with low-fidelity prototyping and testing involved. Just as teams should be growing and learning, so too should the product we’re building. Our hope is that the team is left with something different by the time we reach the end of an Alpha phase, and likely something better than what we started with.
+

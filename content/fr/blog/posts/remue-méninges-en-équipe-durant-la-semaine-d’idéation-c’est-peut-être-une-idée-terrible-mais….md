@@ -14,7 +14,8 @@ image-alt: >-
   Les membres de l'équipe de produits du RPC regardent des ampoules électriques
   tirées au-dessus de leur tête.
 translationKey: brainstorming-ideation-week
-thumb: /img/cds/ideas.jpg
+thumb: /img/cds/thumbnails/ideas.jpg
+processed: 1566844000861
 ---
 Imaginez-vous au travail, debout devant votre équipe, en train de dire la pire idée que vous ayez jamais eue. Cela vous rend-il mal à l’aise? Nous avons été conditionnés à ne présenter que nos meilleures idées. Mais dire les pires idées possible est exactement ce que j’ai demandé à mon équipe au cours de notre dernière Semaine d’idéation. Permettez-moi d’expliquer pourquoi cet exercice « farfelu » était en fait une très bonne idée.
 
@@ -48,3 +49,4 @@ Il a fallu un peu de temps pour que l’équipe commence, mais une fois partie, 
 Certains d’entre vous se souviendront peut-être que Netflix a commencé comme service de livraison de DVD par la poste! Bien sûr, peut-être qu’en rétrospective, ça semble être une idée terrible, mais c’est une idée qui les a motivés et qui leur a permis de pivoter, au besoin, vers la septième plus grande entreprise Internet au monde selon ses [revenus](https://en.wikipedia.org/wiki/List_of_largest_Internet_companies). En vérité, il est rare que vous ayez une idée géniale la première fois. Il faut de nombreuses itérations, évolutions et perspectives pour arriver à quelque chose que les gens vont vraiment aimer. L’important est de ne pas avoir peur de commencer par _quelque chose_.
 
 À la fin de la semaine d’idéation, nous avions quelques hypothèses que nous sommes impatients d’explorer dans notre prochaine phase de développement. J’ai hâte de tenir une autre semaine d’idéation au cours de notre phase alpha, cette fois avec du prototypage et des tests à basse fidélité. Tout comme les équipes sont censées grandir et apprendre, il en va de même pour le produit que nous construisons. Nous espérons que l’équipe se retrouvera avec quelque chose de différent d’ici la fin de la phase alpha, et probablement quelque chose de mieux que ce que nous avons commencé.
+
