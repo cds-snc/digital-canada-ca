@@ -40,5 +40,5 @@ Nous avons tous été ravis de constater autant de réactions positives à la su
 
 Ici et là dans l’appareil fédéral, certains fonctionnaires font du travail véritablement inspirant dans le domaine du développement et de la conception de logiciels et de l’analyse de données. Nous sommes heureux de mettre en lumière le travail formidable que font les autres, et de travailler et d’apprendre ensemble.
 
-Au cours des prochaines semaines, nous utiliserons ce blogue pour vous parler de notre travail et des leçons que nous tirons à mesure que le SNC prend son envol. Si vous avez des commentaires ou des suggestions, nous serions heureux de les entendre! N’hésitez pas à communiquer avec nous que ce soit par [Twitter](https://twitter.com/SNC_GC) ou [par l’intermédiaire d’un membre](/notre-equipe/) de notre équipe.
+Au cours des prochaines semaines, nous utiliserons ce blogue pour vous parler de notre travail et des leçons que nous tirons à mesure que le SNC prend son envol. Si vous avez des commentaires ou des suggestions, nous serions heureux de les entendre! N’hésitez pas à communiquer avec nous que ce soit par [Twitter](https://twitter.com/SNC_GC) ou [par l’intermédiaire d’un membre](/rencontrez-lequipe/) de notre équipe.
 

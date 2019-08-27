@@ -20,7 +20,7 @@ collections:
       - {label: "Publish Date / Date de publication", name: "date", widget: "datetime"}
       - {label: "Banner Image / Image de la bannière", hint: "Max. 1MB", name: "image", widget: "image"}
       - {label: "Image Alt-text / Texte alternatif de l'image", name: "image-alt"}
-      - {label: "Blog ID / Identification de blogue", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
+      - {label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
       - {label: "Body / Corps", name: "body", widget: "markdown"}
       - {label: "Thumbnail", name: "thumb", widget: "hidden", default: "" }
       - {label: "Processed", name: "processed", widget: "hidden", default: "" }
@@ -36,13 +36,13 @@ collections:
       - {label: "Publish Date / Date de publication", name: "date", widget: "datetime"}
       - {label: "Banner Image / Image de la bannière", hint: "Max. 1MB", name: "image", widget: "image"}
       - {label: "Image Alt-text / Texte alternatif de l'image", name: "image-alt"}
-      - {label: "Blog ID / Identification de blogue", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
+      - {label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
       - {label: "Body / Corps", name: "body", widget: "markdown"}
       - {label: "Thumbnail / La vignette", name: "thumb", widget: "hidden", default: "" }
       - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
-  - name: "work-with-us"
+  - name: "join-our-team"
     label: "(EN) Job Postings"
-    folder: "content/en/work-with-us/positions"
+    folder: "content/en/join-our-team/positions"
     create: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting" }
@@ -50,12 +50,12 @@ collections:
       - { label: "Title / Titre", name: "title", widget: "string" }
       - { label: "Description / Description", name: "description", widget: "string"}
       - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
-      - { label: "Job Id", name: "leverId", widget: "string"}
-      - { label: "Posting ID / Identification de l’affichage", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
+      - { label: "LEVER ID / ID POUR LEVER", name: "leverId", widget: "string"}
+      - { label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
       - { label: "Body / Corps", name: "body", widget: "markdown"}
-  - name: "travaillez-avec-nous"
+  - name: "rejoindre-notre-equipe"
     label: "(FR) Carrières"
-    folder: "content/fr/work-with-us/positions"
+    folder: "content/fr/join-our-team/positions"
     create: true
     fields:
       - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting" }
@@ -63,8 +63,8 @@ collections:
       - { label: "Title / Titre", name: "title", widget: "string" }
       - { label: "Description / Description", name: "description", widget: "string"}
       - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
-      - { label: "Job Id", name: "leverId", widget: "string"}
-      - { label: "Posting ID / Identification de l’affichage", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
+      - { label: "LEVER ID / ID POUR LEVER", name: "leverId", widget: "string"}
+      - { label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
       - { label: "Body / Corps", name: "body", widget: "markdown"}
   - name: "products"
     label: "(EN) Products"
@@ -72,7 +72,7 @@ collections:
     create: true
     fields:
       - { label: "Title / Titre", name: "title", widget: "string", required: true }
-      - { label: "Product ID / Key", name: "translationKey", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", widget: "string", required: true }
+      - { label: "TRANSLATION ID / ID DE TRADUCTION", name: "translationKey", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", widget: "string", required: true }
       - { label: "Description / Description", name: "description", widget: "text" }
       - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: false}
       - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery / découverte", "alpha / alpha", "beta / bêta", "live / en ligne"], required: true}
@@ -102,7 +102,7 @@ collections:
     create: true
     fields:
       - { label: "Title / Titre", name: "title", widget: "string", required: true }
-      - { label: "Product ID / Key", name: "translationKey", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", widget: "string", required: true }
+      - { label: "TRANSLATION ID / ID DE TRADUCTION", name: "translationKey", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", widget: "string", required: true }
       - { label: "Description / Description", name: "description", widget: "text" }
       - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: false}
       - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery / découverte", "alpha / alpha", "beta / bêta", "live / en ligne"], required: true}

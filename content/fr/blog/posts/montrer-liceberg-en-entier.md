@@ -37,7 +37,7 @@ Bien sûr, nous disposons d’un [blogue](https://numerique.canada.ca/blogue/) e
 
 Nous avons également une page [Produits](https://numerique.canada.ca/produits/), où vous pouvez voir les services que nous avons livrés et ceux sur lesquels nous travaillons actuellement. 
 
-L’équipe du SNC est également active sur les médias sociaux; elle diffuse souvent des moments marquants du quotidien. La page [Notre équipe](https://numerique.canada.ca/notre-equipe/) vous donne accès à des comptes personnels Twitter et LinkedIn à suivre tout au long du parcours.
+L’équipe du SNC est également active sur les médias sociaux; elle diffuse souvent des moments marquants du quotidien. La page [Notre équipe](/rencontrez-lequipe/) vous donne accès à des comptes personnels Twitter et LinkedIn à suivre tout au long du parcours.
 
 ## Montrer 
 

@@ -21,7 +21,7 @@ processed: 1550672961706
 
 When I started at the Canadian Digital Service (CDS), I was expecting challenges and opportunities, but I hadn’t really thought about the new roads we’d travel to hire the best people. In this blog post, I’ll share our experiences of working with Immigration, Refugees, and Citizenship Canada (IRCC) to bring specialists from around the world into CDS. Specifically, how we used the new Global Skills Strategy to hire our first international team member.
 
-Not long after we launched our [recruitment campaign](https://digital.canada.ca/work-with-us/), Anatole asked me to figure out how CDS could hire Kylie, a Senior Product Manager working for the United Kingdom’s Ministry of Justice. Kylie was interested in an assignment with us, and hiring talent from another digital service team would help build product management capacity at CDS.
+Not long after we launched our [recruitment campaign](/join-our-team/), Anatole asked me to figure out how CDS could hire Kylie, a Senior Product Manager working for the United Kingdom’s Ministry of Justice. Kylie was interested in an assignment with us, and hiring talent from another digital service team would help build product management capacity at CDS.
 
 We want to provide the best service possible for our new hires and support them through the immigration process. As a first step, I needed to understand the process for obtaining a work permit. An IRCC colleague put me in touch with the people responsible for the Global Skills Strategy.
 
