@@ -10,15 +10,10 @@ exec:
       en: Chief Executive Officer
       fr: Président-directeur général
     twitter: aaronsnow
- 
 team:
-  - archived: false
-    email: Adrianne.Lee@tbs-sct.gc.ca
-    image-name: /img/cds/adrianne-lee.jpg
-    linkedin: adriannehlee
-    name: Adrianne Lee
+  - archived: true
+    image-name: /img/cds/VACBenchmarkBlogENG.jpg
+    name: testing
     title:
-      en: Design Research
-      fr: Recherche en conception
-    twitter: adriannehlee
-    processed: 1560521882132
+      en: scvsd
+      fr: sdf
