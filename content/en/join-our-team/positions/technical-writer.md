@@ -42,6 +42,7 @@ The Canadian Digital Service is looking for an experienced technical writer to t
 * You know that sometimes just trying something is the best way to find out if it’ll work.
 * You’re comfortable with what you know, comfortable with what you don’t know, and know how to work with others to make great things.
 * You know that done is better than perfect.
+* You’re fluent in French and English (in government speak, we’re looking for CBC).
 
 ## At the Canadian Digital Service, we don’t just accept difference - we celebrate it.
 
