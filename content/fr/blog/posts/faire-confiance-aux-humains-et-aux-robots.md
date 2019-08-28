@@ -61,5 +61,5 @@ Depuis que nous utilisons ces outils dans le cadre de nos projets, nous avons d�
 
 Nous ne rêvons peut-être pas de moutons électriques, mais je dors mieux la nuit en sachant que l’information que nous utilisons pour prendre des décisions est publique et à la disposition des développeurs au moment où ils en ont le plus besoin. 
 
-Si vous ou votre équipe souhaitez en savoir davantage sur les outils ou les processus dont il a été question ci-dessus, veuillez communiquer directement avec l’un des auteurs des outils sur [Github](https://github.com/cds-snc) ou [communiquez avec le SNC](https://numerique.canada.ca/notre-equipe/) par l’entremise de votre média préféré.
+Si vous ou votre équipe souhaitez en savoir davantage sur les outils ou les processus dont il a été question ci-dessus, veuillez communiquer directement avec l’un des auteurs des outils sur [Github](https://github.com/cds-snc) ou [communiquez avec le SNC](/rencontrez-lequipe/) par l’entremise de votre média préféré.
 

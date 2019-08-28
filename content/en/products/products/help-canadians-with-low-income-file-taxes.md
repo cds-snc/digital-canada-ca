@@ -6,8 +6,8 @@ description: >-
   refunds they’re entitled to by making it easier to file their taxes.
 phase: alpha
 contact:
-  - email: josh.ruihley@tbs-sct.gc.ca
-    name: Josh Ruihley
+  - email: clementine.hahn@tbs-sct.gc.ca
+    name: Clementine Hahn
 partners:
   - name: Canada Revenue Agency
     url: 'https://www.canada.ca/en/revenue-agency.html'

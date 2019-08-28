@@ -67,12 +67,14 @@
     height: 8rem;
     width: 8rem;
     top: -3.9rem;
+    left: 3.5rem;
   }
 
   @include tv {
     height: 8rem;
     width: 8rem;
     top: -3.7rem;
+    left: 3.5rem;
   }
 
   // added the below custom mixin to address menu content changes
@@ -105,10 +107,13 @@
   clear: both;
   text-align: center;
   list-style: none;
-  margin: 1rem 0 1rem 0;
+  margin: 1rem auto 1rem auto;
   padding: 0;
 
-  // below used to be @include tablet
+  // @media (max-width: 1484px) {
+  //   max-width: 800px;
+  // }
+
   @include logo_break {
     position: fixed;
     width: 100%;
@@ -168,28 +173,6 @@
     text-decoration: none;
     position: relative;
 
-    // @include tablet {
-    //   color: $secondary-color;
-    //   font-size: 2rem;
-    //   margin: 0 1.25rem 0.25rem 1.25rem;
-
-    //   .fr & {
-    //     font-size: 2rem;
-    //     padding-left: 0em;
-    //     padding-right: 0em;
-    //   }
-    // }
-
-    // @include desktop {
-    //   font-size: 2rem;
-
-    //   .fr & {
-    //     font-size: 2rem;
-    //     padding-left: 0em;
-    //     padding-right: 0em;
-    //   }
-    // }
-
     // replacing the above previous styles
     @include menu_break {
       color: $secondary-color;
@@ -231,7 +214,7 @@
     border: $primary-color 1px solid;
     width: 100%;
   }
-
+  
   // Align nav to edge of document margin for tablet and up
   &:last-child a {
     @include tablet {
@@ -379,12 +362,11 @@
 .main-nav-button {
   display: inline;
   line-height: 0;
-  margin: 0;
+  margin: 0.25rem 2.5rem 0 0;
   padding: 0;
   border: none;
   background: none;
   float: right;
-  margin-top: 0.25rem;
   z-index: 1;
 
   &:focus {
@@ -404,7 +386,10 @@
     color: $dark-grey;
   }
 
-  // below used to be @include tablet
+  @include mobile_only {
+    margin: 0;
+  }
+  
   @include menu_break {
     display: none;
   }

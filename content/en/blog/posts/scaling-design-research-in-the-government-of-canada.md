@@ -14,7 +14,8 @@ image-alt: >-
   A photo showing a table covered by white puzzle pieces, with a focus on an
   individual’s hand holding a unique red puzzle piece.
 translationKey: design-research
-thumb: /img/cds/puzzle.jpg
+thumb: /img/cds/thumbnails/puzzle.jpg
+processed: 1562852147851
 ---
 Design research (or user research) helps us understand the people who use our services. If we understand them, we can better meet their needs. We’ve seen how important design research is to delivering people-centered digital services in our work with partners. We’ve also seen how easily it can become mistaken for public opinion research (POR.) 
 
@@ -38,3 +39,4 @@ Although this is a small, but important, step to enable design research across g
 [Bringing policy and delivery together](https://sfadigital.blog.gov.uk/2017/03/24/dont-bring-policy-and-delivery-closer-together-make-them-the-same-thing/) enables us to produce better outcomes for the public. When we do this, we can update or write new policies much faster to respond to people’s needs and expectations. One of the ways [we’ve approached this at CDS](https://digital.canada.ca/2018/09/07/policy/), is to have [policy people on our delivery teams](https://gds.blog.gov.uk/2017/01/09/making-policy-an-integral-part-of-digital-delivery-teams/), which helps form a tight feedback loop with policy centres. In this case, we were able to quickly pass along lessons learned from our work on the ground with departments, and bring about changes to the policy guidance in just a few months. 
 
 This was one way we worked to enable design research, but there are others we’re working on. Do you have blockers to doing design research? Do you have suggestions for the guidance, or ideas on how we can scale design research? [Get in touch with us](https://twitter.com/CDS_GC)!
+

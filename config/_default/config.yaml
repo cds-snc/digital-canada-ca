@@ -28,17 +28,17 @@ languages:
         name: View our products
         url: /products/
         weight: 6
-      - identifier: work-with-us
+      - identifier: join-our-team
         name: Join our team
-        url: /work-with-us/
+        url: /join-our-team/
         weight: 4
       - identifier: blog
         name: Read the blog
         url: /blog/
         weight: 5
-      - identifier: our-team
+      - identifier: meet-the-team
         name: Meet the team
-        url: /our-team/
+        url: /meet-the-team/
         weight: 3 
   fr:
     baseUrl: https://numerique.canada.ca/
@@ -67,15 +67,15 @@ languages:
         name: Découvrir nos produits
         url: /produits/
         weight: 6
-      - identifier: travaillez-avec-nous
+      - identifier: rejoindre-notre-equipe
         name: Rejoindre notre équipe
-        url: /travaillez-avec-nous/
+        url: /rejoindre-notre-equipe/
         weight: 4
       - identifier: blogue
         name: Blogue
         url: /blogue/
         weight: 5
-      - identifier: notre-equipe
+      - identifier: rencontrez-lequipe
         name: Rencontrez l’équipe
-        url: /notre-equipe/
+        url: /rencontrez-lequipe/
         weight: 3
