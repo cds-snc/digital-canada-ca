@@ -197,7 +197,7 @@
       @include desktop {
         bottom: -2rem;
       }
-      
+
     }
   }
 }
@@ -394,22 +394,22 @@
 
 span.discovery,
 span.discoveryfr {
-  color: #b7028e;
+  color: $discovery-color;
 }
 
 span.alpha,
 span.alphafr {
-  color: #f90277;
+  color: $alpha-color;
 }
 
 span.beta,
 span.betafr {
-  color: #22a7f0;
+  color: $beta-color;
 }
 
 span.live,
 span.livefr {
-  color: #6ea748;
+  color: $live-color;
 }
 
 .work-in-progress--product-module {
@@ -439,7 +439,7 @@ span.livefr {
     position: relative;
     bottom: 10px;
     color: #ffffff;
-    background-color: #6ea748;
+    background-color: $live-color;
     margin-left: 20px;
 
     @include mobile_only {
@@ -473,7 +473,7 @@ span.livefr {
     position: relative;
     bottom: 10px;
     color: #ffffff;
-    background-color: #f90277;
+    background-color: $alpha-color;
     margin-left: 20px;
 
     @include mobile_only {
@@ -506,7 +506,7 @@ span.livefr {
     position: relative;
     bottom: 10px;
     color: #ffffff;
-    background-color: #b7028e;
+    background-color: $discovery-color;
     margin-left: 20px;
 
     @include mobile_only {
@@ -539,7 +539,7 @@ span.livefr {
     position: relative;
     bottom: 10px;
     color: #ffffff;
-    background-color: #b7028e;
+    background-color: $discovery-color;
     margin-left: 20px;
 
     @include mobile_only {
@@ -572,7 +572,7 @@ span.livefr {
     position: relative;
     bottom: 10px;
     color: #ffffff;
-    background-color: #22a7f0;
+    background-color: $beta-color;
     margin-left: 20px;
 
     @include mobile_only {
@@ -605,7 +605,7 @@ span.livefr {
     position: relative;
     bottom: 10px;
     color: #ffffff;
-    background-color: #22a7f0;
+    background-color: $beta-color;
     margin-left: 20px;
 
     @include mobile_only {
@@ -1068,7 +1068,7 @@ span.livefr {
     margin-top: 2rem;
 
     a {
-      display: inline-block; 
+      display: inline-block;
     }
   }
 
@@ -1177,7 +1177,7 @@ article.post {
 #mc_embed_signup {
   .email {
     border-radius: 0;
-    border: $primary-color 2px solid; 
+    border: $primary-color 2px solid;
     height: 42px;
     font-weight: 100;
     font-size: 2rem;
@@ -1327,12 +1327,12 @@ article.post {
   height: 12rem;
   position: relative;
 
-  @include tablet  { 
-    height: 20rem; 
+  @include tablet  {
+    height: 20rem;
   }
-  
+
   @include desktop {
-    height: 28rem; 
+    height: 28rem;
   }
 
 }
