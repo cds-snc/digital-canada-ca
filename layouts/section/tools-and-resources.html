@@ -19,9 +19,13 @@
     <section class="content">
       <section class="page--outer-container-padding">
       {{ .Content }}
-      {{ range where .Pages ".Params.status" "==" "in-flight" }}
-      {{ .Render "list"}}
-      {{ end }}
+      <div class='row equal'>
+        {{ range where .Pages ".Params.status" "==" "in-flight" }}
+          <div class='col-md-6 col-xs-12'>
+            {{ .Render "list"}}
+          </div>
+        {{ end }}
+      </div>
     </section>
   </section>
 </div>

@@ -1,64 +1,81 @@
 
 <section class="work-in-progress--product-module" id="{{.Params.translationKey}}">
-<!-- Product Title-->  
-<div class="row">
+  <!-- Product Title-->
+  <div class="row">
     <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-        <div class="title-container">
-            <div><h3 class='{{ .Params.phase }}{{ if eq (string (.Site.Language)) "fr" }}fr{{end}}'>{{ .Params.title }}</h3></div>
+      <div class="title-container">
+        <div>
+          <h3 class='{{ .Params.phase }}{{ if eq (string (.Site.Language)) "fr" }}fr{{end}}'>
+            {{ .Params.title }}
+          </h3>
         </div>
+      </div>
     </div>
-</div>
-<!-- End Product Title-->
-<!-- URL -->
-{{ with (index .Params "product-url")}}
+  </div>
+  <!-- End Product Title-->
+
+  <!-- URL -->
+  {{ with (index .Params "product-url")}}
     <div class="row">
-        <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-            <div class="service-link"><a href='{{ . }}'>{{ i18n "view-product"}}</a></div>
-        </div>
+      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+        <div class="service-link"><a href='{{ . }}'>{{ i18n "view-product"}}</a></div>
+      </div>
     </div>
-{{ end }}
-<!-- END URL -->
-<!-- DESC -->
-<div class="row">
+  {{ end }}
+  <!-- END URL -->
+
+  <!-- DESC -->
+  <div class="row">
     <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-        <div class="work-in-progress--product-summary">
-            <p>{{ .Params.description }}</p>
-        </div>
+      <div class="work-in-progress--product-summary">
+        <p>{{ .Params.description }}</p>
+      </div>
     </div>
-</div>
-<!-- End DESC -->
+  </div>
+  <!-- End DESC -->
 
-        <div class="row">
-            <div class="col-sm-10 col-sm-offset-1 col-xs-12 bottom-container">
+  <div class="row">
+    <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+      <div class="work-in-progress--partners-long">
+        <h4>{{ i18n "partner" }}{{ if gt (len .Params.partners) 1 }}s{{end}}</h4>
+        {{ range .Params.partners }}
+          <p><a href='{{ .url }}'>{{ .name }}</a></p>
+        {{ end }}
+      </div>
+    </div>
 
-                <div class="work-in-progress--partners-long">
-                    <h4>{{ i18n "partner" }}{{ if gt (len .Params.partners) 1 }}s{{end}}</h4>
-                    {{ range .Params.partners }}
-                        <p><a href='{{ .url }}'>{{ .name }}</a></p>
-                    {{ end }}
-                </div>
-                <!-- In progress team -->
-                <div class="work-in-progress--team">
-                    <h4>Contact</h4>
-                    {{ range .Params.contact }}
-                        <p>{{.name}} (<a href='mailto:{{.email}}'>{{ i18n "email" }}</a>)</p>
-                    {{ end }}
-                </div>
-                <!-- End in progress team -->
-                
-                <!-- In progress -->
-                <div class="work-in-progress--links">
-                    {{with .Params.links }}
-                        {{ if gt (len .) 0 }}
-                            <h4>{{ i18n "links" }}</h4>
-                            {{range .}}
-                                <p><a href="{{ .url }}">{{.name}}</a></p>
-                            {{ end }}
-                        {{ end }}
-                    {{ end }}
-                </div>
-                <!-- End in progress -->
-            </div>
-        </div>
-    </section>
-    <hr>
+    <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+      <!-- In progress team -->
+      <div class="work-in-progress--team">
+        <h4>Contact</h4>
+        {{ range .Params.contact }}
+        <p><a href='mailto:{{.email}}'>{{.name}}</a></p>
+        {{ end }}
+      </div>
+      <!-- End in progress team -->
+    </div>
+
+    <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+      <!-- In progress -->
+      <div class="work-in-progress--links">
+        {{with .Params.links }}
+          {{ if gt (len .) 0 }}
+            <h4>{{ i18n "links" }}</h4>
+            {{range .}}
+              <p><a href="{{ .url }}">{{.name}}</a></p>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+      <!-- End in progress -->
+    </div>
+  </div>
+
+  <div class='row'>
+    <div class='col-xs-12 bg-{{ .Params.phase }}'>
+        &nbsp;
+      </span>
+    </div>
+  </div>
+</section>
+

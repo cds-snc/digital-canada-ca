@@ -20,13 +20,21 @@
     <section class="page--outer-container-padding">
       {{ .Content }}
       <h2 class="section--title">{{ i18n "in-flight" }}</h2>
-      {{ range where .Pages ".Params.status" "==" "in-flight" }}
-      {{ .Render "list"}}
-      {{ end }}
+      <div class='row equal'>
+        {{ range where .Pages ".Params.status" "==" "in-flight" }}
+          <div class='col-md-6 col-xs-12'>
+            {{ .Render "list"}}
+          </div>
+        {{ end }}
+      </div>
       <h2 class="section--title">{{ i18n "past-products"}}</h2>
-      {{ range where .Pages ".Params.status" "==" "past" }}
-      {{ .Render "list"}}
-      {{ end }}
+      <div class='row equal'>
+        {{ range where .Pages ".Params.status" "==" "past" }}
+          <div class='col-md-6 col-xs-12'>
+            {{ .Render "list"}}
+          </div>
+        {{ end }}
+      </div>
     </section>
   </section>
 </div>
