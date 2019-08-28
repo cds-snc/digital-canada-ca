@@ -1,0 +1,32 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-450202:
+    - '@babel/core > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-08-27T15:07:55.848Z'
+    - '@babel/core > lodash':
+        patched: '2019-08-27T15:07:55.848Z'
+    - '@babel/core > @babel/types > lodash':
+        patched: '2019-08-27T15:07:55.848Z'
+    - '@babel/core > @babel/traverse > @babel/generator > lodash':
+        patched: '2019-08-27T15:07:55.848Z'
+    - '@babel/core > @babel/helpers > @babel/traverse > @babel/generator > lodash':
+        patched: '2019-08-27T15:07:55.848Z'
+    - netlify-cms > netlify-cms-app > netlify-cms-core > react-hot-loader > lodash:
+        patched: '2019-08-27T15:07:55.848Z'
+    - netlify-cms > netlify-cms-app > lodash:
+        patched: '2019-08-27T15:07:55.848Z'
+    - netlify-cms > netlify-cms-app > netlify-cms-core > redux-notifications > react-redux > lodash:
+        patched: '2019-08-27T15:07:55.848Z'
+    - netlify-cms > netlify-cms-app > @emotion/styled > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2019-08-27T15:07:55.848Z'
+    - '@babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash':
+        patched: '2019-08-27T15:07:55.848Z'
+    - netlify-cms > netlify-cms-app > @emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2019-08-27T15:07:55.848Z'
+    - netlify-cms > netlify-cms-app > netlify-cms-widget-select > react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2019-08-27T15:07:55.848Z'
+    - netlify-cms > netlify-cms-app > netlify-cms-widget-relation > react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2019-08-27T15:07:55.848Z'
