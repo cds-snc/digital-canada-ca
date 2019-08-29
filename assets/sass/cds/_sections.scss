@@ -428,15 +428,11 @@ span.livefr {
   border-bottom: 40px solid $live-color;
 }
 
-.row.equal {
-  display: flex;
-  flex-wrap: wrap;
-}
+.row.equal { flex-wrap: wrap; }
 
 .work-in-progress--product-module {
   background-color: $white;
   margin-bottom: 2em;
-  border-radius: 3px;
   box-shadow: 5px 8px 5px $medium-grey;
   min-height: $min-product-card-height;
 
