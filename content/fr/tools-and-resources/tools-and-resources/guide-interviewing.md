@@ -1,6 +1,7 @@
 ---
 title: Un guide pour les entrevues
 translationKey: guide-interviewing
+phase: live
 description: >-
   L’abc des entrevues.
 contact:

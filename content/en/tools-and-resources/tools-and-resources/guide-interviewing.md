@@ -1,6 +1,7 @@
 ---
 title: A guide to interviewing
 translationKey: guide-interviewing
+phase: live
 description: >-
   A 101 on interviewing.
 contact:
