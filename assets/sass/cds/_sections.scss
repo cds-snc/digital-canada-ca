@@ -35,12 +35,8 @@
   .icon-text {
     margin-top: 1.5rem;
 
-    @include tablet {
-      margin-bottom: 4rem;
-    }
-    @include desktop {
-      margin-top: 1rem;
-    }
+    @include tablet { margin-bottom: 4rem; }
+    @include desktop { margin-top: 1rem; }
   }
 
   h3 {
@@ -129,9 +125,7 @@
   .fr-team-link {
     text-align: left;
 
-    @include desktop {
-      text-align: right;
-    }
+    @include desktop { text-align: right; }
   }
 }
 
@@ -172,13 +166,8 @@
     text-shadow: 0 -1px 0 #000;
     color: #ccc;
 
-    @include tablet {
-      font-size: 7rem;
-    }
-
-    @include desktop {
-      font-size: 8rem;
-    }
+    @include tablet { font-size: 7rem; }
+    @include desktop { font-size: 8rem; }
 
     &.left {
       top: 0;
@@ -415,31 +404,25 @@ span.livefr {
 .work-in-progress--product-module {
   h3 {
     font-weight: 500;
-
-    @include mobile_only {
-      font-size: 24pt;
-    }
-
-    @include tablet {
-      font-size: 26pt;
-    }
-
-    @include desktop {
-      font-size: 30pt;
-    }
-
     margin-bottom: 0px;
     margin-top: 50px;
+
+    @include mobile_only { font-size: 24pt; }
+    @include tablet { font-size: 26pt; }
+    @include desktop { font-size: 30pt; }
   }
 
+  h3.discovery::after,
+  h3.découvertefr::after,
+  h3.alpha::after,
+  h3.alphafr::after,
+  h3.beta::after,
+  h3.betafr::after,
   h3.live::after,
   h3.livefr::after {
-    content: "Live";
-
     position: relative;
     bottom: 10px;
     color: #ffffff;
-    background-color: $live-color;
     margin-left: 20px;
 
     @include mobile_only {
@@ -449,7 +432,6 @@ span.livefr {
       margin-left: 15px;
       bottom: 5px;
     }
-
     @include tablet {
       margin-left: 20px;
       margin-bottom: 30px;
@@ -457,7 +439,6 @@ span.livefr {
       border-radius: 6px;
       font-size: 10pt;
     }
-
     @include desktop {
       margin-bottom: 30px;
       padding: 5px 30px 5px 30px;
@@ -465,185 +446,43 @@ span.livefr {
       font-size: 12pt;
     }
   }
+
+  h3.discovery::after,
+  h3.découvertefr::after {
+    background-color: $discovery-color;
+  }
+
+  h3.discovery::after { content: "Discovery"; }
+  h3.découvertefr::after { content: "Découverte"; }
 
   h3.alpha::after,
   h3.alphafr::after {
     content: "Alpha";
-
-    position: relative;
-    bottom: 10px;
-    color: #ffffff;
     background-color: $alpha-color;
-    margin-left: 20px;
-
-    @include mobile_only {
-      font-size: 10pt;
-      padding: 3px 20px 3px 20px;
-      border-radius: 6px;
-      margin-left: 15px;
-      bottom: 5px;
-    }
-
-    @include tablet {
-      margin-left: 20px;
-      margin-bottom: 30px;
-      padding: 5px 20px 5px 20px;
-      border-radius: 6px;
-      font-size: 10pt;
-    }
-
-    @include desktop {
-      margin-bottom: 30px;
-      padding: 5px 30px 5px 30px;
-      border-radius: 6px;
-      font-size: 12pt;
-    }
   }
 
-  h3.discovery::after {
-    content: "Discovery";
-
-    position: relative;
-    bottom: 10px;
-    color: #ffffff;
-    background-color: $discovery-color;
-    margin-left: 20px;
-
-    @include mobile_only {
-      font-size: 10pt;
-      padding: 3px 20px 3px 20px;
-      border-radius: 6px;
-      margin-left: 15px;
-      bottom: 5px;
-    }
-
-    @include tablet {
-      margin-left: 20px;
-      margin-bottom: 30px;
-      padding: 5px 20px 5px 20px;
-      border-radius: 6px;
-      font-size: 10pt;
-    }
-
-    @include desktop {
-      margin-bottom: 30px;
-      padding: 5px 30px 5px 30px;
-      border-radius: 6px;
-      font-size: 12pt;
-    }
-  }
-
-  h3.découvertefr::after {
-    content: "Découverte";
-
-    position: relative;
-    bottom: 10px;
-    color: #ffffff;
-    background-color: $discovery-color;
-    margin-left: 20px;
-
-    @include mobile_only {
-      font-size: 10pt;
-      padding: 3px 20px 3px 20px;
-      border-radius: 6px;
-      margin-left: 15px;
-      bottom: 5px;
-    }
-
-    @include tablet {
-      margin-left: 20px;
-      margin-bottom: 30px;
-      padding: 5px 20px 5px 20px;
-      border-radius: 6px;
-      font-size: 10pt;
-    }
-
-    @include desktop {
-      margin-bottom: 30px;
-      padding: 5px 30px 5px 30px;
-      border-radius: 6px;
-      font-size: 12pt;
-    }
-  }
-
-  h3.beta::after {
-    content: "Beta";
-
-    position: relative;
-    bottom: 10px;
-    color: #ffffff;
-    background-color: $beta-color;
-    margin-left: 20px;
-
-    @include mobile_only {
-      font-size: 10pt;
-      padding: 3px 20px 3px 20px;
-      border-radius: 6px;
-      margin-left: 15px;
-      bottom: 5px;
-    }
-
-    @include tablet {
-      margin-left: 20px;
-      margin-bottom: 30px;
-      padding: 5px 20px 5px 20px;
-      border-radius: 6px;
-      font-size: 10pt;
-    }
-
-    @include desktop {
-      margin-bottom: 30px;
-      padding: 5px 30px 5px 30px;
-      border-radius: 6px;
-      font-size: 12pt;
-    }
-  }
-
+  h3.beta::after,
   h3.betafr::after {
-    content: "Bêta";
-
-    position: relative;
-    bottom: 10px;
-    color: #ffffff;
     background-color: $beta-color;
-    margin-left: 20px;
+  }
 
-    @include mobile_only {
-      font-size: 10pt;
-      padding: 3px 20px 3px 20px;
-      border-radius: 6px;
-      margin-left: 15px;
-      bottom: 5px;
-    }
+  h3.beta::after { content: "Beta"; }
+  h3.betafr::after { content: "Bêta"; }
 
-    @include tablet {
-      margin-left: 20px;
-      margin-bottom: 30px;
-      padding: 5px 20px 5px 20px;
-      border-radius: 6px;
-      font-size: 10pt;
-    }
-
-    @include desktop {
-      margin-bottom: 30px;
-      padding: 5px 30px 5px 30px;
-      border-radius: 6px;
-      font-size: 12pt;
-    }
+  h3.live::after,
+  h3.livefr::after {
+    content: "Live";
+    background-color: $live-color;
   }
 
   h4 {
     font-weight: 500;
 
-    @include mobile_only {
-      margin-top: 5px;
-    }
-
+    @include mobile_only { margin-top: 5px; }
     @include tablet {
       font-size: 18pt;
       margin-top: 10px;
     }
-
     @include desktop {
       font-size: 22pt;
       margin-top: 20px;
@@ -656,9 +495,7 @@ span.livefr {
     color: #000000;
   }
 
-  p {
-    margin-bottom: 0px;
-  }
+  p { margin-bottom: 0px; }
 }
 
 .work-in-progress--product-summary {
@@ -675,82 +512,47 @@ span.livefr {
 .service-link {
   padding-top: 5px;
 
-  @include mobile_only {
-    font-size: 12pt;
-  }
-
-  @include tablet {
-    font-size: 12pt;
-  }
-
-  @include desktop {
-    font-size: 14pt;
-  }
+  @include mobile_only { font-size: 12pt; }
+  @include tablet { font-size: 12pt; }
+  @include desktop { font-size: 14pt; }
 }
 
 .bottom-container {
-  padding-top: 10px;
   justify-content: space-between;
-
-  @include mobile_only {
-    display: block;
-  }
-
-  @include tablet {
-    display: block;
-  }
-
-  @include tv {
-    display: flex;
-  }
-
-  @include desktop {
-    display: flex;
-  }
 }
 
+.bottom-container,
 .bottom-container-nolinks {
   padding-top: 10px;
 
-  @include mobile_only {
-    display: block;
-  }
-
-  @include tablet {
-    display: block;
-  }
-
-  @include tv {
-    display: flex;
-  }
-
-  @include desktop {
-    display: flex;
-  }
+  @include mobile_only { display: block; }
+  @include tablet { display: block; }
+  @include tv { display: flex; }
+  @include desktop { display: flex; }
 }
 
 .title-container {
   display: flex;
 }
 
+.work-in-progress--team,
+.work-in-progress--partners-nolinks,
+.work-in-progress--partners-long {
+  padding-bottom: 20px;
+}
+
 .work-in-progress--links,
 .work-in-progress--partners,
 .work-in-progress--team {
   padding-right: 15px;
-  padding-bottom: 20px;
 }
 
 .work-in-progress--partners-nolinks {
   padding-right: 10%;
-  padding-bottom: 20px;
 }
 
 .work-in-progress--partners-long {
-  padding-bottom: 20px;
-
-  @include tablet {
-    width: 45%;
-  }
+  @include tablet { width: 45%; }
 }
 
 .statusButton {
@@ -760,17 +562,9 @@ span.livefr {
 .seperator {
   margin: 0px auto;
 
-  @include mobile_only {
-    width: 100%;
-  }
-
-  @include tablet {
-    width: 80%;
-  }
-
-  @include desktop {
-    width: 65%;
-  }
+  @include mobile_only { width: 100%; }
+  @include tablet { width: 80%; }
+  @include desktop { width: 65%; }
 }
 
 ////////////////////////////////////////////////////
@@ -809,13 +603,13 @@ span.livefr {
   }
 
   h4 {
-    @include mobile-only {
-      font-size: 1.75rem;
-    }
-
     font-size: 2.25rem;
     font-weight: 500;
     margin-bottom: 2rem;
+
+    @include mobile-only {
+      font-size: 1.75rem;
+    }
   }
 }
 
@@ -838,13 +632,8 @@ span.livefr {
     font-weight: 500;
     font-size: 1.75rem;
 
-    @include tablet {
-      font-size: 2rem;
-    }
-
-    @include tv {
-      font-size: 2.25rem;
-    }
+    @include tablet { font-size: 2rem; }
+    @include tv { font-size: 2.25rem; }
   }
 
   li {
@@ -910,13 +699,8 @@ span.livefr {
   h4 {
     font-size: 1.75rem;
 
-    @include tablet {
-      font-size: 2rem;
-    }
-
-    @include tv {
-      font-size: 2.25rem;
-    }
+    @include tablet { font-size: 2rem; }
+    @include tv { font-size: 2.25rem; }
   }
 
   hr {
@@ -1041,13 +825,8 @@ span.livefr {
     background-size: cover;
     background-position: center center;
 
-    @include tablet {
-      margin-top: 1rem;
-    }
-
-    @include desktop {
-      height: 20rem;
-    }
+    @include tablet { margin-top: 1rem; }
+    @include desktop { height: 20rem; }
   }
 
   h2 {
@@ -1067,9 +846,7 @@ span.livefr {
   .readmore {
     margin-top: 2rem;
 
-    a {
-      display: inline-block;
-    }
+    a { display: inline-block; }
   }
 
   & li.pagination {
@@ -1115,13 +892,8 @@ article.post {
   }
 
   a.large-link {
-    @include tablet {
-      font-size: 2.25rem;
-    }
-
-    @include tv {
-      font-size: 2.25rem;
-    }
+    @include tablet { font-size: 2.25rem; }
+    @include tv { font-size: 2.25rem; }
   }
 
   .post-header {
@@ -1327,12 +1099,7 @@ article.post {
   height: 12rem;
   position: relative;
 
-  @include tablet  {
-    height: 20rem;
-  }
-
-  @include desktop {
-    height: 28rem;
-  }
+  @include tablet  { height: 20rem; }
+  @include desktop { height: 28rem; }
 
 }

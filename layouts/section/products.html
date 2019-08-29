@@ -21,11 +21,12 @@
       {{ .Content }}
       <h2 class="section--title">{{ i18n "in-flight" }}</h2>
       {{ range where .Pages ".Params.status" "==" "in-flight" }}
-      {{ .Render "list"}}
+        {{ .Render "list"}}
       {{ end }}
+
       <h2 class="section--title">{{ i18n "past-products"}}</h2>
       {{ range where .Pages ".Params.status" "==" "past" }}
-      {{ .Render "list"}}
+        {{ .Render "list"}}
       {{ end }}
     </section>
   </section>
