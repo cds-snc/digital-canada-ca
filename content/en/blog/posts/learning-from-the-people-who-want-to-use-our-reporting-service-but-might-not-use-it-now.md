@@ -15,8 +15,7 @@ image-alt: >-
   tool prototype pulled displayed. The title reads, “Report a scam or an online
   crime”.
 translationKey: reporting-service-checklist
-thumb: ''
-processed: ''
+thumb: /img/cds/rcmp-prototype-en.jpg
 ---
 Our raison d’être at the Canadian Digital Service (CDS) is putting people first in order to make government services easier for them to use. So naturally, to help us better understand how we can do that, we talk a lot about conducting research with people who use our services. 
 
