@@ -38,7 +38,7 @@ People who don’t report, or “non-reporters,” are not a static group. Feeli
 
 ## What have you learned about building a service that people don’t _have_ to use, but _choose_ to use, like a cybercrime reporting tool?
 
-Even though we’re building a reporting tool, reporting in itself is not a need for cybercrime victims. We learned that, for victims, **reporting is a means to an end to get support, emotional reassurance, and guidance on how to prevent this from happening in the future.**
+**Mel:** Even though we’re building a reporting tool, reporting in itself is not a need for cybercrime victims. We learned that, for victims, **reporting is a means to an end to get support, emotional reassurance, and guidance on how to prevent this from happening in the future.**
 
 There also isn’t a lot of education around cybercrime right now, which is challenging because you have to design for people who are experiencing a thing that they might not have the words to describe. 
 
@@ -48,7 +48,7 @@ Instead of building a service that is only built for people who know what cyberc
 
 ## How are you and the team using this information to make the experience better for people to report?
 
-[We put together a document](https://digital.canada.ca/files/rcmp-barriers-to-reporting-en.docx) that highlights all the reasons why people don’t report. We listed all those bad experiences and barriers, and we asked ourselves, “What can we learn from these? How can we look at each of those points of discontent and turn them into positive experiences, or prevent them in the future?”
+**Mel:** [We put together a document](https://digital.canada.ca/files/rcmp-barriers-to-reporting-en.docx) that highlights all the reasons why people don’t report. We listed all those bad experiences and barriers, and we asked ourselves, “What can we learn from these? How can we look at each of those points of discontent and turn them into positive experiences, or prevent them in the future?”
 
 We took the data from the existing experience of reporting and created design recommendations in the form of a [checklist](https://digital.canada.ca/files/rcmp-design-recommendations-en.docx). This checklist became the standard for a good reporting experience which our designers, developers, and product manager relied on throughout prototyping. 
 
