@@ -45,6 +45,7 @@ Le Service numérique canadien est à la recherche d’un rédacteur technique e
 * Vous savez que parfois, essayer quelque chose est le meilleur moyen de savoir si ça va marcher.
 * Vous êtes à l’aise avec ce que vous savez et avec ce que vous ne savez pas, et vous savez comment travailler avec les autres pour réaliser de grandes choses.
 * Vous savez que l’exécution en temps voulu est préférable à la perfection.
+* Vous parlez couramment le français et l’anglais (dans le langage du gouvernement, nous recherchons une personne de niveau CBC).
 
 ## Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
  
