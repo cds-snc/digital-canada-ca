@@ -396,36 +396,36 @@ span.discovery,
 span.discoveryfr {
   color: $discovery-color;
 }
-.bg-discovery,
-.bg-discoveryfr {
-  background-color: $discovery-color;
+.border-discovery,
+.border-discoveryfr {
+  border-bottom: 40px solid $discovery-color;
 }
 
 span.alpha,
 span.alphafr {
   color: $alpha-color;
 }
-.bg-alpha,
-.bg-alphafr {
-  background-color: $alpha-color;
+.border-alpha,
+.border-alphafr {
+  border-bottom: 40px solid $alpha-color;
 }
 
 span.beta,
 span.betafr {
   color: $beta-color;
 }
-.bg-beta,
-.bg-betafr {
-  background-color: $beta-color;
+.border-beta,
+.border-betafr {
+  border-bottom: 40px solid $beta-color;
 }
 
 span.live,
 span.livefr {
   color: $live-color;
 }
-.bg-live,
-.bg-livefr {
-  background-color: $live-color;
+.border-live,
+.border-livefr {
+  border-bottom: 40px solid $live-color;
 }
 
 .row.equal {
@@ -436,7 +436,8 @@ span.livefr {
 .work-in-progress--product-module {
   background-color: $white;
   margin-bottom: 2em;
-  box-shadow: 5px 5px 5px $medium-grey;
+  box-shadow: 5px 8px 5px $medium-grey;
+  min-height: $min-product-card-height;
 
   h3 {
     font-weight: 500;
@@ -536,6 +537,7 @@ span.livefr {
 .work-in-progress--platform-module {
   padding-top: 0;
   padding-bottom: 0;
+  min-height: $min-resource-card-height;
 }
 
 .work-in-progress--product-summary {
