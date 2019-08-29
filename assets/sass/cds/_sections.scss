@@ -449,14 +449,15 @@ span.livefr {
     @include desktop { font-size: 30pt; }
   }
 
-  h3.live::before,
-  h3.livefr::before,
-  h3.alpha::before,
-  h3.alphafr::before,
-  h3.discovery::before,
-  h3.découvertefr::before,
-  h3.beta::before,
-  h3.betafr::before {
+  h3.live::after,
+  h3.livefr::after,
+  h3.alpha::after,
+  h3.alphafr::after,
+  h3.discovery::after,
+  h3.découvertefr::after,
+  h3.beta::after,
+  h3.betafr::after {
+    display: inline-block;
     position: relative;
     bottom: 10px;
     color: #ffffff;
@@ -479,33 +480,33 @@ span.livefr {
     }
   }
 
-  h3.live::before,
-  h3.livefr::before {
+  h3.live::after,
+  h3.livefr::after {
     content: "Live";
     background-color: $live-color;
   }
 
-  h3.alpha::before,
-  h3.alphafr::before {
+  h3.alpha::after,
+  h3.alphafr::after {
     content: "Alpha";
     background-color: $alpha-color;
   }
 
-  h3.discovery::before,
-  h3.découvertefr::before {
+  h3.discovery::after,
+  h3.découvertefr::after {
     background-color: $discovery-color;
   }
 
-  h3.discovery::before { content: "Discovery"; }
-  h3.découvertefr::before { content: "Découverte"; }
+  h3.discovery::after { content: "Discovery"; }
+  h3.découvertefr::after { content: "Découverte"; }
 
-  h3.beta::before,
-  h3.betafr::before {
+  h3.beta::after,
+  h3.betafr::after {
     background-color: $beta-color;
   }
 
-  h3.beta::before { content: "Beta"; }
-  h3.betafr::before { content: "Bêta"; }
+  h3.beta::after { content: "Beta"; }
+  h3.betafr::after { content: "Bêta"; }
 
   h4 {
     font-weight: 500;
