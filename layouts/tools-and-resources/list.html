@@ -39,7 +39,7 @@
       <div class="work-in-progress--team">
         <h4>Contact</h4>
         {{ range .Params.contact }}
-        <p><a href='mailto{{.email}}'>{{ .name }}</a></p>
+        <p><a href='mailto:{{.email}}'>{{ .name }}</a></p>
         {{ end }}
       </div>
     </div>
@@ -60,8 +60,7 @@
 
   <div class='row'>
     <div class='col-xs-12 bg-{{ .Params.phase }}'>
-        &nbsp;
-      </span>
+      &nbsp;
     </div>
   </div>
 </section>
