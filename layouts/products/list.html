@@ -36,21 +36,23 @@
   <!-- End DESC -->
 
   <div class="row">
-    <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-      <div class="work-in-progress--partners-long">
-        <h4>{{ i18n "partner" }}{{ if gt (len .Params.partners) 1 }}s{{end}}</h4>
-        {{ range .Params.partners }}
-          <p><a href='{{ .url }}'>{{ .name }}</a></p>
-        {{ end }}
+    {{ if gt (len .Params.partners) 0 }}
+      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+        <div class="work-in-progress--partners-long">
+          <h4>{{ i18n "partner" }}{{ if gt (len .Params.partners) 1 }}s{{end}}</h4>
+          {{ range .Params.partners }}
+            <p><a href='{{ .url }}'>{{ .name }}</a></p>
+          {{ end }}
+        </div>
       </div>
-    </div>
+    {{ end }}
 
     <div class="col-sm-10 col-sm-offset-1 col-xs-12">
       <!-- In progress team -->
       <div class="work-in-progress--team">
         <h4>Contact</h4>
         {{ range .Params.contact }}
-        <p><a href='mailto:{{.email}}'>{{.name}}</a></p>
+          <p><a href='mailto:{{.email}}'>{{.name}}</a></p>
         {{ end }}
       </div>
       <!-- End in progress team -->

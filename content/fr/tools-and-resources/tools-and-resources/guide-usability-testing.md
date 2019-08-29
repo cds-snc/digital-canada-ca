@@ -1,6 +1,7 @@
 ---
 title: Un guide pour les tests d’utilisabilité
 translationKey: usability-testing
+phase: live
 description: >-
   L’abc des tests d’utilisabilité.
 contact:
