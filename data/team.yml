@@ -110,7 +110,7 @@ exec:
     twitter: boardom_ca
   - archived: false
     email: Joshua.Ruihley@tbs-sct.gc.ca
-    github: '@jroo'
+    github: jroo
     image-name: /img/cds/josh-ruihley.jpg
     name: Josh Ruihley
     processed: 1552050695386
@@ -226,16 +226,16 @@ team:
     email: brock.higgins@tbs-sct.gc.ca
     github: brockhigg10
     image-name: /img/cds/brock-higgins.jpg
-    linkedin: brickhiggins
+    linkedin: brockhiggins
     name: Brock Higgins
     title:
       en: Talent
       fr: Talent
-    twitter: adriannehlee
+    twitter: brockhigg10
     processed: 1560521882135
   - archived: false
     email: Bryan.Willey@tbs-sct.gc.ca
-    github: 'https://github.com/willeybryan'
+    github: willeybryan
     image-name: /img/cds/bryan-willey.jpg
     linkedin: bryan-willey
     name: Bryan Willey
@@ -406,7 +406,7 @@ team:
     processed: 1563387298644
   - archived: false
     email: julianna.rowsell@tbs-sct.gc.ca
-    github: 'https://github.com/JuliannaR/juliannar.github.io'
+    github: JuliannaR
     image-name: /img/cds/julianna-rowsell.jpg
     linkedin: julianna-rowsell-86625624
     name: Julianna Rowsell

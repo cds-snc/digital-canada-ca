@@ -40,6 +40,15 @@
         {{ end }}
       </div>
 
+      {{ if gt (len .Params.partners) 0 }}
+        <div class="work-in-progress--partners-long">
+          <h4>{{ i18n "partner" }}{{ if gt (len .Params.partners) 1 }}s{{end}}</h4>
+          {{ range .Params.partners }}
+            <p><a href='{{ .url }}'>{{ .name }}</a></p>
+          {{ end }}
+        </div>
+      {{ end }}
+
       <!-- In progress team -->
       <div class="work-in-progress--team">
         <h4>Contact</h4>
