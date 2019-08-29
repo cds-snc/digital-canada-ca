@@ -436,13 +436,14 @@ span.livefr {
 .work-in-progress--product-module {
   background-color: $white;
   margin-bottom: 2em;
+  border-radius: 3px;
   box-shadow: 5px 8px 5px $medium-grey;
   min-height: $min-product-card-height;
 
   h3 {
     font-weight: 500;
-    margin-bottom: 0px;
-    margin-top: 50px;
+    margin-bottom: 25px;
+    margin-top: 25px;
 
     @include mobile_only { font-size: 24pt; }
     @include tablet { font-size: 26pt; }
