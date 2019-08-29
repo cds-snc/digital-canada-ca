@@ -4,7 +4,7 @@ about-this-site:
   other: "À propos du site"
 aria-canada-website:
   other: "Gouvernement du Canada"
-blog:
+blogue:
   other: "Lire notre blogue"
 canada-ca-link:
   other: "https://www.canada.ca/fr.html"
@@ -42,7 +42,7 @@ meet-the-full-team:
   other: "Toute l’équipe"
 next-post:
   other: "Billet suivant"
-our-team:
+rencontrez-lequipe:
   other: "Rencontrez l’équipe"
 partner:
   other: "Partenaire"
@@ -58,7 +58,7 @@ privacy-link:
   other: "/transparence/confidentialite/"
 privacy:
   other: "Confidentialité"
-products:
+produits:
   other: "Découvrir nos produits"
 read-more:
   other: "Lire davantage"
@@ -82,9 +82,9 @@ twitter:
   other: SNC_GC
 view-product:
   other: "Voir ce produit"
-work-with-us:
+rejoindre-notre-equipe:
   other: "Rejoindre notre équipe"
-what-we-do:
+ce-que-nous-faisons:
   other: "Ce que nous faisons"
 contact-us:
   other: "Contactez nous"
@@ -92,7 +92,7 @@ featured-post:
   other: "En savoir plus sur notre travail"
 more-posts:
   other: "Lire notre blogue"
-platform:
+tools-and-resources:
   other: "Outils et ressources"
 the-platform-team:
   other: "Équipe des plateformes"

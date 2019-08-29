@@ -8,7 +8,7 @@ exec:
     processed: 1552050695382
     title:
       en: Chief Executive Officer
-      fr: Dirigeant principal
+      fr: Président-directeur général
     twitter: aaronsnow
   - archived: false
     email: Alex.MacEachern@tbs-sct.gc.ca
@@ -40,6 +40,17 @@ exec:
       en: Head of Talent
       fr: Chef du talent
     twitter: andreagilbrook
+  - archived: false
+    email: chelsea.novak@tbs-sct.gc.ca
+    image-name: /img/cds/chelsea-novak.jpg
+    github: chelseanovak
+    twitter: herhighnessness
+    linkedin: chelseanovak
+    name: Chelsea Novak
+    title:
+      en: Head of Outreach
+      fr: Chef de liaison et diffusion
+    processed: 1563384025788
   - archived: false
     email: Christopher.Govias@tbs-sct.gc.ca
     image-name: /img/cds/chris-govias.jpg
@@ -99,7 +110,7 @@ exec:
     twitter: boardom_ca
   - archived: false
     email: Joshua.Ruihley@tbs-sct.gc.ca
-    github: '@jroo'
+    github: jroo
     image-name: /img/cds/josh-ruihley.jpg
     name: Josh Ruihley
     processed: 1552050695386
@@ -181,8 +192,8 @@ team:
     name: Anik Brazeau
     processed: 1552050695387
     title:
-      en: Outreach
-      fr: Liaison et diffusion
+      en: Design
+      fr: Conception
     twitter: brazeauanik
   - archived: false
     email: Anne-Marie.Mulumba@tbs-sct.gc.ca
@@ -203,19 +214,28 @@ team:
       en: Development
       fr: Développement
   - archived: false
+    email: brian.hendrick@tbs-sct.gc.ca
+    image-name: /img/cds/brian-hendrick.jpg
+    linkedin: hendrickbrian
+    name: Brian Hendrick
+    title:
+      en: Design
+      fr: Conception
+    processed: 1566844001404
+  - archived: false
     email: brock.higgins@tbs-sct.gc.ca
     github: brockhigg10
     image-name: /img/cds/brock-higgins.jpg
-    linkedin: brickhiggins
+    linkedin: brockhiggins
     name: Brock Higgins
     title:
       en: Talent
       fr: Talent
-    twitter: adriannehlee
+    twitter: brockhigg10
     processed: 1560521882135
   - archived: false
     email: Bryan.Willey@tbs-sct.gc.ca
-    github: 'https://github.com/willeybryan'
+    github: willeybryan
     image-name: /img/cds/bryan-willey.jpg
     linkedin: bryan-willey
     name: Bryan Willey
@@ -268,6 +288,14 @@ team:
       en: Security
       fr: Sécurité
   - archived: false
+    email: dan.sinclair@tbs-sct.gc.ca
+    image-name: /img/cds/dan-sinclair.jpg
+    name: Dan Sinclair
+    processed: 1563384025792
+    title:
+      en: Development
+      fr: Développement
+  - archived: false
     github: danprime
     image-name: /img/cds/daniel-tse.jpg
     linkedin: danielmktse
@@ -306,6 +334,14 @@ team:
       en: Outreach
       fr: Liaison et diffusion
   - archived: false
+    email: francois.moisan@tbs-sct.gc.ca
+    image-name: /img/cds/francois-moisan.jpg
+    name: Francois Moisan
+    title:
+      en: Support Technician
+      fr: Technicien de soutien
+    processed: 1563387298641
+  - archived: false
     email: Hillary.Lorimer@tbs-sct.gc.ca
     image-name: /img/cds/hillary-lorimer.jpg
     linkedin: hillary-b-lorimer
@@ -315,6 +351,15 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: hillarylorimer
+  - archived: false
+    email: jeana.frost@tbs-sct.gc.ca
+    image-name: /img/cds/jeana-frost.jpg
+    linkedin: jeanafrost
+    name: Jeana Frost
+    title:
+      en: Design Research
+      fr: Recherche en conception
+    processed: 1566844001408
   - archived: false
     email: jeff.maher@tbs-sct.gc.ca
     github: jeffmaher
@@ -351,8 +396,17 @@ team:
       en: Talent
       fr: Talent
   - archived: false
+    email: jose.jimenez@tbs-sct.gc.ca
+    image-name: /img/cds/jose-jimenez.jpg
+    linkedin: jimenezj27
+    name: Jose Jimenez
+    title:
+      en: Partnerships
+      fr: Partenariats
+    processed: 1563387298644
+  - archived: false
     email: julianna.rowsell@tbs-sct.gc.ca
-    github: 'https://github.com/JuliannaR/juliannar.github.io'
+    github: JuliannaR
     image-name: /img/cds/julianna-rowsell.jpg
     linkedin: julianna-rowsell-86625624
     name: Julianna Rowsell
@@ -361,6 +415,14 @@ team:
       en: Accessibility
       fr: Accessibilité
     twitter: JuliannaRowsell
+  - archived: false
+    email: kate.wilhelm@tbs-sct.gc.ca
+    image-name: /img/cds/kate-wilhelm.jpg
+    name: Kate Wilhelm
+    title:
+      en: Design
+      fr: Conception
+    processed: 1563387298644
   - archived: false
     email: keith.emmerson@tbs-sct.gc.ca
     github: keithiopia
@@ -374,7 +436,7 @@ team:
     processed: 1560521882136
   - archived: false
     email: Khalid.Elaggan@tbs-sct.gc.ca
-    image-name: /img/cds/khalid_elaggan.jpg
+    image-name: /img/cds/khalid-elaggan.jpg
     linkedin: khalidelaggan
     name: Khalid Elaggan
     processed: 1552050695392
@@ -383,7 +445,7 @@ team:
       fr: Développement
     twitter: ElagganK
   - archived: false
-    email: leon.lukashevsky@codefor.ca
+    email: leon.lukashevsky@tbs-sct.gc.ca
     github: leonL
     image-name: /img/cds/leon-lukashevsky.jpg
     linkedin: le0nl
@@ -602,6 +664,16 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: vchanimal
+  - archived: false
+    email: yael.berger@tbs-sct.gc.ca
+    image-name: /img/cds/yael-berger.jpg
+    linkedin: yael-berger-5791a455
+    name: Yael Berger
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    twitter: yaelberger
+    processed: 1566844001408
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.jpg

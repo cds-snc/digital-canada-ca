@@ -14,7 +14,8 @@
     "netlify-cms": "^2.9.1",
     "sharp": "^0.22.1",
     "style-loader": "^0.23.1",
-    "webpack": "^4.35.3"
+    "webpack": "^4.35.3",
+    "snyk": "^1.221.0"
   },
   "devDependencies": {
     "node-yaml": "^3.2.0",
@@ -27,7 +28,9 @@
     "build_admin": "webpack --config webpack.config.js",
     "build:stage": "webpack && hugo --environment staging",
     "heroku-postbuild": "webpack && ./bin/hugo --environment staging",
-    "stage-server": "node stage-server.js"
+    "stage-server": "node stage-server.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -35,5 +38,6 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/cds-snc/digital-canada-ca#readme"
+  "homepage": "https://github.com/cds-snc/digital-canada-ca#readme",
+  "snyk": true
 }

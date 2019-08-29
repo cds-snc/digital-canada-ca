@@ -13,7 +13,8 @@ image-alt: >-
   d’une table. Ils sourient et examinent un diagramme de service composé de
   papillons adhésifs de différentes couleurs.
 translationKey: data-driven-service
-thumb: /img/cds/rcmp-data-blog.jpg
+thumb: /img/cds/thumbnails/rcmp-data-blog.jpg
+processed: 1563384025449
 ---
 Je suis un grand lecteur. J’adore les livres. Mais j’ai parfois du mal à en choisir un. 
 
@@ -117,3 +118,4 @@ Au cours des semaines à venir, nous resterons fidèles à notre méthode : comm
 Il peut être difficile de concevoir un service qui répond aux besoins des gens. C’est d’autant plus vrai si ceux-ci se trouvent dans une position de vulnérabilité comme celle causée par les contrecoups de la cybercriminalité. Nous pouvons toutefois accroître notre niveau de confiance en combinant des données qualitatives et quantitatives.
 
 Aussi inconfortable qu’elle puisse être au début, cette combinaison en vaut la peine.
+
