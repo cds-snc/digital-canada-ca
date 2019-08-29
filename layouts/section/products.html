@@ -20,16 +20,24 @@
     <section class="page--outer-container-padding">
       {{ .Content }}
       <h2 class="section--title">{{ i18n "in-flight" }}</h2>
-      <div class='row equal'>
-        {{ range where .Pages ".Params.status" "==" "in-flight" }}
+      <div class='row equal 0'>
+        {{ range $elem_index, $elem_val := where .Pages ".Params.status" "==" "in-flight" }}
+          {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+            </div>
+            <div class='row equal'>
+          {{ end }}
           <div class='col-md-6 col-xs-12'>
-            {{ .Render "list"}}
+            {{ $elem_val.Render "list"}}
           </div>
         {{ end }}
       </div>
       <h2 class="section--title">{{ i18n "past-products"}}</h2>
       <div class='row equal'>
-        {{ range where .Pages ".Params.status" "==" "past" }}
+        {{ range $elem_index, $elem_val := where .Pages ".Params.status" "==" "past" }}
+          {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+            </div>
+            <div class='row equal'>
+          {{ end }}
           <div class='col-md-6 col-xs-12'>
             {{ .Render "list"}}
           </div>

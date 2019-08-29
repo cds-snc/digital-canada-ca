@@ -392,6 +392,13 @@
   }
 }
 
+.row.equal {
+  @include desktop {
+    display: flex;
+    margin-bottom: 2em;
+  }
+}
+
 span.discovery,
 span.discoveryfr {
   color: $discovery-color;
@@ -428,17 +435,15 @@ span.livefr {
   border-bottom: 40px solid $live-color;
 }
 
-.row.equal { flex-wrap: wrap; }
-
 .work-in-progress--product-module {
   background-color: $white;
   margin-bottom: 2em;
   box-shadow: 5px 8px 5px $medium-grey;
-  min-height: $min-product-card-height;
+  height: 100%;
 
   h3 {
     font-weight: 500;
-    margin-top: 15px;
+    margin-top: 25px;
     margin-bottom: 0;
 
     @include mobile_only { font-size: 24pt; }
@@ -536,7 +541,6 @@ span.livefr {
 .work-in-progress--platform-module {
   padding-top: 0;
   padding-bottom: 0;
-  min-height: $min-resource-card-height;
 }
 
 .work-in-progress--product-summary {
