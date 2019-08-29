@@ -558,17 +558,9 @@ span.livefr {
 .service-link {
   padding-top: 5px;
 
-  @include mobile_only {
-    font-size: 12pt;
-  }
-
-  @include tablet {
-    font-size: 12pt;
-  }
-
-  @include desktop {
-    font-size: 14pt;
-  }
+  @include mobile_only { font-size: 12pt; }
+  @include tablet { font-size: 12pt; }
+  @include desktop { font-size: 14pt; }
 }
 
 .bottom-container {
