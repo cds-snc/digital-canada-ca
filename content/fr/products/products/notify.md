@@ -8,8 +8,6 @@ phase: alpha
 contact:
   - email: bryan.willey@tbs-sct.gc.ca
     name: Bryan Willey
-partners:
-  - name: N/A
-    url: ''
+partners: []
 status: in-flight
 ---
