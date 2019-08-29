@@ -15,7 +15,8 @@ image-alt: >-
   tool prototype pulled displayed. The title reads, “Report a scam or an online
   crime”.
 translationKey: reporting-service-checklist
-thumb: /img/cds/rcmp-prototype-en.jpg
+thumb: /img/cds/thumbnails/rcmp-prototype-en.jpg
+processed: 1567091591113
 ---
 Our raison d’être at the Canadian Digital Service (CDS) is putting people first in order to make government services easier for them to use. So naturally, to help us better understand how we can do that, we talk a lot about conducting research with people who use our services. 
 
@@ -65,3 +66,4 @@ We’re currently conducting validation and usability tests to ensure that we’
 * [Understanding the human needs of people impacted by cybercrime](https://digital.canada.ca/2019/05/06/understanding-the-human-needs-of-people-impacted-by-cybercrime/)
 * [Ear to the ground: using the words people use](https://digital.canada.ca/2019/06/06/ear-to-the-ground-using-the-words-people-use/)
 * [Qualitative data: uncomfortable, but worth it](https://digital.canada.ca/2019/07/11/qualitative-data-uncomfortable-but-worth-it/)
+

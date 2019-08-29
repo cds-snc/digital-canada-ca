@@ -18,7 +18,8 @@ image-alt: >-
   affiche une page du prototype de signalement. Le titre de la page est «
   Signalez une fraude ou un crime informatique »
 translationKey: reporting-service-checklist
-thumb: /img/cds/rcmp-prototype-fr.jpg
+thumb: /img/cds/thumbnails/rcmp-prototype-fr.jpg
+processed: 1567091591211
 ---
 Notre raison d’être au Service numérique canadien (SNC) est d’accorder la priorité aux gens afin de faciliter leur utilisation des services gouvernementaux. Naturellement, pour nous aider à mieux comprendre comment nous pouvons y parvenir, nous parlons beaucoup de recherche avec les gens qui utilisent nos services. 
 
@@ -68,3 +69,4 @@ Nous effectuons actuellement des tests de validation et d’utilisabilité pour 
 * [Comprendre les besoins humains des personnes touchées par la cybercriminalité](https://numerique.canada.ca/2019/05/06/comprendre-les-besoins-humains-des-personnes-touch%C3%A9es-par-la-cybercriminalit%C3%A9/)
 * [Être tout oreilles pour utiliser les mêmes mots que les gens](https://numerique.canada.ca/2019/06/06/%C3%AAtre-tout-oreilles-pour-utiliser-les-m%C3%AAmes-mots-que-les-gens/)
 * [Données qualitatives : inconfortables, oui, mais elles valent le coup](https://numerique.canada.ca/2019/07/11/donn%C3%A9es-qualitatives-inconfortables-oui-mais-elles-valent-le-coup/)
+
