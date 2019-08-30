@@ -1,5 +1,5 @@
 {{ define "title" }}
-    <div class="page-banner"> 
+    <div class="page-banner">
         {{ partial "menu.html" . }}
         <div class="page-banner--tag-line">
             <section class="page-wide--outer-container-padding">
@@ -12,38 +12,49 @@
                         <div class="h1 col-xs-12 col-sm-8 col-md-8">{{ i18n "homepage-tag-line" }}</div>
                     </div>
                 </div>
-            </section>      
+            </section>
         </div>
     </div>
 {{ end }}
 {{ define "index" }}
-    <section class="section section--featured-blogposts">
-            <div class="container">
-                <h2 class="section--title">{{i18n "featured-post" }}</h2>
-        
-                <div class="row blog-posts">
-
-                    {{ $posts := where .Pages "Section" "blog" }}
-        
-                    {{ range first 4 $posts }}
-                    <div class="col-xs-12 col-sm-4 col-md-3">
-                        <a class="post" href="{{ .RelPermalink }}">
-                            <div class="image" style="background-image:url('{{ .Params.thumb }}')"></div>
-                            <div class="text">
-                                <h3>{{ .Params.title }}</h3>
-                            <div class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
-                            </div>
-                        </a>
-                    </div>
-                    {{ end }}
-                </div>
-                <div class="button-center">
-                    <a href="/blog">{{i18n "more-posts" }}</a>
-                </div>
+  <section class="section section--featured-blogposts">
+    <div class="container">
+      <div class="row">
+        <div class='col-xs-10'>
+          <h2>{{i18n "featured-post" }}</h2>
+        </div>
+        <div class='col-xs-2'>
+          <a href="{{ with $.Site.GetPage "blog" }}{{.URL}}{{ end }}"
+             class='title-link'>
+            {{i18n "more-posts" }}
+            <i class='fas fa-arrow-circle-right'></i>
+          </a>
+        </div>
+      </div>
+      <div class="row blog-posts">
+        {{ $posts := where .Pages "Section" "blog" }}
+        {{ range first 3 $posts }}
+          <div class="col-xs-12 col-sm-4 col-md-4">
+            <div class='post'>
+              <div class="image"
+                   style="background-image:url('{{ .Params.thumb }}')"></div>
+              <div class="text">
+                <h3>{{ .Params.title }}</h3>
+                <div class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
+              </div>
+              <a href="{{ .RelPermalink }}">
+                {{ i18n "read-more" }}
+                <i class='fas fa-arrow-circle-right'></i>
+              </a>
             </div>
-        </section>  
-    <section class="section section--mailing-list">
-        {{ $path := printf "%s%s%s" "mailing-list." (string ($.Site.Language)) ".html" }}
-        {{ partial  $path }}
-    </section>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--mailing-list">
+    {{ $path := printf "%s%s%s" "mailing-list." (string ($.Site.Language)) ".html" }}
+    {{ partial  $path }}
+  </section>
 {{ end }}
