@@ -19,9 +19,8 @@ image-alt: >-
   Une vingtaine de participants à un événement « Diversité au sein des services
   numériques » sont assis autour de grandes tables rondes, avec des ordinateurs
   portables et des papillons adhésifs, à l’occasion d’un atelier.
-translationKey: Assessing-training-needs
-thumb: ''
-processed: ''
+translationKey: assessing-training-needs
+thumb: /img/cds/tna-image.jpg
 ---
 Alors que le gouvernement du Canada (GC) s’efforce d’améliorer sa façon de concevoir et d’offrir des services, il est possible d’envisager de nouveaux outils, méthodes et pratiques pour renforcer notre capacité à y parvenir. Mais les gens — les fonctionnaires — demeurent au cœur de ces efforts. Ainsi, lorsque nous avons fait équipe avec la Faculté de gestion de l’Université Dalhousie, à la fin de l’année dernière, pour mieux comprendre et évaluer les besoins actuels en formation dans les disciplines numériques à l’échelle du GC, nous avons commencé par consulter les fonctionnaires. Communiquer directement avec eux nous a permis de mieux comprendre leurs besoins et la façon dont nous pouvons y répondre. Le rapport complet se trouve sur [le site Web de l’Université Dalhousie](https://bit.ly/2NHBVyG).
 
