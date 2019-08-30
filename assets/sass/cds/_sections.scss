@@ -1085,6 +1085,11 @@ article.post {
     background-color: $black;
     color: $white;
     border-radius: 0;
+
+    border: 2px solid black;
+    &:hover {
+      border: 2px solid white;
+    }
   }
 }
 
@@ -1092,7 +1097,6 @@ article.post {
   padding-top: 4rem;
   padding-bottom: 4rem;
   background-color: $primary-color;
-  box-shadow: 0 0 5px 3px $medium-grey;
 
   h2 {
     font-size: 1.75em;
