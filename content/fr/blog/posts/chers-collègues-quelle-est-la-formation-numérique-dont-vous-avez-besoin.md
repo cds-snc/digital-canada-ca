@@ -15,7 +15,7 @@ translationKey: digital-training-needs
 thumb: /img/cds/thumbnails/screen-shot-2018-11-01-at-3.42.39-pm.jpg
 processed: 1550672961805
 ---
-**Mise à jour :** *Renforcement de la capacité numérique : le rapport sur l’analyse des besoins en formation est maintenant disponible sur le site Web de l’Université Dalhousie! [Lisez ici ce que nous avons découvert](https://numerique.canada.ca/2019/08/30/%C3%A9valuer-les-besoins-en-formation-du-gouvernement-pour-lavenir-de-la-prestation-de-services-num%C3%A9riques/?utm_source=Blog&utm_medium=Twitter&utm_campaign=TNA-Blog-Twitter-FR ). Merci à tous les fonctionnaires qui ont participé au sondage. Vos réponses contribueront à orienter l’apprentissage sur les disciplines numériques émergentes.*
+**Mise à jour :** *Renforcement de la capacité numérique : le rapport sur l’analyse des besoins en formation est maintenant disponible sur le site Web de l’Université Dalhousie! [Lisez ici ce que nous avons découvert](https://numerique.canada.ca/2019/08/30/%C3%A9valuer-les-besoins-en-formation-du-gouvernement-pour-lavenir-de-la-prestation-de-services-num%C3%A9riques/?utm_source=Blog&utm_medium=Twitter&utm_campaign=TNA-Blog-Twitter-FR). Merci à tous les fonctionnaires qui ont participé au sondage. Vos réponses contribueront à orienter l’apprentissage sur les disciplines numériques émergentes.*
 
 Afin de travailler dans l’ère numérique, les fonctionnaires ont besoin de posséder les compétences numériques appropriées. Cela est particulièrement vrai lorsqu’il est question de travailler en ayant recours à de nouvelles façons de concevoir et de fournir des services aux Canadiens.
 
