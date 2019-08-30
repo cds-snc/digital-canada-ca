@@ -1036,31 +1036,21 @@ article.post {
     background: none;
     border-top: $medium-grey 4px solid;
   }
-  p {
-    text-align: center;
-  }
 }
 
 .mc-field-group {
-  max-width: 45rem;
-  width: 90%;
-  margin: auto;
+  padding-left: 0;
+  padding-bottom: 0;
 }
 
 #mc_embed_signup {
   .email {
     border-radius: 0;
-    border: $primary-color 2px solid;
+    border: $black 2px solid;
     height: 42px;
     font-weight: 100;
     font-size: 2rem;
     width: 100%;
-
-    &::placeholder {
-      font-weight: 100;
-      font-style: italic;
-      color: #bbb !important;
-    }
 
     &:focus {
       outline: none;
@@ -1080,20 +1070,40 @@ article.post {
     }
   }
 
+  .mc-field-group { padding-right: 0; }
+
   .submit-button-container {
     text-align: center;
-    margin-top: 2.5rem;
+    margin-top: 1rem;
+    padding-left: 0;
   }
-  .mce-submit-button {
-    background: $primary-color;
-    color: $secondary-color;
+  .mce-privacy {
+    margin-top: 0;
+    a { font-size: 1.5rem; }
+  }
+  #mc-embedded-subscribe {
+    background-color: $black;
+    color: $white;
+    border-radius: 0;
+  }
+}
+
+.newsletter-subscribe {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: $primary-color;
+  box-shadow: 0 0 5px 3px $medium-grey;
+
+  h2 {
+    font-size: 1.75em;
+    font-weight: 900;
+    margin-bottom: 0.25em;
+    text-align: left;
   }
 
-  .mce-privacy {
-    font-size: 1.5rem;
-    text-align: center;
-    font-weight: 100;
-    margin-top: 1rem;
+  p {
+   font-size: 1.25em;
+   line-height: 1.1em;
   }
 }
 
