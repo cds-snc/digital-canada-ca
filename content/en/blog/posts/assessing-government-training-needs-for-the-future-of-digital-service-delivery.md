@@ -15,9 +15,8 @@ image: /img/cds/tna-image.jpg
 image-alt: >-
   About 20 participants of a “Diversity in Digital Services” event sit around
   big round tables with laptops and sticky notes during a workshop.
-translationKey: Assessing-training-needs
-thumb: ''
-processed: ''
+translationKey: assessing-training-needs
+thumb: /img/cds/tna-image.jpg
 ---
 As the Government of Canada (GC) works to improve how it designs and delivers services, we can look to use new tools, methods and practices to help us build our capacity to get there. People — public servants — remain at the centre of these efforts. So, when we teamed up with the Faculty of Management at Dalhousie University late last year to better understand and assess the current training needs for digital disciplines across the GC, we started by talking to public servants. By directly engaging with them, we’re able to build a better understanding of their needs and how we can meet them. The full Report can be found on [Dalhousie’s website](https://bit.ly/30I14wC).
 
