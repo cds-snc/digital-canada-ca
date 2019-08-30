@@ -279,7 +279,7 @@ td {
 	@include tablet {
 		font-size: 2rem;
 	}
-	
+
 	@include tv {
 		font-size: 2.25rem;
 		line-height: 3.5rem;
@@ -344,8 +344,11 @@ th {
 }
 
 .social-links-footer{
-  border-top: 4px solid #066169;
-  margin-bottom:3.5rem;
+  padding-top:3.5rem;
+  padding-bottom:3.5rem;
+  background-color: $dark-grey;
+
+  #contact-us-links { color: $white; }
 }
 
 .social-links-footer ul{
