@@ -25,24 +25,32 @@
 {{ define "index" }}
   <section class="section section--featured-blogposts">
     <div class="container">
-      <h2 class="section--title">{{i18n "featured-post" }}</h2>
+      <div class="row">
+        <div class='col-xs-10'>
+          <h2>{{i18n "featured-post" }}</h2>
+        </div>
+        <div class='col-xs-2 view-all'>
+          <a href="/blog">{{i18n "more-posts" }}</a>
+        </div>
+      </div>
       <div class="row blog-posts">
         {{ $posts := where .Pages "Section" "blog" }}
-        {{ range first 4 $posts }}
-          <div class="col-xs-12 col-sm-4 col-md-3">
-            <a class="post" href="{{ .RelPermalink }}">
+        {{ range first 3 $posts }}
+          <div class="col-xs-12 col-sm-4 col-md-4">
+            <div class='post'>
               <div class="image"
                    style="background-image:url('{{ .Params.thumb }}')"></div>
               <div class="text">
                 <h3>{{ .Params.title }}</h3>
                 <div class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
               </div>
-            </a>
+              <a href="{{ .RelPermalink }}">
+                Read more
+                <i class='fas fa-arrow-circle-right'></i>
+              </a>
+            </div>
           </div>
         {{ end }}
-      </div>
-      <div class="button-center">
-        <a href="/blog">{{i18n "more-posts" }}</a>
       </div>
     </div>
   </section>

@@ -282,28 +282,39 @@
 
 .section--featured-blogposts {
   background: $bg-grey;
-  padding-bottom: 4rem;
+  padding-bottom: 0;
 
-  .container {
-    width: 90%;
+  h2 {
+    font-size: 2.5rem;
+    font-weight: 900;
+    margin: 0;
+    padding: 0;
+  }
+  .view-all {
+    text-align: right;
+
+    a { font-size: 1.5rem; }
   }
 
   .blog-posts {
-    @include tablet {
-      margin-bottom: 3rem;
-    }
+    @include tablet { margin-bottom: 3rem; }
 
     .post {
-      display: float;
-      float: center;
       background: $white;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+      box-shadow: 3px 5px 5px $medium-grey;
       display: block;
       transition: all 0.3s ease-in-out;
 
+      a {
+        padding: 1.5rem;
+        padding-right: 5px;
+        font-size: 1.50rem;
+        font-weight: 900;
+      }
+
+
       &:hover {
         box-shadow: 0 0 30px rgba(0, 0, 0, 0.8);
-        color: lighten($secondary-color, 10);
       }
 
       @include mobile_only {
@@ -312,7 +323,7 @@
       }
 
       @include tablet {
-        height: 28rem;
+        height: 31rem;
         margin: 1rem 0;
       }
 
@@ -323,9 +334,7 @@
         height: 15rem;
       }
 
-      .text {
-        padding: 1.5rem;
-      }
+      .text { padding: 1.5rem; }
 
       .date {
         color: $dark-grey;
@@ -1031,6 +1040,7 @@ article.post {
 .section--mailing-list {
   background: $bg-grey;
   padding-bottom: 8rem;
+  padding-top: 4rem;
 
   &.no-bg {
     background: none;
