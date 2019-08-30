@@ -34,7 +34,7 @@
 .button-center { text-align: center; }
 
 .button {
-	
+
 	position: relative;
 	display: inline-block;
 	font-weight: 400;
@@ -94,17 +94,14 @@
 	list-style: none;
 	margin: 0;
 	padding: 0;
-	
-	@include mobile_only {
-		margin: 0 2rem;
-	}
-	li {margin: 2rem 0 2rem 2rem;
-	}
+
+	@include mobile_only { margin: 0 2rem; }
+
+	li {margin: 2rem 0 2rem 2rem; }
 
 	i {
 		padding: 1.8rem;
-		border: $primary-color 2px solid;
-		color: $icon-grey;
+		color: $white;
 		border-radius: 50%;
 		text-align: center;
 		font-size: 2rem;
@@ -141,9 +138,9 @@
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	
+
 	@include tablet {
-		
+
 	}
 
 	&.exec {
@@ -233,7 +230,7 @@
 		position: relative;
 		border: $primary-color 3px solid;
 		margin: 5rem 1rem;
-		
+
 
 		@include tablet {
 			border: 0;
@@ -247,7 +244,7 @@
 	.item-text {
 		display: block;
 		padding: 7.5rem 1.5rem 1.5rem 1.5rem;
-		
+
 		@include tablet {
 			padding: 0 0 0 11rem;
 		}
@@ -255,7 +252,7 @@
 		@include desktop {
 			padding: 0 0 0 12rem;
 		}
-		
+
 	}
 
 	.item-icon {
@@ -319,7 +316,7 @@
 		margin-right: 0;
 		padding-left: 0;
 	}
-	
+
 	h2{
 		font-size: 3rem;
 		line-height: 4.25rem;
@@ -336,17 +333,17 @@
 		line-height: 2.25rem;
 		padding-top: 2rem;
 		padding-bottom: 2rem;
-		
+
 		@include desktop{
 			margin-top: -6rem;
 			padding-bottom: 6rem;
 		}
 	}
-	
+
 	blockquote{
 		border-left: 5px solid $primary-color;
 	}
-	
+
 	.translation-caption{
 		font-size: 1.5rem;
 		clear: both;
