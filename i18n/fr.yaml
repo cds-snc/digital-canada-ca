@@ -10,7 +10,7 @@ canada-ca-link:
   other: "https://www.canada.ca/fr.html"
 canada-ca:
   other: "Visiter Canada.ca"
-canadian-digital-service: 
+canadian-digital-service:
   other: "Service numérique canadien"
 close:
   other: 'Fermer'
@@ -52,12 +52,12 @@ pause:
   other: "Pause"
 play:
   other: "Lecture"
-previous-post: 
+previous-post:
   other: "Billet précédent"
 privacy-link:
   other: "/transparence/confidentialite/"
 privacy:
-  other: "Confidentialité"
+  other: "Politique de Confidentialité"
 produits:
   other: "Découvrir nos produits"
 read-more:
@@ -68,7 +68,7 @@ skip-to-content:
   other: "Passer au contenu principal"
 terms-and-conditions:
   other: "Avis"
-terms-link: 
+terms-link:
   other: "/transparence/avis/"
 top-of-page:
   other: "Haut de la page"
@@ -106,7 +106,7 @@ roadmap-next-steps:
   other: "Prochaines étapes"
 roadmap-date-modified:
   other: "Date de modification:"
-products-btn: 
+products-btn:
   other: "Produits"
 developer-tools-btn:
   other: "Outils et ressources"
