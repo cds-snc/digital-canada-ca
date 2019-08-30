@@ -9,15 +9,15 @@
   padding: 1.15rem;
   line-height: 0;
 
-  @include tablet { 
+  @include tablet {
     padding: 1.5rem 2rem;
   }
 
   .logo {
     height : 1.5rem;
 
-    @include tablet { 
-      height: 2rem; 
+    @include tablet {
+      height: 2rem;
     }
   }
 
@@ -28,11 +28,11 @@
   }
 
   .fip-logo:after {
-    bottom: 0; 
-    content: ""; 
-    position: absolute; 
-    top: 0; 
-    right: 0; 
+    bottom: 0;
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
     left: 0;
   }
 
@@ -69,7 +69,7 @@
         font-size: 2rem;
       }
 
-      @include tablet { 
+      @include tablet {
         font-size: 1.5rem;
       }
     }
@@ -84,7 +84,7 @@
 
 #wb-sm {
   background: none;
-	position: relative;	
+	position: relative;
 }
 
 .page-banner {
@@ -94,12 +94,12 @@
   height: 12rem;
   position: relative;
 
-  @include tablet { 
-    height: 20rem; 
+  @include tablet {
+    height: 20rem;
   }
 
-  @include desktop { 
-    height: 25rem; 
+  @include desktop {
+    height: 25rem;
   }
 
   .page-blogpost & {
@@ -123,16 +123,16 @@
     position    : relative;
     width       : 100%;
     z-index     : 1;
-    
-    @include tablet  { 
-      height: 30rem; 
+
+    @include tablet  {
+      height: 30rem;
     }
 
     @include desktop {
       height: 36rem;
     }
-    @include tv { 
-      height: 36rem; 
+    @include tv {
+      height: 36rem;
     }
   }
 }
@@ -171,12 +171,12 @@
     border-bottom: none !important;
     line-height: 1.25em;
 
-    @include tablet { 
-      font-size: 3rem; 
+    @include tablet {
+      font-size: 3rem;
     }
 
-    @include desktop { 
-      font-size: 3.75rem; 
+    @include desktop {
+      font-size: 3.75rem;
       line-height: 1.35; }
   }
 }
@@ -185,12 +185,12 @@
   height: 12rem;
   width: 100%;
 
-  @include tv { 
-    height: 14rem; 
+  @include tv {
+    height: 14rem;
   }
 
-  @include desktop { 
-    height: 16rem; 
+  @include desktop {
+    height: 16rem;
   }
 }
 
@@ -248,8 +248,8 @@
       line-height: 1.25em;
     }
 
-    @include desktop { 
-      font-size : 3em;     
+    @include desktop {
+      font-size : 3em;
     }
   }
 }
@@ -277,60 +277,38 @@ th {
 
 // Canada Footer
 #goc-footer{
-  border-top: 4px solid $secondary-color;
-  max-height: 10rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: $light-grey;
+  background-color: $black;
 
-  nav { 
-    padding: 0.5rem 0 0 0 !important; 
-  }
+  nav { padding: 0.5rem 0 0 0 !important; }
 }
 
 .goc-footer--links {
-  
   ul {
-    margin: 0; 
+    margin: 0;
     padding: 0;
     text-align: center;
 
-    @include tablet { 
-      text-align : left;  
-    }
+    @include tablet { text-align : left; }
   }
 
   li {
     list-style: none;
     display: inline-block;
-    padding: 0.7em 0 0.7em 0.7em;
-
-    &::after {
-      content: "\2022";
-      margin-left: 0.7em;
-      color: $dark-grey;
-    }
-
-    &:last-child {
-
-      &::after {
-        content: '';
-        margin-left: 0;
-      }
-    }
+    padding: 0.7em 2em 0.7em 0.7em;
   }
+
+  a { color: $white; }
 }
 
 .goc-footer--logo {
   text-align: center;
+  margin-top: 5px;
 
-  @include tablet { 
-    text-align: right;
-  }
+  @include tablet { text-align: right; }
 
-  .logo { 
-    height: 40px; 
-  }
+  .logo { height: 40px; }
 }
 
 .announcement-banner {
@@ -363,7 +341,7 @@ th {
 .social-links-footer .contact-info li{
   margin-top:3rem;
   margin-bottom:1rem;
-  
+
   @include mobile_only {
     margin-top:2rem;
     margin-bottom:2rem;
