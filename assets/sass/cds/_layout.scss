@@ -94,13 +94,8 @@
   height: 12rem;
   position: relative;
 
-  @include tablet {
-    height: 20rem;
-  }
-
-  @include desktop {
-    height: 25rem;
-  }
+  @include tablet { height: 20rem; }
+  @include desktop { height: 25rem; }
 
   .page-blogpost & {
     height: 25rem;
