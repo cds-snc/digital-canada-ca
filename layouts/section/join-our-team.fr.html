@@ -1,13 +1,13 @@
 {{ define "main" }}
 <div class="container">
-    <section class="section work-with-us--intro page-intro--outer-container-padding">
+    <section class="section work-with-us--intro">
         <div class="row">
             <div class="col-sm-10 col-sm-offset-1 col-xs-12">
                 <h2 class="section--title">Joignez-vous au SNC</h2>
                 <p>Nous transformons le gouvernement. Nos produits généreront des retombées dans la vie quotidienne des gens. Faire partie de notre mission, c’est passionnant. Et nous avons besoin de vous.</p>
 
                 <p>Le Service numérique canadien est un collectif de personnes créatives qui s’engagent à utiliser leurs compétences et leurs connaissances numériques pour faciliter l’accès aux services gouvernementaux et leur utilisation. Nos équipes multidisciplinaires de plus en plus nombreuses collaborent avec les ministères fédéraux pour faire en sorte que les services dont les gens ont besoin soient simples et faciles à utiliser. Nous nous concentrons sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en nous appuyant sur les besoins des personnes.</p>
-                
+
                 <p>En travaillant ouvertement et en mettant nos partenaires en lien avec des outils, des talents et une formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement pour améliorer la prestation des services.</p>
                 {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
                     <div class="cell-background">
@@ -23,12 +23,12 @@
                         {{ end }}
                     </div>
                 {{end}}
-                
+
                 <p><strong>Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.</strong></p>
 
                 <p>Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. La prestation de services publics améliorés, accessibles et inclusifs n’est réalisable que si nous pouvons reconnaître et exploiter une diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à prospérer.</p>
-                
-                <p>Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.</p>    
+
+                <p>Le SNC accepte toutes les candidatures, peu importe la race, l’origine ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, l’origine nationale, le handicap, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse ou les engagements familiaux.</p>
             </div>
         </div>
     </section>

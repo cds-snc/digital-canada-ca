@@ -22,19 +22,6 @@
       }
     }
   }
-
-  // TOPBAR SPECIFIC STYLE FOR HOMEPAGE
-  .home &,
-  .accueil & {
-    // below used to be @include tablet
-    @include menu_break {
-      padding-top: 3rem;
-      position: absolute;
-      left: 50%;
-      transform: translateX(-50%);
-      top: 0;
-    }
-  }
 }
 
 ////////////////////////////////////////////////////////////
@@ -44,7 +31,7 @@
 ////////////////////////////////////////////////////////////
 
 .cds-logo {
-  background-image: url("../img/cds/cds-logo-en-v2.svg");
+  background-image: url("../img/cds/cds-lockup-ko-en.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -53,47 +40,41 @@
 
   @include mobile_only {
     height: 5rem;
-    width: 5rem;
+    width: 20rem;
   }
 
   @include tablet {
     height: 8rem;
-    width: 8rem;
+    width: 25rem;
     position: absolute;
     top: -3.9rem;
+    left: 3.5rem;
   }
 
   @include desktop {
     height: 8rem;
-    width: 8rem;
+    width: 25rem;
     top: -3.9rem;
-    left: 3.5rem;
+    left: 1.5rem;
   }
 
   @include tv {
     height: 8rem;
-    width: 8rem;
+    width: 25rem;
     top: -3.7rem;
-    left: 3.5rem;
   }
 
   // added the below custom mixin to address menu content changes
   @include logo_break {
     height: 5rem;
-    width: 5rem;
+    width: 20rem;
     position: absolute;
     top: 0;
   }
 
-  // FRONT PAGE SPECIFIC STYLES FOR CDS LOGO
-  .home &,
-  .accueil & {
-    display: none;
-  }
-
   // BILINGUAL SPECIFIC CDS LOGO
   .fr & {
-    background-image: url("../img/cds/cds-logo-fr-v2.svg") !important;
+    background-image: url("../img/cds/cds-lockup-ko-fr.svg") !important;
   }
 }
 
@@ -105,7 +86,7 @@
 
 .top-nav {
   clear: both;
-  text-align: center;
+  text-align: right;
   list-style: none;
   margin: 1rem auto 1rem auto;
   padding: 0;
@@ -120,23 +101,6 @@
     top: 45%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
-  }
-
-  // FRONT PAGE SPECIFIC STYLES FOR TOP NAV
-  .home &,
-  .accueil & {
-    @include tablet {
-      clear: none;
-    }
-
-    a {
-      color: $white;
-
-      // below used to be @include tablet
-      @include menu_break {
-        font-size: 2rem;
-      }
-    }
   }
 }
 
@@ -175,7 +139,6 @@
 
     // replacing the above previous styles
     @include menu_break {
-      color: $secondary-color;
       font-size: 2rem;
     }
 
@@ -214,7 +177,7 @@
     border: $primary-color 1px solid;
     width: 100%;
   }
-  
+
   // Align nav to edge of document margin for tablet and up
   &:last-child a {
     @include tablet {
@@ -389,7 +352,7 @@
   @include mobile_only {
     margin: 0;
   }
-  
+
   @include menu_break {
     display: none;
   }
@@ -421,6 +384,11 @@
 // CDS TOPBAR
 //
 ////////////////////////////////////////////////////////////
+
+#wb-sm {
+  background-color: $black;
+  border-top: 2px solid $primary-color;
+}
 
 .cds-menu.sticky {
   animation: menuDown 0.3s ease-in-out;
