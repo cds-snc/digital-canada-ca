@@ -3,6 +3,70 @@
 {{ end }}
 
 {{ define "index" }}
+  <div class="container homepage--what-we-do">
+    <section class='section'>
+      <div class='row'>
+        <div class='col-xs-12 col-md-9'>
+          <p>We work in agile, multi-disciplinary teams to build digital products
+             like these</p>
+        </div>
+        <div class='col-xs-12 col-md-3 view-all'>
+          <a href="">View all <i class='fas fa-arrow-circle-right'></i></a>
+        </div>
+      </div>
+
+      <div class='row equal'>
+        {{ $posts := where .Pages "Section" "products" }}
+        {{ range $idx, $post := first 6 $posts }}
+          {{ if and (ne $idx 0) (eq (mod $idx 3) 0) }}
+            </div>
+            <div class='row equal'>
+          {{ end }}
+
+          <div class="col-xs-12 col-md-4">
+            <div class='post border-{{.Params.phase}}'>
+              <h3>{{ $post.Params.title }}</h3>
+              {{ if gt (len $post.Params.partners) 0 }}
+                {{ range $post.Params.partners }}
+                  <p>{{ .name }}</p>
+                {{ end }}
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </section>
+  </div>
+
+  <section class="section homepage--our-team">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-xs-12">
+          <h2>We've got a great team ...</h2>
+          <p>Say hello to the designers, developers, researchers, policy
+             hackers, communicators who make up CDS.</p>
+        </div>
+        <div class="col-md-4 col-xs-12 btn">
+          <a href="/meet-the-team">Meet the team</a>
+        </div>
+      </div>
+    </div>
+
+    <img src="/img/cds/team-picnic.jpg" class="img-fluid" alt="CDS Team"/>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-xs-12">
+          <h2>... but we need your help</h2>
+          <p>Our products will impact people's everyday lives. It's an
+             exciting thing to be part of. And we need you.</p>
+        </div>
+        <div class="col-md-4 col-xs-12 btn">
+          <a href="/join-our-team" class='apply-now'>Apply now</a>
+        </div>
+      </div>
+    </div>
+  </section>
   <section class="section section--featured-blogposts">
     <div class="container">
       <div class="row">
