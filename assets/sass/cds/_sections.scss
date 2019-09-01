@@ -4,16 +4,37 @@
 //
 ////////////////////////////////////////////////////
 
+.accueil h2,
 .home h2 {
   font-size: 5rem;
 }
 
 .accueil .section--featured-blogposts,
-.home .section--featured-blogposts {
+.home .section--featured-blogposts,
+.accueil .homepage--working-together,
+.home .homepage--working-together,
+.accueil .homepage--what-we-do,
+.home .homepage--what-we-do {
   h2 {
     font-size: 3.5rem;
     margin-bottom: 2rem;
     text-align: left;
+  }
+
+  @include mobile_only {
+    .title-align {
+      text-align: left;
+      margin-bottom: 1rem;
+    }
+  }
+  @include tablet {
+    .title-align {
+      text-align: left;
+      margin-bottom: 1rem;
+    }
+  }
+  @include desktop {
+    .title-align { text-align: right; }
   }
 
   .title-link {
@@ -21,10 +42,14 @@
     text-align: right;
     font-size: 2rem;
     text-decoration: underline;
+
+    i { margin-left: 5px; }
   }
 }
 
 .homepage--intro {
+    padding-bottom: 0;
+
   .text {
     color: $black;
     font-weight: 200;
@@ -45,57 +70,64 @@
 }
 
 .homepage--what-we-do {
-  border-top: $medium-grey 1px solid;
-  text-align: center;
-
-  .icon-text {
-    margin-top: 1.5rem;
-
-    @include tablet {
-      margin-bottom: 4rem;
-    }
-    @include desktop {
-      margin-top: 1rem;
-    }
+  p {
+    text-align: left;
+  }
+  .view-all {
+    text-align: right;
   }
 
-  h3 {
-    font-weight: 100;
-    line-height: 2.75rem;
-    margin: 2rem 0;
+  .border-discovery,
+  .border-discoveryfr,
+  .border-alpha,
+  .border-alphafr,
+  .border-beta,
+  .border-betafr,
+  .border-live,
+  .border-livefr {
+    border-bottom-width: 10px;
+  }
 
-    @include tablet {
-      font-weight: 300;
-      line-height: 3.2rem;
-      margin-top: 5rem;
+  .post {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 10px;
+    background-color: $white;
+    margin-bottom: 2em;
+    box-shadow: 5px 8px 5px $medium-grey;
+    height: 100%;
+    text-align: center;
+
+    h3 {
+      flex: 1;
+      font-weight: 500;
+      margin-top: 25px;
+      margin-bottom: 0;
+      font-size: 3rem;
+    }
+
+    p {
+      margin-bottom: 0px;
+      font-size: 1.5rem;
+      line-height: 1.1em;
+      text-align: center;
+    }
+    a {
+      font-size: 2.00rem;
+      text-decoration: none
     }
   }
+}
 
-  i {
-    border: $primary-color 5px solid;
-    border-radius: 50%;
-    margin-bottom: 1rem;
-    margin-top: 2rem;
-    font-size: 3.5rem;
-    padding: 3.5rem;
-    min-width: 10rem;
-    min-height: 10rem;
+.homepage--working-together {
+  border-bottom: 1px solid $dark-grey;
 
-    @include desktop {
-      min-width: 15rem;
-      min-height: 15rem;
-      padding: 4.5rem 0;
-      font-size: 5rem;
-    }
+  h2 {
+    margin-top: 0;
   }
 
-  .text {
-    font-size: 2.5rem;
-    margin-top: 1rem;
-  }
-
-  .bottom-mar {
-    margin-bottom: 5rem;
+  p {
+    margin-bottom: 0;
   }
 }
 

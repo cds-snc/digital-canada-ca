@@ -44,6 +44,8 @@ meet-the-full-team:
   other: "Toute l’équipe"
 next-post:
   other: "Billet suivant"
+meet-the-team:
+  other: "Rencontrer l'équipe"
 rencontrez-lequipe:
   other: "Rencontrez l’équipe"
 partner:
@@ -118,3 +120,40 @@ spa-research:
   other: "Participez à notre recherche"
 cppd-research:
   other: "Participez à notre recherche"
+subscribe-title:
+  other: "Abonnez-vous à notre newsletter!"
+subscribe-note:
+  other: "Inscrivez-vous à notre liste de diffusion pour obtenir des informations sur le recrutement, les mises à jour de projets et les nouveaux messages du blogue de CDS."
+subscribe-id:
+  other: "//canada.us15.list-manage.com/subscribe/post?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28"
+email-address:
+  other: "Votre courriel"
+subscribe:
+  other: "Abonnez-vous"
+view-privacy-notice:
+  other: "Voir l'avis de confidentialité"
+privacy-notice:
+  other: "Énoncé de confidentialité"
+privacy-notice-pt-1:
+  other: "Notre fonction Bulletin de nouvelles fait appel &agrave;&nbsp;<a href=\"https://mailchimp.com/\">Mailchimp</a>, une application tierce.&nbsp;L&rsquo;adh&eacute;sion est libre et est assujettie aux&nbsp;<a href=\"https://mailchimp.com/legal/terms/\">Conditions d&rsquo;utilisation</a>&nbsp;associ&eacute;es &agrave; la plateforme Mailchimp.&nbsp;&nbsp;Au moment de l&rsquo;adh&eacute;sion, le syst&egrave;me enregistre votre adresse &eacute;lectronique et votre langue de pr&eacute;f&eacute;rence (anglais ou fran&ccedil;ais).&nbsp;Aucun autre renseignement personnel n&rsquo;est recueilli."
+privacy-notice-pt-2:
+  other: "La collecte et l&rsquo;utilisation de vos renseignements personnels sont autoris&eacute;es par la&nbsp;<em>Loi sur la gestion des finances publiques</em>. La collecte et l&rsquo;utilisation de vos renseignements personnels aux fins du pr&eacute;sent site sont conformes &agrave; la&nbsp;<em>Loi f&eacute;d&eacute;rale sur la protection des renseignements personnels</em>. Vos&nbsp;renseignements personnels&nbsp;peuvent servir &agrave; r&eacute;pondre &agrave; vos demandes de renseignements, au besoin, et &agrave; &eacute;valuer l&rsquo;efficacit&eacute; avec laquelle les programmes du Secr&eacute;tariat du Conseil du Tr&eacute;sor&nbsp;(SCT)&nbsp;r&eacute;pondent aux besoins des clients. &nbsp;Dans des cas exceptionnels (p. ex., le cas de quelqu&rsquo;un qui fait des remarques inappropri&eacute;es ou des menaces), les renseignements personnels peuvent &ecirc;tre divulgu&eacute;s sans votre consentement conform&eacute;ment au paragraphe 8(2) de la&nbsp;<em>Loi sur la protection des renseignements personnels</em>."
+privacy-notice-pt-3:
+  other: "Tout renseignement personnel&nbsp;qui pourra &ecirc;tre&nbsp;recueilli&nbsp;est&nbsp;d&eacute;crit&nbsp;dans&nbsp;le Fichier de renseignement personnel ordinaire intitul&eacute;&nbsp;<a href=\"http://www.infosource.gc.ca/emp/emp03-fra.asp#psu938\">Activit&eacute;s de sensibilisation, POU 938</a> qui figure sur&nbsp;la page Web&nbsp;du SCT&nbsp;intitul&eacute;e&nbsp;<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements/fichiers-renseignements-personnels-ordinaires.html\"><em>Renseignements sur les programmes et les fonds de renseignements</em></a>."
+privacy-notice-pt-4:
+  other: "Pour transmettre vos questions, commentaires ou pr&eacute;occupations concernant le pr&eacute;sent avis, vos droits en mati&egrave;re de protection des renseignements personnels ou la&nbsp;<em>Loi sur la protection des renseignements personnels</em>, communiquez avec le coordonnateur de l&rsquo;acc&egrave;s &agrave; l&rsquo;information et de la protection des renseignements personnels du SCT, &agrave;&nbsp;<a href=\"mailto:atip.aiprp@tbs-sct.gc.ca\">atip.aiprp@tbs-sct.gc.ca</a>, ou en composant le&nbsp;1-866-312-1511. Vous pouvez aussi communiquer avec le Commissariat &agrave; la protection de la vie priv&eacute;e du Canada par courriel, &agrave;&nbsp;<a href=\"mailto:info@priv.gc.ca\">info@priv.gc.ca</a>, ou par t&eacute;l&eacute;phone, au&nbsp;1-800-282-1376. Vous avez &eacute;galement la possibilit&eacute; de d&eacute;poser une plainte aupr&egrave;s du Commissariat &agrave; la protection de la vie priv&eacute;e du Canada quant &agrave; la fa&ccedil;on dont le SCT traite vos renseignements personnels."
+how-we-work:
+  other: "Nous travaillons au sein d'équipes multidisciplinaires agiles pour créer des produits numériques comme ceux-ci."
+great-team:
+  other: "Nous avons une grande équipe"
+say-hello:
+  other: "Dites bonjour aux concepteurs, développeurs, chercheurs, pirates informatiques, communicateurs qui composent les CDS."
+cds-team:
+  other: "Équipe CDS"
+but-need-help:
+  other: "mais nous avons besoin de votre aide"
+product-impact:
+  other: "Nos produits auront un impact sur la vie quotidienne des gens. C'est une chose excitante à faire partie. Et nous avons besoin de toi."
+apply-now:
+  other: "Appliquer maintenant"
+
