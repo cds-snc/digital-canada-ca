@@ -16,6 +16,10 @@
     text-align: right;
     font-size: 2rem;
     text-decoration: underline;
+
+    i {
+      margin-left: 5px;
+    }
   }
 }
 
@@ -29,15 +33,6 @@
 .homepage--what-we-do {
   p {
     text-align: left;
-  }
-  a {
-    color: $black;
-    font-size: 2rem;
-    text-decoration: underline;
-
-    i {
-      margin-left: 10px;
-    }
   }
   .view-all {
     text-align: right;
@@ -95,15 +90,6 @@
   p {
     font-size: 2rem;
     line-height: 1.2em;
-  }
-  a {
-    font-size: 2rem;
-    color: black;
-    text-decoration: underline;
-
-    i {
-      margin-left: 10px;
-    }
   }
 }
 
