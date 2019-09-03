@@ -110,7 +110,7 @@ exec:
     twitter: boardom_ca
   - archived: false
     email: Joshua.Ruihley@tbs-sct.gc.ca
-    github: '@jroo'
+    github: jroo
     image-name: /img/cds/josh-ruihley.jpg
     name: Josh Ruihley
     processed: 1552050695386
@@ -192,8 +192,8 @@ team:
     name: Anik Brazeau
     processed: 1552050695387
     title:
-      en: Outreach
-      fr: Liaison et diffusion
+      en: Design
+      fr: Conception
     twitter: brazeauanik
   - archived: false
     email: Anne-Marie.Mulumba@tbs-sct.gc.ca
@@ -214,19 +214,28 @@ team:
       en: Development
       fr: Développement
   - archived: false
+    email: brian.hendrick@tbs-sct.gc.ca
+    image-name: /img/cds/brian-hendrick.jpg
+    linkedin: hendrickbrian
+    name: Brian Hendrick
+    title:
+      en: Design
+      fr: Conception
+    processed: 1566844001404
+  - archived: false
     email: brock.higgins@tbs-sct.gc.ca
     github: brockhigg10
     image-name: /img/cds/brock-higgins.jpg
-    linkedin: brickhiggins
+    linkedin: brockhiggins
     name: Brock Higgins
     title:
       en: Talent
       fr: Talent
-    twitter: adriannehlee
+    twitter: brockhigg10
     processed: 1560521882135
   - archived: false
     email: Bryan.Willey@tbs-sct.gc.ca
-    github: 'https://github.com/willeybryan'
+    github: willeybryan
     image-name: /img/cds/bryan-willey.jpg
     linkedin: bryan-willey
     name: Bryan Willey
@@ -343,6 +352,15 @@ team:
       fr: Recherche en conception
     twitter: hillarylorimer
   - archived: false
+    email: jeana.frost@tbs-sct.gc.ca
+    image-name: /img/cds/jeana-frost.jpg
+    linkedin: jeanafrost
+    name: Jeana Frost
+    title:
+      en: Design Research
+      fr: Recherche en conception
+    processed: 1566844001408
+  - archived: false
     email: jeff.maher@tbs-sct.gc.ca
     github: jeffmaher
     image-name: /img/cds/jeff-maher.jpg
@@ -380,7 +398,7 @@ team:
   - archived: false
     email: jose.jimenez@tbs-sct.gc.ca
     image-name: /img/cds/jose-jimenez.jpg
-    linkdin: jimenezj27
+    linkedin: jimenezj27
     name: Jose Jimenez
     title:
       en: Partnerships
@@ -388,7 +406,7 @@ team:
     processed: 1563387298644
   - archived: false
     email: julianna.rowsell@tbs-sct.gc.ca
-    github: 'https://github.com/JuliannaR/juliannar.github.io'
+    github: JuliannaR
     image-name: /img/cds/julianna-rowsell.jpg
     linkedin: julianna-rowsell-86625624
     name: Julianna Rowsell
@@ -418,7 +436,7 @@ team:
     processed: 1560521882136
   - archived: false
     email: Khalid.Elaggan@tbs-sct.gc.ca
-    image-name: /img/cds/khalid_elaggan.jpg
+    image-name: /img/cds/khalid-elaggan.jpg
     linkedin: khalidelaggan
     name: Khalid Elaggan
     processed: 1552050695392
@@ -646,6 +664,16 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: vchanimal
+  - archived: false
+    email: yael.berger@tbs-sct.gc.ca
+    image-name: /img/cds/yael-berger.jpg
+    linkedin: yael-berger-5791a455
+    name: Yael Berger
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    twitter: yaelberger
+    processed: 1566844001408
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.jpg

@@ -15,7 +15,7 @@ translationKey: digital-training-needs
 thumb: /img/cds/thumbnails/screen-shot-2018-11-01-at-3.42.39-pm.jpg
 processed: 1550672961805
 ---
-**Mise à jour :** *Le sondage sur les besoins de formation numérique est maintenant ouvert aux tous fonctionnaires fédéraux! [Cliquez ici pour participer](https://form.simplesurvey.com/f/s.aspx?s=601cad0c-4cfd-4e4c-b016-cb4e1f44be30&lang=FR). Le sondage sera disponible jusqu'à 16 h 00 (heure du Pacifique), le 30 novembre 2018. Merci de prendre le temps de compléter le sondage afin de façonner votre apprentissage de nouvelles disciplines numériques.*
+**Mise à jour :** *Renforcement de la capacité numérique : le rapport sur l’analyse des besoins en formation est maintenant disponible sur le site Web de l’Université Dalhousie! [Lisez ici ce que nous avons découvert](/2019/08/30/%C3%A9valuer-les-besoins-en-formation-du-gouvernement-pour-lavenir-de-la-prestation-de-services-num%C3%A9riques/). Merci à tous les fonctionnaires qui ont participé au sondage. Vos réponses contribueront à orienter l’apprentissage sur les disciplines numériques émergentes.*
 
 Afin de travailler dans l’ère numérique, les fonctionnaires ont besoin de posséder les compétences numériques appropriées. Cela est particulièrement vrai lorsqu’il est question de travailler en ayant recours à de nouvelles façons de concevoir et de fournir des services aux Canadiens.
 
