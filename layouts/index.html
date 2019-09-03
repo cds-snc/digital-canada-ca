@@ -10,7 +10,7 @@
           <p>{{ i18n "how-we-work" }}</p>
         </div>
         <div class='col-xs-12 col-md-3 text-right'>
-          <a href="" class='title-link'>
+          <a href="{{ with $.Site.GetPage "products" }}{{.URL}}{{ end }}" class='title-link'>
             {{ i18n "more-posts" }} <i class='fas fa-arrow-circle-right'></i>
           </a>
         </div>
