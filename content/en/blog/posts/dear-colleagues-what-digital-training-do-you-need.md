@@ -14,7 +14,7 @@ translationKey: digital-training-needs
 thumb: /img/cds/thumbnails/screen-shot-2018-11-01-at-3.42.39-pm.jpg
 processed: 1550672961672
 ---
-**Update:** *The Digital Training Needs Survey is now open to all federal public servants! [Click here to participate in the survey](https://form.simplesurvey.com/f/l/DTNS_Open). The survey is available until 16:00 Pacific Time, November 30, 2018. Thank you for taking the time to complete the survey to help shape your learning on emerging digital disciplines.* 
+**Update:** *Building Digital Capacity: Report on the Training Needs Analysis is now available on Dalhousie University's website! [Read about what we heard here](https://digital.canada.ca/2019/08/30/assessing-government-training-needs-for-the-future-of-digital-service-delivery/?utm_source=Blog&utm_medium=Twitter&utm_campaign=TNA-Blog-Twitter-EN). Thank you to all the public servants who took the survey. Your responses will help shape learning on emerging digital disciplines."* 
 
 To work in the digital era, public servants need to be equipped with the right digital skills. This is especially true when it comes to working with new ways of designing and delivering services for Canadians.
 
