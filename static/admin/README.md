@@ -163,3 +163,100 @@ Just a quick remainder we will be running a quick and fun accessibility clinic t
 ----------------------------------
 
 [Link G drive doc version](https://docs.google.com/document/d/1JF5AvZOCVLXT2Wn815Y7jRqstqVuEksNXGRQz_URwww/edit?ts=5d63d7f9)
+
+
+**Descriptions des champs de métadonnées — Portage I du site Web**
+
+**Page du blogue (Netlify)**
+
+| **Champ** | **Description** | **Facultatif ou obligatoire** |
+| --- | --- | --- |
+| title | Titre du billet de blogue | Obligatoire |
+| description | Description du billet de blogue qui sera publiée sur la page _Lire notre blogue_ du site Web du Service numérique canadien (SNC). Il peut s&#39;agir d&#39;un extrait du billet de blogue. | Obligatoire |
+| author | Nom et titre du poste de l&#39;auteur. Veuillez les écrire avec une majuscule uniquement pour le nom (_Nom de l&#39;auteur, titre du poste_). S&#39;il y a plusieurs auteurs, inscrivez simplement les noms des auteurs sans indiquer leur poste (_Nom du premier auteur, Nom du deuxième auteur, etc._). | Obligatoire |
+| date | Date de publication du billet. Si vous ne connaissez pas ce renseignement, n&#39;hésitez pas à communiquer avec un membre de l&#39;équipe de liaison et diffusion. Si vous réglez la date ou l&#39;heure de publication à une date ultérieure, vous ne verrez pas le billet de blogue dans l&#39;aperçu en ligne du site Web avant la date et l&#39;heure de publication que vous avez sélectionnées (et si vous publiez le billet, il n&#39;apparaîtra pas officiellement sur le site Web en ligne avant cette date et cette heure).Format :jj/mmm/aaaa 0:00AM
+Cette valeur est générée automatiquement, mais peut être modifiée. | Obligatoire |
+| image | Widget de téléchargement de l&#39;image | Obligatoire |
+| image alt | Description complète de l&#39;image fournie comme bannière du billet de blogue | Obligatoire |
+| translationKey | Identificateur du blogue. Veuillez utiliser la majuscule pour le premier mot et joindre les mots par des tirets plutôt que des espaces. Veuillez également noter que cette clé ne doit pas être traduite; l&#39;identificateur doit être le même pour les versions française et anglaise du billet de blogue. | Obligatoire |
+| body | Contenu du billet de blogue. La mise en forme et le style du texte doivent être établis en Markdown au moment de sa publication sur Netlify. Lorsque le billet de blogue est publié au moyen d&#39;un éditeur de code source, le style du texte peut être établi à la fois en Markdown ou selon la syntaxe CSS. | Obligatoire |
+
+**Champs masqués de la page du blogue**
+
+| **Champ** | **Description** | **Facultatif ou obligatoire** |
+| --- | --- | --- |
+| layout | Mise en page HTML du blogue | Obligatoire |
+| thumb | [/util/processBlogImages.js] | Obligatoire |
+| processed | estampille temporelle de [/util/processBlogImages.js] | Obligatoire |
+
+**Équipe (Netlify)**
+
+| **Champ** | **Description** | **Facultatif ou obligatoire** |
+| --- | --- | --- |
+| name | Nom complet du membre de l&#39;équipe (prénom et nom de famille) | Obligatoire |
+| title | Titre du poste du membre de l&#39;équipe. Veuillez noter que le titre indiqué sous le nom de chaque membre de l&#39;équipe figurant sous la rubrique « Contacts principaux » est le titre officiel du membre (p. ex., « Président-directeur général »), alors que dans le cas des membres qui figurent sous la rubrique « Toute l&#39;équipe », le titre indiqué est le nom de l&#39;équipe dont le membre fait partie (p. ex., « Recherche en conception »). | Obligatoire |
+| image | Photo du membre de l&#39;équipe | Obligatoire |
+| twitter | Pseudonyme du membre de l&#39;équipe sur Twitter (p. ex., « nomdumembre ») | Facultatif |
+| linkedIn | Pseudonyme du membre de l&#39;équipe sur LinkedIn (p. ex., « nom du membre ») | Facultatif |
+| email | Courriel du SCT du membre de l&#39;équipe | Obligatoire |
+| github | Pseudonyme du membre de l&#39;équipe sur GitHub | Facultatif |
+| archived | Indicateur de page réglé à « vrai » ou « faux ». Lorsque l&#39;indicateur est réglé à « faux », le profil du membre de l&#39;équipe est visible sur la page. Lorsque l&#39;indicateur est réglé à « vrai », le profil du membre de l&#39;équipe est archivé et n&#39;est plus visible sur la page; mais il existe toujours sous forme de fichier de données. | Obligatoire |
+
+
+
+**Avis d&#39;offre d&#39;emploi (Netlify)**
+
+| **Champ** | **Description** | **Facultatif ou obligatoire** |
+| --- | --- | --- |
+| title | Titre du poste | Obligatoire |
+| description | Brève description du poste, qui n&#39;est pas visible sur le site Web du SNC. Il peut s&#39;agir d&#39;un extrait de la description de travail complète. | Facultatif |
+| archived | Indicateur de page réglé à « vrai » ou « faux ». Lorsque l&#39;indicateur est réglé à « faux », la page et la liste des avis d&#39;offre d&#39;emploi sont visibles sur le site Web en ligne. Lorsque l&#39;indicateur est réglé à « vrai », la page et l&#39;avis d&#39;offre d&#39;emploi sont archivés et ne sont plus visibles sur le site Web en ligne, mais ils existent toujours dans le dossier « Rejoindre notre équipe ». | Obligatoire |
+| leverId | Identificateur unique généré automatiquement par Lever pour chaque avis d&#39;offre d&#39;emploi. Cet identificateur est différent pour les versions française et anglaise. Pour demander ou vérifier l&#39;identificateur de Lever exact d&#39;un avis d&#39;offre d&#39;emploi en particulier, communiquez avec l&#39;équipe des talents. | Obligatoire |
+| translationKey | Identificateur de l&#39;avis d&#39;offre d&#39;emploi. Veuillez utiliser la majuscule initiale et joindre les mots par des tirets plutôt que des espaces. Veuillez également noter que cette clé ne doit pas être traduite; l&#39;identificateur doit être le même pour les versions française et anglaise de l&#39;avis d&#39;offre d&#39;emploi. | Obligatoire |
+| body | Contenu de la description de poste. La mise en forme et le style du texte doivent être établis en Markdown au moment de sa publication sur Netlify. Lorsque l&#39;avis d&#39;offre d&#39;emploi est publié au moyen d&#39;un éditeur de code source, le style du texte peut être établi à la fois en Markdown ou selon la syntaxe CSS. | Obligatoire |
+
+**Champs masqués de la page des avis d&#39;offre d&#39;emploi**
+
+| **Champ** | **Description** | **Facultatif ou obligatoire** |
+| --- | --- | --- |
+| layout | Mise en page HTML de l&#39;avis d&#39;offre d&#39;emploi | Obligatoire |
+| type | Type | Obligatoire |
+
+
+
+**Page des produits (Netlify)**
+
+| **Champ** | **Description** | **Facultatif ou obligatoire** |
+| --- | --- | --- |
+| title | Nom du produit, qui sert de titre pour la section de chaque produit sur la page. Pour vérifier le titre d&#39;un produit, communiquez avec le gestionnaire de produit de l&#39;équipe. | Obligatoire |
+| translationKey | Identificateur du produit. Veuillez utiliser la majuscule pour le premier mot et joindre les mots par des tirets plutôt que des espaces. Veuillez également noter que cette clé ne doit pas être traduite; l&#39;identificateur doit être le même pour les versions française et anglaise de la description du produit. | Obligatoire |
+| description | Description du produit en une phrase. Pour vérifier la description d&#39;un produit, communiquez avec le gestionnaire de produit de l&#39;équipe.   | Obligatoire |
+| product-url | Chemin d&#39;accès à la page du produit, qui doit être le même en anglais et en français | Obligatoire |
+| phase | Phase actuelle à laquelle se trouve le produit (Découverte, Alpha, Bêta ou En ligne) | Obligatoire |
+
+**Contact**
+
+| **Champ** | **Description** | **Facultatif ou obligatoire** |
+| --- | --- | --- |
+| name | Nom complet du gestionnaire de produit | Obligatoire |
+| email | Adresse courriel du SCT du gestionnaire de produit | Obligatoire |
+
+**Partenaire**
+
+| **Champ** | **Description** | **Facultatif ou obligatoire** |
+| --- | --- | --- |
+| name | Nom du ministère avec lequel l&#39;équipe du produit travaille en partenariat. S&#39;il n&#39;y a pas de partenaire, inscrivez « S.O. ». | Obligatoire |
+| url | Adresse du site Web principal du ministère avec lequel l&#39;équipe de produit travaille en partenariat. S&#39;il n&#39;y a pas de partenaire, n&#39;incluez pas de lien. | Obligatoire |
+
+**État**
+
+| **Champ** | **Description** | **Facultatif ou obligatoire** |
+| --- | --- | --- |
+| status | État d&#39;un projet, qui est soit « en cours » ou « antérieur » | Obligatoire |
+
+**Liens**
+
+| **Champ** | **Description** | **Facultatif ou obligatoire** |
+| --- | --- | --- |
+| name | Nom d&#39;un lien pertinent à inclure sous la rubrique « Liens » (p. ex., « Github », « Documentation », etc.) | Facultatif |
+| url | URL de chaque lien pertinent inclus sous la rubrique « Liens » | Facultatif |
