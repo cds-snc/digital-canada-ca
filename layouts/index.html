@@ -45,7 +45,7 @@
                 <div class="date">{{ .Date.Format "Mon, Jan 2, 2006" }}</div>
               </div>
               <a href="{{ .RelPermalink }}">
-                Read more
+                {{ i18n "read-more" }}
                 <i class='fas fa-arrow-circle-right'></i>
               </a>
             </div>
@@ -56,7 +56,6 @@
   </section>
 
   <section class="section section--mailing-list">
-    {{ $path := printf "%s%s%s" "mailing-list." (string ($.Site.Language)) ".html" }}
-    {{ partial  $path }}
+    {{ partial "mailing-list.html" }}
   </section>
 {{ end }}
