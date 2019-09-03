@@ -10,7 +10,9 @@
           <h2>{{i18n "featured-post" }}</h2>
         </div>
         <div class='col-xs-2 view-all'>
-          <a href="/blog">{{i18n "more-posts" }}</a>
+          <a href="{{ with $.Site.GetPage "blog" }}{{.URL}}{{ end }}">
+            {{i18n "more-posts" }}
+          </a>
         </div>
       </div>
       <div class="row blog-posts">
