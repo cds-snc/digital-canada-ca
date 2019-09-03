@@ -1,0 +1,76 @@
+<div class='newsletter-subscribe'>
+  <div class='container'>
+    <div class='row'>
+      <div class='col-md-6 col-xs-12'>
+        <h2 class="section--title">{{ i18n "subscribe-title" }}</h2>
+        <p>{{ i18n "subscribe-note" }}</p>
+      </div>
+      <div class='col-md-6 col-xs-12'>
+        <!-- Begin MailChimp Signup Form -->
+        <div id="mc_embed_signup" class='row'>
+          <form
+            action="{{ i18n "subscribe-id" }}"
+                method="post" id="mc-embedded-subscribe-form"
+                name="mc-embedded-subscribe-form" class="validate" novalidate>
+            <div id="mc_embed_signup_scroll" class='col-xs-12'>
+              <div class="mc-field-group form-group col-xs-8">
+                <label for="mce-EMAIL">{{ i18n "email-address" }}</label>
+                <input type="email" value="" name="EMAIL"
+                       class="required email form-control" id="mce-EMAIL">
+              </div>
+
+              <div id="mce-responses">
+                <div class="response" id="mce-error-response"
+                     style="display:none"></div>
+                <div class="response" id="mce-success-response"
+                     style="display:none"></div>
+              </div>
+
+              <!-- real people should not fill this in and expect good things -
+                   do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                <label>
+                  <span style="display:none">hidden</span>
+                  <input aria-hidden="true" type="text"
+                         name="b_729a207773f7324e217a1d945_eb357181d2"
+                         tabindex="-1"
+                         value="">
+                </label>
+              </div>
+
+              <div class="submit-button-container col-xs-3">
+                <input type="submit" value="{{ i18n "subscribe" }}"
+                       name="subscribe" id="mc-embedded-subscribe"
+                       class="button" style="height: auto" />
+              </div>
+            </div>
+            <div class='row'>
+              <div class="mce-privacy col-xs-12">
+                <a href="#privacy-notice-modal"
+                   aria-controls="privacy-notice-modal"
+                   class="overlay-lnk light-link wb-lbx"
+                   aria-label="Privacy Statement Link">{{ i18n "view-privacy-notice" }}</a>
+              </div>
+            </div>
+          </form>
+        </div>
+        <!--End mc_embed_signup-->
+      </div>
+    </div>
+  </div>
+</div>
+
+<section class="mfp-hide modal-dialog modal-content overlay-def"
+         id="privacy-notice-modal">
+  <header class="modal-header">
+    <h2 class="modal-title">{{ i18n "privacy-notice" }}</h2>
+  </header>
+
+  <div class="modal-body">
+    <p>{{ i18n "privacy-notice-pt-1" | safeHTML }}</p>
+    <p>{{ i18n "privacy-notice-pt-2" | safeHTML }}</p>
+    <p>{{ i18n "privacy-notice-pt-3" | safeHTML }}</p>
+    <p>{{ i18n "privacy-notice-pt-4" | safeHTML }}</p>
+  </div>
+</section>
+
