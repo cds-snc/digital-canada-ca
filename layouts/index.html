@@ -7,11 +7,10 @@
     <section class='section'>
       <div class='row'>
         <div class='col-xs-12 col-md-9'>
-          <p>We work in agile, multi-disciplinary teams to build digital products
-             like these</p>
+          <p>{{ i18n "how-we-work" }}</p>
         </div>
         <div class='col-xs-12 col-md-3 view-all'>
-          <a href="">View all <i class='fas fa-arrow-circle-right'></i></a>
+          <a href="">{{ i18n "more-posts" }} <i class='fas fa-arrow-circle-right'></i></a>
         </div>
       </div>
 
@@ -42,27 +41,28 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-xs-12">
-          <h2>We've got a great team ...</h2>
-          <p>Say hello to the designers, developers, researchers, policy
-             hackers, communicators who make up CDS.</p>
+          <h2>{{ i18n "great-team" }} ...</h2>
+          <p>{{ i18n "say-hello" }}</p>
         </div>
         <div class="col-md-4 col-xs-12 btn">
-          <a href="/meet-the-team">Meet the team</a>
+          <a href="/{{ if eq $.Site.Language "en" }}meet-the-team{{else}}rencontrez-lequipe{{end}}">
+            {{ i18n "meet-the-team" }}
+          </a>
         </div>
       </div>
     </div>
 
-    <img src="/img/cds/team-picnic.jpg" class="img-fluid" alt="CDS Team"/>
+    <img src="/img/cds/team-picnic.jpg" class="img-fluid" alt="{{ i18n "cds-team" }}"/>
 
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-xs-12">
-          <h2>... but we need your help</h2>
-          <p>Our products will impact people's everyday lives. It's an
-             exciting thing to be part of. And we need you.</p>
+          <h2>... {{ i18n "but-need-help" }}</h2>
+          <p>{{ i18n "product-impact" }}</p>
         </div>
         <div class="col-md-4 col-xs-12 btn">
-          <a href="/join-our-team" class='apply-now'>Apply now</a>
+          <a href="/{{ if eq $.Site.Language "en" }}join-our-team{{else}}rejoindre-notre-equipe{{end}}"
+             class='apply-now'>{{ i18n "apply-now" }}</a>
         </div>
       </div>
     </div>
