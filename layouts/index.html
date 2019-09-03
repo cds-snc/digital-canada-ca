@@ -45,7 +45,7 @@
           <p>{{ i18n "say-hello" }}</p>
         </div>
         <div class="col-md-4 col-xs-12 btn">
-          <a href="/{{ if eq $.Site.Language "en" }}meet-the-team{{else}}rencontrez-lequipe{{end}}">
+          <a href="{{ with $.Site.GetPage "meet-the-team" }}{{.URL}}{{ end }}">
             {{ i18n "meet-the-team" }}
           </a>
         </div>
@@ -61,7 +61,7 @@
           <p>{{ i18n "product-impact" }}</p>
         </div>
         <div class="col-md-4 col-xs-12 btn">
-          <a href="/{{ if eq $.Site.Language "en" }}join-our-team{{else}}rejoindre-notre-equipe{{end}}"
+          <a href="{{ with $.Site.GetPage "join-our-team" }}{{.URL}}{{ end }}"
              class='apply-now'>{{ i18n "apply-now" }}</a>
         </div>
       </div>
