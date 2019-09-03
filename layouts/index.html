@@ -29,9 +29,11 @@
         <div class='col-xs-10'>
           <h2>{{i18n "featured-post" }}</h2>
         </div>
-        <div class='col-xs-2 view-all'>
-          <a href="{{ with $.Site.GetPage "blog" }}{{.URL}}{{ end }}">
+        <div class='col-xs-2'>
+          <a href="{{ with $.Site.GetPage "blog" }}{{.URL}}{{ end }}"
+             class='title-link'>
             {{i18n "more-posts" }}
+            <i class='fas fa-arrow-circle-right'></i>
           </a>
         </div>
       </div>
