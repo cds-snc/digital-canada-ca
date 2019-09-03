@@ -4,10 +4,19 @@
 //
 ////////////////////////////////////////////////////
 
-.home h2 {
-  font-size: 3.5rem;
-  margin-bottom: 2rem;
-  text-align: left;
+.home {
+  h2 {
+    font-size: 3.5rem;
+    margin-bottom: 2rem;
+    text-align: left;
+  }
+
+  .title-link {
+    color: $black;
+    text-align: right;
+    font-size: 2rem;
+    text-decoration: underline;
+  }
 }
 
 .homepage--intro {
@@ -161,11 +170,6 @@
 
   h2 {
     margin-top: 0;
-  }
-  .view-all {
-    text-align: right;
-
-    a { font-size: 1.5rem; }
   }
 
   .blog-posts {
