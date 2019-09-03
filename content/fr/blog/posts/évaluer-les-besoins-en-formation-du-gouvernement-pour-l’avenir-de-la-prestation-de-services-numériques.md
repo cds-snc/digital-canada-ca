@@ -20,7 +20,8 @@ image-alt: >-
   numériques » sont assis autour de grandes tables rondes, avec des ordinateurs
   portables et des papillons adhésifs, à l’occasion d’un atelier.
 translationKey: assessing-training-needs
-thumb: /img/cds/tna-image.jpg
+thumb: /img/cds/thumbnails/tna-image.jpg
+processed: 1567539832269
 ---
 Alors que le gouvernement du Canada (GC) s’efforce d’améliorer sa façon de concevoir et d’offrir des services, il est possible d’envisager de nouveaux outils, méthodes et pratiques pour renforcer notre capacité à y parvenir. Mais les gens — les fonctionnaires — demeurent au cœur de ces efforts. Ainsi, lorsque nous avons [fait équipe](/2018/11/01/chers-collègues-quelle-est-la-formation-numérique-dont-vous-avez-besoin/) avec la Faculté de gestion de l’Université Dalhousie, à la fin de l’année dernière, pour mieux comprendre et évaluer les besoins actuels en formation dans les disciplines numériques à l’échelle du GC, nous avons commencé par consulter les fonctionnaires. Communiquer directement avec eux nous a permis de mieux comprendre leurs besoins et la façon dont nous pouvons y répondre. Le rapport complet se trouve sur [le site Web de l’Université Dalhousie](https://bit.ly/2NHBVyG).
 
@@ -44,3 +45,4 @@ La recherche a souligné l’importance d’offrir des possibilités d’apprent
 L’étude comprend plusieurs recommandations relatives à la formation que le GC devrait considérer : élargir et approfondir la littératie numérique, favoriser une culture de formation proactive, mesurer et peaufiner continuellement la formation numérique dans toutes les disciplines, créer des volets de formation différenciés et renforcer les possibilités de formation pratique. 
 
 Nous tenons à remercier Pre Sandra Toze, Pr Markus Sharaput, Pr Jeffrey Roy, Lisette Muaror-Wilson et Jennifer Urich de la Faculté de gestion de l’Université Dalhousie, ainsi que les intervenants du GC et les milliers de fonctionnaires qui ont pris le temps de participer [à cette étude](https://bit.ly/2NHBVyG). En nous lançant dans ce tout nouveau domaine de recherche au gouvernement, nous espérons avoir jeté les bases qui serviront à d’autres travaux de recherche continue visant à éclairer la façon dont nous pouvons habiliter les fonctionnaires, renforcer notre capacité dans de nouvelles disciplines et offrir des possibilités de formation et de perfectionnement significatives et pertinentes. 
+
