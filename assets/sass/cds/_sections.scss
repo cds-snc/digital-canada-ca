@@ -79,17 +79,10 @@
 .homepage--working-together {
   border-bottom: 1px solid $dark-grey;
 
-  .section--title {
-    text-align: left;
-    font-weight: 900;
-    font-size: 3rem;
-    margin: 0;
-    margin-bottom: 2rem;
-
-    &::after {
-      background: transparent;
-    }
+  h2 {
+    margin-top: 0;
   }
+
   p {
     font-size: 2rem;
     line-height: 1.2em;
