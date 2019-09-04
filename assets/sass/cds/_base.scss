@@ -132,6 +132,10 @@ h3 {
 
 html .container {
 	width: 70%;
+
+	@include mobile_only {
+		width: 100%;
+	}
 }
 
 header .container,
