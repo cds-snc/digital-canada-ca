@@ -308,9 +308,10 @@
     @include tablet { margin-bottom: 3rem; }
 
     .post {
+      display: flex;
+      flex-direction: column;
       background: $white;
       box-shadow: 3px 5px 5px $medium-grey;
-      display: block;
       transition: all 0.3s ease-in-out;
 
       a {
@@ -343,7 +344,10 @@
         height: 15rem;
       }
 
-      .text { padding: 1.5rem; }
+      .text {
+        padding: 1.5rem;
+        flex-grow: 1;
+      }
 
       .date {
         color: $dark-grey;
