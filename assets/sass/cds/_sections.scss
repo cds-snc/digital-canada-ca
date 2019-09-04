@@ -1064,6 +1064,8 @@ article.post {
     }
   }
 
+  #mc_embed_signup_scroll { padding: 0; }
+
   label[for="mce-EMAIL"] {
     display: block !important;
     padding-bottom: 0.5rem;
@@ -1082,12 +1084,14 @@ article.post {
   }
 
   .submit-button-container {
-    text-align: center;
+    text-align: left;
     margin-top: 1rem;
     padding-left: 0;
   }
   .mce-privacy {
     margin-top: 0;
+    padding-left: 0;
+
     a { font-size: 1.5rem; }
   }
   #mc-embedded-subscribe {
