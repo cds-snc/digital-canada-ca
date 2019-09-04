@@ -20,6 +20,7 @@ image-alt: >-
 translationKey: reporting-service-checklist
 thumb: /img/cds/thumbnails/rcmp-prototype-fr.jpg
 processed: 1567091591211
+
 ---
 Notre raison d’être au Service numérique canadien (SNC) est d’accorder la priorité aux gens afin de faciliter leur utilisation des services gouvernementaux. Naturellement, pour nous aider à mieux comprendre comment nous pouvons y parvenir, nous parlons beaucoup de recherche avec les gens qui utilisent nos services. 
 

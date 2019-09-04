@@ -10,7 +10,7 @@
         <!-- Meta data -->
         <meta name="description" content="{{ .Params.description }}">
         <!-- Meta data-->
-        <link href="/lib-cds/gcweb-dist/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon"> 
+        <link href="/lib-cds/gcweb-dist/GCWeb/assets/favicon.ico" rel="icon" type="image/x-icon">
         <link rel="preload" href="/fonts/HKGrotesk-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
         <link rel="preload" href="/fonts/HKGrotesk-SemiBold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
         <link rel="preload" href="/fonts/HKGrotesk-Light.woff2" as="font" type="font/woff2" crossorigin="anonymous">
@@ -25,7 +25,8 @@
         <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
         <script>dataLayer1 = [];</script>
         <!-- End Google Tag Manager -->
-    
+
+        <link rel="alternate" type="application/xml" title="Sitemap" href="/sitemap.xml" />
         <link rel="alternate" type="application/rss+xml" title="{{ i18n "canadian-digital-service" }}" href="{{ i18n "rss-feed-url" }}" />
         <meta name="google-site-verification" content="sBa9o-9RVlIHHlyeaHgIir20ZKcSuzLVgCCeXIMgKZg" />
     </head>
@@ -85,7 +86,7 @@
     {{ block "footer" . }}
 
     {{ partial "social-links.html" . }}
-    
+
     <footer role="contentinfo" id="wb-info">
         {{ partial "footer.html" }}
     </footer>

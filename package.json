@@ -15,7 +15,7 @@
     "set-value": "^3.0.1",
     "sharp": "^0.22.1",
     "style-loader": "^0.23.1",
-    "webpack": "^4.31.0",
+    "webpack": "^4.35.3",
     "snyk": "^1.221.0"
   },
   "devDependencies": {

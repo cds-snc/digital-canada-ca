@@ -19,9 +19,17 @@
     <section class="content">
       <section class="page--outer-container-padding">
       {{ .Content }}
-      {{ range where .Pages ".Params.status" "==" "in-flight" }}
-      {{ .Render "list"}}
-      {{ end }}
+      <div class='row equal'>
+        {{ range $elem_index, $elem_val := where .Pages ".Params.status" "==" "in-flight" }}
+         {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+            </div>
+            <div class='row equal'>
+          {{ end }}
+          <div class='col-md-6 col-xs-12'>
+            {{ .Render "list"}}
+          </div>
+        {{ end }}
+      </div>
     </section>
   </section>
 </div>

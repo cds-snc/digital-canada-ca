@@ -17,6 +17,7 @@ image-alt: >-
 translationKey: reporting-service-checklist
 thumb: /img/cds/thumbnails/rcmp-prototype-en.jpg
 processed: 1567091591113
+
 ---
 Our raison d’être at the Canadian Digital Service (CDS) is putting people first in order to make government services easier for them to use. So naturally, to help us better understand how we can do that, we talk a lot about conducting research with people who use our services. 
 

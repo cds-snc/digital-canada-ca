@@ -1,5 +1,7 @@
 DefaultContentLanguage: en
 defaultContentLanguageInSubdir: true
+sitemap:
+  filename: sitemap.xml
 languages:
   en:
     baseUrl: https://digital.canada.ca/
@@ -39,7 +41,7 @@ languages:
       - identifier: meet-the-team
         name: Meet the team
         url: /meet-the-team/
-        weight: 3 
+        weight: 3
   fr:
     baseUrl: https://numerique.canada.ca/
     contentDir: content/fr
