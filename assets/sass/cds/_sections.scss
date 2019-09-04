@@ -1076,7 +1076,10 @@ article.post {
     }
   }
 
-  .mc-field-group { padding-right: 0; }
+  .mc-field-group {
+    padding-right: 0;
+    margin-bottom: 0;
+  }
 
   .submit-button-container {
     text-align: center;
@@ -1094,6 +1097,7 @@ article.post {
 
     border: 2px solid black;
     margin: 23px 0;
+    margin-bottom: 0;
     padding-top: 7px;
     padding-bottom: 8px;
     padding-left: 1.5rem;
@@ -1117,6 +1121,19 @@ article.post {
   p {
    font-size: 1.25em;
    line-height: 1.1em;
+  }
+
+  a {
+    color: $black;
+    text-decoration: underline;
+
+    &:visited {
+      color: $black;
+      text-decoration: underline;
+    }
+    &:hover {
+      text-decoration: none;
+    }
   }
 }
 
