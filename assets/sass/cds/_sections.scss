@@ -392,245 +392,123 @@
   }
 }
 
+.row.equal {
+  @include desktop {
+    display: flex;
+    margin-bottom: 2em;
+  }
+}
+
 span.discovery,
 span.discoveryfr {
   color: $discovery-color;
+}
+.border-discovery,
+.border-discoveryfr {
+  border-bottom: 40px solid $discovery-color;
 }
 
 span.alpha,
 span.alphafr {
   color: $alpha-color;
 }
+.border-alpha,
+.border-alphafr {
+  border-bottom: 40px solid $alpha-color;
+}
 
 span.beta,
 span.betafr {
   color: $beta-color;
+}
+.border-beta,
+.border-betafr {
+  border-bottom: 40px solid $beta-color;
 }
 
 span.live,
 span.livefr {
   color: $live-color;
 }
+.border-live,
+.border-livefr {
+  border-bottom: 40px solid $live-color;
+}
 
 .work-in-progress--product-module {
+  background-color: $white;
+  margin-bottom: 2em;
+  box-shadow: 5px 8px 5px $medium-grey;
+  height: 100%;
+
   h3 {
     font-weight: 500;
+    margin-top: 25px;
+    margin-bottom: 0;
+
+    @include mobile_only { font-size: 24pt; }
+    @include tablet { font-size: 26pt; }
+    @include desktop { font-size: 30pt; }
+  }
+
+  h3.live::after,
+  h3.livefr::after,
+  h3.alpha::after,
+  h3.alphafr::after,
+  h3.discovery::after,
+  h3.découvertefr::after,
+  h3.beta::after,
+  h3.betafr::after {
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+    color: #ffffff;
+    margin-left: 0;
+    border-radius: 6px;
+    font-size: 10pt;
 
     @include mobile_only {
-      font-size: 24pt;
+      padding: 3px 20px 3px 20px;
+      bottom: 5px;
     }
 
     @include tablet {
-      font-size: 26pt;
+      padding: 5px 20px 5px 20px;
     }
 
     @include desktop {
-      font-size: 30pt;
+      padding: 5px 30px 5px 30px;
+      font-size: 12pt;
     }
-
-    margin-bottom: 0px;
-    margin-top: 50px;
   }
 
   h3.live::after,
   h3.livefr::after {
     content: "Live";
-
-    position: relative;
-    bottom: 10px;
-    color: #ffffff;
     background-color: $live-color;
-    margin-left: 20px;
-
-    @include mobile_only {
-      font-size: 10pt;
-      padding: 3px 20px 3px 20px;
-      border-radius: 6px;
-      margin-left: 15px;
-      bottom: 5px;
-    }
-
-    @include tablet {
-      margin-left: 20px;
-      margin-bottom: 30px;
-      padding: 5px 20px 5px 20px;
-      border-radius: 6px;
-      font-size: 10pt;
-    }
-
-    @include desktop {
-      margin-bottom: 30px;
-      padding: 5px 30px 5px 30px;
-      border-radius: 6px;
-      font-size: 12pt;
-    }
   }
 
   h3.alpha::after,
   h3.alphafr::after {
     content: "Alpha";
-
-    position: relative;
-    bottom: 10px;
-    color: #ffffff;
     background-color: $alpha-color;
-    margin-left: 20px;
-
-    @include mobile_only {
-      font-size: 10pt;
-      padding: 3px 20px 3px 20px;
-      border-radius: 6px;
-      margin-left: 15px;
-      bottom: 5px;
-    }
-
-    @include tablet {
-      margin-left: 20px;
-      margin-bottom: 30px;
-      padding: 5px 20px 5px 20px;
-      border-radius: 6px;
-      font-size: 10pt;
-    }
-
-    @include desktop {
-      margin-bottom: 30px;
-      padding: 5px 30px 5px 30px;
-      border-radius: 6px;
-      font-size: 12pt;
-    }
   }
 
-  h3.discovery::after {
-    content: "Discovery";
-
-    position: relative;
-    bottom: 10px;
-    color: #ffffff;
-    background-color: $discovery-color;
-    margin-left: 20px;
-
-    @include mobile_only {
-      font-size: 10pt;
-      padding: 3px 20px 3px 20px;
-      border-radius: 6px;
-      margin-left: 15px;
-      bottom: 5px;
-    }
-
-    @include tablet {
-      margin-left: 20px;
-      margin-bottom: 30px;
-      padding: 5px 20px 5px 20px;
-      border-radius: 6px;
-      font-size: 10pt;
-    }
-
-    @include desktop {
-      margin-bottom: 30px;
-      padding: 5px 30px 5px 30px;
-      border-radius: 6px;
-      font-size: 12pt;
-    }
-  }
-
+  h3.discovery::after,
   h3.découvertefr::after {
-    content: "Découverte";
-
-    position: relative;
-    bottom: 10px;
-    color: #ffffff;
     background-color: $discovery-color;
-    margin-left: 20px;
-
-    @include mobile_only {
-      font-size: 10pt;
-      padding: 3px 20px 3px 20px;
-      border-radius: 6px;
-      margin-left: 15px;
-      bottom: 5px;
-    }
-
-    @include tablet {
-      margin-left: 20px;
-      margin-bottom: 30px;
-      padding: 5px 20px 5px 20px;
-      border-radius: 6px;
-      font-size: 10pt;
-    }
-
-    @include desktop {
-      margin-bottom: 30px;
-      padding: 5px 30px 5px 30px;
-      border-radius: 6px;
-      font-size: 12pt;
-    }
   }
 
-  h3.beta::after {
-    content: "Beta";
+  h3.discovery::after { content: "Discovery"; }
+  h3.découvertefr::after { content: "Découverte"; }
 
-    position: relative;
-    bottom: 10px;
-    color: #ffffff;
-    background-color: $beta-color;
-    margin-left: 20px;
-
-    @include mobile_only {
-      font-size: 10pt;
-      padding: 3px 20px 3px 20px;
-      border-radius: 6px;
-      margin-left: 15px;
-      bottom: 5px;
-    }
-
-    @include tablet {
-      margin-left: 20px;
-      margin-bottom: 30px;
-      padding: 5px 20px 5px 20px;
-      border-radius: 6px;
-      font-size: 10pt;
-    }
-
-    @include desktop {
-      margin-bottom: 30px;
-      padding: 5px 30px 5px 30px;
-      border-radius: 6px;
-      font-size: 12pt;
-    }
-  }
-
+  h3.beta::after,
   h3.betafr::after {
-    content: "Bêta";
-
-    position: relative;
-    bottom: 10px;
-    color: #ffffff;
     background-color: $beta-color;
-    margin-left: 20px;
-
-    @include mobile_only {
-      font-size: 10pt;
-      padding: 3px 20px 3px 20px;
-      border-radius: 6px;
-      margin-left: 15px;
-      bottom: 5px;
-    }
-
-    @include tablet {
-      margin-left: 20px;
-      margin-bottom: 30px;
-      padding: 5px 20px 5px 20px;
-      border-radius: 6px;
-      font-size: 10pt;
-    }
-
-    @include desktop {
-      margin-bottom: 30px;
-      padding: 5px 30px 5px 30px;
-      border-radius: 6px;
-      font-size: 12pt;
-    }
   }
+
+  h3.beta::after { content: "Beta"; }
+  h3.betafr::after { content: "Bêta"; }
 
   h4 {
     font-weight: 500;
@@ -656,12 +534,17 @@ span.livefr {
     color: #000000;
   }
 
-  p {
-    margin-bottom: 0px;
-  }
+  p { margin-bottom: 0px; }
+  a { font-size: 2.00rem; }
+}
+
+.work-in-progress--platform-module {
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .work-in-progress--product-summary {
+
   padding-top: 0px;
   padding-bottom: 0px;
   margin-bottom: 10px;
@@ -675,17 +558,9 @@ span.livefr {
 .service-link {
   padding-top: 5px;
 
-  @include mobile_only {
-    font-size: 12pt;
-  }
-
-  @include tablet {
-    font-size: 12pt;
-  }
-
-  @include desktop {
-    font-size: 14pt;
-  }
+  @include mobile_only { font-size: 12pt; }
+  @include tablet { font-size: 12pt; }
+  @include desktop { font-size: 14pt; }
 }
 
 .bottom-container {
@@ -737,7 +612,6 @@ span.livefr {
 .work-in-progress--partners,
 .work-in-progress--team {
   padding-right: 15px;
-  padding-bottom: 20px;
 }
 
 .work-in-progress--partners-nolinks {
@@ -745,12 +619,11 @@ span.livefr {
   padding-bottom: 20px;
 }
 
-.work-in-progress--partners-long {
-  padding-bottom: 20px;
-
-  @include tablet {
-    width: 45%;
-  }
+.work-in-progress--partners-long,
+.work-in-progress--links,
+.work-in-progress--partners,
+.work-in-progress--team {
+  h4 { margin-bottom: 0; }
 }
 
 .statusButton {
@@ -1315,10 +1188,6 @@ article.post {
 // PLATFORM
 //
 ////////////////////////////////////////////////////
-
-.work-in-progress--platform-module {
-  padding: 1rem 0;
-}
 
 .platform-banner{
   background-color: $dark-grey;
