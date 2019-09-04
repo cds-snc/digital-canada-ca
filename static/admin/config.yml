@@ -13,59 +13,59 @@ collections:
     folder: "content/en/blog/posts"
     create: true
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title / Titre", name: "title", widget: "string"}
-      - {label: "Description / Description", name: "description", widget: "string"}
-      - {label: "Author, Title / Auteur, Titre", name: "author", widget: "string"}
-      - {label: "Publish Date / Date de publication", name: "date", widget: "datetime"}
-      - {label: "Banner Image / Image de la bannière", hint: "Max. 1MB", name: "image", widget: "image"}
-      - {label: "Image Alt-text / Texte alternatif de l'image", name: "image-alt"}
-      - {label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
-      - {label: "Body / Corps", name: "body", widget: "markdown"}
-      - {label: "Thumbnail", name: "thumb", widget: "hidden", default: "" }
-      - {label: "Processed", name: "processed", widget: "hidden", default: "" }
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog", required: true}
+      - {label: "Title / Titre", name: "title", widget: "string", required: true}
+      - {label: "Description / Description", name: "description", widget: "string", required: true}
+      - {label: "Author, Title / Auteur, Titre", name: "author", widget: "string", required: true}
+      - {label: "Publish Date / Date de publication", name: "date", widget: "datetime", required: true}
+      - {label: "Banner Image / Image de la bannière", hint: "Max. 1MB", name: "image", widget: "image", required: true}
+      - {label: "Image Alt-text / Texte alternatif de l'image", name: "image-alt", required: true}
+      - {label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string", required: true}
+      - {label: "Body / Corps", name: "body", widget: "markdown", required: true}
+      - {label: "Thumbnail", name: "thumb", widget: "hidden", default: "", required: true}
+      - {label: "Processed", name: "processed", widget: "hidden", default: "", required: true}
   - name: "blogue"
     label: "(FR) Billet de Blogue"
     folder: "content/fr/blog/posts"
     create: true
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title / Titre", name: "title", widget: "string"}
-      - {label: "Description / Description", name: "description", widget: "string"}
-      - {label: "Author, Title / Auteur, Titre", name: "author", widget: "string"}
-      - {label: "Publish Date / Date de publication", name: "date", widget: "datetime"}
-      - {label: "Banner Image / Image de la bannière", hint: "Max. 1MB", name: "image", widget: "image"}
-      - {label: "Image Alt-text / Texte alternatif de l'image", name: "image-alt"}
-      - {label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
-      - {label: "Body / Corps", name: "body", widget: "markdown"}
-      - {label: "Thumbnail / La vignette", name: "thumb", widget: "hidden", default: "" }
-      - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog", required: true}
+      - {label: "Title / Titre", name: "title", widget: "string", required: true}
+      - {label: "Description / Description", name: "description", widget: "string", required: true}
+      - {label: "Author, Title / Auteur, Titre", name: "author", widget: "string", required: true}
+      - {label: "Publish Date / Date de publication", name: "date", widget: "datetime", required: true}
+      - {label: "Banner Image / Image de la bannière", hint: "Max. 1MB", name: "image", widget: "image", required: true}
+      - {label: "Image Alt-text / Texte alternatif de l'image", name: "image-alt", required: true}
+      - {label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string", required: true}
+      - {label: "Body / Corps", name: "body", widget: "markdown", required: true}
+      - {label: "Thumbnail / La vignette", name: "thumb", widget: "hidden", default: "", required: true}
+      - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "", required: true}
   - name: "join-our-team"
     label: "(EN) Job Postings"
     folder: "content/en/join-our-team/positions"
     create: true
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting" }
-      - { label: "Type", name: "type", widget: "hidden", default: "section" }
-      - { label: "Title / Titre", name: "title", widget: "string" }
-      - { label: "Description / Description", name: "description", widget: "string"}
-      - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
-      - { label: "LEVER ID / ID POUR LEVER", name: "leverId", widget: "string"}
-      - { label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
-      - { label: "Body / Corps", name: "body", widget: "markdown"}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting", required: true}
+      - { label: "Type", name: "type", widget: "hidden", default: "section", required: true}
+      - { label: "Title / Titre", name: "title", widget: "string", required: true}
+      - { label: "Description / Description", name: "description", widget: "string", required: false}
+      - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false, required: true}
+      - { label: "LEVER ID / ID POUR LEVER", name: "leverId", widget: "string", required: true}
+      - { label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string", required: true}
+      - { label: "Body / Corps", name: "body", widget: "markdown", required: true}
   - name: "rejoindre-notre-equipe"
     label: "(FR) Carrières"
     folder: "content/fr/join-our-team/positions"
     create: true
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting" }
-      - { label: "Type", name: "type", widget: "hidden", default: "section" }
-      - { label: "Title / Titre", name: "title", widget: "string" }
-      - { label: "Description / Description", name: "description", widget: "string"}
-      - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
-      - { label: "LEVER ID / ID POUR LEVER", name: "leverId", widget: "string"}
-      - { label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string"}
-      - { label: "Body / Corps", name: "body", widget: "markdown"}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "job-posting", required: true}
+      - { label: "Type", name: "type", widget: "hidden", default: "section", required: true}
+      - { label: "Title / Titre", name: "title", widget: "string", required: true}
+      - { label: "Description / Description", name: "description", widget: "string", required: false}
+      - { label: "Archived / Archivé", name: "archived", widget: "boolean", default: false, required: true}
+      - { label: "LEVER ID / ID POUR LEVER", name: "leverId", widget: "string", required: true}
+      - { label: "TRANSLATION ID / ID DE TRADUCTION", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", name: "translationKey", widget: "string", required: true}
+      - { label: "Body / Corps", name: "body", widget: "markdown", required: true}
   - name: "products"
     label: "(EN) Products"
     folder: "content/en/products/products"
@@ -74,28 +74,28 @@ collections:
       - { label: "Title / Titre", name: "title", widget: "string", required: true }
       - { label: "TRANSLATION ID / ID DE TRADUCTION", name: "translationKey", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", widget: "string", required: true }
       - { label: "Description / Description", name: "description", widget: "text" }
-      - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: false}
+      - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: true}
       - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery / découverte", "alpha / alpha", "beta / bêta", "live / en ligne"], required: true}
       - label: "Contact"
         name: "contact"
         widget: "list"
         fields:
           - { label: "Contact Name", name: "name", widget: "string", required: true }
-          - { label: "Email / Courriel", name: "email", widget: "string" }
+          - { label: "Email / Courriel", name: "email", widget: "string", required: true }
       - label: "Partner(s) / Le(s) partenaire(s)"
         name: "partners"
         widget: "list"
         fields:
           - { label: "Partner Name / Nom du partenaire", name: "name", widget: "string", required: true }
-          - { label: "Partner Link / Lien vers le site du partenaire", name: "url", widget: "string" }
+          - { label: "Partner Link / Lien vers le site du partenaire", name: "url", widget: "string", required: true }
       - { label: "Status / État", name: "status", widget: "select", options: ["in-flight", "past"], required: true}
       - label: "Links / Liens"
         name: "links"
         widget: "list"
         required: false
         fields:
-          - { label: "Name / Text - Nom / Texte", name: "name", widget: "string"}
-          - { label: "URL / Lien URL", name: "url", widget: "string"}
+          - { label: "Name / Text - Nom / Texte", name: "name", widget: "string", required: false}
+          - { label: "URL / Lien URL", name: "url", widget: "string", required: false}
   - name: "produits"
     label: "(FR) Produits"
     folder: "content/fr/products/products"
@@ -103,29 +103,29 @@ collections:
     fields:
       - { label: "Title / Titre", name: "title", widget: "string", required: true }
       - { label: "TRANSLATION ID / ID DE TRADUCTION", name: "translationKey", hint: "Use the same ID for both languages / Utilisez la même identification dans les deux langues", widget: "string", required: true }
-      - { label: "Description / Description", name: "description", widget: "text" }
-      - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: false}
+      - { label: "Description / Description", name: "description", widget: "text", required: true }
+      - { label: "Link to Product / Lien vers le produit", name: "product-url", widget: "string", required: true}
       - { label: "Phase / Phase", name: "phase", widget: "select", options: ["discovery / découverte", "alpha / alpha", "beta / bêta", "live / en ligne"], required: true}
       - label: "Contact"
         name: "contact"
         widget: "list"
         fields:
-          - { label: "Contact Name", name: "name", widget: "string", required: true }
-          - { label: "Email / Courriel", name: "email", widget: "string" }
+          - { label: "Contact Name", name: "name", widget: "string", required: true}
+          - { label: "Email / Courriel", name: "email", widget: "string", required: true}
       - label: "Partner(s) / Le(s) partenaire(s)"
         name: "partners"
         widget: "list"
         fields:
           - { label: "Partner Name / Nom du partenaire", name: "name", widget: "string", required: true }
-          - { label: "Partner Link / Lien vers le site du partenaire", name: "url", widget: "string" }
+          - { label: "Partner Link / Lien vers le site du partenaire", name: "url", widget: "string", required: true}
       - { label: "Status / État", name: "status", widget: "select", options: ["in-flight", "past"], required: true}
       - label: "Links / Liens"
         name: "links"
         widget: "list"
         required: false
         fields:
-          - { label: "Name / Text - Nom / Texte", name: "name", widget: "string"}
-          - { label: "URL / Lien URL", name: "url", widget: "string"}
+          - { label: "Name / Text - Nom / Texte", name: "name", widget: "string", required: false}
+          - { label: "URL / Lien URL", name: "url", widget: "string", required: false}
   - name: "datafiles"
     label: "Data Files"
     files:
