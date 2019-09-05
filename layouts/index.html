@@ -19,11 +19,11 @@
 {{ define "index" }}
   <section class="section section--featured-blogposts">
     <div class="container">
-      <div class="row">
-        <div class='col-xs-10'>
+      <div class="row post-header">
+        <div class='col-xs-12 col-md-9'>
           <h2>{{i18n "featured-post" }}</h2>
         </div>
-        <div class='col-xs-2'>
+        <div class='col-xs-12 col-md-3'>
           <a href="{{ with $.Site.GetPage "blog" }}{{.URL}}{{ end }}"
              class='title-link'>
             {{i18n "more-posts" }}
