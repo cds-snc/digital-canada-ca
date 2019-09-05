@@ -13,7 +13,7 @@ translationKey: head-product-management
 ---
 The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. We’re transforming government from the inside with simple, reliable products that make people’s lives better. It’s an exciting thing to be part of.
 
-Our multidisciplinary teams have the agency and autonomy to solve meaningful problems with proper agile flows and high-quality tooling. The CDS product portfolio has grown steadily with room for more. We need a Head of Product Management to coordinate this work and raise our game further.
+Our multidisciplinary teams have the agency and autonomy to solve meaningful problems with proper agile flows and high-quality tooling. The CDS product portfolio has grown steadily with room for more. Operating from one of our distributed offices in Ottawa, Toronto, Waterloo, or Montreal, we need a Head of Product Management to coordinate this work and raise our game further.
 
 The number of product managers is growing at CDS and across the Government of Canada. So we need someone to advocate for this new profession, and bring the community together to share practice and standards amongst themselves. This work will be creative, rewarding and high profile.
 
