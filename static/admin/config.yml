@@ -189,7 +189,7 @@ collections:
               - {label: linkedin, hint: "Username Only", name: linkedin, widget: string, required: false}
               - {label: email, name: email, widget: string}
               - {label: github, hint: "Username Only", name: github, widget: string, required: false}
-              - {label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
+              - {label: "Archived / Archivé", name: "archived", widget: "boolean", default: false, required: false}
               - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
           - label: team
             name: team
@@ -207,7 +207,7 @@ collections:
               - {label: linkedin, hint: "Username Only", name: linkedin, widget: string, required: false}
               - {label: email, name: email, widget: string}
               - {label: github, hint: "Username Only", name: github, widget: string, required: false}
-              - {label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
+              - {label: "Archived / Archivé", name: "archived", widget: "boolean", default: false, required: false}
               - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
       - label: "CDS Contact Info"
         name: "contact"
