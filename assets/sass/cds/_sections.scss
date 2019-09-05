@@ -8,6 +8,8 @@
   font-size: 5rem;
 }
 
+.accueil .newsletter-subscribe h2,
+.home .newsletter-subscribe h2,
 .accueil .section--featured-blogposts,
 .home .section--featured-blogposts {
   h2 {
@@ -1072,37 +1074,29 @@ article.post {
     background: none;
     border-top: $medium-grey 4px solid;
   }
-  p {
-    text-align: center;
-  }
 }
 
 .mc-field-group {
-  max-width: 45rem;
-  width: 90%;
-  margin: auto;
+  padding-left: 0;
+  padding-bottom: 0;
 }
 
 #mc_embed_signup {
   .email {
     border-radius: 0;
-    border: $primary-color 2px solid;
+    border: $black 2px solid;
     height: 42px;
     font-weight: 100;
     font-size: 2rem;
     width: 100%;
-
-    &::placeholder {
-      font-weight: 100;
-      font-style: italic;
-      color: #bbb !important;
-    }
 
     &:focus {
       outline: none;
       box-shadow: none;
     }
   }
+
+  #mc_embed_signup_scroll { padding: 0; }
 
   label[for="mce-EMAIL"] {
     display: block !important;
@@ -1116,21 +1110,73 @@ article.post {
     }
   }
 
-  .submit-button-container {
-    text-align: center;
-    margin-top: 2.5rem;
+  .mc-field-group {
+    padding-right: 0;
+    margin-bottom: 0;
   }
 
-  .mce-submit-button {
-    background: $primary-color;
-    color: $secondary-color;
+  .submit-button-container {
+    text-align: left;
+    margin-top: 1rem;
+    padding-left: 0;
+
+    @include mobile_only {
+      width: 100%;
+      margin: 0 0 1rem 0;
+    }
   }
 
   .mce-privacy {
-    font-size: 1.5rem;
-    text-align: center;
-    font-weight: 100;
-    margin-top: 1rem;
+    margin-top: 0;
+    padding-left: 0;
+
+    a { font-size: 1.5rem; }
+  }
+
+  #mc-embedded-subscribe {
+    background-color: $black;
+    color: $white;
+    border-radius: 0;
+
+    border: 2px solid black;
+    margin: 23px 0;
+    margin-bottom: 0;
+    padding-top: 7px;
+    padding-bottom: 8px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+
+    &:hover {
+      border: 2px solid white;
+    }
+  }
+}
+
+.newsletter-subscribe {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: $primary-color;
+
+  h2 {
+    text-align: left;
+  }
+
+  p {
+   font-size: 1.25em;
+   line-height: 1.1em;
+  }
+
+  a {
+    color: $black;
+    text-decoration: underline;
+
+    &:visited {
+      color: $black;
+      text-decoration: underline;
+    }
+    &:hover {
+      text-decoration: none;
+    }
   }
 }
 

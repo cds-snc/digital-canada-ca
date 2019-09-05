@@ -61,7 +61,6 @@
   </section>
 
   <section class="section section--mailing-list">
-    {{ $path := printf "%s%s%s" "mailing-list." (string ($.Site.Language)) ".html" }}
-    {{ partial  $path }}
+    {{ partial "mailing-list.html" }}
   </section>
 {{ end }}
