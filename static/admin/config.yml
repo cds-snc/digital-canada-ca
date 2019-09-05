@@ -187,7 +187,7 @@ collections:
               - {label: image-name, name: image-name, widget: image}
               - {label: twitter, hint: "Username Only", name: twitter, widget: string, required: false}
               - {label: linkedin, hint: "Username Only", name: linkedin, widget: string, required: false}
-              - {label: email, name: email, widget: string}
+              - {label: email, name: email, widget: string, required: false}
               - {label: github, hint: "Username Only", name: github, widget: string, required: false}
               - {label: "Archived / Archivé", name: "archived", widget: "boolean", default: false, required: false}
               - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
@@ -205,7 +205,7 @@ collections:
               - {label: image-name, name: image-name, widget: image}
               - {label: twitter, hint: "Username Only", name: twitter, widget: string, required: false}
               - {label: linkedin, hint: "Username Only", name: linkedin, widget: string, required: false}
-              - {label: email, name: email, widget: string}
+              - {label: email, name: email, widget: string, required: false}
               - {label: github, hint: "Username Only", name: github, widget: string, required: false}
               - {label: "Archived / Archivé", name: "archived", widget: "boolean", default: false, required: false}
               - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
