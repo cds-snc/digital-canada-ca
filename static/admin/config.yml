@@ -185,10 +185,10 @@ collections:
                   - {label: en, name: en, widget: string}
                   - {label: fr, name: fr, widget: string}
               - {label: image-name, name: image-name, widget: image}
-              - {label: twitter, hint: "Username Only", name: twitter, widget: string}
-              - {label: linkedin, hint: "Username Only", name: linkedin, widget: string}
+              - {label: twitter, hint: "Username Only", name: twitter, widget: string, required: false}
+              - {label: linkedin, hint: "Username Only", name: linkedin, widget: string, required: false}
               - {label: email, name: email, widget: string}
-              - {label: github, hint: "Username Only", name: github, widget: string}
+              - {label: github, hint: "Username Only", name: github, widget: string, required: false}
               - {label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
               - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
           - label: team
@@ -203,10 +203,10 @@ collections:
                   - {label: en, name: en, widget: string}
                   - {label: fr, name: fr, widget: string}
               - {label: image-name, name: image-name, widget: image}
-              - {label: twitter, hint: "Username Only", name: twitter, widget: string}
-              - {label: linkedin, hint: "Username Only", name: linkedin, widget: string}
+              - {label: twitter, hint: "Username Only", name: twitter, widget: string, required: false}
+              - {label: linkedin, hint: "Username Only", name: linkedin, widget: string, required: false}
               - {label: email, name: email, widget: string}
-              - {label: github, hint: "Username Only", name: github, widget: string}
+              - {label: github, hint: "Username Only", name: github, widget: string, required: false}
               - {label: "Archived / Archivé", name: "archived", widget: "boolean", default: false}
               - {label: "Processed / Traité", name: "processed", widget: "hidden", default: "" }
       - label: "CDS Contact Info"
