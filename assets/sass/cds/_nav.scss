@@ -214,7 +214,7 @@
     border: $primary-color 1px solid;
     width: 100%;
   }
-  
+
   // Align nav to edge of document margin for tablet and up
   &:last-child a {
     @include tablet {
@@ -389,7 +389,7 @@
   @include mobile_only {
     margin: 0;
   }
-  
+
   @include menu_break {
     display: none;
   }
