@@ -345,7 +345,10 @@
       }
 
       @include mobile_only { margin: 1.5rem auto; }
-      @include tablet { margin: 1rem 0; }
+      @include tablet {
+        height: 28rem;
+        margin: 1rem 0;
+      }
 
       .image {
         background-position: center center;

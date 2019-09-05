@@ -36,7 +36,7 @@ a {
 	font-weight 	: 500;
 	text-decoration : none;
 
-	@include mobile_only{
+	@include mobile_only {
 		font-size: 1.75rem;
 	}
 
@@ -140,8 +140,9 @@ html .container {
 
 header .container,
 footer .container {
-	width: 98%;
+  width: 98%;
 }
+
 
 .col-sm-10,
 .col-sm-offset-1 {

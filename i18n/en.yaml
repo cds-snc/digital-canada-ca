@@ -2,16 +2,18 @@
   other: "Sorry, eh?"
 aria-canada-website:
   other: "Government of Canada"
-aria-cds-website: 
+aria-cds-website:
   other: "Canadian Digital Service"
 blog:
   other: "Read the blog"
-canada-ca: 
+canada-ca:
   other: "Visit Canada.ca"
 canada-ca-link:
   other: "https://www.canada.ca/en.html"
 canadian-digital-service:
   other: "Canadian Digital Service"
+cds-logo:
+  other: "CDS Logo"
 close:
   other: "Close"
 contact-us:
@@ -40,7 +42,7 @@ lang-switch-label:
   other: "Français"
 links:
   other: "Links"
-meet-the-full-team: 
+meet-the-full-team:
   other: "The full team"
 next-post:
   other: "Next post"
@@ -57,8 +59,8 @@ play:
 previous-post:
   other: "Previous post"
 privacy:
-  other: "Privacy"
-privacy-link: 
+  other: "Privacy Policy"
+privacy-link:
   other: "/legal/privacy/"
 products:
   other: "View our products"
@@ -106,7 +108,7 @@ roadmap-next-steps:
   other: "Next steps"
 roadmap-date-modified:
   other: "Date modified:"
-products-btn: 
+products-btn:
   other: "Products"
 developer-tools-btn:
   other: "Tools and resources"
