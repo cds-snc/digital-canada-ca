@@ -9,9 +9,21 @@
 }
 
 .accueil .newsletter-subscribe h2,
-.home .newsletter-subscribe h2 {
-  font-size: 3.5rem;
-  margin-bottom: 2rem;
+.home .newsletter-subscribe h2,
+.accueil .section--featured-blogposts,
+.home .section--featured-blogposts {
+  h2 {
+    font-size: 3.5rem;
+    margin-bottom: 2rem;
+    text-align: left;
+  }
+
+  .title-link {
+    color: $black;
+    text-align: right;
+    font-size: 2rem;
+    text-decoration: underline;
+  }
 }
 
 .homepage--intro {
@@ -286,37 +298,55 @@
   }
 }
 
-.section--featured-blogposts {
+.accueil .section--featured-blogposts,
+.home .section--featured-blogposts {
   background: $bg-grey;
-  padding-bottom: 4rem;
+  padding-bottom: 0;
 
-  .container {
-    width: 90%;
+  .post-header {
+    @include mobile_only { text-align: center; }
+    @include tablet { text-align: center; }
+    @include desktop { text-align: left; }
+
+    h2 {
+      margin-top: 0;
+
+      @include mobile_only {
+        text-align: center;
+        margin-bottom: 5px;
+      }
+      @include tablet {
+        text-align: center;
+        margin-bottom: 5px;
+      }
+      @include desktop { text-align: left; }
+    }
   }
 
   .blog-posts {
-    @include tablet {
-      margin-bottom: 3rem;
-    }
+    @include tablet { margin-bottom: 3rem; }
 
     .post {
-      display: float;
-      float: center;
+      display: flex;
+      flex-direction: column;
       background: $white;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-      display: block;
+      box-shadow: 3px 5px 5px $medium-grey;
       transition: all 0.3s ease-in-out;
+
+      a {
+        color: $black;
+        padding: 1.5rem;
+        padding-right: 5px;
+        font-size: 1.50rem;
+        font-weight: 900;
+      }
+
 
       &:hover {
         box-shadow: 0 0 30px rgba(0, 0, 0, 0.8);
-        color: lighten($secondary-color, 10);
       }
 
-      @include mobile_only {
-        margin: 1.5rem auto;
-        max-width: 30rem;
-      }
-
+      @include mobile_only { margin: 1.5rem auto; }
       @include tablet {
         height: 28rem;
         margin: 1rem 0;
@@ -331,6 +361,7 @@
 
       .text {
         padding: 1.5rem;
+        flex-grow: 1;
       }
 
       .date {
@@ -664,7 +695,7 @@ span.livefr {
   color: $white;
   margin-bottom: 3rem;
 
-  @include mobile-only {
+  @include mobile_only {
     padding-top: 1rem;
     padding-bottom: 2rem;
   }
@@ -676,19 +707,19 @@ span.livefr {
       border-bottom: $primary-color 1px solid;
     }
 
-    @include mobile-only {
+    @include mobile_only {
       font-size: 1.75rem;
     }
   }
   li {
     color: $primary-color;
-    @include mobile-only {
+    @include mobile_only {
       margin-bottom: 1rem;
     }
   }
 
   h4 {
-    @include mobile-only {
+    @include mobile_only {
       font-size: 1.75rem;
     }
 
@@ -703,7 +734,7 @@ span.livefr {
   padding-top: 0rem;
 
   .page-wide--outer-container-padding {
-    @include mobile-only {
+    @include mobile_only {
       padding-top: 0;
     }
   }
@@ -752,7 +783,7 @@ span.livefr {
     padding-right: 4rem;
     padding-top: 1rem;
 
-    @include mobile-only {
+    @include mobile_only {
       padding-top: 1rem;
       padding-bottom: 2rem;
     }
@@ -971,7 +1002,7 @@ span.livefr {
     text-align: center;
     padding: 0;
 
-    @include mobile-only {
+    @include mobile_only {
       :first-child {
         padding-left: 0;
       }
@@ -1037,6 +1068,7 @@ article.post {
 .section--mailing-list {
   background: $bg-grey;
   padding-bottom: 8rem;
+  padding-top: 4rem;
 
   &.no-bg {
     background: none;
@@ -1073,7 +1105,7 @@ article.post {
     color: $dark-grey;
     font-weight: 100;
 
-    @include mobile-only {
+    @include mobile_only {
       font-size: 1.75rem;
     }
   }
@@ -1093,12 +1125,14 @@ article.post {
       margin: 0 0 1rem 0;
     }
   }
+
   .mce-privacy {
     margin-top: 0;
     padding-left: 0;
 
     a { font-size: 1.5rem; }
   }
+
   #mc-embedded-subscribe {
     background-color: $black;
     color: $white;
@@ -1188,7 +1222,7 @@ article.post {
   color: $white;
   padding-top: 3rem;
 
-  @include mobile-only {
+  @include mobile_only {
     height: auto;
     padding-bottom: 3rem;
 
@@ -1226,7 +1260,7 @@ article.post {
       height: 95rem;
     }
 
-    @include mobile-only {
+    @include mobile_only {
       height: 40rem;
     }
   }
