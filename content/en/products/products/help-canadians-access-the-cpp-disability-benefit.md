@@ -13,8 +13,8 @@ partners:
     url: 'https://www.canada.ca/en/employment-social-development.html'
 status: in-flight
 links: 
-  - name: "Documentation"
-    url: "https://cds-snc.github.io/cpp-disability-documentation/"
+  - name: Documentation
+    url: 'https://cds-snc.github.io/cpp-disability-documentation/'
 onhomepage: true
 ---
 
