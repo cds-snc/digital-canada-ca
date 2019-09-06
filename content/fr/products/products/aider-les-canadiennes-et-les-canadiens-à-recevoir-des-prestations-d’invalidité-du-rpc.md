@@ -15,5 +15,6 @@ partners:
   - name: Emploi et Développement social Canada
     url: 'https://www.canada.ca/fr/emploi-developpement-social.html'
 status: in-flight
+onhomepage: true
 ---
 
