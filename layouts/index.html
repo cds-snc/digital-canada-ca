@@ -38,8 +38,9 @@
       </div>
 
       <div class='row equal'>
-        {{ $posts := where .Pages "Section" "products" }}
-        {{ range $idx, $post := first 4 $posts }}
+        {{ $posts := where .Pages ".Section" "==" "products" }}
+        {{ $homepage := where $posts ".Params.onhomepage" true }}
+        {{ range $idx, $post := first 4 $homepage }}
           {{ if and (ne $idx 0) (eq (mod $idx 2) 0) }}
             </div>
             <div class='row equal'>
