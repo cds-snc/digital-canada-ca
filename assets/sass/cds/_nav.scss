@@ -46,15 +46,11 @@
     height: 8rem;
     width: 25rem;
     position: absolute;
-    top: -3.9rem;
-    left: 3.5rem;
   }
 
   @include desktop {
     height: 8rem;
     width: 25rem;
-    top: -3.9rem;
-    left: 1.5rem;
   }
 
   @include tv {
@@ -324,7 +320,6 @@
 .main-nav-button {
   display: inline;
   line-height: 0;
-  margin: 0.25rem 2.5rem 0 0;
   padding: 0;
   border: none;
   background: none;
