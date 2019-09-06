@@ -12,5 +12,6 @@ partners:
   - name: Canada Revenue Agency
     url: 'https://www.canada.ca/en/revenue-agency.html'
 status: in-flight
+onhomepage: true
 ---
 
