@@ -4,7 +4,7 @@ about-this-site:
   other: "À propos du site"
 aria-canada-website:
   other: "Gouvernement du Canada"
-blogue:
+blog:
   other: "Lire notre blogue"
 canada-ca-link:
   other: "https://www.canada.ca/fr.html"
@@ -51,7 +51,7 @@ rencontrez-lequipe:
 partner:
   other: "Partenaire"
 past-products:
-  other: "Produits terminés"
+  other: "Produits antérieurs"
 pause:
   other: "Pause"
 play:
