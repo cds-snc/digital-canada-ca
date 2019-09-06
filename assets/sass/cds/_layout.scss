@@ -22,19 +22,17 @@
   }
 
   .container {
-    @include mobile_only {
-      padding: 0;
-    }
+    padding: 0;
   }
 
-  .fip-logo:after {
-    bottom: 0;
-    content: "";
-    position: absolute;
-    top: 0;
-    right: 0;
-    left: 0;
-  }
+  // .fip-logo:after {
+  //   bottom: 0;
+  //   content: "";
+  //   position: absolute;
+  //   top: 0;
+  //   right: 0;
+  //   left: 0;
+  // }
 
   // Language Selector
   #wb-lng {
