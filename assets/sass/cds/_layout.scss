@@ -88,7 +88,7 @@
 }
 
 .page-banner {
-  background-color: $dark-grey;
+  background-color: $black;
   background-size: cover;
   background-position: center center;
   height: 12rem;
@@ -272,9 +272,7 @@ td {
 	}
 }
 
-th {
-  background-color:#ccc;
-}
+th { background-color:#ccc; }
 
 
 // Canada Footer
@@ -317,48 +315,34 @@ th {
   .logo { height: 40px; }
 }
 
-.announcement-banner {
-  padding: 1em;
-  text-align: center;
-  color: #004085;
-  background-color: #cce5ff;
-  border-color: #b8daff;
-  a {
-    text-decoration: underline;
-  }
-}
-
-.social-links-footer{
-  font-size: 2.3rem;
-  padding-top:3.5rem;
-  padding-bottom:3.5rem;
+.social-links-footer {
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
   background-color: $dark-grey;
 
   #contact-us-links { color: $white; }
 }
 
-.social-links-footer ul{
+.social-links-footer ul {
   display:flex;
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
 }
 
-.social-links-footer li:first-child{
-  margin-left:0;
-}
+.social-links-footer li:first-child { margin-left:0; }
 
-.social-links-footer .contact-info li{
-  margin-top:3rem;
-  margin-bottom:1rem;
+.social-links-footer .contact-info li {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
 
   @include mobile_only {
-    margin-top:2rem;
-    margin-bottom:2rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
   }
 }
 
-.social-links-footer h4{
+.social-links-footer h4 {
   display: flex;
   justify-content: center;
   margin-bottom: 0.5rem;
