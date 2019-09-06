@@ -20,7 +20,7 @@
     <section class="page--outer-container-padding">
       {{ .Content }}
       <h2 class="section--title">{{ i18n "in-flight" }}</h2>
-      <div class='row equal 0'>
+      <div class='row equal'>
         {{ range $elem_index, $elem_val := where .Pages ".Params.status" "==" "in-flight" }}
           {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
             </div>

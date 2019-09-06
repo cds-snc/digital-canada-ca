@@ -28,6 +28,10 @@ hiring:
   other: "Nous embauchons"
 homepage-tag-line:
   other: "Les gens s’attendent à ce que les services gouvernementaux soient simples et faciles à utiliser."
+how-it-works:
+  other: "Comment ça marche"
+how-we-do-it:
+  other: "Comment on fait"
 in-flight:
   other: "Produits en cours"
 key-contacts:
@@ -50,6 +54,54 @@ rencontrez-lequipe:
   other: "Rencontrez l’équipe"
 partner:
   other: "Partenaire"
+partnerships:
+  other: "Partenariats"
+partnerships-contact-us:
+  other: "Contactez nous"
+partnerships-intro:
+  other: "Au Service numérique canadien, nous collaborons avec des ministères fédéraux pour concevoir, tester et créer des services simples et faciles à utiliser. Notre objectif est d'améliorer l'expérience - pour les personnes qui fournissent des services gouvernementaux et les personnes qui utilisent ces services."
+partnerships-how-it-works:
+  other: "Nous travaillons avec nos partenaires à ciel ouvert et partageons régulièrement les progrès via des plates-formes publiques. Cela crée une culture d'apprentissage et favorise les meilleures pratiques. Et cela signifie que les ministères non partenaires peuvent appliquer notre travail et <strong><u>utiliser nos ressources</u></strong> pour développer leurs propres services."
+partnerships-how-we-do-it-1st:
+  other: "Ensemble, nous formons une équipe qui suit la méthodologie de développement logiciel Agile. Cela signifie que nous commençons par une phase de recherche intensive (<span class='discovery'>Discovery</span>), puis passons à un prototype et à une phase de test (<span class='alpha'>Alpha</span>). Les services matures entrent dans une phase <span class='beta'>bêta</span> publique, puis sur <span class='live'>Live</span>."
+partnerships-how-we-do-it-2nd:
+  other: "Entre les phases <span class='beta'>Beta</span> et <span class='live'>Live</span>, les membres de notre équipe se retirent du service et l’équipe partenaire poursuit la maintenance et le développement. Nous pouvons aider les partenaires à recruter leur équipe de service à partir de sources internes et externes."
+partnerships-how-we-do-it-3rd:
+  other: "Avant le début de chaque phase, la SNC et le partenaire signent un accord de partenariat qui décrit les travaux à venir."
+partnerships-team-intro:
+    other: "Chaque équipe est composée de membres de la SNC et du département partenaire."
+partnerships-from-cds:
+  other: "De SNC"
+partnerships-cds-pm:
+  other: "Un <strong><u>chef de produit</u></strong> &mdash; ils forment la vision du service et définissent l'orientation de l'équipe"
+partnerships-cds-researcher:
+  other: "Un <strong>chercheur</strong> &mdash; ils travaillent avec des personnes qui utiliseront le service pour connaître leurs besoins"
+partnerships-cds-designers:
+  other: "Les <strong>concepteurs</strong> &mdash; ils conçoivent des solutions pour répondre aux besoins des utilisateurs du service"
+partnerships-cds-developers:
+  other: "Les <strong>développeurs</strong> &mdash; ils écrivent le code pour construire le service"
+partnerships-cds-support:
+  other: "Soutien des équipes <strong>Partenariat</strong>, <strong>Politique</strong> et <strong>Sensibilisation</strong>"
+partnerships-from-partner:
+  other: "Les personnes et les disciplines dont nous avons besoin d’un département partenaire varient, mais dans la plupart des cas, le partenaire fournit"
+partnerships-partner-owner:
+  other: "Un <strong>propriétaire de service</strong> tout au long"
+partnerships-partner-experts:
+  other: "Deux à quatre experts des domaines de services pertinents"
+partnerships-partner-for-beta:
+  other: "Pour la phase <span class='beta'>bêta</span>, le personnel de <strong>recherche</strong>, de <strong>conception</strong>, de <strong>développement</strong> et de <strong>politique</strong> parallèle"
+partnerships-partner-for-live:
+  other: "Pour la phase en <span class='live'>direct</span>, une <strong>équipe multidisciplinaire autonome</strong> à temps plein pour améliorer continuellement le service"
+partnerships-interested-in-chatting:
+  other: "Vous souhaitez discuter d'un partenariat potentiel?"
+partnerships-partner-overview:
+  other: "Découvrez l'aperçu des partenariats de la CDS ci-dessous! Pour savoir comment nous choisissons nos partenariats, lisez ce"
+partnerships-past:
+  other: "Partenariats passés"
+partnerships-inflight:
+  other: "Partenariats en vol"
+blog-post:
+  other: "billet de blog"
 past-products:
   other: "Produits terminés"
 pause:
@@ -90,6 +142,8 @@ rejoindre-notre-equipe:
   other: "Rejoindre notre équipe"
 ce-que-nous-faisons:
   other: "Ce que nous faisons"
+what-were-working-on:
+  other: "Ce que nous travaillons sur"
 contact-us:
   other: "Rejoindre la conversation"
 featured-post:
@@ -156,3 +210,5 @@ product-impact:
   other: "Nos produits auront un impact sur la vie quotidienne des gens. C'est une chose excitante à faire partie. Et nous avons besoin de toi."
 apply-now:
   other: "Appliquer maintenant"
+who-is-on-the-team:
+  other: "Qui est dans l'équipe"

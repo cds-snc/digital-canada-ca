@@ -30,6 +30,10 @@ hiring:
   other: "We're hiring"
 homepage-tag-line:
   other: "People expect government services to be simple and easy to use."
+how-it-works:
+  other: "How it works"
+how-we-do-it:
+  other: "How we do it"
 in-flight:
   other: "In flight products"
 key-contacts:
@@ -50,6 +54,54 @@ meet-the-team:
   other: "Meet the team"
 partner:
   other: "Partner"
+partnerships:
+  other: "Partnerships"
+partnerships-contact-us:
+    other: "Contact Us"
+partnerships-intro:
+  other: "At the Canadian Digital Service, we partner up with federal departments to design, test and build simple, easy to use services. Our goal is to improve the experience – for people who deliver government services and people who use those services."
+partnerships-how-it-works:
+  other: "We work with our partners in the open, regularly sharing progress via public platforms. This creates a culture of learning and fosters best practices. And it means non-partner departments can apply our work and <strong><u>use our resources</u></strong> to develop their own services."
+partnerships-how-we-do-it-1st:
+  other: "Together, we form a team that follows the Agile software development methodology. This means we begin with an intensive research phase (<span class='discovery'>Discovery</span>), and then move to a prototype and testing phase (<span class='alpha'>Alpha</span>). Mature services move into a public <span class='beta'>Beta</span> phase, and then to <span class='live'>Live</span>."
+partnerships-how-we-do-it-2nd:
+  other: "Between the <span class='beta'>Beta</span> and <span class='live'>Live</span> phases, our team members step back from the service, and the partner team continues the maintenance and development. We can help partners recruit their service team from both internal and external sources."
+partnerships-how-we-do-it-3d:
+  other: "Before each phase begins, CDS and the partner sign a partnership agreement which outlines the coming work."
+partnerships-team-intro:
+  other: "Each team has a mix of members from CDS and the partner department."
+partnerships-from-cds:
+  other: "From CDS"
+partnerships-cds-pm:
+  other: "A <strong><u>product manager</u></strong> &mdash; they form the vision of the service, and set direction for the team"
+partnerships-cds-researcher:
+  other: "A <strong>researcher</strong> &mdash; they work with people who will use the service to learn about their needs"
+partnerships-cds-designers:
+  other: "<strong>Designers</strong> &mdash; they design solutions to meet the needs of people who will use the service"
+partnerships-cds-developers:
+  other: "<strong>Developers</strong> &mdash; they write the code to build the service"
+partnerships-cds-support:
+  other: "Support from the <strong>Partnership</strong>, <strong>Policy</strong> and <strong>Outreach</strong> teams"
+partnerships-from-partner:
+  other: "The people and disciplines we need from a partner department varies, but in most cases the partner provides"
+partnerships-partner-owner:
+  other: "A <strong>service owner</strong> throughout"
+partnerships-partner-experts:
+  other: "Two to four experts from relevant service areas"
+partnerships-partner-for-beta:
+  other: "For the <span class='beta'>Beta</span> phase, parallel <strong>research</strong>, <strong>design</strong>, <strong>developer</strong> and <strong>policy</strong> staff"
+partnerships-partner-for-live:
+  other: "For the <span class='live'>Live</span> phase, a full time autonomous <strong>multi-disciplinary team</strong> to continuously improve the service"
+partnerships-interested-in-chatting:
+  other: "Interested in chatting about a potential partnership?"
+partnerships-partner-overview:
+  other: "Check out the overview of CDS partnerships below! To learn how we choose our partnerships, read this"
+partnerships-past:
+  other: "Past partnerships"
+partnerships-inflight:
+  other: "In flight partnerships"
+blog-post:
+  other: "blog post"
 past-products:
   other: "Past Products"
 pause:
@@ -90,6 +142,8 @@ join-our-team:
   other: "Join our team"
 what-we-do:
   other: "What we do"
+what-were-working-on:
+  other: "What we're working on"
 featured-post:
   other: "Recent blog posts"
 more-posts:
@@ -154,3 +208,5 @@ product-impact:
   other: "Our products will impact people's everyday lives. It's an exciting thing to be part of. And we need you."
 apply-now:
   other: "Apply now"
+who-is-on-the-team:
+  other: "Who is on the team"

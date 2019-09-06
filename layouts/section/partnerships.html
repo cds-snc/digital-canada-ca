@@ -1,0 +1,136 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  <section class='partnerships-info'>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <p>{{ i18n "partnerships-intro" }}
+          </p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12">
+          <h2>{{ i18n "how-it-works" }}</h2>
+          <p>{{ i18n "partnerships-how-it-works" | safeHTML }}</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12">
+          <h3>{{ i18n "how-we-do-it" }}</h3>
+          <p>{{ i18n "partnerships-how-we-do-it-1st" | safeHTML }}</p>
+          <p>{{ i18n "partnerships-how-we-do-it-2nd" | safeHTML }}</p>
+          <p>{{ i18n "partnerships-how-we-do-it-3rd" | safeHTML }}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class='bg-dark-full'>
+    <div class='container'>
+      <div class='row'>
+        <div class='col-xs-12'>
+          <h2>{{ i18n "who-is-on-the-team" }}</h2>
+          <p>{{ i18n "partnerships-team-intro" }}</p>
+          <p>{{ i18n "partnerships-from-cds" }}:</p>
+          <ul>
+            <li>{{ i18n "partnerships-cds-pm" | safeHTML }}</li>
+            <li>{{ i18n "partnerships-cds-researcher" | safeHTML }}</li>
+            <li>{{ i18n "partnerships-cds-designers" | safeHTML }}</li>
+            <li>{{ i18n "partnerships-cds-developers" | safeHTML }}</li>
+            <li>{{ i18n "partnerships-cds-support" | safeHTML }}</li>
+          </ul>
+
+          <p>{{ i18n "partnerships-from-partner" }}:</p>
+          <ul>
+            <li>{{ i18n "partnerships-partner-owner" | safeHTML }}</li>
+            <li>{{ i18n "partnerships-partner-experts" | safeHTML }}</li>
+            <li>{{ i18n "partnerships-partner-for-beta" | safeHTML }}</li>
+            <li>{{ i18n "partnerships-partner-for-live" | safeHTML }}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class='bg-yellow-full'>
+    <div class='container'>
+      <div class='row'>
+        <div class='col-md-7 col-xs-12'>
+          <p>{{ i18n "partnerships-interested-in-chatting" }}</p>
+        </div>
+        <div class='col-md-5 col-xs-12'>
+          <a href="mailto:CDS-SNC@tbs-sct.gc.ca">
+            {{ i18n "partnerships-contact-us" }}
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class='partnership-products'>
+    <div class='container'>
+      <div class='row'>
+        <div class='col-xs-12'>
+          <h2>{{ i18n "what-were-working-on" }}</h2>
+          <p>{{ i18n "partnerships-partner-overview" }}
+
+            {{ $blog_url := "picking-our-projects" }}
+            {{ if eq $.Site.Language.Lang "fr" }}
+              {{ $blog_url = "choisir-nos-projets" }}
+            {{ end }}
+            <a href="{{with $.Site.GetPage $blog_url}}{{.URL}}{{ end }}">
+              {{ i18n "blog-post" }}
+            </a>.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    {{ $products := where .Site.Pages ".Dir" "==" "products/products/" }}
+    <div class='container'>
+      <div class='row'>
+        <div class='col-xs-12'>
+          <h3>{{ i18n "partnerships-inflight" }}</h3>
+        </div>
+      </div>
+      <div class='row equal'>
+        {{ $inflight := where .Site.Pages ".Params.status" "==" "in-flight" }}
+
+        {{ range $elem_index, $elem_val := $inflight | intersect $products }}
+          {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+            </div>
+            <div class='row equal'>
+          {{ end }}
+          <div class='col-md-6 col-xs-12'>
+            {{ .Render "list"}}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+
+    <div class='container'>
+      <div class='row'>
+        <div class='col-xs-12'>
+          <h3>{{ i18n "partnerships-past" }}</h3>
+        </div>
+      </div>
+      <div class='row equal'>
+        {{ $past := where .Site.Pages ".Params.status" "==" "past" }}
+
+        {{ range $elem_index, $elem_val := $past | intersect $products }}
+          {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+            </div>
+            <div class='row equal'>
+          {{ end }}
+          <div class='col-md-6 col-xs-12'>
+            {{ .Render "list"}}
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+{{ end }}
