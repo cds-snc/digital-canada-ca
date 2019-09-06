@@ -4,19 +4,8 @@
 //
 ////////////////////////////////////////////////////
 
-.accueil h2,
-.home h2 {
-  font-size: 5rem;
-}
-
-.accueil .newsletter-subscribe h2,
-.home .newsletter-subscribe h2,
-.accueil .section--featured-blogposts,
-.home .section--featured-blogposts,
-.accueil .homepage--working-together,
-.home .homepage--working-together,
-.accueil .homepage--what-we-do,
-.home .homepage--what-we-do {
+.accueil,
+.home {
   h2 {
     font-size: 3.5rem;
     margin-bottom: 2rem;
@@ -119,7 +108,7 @@
 }
 
 .homepage--our-team {
-  background-color: #0f0a08;
+  background-color: #262a2d;
   background-size: cover;
   color: $white;
   font-weight: 100;
@@ -128,14 +117,26 @@
     text-align: center;
   }
 
-  a:not([class]) {
-    color: $primary-color !important;
-    border-bottom: $primary-color 1px dotted;
+  a {
+    color: $primary-color;
+    border: 2px solid $primary-color;
     transition: all 0.3s ease-in-out;
+    padding: 10px 30px;
+    font-size: 1.5rem;
 
     &:hover {
-      border-bottom: $primary-color 1px solid;
+      color: $white;
+      border: 2px solid $white;
     }
+  }
+
+  .btn {
+    @include mobile_only {
+      text-align: left;
+      margin-bottom: 10px;
+    }
+    @include tablet { text-align: left; }
+    @include desktop { text-align: right; }
   }
 
   .fr-team-link {
@@ -144,6 +145,24 @@
     @include desktop {
       text-align: right;
     }
+  }
+
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
+  img {
+    margin-bottom: 1em;
+  }
+
+  h2 {
+    color: $primary-color;
+    margin-top: 0;
+  }
+  p {
+    font-size: 1em;
+    line-height: 1.2em;
   }
 }
 

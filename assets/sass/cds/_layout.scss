@@ -94,13 +94,8 @@
   height: 12rem;
   position: relative;
 
-  @include tablet {
-    height: 20rem;
-  }
-
-  @include desktop {
-    height: 25rem;
-  }
+  @include tablet { height: 20rem; }
+  @include desktop { height: 25rem; }
 
   .page-blogpost & {
     height: 25rem;
@@ -135,16 +130,6 @@
       height: 36rem;
     }
   }
-}
-
-.page-banner--scrim {
-  background: rgba(0,0,0,0.65);
-  display: block;
-  height: 100%;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
 }
 
 .page-banner--tag-line {

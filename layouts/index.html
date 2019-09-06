@@ -3,6 +3,9 @@
 {{ end }}
 
 {{ define "index" }}
+
+
+
   <div class="container homepage--what-we-do">
     <section class='section'>
       <div class='row'>
@@ -39,6 +42,39 @@
       </div>
     </section>
   </div>
+
+  <section class="section homepage--our-team">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-xs-12">
+          <h2>{{ i18n "great-team" }} ...</h2>
+          <p>{{ i18n "say-hello" }}</p>
+        </div>
+        <div class="col-md-4 col-xs-12 btn">
+          <a href="{{ with $.Site.GetPage "meet-the-team" }}{{.URL}}{{ end }}">
+            {{ i18n "meet-the-team" }}
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <img src="/img/cds/team-photo.jpg"
+         class="img-fluid"
+         alt="{{ i18n "cds-team" }}" />
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-xs-12">
+          <h2>... {{ i18n "but-need-help" }}</h2>
+          <p>{{ i18n "product-impact" }}</p>
+        </div>
+        <div class="col-md-4 col-xs-12 btn">
+          <a href="{{ with $.Site.GetPage "join-our-team" }}{{.URL}}{{ end }}"
+             class='apply-now'>{{ i18n "apply-now" }}</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <section class="section section--featured-blogposts">
     <div class="container">
