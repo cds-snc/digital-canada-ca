@@ -15,6 +15,9 @@ partners:
   - name: Emploi et Développement social Canada
     url: 'https://www.canada.ca/fr/emploi-developpement-social.html'
 status: in-flight
+links: 
+  - name: Documentation
+    url: 'https://cds-snc.github.io/cpp-disability-documentation/accueil/'
 onhomepage: true
 ---
 
