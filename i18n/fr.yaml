@@ -44,6 +44,8 @@ meet-the-full-team:
   other: "Toute l’équipe"
 next-post:
   other: "Billet suivant"
+meet-the-team:
+  other: "Rencontrer l'équipe"
 rencontrez-lequipe:
   other: "Rencontrez l’équipe"
 partner:
@@ -140,4 +142,17 @@ privacy-notice-pt-3:
   other: "Tout renseignement personnel&nbsp;qui pourra &ecirc;tre&nbsp;recueilli&nbsp;est&nbsp;d&eacute;crit&nbsp;dans&nbsp;le Fichier de renseignement personnel ordinaire intitul&eacute;&nbsp;<a href=\"http://www.infosource.gc.ca/emp/emp03-fra.asp#psu938\">Activit&eacute;s de sensibilisation, POU 938</a> qui figure sur&nbsp;la page Web&nbsp;du SCT&nbsp;intitul&eacute;e&nbsp;<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements/fichiers-renseignements-personnels-ordinaires.html\"><em>Renseignements sur les programmes et les fonds de renseignements</em></a>."
 privacy-notice-pt-4:
   other: "Pour transmettre vos questions, commentaires ou pr&eacute;occupations concernant le pr&eacute;sent avis, vos droits en mati&egrave;re de protection des renseignements personnels ou la&nbsp;<em>Loi sur la protection des renseignements personnels</em>, communiquez avec le coordonnateur de l&rsquo;acc&egrave;s &agrave; l&rsquo;information et de la protection des renseignements personnels du SCT, &agrave;&nbsp;<a href=\"mailto:atip.aiprp@tbs-sct.gc.ca\">atip.aiprp@tbs-sct.gc.ca</a>, ou en composant le&nbsp;1-866-312-1511. Vous pouvez aussi communiquer avec le Commissariat &agrave; la protection de la vie priv&eacute;e du Canada par courriel, &agrave;&nbsp;<a href=\"mailto:info@priv.gc.ca\">info@priv.gc.ca</a>, ou par t&eacute;l&eacute;phone, au&nbsp;1-800-282-1376. Vous avez &eacute;galement la possibilit&eacute; de d&eacute;poser une plainte aupr&egrave;s du Commissariat &agrave; la protection de la vie priv&eacute;e du Canada quant &agrave; la fa&ccedil;on dont le SCT traite vos renseignements personnels."
-
+how-we-work:
+  other: "Nous travaillons au sein d'équipes multidisciplinaires agiles pour créer des produits numériques comme ceux-ci."
+great-team:
+  other: "Nous avons une grande équipe"
+say-hello:
+  other: "Dites bonjour aux concepteurs, développeurs, chercheurs, pirates informatiques, communicateurs qui composent les CDS."
+cds-team:
+  other: "Équipe CDS"
+but-need-help:
+  other: "mais nous avons besoin de votre aide"
+product-impact:
+  other: "Nos produits auront un impact sur la vie quotidienne des gens. C'est une chose excitante à faire partie. Et nous avons besoin de toi."
+apply-now:
+  other: "Appliquer maintenant"
