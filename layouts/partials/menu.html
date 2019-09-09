@@ -6,6 +6,9 @@
       <div class="col-xs-4 col-sm-3">
         <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo" role="img"
            aria-label="{{ i18n "aria-cds-website" }}"></a>
+        <!-- mobile screen wordless logo -->
+        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo-mobile" role="img"
+        aria-label="{{ i18n "aria-cds-website" }}"></a>
       </div>
 
       <div class="nav-container">
@@ -27,12 +30,11 @@
               {{end}}
             </ul>
           </div>
-
           <button class="main-nav-button" id="js-mainNavButton">
             <span class="main-nav-button--text">Menu</span>
             <span class="main-nav-button--button">
             <span class="glyphicon glyphicon-th"></span>
-          </span>
+          </span>    
         </button>
       </div>
     </div>

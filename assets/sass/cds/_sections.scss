@@ -39,23 +39,15 @@
 }
 
 .homepage--intro {
-    padding-bottom: 0;
+  background-color: $black;
+  color: $white;
+  border-top: 1px solid $black;
 
-  .text {
-    color: $black;
-    font-weight: 200;
-    font-size: 2.15rem;
-    line-height: 1.35em;
+  p {
+    font-size: 3rem; 
 
-    @include tablet {
-      margin-top: 0.5rem;
-      font-size: 2.25rem;
-    }
-
-    @include desktop {
-      margin-top: 1.5rem;
+    @include mobile_only {
       font-size: 2.5rem;
-      font-weight: 300;
     }
   }
 }
@@ -122,29 +114,6 @@
   }
 }
 
-.homepage--intro-cds {
-  .intro-video {
-    margin-bottom: 1rem;
-
-    @include tablet {
-      margin-bottom: 3rem;
-    }
-  }
-
-  .our-team {
-    @include tablet {
-      border-top: lighten($medium-grey, 3) 5px solid;
-    }
-
-    h3 {
-      @include mobile_only {
-        border-top: $medium-grey 1px solid;
-        padding-top: 3rem;
-      }
-    }
-  }
-}
-
 .homepage--our-team {
   background-color: #262a2d;
   background-size: cover;
@@ -201,151 +170,6 @@
   p {
     font-size: 1em;
     line-height: 1.2em;
-  }
-}
-
-.homepage--budget {
-  blockquote {
-    width: 100%;
-    padding: 0rem 3.5rem 0rem 3.5rem;
-    margin: 0;
-    border: 0;
-    position: relative;
-
-    @include tablet {
-      padding: 3.5rem 4rem 3rem 4.5rem;
-    }
-
-    @include desktop {
-      padding: 3.5rem 3rem 3rem 5.5rem;
-    }
-
-    p {
-      font-size: 2rem;
-      line-height: 1.75em;
-
-      @include desktop {
-        font-size: 2.5rem;
-      }
-    }
-
-    .lead {
-      margin-bottom: 0;
-    }
-  }
-
-  .quote-ico {
-    position: absolute;
-    font-size: 5rem;
-    opacity: 0.15;
-    text-shadow: 0 -1px 0 #000;
-    color: #ccc;
-
-    @include tablet {
-      font-size: 7rem;
-    }
-
-    @include desktop {
-      font-size: 8rem;
-    }
-
-    &.left {
-      top: 0;
-      left: 0;
-    }
-
-    &.right {
-      display: none;
-
-      @include tablet {
-        display: block;
-        bottom: 3rem;
-        right: 0;
-      }
-
-      @include desktop {
-        bottom: -2rem;
-      }
-
-    }
-  }
-}
-
-.homepage--engagement-report {
-  background: url("/img/cds/engagementReport-bk.jpg") center center no-repeat;
-  background-size: cover;
-  background-color: #121519;
-  color: $white;
-
-  .title {
-    @include tablet {
-      border-right: $white 1px solid;
-      padding-right: 3rem;
-      padding-top: 1.5rem;
-      padding-bottom: 1.5rem;
-    }
-
-    @include desktop {
-      padding-top: 2rem;
-      padding-bottom: 5rem;
-      padding-left: 10rem;
-    }
-  }
-
-  .text {
-    @include tablet {
-      padding-left: 3rem;
-      padding-top: 1rem;
-    }
-
-    @include desktop {
-      padding-top: 3rem;
-    }
-  }
-
-  .pretitle {
-    background: rgba(0, 0, 0, 0.95);
-    display: inline-block;
-    font-size: 1.25rem;
-    font-weight: 300;
-    padding: 0.5rem 1rem;
-    margin-bottom: 1rem;
-
-    @include tablet {
-      margin-bottom: 1rem;
-    }
-  }
-
-  .read-the-report {
-    color: #fc3 !important;
-    border-bottom: #fc3 1px dotted;
-    transition: all 0.3s ease-in-out;
-
-    &:hover {
-      border-bottom: $primary-color 1px solid;
-    }
-  }
-
-  h2 {
-    font-size: 3.25rem;
-    font-weight: 100;
-    margin: 0.5rem 0 2rem 0;
-  }
-
-  .postitle {
-    font-size: 2rem;
-    font-weight: 300;
-    margin-top: 1.5rem;
-    margin-bottom: 2rem;
-
-    @include tablet {
-      margin-top: 5rem;
-      font-weight: 100;
-    }
-
-    @include desktop {
-      padding-right: 2rem;
-    }
   }
 }
 
@@ -428,36 +252,6 @@
         margin: 0;
         margin-top: 0.5rem;
       }
-    }
-  }
-}
-
-.section--contact {
-  h2 {
-    font-weight: 100;
-
-    @include mobile_only {
-      text-align: center;
-      margin-bottom: 4rem;
-    }
-
-    @include desktop {
-      font-size: 3.5rem;
-      margin-bottom: 1rem;
-    }
-  }
-
-  .hiGraphic {
-    background: url("/img/cds/hi.png") no-repeat center center;
-    background-size: contain;
-    display: block;
-    height: 42rem;
-    width: 100%;
-    opacity: 0.25;
-
-    .fr & {
-      background: url("/img/cds/salut.png") no-repeat center center;
-      background-size: contain;
     }
   }
 }
@@ -1107,15 +901,6 @@ article.post {
 // CONTACT
 //
 ////////////////////////////////////////////////////
-.section--contact {
-  .contact-info {
-    @include mobile_only {
-      max-width: 35rem;
-      margin: 0 auto;
-    }
-  }
-}
-
 .section--mailing-list {
   background: $bg-grey;
   padding-bottom: 8rem;
@@ -1315,27 +1100,4 @@ article.post {
       height: 40rem;
     }
   }
-}
-
-////////////////////////////////////////////////////
-//
-// PLATFORM
-//
-////////////////////////////////////////////////////
-
-.platform-banner{
-  background-color: $dark-grey;
-  background-size: cover;
-  background-position: center center;
-  height: 12rem;
-  position: relative;
-
-  @include tablet  {
-    height: 20rem;
-  }
-
-  @include desktop {
-    height: 28rem;
-  }
-
 }
