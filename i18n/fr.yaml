@@ -131,9 +131,9 @@ email-address:
 subscribe:
   other: "S’inscrire"
 view-privacy-notice:
-  other: "Avis de confidentialité"
+  other: "Voir l'avis de confidentialité"
 privacy-notice:
-  other: "Énoncé de confidentialité"
+  other: "Avis de confidentialité"
 privacy-notice-pt-1:
   other: "Notre infolettre utilise <a href="https://mailchimp.com/">Mailchimp</a> (site en anglais), une application tierce. L’adhésion est libre et est assujettie aux <a href="https://mailchimp.com/legal/terms/">Conditions d’utilisation</a> (page en anglais) de la plateforme Mailchimp. Au moment de l’adhésion, le système enregistre votre adresse courriel et votre langue de préférence (anglais ou français). Aucun autre renseignement personnel n’est recueilli."
 privacy-notice-pt-2:
