@@ -337,6 +337,15 @@ span.livefr {
     }
   }
 
+  h4, p, a {
+    font-size: 18.5px;
+  }
+
+  a {
+    text-decoration: underline;
+    color: $black;
+  }
+
   h3.live::after,
   h3.livefr::after,
   h3.alpha::after,
@@ -399,7 +408,6 @@ span.livefr {
 
   h4 {
     font-weight: 100;
-    font-size: 18px;
 
     @include mobile_only {
       margin-top: 5px;
@@ -421,7 +429,6 @@ span.livefr {
   }
 
   p { margin-bottom: 0px; }
-  a { font-size: 2.00rem; }
 }
 
 .work-in-progress--platform-module {
