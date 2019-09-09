@@ -42,15 +42,15 @@ exec:
     twitter: andreagilbrook
   - archived: false
     email: chelsea.novak@tbs-sct.gc.ca
-    image-name: /img/cds/chelsea-novak.jpg
     github: chelseanovak
-    twitter: herhighnessness
+    image-name: /img/cds/chelsea-novak.jpg
     linkedin: chelseanovak
     name: Chelsea Novak
+    processed: 1563384025788
     title:
       en: Head of Outreach
       fr: Chef de liaison et diffusion
-    processed: 1563384025788
+    twitter: herhighnessness
   - archived: false
     email: Christopher.Govias@tbs-sct.gc.ca
     image-name: /img/cds/chris-govias.jpg
@@ -172,11 +172,11 @@ team:
     image-name: /img/cds/adrianne-lee.jpg
     linkedin: adriannehlee
     name: Adrianne Lee
+    processed: 1560521882132
     title:
       en: Design Research
       fr: Recherche en conception
     twitter: adriannehlee
-    processed: 1560521882132
   - archived: false
     email: Alexa.Davidson@tbs-sct.gc.ca
     image-name: /img/cds/alexa-davidson.jpg
@@ -200,10 +200,10 @@ team:
     image-name: /img/cds/annemarie-mulumba.jpg
     linkedin: annemariewm
     name: Anne-Marie Mulumba
+    processed: 1560521882135
     title:
       en: Design Research
       fr: Recherche en conception
-    processed: 1560521882135
   - archived: false
     email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
@@ -218,21 +218,21 @@ team:
     image-name: /img/cds/brian-hendrick.jpg
     linkedin: hendrickbrian
     name: Brian Hendrick
+    processed: 1566844001404
     title:
       en: Design
       fr: Conception
-    processed: 1566844001404
   - archived: false
     email: brock.higgins@tbs-sct.gc.ca
     github: brockhigg10
     image-name: /img/cds/brock-higgins.jpg
     linkedin: brockhiggins
     name: Brock Higgins
+    processed: 1560521882135
     title:
       en: Talent
       fr: Talent
     twitter: brockhigg10
-    processed: 1560521882135
   - archived: false
     email: Bryan.Willey@tbs-sct.gc.ca
     github: willeybryan
@@ -337,10 +337,10 @@ team:
     email: francois.moisan@tbs-sct.gc.ca
     image-name: /img/cds/francois-moisan.jpg
     name: Francois Moisan
+    processed: 1563387298641
     title:
       en: Support Technician
       fr: Technicien de soutien
-    processed: 1563387298641
   - archived: false
     email: Hillary.Lorimer@tbs-sct.gc.ca
     image-name: /img/cds/hillary-lorimer.jpg
@@ -356,21 +356,21 @@ team:
     image-name: /img/cds/jeana-frost.jpg
     linkedin: jeanafrost
     name: Jeana Frost
+    processed: 1566844001408
     title:
       en: Design Research
       fr: Recherche en conception
-    processed: 1566844001408
   - archived: false
     email: jeff.maher@tbs-sct.gc.ca
     github: jeffmaher
     image-name: /img/cds/jeff-maher.jpg
     linkedin: jeffmaher
     name: Jeff Maher
+    processed: 1560521882135
     title:
       en: Development
       fr: Développement
     twitter: plusjeff
-    processed: 1560521882135
   - archived: true
     email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.jpg
@@ -400,10 +400,10 @@ team:
     image-name: /img/cds/jose-jimenez.jpg
     linkedin: jimenezj27
     name: Jose Jimenez
+    processed: 1563387298644
     title:
       en: Partnerships
       fr: Partenariats
-    processed: 1563387298644
   - archived: false
     email: julianna.rowsell@tbs-sct.gc.ca
     github: JuliannaR
@@ -419,21 +419,21 @@ team:
     email: kate.wilhelm@tbs-sct.gc.ca
     image-name: /img/cds/kate-wilhelm.jpg
     name: Kate Wilhelm
+    processed: 1563387298644
     title:
       en: Design
       fr: Conception
-    processed: 1563387298644
   - archived: false
     email: keith.emmerson@tbs-sct.gc.ca
     github: keithiopia
     image-name: /img/cds/keith-emmerson.jpg
     linkedin: keithemmerson
     name: Keith Emmerson
+    processed: 1560521882136
     title:
       en: Design
       fr: Conception
     twitter: keithEmmerson
-    processed: 1560521882136
   - archived: false
     email: Khalid.Elaggan@tbs-sct.gc.ca
     image-name: /img/cds/khalid-elaggan.jpg
@@ -487,10 +487,10 @@ team:
     email: martha.edwards@tbs-sct.gc.ca
     image-name: /img/cds/martha-edwards.jpg
     name: Martha Edwards
+    processed: 1560521882136
     title:
       en: Design Research
       fr: Recherche en conception
-    processed: 1560521882136
   - archived: false
     github: maxneuvians
     image-name: /img/cds/max-neuvians.jpg
@@ -602,11 +602,11 @@ team:
     image-name: /img/cds/stephane-boisvert.jpg
     linkedin: stephaneboisvert
     name: Stephane Boisvert
+    processed: 1560521882136
     title:
       en: Development
       fr: Développement
     twitter: stephBoisvert
-    processed: 1560521882136
   - archived: false
     email: Stephanie.Gauthier@tbs-sct.gc.ca
     image-name: /img/cds/stephanie-gauthier.jpg
@@ -642,8 +642,8 @@ team:
     name: Stevie-Ray Talbot
     processed: 1552050695394
     title:
-      en: Policy
-      fr: Politiques
+      en: Product Management
+      fr: Gestion de produits
     twitter: StevieRayTalbot
   - archived: false
     email: Tim.Arney@tbs-sct.gc.ca
@@ -669,11 +669,11 @@ team:
     image-name: /img/cds/yael-berger.jpg
     linkedin: yael-berger-5791a455
     name: Yael Berger
+    processed: 1566844001408
     title:
       en: Outreach
       fr: Liaison et diffusion
     twitter: yaelberger
-    processed: 1566844001408
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
     image-name: /img/cds/zoe-richford.jpg
