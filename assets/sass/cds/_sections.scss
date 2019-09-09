@@ -270,13 +270,6 @@
 // PRODUCT DASHBOARD
 //
 ////////////////////////////////////////////////////
-.work-in-progress--intro {
-  h1,
-  h2,
-  h3 {
-    color: #000000;
-  }
-}
 
 .row.equal {
   @include desktop {
@@ -329,12 +322,19 @@ span.livefr {
 
   h3 {
     font-weight: 500;
-    margin-top: 25px;
-    margin-bottom: 0;
+    // margin-top: 25px;
 
-    @include mobile_only { font-size: 24pt; }
-    @include tablet { font-size: 26pt; }
-    @include desktop { font-size: 30pt; }
+    @include mobile_only { 
+      font-size: 24px; 
+    }
+
+    @include tablet {
+      font-size: 26px;
+    }
+
+    @include desktop { 
+      font-size: 30px; 
+    }
   }
 
   h3.live::after,
@@ -350,6 +350,7 @@ span.livefr {
     bottom: 10px;
     color: #ffffff;
     margin-left: 0;
+    margin-top: 15px;
     border-radius: 6px;
     font-size: 10pt;
 
@@ -397,19 +398,18 @@ span.livefr {
   h3.betafr::after { content: "Bêta"; }
 
   h4 {
-    font-weight: 500;
+    font-weight: 100;
+    font-size: 18px;
 
     @include mobile_only {
       margin-top: 5px;
     }
 
     @include tablet {
-      font-size: 18pt;
       margin-top: 10px;
     }
 
     @include desktop {
-      font-size: 22pt;
       margin-top: 20px;
     }
   }
@@ -437,7 +437,7 @@ span.livefr {
 
   p {
     margin: 0px;
-    padding-top: 25px;
+    padding-top: 5px;
   }
 }
 
