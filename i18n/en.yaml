@@ -61,7 +61,7 @@ partnerships-contact-us:
 partnerships-intro:
   other: "At the Canadian Digital Service, we partner up with federal departments to design, test and build simple, easy to use services. Our goal is to improve the experience – for people who deliver government services and people who use those services."
 partnerships-how-it-works:
-  other: "We work with our partners in the open, regularly sharing progress via public platforms. This creates a culture of learning and fosters best practices. And it means non-partner departments can apply our work and <strong><u>use our resources</u></strong> to develop their own services."
+  other: "We work with our partners in the open, regularly sharing progress via public platforms. This creates a culture of learning and fosters best practices. And it means non-partner departments can apply our work and use our resources to develop their own services."
 partnerships-how-we-do-it-1st:
   other: "Together, we form a team that follows the Agile software development methodology. This means we begin with an intensive research phase (<span class='discovery'>Discovery</span>), and then move to a prototype and testing phase (<span class='alpha'>Alpha</span>). Mature services move into a public <span class='beta'>Beta</span> phase, and then to <span class='live'>Live</span>."
 partnerships-how-we-do-it-2nd:
@@ -73,7 +73,7 @@ partnerships-team-intro:
 partnerships-from-cds:
   other: "From CDS"
 partnerships-cds-pm:
-  other: "A <strong><u>product manager</u></strong> &mdash; they form the vision of the service, and set direction for the team"
+  other: "A <strong><u>product manager</u></strong> &mdash; they form the vision of the service, and set priorities for the team"
 partnerships-cds-researcher:
   other: "A <strong>researcher</strong> &mdash; they work with people who will use the service to learn about their needs"
 partnerships-cds-designers:
@@ -87,11 +87,11 @@ partnerships-from-partner:
 partnerships-partner-owner:
   other: "A <strong>service owner</strong> throughout"
 partnerships-partner-experts:
-  other: "Two to four experts from relevant service areas"
+  other: "Experts from relevant service areas"
 partnerships-partner-for-beta:
-  other: "For the <span class='beta'>Beta</span> phase, parallel <strong>research</strong>, <strong>design</strong>, <strong>developer</strong> and <strong>policy</strong> staff"
+  other: "Research, design, developer and policy staff, to match those on the CDS side (for the <span class='alpha'>Alpha</span> and <span class='beta'>Beta</span> phases)"
 partnerships-partner-for-live:
-  other: "For the <span class='live'>Live</span> phase, a full time autonomous <strong>multi-disciplinary team</strong> to continuously improve the service"
+  other: "A full time autonomous multi-disciplinary team to continuously improve the service (for the <span class='live'>Live</span> phase)"
 partnerships-interested-in-chatting:
   other: "Interested in chatting about a potential partnership?"
 partnerships-partner-overview:

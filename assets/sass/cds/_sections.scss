@@ -1183,8 +1183,13 @@ article.post {
 }
 
  .bg-dark-full {
+   width: 100%;
   background-color: $section-bg-grey;
   color: $white;
+
+  .container {
+    width: 100%;
+  }
 
    h2 {
     color: $primary-color;
