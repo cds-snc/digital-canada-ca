@@ -18,26 +18,26 @@ languages:
     weight: 1
     menu:
       main:
-      - identifier: home
-        name: Home
-        url: /
-        weight: 1
-      - identifier: Partnerships
-        name: Partnerships
-        url: /partnerships/
-        weight: 2
-      - identifier: products
-        name: View our products
-        url: /products/
-        weight: 3
-      - identifier: meet-the-team
-        name: Who we are
-        url: /meet-the-team/
-        weight: 4
-      - identifier: blog
-        name: Blog
-        url: /blog/
-        weight: 5
+        - identifier: home
+          name: Home
+          url: /
+          weight: 1
+        - identifier: Partnerships
+          name: Partnerships
+          url: /partnerships/
+          weight: 2
+        - identifier: products
+          name: View our products
+          url: /products/
+          weight: 3
+        - identifier: meet-the-team
+          name: Who we are
+          url: /meet-the-team/
+          weight: 4
+        - identifier: blog
+          name: Blog
+          url: /blog/
+          weight: 5
   fr:
     baseUrl: https://numerique.canada.ca/
     contentDir: content/fr
@@ -53,23 +53,23 @@ languages:
       work-with-us: /:title
     menu:
       main:
-      - identifier: home
-        name: Home
-        url: /
-        weight: 1
-      - identifier: ce-que-nous-faisons
-        name: Ce que nous faisons
-        url: /ce-que-nous-faisons/
-        weight: 2
-      - identifier: produits
-        name: Découvrir nos produits
-        url: /produits/
-        weight: 3
-      - identifier: rencontrez-lequipe
-        name: Qui nous sommes
-        url: /rencontrez-lequipe/
-        weight: 4
-      - identifier: blogue
-        name: Blogue
-        url: /blogue/
-        weight: 5
+        - identifier: home
+          name: Home
+          url: /
+          weight: 1
+        - identifier: Partenariats
+          name: Partenariats
+          url: /partenariats/
+          weight: 2
+        - identifier: produits
+          name: Découvrir nos produits
+          url: /produits/
+          weight: 3
+        - identifier: rencontrez-lequipe
+          name: Qui nous sommes
+          url: /rencontrez-lequipe/
+          weight: 4
+        - identifier: blogue
+          name: Blogue
+          url: /blogue/
+          weight: 5
