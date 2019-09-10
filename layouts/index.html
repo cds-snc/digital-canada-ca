@@ -34,12 +34,14 @@
                   <p>{{ $post.Params.description }}</p>
               </div>
 
+              <div class="work-in-progress--partners-long">
               {{ if gt (len $post.Params.partners) 0 }}
                 {{ range $post.Params.partners }}
                   <h4>Partner:</h4>
-                  <p><a href='{{ .url }}'>{{ .name }}</a></p>
+                  <span><p><a href='{{ .url }}'>{{ .name }}</a></p></span>
                 {{ end }}
               {{ end }}
+              </div>
 
               <div class="work-in-progress--team">
                   <h4>Contact:</h4>
@@ -53,7 +55,7 @@
                     {{ if gt (len .) 0 }}
                       <h4>{{ i18n "links" }}:</h4>
                       {{range .}}
-                        <p><a href="{{ .url }}">{{.name}}</a></p>
+                      <p><a href="{{ .url }}">{{.name}}</a></p>
                       {{ end }}
                     {{ end }}
                   {{ end }}
