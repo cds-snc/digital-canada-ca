@@ -5,36 +5,28 @@
     <div class="container">
       <div class="row">
         <div class="col-xs-12">
-          <p>{{ i18n "partnerships-intro" }}
-          </p>
+          <p>{{ i18n "partnerships-intro" | safeHTML }}</p>
         </div>
       </div>
 
        <div class="row">
         <div class="col-xs-12">
-          <h2>{{ i18n "how-it-works" }}</h2>
-          <p>{{ i18n "partnerships-how-it-works" | safeHTML }}</p>
-        </div>
-      </div>
-
-       <div class="row">
-        <div class="col-xs-12">
-          <h3>{{ i18n "how-we-do-it" }}</h3>
+          <h2>{{ i18n "partnerships-how-it-works" | safeHTML }}</h2>
           <p>{{ i18n "partnerships-how-we-do-it-1st" | safeHTML }}</p>
           <p>{{ i18n "partnerships-how-we-do-it-2nd" | safeHTML }}</p>
-          <p>{{ i18n "partnerships-how-we-do-it-3rd" | safeHTML }}</p>
-        </div>
-      </div>
+          <p>{{ i18n "partnerships-how-we-do-it-3d" | safeHTML }}</p>
+          <p>{{ i18n "partnerships-how-we-do-it-4th" | safeHTML }}</p>
+       </div>
     </div>
-  </section>
+  <div>
 
    <section class='bg-dark-full'>
     <div class='container'>
       <div class='row'>
         <div class='col-xs-12'>
-          <h2>{{ i18n "who-is-on-the-team" }}</h2>
-          <p>{{ i18n "partnerships-team-intro" }}</p>
-          <p>{{ i18n "partnerships-from-cds" }}:</p>
+          <h2>{{ i18n "partnerships-from-cds" | safeHTML }}</h2>
+          <p>{{ i18n "partnerships-from-cds-blurb" | safeHTML }}</p>
+      
           <ul>
             <li>{{ i18n "partnerships-cds-pm" | safeHTML }}</li>
             <li>{{ i18n "partnerships-cds-researcher" | safeHTML }}</li>
@@ -56,7 +48,6 @@
   </section>
 
    <section class='bg-yellow-full'>
-    <div class='container'>
       <div class='row'>
         <div class='col-md-7 col-xs-12'>
           <p>{{ i18n "partnerships-interested-in-chatting" }}</p>
@@ -66,12 +57,11 @@
             {{ i18n "partnerships-contact-us" }}
           </a>
         </div>
-      </div>
-    </div>
+      </div>  
   </section>
 
    <section class='partnership-products'>
-    <div class='container'>
+    <div class=''>
       <div class='row'>
         <div class='col-xs-12'>
           <h2>{{ i18n "what-were-working-on" }}</h2>
@@ -90,7 +80,7 @@
     </div>
 
      {{ $products := where .Site.Pages ".Dir" "==" "products/products/" }}
-    <div class='container'>
+    <div class=''>
       <div class='row'>
         <div class='col-xs-12'>
           <h3>{{ i18n "partnerships-inflight" }}</h3>
@@ -111,7 +101,7 @@
       </div>
     </div>
 
-     <div class='container'>
+     <div class=''>
       <div class='row'>
         <div class='col-xs-12'>
           <h3>{{ i18n "partnerships-past" }}</h3>
