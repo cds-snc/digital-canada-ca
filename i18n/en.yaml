@@ -140,15 +140,10 @@ view-product:
   other: "View this product"
 join-our-team:
   other: "Join our team"
-<<<<<<< HEAD
-what-we-do:
-  other: "What we do"
 what-were-working-on:
   other: "What we're working on"
-=======
 partnerships:
   other: "Partnerships"
->>>>>>> 28ac36e5ecaff0bc2f40b96d54e7d452c6ecffa4
 featured-post:
   other: "Recent blog posts"
 more-posts:
