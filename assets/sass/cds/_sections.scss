@@ -318,11 +318,17 @@ span.livefr {
   background-color: $white;
   margin-bottom: 2em;
   box-shadow: 5px 8px 5px $medium-grey;
-  padding: 10px 10px 0px 10px;
   height: 100%;
+  padding: 10px 10px 20px 10px;
+  
+  @include desktop {
+    padding-bottom: 0;
+  }
+
 
   h3 {
     font-weight: 500;
+    margin: 12px 0;
   
     @include mobile_only { 
       font-size: 24px; 
@@ -334,11 +340,13 @@ span.livefr {
 
     @include desktop { 
       font-size: 30px; 
+      margin-top: 20px;
     }
   }
 
   h4, p, a {
     font-size: 18.5px;
+    display: inline-block;
   }
 
   a {

@@ -55,6 +55,7 @@ a {
 	&:hover {
 		text-decoration: none;
 		color: lighten($secondary-color, 15);
+		cursor: pointer;
 	}
 
 	&:hover:not[class] {
