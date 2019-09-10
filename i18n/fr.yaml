@@ -95,7 +95,7 @@ contact-us:
 featured-post:
   other: "Récents billets de blogue"
 more-posts:
-  other: "Voir tout"
+  other: "Voir tous les produits"
 tools-and-resources:
   other: "Outils et ressources"
 the-platform-team:
@@ -131,7 +131,7 @@ email-address:
 subscribe:
   other: "S’inscrire"
 view-privacy-notice:
-  other: "Avis de confidentialité"
+  other: "Voir l’Avis de confidentialité"
 privacy-notice:
   other: "Énoncé de confidentialité"
 privacy-notice-pt-1:
@@ -155,4 +155,4 @@ but-need-help:
 product-impact:
   other: "Nos produits auront un impact sur la vie quotidienne des gens. C’est une expérience passionnante à vivre. Faites-en partie!"
 apply-now:
-  other: "Appliquer maintenant"
+  other: "Postuler maintenant"
