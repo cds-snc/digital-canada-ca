@@ -57,43 +57,46 @@ partner:
 partnerships:
   other: "Partenariats"
 partnerships-contact-us:
-  other: "Contactez nous"
+  other: "Communiquez avec nous!"
 partnerships-intro:
-  other: "Au Service numérique canadien, nous collaborons avec des ministères fédéraux pour concevoir, tester et créer des services simples et faciles à utiliser. Notre objectif est d'améliorer l'expérience - pour les personnes qui fournissent des services gouvernementaux et les personnes qui utilisent ces services."
+  other: "Au Service numérique canadien, nous établissons des partenariats avec les ministères fédéraux pour concevoir, tester et bâtir des services simples et faciles à utiliser. Notre objectif est d’améliorer l’expérience des personnes qui fournissent les services gouvernementaux tout comme celle des personnes qui les utilisent."
 partnerships-how-it-works:
-  other: "Nous travaillons avec nos partenaires à ciel ouvert et partageons régulièrement les progrès via des plates-formes publiques. Cela crée une culture d'apprentissage et favorise les meilleures pratiques. Et cela signifie que les ministères non partenaires peuvent appliquer notre travail et <strong><u>utiliser nos ressources</u></strong> pour développer leurs propres services."
+  other: "Fonctionnement"
 partnerships-how-we-do-it-1st:
-  other: "Ensemble, nous formons une équipe qui suit la méthodologie de développement logiciel Agile. Cela signifie que nous commençons par une phase de recherche intensive (<span class='discovery'>Discovery</span>), puis passons à un prototype et à une phase de test (<span class='alpha'>Alpha</span>). Les services matures entrent dans une phase <span class='beta'>bêta</span> publique, puis sur <span class='live'>Live</span>."
+  other: "Nous travaillons avec nos partenaires de façon ouverte, en partageant régulièrement nos progrès sur des plateformes publiques. Cette démarche crée une culture de l’apprentissage et favorise des pratiques exemplaires. Elle permet par le fait même aux ministères non partenaires de recourir à notre travail et d’utiliser nos ressources pour développer leurs propres services. "
 partnerships-how-we-do-it-2nd:
-  other: "Entre les phases <span class='beta'>Beta</span> et <span class='live'>Live</span>, les membres de notre équipe se retirent du service et l’équipe partenaire poursuit la maintenance et le développement. Nous pouvons aider les partenaires à recruter leur équipe de service à partir de sources internes et externes."
+  other: "Ensemble, nous formons une équipe qui suit la méthode de développement agile. Nous commençons avec une phase de recherche intensive appelée <span class='discovery'>« découverte »</span>, où nous explorons les besoins des utilisateurs et les solutions possibles d’y répondre. Puis nous passons en phase <span class='alpha'>« alpha »</span>, où nous construisons des prototypes pour trouver et tester des moyens de satisfaire les besoins des utilisateurs. Vient ensuite la phase <span class='beta'>« bêta »</span>, où nous faisons paraître une solution publique pour la tester de façon intensive. Enfin, dans la phase de <span class='live'>« mise en ligne »</span>, le service entre entièrement en fonction et continue d’être surveillé et amélioré."
 partnerships-how-we-do-it-3rd:
-  other: "Avant le début de chaque phase, la SNC et le partenaire signent un accord de partenariat qui décrit les travaux à venir."
-partnerships-team-intro:
-    other: "Chaque équipe est composée de membres de la SNC et du département partenaire."
+  other: "Entre la phase bêta et la mise en ligne, les membres de notre équipe se retirent. L’équipe du ministère partenaire continue alors à maintenir et à développer le service. Nous pouvons aider les partenaires à recruter leur équipe de service à partir de sources internes et externes."
+partnerships-how-we-do-it-4th:
+    other: "Avant le début de chaque phase, le SNC et le partenaire signent une entente de partenariat. Celle-ci décrit l’objectif et les résultats de la phase à venir, la façon d’y parvenir ainsi qu’un engagement à les réaliser."
 partnerships-from-cds:
-  other: "De SNC"
+  other: "Composition de l’équipe"
+partnerships-from-cds-blurb:
+  other: "Chaque équipe est composée de membres du SNC et de membres du ministère partenaire, de sorte que nous pouvons partager nos façons de travailler et avoir une vision commune du problème que nous tentons de résoudre ensemble."
 partnerships-cds-pm:
-  other: "Un <strong><u>chef de produit</u></strong> &mdash; ils forment la vision du service et définissent l'orientation de l'équipe"
+  other: "Un <strong><u>chef de produit</u></strong> &mdash; : cette personne établit la vision du service et les priorités de l’équipe
+"
 partnerships-cds-researcher:
-  other: "Un <strong>chercheur</strong> &mdash; ils travaillent avec des personnes qui utiliseront le service pour connaître leurs besoins"
+  other: "Un <strong>chercheur</strong> &mdash; cette personne travaille avec ceux et celles qui utiliseront le service afin de connaître leurs besoins"
 partnerships-cds-designers:
-  other: "Les <strong>concepteurs</strong> &mdash; ils conçoivent des solutions pour répondre aux besoins des utilisateurs du service"
+  other: "Des <strong>concepteurs</strong> &mdash; :ces personnes conçoivent des solutions de façon à répondre aux besoins des gens qui utiliseront le service"
 partnerships-cds-developers:
-  other: "Les <strong>développeurs</strong> &mdash; ils écrivent le code pour construire le service"
+  other: "Les <strong>développeurs</strong> &mdash; ces personnes écrivent le code qui se cache derrière le service"
 partnerships-cds-support:
-  other: "Soutien des équipes <strong>Partenariat</strong>, <strong>Politique</strong> et <strong>Sensibilisation</strong>"
+  other: "Un soutien des équipes de <strong>partenariats</strong>, <strong>des politiques</strong> et <strong>de liaison et diffusion</strong>"
 partnerships-from-partner:
-  other: "Les personnes et les disciplines dont nous avons besoin d’un département partenaire varient, mais dans la plupart des cas, le partenaire fournit"
+  other: "Les personnes et les disciplines nécessaires chez le ministère partenaire varient. Mais dans la plupart des cas, le partenaire fournit :"
 partnerships-partner-owner:
-  other: "Un <strong>propriétaire de service</strong> tout au long"
+  other: "Un <strong>propriétaire de service</strong> du début à la fin"
 partnerships-partner-experts:
-  other: "Deux à quatre experts des domaines de services pertinents"
+  other: "Des experts dans des secteurs de service pertinents"
 partnerships-partner-for-beta:
-  other: "Pour la phase <span class='beta'>bêta</span>, le personnel de <strong>recherche</strong>, de <strong>conception</strong>, de <strong>développement</strong> et de <strong>politique</strong> parallèle"
+  other: "Des chercheurs, des concepteurs, des développeurs et des analystes politiques de façon à refléter ceux provenant du SNC pour les phases <span class='alpha'>alpha</span> et <span class='beta'>bêta</span>"
 partnerships-partner-for-live:
-  other: "Pour la phase en <span class='live'>direct</span>, une <strong>équipe multidisciplinaire autonome</strong> à temps plein pour améliorer continuellement le service"
+  other: "Une équipe multidisciplinaire autonome à temps plein dédiée à améliorer de façon continue le service (pour la phase de <span class='live'>mise en ligne</span>)"
 partnerships-interested-in-chatting:
-  other: "Vous souhaitez discuter d'un partenariat potentiel?"
+  other: "Vous aimeriez discuter d’un partenariat potentiel?"
 partnerships-partner-overview:
   other: "Découvrez l'aperçu des partenariats de la CDS ci-dessous! Pour savoir comment nous choisissons nos partenariats, lisez ce"
 partnerships-past:
