@@ -51,9 +51,11 @@
 }
 
 .homepage--what-we-do {
+
   p {
     text-align: left;
   }
+
   .view-all {
     text-align: right;
   }
@@ -72,30 +74,44 @@
   .post {
     display: flex;
     flex-direction: column;
-    padding: 20px 10px;
+    padding: 20px;
     background-color: $white;
     margin-bottom: 2em;
     box-shadow: 5px 8px 5px $medium-grey;
     height: 100%;
-    text-align: center;
+    text-align: left;
+
+    h3, h4, p, a {
+      display: inline-block;
+      color: $black;
+      margin: 5px 0;
+      padding: 0;
+    }
 
     h3 {
-      flex: 1;
       font-weight: 500;
-      margin-top: 25px;
-      margin-bottom: 0;
-      font-size: 3rem;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      font-size: 2.2rem;
+    }
+
+    h4 {
+      font-weight: 100;
+
+      p {
+        font-weight: 500;
+      }
     }
 
     p {
       margin-bottom: 0px;
-      font-size: 1.5rem;
+      font-size: 1.8rem;
       line-height: 1.1em;
-      text-align: center;
     }
+
     a {
-      font-size: 2.00rem;
-      text-decoration: none
+      font-size: 1.8rem;
+      text-decoration: underline;
     }
   }
 }

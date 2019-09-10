@@ -20,22 +20,43 @@
       </div>
 
       <div class='row equal'>
-        {{ $posts := where .Pages ".Section" "==" "products" }}
-        {{ $homepage := where $posts ".Params.onhomepage" true }}
-        {{ range $idx, $post := first 4 $homepage }}
-          {{ if and (ne $idx 0) (eq (mod $idx 2) 0) }}
-            </div>
-            <div class='row equal'>
-          {{ end }}
-
+          {{ $posts := where .Pages ".Section" "==" "products" }}
+          {{ $homepage := where $posts ".Params.onhomepage" true }}
+          {{ range $idx, $post := first 4 $homepage }}
+            {{ if and (ne $idx 0) (eq (mod $idx 2) 0) }}
+      </div>
+      <div class='row equal'>
+        {{ end }}
           <div class="col-xs-12 col-md-6">
             <div class='post border-{{.Params.phase}}'>
               <h3>{{ $post.Params.title }}</h3>
+              <div class="work-in-progress--product-summary">
+                  <p>{{ $post.Params.description }}</p>
+              </div>
+
               {{ if gt (len $post.Params.partners) 0 }}
                 {{ range $post.Params.partners }}
-                  <p>{{ .name }}</p>
+                  <h4>Partner: <p><a href='{{ .url }}'>{{ .name }}</a></p></h4>
                 {{ end }}
               {{ end }}
+
+              <div class="work-in-progress--team">
+                  <h4>Contact:</h4>
+                  {{ range $post.Params.contact }}
+                    <p><a href='mailto:{{.email}}'>{{.name}}</a></p>
+                  {{ end }}
+              </div>
+
+              <div class="work-in-progress--links">
+                  {{with $post.Params.links }}
+                    {{ if gt (len .) 0 }}
+                      <h4>{{ i18n "links" }}:</h4>
+                      {{range .}}
+                        <p><a href="{{ .url }}">{{.name}}</a></p>
+                      {{ end }}
+                    {{ end }}
+                  {{ end }}
+                </div>
             </div>
           </div>
         {{ end }}
