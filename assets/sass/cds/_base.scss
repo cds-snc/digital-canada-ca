@@ -55,6 +55,7 @@ a {
 	&:hover {
 		text-decoration: none;
 		color: lighten($secondary-color, 15);
+		cursor: pointer;
 	}
 
 	&:hover:not[class] {
@@ -166,8 +167,9 @@ html .container {
 }
 
 .section--title {
+	color: $black;
 	font-size: 4rem;
-	font-weight: 600;
+	font-weight: 300;
 	position: relative;
 	margin: 0 0 3.5rem 0;
 	padding: 0;
