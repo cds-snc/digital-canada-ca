@@ -34,7 +34,7 @@ Pendant que ces travaux se mettent en marche, nous sommes également à l’aff�
 
 Comment prioriser? Nous mettons l’accent sur les services externes, en particulier sur ceux qui ont une portée étendue (c.-à-d. les services utilisés par un grand nombre). Nous recherchons aussi les occasions d’être impliqués dès le départ, de manière à pouvoir collaborer avec vous et votre clientèle aux étapes de la découverte et de la conception, avant de définir la meilleure façon d’implanter la solution numérique appropriée. Si vous avez simplement besoin d’un soutien technologique pour respecter les échéances d’un produit livrable promis, nous ne sommes pas l’interlocuteur qu’il vous faut.
 
-Nous utilisons [une liste de questions pratiques](/ce-que-nous-faisons/#collaborer), au fil d’une série de conversations, pour évaluer les projets en fonction de trois concepts&nbsp;: Préparation, Portée et Reproductibilité. Lorsque nous évaluons un projet, nous tenons également compte de notre capacité, de notre disponibilité et de notre expertise du moment.
+Nous utilisons [une liste de questions pratiques](/partnerships/), au fil d’une série de conversations, pour évaluer les projets en fonction de trois concepts&nbsp;: Préparation, Portée et Reproductibilité. Lorsque nous évaluons un projet, nous tenons également compte de notre capacité, de notre disponibilité et de notre expertise du moment.
 
 ## À quoi pouvez-vous vous attendre?  
 
