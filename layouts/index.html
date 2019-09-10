@@ -36,7 +36,8 @@
 
               {{ if gt (len $post.Params.partners) 0 }}
                 {{ range $post.Params.partners }}
-                  <h4>Partner: <p><a href='{{ .url }}'>{{ .name }}</a></p></h4>
+                  <h4>Partner:</h4>
+                  <p><a href='{{ .url }}'>{{ .name }}</a></p>
                 {{ end }}
               {{ end }}
 
