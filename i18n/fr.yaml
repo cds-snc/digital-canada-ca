@@ -135,7 +135,7 @@ subscribe:
 view-privacy-notice:
   other: "Voir l’Avis de confidentialité"
 privacy-notice:
-  other: "Énoncé de confidentialité"
+  other: "Avis de confidentialité"
 privacy-notice-pt-1:
   other: "Notre fonction Bulletin de nouvelles fait appel &agrave;&nbsp;<a href=\"https://mailchimp.com/\">Mailchimp</a>, une application tierce.&nbsp;L&rsquo;adh&eacute;sion est libre et est assujettie aux&nbsp;<a href=\"https://mailchimp.com/legal/terms/\">Conditions d&rsquo;utilisation</a>&nbsp;associ&eacute;es &agrave; la plateforme Mailchimp.&nbsp;&nbsp;Au moment de l&rsquo;adh&eacute;sion, le syst&egrave;me enregistre votre adresse &eacute;lectronique et votre langue de pr&eacute;f&eacute;rence (anglais ou fran&ccedil;ais).&nbsp;Aucun autre renseignement personnel n&rsquo;est recueilli."
 privacy-notice-pt-2:
