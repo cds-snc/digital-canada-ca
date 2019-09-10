@@ -2,14 +2,13 @@
   {{ .Content }}
 
    <section class='partnerships-info'>
-    <div class="container">
-      <div class="row">
+      <div class="row container">
         <div class="col-xs-12">
           <p>{{ i18n "partnerships-intro" | safeHTML }}</p>
         </div>
       </div>
 
-       <div class="row">
+       <div class="row container">
         <div class="col-xs-12">
           <h2>{{ i18n "partnerships-how-it-works" | safeHTML }}</h2>
           <p>{{ i18n "partnerships-how-we-do-it-1st" | safeHTML }}</p>
@@ -48,7 +47,7 @@
   </section>
 
    <section class='bg-yellow-full'>
-      <div class='row'>
+      <div class='row container'>
         <div class='col-md-7 col-xs-12'>
           <p>{{ i18n "partnerships-interested-in-chatting" }}</p>
         </div>
@@ -61,7 +60,7 @@
   </section>
 
    <section class='partnership-products'>
-    <div class=''>
+    <div class='container'>
       <div class='row'>
         <div class='col-xs-12'>
           <h2>{{ i18n "what-were-working-on" }}</h2>
@@ -80,28 +79,27 @@
     </div>
 
      {{ $products := where .Site.Pages ".Dir" "==" "products/products/" }}
-    <div class=''>
-      <div class='row'>
+      <div class='container row'>
         <div class='col-xs-12'>
           <h3>{{ i18n "partnerships-inflight" }}</h3>
         </div>
       </div>
-      <div class='row equal'>
+      <div class='row equal container'>
         {{ $inflight := where .Site.Pages ".Params.status" "==" "in-flight" }}
 
          {{ range $elem_index, $elem_val := $inflight | intersect $products }}
           {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
             </div>
-            <div class='row equal'>
+            <div class='row equal container'>
           {{ end }}
           <div class='col-md-6 col-xs-12'>
             {{ .Render "list"}}
           </div>
         {{ end }}
       </div>
-    </div>
+    
 
-     <div class=''>
+     <div class='container'>
       <div class='row'>
         <div class='col-xs-12'>
           <h3>{{ i18n "partnerships-past" }}</h3>
@@ -120,7 +118,6 @@
           </div>
         {{ end }}
       </div>
-    </div>
   </section>
 
  {{ end }}
