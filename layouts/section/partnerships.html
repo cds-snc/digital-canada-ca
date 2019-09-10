@@ -9,14 +9,14 @@
       </div>
 
        <div class="row container">
-        <div class="col-xs-12">
-          <h2>{{ i18n "partnerships-how-it-works" | safeHTML }}</h2>
-          <p>{{ i18n "partnerships-how-we-do-it-1st" | safeHTML }}</p>
-          <p>{{ i18n "partnerships-how-we-do-it-2nd" | safeHTML }}</p>
-          <p>{{ i18n "partnerships-how-we-do-it-3d" | safeHTML }}</p>
-          <p>{{ i18n "partnerships-how-we-do-it-4th" | safeHTML }}</p>
-       </div>
-    </div>
+          <div class="col-xs-12">
+            <h2>{{ i18n "partnerships-how-it-works" | safeHTML }}</h2>
+            <p>{{ i18n "partnerships-how-we-do-it-1st" | safeHTML }}</p>
+            <p>{{ i18n "partnerships-how-we-do-it-2nd" | safeHTML }}</p>
+            <p>{{ i18n "partnerships-how-we-do-it-3d" | safeHTML }}</p>
+            <p>{{ i18n "partnerships-how-we-do-it-4th" | safeHTML }}</p>
+        </div>
+      </div>
   </section>
 
    <section class='bg-dark-full'>
@@ -48,14 +48,14 @@
 
    <section class='bg-yellow-full'>
       <div class='row container'>
-        <div class='col-md-7 col-xs-12'>
-          <p>{{ i18n "partnerships-interested-in-chatting" }}</p>
-        </div>
-        <div class='col-md-5 col-xs-12'>
-          <a href="mailto:CDS-SNC@tbs-sct.gc.ca">
-            {{ i18n "partnerships-contact-us" }}
-          </a>
-        </div>
+          <div class='col-md-7 col-xs-12'>
+            <p>{{ i18n "partnerships-interested-in-chatting" }}</p>
+          </div>
+          <div class='col-md-5 col-xs-12'>
+            <a href="mailto:CDS-SNC@tbs-sct.gc.ca">
+              {{ i18n "partnerships-contact-us" }}
+            </a>
+          </div>
       </div>  
   </section>
 
@@ -89,8 +89,8 @@
 
          {{ range $elem_index, $elem_val := $inflight | intersect $products }}
           {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
-            </div>
-            <div class='row equal container'>
+      </div>
+      <div class='row equal container'>
           {{ end }}
           <div class='col-md-6 col-xs-12'>
             {{ .Render "list"}}
@@ -116,6 +116,7 @@
           <div class='col-md-6 col-xs-12'>
             {{ .Render "list"}}
           </div>
+        </div>
         {{ end }}
       </div>
   </section>
