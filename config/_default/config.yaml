@@ -22,9 +22,9 @@ languages:
         name: Home
         url: /
         weight: 1
-      - identifier: what-we-do
-        name: What we do
-        url: /what-we-do/
+      - identifier: Partnerships
+        name: Partnerships
+        url: /partnerships/
         weight: 2
       - identifier: products
         name: View our products
