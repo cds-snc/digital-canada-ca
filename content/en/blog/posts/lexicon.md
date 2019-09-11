@@ -23,7 +23,8 @@ The lexicon became a very personal project. Surely there was a way to speak digi
 
 For the team, the lexicon has become a tool that centralizes the results of research done in [Termium Plus](http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?lang=eng&index=frt), the [*Grand dictionnaire terminologique*](http://gdt.oqlf.gouv.qc.ca/) by the OQLF, documents already (well) translated such as the [Service Design Playbook](https://www.ontario.ca/page/service-design-playbook) by the Ontario Digital Service, and from conversations with [terminologists](http://gcintranet.tpsgc-pwgsc.gc.ca/bt-tb/ministeres-departments/terminologie-terminology-eng.html) from the Translation Bureau, French-speaking digital practitioners (thanks [Raluca](https://twitter.com/eneraluca)!) or from [large university faculties](https://cours.edulib.org/courses/course-v1:HEC+UX-101.1+P2018/info). We have to give credit where credit is due. 
 
-The lexicon is not comprehensive. It contains a bit of everything: 
+The lexicon is not comprehensive. It contains a bit of everything:
+
 * terms that apply to our own context (such as Code for Canada ‘*fellows*’)
 * technical terms that had to be researched 
 * more generic terms with multiple possible translations (making a choice for consistency’s sake)

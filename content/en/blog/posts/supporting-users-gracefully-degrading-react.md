@@ -53,6 +53,7 @@ Once we had a good understanding of what our service would look like, we priorit
 Graceful degradation means that our service works for devices that don’t run JavaScript, for devices on unreliable networks, and for older devices that aren’t able to understand newer JavaScript syntax. Users in this latter group (by far the largest) are able download our code but they aren’t able to run it — almost like trying to get a VHS player to play a DVD. Now, all of these users are able complete the service, likely without even realising there was a problem.
 
 Thanks to graceful degradation:
+
 * users can load the site in either official language
 * users don’t lose saved information when they refresh the page
 * users don’t lose their language preference if they close the site and return later

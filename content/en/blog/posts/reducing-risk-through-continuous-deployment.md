@@ -19,6 +19,7 @@ Most of the departments we work with are deploying new versions of their code qu
 What are [Big Bang deployments](https://en.wikipedia.org/wiki/Big_bang_adoption)? It’s the simplest kind of system changeover or release deployment. One system is turned off while another is turned on. 
 
 We’ve all seen these. They can manifest in several ways:
+
 * “The system is down for the weekend for planned maintenance.”
 * “New version number 16 is out!”
 * “The system is offline until Wednesday.”
@@ -44,6 +45,7 @@ It’s not just possible; it’s standard practice in industry. The tooling is a
 If you’ve read our previous blog posts on [continuous integration](https://digital.canada.ca/2018/03/26/automated-testing-blog/) and [code quality](https://digital.canada.ca/2018/04/24/coding-is-a-team-activity/), you know we follow a pattern of very short, small changes, each reviewed by colleagues and passing a suite of automated tests. The combination of both continuous integration and peer review unlocks the ability to also *deploy* each of these changes individually to production.
 
 Deploying each change, every day, has many benefits:
+
 * The deployment mechanism is completely automated and reliable.
 * Each change is very small and therefore *minimizes risk*.
 * Critical problems can usually be resolved in minutes by simply reverting the offending change.
@@ -66,10 +68,10 @@ A very common approach is that of “[feature flags](https://en.wikipedia.org/wi
 ## Enabling conditions for continuous deployment
 
 The ability to continuously deploy new code to production depends on a few assumptions:
+
 * Each small change can be trusted - good code review and automated tests are in place.
 * The build and deploy process is completely automated.
 * We’re building web applications.
 * We’re using public cloud (AWS/Azure/Google Cloud).
 
 These assumptions probably don’t hold true for legacy applications, but, they’re usually true for newer systems being planned today. We used all three of these practices (continuous integration, code reviews, continuous deployment) on our recent [API project with NRCan](https://github.com/cds-snc/nrcan-energuide-api-poc/).
-
