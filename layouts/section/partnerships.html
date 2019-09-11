@@ -2,12 +2,14 @@
   {{ .Content }}
 
    <section class='partnerships-info'>
+      <!-- Partnerships intro -->
       <div class="row container">
         <div class="col-xs-12">
           <p>{{ i18n "partnerships-intro" | safeHTML }}</p>
         </div>
       </div>
 
+       <!-- How it works -->
        <div class="row container">
           <div class="col-xs-12">
             <h2>{{ i18n "partnerships-how-it-works" | safeHTML }}</h2>
@@ -20,12 +22,14 @@
   </section>
 
    <section class='bg-dark-full'>
+    <!-- Who is on the team -->
     <div class='container'>
       <div class='row'>
         <div class='col-xs-12'>
-          <h2>{{ i18n "partnerships-from-cds" | safeHTML }}</h2>
-          <p>{{ i18n "partnerships-from-cds-blurb" | safeHTML }}</p>
-      
+          <h2>{{ i18n "partnerships-team" | safeHTML }}</h2>
+          <p>{{ i18n "partnerships-team-blurb" | safeHTML }}</p>
+          
+          <h4>{{ i18n "partnerships-cds" | safeHTML }}</h4>
           <ul>
             <li>{{ i18n "partnerships-cds-pm" | safeHTML }}</li>
             <li>{{ i18n "partnerships-cds-researcher" | safeHTML }}</li>
@@ -34,7 +38,7 @@
             <li>{{ i18n "partnerships-cds-support" | safeHTML }}</li>
           </ul>
 
-           <p>{{ i18n "partnerships-from-partner" }}:</p>
+           <h4>{{ i18n "partnerships-from-partner" }}:</h4>
           <ul>
             <li>{{ i18n "partnerships-partner-owner" | safeHTML }}</li>
             <li>{{ i18n "partnerships-partner-experts" | safeHTML }}</li>
@@ -47,6 +51,7 @@
   </section>
 
    <section class='bg-yellow-full'>
+      <!-- Interested in chatting? -->
       <div class='row container'>
           <div class='col-md-7 col-xs-12'>
             <p>{{ i18n "partnerships-interested-in-chatting" }}</p>
@@ -60,6 +65,7 @@
   </section>
 
    <section class='partnership-products'>
+    <!-- What we're working on -->
     <div class='container'>
       <div class='row'>
         <div class='col-xs-12'>
@@ -71,13 +77,14 @@
               {{ $blog_url = "choisir-nos-projets" }}
             {{ end }}
             <a href="{{with $.Site.GetPage $blog_url}}{{.URL}}{{ end }}">
-              {{ i18n "blog-post" }}
-            </a>.
+              {{ i18n "blog-post" }}.
+            </a>
           </p>
         </div>
       </div>
     </div>
 
+      <!-- In-flight partnerships -->
      {{ $products := where .Site.Pages ".Dir" "==" "products/products/" }}
       <div class='container row'>
         <div class='col-xs-12'>
@@ -86,7 +93,6 @@
       </div>
       <div class='row equal container'>
         {{ $inflight := where .Site.Pages ".Params.status" "==" "in-flight" }}
-
          {{ range $elem_index, $elem_val := $inflight | intersect $products }}
           {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
       </div>
@@ -98,25 +104,22 @@
         {{ end }}
       </div>
     
-
-     <div class='container'>
-      <div class='row'>
+    <!-- Past partnerships -->
+      <div class='container row'>
         <div class='col-xs-12'>
           <h3>{{ i18n "partnerships-past" }}</h3>
         </div>
       </div>
-      <div class='row equal'>
+      <div class='row equal container'>
         {{ $past := where .Site.Pages ".Params.status" "==" "past" }}
-
          {{ range $elem_index, $elem_val := $past | intersect $products }}
           {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
-            </div>
-            <div class='row equal'>
+       </div>
+        <div class='row equal container'>
           {{ end }}
           <div class='col-md-6 col-xs-12'>
             {{ .Render "list"}}
           </div>
-        </div>
         {{ end }}
       </div>
   </section>

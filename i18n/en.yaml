@@ -70,12 +70,14 @@ partnerships-how-we-do-it-3d:
   other: "Between the <span class='beta'>Beta</span> and <span class='live'>Live</span> phases,  our team members step back from the service, and the partner team in the department continues the maintenance and development. We can help partners recruit their service team from both internal and external sources."
 partnerships-how-we-do-it-4th:
   other: "Before each phase begins, CDS and the partner sign a partnership agreement which outlines the goal and outcomes for the coming phase, how we’ll get there, and a commitment to get them done."
-partnerships-from-cds:
+partnerships-team:
   other: "Who is on the team"
-partnerships-from-cds-blurb:
+partnerships-team-blurb:
   other: "Each team has a mix of members from CDS and the partner department so we can share our ways of working, and get a shared understanding of the problem we’re trying to solve together."
+partnerships-cds:
+  other: "From CDS:"
 partnerships-cds-pm:
-  other: "A <strong><u>product manager</u></strong> &mdash; they form the vision of the service, and set priorities for the team"
+  other: "A <strong>product manager</strong> &mdash; they form the vision of the service, and set priorities for the team"
 partnerships-cds-researcher:
   other: "A <strong>researcher</strong> &mdash; they work with people who will use the service to learn about their needs"
 partnerships-cds-designers:
