@@ -22,7 +22,7 @@ languages:
           name: Home
           url: /
           weight: 1
-        - identifier: Partnerships
+        - identifier: partnerships
           name: Partnerships
           url: /partnerships/
           weight: 2
@@ -57,7 +57,7 @@ languages:
           name: Home
           url: /
           weight: 1
-        - identifier: Partenariats
+        - identifier: partenariats
           name: Partenariats
           url: /partenariats/
           weight: 2
