@@ -1135,3 +1135,79 @@ article.post {
     }
   }
 }
+
+
+
+ ////////////////////////////////////////////////////
+//
+// PLATFORM
+//
+////////////////////////////////////////////////////
+
+.platform-banner{
+  background-color: $dark-grey;
+  background-size: cover;
+  background-position: center center;
+  height: 12rem;
+  position: relative;
+
+   @include tablet  {
+    height: 20rem;
+  }
+
+   @include desktop {
+    height: 28rem;
+  }
+}
+
+ .partnerships-info {
+  margin-top: 6rem;
+
+   h3 {
+    font-size: 2rem;
+    font-weight: 900;
+  }
+}
+
+ .partnership-products {
+  .border-discovery,
+  .border-alpha,
+  .border-beta,
+  .border-live {
+    border-bottom-width: 4px;
+  }
+
+   h3 {
+    font-size: 3.25rem;
+  }
+}
+
+ .bg-dark-full {
+   width: 100%;
+  background-color: $section-bg-grey;
+  color: $white;
+
+   h2 {
+    color: $primary-color;
+  }
+}
+
+ .bg-yellow-full {
+  padding-top: 4rem;
+  padding-bottom: 1rem;
+  background-color: $primary-color;
+
+   p { font-weight: 900; }
+
+   a {
+    padding: 10px 30px;
+    background-color: $black;
+    color: $white;
+    border: 2px solid $black;
+
+     &:hover {
+      text-decoration: underline;
+      border: 2px solid $white;
+    }
+  }
+}
