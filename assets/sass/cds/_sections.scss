@@ -1140,7 +1140,7 @@ article.post {
 
  ////////////////////////////////////////////////////
 //
-// PLATFORM
+// PARTNERSHIPS PAGE
 //
 ////////////////////////////////////////////////////
 
@@ -1161,13 +1161,16 @@ article.post {
 }
 
  .partnerships-info {
-  margin-top: 6rem;
-
-   h3 {
-    font-size: 2rem;
-    font-weight: 900;
+  margin: 6rem 0 4rem 0;
+  
+  h2 {
+    margin: 2rem 0 1rem 0;
   }
 }
+
+ .partnership-products {
+  padding: 1.5rem 0;
+ }
 
  .partnership-products {
   .border-discovery,
@@ -1176,14 +1179,11 @@ article.post {
   .border-live {
     border-bottom-width: 4px;
   }
-
-   h3 {
-    font-size: 3.25rem;
-  }
 }
 
  .bg-dark-full {
-   width: 100%;
+  padding: 2rem 0;
+  width: 100%;
   background-color: $section-bg-grey;
   color: $white;
 
@@ -1193,8 +1193,8 @@ article.post {
 }
 
  .bg-yellow-full {
-  padding-top: 4rem;
-  padding-bottom: 1rem;
+  padding-top: 5rem;
+  padding-bottom: 2.5rem;
   background-color: $primary-color;
 
    p { font-weight: 900; }
