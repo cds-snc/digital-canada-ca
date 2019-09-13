@@ -92,7 +92,11 @@
   background-position: center center;
   height: 12rem;
   position: relative;
+  border-top: 20px solid $black;
 
+  @include mobile_only {
+    border-top: 15px solid $black;
+  }
   @include tablet { height: 20rem; }
   @include desktop { height: 25rem; }
 
