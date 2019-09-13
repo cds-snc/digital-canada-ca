@@ -32,9 +32,9 @@ body {
 }
 
 a {
-	color 			: $secondary-color;
+	color 		: inherit;
 	font-weight 	: 500;
-	text-decoration : none;
+	
 
 	@include mobile_only {
 		font-size: 1.75rem;
@@ -52,8 +52,7 @@ a {
 		color: $secondary-color;
 	}
 
-	&:hover {
-		text-decoration: none;
+	&:hover, focus {
 		color: lighten($secondary-color, 15);
 		cursor: pointer;
 	}
@@ -190,6 +189,10 @@ html .container {
 			width: 10%;
 			bottom: -2rem;
 		}
+	}
+	
+.term {
+	font-style:italic;
 	}
 
 	@include tablet {
