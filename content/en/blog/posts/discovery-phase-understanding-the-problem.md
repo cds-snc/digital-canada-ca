@@ -23,7 +23,8 @@ Veterans have dedicated their lives to serving Canada. Whether it’s RCMP or Ca
 
 As a result, in mid November of 2017, the Code For Canada Federal Fellows and CDS began to work with Veterans Affairs Canada (VAC) on a project called Benefits At a Glance. The goal of Benefits At a Glance is to create an online tool to help Veterans better understand and access benefits and services relevant to them.
 
-The Discovery Phase of the project started with three main knowledge objectives: 
+The Discovery Phase of the project started with three main knowledge objectives:
+
 1. Understand Veterans’ needs as they relate to benefits
 2. Understand the relationship between Veterans and VAC
 3. Understand the benefits themselves

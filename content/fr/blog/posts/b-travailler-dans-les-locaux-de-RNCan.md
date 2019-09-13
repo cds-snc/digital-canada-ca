@@ -26,7 +26,8 @@ Une conversation d’une demi-heure avec la bonne personne peut apporter un cont
 Nous sommes de retour avec notre équipe du Service numérique canadien, avec en poche des renseignements qui nous offrent une plus grande probabilité de réussite. De plus, grâce au réseautage fait sur place, nous profitons de nos nouvelles relations personnelles pour faciliter la communication par courriel et par téléphone. 
 
 ## Quelques leçons tirées en vue d’un futur partage de locaux 
-Compte tenu des avantages de l’expérience de partage de locaux, nous recommandons ce qui suit&nbsp;: 
+Compte tenu des avantages de l’expérience de partage de locaux, nous recommandons ce qui suit&nbsp;:
+
 1. Tenter de planifier le partage de locaux. L’inscrire directement dans le plan de projet, dès le début. Préparer toutes les parties à ce qui les attend, dans la mesure du possible.
 2. Apporter son Wi-Fi&nbsp;: l’accès au réseau Wi-Fi et au réseau dans d’autres installations est peu probable. 
 3. À l’avance, prendre des dispositions pour tout compte réseau ou ouverture de session.
