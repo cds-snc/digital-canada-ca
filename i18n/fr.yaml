@@ -65,9 +65,9 @@ partnerships-how-it-works:
 partnerships-how-we-do-it-1st:
   other: "Nous travaillons avec nos partenaires de façon ouverte, en partageant régulièrement nos progrès sur des plateformes publiques. Cette démarche crée une culture de l’apprentissage et favorise des pratiques exemplaires. Elle permet par le fait même aux ministères non partenaires de recourir à notre travail et d’<a href=\"https://numerique.canada.ca/outils-et-ressources/\">utiliser nos ressources</a> pour développer leurs propres services. "
 partnerships-how-we-do-it-2nd:
-  other: "Ensemble, nous formons une équipe qui suit la « <a href=\"https://numerique.canada.ca/2018/11/29/de-la-conception-dabord-aux-utilisateurs-dabord/#the-details\">méthode de développement agile</a> ». Nous commençons avec une phase de recherche intensive appelée <span class='discovery'>« découverte »</span>, où nous explorons les besoins des utilisateurs et les solutions possibles d’y répondre. Puis nous passons en phase <span class='alpha'>« alpha »</span>, où nous construisons des prototypes pour trouver et tester des moyens de satisfaire les besoins des utilisateurs. Vient ensuite la phase <span class='beta'>« bêta »</span>, où nous faisons paraître une solution publique pour la tester de façon intensive. Enfin, dans la phase de <span class='live'>« mise en ligne »</span>, le service entre entièrement en fonction et continue d’être surveillé et amélioré."
+  other: "Ensemble, nous formons une équipe qui suit la « <a href=\"https://numerique.canada.ca/2018/11/29/de-la-conception-dabord-aux-utilisateurs-dabord/#the-details\">méthode de développement agile</a> ». Nous commençons avec une phase de recherche intensive appelée <span class='discovery'>«&nbsp;découverte&nbsp;»</span>, où nous explorons les besoins des utilisateurs et les solutions possibles d’y répondre. Puis nous passons en phase <span class='alpha'>«&nbsp;alpha&nbsp;»</span>, où nous construisons des prototypes pour trouver et tester des moyens de satisfaire les besoins des utilisateurs. Vient ensuite la phase <span class='beta'>«&nbsp;bêta&nbsp;»</span>, où nous faisons paraître une solution publique pour la tester de façon intensive. Enfin, dans la phase de <span class='live'>«&nbsp;mise en ligne&nbsp;»</span>, le service entre entièrement en fonction et continue d’être surveillé et amélioré."
 partnerships-how-we-do-it-3d:
-  other: "Entre la phase <span class='beta'>beta</span> et la <span class='live'>mise en ligne</span>, les membres de notre équipe se retirent. L’équipe du ministère partenaire continue alors à maintenir et à développer le service. Nous pouvons aider les partenaires à recruter leur équipe de service à partir de sources internes et externes."
+  other: "Entre la phase <span class='beta'>bêta</span> et la <span class='live'>mise en ligne</span>, les membres de notre équipe se retirent. L’équipe du ministère partenaire continue alors à maintenir et à développer le service. Nous pouvons aider les partenaires à recruter leur équipe de service à partir de sources internes et externes."
 partnerships-how-we-do-it-4th:
     other: "Avant le début de chaque phase, le SNC et le partenaire signent une entente de partenariat. Celle-ci décrit l’objectif et les résultats de la phase à venir, la façon d’y parvenir ainsi qu’un engagement à les réaliser."
 partnerships-team:
@@ -80,13 +80,13 @@ partnerships-cds-pm:
   other: "Un <a href=\"https://numerique.canada.ca/2019/07/23/cest-quoi-au-juste-un-gestionnaire-de-produits/\">gestionnaire de produits</a> : cette personne établit la vision du service et les priorités de l’équipe
 "
 partnerships-cds-researcher:
-  other: "Un <strong>chercheur</strong> &mdash; cette personne travaille avec ceux et celles qui utiliseront le service afin de connaître leurs besoins"
+  other: "Un <strong>chercheur</strong> : cette personne travaille avec ceux et celles qui utiliseront le service afin de connaître leurs besoins"
 partnerships-cds-designers:
-  other: "Des <strong>concepteurs</strong> &mdash; :ces personnes conçoivent des solutions de façon à répondre aux besoins des gens qui utiliseront le service"
+  other: "Des <strong>concepteurs</strong> : ces personnes conçoivent des solutions de façon à répondre aux besoins des gens qui utiliseront le service"
 partnerships-cds-developers:
-  other: "Des <strong>développeurs</strong> &mdash; ces personnes écrivent le code qui se cache derrière le service"
+  other: "Des <strong>développeurs</strong> : ces personnes écrivent le code qui se cache derrière le service"
 partnerships-cds-support:
-  other: "Un soutien des équipes de <strong>partenariats</strong>, <strong>des politiques</strong> et <strong>de liaison et diffusion</strong>"
+  other: "Un soutien de l'équipe des <strong>partenariats</strong>, <strong>des politiques</strong> et <strong>de liaison et diffusion</strong>"
 partnerships-from-partner:
   other: "Les personnes et les disciplines nécessaires chez le ministère partenaire varient. Mais dans la plupart des cas, le partenaire fournit "
 partnerships-partner-owner:
@@ -104,7 +104,7 @@ partnerships-partner-overview:
 partnerships-past:
   other: "Partenariats passés"
 partnerships-inflight:
-  other: "Partenariats en vol"
+  other: "Partenariats en cours"
 blog-post:
   other: "billet de blogue"
 past-products:
@@ -216,6 +216,6 @@ product-impact:
 apply-now:
   other: "Appliquer maintenant"
 what-were-working-on:
-  other: "Sur quoi travaillions-nous?"
+  other: "Sur quoi travaillons-nous?"
 who-is-on-the-team:
   other: "Qui est dans l'équipe"
