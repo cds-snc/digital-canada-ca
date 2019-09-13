@@ -1,9 +1,7 @@
 if( document.readyState !== 'loading' ) {
-    console.log( 'loading: execute code here' );
     init();
 } else {
     document.addEventListener('DOMContentLoaded', function () {
-        console.log( 'not ready, running alternative' );
         init();
     });
 }
