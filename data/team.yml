@@ -32,7 +32,7 @@ exec:
     twitter: anatolep
   - archived: false
     email: Andrea.Gilbrook@tbs-sct.gc.ca
-    image-name: /img/cds/andrea_gilbrook.jpg
+    image-name: /img/cds/andrea-gilbrook.jpg
     linkedin: andreagilbrook
     name: Andrea Gilbrook
     processed: 1552050695385
@@ -95,6 +95,7 @@ exec:
     title:
       en: Head of Internal Operations
       fr: Chef des opérations internes
+    processed: 1568391268233
   - archived: false
     email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
@@ -574,6 +575,7 @@ team:
     title:
       en: Talent
       fr: Talent
+    processed: 1568391268236
   - archived: false
     github: sboots
     image-name: /img/cds/sean-boots.jpg

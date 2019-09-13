@@ -158,13 +158,12 @@
 		}
 	}
 
-	.photo {
+	.photo-container img {
 		display: block;
 		margin: 0rem auto 1.5rem auto;
 		height: 15rem;
 		width: 15rem;
 		border: $primary-color 3px solid;
-		background: url('img/cds/profile-images/default.png') no-repeat center center;
 		background-size: cover;
 		border-radius: 50%;
 

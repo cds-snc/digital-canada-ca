@@ -13,7 +13,7 @@
       <div class="col-xs-12 col-sm-6 col-md-4">
         <div class="team-member">
           <div class="photo-container">
-            <div class="photo" style="background-image: url('{{ index $member "image-name" }}');"></div>
+              <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ index $member "image-name" }}" data-srcset="{{ index $member "image-name" }}" alt="{{ index $member "name" }}">   
           </div>
 
           <div class="text">
@@ -71,7 +71,7 @@
         <div class="team-member">
 
           <div class="photo-container">
-            <div class="photo" style="background-image: url('{{ index $member "image-name" }}');"></div>
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ index $member "image-name" }}" data-srcset="{{ index $member "image-name" }}" alt="{{ index $member "name" }}">   
           </div>
 
           <div class="text">
