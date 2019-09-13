@@ -107,10 +107,6 @@
   margin: 1rem auto 1rem auto;
   padding: 0;
 
-  // @media (max-width: 1484px) {
-  //   max-width: 800px;
-  // }
-
   @include logo_break {
     position: fixed;
     width: 100%;
@@ -222,7 +218,7 @@
   &.active {
     display: block;
     position: fixed;
-    background: rgba(0, 0, 0, 0.9);
+    background: rgba(0, 0, 0, 0.95);
     height: 100%;
     width: 100%;
     z-index: 10;
@@ -256,11 +252,11 @@
   #js-mobileNav--button {
     background: none;
     color: $white;
-    border: none;
+    border: 1.45px solid white;
+    padding: 7.5px 12.5px;
     position: fixed;
-    right: 10rem;
-    top: 5rem;
-    padding: 1rem;
+    right: 20rem;
+    top: 6rem;
 
     &:focus {
       outline: none;
@@ -269,18 +265,15 @@
     .text {
       float: left;
       text-align: right;
-      font-size: 1.25rem;
+      font-size: 1.75rem;
       font-weight: 100;
-      text-transform: uppercase;
-      padding: 1rem 1rem 0 0;
+      text-transform: capitalize;
+      margin-right: 10px;
     }
 
     .close-icon {
       float: right;
-      font-size: 2rem;
-      border: $white 1px solid;
-      padding: 0.5rem;
-      border-radius: 50%;
+      font-size: 2.25rem;
     }
 
     // used to be @include tablet
@@ -289,8 +282,8 @@
     }
 
     @include mobile_only {
-      right: 1rem;
-      top: 1rem;
+      right: 5rem;
+      top: 2rem;
     }
   }
 
@@ -299,8 +292,8 @@
     text-align: right;
     color: $white;
     position: fixed;
-    top: 5.5rem;
-    left: 10rem;
+    top: 6rem;
+    left: 20rem;
 
     // used to be @include tablet
     @include menu_break {
@@ -309,14 +302,14 @@
 
     @include mobile_only {
       top: 2.3rem;
-      left: 2rem;
+      left: 5rem;
     }
 
     a {
       display: inline-block;
       color: $white;
       display: inline-block;
-      font-size: 1.25rem;
+      font-size: 1.55rem;
       font-weight: 400;
       margin-top: 0.75rem;
       text-align: center;
@@ -341,8 +334,9 @@
 .main-nav-button {
   display: inline;
   line-height: 0;
-  padding: 0;
-  border: none;
+  padding: 10px 12.5px;
+  border: 1.45px solid white;
+  margin-top: 3.5px;
   background: none;
   float: right;
   z-index: 1;
@@ -351,7 +345,7 @@
     outline: none;
   }
 
-  .glyphicon {
+  .fa-bars {
     margin: 0px;
   }
 
@@ -365,7 +359,7 @@
   }
 
   @include mobile_only {
-    margin: 0;
+    margin-right: 15px;
   }
 
   @include menu_break {
@@ -375,9 +369,11 @@
 
 .main-nav-button--text {
   display: inline-block;
-  font-size: 1rem;
-  text-transform: uppercase;
-  margin-right: 0.5rem;
+  font-weight: 100;
+  font-size: 1.75rem;
+  text-transform: capitalize;
+  margin-right: 5.5px;
+  color: $white;
 
   .home &,
   .accueil & {
@@ -388,10 +384,11 @@
 .main-nav-button--button {
   display: inline-block;
   text-align: center;
-  border: 1px solid;
-  border-radius: 50%;
-  padding: 1.25rem;
-  margin-right: 15px;
+  // border: 1px solid;
+  // border-radius: 50%;
+  // padding: 1.25rem;
+  // margin-right: 15px;
+  color: $white;
 }
 
 ////////////////////////////////////////////////////////////

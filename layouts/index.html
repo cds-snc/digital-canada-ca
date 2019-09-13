@@ -37,7 +37,7 @@
               <div class="work-in-progress--partners-long">
               {{ if gt (len $post.Params.partners) 0 }}
                 {{ range $post.Params.partners }}
-                  <h4>Partner:</h4>
+                  <h4>{{ i18n "partner" }}:</h4>
                   <span><p><a href='{{ .url }}'>{{ .name }}</a></p></span>
                 {{ end }}
               {{ end }}
