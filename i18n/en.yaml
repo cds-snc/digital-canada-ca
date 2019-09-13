@@ -65,9 +65,9 @@ partnerships-how-it-works:
 partnerships-how-we-do-it-1st:
   other: "We work with our partners in the open, regularly sharing progress via public platforms. This creates a culture of learning and fosters best practices. And it means non-partner departments can apply our work and <a href=\"https://digital.canada.ca/tools-and-resources/\">use our resources</a> to develop their own services."
 partnerships-how-we-do-it-2nd:
-  other: "Together, we form a team that follows the <a href=\"https://digital.canada.ca/2018/11/29/from-build-first-to-users-first/#the-details\">'Agile software development methodology'</a>. This means we begin with an intensive <span class='discovery'>'Discovery'</span> research phase to explore user needs and possible solutions to meeting those needs. After that, we move into a prototyping <span class='alpha'>'Alpha'</span> phase to find and test ways to meet user needs. Next comes the <span class='beta'>Beta</span> phase, where we release the solution to the public and intensively test it. Lastly, the <span class='live'>Live</span> phase, where the service is fully released and continues to be monitored and improved upon."
+  other: "Together, we form a team that follows the <a class='term' href=\"https://digital.canada.ca/2018/11/29/from-build-first-to-users-first/#the-details\">'Agile software development methodology'</a>. This means we begin with an intensive <span class='term'>'Discovery'</span> research phase to explore user needs and possible solutions to meeting those needs. After that, we move into a prototyping <span class='term'>'Alpha'</span> phase to find and test ways to meet user needs. Next comes the <span class='term'>'Beta'</span> phase, where we release the solution to the public and intensively test it. Lastly, the <span class='term'>'Live'</span> phase, where the service is fully released and continues to be monitored and improved upon."
 partnerships-how-we-do-it-3d:
-  other: "Between the <span class='beta'>Beta</span> and <span class='live'>Live</span> phases,  our team members step back from the service, and the partner team in the department continues the maintenance and development. We can help partners recruit their service team from both internal and external sources."
+  other: "Between the <span class='term'>Beta</span> and <span class='term'>Live</span> phases, our team members step back from the service, and the partner team in the department continues the maintenance and development. We can help partners recruit their service team from both internal and external sources."
 partnerships-how-we-do-it-4th:
   other: "Before each phase begins, CDS and the partner sign a partnership agreement which outlines the goal and outcomes for the coming phase, how we’ll get there, and a commitment to get them done."
 partnerships-team:
@@ -79,23 +79,23 @@ partnerships-cds:
 partnerships-cds-pm:
   other: "A <a href=\"https://digital.canada.ca/2019/07/23/so-what-exactly-is-a-product-manager-anyway/\">product manager</a> &mdash; they form the vision of the service, and set priorities for the team"
 partnerships-cds-researcher:
-  other: "A <strong>researcher</strong> &mdash; they work with people who will use the service to learn about their needs"
+  other: "A researcher &mdash; they work with people who will use the service to learn about their needs"
 partnerships-cds-designers:
-  other: "<strong>Designers</strong> &mdash; they design solutions to meet the needs of people who will use the service"
+  other: "Designers &mdash; they design solutions to meet the needs of people who will use the service"
 partnerships-cds-developers:
-  other: "<strong>Developers</strong> &mdash; they write the code to build the service"
+  other: "Developers &mdash; they write the code to build the service"
 partnerships-cds-support:
-  other: "Support from the <strong>Partnership</strong>, <strong>Policy</strong> and <strong>Outreach</strong> teams"
+  other: "Support from the Partnership, Policy and Outreach teams"
 partnerships-from-partner:
   other: "The people and disciplines we need from a partner department varies, but in most cases the partner provides"
 partnerships-partner-owner:
-  other: "A <strong>service owner</strong> throughout"
+  other: "A service owner throughout"
 partnerships-partner-experts:
   other: "Experts from relevant service areas"
 partnerships-partner-for-beta:
-  other: "Research, design, developer and policy staff, to match those on the CDS side (for the <span class='alpha'>Alpha</span> and <span class='beta'>Beta</span> phases)"
+  other: "Research, design, developer and policy staff, to match those on the CDS side (for the <span class='term'>Alpha</span> and <span class='term'>Beta</span> phases)"
 partnerships-partner-for-live:
-  other: "A full time autonomous multi-disciplinary team to continuously improve the service (for the <span class='live'>Live</span> phase)"
+  other: "A full time autonomous multi-disciplinary team to continuously improve the service (for the <span class='term'>Live</span> phase)"
 partnerships-interested-in-chatting:
   other: "Interested in chatting about a potential partnership?"
 partnerships-partner-overview:
