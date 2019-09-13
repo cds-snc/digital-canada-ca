@@ -89,6 +89,12 @@ exec:
     title:
       en: Acting Head of Partnerships
       fr: Chef par intérim des partenariats
+  - email: Jennifer.Morin@tbs-sct.gc.ca
+    image-name: /img/cds/jennifer-morin.jpg
+    name: Jennifer Morin
+    title:
+      en: Head of Internal Operations
+      fr: Chef des opérations internes
   - archived: false
     email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
@@ -147,15 +153,6 @@ exec:
       en: Head of Delivery
       fr: Chef de la prestation des services
     twitter: rossferg
-  - archived: false
-    email: Sana.Qureshi@tbs-sct.gc.ca
-    image-name: /img/cds/sana-qureshi.jpg
-    linkedin: sana-qureshi-35206a11
-    name: Sana Qureshi
-    processed: 1552050695387
-    title:
-      en: Acting Head of Internal Operations
-      fr: Chef par intérim des opérations internes
   - archived: false
     email: Wendy.Luciani@tbs-sct.gc.ca
     image-name: /img/cds/wendy-luciani.jpg
@@ -372,14 +369,6 @@ team:
       en: Partnerships
       fr: Partenariats
   - archived: false
-    email: Jennifer.Morin@tbs-sct.gc.ca
-    image-name: /img/cds/jennifer-morin.jpg
-    name: Jennifer Morin
-    processed: 1552050695391
-    title:
-      en: Internal Operations
-      fr: Opérations internes
-  - archived: false
     email: Jessica.Loadenthal@tbs-sct.gc.ca
     image-name: /img/cds/jessica-loadenthal.jpg
     name: Jessica Loadenthal
@@ -578,6 +567,13 @@ team:
       en: Design
       fr: Conception
     twitter: samsadasivan
+  - email: Sana.Qureshi@tbs-sct.gc.ca
+    image-name: /img/cds/sana-qureshi.jpg
+    linkedin: sana-qureshi-35206a11
+    name: Sana Qureshi
+    title:
+      en: Talent
+      fr: Talent
   - archived: false
     github: sboots
     image-name: /img/cds/sean-boots.jpg
@@ -668,7 +664,7 @@ team:
     twitter: yaelberger
   - archived: false
     email: zoe.ritchford@tbs-sct.gc.ca
-    image-name: /img/cds/zoe-richford.jpg
+    image-name: /img/cds/sana-qureshi.jpg
     name: Zoe Ritchford
     processed: 1552050695395
     title:
