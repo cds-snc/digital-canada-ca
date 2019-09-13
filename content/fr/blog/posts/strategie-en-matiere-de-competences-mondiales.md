@@ -35,22 +35,27 @@ Le programme est entre autres ouvert aux personnes dont le métier figure dans l
 Le cas de Kylie nous a permis d’essayer pour la première fois la Stratégie en matière de compétences mondiales. Notre objectif était que Kylie se joigne à l’équipe en janvier 2018. Voici ce qui a été fait :
 
 Octobre - novembre 2017
+
 * Nous avons commencé les démarches du programme Échanges et celles relatives à la sécurité.
 * Nous avons fait appel à nos collègues d’IRCC et d’EDSC pour mieux comprendre la Stratégie en matière de compétences mondiales, l’EIMT et les exigences de dispense connexes.
 
 Décembre 2017
+
 * Après avoir déterminé quels [codes de la CNP](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/entree-express/admissibilite/trouver-classification-nationale-professions.html) et [de dispense de l’EIMT](https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/publications-guides/bulletins-guides-operationnels/residents-temporaires/travailleurs-etrangers/codes-dispense.html) utiliser, nous avons rempli [un formulaire de dispense de l’EIMT](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada/embaucher-travailleur-etranger/temporaire/verifier-besoin-etude-impact-marche-travail.html) et l’avons envoyé par courriel à l’[unité pour la mobilité internationale des travailleurs (UMIT) d’IRCC](mailto:IRCC.DNIMWU-UMITRN.IRCC@cic.gc.ca) pour savoir si Kylie pouvait être exemptée. Au bout de quelques jours, l’UMIT a confirmé que Kylie pourrait bénéficier d’une dispense.
 * Nous sommes passés par le [portail des employeurs d’IRCC](https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/partenaires-fournisseurs-services/portail-employeurs.html) pour créer l’offre d’emploi. Cela n’a pris que quelques heures.
 
 Janvier 2018
+
 * Kylie a présenté une demande de [permis de travail](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/demande/formulaires-demande-guides/demande-permis-travail-exterieur-canada.html) quelques semaines avant sa date d’entrée en fonction au SNC en utilisant :
     * un code alphanumérique généré par l’offre d’emploi
     * des [justificatifs](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/demande/formulaires-demande-guides/guide-5487-presenter-demande-permis-travail-exterieur-canada.html#5487E3) y compris une lettre de recommandation de l’employeur et son passeport
 
 12 janvier 2018
+
 * Kylie a reçu son permis de travail bien en avant ce qui était prévu par la norme de service de 10 jours.
 
 26 janvier 2018
+
 * Kylie est arrivée au Canada, a présenté son permis de travail aux douanes et est entrée au pays sans problèmes!
 
 Ça a été un grand succès!

@@ -18,6 +18,7 @@ La plupart des ministères avec qui nous travaillons déploient de nouvelles ver
 Qu’entend-on par [«&nbsp;déploiement de type *big bang*&nbsp;»](https://www.akuiteo.com/blog/les-strategies-de-deploiement-dun-logiciel-erp)? Il s’agit de la plus simple sorte de transfert de système ou de déploiement de versions. Un système est éteint lorsqu’un autre est mis en fonction. 
 
 Nous en avons tous vu. Ils peuvent se manifester de plusieurs façons :
+
 * «&nbsp;Le système est arrêté pendant la fin de semaine pour une maintenance planifiée.&nbsp;»
 * «&nbsp;La version numéro 16 est sortie!&nbsp;»
 * «&nbsp;Le système est hors ligne jusqu’à mercredi&nbsp;».
@@ -43,6 +44,7 @@ Non seulement c’est possible; c’est une pratique standard dans l’industrie
 Si vous avez lu nos billets de blogue précédents sur [l’intégration continue](https://numerique.canada.ca/2018/03/26/les-tests-automatises/) et la [qualité du code](https://numerique.canada.ca/2018/04/24/coder-une-activite-dequipe/), vous savez que nous suivons une méthode de très petits changements dont chacun est examiné par les collègues et subit un ensemble de tests automatisés. La combinaison de l’intégration continue et de l’examen par les pairs débloque cette capacité à aussi déployer chacun de ces changements individuellement dans la production.
 
 Déployer un changement à la fois, tous les jours, a de nombreux avantages&nbsp;:
+
 * Le mécanisme de déploiement est complètement automatisé et fiable.
 * Chaque changement est très petit et *réduit* donc *au minimum le risque*.
 * Les problèmes critiques peuvent habituellement être résolus en quelques minutes, simplement en annulant le changement fautif.
@@ -65,6 +67,7 @@ Le [test A/B](https://fr.wikipedia.org/wiki/Test_A/B) peut être utilisé en com
 ## Favoriser les conditions pour un déploiement continu
 
 La capacité à déployer continuellement un nouveau code vers la production dépend de quelques principes&nbsp;:
+
 * Chaque petit changement est digne de confiance – un bon examen de code et de tests automatisés est en place.
 * Les processus de développement et de déploiement est complètement automatisé.
 * Nous créons des applications Web.

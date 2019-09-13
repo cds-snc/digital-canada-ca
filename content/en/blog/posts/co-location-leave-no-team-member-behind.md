@@ -46,6 +46,7 @@ Since co-locating, the opportunity to be part of a multidisciplinary team at CDS
 If co-locating isn’t an option for your workspace, there are still ways you can optimize your environment to reap the benefits of multidisciplinary teamwork. 
 
 ## Start with small steps
+
 * Find time to talk about “blockers” and potential solutions together as a team.
 * Try video meetings (we use Google Meet), which can bring clearer and more personal forms of communication. 
 * Embrace a mindset of not knowing everything, and be open to new approaches while keeping core strategy in mind. 
