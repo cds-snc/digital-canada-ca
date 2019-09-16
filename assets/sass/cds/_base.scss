@@ -49,17 +49,17 @@ a {
 	}
 
 	&:visited {
-		color: $secondary-color;
+		color: $dark-grey;
 	}
 
 	&:hover, focus {
-		color: lighten($secondary-color, 15);
+		color: lighten($dark-grey, 15);
 		cursor: pointer;
 	}
 
 	&:hover:not[class] {
 		text-decoration: none;
-		border-bottom : $secondary-color 1px solid;
+		border-bottom : $dark-grey 1px solid;
 	}
 }
 
@@ -142,6 +142,14 @@ html .container {
 	}
 }
 
+.dark-bg:visited, hover, focus{
+	color: $light-grey;
+}
+
+.term {
+	font-style:italic;
+}
+		
 .col-sm-10,
 .col-sm-offset-1 {
 	margin: 0;
@@ -191,9 +199,6 @@ html .container {
 		}
 	}
 	
-.term {
-	font-style:italic;
-	}
 
 	@include tablet {
 		font-size: 3.5rem;
