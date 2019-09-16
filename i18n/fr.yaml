@@ -77,7 +77,7 @@ partnerships-team-blurb:
 partnerships-cds:
   other: "En provenance du SNC :"
 partnerships-cds-pm:
-  other: "Un <a span=\"dark-bg\" href=\"https://numerique.canada.ca/2019/07/23/cest-quoi-au-juste-un-gestionnaire-de-produits/\">gestionnaire de produits</a> : cette personne établit la vision du service et les priorités de l’équipe"
+  other: "Un <a class=\"dark-bg\" href=\"https://numerique.canada.ca/2019/07/23/cest-quoi-au-juste-un-gestionnaire-de-produits/\">gestionnaire de produits</a> : cette personne établit la vision du service et les priorités de l’équipe"
 partnerships-cds-researcher:
   other: "Un chercheur : cette personne travaille avec ceux et celles qui utiliseront le service afin de connaître leurs besoins"
 partnerships-cds-designers:
