@@ -65,7 +65,7 @@ partnerships-how-it-works:
 partnerships-how-we-do-it-1st:
   other: "Nous travaillons avec nos partenaires de façon ouverte, en partageant régulièrement nos progrès sur des plateformes publiques. Cette démarche crée une culture de l’apprentissage et favorise des pratiques exemplaires. Elle permet par le fait même aux ministères non partenaires de recourir à notre travail et d’<a href=\"https://numerique.canada.ca/outils-et-ressources/\">utiliser nos ressources</a> pour développer leurs propres services. "
 partnerships-how-we-do-it-2nd:
-  other: "Ensemble, nous formons une équipe qui suit la « <a href=\"https://numerique.canada.ca/2018/11/29/de-la-conception-dabord-aux-utilisateurs-dabord/#the-details\">méthode de développement agile</a> ». Nous commençons avec une phase de recherche intensive appelée <span class='term'>«&nbsp;découverte&nbsp;»</span>, où nous explorons les besoins des utilisateurs et les solutions possibles d’y répondre. Puis nous passons en phase <span class='alpha'>«&nbsp;alpha&nbsp;»</span>, où nous construisons des prototypes pour trouver et tester des moyens de satisfaire les besoins des utilisateurs. Vient ensuite la phase <span class='beta'>«&nbsp;bêta&nbsp;»</span>, où nous faisons paraître une solution publique pour la tester de façon intensive. Enfin, dans la phase de <span class='live'>«&nbsp;mise en ligne&nbsp;»</span>, le service entre entièrement en fonction et continue d’être surveillé et amélioré."
+  other: "Ensemble, nous formons une équipe qui suit la « <a href=\"https://numerique.canada.ca/2018/11/29/de-la-conception-dabord-aux-utilisateurs-dabord/#the-details\">méthode de développement agile</a> ». Nous commençons avec une phase de recherche intensive appelée <span class='term'>«&nbsp;découverte&nbsp;»</span>, où nous explorons les besoins des utilisateurs et les solutions possibles d’y répondre. Puis nous passons en phase <span class='term'>«&nbsp;alpha&nbsp;»</span>, où nous construisons des prototypes pour trouver et tester des moyens de satisfaire les besoins des utilisateurs. Vient ensuite la phase <span class='term'>«&nbsp;bêta&nbsp;»</span>, où nous faisons paraître une solution publique pour la tester de façon intensive. Enfin, dans la phase de <span class='term'>«&nbsp;mise en ligne&nbsp;»</span>, le service entre entièrement en fonction et continue d’être surveillé et amélioré."
 partnerships-how-we-do-it-3d:
   other: "Entre la phase <span class='term'>bêta</span> et la <span class='term'>mise en ligne</span>, les membres de notre équipe se retirent. L’équipe du ministère partenaire continue alors à maintenir et à développer le service. Nous pouvons aider les partenaires à recruter leur équipe de service à partir de sources internes et externes."
 partnerships-how-we-do-it-4th:
@@ -77,7 +77,7 @@ partnerships-team-blurb:
 partnerships-cds:
   other: "En provenance du SNC :"
 partnerships-cds-pm:
-  other: "Un <a href=\"https://numerique.canada.ca/2019/07/23/cest-quoi-au-juste-un-gestionnaire-de-produits/\">gestionnaire de produits</a> : cette personne établit la vision du service et les priorités de l’équipe
+  other: "Un <a span="dark-bg" href=\"https://numerique.canada.ca/2019/07/23/cest-quoi-au-juste-un-gestionnaire-de-produits/\">gestionnaire de produits</a> : cette personne établit la vision du service et les priorités de l’équipe
 "
 partnerships-cds-researcher:
   other: "Un chercheur : cette personne travaille avec ceux et celles qui utiliseront le service afin de connaître leurs besoins"
