@@ -77,7 +77,7 @@ partnerships-team-blurb:
 partnerships-cds:
   other: "From CDS:"
 partnerships-cds-pm:
-  other: "A <a href=\"https://digital.canada.ca/2019/07/23/so-what-exactly-is-a-product-manager-anyway/\">product manager</a> &mdash; they form the vision of the service, and set priorities for the team"
+  other: "A <a span=\"dark-bg\" href=\"https://digital.canada.ca/2019/07/23/so-what-exactly-is-a-product-manager-anyway/\">product manager</a> &mdash; they form the vision of the service, and set priorities for the team"
 partnerships-cds-researcher:
   other: "A researcher &mdash; they work with people who will use the service to learn about their needs"
 partnerships-cds-designers:
