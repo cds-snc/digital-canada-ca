@@ -153,10 +153,10 @@
 		position: relative;
 		border-bottom: $primary-color 4px solid;
 		box-shadow: rgb(225, 228, 231) 0px -1px 4px;
-		padding: 2.5rem 0;
+		padding: 2.5rem 0 0;
 		margin-bottom: 2rem;
 		@include tablet {
-			padding: 3.5rem 0;
+			padding: 3.5rem 0 0;
 		}
 	}
 
@@ -200,7 +200,7 @@
 		color: $icon-grey;
 
 		&:hover {
-			color: $primary-color;
+			background: $primary-color;
 		}
 	}
 }
@@ -216,7 +216,6 @@
 
 	.item {
 		position: relative;
-		border: $primary-color 3px solid;
 		margin: 5rem 1rem;
 
 
