@@ -45,3 +45,8 @@
     content: "\e906";
   }
 
+  i[class^="icon-"]:before {
+    display: inline-block;
+    text-decoration: none;
+  }
+
