@@ -1215,17 +1215,21 @@ article.post {
   padding-bottom: 2.5rem;
   background-color: $primary-color;
 
-   p { font-weight: 900; }
+   p { 
+     font-weight: 900; 
+     color: $black;
+    }
 
    a {
     padding: 10px 30px;
-    background-color: $black;
-    color: $white;
-    border: 2px solid $black;
+    border: 2.5px solid $black;
+    text-decoration: none;
+    color: $black;
+    font-weight: 600;
 
      &:hover {
-      text-decoration: underline;
-      border: 2px solid $white;
+      background: $black;
+      color: $white;
     }
   }
 }
