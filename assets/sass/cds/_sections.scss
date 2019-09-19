@@ -866,11 +866,14 @@ span.livefr {
     padding: 0 0.4em;
   }
 
-  & li.active a::after {
+  .pagination:first-child a{
     background: $primary-color;
-    border: $primary-color 1px solid;
+    border: 1.5px solid $primary-color;
+  }
+
+  & li.active a::after {
     width: 100%;
-    display: block;
+    display: inline-block;
     content: "";
     height: 4px;
     position: absolute;
@@ -880,6 +883,21 @@ span.livefr {
   & .blogpost-paginator {
     text-align: center;
     padding: 0;
+
+    a {
+      text-decoration: none;
+      border: 2.5px solid $black;
+      padding: 7.5px 10px;
+
+      &:hover {
+        background: $black;
+        color: $white;
+      }
+    }
+
+    // .page-number-one {
+    //   color: red;
+    // }
 
     @include mobile_only {
       :first-child {
