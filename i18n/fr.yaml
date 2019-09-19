@@ -122,6 +122,8 @@ products:
   other: "Découvrir nos produits"
 read-more:
   other: "Lire le billet"
+read-all-blogs:
+  other: "Lisez tous nos articles de blog"
 rss-feed-url:
   other: "/blogue/index.xml"
 skip-to-content:
