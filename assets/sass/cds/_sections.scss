@@ -29,10 +29,14 @@
   }
 
   .title-link {
-    color: $black;
+    color: $dark-grey;
     text-align: right;
     font-size: 2rem;
     text-decoration: underline;
+
+    &:hover {
+      color: $black;
+    }
   }
 }
 
