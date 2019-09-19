@@ -868,7 +868,11 @@ span.livefr {
 
   .pagination:first-child a{
     background: $primary-color;
-    border: 1.5px solid $primary-color;
+    border: 2.5px solid $primary-color;
+
+    &:hover {
+      border: 2.5px solid $black;
+    }
   }
 
   & li.active a::after {
@@ -894,10 +898,6 @@ span.livefr {
         color: $white;
       }
     }
-
-    // .page-number-one {
-    //   color: red;
-    // }
 
     @include mobile_only {
       :first-child {

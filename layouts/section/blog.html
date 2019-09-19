@@ -16,7 +16,7 @@
       <ul class="blogpost-paginator">
         {{ if ne .Paginator.PageNumber 1 }}
           <li class="pagination">
-            <a class="page-number-one" href="{{.Paginator.First.URL }}">1</a>
+            <a href="{{.Paginator.First.URL }}">First</a>
           </li>
         {{ end }}
         {{ range $trail := .Paginator.Pagers }}
