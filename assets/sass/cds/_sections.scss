@@ -199,9 +199,17 @@
   padding-bottom: 0;
 
   .post-header {
-    @include mobile_only { text-align: center; }
-    @include tablet { text-align: center; }
-    @include desktop { text-align: left; }
+    @include mobile_only { 
+      text-align: center; 
+    }
+
+    @include tablet { 
+      text-align: center; 
+    }
+
+    @include desktop { 
+      text-align: left; 
+    }
 
     h2 {
       margin-top: 0;
@@ -210,11 +218,15 @@
         text-align: center;
         margin-bottom: 5px;
       }
+
       @include tablet {
         text-align: center;
         margin-bottom: 5px;
       }
-      @include desktop { text-align: left; }
+
+      @include desktop { 
+        text-align: left; 
+      }
     }
   }
 
