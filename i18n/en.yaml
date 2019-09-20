@@ -123,7 +123,7 @@ products:
 read-more:
   other: "Read full post"
 read-all-blogs:
-  other: "Read all our blog posts"
+  other: "Read all blog posts"
 rss-feed-url:
   other: "/blog/index.xml"
 skip-to-content:
