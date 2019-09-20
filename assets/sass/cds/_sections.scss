@@ -199,6 +199,9 @@
   padding-bottom: 0;
 
   .post-header {
+    display: flex;
+    justify-content: space-between;
+
     @include mobile_only { 
       text-align: center; 
     }
@@ -209,6 +212,10 @@
 
     @include desktop { 
       text-align: left; 
+    }
+
+    @media( max-width: 1215px) {
+      display: inline-block;
     }
 
     .read-blogs {
