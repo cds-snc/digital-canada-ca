@@ -839,7 +839,7 @@ span.livefr {
 
   .date {
     font-size: 1.5rem;
-    margin: 0rem 0 1rem 0;
+    color: $date-grey;
 
     @include tablet {
       font-size: 1.75rem;
@@ -848,9 +848,9 @@ span.livefr {
   }
 
   .author {
-    margin: 2rem 0 0 0;
     font-weight: 500;
     font-size: 2.25rem;
+    margin-bottom: 1.25rem;
   }
 
   .photo {
@@ -860,17 +860,17 @@ span.livefr {
     background-size: cover;
     background-position: center center;
 
-    @include tablet {
-      margin-top: 1rem;
-    }
-
     @include desktop {
       height: 20rem;
     }
   }
 
   h2 {
-    margin-top: 1.5rem;
+    margin-top: 0;
+
+    @include mobile_only {
+      margin-top: 1.5rem;
+    }
   }
 
   .text {
@@ -881,6 +881,10 @@ span.livefr {
     @include desktop {
       font-size: 2.25rem;
     }
+  }
+
+  .summary {
+    color: $icon-grey;
   }
 
   .readmore {
