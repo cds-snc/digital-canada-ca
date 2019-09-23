@@ -648,21 +648,20 @@ span.livefr {
     }
   }
 }
-.work-with-us--details {
-  padding-bottom: 4rem;
-  padding-top: 0rem;
 
-  .page-wide--outer-container-padding {
-    @include mobile_only {
-      padding-top: 0;
-    }
+.work-with-us--section{
+  background-color: #262a2d;
+  color:#fff;
+
+  h3 {
+    color: #FFCC33;
   }
-}
-
-.work-with-us--looking-for {
-  background-color: rgba(34, 89, 109, 1);
-  color: $white;
-
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+    
   .section-smallcaps-title {
     font-weight: 500;
     font-size: 1.75rem;
@@ -675,9 +674,19 @@ span.livefr {
       font-size: 2.25rem;
     }
   }
+}
+
+.work-with-us--looking-for {
+  background-color: #262a2d;
+  color: $white;
+
+
+  h3{
+    color:$primary-color;
+  }
 
   li {
-    color: #f0ca4d;
+    color:#fff;
     margin: 0 0 11.5px;
 
     @include tablet {
@@ -706,10 +715,6 @@ span.livefr {
       padding-top: 1rem;
       padding-bottom: 2rem;
     }
-  }
-
-  .border-top {
-    border-top: #f0ca4d solid 0.25rem;
   }
 }
 
