@@ -597,16 +597,32 @@ span.livefr {
 // JOIN OUR TEAM
 //
 ////////////////////////////////////////////////////
-.our-job--listing {
 
+.joinus-section--title{
+  font-size: 3rem;
+  margin-bottom: 4rem;
+  text-align: left;
+  color:black;
+}
+.our-job--listing {
   margin-left:-20px;
-  
-  p { 
-    margin-left:20px;
-  }
-  
   .border-primary {
     border-bottom: 5px solid $primary-color;
+  }
+
+  h3 {
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 3rem;
+    margin-left:20px;
+    color:black;
+  }
+
+  p {
+    font-size: 1.8rem;
+    line-height: 1.1em;
+    margin:20px;
   }
   .post {
     display: flex;
@@ -618,19 +634,6 @@ span.livefr {
     height: 100%;
     text-align: left;
 
-    h3, h4, p, a {
-      display: inline-block;
-      color: $black;
-      margin: 5px 0;
-      padding: 0;
-    }
-
-    h3 {
-      font-weight: 500;
-      margin-top: 10px;
-      margin-bottom: 10px;
-      font-size: 2.2rem;
-    }
 
     p {
       margin-bottom: 0px;
