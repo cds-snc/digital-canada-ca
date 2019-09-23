@@ -29,10 +29,14 @@
   }
 
   .title-link {
-    color: $black;
+    color: $dark-grey;
     text-align: right;
     font-size: 2rem;
     text-decoration: underline;
+
+    &:hover {
+      color: $black;
+    }
   }
 }
 
@@ -142,12 +146,14 @@
     color: $primary-color;
     border: 2px solid $primary-color;
     transition: all 0.3s ease-in-out;
-    padding: 10px 30px;
-    font-size: 1.5rem;
+    padding: 10px 20px;
+    font-size: 1.75rem;
+    text-decoration: none;
 
     &:hover {
-      color: $white;
-      border: 2px solid $white;
+      background: $primary-color;
+      border: 2px solid $primary-color;
+      color: #262a2d;
     }
   }
 
@@ -193,9 +199,29 @@
   padding-bottom: 0;
 
   .post-header {
-    @include mobile_only { text-align: center; }
-    @include tablet { text-align: center; }
-    @include desktop { text-align: left; }
+    display: flex;
+    justify-content: space-between;
+
+    @include mobile_only { 
+      text-align: center; 
+    }
+
+    @include tablet { 
+      text-align: center; 
+    }
+
+    @include desktop { 
+      text-align: left; 
+    }
+
+    @media( max-width: 1220px) {
+      display: inline-block;
+    }
+
+    .read-blogs {
+      display: inline-block;
+      padding-left: 15px;
+    }
 
     h2 {
       margin-top: 0;
@@ -204,11 +230,15 @@
         text-align: center;
         margin-bottom: 5px;
       }
+
       @include tablet {
         text-align: center;
         margin-bottom: 5px;
       }
-      @include desktop { text-align: left; }
+
+      @include desktop { 
+        text-align: left; 
+      }
     }
   }
 
@@ -873,11 +903,18 @@ span.livefr {
     padding: 0 0.4em;
   }
 
-  & li.active a::after {
+  .pagination:first-child a{
     background: $primary-color;
-    border: $primary-color 1px solid;
+    border: 2.5px solid $primary-color;
+
+    &:hover {
+      border: 2.5px solid $black;
+    }
+  }
+
+  & li.active a::after {
     width: 100%;
-    display: block;
+    display: inline-block;
     content: "";
     height: 4px;
     position: absolute;
@@ -887,6 +924,17 @@ span.livefr {
   & .blogpost-paginator {
     text-align: center;
     padding: 0;
+
+    a {
+      text-decoration: none;
+      border: 2.5px solid $black;
+      padding: 7.5px 10px;
+
+      &:hover {
+        background: $black;
+        color: $white;
+      }
+    }
 
     @include mobile_only {
       :first-child {
@@ -961,7 +1009,7 @@ article.post {
 #mc_embed_signup {
   .email {
     border-radius: 0;
-    border: $black 2px solid;
+    border: 2px solid $dark-grey;
     height: 42px;
     font-weight: 100;
     font-size: 2rem;
@@ -1011,20 +1059,20 @@ article.post {
   }
 
   #mc-embedded-subscribe {
-    background-color: $black;
+    background-color: $dark-grey;
     color: $white;
     border-radius: 0;
-
-    border: 2px solid black;
+    border: 2px solid $dark-grey;
     margin: 23px 0;
     margin-bottom: 0;
     padding-top: 7px;
     padding-bottom: 8px;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
 
     &:hover {
-      border: 2px solid white;
+      border: 2px solid $black;
+      background-color: $black;
     }
   }
 }
@@ -1204,17 +1252,22 @@ article.post {
   padding-bottom: 2.5rem;
   background-color: $primary-color;
 
-   p { font-weight: 900; }
+   p { 
+     font-weight: 900; 
+     color: $black;
+    }
 
    a {
     padding: 10px 30px;
-    background-color: $black;
-    color: $white;
-    border: 2px solid $black;
+    border: 2.5px solid $black;
+    text-decoration: none;
+    color: $black;
+    font-weight: 600;
+    transition: all 0.3s ease-in-out;
 
      &:hover {
-      text-decoration: underline;
-      border: 2px solid $white;
+      background: $black;
+      color: $white;
     }
   }
 }

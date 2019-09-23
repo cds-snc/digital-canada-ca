@@ -57,7 +57,7 @@ partner:
 partnerships:
   other: "Partnerships"
 partnerships-contact-us:
-    other: "Contact Us"
+    other: "Contact us"
 partnerships-intro:
   other: "At the Canadian Digital Service, we partner up with federal departments to design, test and build simple, easy to use services. Our goal is to improve the experience – for people who deliver government services and people who use those services."
 partnerships-how-it-works:
@@ -122,6 +122,8 @@ products:
   other: "View our products"
 read-more:
   other: "Read full post"
+read-all-blogs:
+  other: "Read all blog posts"
 rss-feed-url:
   other: "/blog/index.xml"
 skip-to-content:
