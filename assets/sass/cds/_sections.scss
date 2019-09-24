@@ -72,7 +72,7 @@
   .border-betafr,
   .border-live,
   .border-livefr {
-    border-bottom-width: 10px;
+    border-bottom-width: 4px;
   }
 
   .post {
@@ -597,62 +597,99 @@ span.livefr {
 // JOIN OUR TEAM
 //
 ////////////////////////////////////////////////////
-.cell-background {
-  background: $wwu-blue;
-  border-radius: 20px;
-  padding: 1rem 2rem 1rem 3rem;
-  color: $white;
-  margin-bottom: 3rem;
 
-  @include mobile_only {
-    padding-top: 1rem;
-    padding-bottom: 2rem;
+.joinus-section--title{
+  font-size: 3rem;
+  margin: 0 0 2rem;
+  text-align: left;
+  color:black;
+}
+
+
+.section--title-offset{
+  font-size: 3rem;
+  margin:0 0 2rem;
+  
+}
+
+.flexbox {
+  display: flex;
+  .steps-icon {
+    flex: 0 0 70px;
   }
-  a {
-    color: $white;
-    border-bottom: $primary-color 1px dotted;
-
-    &:hover {
-      border-bottom: $primary-color 1px solid;
-    }
-
-    @include mobile_only {
-      font-size: 1.75rem;
-    }
+  .steps {
+    flex: 1;
   }
-  li {
-    color: $primary-color;
-    @include mobile_only {
-      margin-bottom: 1rem;
-    }
+  .steps-column {
+    height: 100px;
   }
-
-  h4 {
-    @include mobile_only {
-      font-size: 1.75rem;
-    }
-
-    font-size: 2.25rem;
+  h3 {
+    font-size: 2rem;
     font-weight: 500;
-    margin-bottom: 2rem;
+    margin: 0;
+  }
+  p{
+    font-size: 2rem;
   }
 }
+.our-job--listing {
+  margin-left:-20px;
+  .border-primary {
+    border-bottom: 5px solid $primary-color;
+  }
 
-.work-with-us--details {
-  padding-bottom: 4rem;
-  padding-top: 0rem;
+  h3 {
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 3rem;
+    margin-left:20px;
+    color:black;
+  }
 
-  .page-wide--outer-container-padding {
-    @include mobile_only {
-      padding-top: 0;
+  p {
+    font-size: 1.8rem;
+    line-height: 1.1em;
+    margin:20px;
+  }
+  .post {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background-color: $white;
+    margin-bottom: 2em;
+    box-shadow: 5px 8px 5px $medium-grey;
+    height: 100%;
+    text-align: left;
+
+
+    p {
+      margin-bottom: 0px;
+      font-size: 1.8rem;
+      line-height: 1.1em;
+    }
+
+    a {
+      font-size: 2rem;
+      font-weight: 600;
+      text-decoration: underline;
     }
   }
 }
 
-.work-with-us--looking-for {
-  background-color: rgba(34, 89, 109, 1);
-  color: $white;
+.work-with-us--section{
+  background-color: #262a2d;
+  color:#fff;
 
+  h3 {
+    color: #FFCC33;
+  }
+
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+    
   .section-smallcaps-title {
     font-weight: 500;
     font-size: 1.75rem;
@@ -665,9 +702,19 @@ span.livefr {
       font-size: 2.25rem;
     }
   }
+}
+
+.work-with-us--looking-for {
+  background-color: #262a2d;
+  color: $white;
+
+
+  h3{
+    color:$primary-color;
+  }
 
   li {
-    color: #f0ca4d;
+    color:#fff;
     margin: 0 0 11.5px;
 
     @include tablet {
@@ -696,10 +743,6 @@ span.livefr {
       padding-top: 1rem;
       padding-bottom: 2rem;
     }
-  }
-
-  .border-top {
-    border-top: #f0ca4d solid 0.25rem;
   }
 }
 
@@ -1215,14 +1258,14 @@ article.post {
   padding: 1.5rem 0;
  }
 
- .partnership-products {
+
   .border-discovery,
   .border-alpha,
   .border-beta,
   .border-live {
     border-bottom-width: 4px;
   }
-}
+
 
  .bg-dark-full {
   padding: 2rem 0;
