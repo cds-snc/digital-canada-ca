@@ -12,19 +12,19 @@
                 <p>En travaillant ouvertement et en mettant nos partenaires en lien avec des outils, des talents et une formation fondée sur la pratique, le SNC renforce les capacités à l’échelle du gouvernement pour améliorer la prestation des services.</p>
    
                 <div class="our-job--listing">
-                        {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                    {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
                          <h3>Candidatures acceptées pour une durée limitée.</h3>
                          <div class="row">
-                         {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
-                             {{ range $p := (where .Pages ".Params.archived" "==" false) }}
-                             <div class="col-xs-12 col-md-6">
-                                 <div class="post border-primary ">
-                                     <h3><a href={{ .RelPermalink }}>{{ .Title }}</a></h3>
-                                 </div>
-                             </div>
-                         {{ end }}
-                         {{ end }}
-                      </div>
+                            {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                                {{ range $p := (where .Pages ".Params.archived" "==" false) }}
+                                <div class="col-xs-12 col-md-6">
+                                    <div class="post border-primary ">
+                                        <h3><a href={{ .RelPermalink }}>{{ .Title }}</a></h3>
+                                    </div>
+                                </div>
+                            {{ end }}
+                            {{ end }}
+                        </div>
                   {{end}}
                 </div>
                 <p><strong>Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.</strong></p>

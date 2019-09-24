@@ -10,20 +10,18 @@
 
                     <p>By working in the open and connecting partners with tools, talent, and training grounded in practice, we’re building capacity across the government for better service delivery.</p>
                     <div class="our-job--listing">
-                           {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                    {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
                             <h3>Who we are currently looking for</h3>
-                            <p>Hurray! Applications are open for a limited time</p>
-
                             <div class="row">
-                            {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
-                                {{ range $p := (where .Pages ".Params.archived" "==" false) }}
-                                <div class="col-xs-12 col-md-6">
-                                    <div class="post border-primary ">
-                                        <h3><a href={{ .RelPermalink }}>{{ .Title }}</a></h3>
+                                {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                                    {{ range $p := (where .Pages ".Params.archived" "==" false) }}
+                                    <div class="col-xs-12 col-md-6">
+                                        <div class="post border-primary ">
+                                            <h3><a href={{ .RelPermalink }}>{{ .Title }}</a></h3>
+                                        </div>
                                     </div>
-                                </div>
+                                    {{ end }}
                                 {{ end }}
-                            {{ end }}
                         </div>
                     {{end}}
                 </div>
@@ -39,6 +37,7 @@
                     <li>Preference will be given to Canadian citizens or permanent residents.</li>
                     <li>All candidates must be able to obtain Government of Canada security clearance at either Reliability or Secret level. We’ll help you with this once you’re offered a position.</li>
                 </ul>
+             </div>
         </div>
     </section>
 </div>
