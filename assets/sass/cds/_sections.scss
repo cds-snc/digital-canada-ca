@@ -600,9 +600,37 @@ span.livefr {
 
 .joinus-section--title{
   font-size: 3rem;
-  margin-bottom: 4rem;
+  margin: 0 0 2rem;
   text-align: left;
   color:black;
+}
+
+
+.section--title-offset{
+  font-size: 3rem;
+  margin:0 0 2rem;
+  
+}
+
+.flexbox {
+  display: flex;
+  .steps-icon {
+    flex: 0 0 50px;
+  }
+  .steps {
+    flex: 1;
+  }
+  .steps-column {
+    height: 100px;
+  }
+  h3 {
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 0;
+  }
+  p{
+    font-size: 2rem;
+  }
 }
 .our-job--listing {
   margin-left:-20px;
@@ -656,7 +684,7 @@ span.livefr {
   h3 {
     color: #FFCC33;
   }
-  
+
   .img-fluid {
     max-width: 100%;
     height: auto;
