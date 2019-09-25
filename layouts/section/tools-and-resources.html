@@ -11,9 +11,10 @@
 
 {{ define "main" }}
 <div class="container">
-    <section class="content">
-      <section class="page--outer-container-padding">
-      {{ .Content }}
+    <section>
+      <div class="tools-and-resources--content">
+        {{ .Content }}
+      </div>
       <div class='row equal'>
         {{ range $elem_index, $elem_val := where .Pages ".Params.status" "==" "in-flight" }}
          {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
@@ -25,7 +26,6 @@
           </div>
         {{ end }}
       </div>
-    </section>
   </section>
 </div>
 {{ end }}

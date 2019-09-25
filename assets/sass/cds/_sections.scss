@@ -1222,8 +1222,6 @@ article.post {
   }
 }
 
-
-
  ////////////////////////////////////////////////////
 //
 // PARTNERSHIPS PAGE
@@ -1300,5 +1298,16 @@ article.post {
       background: $black;
       color: $white;
     }
+  }
+}
+
+ ////////////////////////////////////////////////////
+//
+// TOOLS AND RESOURCES PAGE
+//
+////////////////////////////////////////////////////
+.tools-and-resources--content {
+  p {
+    margin-bottom: 0;
   }
 }
