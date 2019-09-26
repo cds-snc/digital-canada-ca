@@ -15,7 +15,7 @@
                     {{ end }}     
 
                     {{ if eq .Lang "fr" }}                
-                        {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }}, {{ .Date.Year }} 
+                        {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
                     {{ end }}                 
                 </div>
                 <div class="author">{{ .Params.author }}</div>
