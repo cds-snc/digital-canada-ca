@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="container">
-    <section class="section work-with-us--intro">
+    <section class="section joinus-section work-with-us--intro">
         <div class="row">
             <div class="col-sm-10 col-sm-offset-1 col-xs-12">
                 <h2 class="joinus-section--title">Joignez-vous au SNC</h2>
@@ -14,6 +14,8 @@
                 <div class="our-job--listing">
                     {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
                          <h3>Candidatures acceptées pour une durée limitée.</h3>
+                         <p>Faites vite! Les postes sont ouverts pour un temps limité.</p>
+
                          <div class="row">
                             {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
                                 {{ range $p := (where .Pages ".Params.archived" "==" false) }}
@@ -27,7 +29,7 @@
                         </div>
                   {{end}}
                 </div>
-                <p><strong>Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.</strong></p>
+                <h3>Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.</h3>
 
                 <p>Nous sommes fiers, passionnés et nous nous efforçons activement de rendre le SNC plus représentatif et inclusif de la société que nous servons. La prestation de services publics améliorés, accessibles et inclusifs n’est réalisable que si nous pouvons reconnaître et exploiter une diversité d’idées, d’expériences et de compétences. Nous travaillons très fort à la création d’un environnement où les différentes opinions et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à prospérer.</p>
 
