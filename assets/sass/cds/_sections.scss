@@ -605,6 +605,22 @@ span.livefr {
   color:black;
 }
 
+.section--title--post{
+  font-size: 3rem;
+  text-align: left;
+  color: $primary-color;
+  margin-bottom:3rem;
+}
+
+::-webkit-file-upload-button {
+  background: #a6a6a6;
+  color:black;
+  padding: 7px;
+  border-radius: 2px;
+  height:35px;
+  font-size: 1.5rem;
+  width:130px;
+}
 
 .section--title-offset{
   font-size: 3rem;
@@ -816,7 +832,6 @@ span.livefr {
     margin-right: 2rem;
 
     &:hover {
-      border-radius: 1rem;
       border: #f90 2px solid;
       background: #f90;
       color: $secondary-color;
