@@ -630,7 +630,7 @@ span.livefr {
   border-radius: 2px;
   height:35px;
   font-size: 1.5rem;
-  width:130px;
+  width: 130px;
 }
 
 .section--title-offset{
@@ -641,6 +641,7 @@ span.livefr {
 
 .flexbox {
   display: flex;
+
   .steps-icon {
     flex: 0 0 70px;
   }
@@ -672,7 +673,6 @@ span.livefr {
     border-bottom: 5px solid $primary-color;
   }
 
-
   p {
     font-size: 1.8rem;
     line-height: 1.1em;
@@ -688,7 +688,6 @@ span.livefr {
     box-shadow: 5px 8px 5px $medium-grey;
     height: 100%;
     text-align: left;
-
 
     p {
       margin-bottom: 0px;
@@ -822,7 +821,7 @@ span.livefr {
 }
 
 .work-with-us--apply-now {
-  background-color: #333;
+  background-color: $icon-grey;
   color: $white;
 
   @include desktop {
@@ -847,18 +846,18 @@ span.livefr {
     margin-right: 2rem;
 
     &:hover {
-      border: #f90 2px solid;
-      background: #f90;
-      color: $secondary-color;
+      border: 2px solid $primary-color;
+      background: $primary-color;
+      color: $icon-grey;
     }
   }
 
   a {
     color: $white;
-    border-bottom: $primary-color 1px dotted;
 
     &:hover {
-      border-bottom: $primary-color 1px solid;
+      text-decoration: none;
+      transition: all 0.3s ease-in-out;
     }
   }
 

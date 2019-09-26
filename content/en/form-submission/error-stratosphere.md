@@ -8,4 +8,4 @@ url: /error-stratosphere/
 translationKey: stratosphereError
 ---
 
-An error occurred. Please try again
+An error occurred. Please try again.
