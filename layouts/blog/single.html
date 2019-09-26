@@ -29,7 +29,7 @@
               {{ end }}     
 
               {{ if eq .Lang "fr" }}                
-                 {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }}, {{ .Date.Year }} 
+                 {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
               {{ end }}  
               </time>          
               <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
