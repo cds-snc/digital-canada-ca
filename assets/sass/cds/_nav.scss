@@ -28,6 +28,15 @@
 // CDS LOGO
 //
 ////////////////////////////////////////////////////////////
+html .container {
+  // @include logo_break {
+  //   background: yellow;
+  // }
+
+  // @include desktop {
+  //   background: blue;
+  // }
+}
 
 .cds-logo {
   background-image: url("../img/cds/cds-lockup-ko-en.svg");
@@ -36,6 +45,7 @@
   background-size: contain;
   display: block;
   z-index: 1;
+  
 
   @include mobile_only {
     height: 5rem;
@@ -43,29 +53,19 @@
     display: none;
   }
 
-  @include tablet {
-    height: 8rem;
-    width: 25rem;
-    position: absolute;
-  }
-
-  @include desktop {
-    height: 8rem;
-    width: 25rem;
-  }
-
-  @include tv {
-    height: 8rem;
-    width: 25rem;
-    top: -3.7rem;
-  }
-
   // added the below custom mixin to address menu content changes
   @include logo_break {
     height: 5rem;
-    width: 20rem;
+    width: 22.5rem;
     position: absolute;
     top: 0;
+  }
+
+  @include menu_break {
+    height: 5rem;
+    width: 25rem;
+    position: absolute;
+    top: -2rem;
   }
 
   // BILINGUAL SPECIFIC CDS LOGO
