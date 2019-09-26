@@ -93,7 +93,14 @@
                    style="background-image:url('{{ .Params.thumb }}')"></div>
               <div class="text">
                 <h3>{{ .Params.title }}</h3>
-                <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+                <div class="date">
+                    {{ if eq .Lang "en" }}                
+                      {{ .Date.Format "Jan 2, 2006" }}
+                    {{ end }}     
+                    {{ if eq .Lang "fr" }}                
+                      {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
+                   {{ end }}  
+                  </div>
               </div>
               <a href="{{ .RelPermalink }}">
                 <span class="underline">{{ i18n "read-more" }}</span>
