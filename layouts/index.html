@@ -98,7 +98,7 @@
                       {{ .Date.Format "Jan 2, 2006" }}
                     {{ end }}     
                     {{ if eq .Lang "fr" }}                
-                      {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
+                      {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }}, {{ .Date.Year }} 
                    {{ end }}  
                   </div>
               </div>
