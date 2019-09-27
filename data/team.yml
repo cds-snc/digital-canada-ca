@@ -304,16 +304,6 @@ team:
       fr: Développement
     twitter: dsamojlenko
   - archived: false
-    email: dave.toeg@tbs-sct.gc.ca
-    image-name: /img/cds/dave-toeg.jpg
-    linkedin: davetoeg
-    name: Dave Toeg
-    processed: 1552050695390
-    title:
-      en: Partnerships
-      fr: Partenariats
-    twitter: davetoeg
-  - archived: false
     email: elise.cossette@tbs-sct.gc.ca
     image-name: /img/cds/elise-cossette.jpg
     linkedin: élise-cossette-590b56ab
@@ -452,15 +442,6 @@ team:
     image-name: /img/cds/lyn-elliott.jpg
     name: Lyn Elliott
     processed: 1552050695386
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-  - archived: false
-    email: Lynn.Chalati@tbs-sct.gc.ca
-    image-name: /img/cds/lynn-chalati.jpg
-    linkedin: lynn-chalati-aaa9218a
-    name: Lynn Chalati
-    processed: 1552050695392
     title:
       en: Outreach
       fr: Liaison et diffusion
