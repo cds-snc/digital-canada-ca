@@ -181,8 +181,8 @@ team:
     name: Alexa Davidson
     processed: 1552050695387
     title:
-      en: Internal Operations | Talent
-      fr: Opérations internes | Talent
+      en: Talent
+      fr: Talent
   - archived: false
     email: Anik.Brazeau@tbs-sct.gc.ca
     image-name: /img/cds/anik-brazeau.jpg
@@ -414,7 +414,7 @@ team:
     title:
       en: Development
       fr: Développement
-    twitter: ElagganK
+    twitter: ''
   - archived: false
     email: leon.lukashevsky@tbs-sct.gc.ca
     github: leonL
