@@ -6,12 +6,12 @@ workflow "New workflow" {
   ]
 }
 
-workflow "Accessibility checks" {
+workflow "Accessibility" {
   on = "push"
-  resolves = ["docker://cdssnc/a11y-multiple-page-checker:latest"]
+  resolves = ["a11y axe tests"]
 }
 
-action "docker://cdssnc/a11y-multiple-page-checker:latest" {
+action "a11y axe tests" {
   uses = "docker://cdssnc/a11y-multiple-page-checker:latest"
 }
 
