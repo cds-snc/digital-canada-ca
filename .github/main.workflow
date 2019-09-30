@@ -6,7 +6,12 @@ workflow "New workflow" {
   ]
 }
 
-action "Accessibility checks" {
+workflow "Accessibility checks" {
+  on = "deployment_status"
+  resolves = ["docker://cdssnc/a11y-multiple-page-checker:latest"]
+}
+
+action "docker://cdssnc/a11y-multiple-page-checker:latest" {
   uses = "docker://cdssnc/a11y-multiple-page-checker:latest"
 }
 
