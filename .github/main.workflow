@@ -3,6 +3,7 @@ workflow "New workflow" {
   resolves = [
     "Process images commit",
     "Process images",
+    "Test a11y"
   ]
 }
 
@@ -36,11 +37,6 @@ action "Process images" {
   args = "run process:images"
 }
 
-workflow "Test a11y" {
-  on = "deployment_status"
-  resolves = ["docker://cdssnc/a11y-multiple-page-checker:latest"]
-}
-
-action "docker://cdssnc/a11y-multiple-page-checker:latest" {
+action "Test a11y" {
   uses = "docker://cdssnc/a11y-multiple-page-checker:latest"
 }
