@@ -2,9 +2,12 @@ workflow "New workflow" {
   on = "push"
   resolves = [
     "Process images commit",
-    "Process images",
-    "Accessibility checks"
+    "Process images"
   ]
+}
+
+action "Accessibility checks" {
+  uses = "docker://cdssnc/a11y-multiple-page-checker:latest"
 }
 
 action "Filter master" {
@@ -35,8 +38,4 @@ action "Process images" {
   uses = "actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680"
   needs = ["Install"]
   args = "run process:images"
-}
-
-action "Accessibility checks" {
-  uses = "docker://cdssnc/a11y-multiple-page-checker:latest"
 }
