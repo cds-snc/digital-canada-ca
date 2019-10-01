@@ -43,7 +43,7 @@
             {{ $.Scratch.Set "page_number_flag" true }}
           {{ end }}
           {{ if eq ($.Scratch.Get "page_number_flag") true }}
-            <li class = "pagination {{ if eq . $paginator }}active{{ end }} " >
+            <li class = "pagination {{ if eq $paginator.PageNumber $trail.PageNumber }}active{{ end }}" >
               <a href="{{$trail.URL }}">{{ $trail.PageNumber }}</a>
             </li>
           {{ end }}
