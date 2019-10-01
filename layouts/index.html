@@ -4,8 +4,6 @@
 
 {{ define "index" }}
 
-
-
   <div class="container homepage--what-we-do">
     <section class='section'>
       <div class='row'>
@@ -25,47 +23,16 @@
           {{ range $idx, $post := first 4 $homepage }}
             {{ if and (ne $idx 0) (eq (mod $idx 2) 0) }}
       </div>
+      <!-- The following renders same styles + list of products featured in Partnerships page -->
       <div class='row equal'>
         {{ end }}
-          <div class="col-xs-12 col-md-6">
-            <div class='post border-{{.Params.phase}}'>
-              <h3>{{ $post.Params.title }}</h3>
-              <div class="work-in-progress--product-summary">
-                  <p>{{ $post.Params.description }}</p>
-              </div>
-
-              <div class="work-in-progress--partners-long">
-              {{ if gt (len $post.Params.partners) 0 }}
-                {{ range $post.Params.partners }}
-                  <h4>{{ i18n "partner" }}:</h4>
-                  <span><p><a href='{{ .url }}'>{{ .name }}</a></p></span>
-                {{ end }}
-              {{ end }}
-              </div>
-
-              <div class="work-in-progress--team">
-                  <h4>Contact:</h4>
-                  {{ range $post.Params.contact }}
-                    <p><a href='mailto:{{.email}}'>{{.name}}</a></p>
-                  {{ end }}
-              </div>
-
-              <div class="work-in-progress--links">
-                  {{with $post.Params.links }}
-                    {{ if gt (len .) 0 }}
-                      <h4>{{ i18n "links" }}:</h4>
-                      {{range .}}
-                      <p><a href="{{ .url }}">{{.name}}</a></p>
-                      {{ end }}
-                    {{ end }}
-                  {{ end }}
-                </div>
-            </div>
-          </div>
+        <div class='col-md-6 col-xs-12'>
+          {{ .Render "list"}}
+        </div>
         {{ end }}
       </div>
     </section>
-  </div>
+ </div>
 
   <section class="section homepage--our-team">
     <div class="container">
@@ -77,6 +44,7 @@
         <div class="col-md-4 col-xs-12 btn">
           <a href="{{ with $.Site.GetPage "meet-the-team" }}{{.URL}}{{ end }}">
             {{ i18n "meet-the-team" }}
+            <i class='fas fa-arrow-circle-right'></i>
           </a>
         </div>
       </div>
@@ -94,7 +62,9 @@
         </div>
         <div class="col-md-4 col-xs-12 btn">
           <a href="{{ with $.Site.GetPage "join-our-team" }}{{.URL}}{{ end }}"
-             class='apply-now'>{{ i18n "apply-now" }}</a>
+             class='apply-now'>{{ i18n "apply-now" }}
+             <i class='fas fa-arrow-circle-right'></i>
+          </a>
         </div>
       </div>
     </div>
@@ -106,12 +76,12 @@
         <div class='col-xs-12 col-md-9'>
           <h2>{{i18n "featured-post" }}</h2>
         </div>
-        <div class='col-xs-12 col-md-3'>
+        <div class="read-blogs">
           <a href="{{ with $.Site.GetPage "blog" }}{{.URL}}{{ end }}"
              class='title-link'>
-            {{i18n "more-blogs" }}
-            <i class='fas fa-arrow-circle-right'></i>
+            {{i18n "read-all-blogs" }}
           </a>
+          <i class='fas fa-arrow-circle-right'></i>
         </div>
       </div>
       <div class="row blog-posts">
@@ -123,7 +93,14 @@
                    style="background-image:url('{{ .Params.thumb }}')"></div>
               <div class="text">
                 <h3>{{ .Params.title }}</h3>
-                <div class="date">{{ .Date.Format "January 2, 2006" }}</div>
+                <div class="date">
+                    {{ if eq .Lang "en" }}                
+                      {{ .Date.Format "Jan 2, 2006" }}
+                    {{ end }}     
+                    {{ if eq .Lang "fr" }}                
+                      {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
+                   {{ end }}  
+                  </div>
               </div>
               <a href="{{ .RelPermalink }}">
                 <span class="underline">{{ i18n "read-more" }}</span>

@@ -38,12 +38,11 @@
 	position: relative;
 	display: inline-block;
 	font-weight: 400;
-	padding: 1rem 1.5rem;
+	padding: 1rem 6.5rem;
 	border: $primary-color 2px solid;
-	border-radius: 1rem;
-	background: $primary-color;
+	background: #333;
 	transition: all 0.3s ease-in-out;
-	color: $secondary-color;
+	color: $primary-color;
 	margin: 2rem 0;
 	font-size: 1.75rem;
 
@@ -51,6 +50,7 @@
 		border-color: $secondary-color;
 		background: $secondary-color;
 		color: $primary-color;
+		border-radius: 0;
 	}
 
 	&.outline {
@@ -102,6 +102,7 @@
 	i {
 		padding: 1.8rem;
 		color: $white;
+		display: inline-block;
 		border-radius: 50%;
 		text-align: center;
 		font-size: 2rem;
@@ -111,7 +112,6 @@
 		&:hover {
 			background: $primary-color;
 			color: $black;
-			border: $white 2px solid;
 		}
 	}
 
@@ -151,27 +151,28 @@
 
 	.team-member {
 		position: relative;
-		border-bottom: $medium-grey 2px solid;
-		padding: 2.5rem 0;
+		border-bottom: $primary-color 4px solid;
+		box-shadow: rgb(225, 228, 231) 0px -1px 4px;
+		padding: 2.5rem 0 0;
+		margin-bottom: 2rem;
 		@include tablet {
-			padding: 3.5rem 0;
+			padding: 3.5rem 0 0;
 		}
 	}
 
-	.photo {
+	.photo-container img {
 		display: block;
 		margin: 0rem auto 1.5rem auto;
 		height: 15rem;
 		width: 15rem;
-		border: $primary-color 3px solid;
-		background: url('img/cds/profile-images/default.png') no-repeat center center;
+		border: $black 3px solid;
 		background-size: cover;
 		border-radius: 50%;
 
 		@include tablet {
-			height: 18rem;
-			width: 18rem;
-			border-width: 5px;
+			height: 15rem;
+			width: 15rem;
+			border-width: 4px;
 		}
 	}
 
@@ -180,40 +181,30 @@
 		position: relative;
 	}
 
+	.contact-info-social{
+		padding-top:1rem;
+	}
+
 	.name {
 		font-size: 2.35rem;
-		font-weight: 300;
+		font-weight: 600;
 	}
 
 	.title {
-		font-size: 1.5rem;
+		font-size: 1.7rem;
 		color: #4c4c4c;
-	}
-
-	.social-links {
-		margin-top: 4rem;
-
-		@include tablet {
-			margin-top: 3.5rem;
-		}
 	}
 
 	.social-icons a {
 		/*display: inline-block;*/
 		display:inline-flex;
 		justify-content: center;
-		font-size:1em;
-		padding: 1.5rem 1.5rem;
-		border: $primary-color 2px solid;
+		font-size:1.1em;
+		padding: 1.5rem 1.8rem;
 		color: $icon-grey;
-		border-radius: 50%;
-		margin: 0 0.5rem;
-		transition: all 0.3s ease-in-out;
 
 		&:hover {
-			background: $secondary-color;
-			color: $primary-color;
-			border: $secondary-color 2px solid;
+			background: $primary-color;
 		}
 	}
 }
@@ -229,7 +220,6 @@
 
 	.item {
 		position: relative;
-		border: $primary-color 3px solid;
 		margin: 5rem 1rem;
 
 

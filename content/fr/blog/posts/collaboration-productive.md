@@ -29,6 +29,7 @@ processed: 1550672961816
 Au Service numérique canadien (SNC), nous formons nos équipes de produits pour qu’elles se composent de gestionnaires de produits, de chercheurs, de concepteurs, de développeurs, d’experts en politiques et de spécialistes en communication. Mais le fait de réunir une équipe multidisciplinaire ne signifie pas que la partie la plus difficile est terminée. Toutes les personnes que vous avez rassemblées au sein de votre équipe proviennent de disciplines différentes et chacune a ses propres façons de travailler. Il peut s’agir (sans s’y limiter) du rythme, des outils, des heures, des moments de la journée, des conditions environnementales, des méthodes de communication et des moyens que chaque personne préfère pour donner et recevoir de la rétroaction. Avec tant de variables différentes, il est facile de se sentir rapidement dépassé.
 
 Il y a deux façons principales de régler ce problème :
+
 1. Attribuer aux chefs et aux gestionnaires la tâche difficile d’établir un consensus, en déterminant comment ils pensent que leur équipe *devrait* fonctionner et en espérant que tout le monde réagira favorablement; OU
 3. Laisser les équipes tracer leur propre voie, c’est-à-dire déterminer elles-mêmes ces différences au fur et à mesure qu’elles s’habituent à travailler ensemble, et espérer qu’elles parviendront à un consensus productif par elles-mêmes.
 

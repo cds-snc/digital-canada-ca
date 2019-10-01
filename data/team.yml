@@ -32,7 +32,7 @@ exec:
     twitter: anatolep
   - archived: false
     email: Andrea.Gilbrook@tbs-sct.gc.ca
-    image-name: /img/cds/andrea_gilbrook.jpg
+    image-name: /img/cds/andrea-gilbrook.jpg
     linkedin: andreagilbrook
     name: Andrea Gilbrook
     processed: 1552050695385
@@ -89,6 +89,13 @@ exec:
     title:
       en: Acting Head of Partnerships
       fr: Chef par intérim des partenariats
+  - email: Jennifer.Morin@tbs-sct.gc.ca
+    image-name: /img/cds/jennifer-morin.jpg
+    name: Jennifer Morin
+    processed: 1568391268233
+    title:
+      en: Head of Internal Operations
+      fr: Chef des opérations internes
   - archived: false
     email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
@@ -148,15 +155,6 @@ exec:
       fr: Chef de la prestation des services
     twitter: rossferg
   - archived: false
-    email: Sana.Qureshi@tbs-sct.gc.ca
-    image-name: /img/cds/sana-qureshi.jpg
-    linkedin: sana-qureshi-35206a11
-    name: Sana Qureshi
-    processed: 1552050695387
-    title:
-      en: Acting Head of Internal Operations
-      fr: Chef par intérim des opérations internes
-  - archived: false
     email: Wendy.Luciani@tbs-sct.gc.ca
     image-name: /img/cds/wendy-luciani.jpg
     linkedin: wmluciani
@@ -183,8 +181,8 @@ team:
     name: Alexa Davidson
     processed: 1552050695387
     title:
-      en: Internal Operations | Talent
-      fr: Opérations internes | Talent
+      en: Talent
+      fr: Talent
   - archived: false
     email: Anik.Brazeau@tbs-sct.gc.ca
     image-name: /img/cds/anik-brazeau.jpg
@@ -251,7 +249,6 @@ team:
     title:
       en: Design
       fr: Conception
-    twitter: autotectonic
   - archived: false
     email: Charlotte.Pedersen@tbs-sct.gc.ca
     image-name: /img/cds/charlotte-pederson.jpg
@@ -306,16 +303,6 @@ team:
       en: Development
       fr: Développement
     twitter: dsamojlenko
-  - archived: false
-    email: dave.toeg@tbs-sct.gc.ca
-    image-name: /img/cds/dave-toeg.jpg
-    linkedin: davetoeg
-    name: Dave Toeg
-    processed: 1552050695390
-    title:
-      en: Partnerships
-      fr: Partenariats
-    twitter: davetoeg
   - archived: false
     email: elise.cossette@tbs-sct.gc.ca
     image-name: /img/cds/elise-cossette.jpg
@@ -372,14 +359,6 @@ team:
       en: Partnerships
       fr: Partenariats
   - archived: false
-    email: Jennifer.Morin@tbs-sct.gc.ca
-    image-name: /img/cds/jennifer-morin.jpg
-    name: Jennifer Morin
-    processed: 1552050695391
-    title:
-      en: Internal Operations
-      fr: Opérations internes
-  - archived: false
     email: Jessica.Loadenthal@tbs-sct.gc.ca
     image-name: /img/cds/jessica-loadenthal.jpg
     name: Jessica Loadenthal
@@ -435,7 +414,7 @@ team:
     title:
       en: Development
       fr: Développement
-    twitter: ElagganK
+    twitter: ''
   - archived: false
     email: leon.lukashevsky@tbs-sct.gc.ca
     github: leonL
@@ -463,15 +442,6 @@ team:
     image-name: /img/cds/lyn-elliott.jpg
     name: Lyn Elliott
     processed: 1552050695386
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-  - archived: false
-    email: Lynn.Chalati@tbs-sct.gc.ca
-    image-name: /img/cds/lynn-chalati.jpg
-    linkedin: lynn-chalati-aaa9218a
-    name: Lynn Chalati
-    processed: 1552050695392
     title:
       en: Outreach
       fr: Liaison et diffusion
@@ -578,6 +548,14 @@ team:
       en: Design
       fr: Conception
     twitter: samsadasivan
+  - email: Sana.Qureshi@tbs-sct.gc.ca
+    image-name: /img/cds/sana-qureshi.jpg
+    linkedin: sana-qureshi-35206a11
+    name: Sana Qureshi
+    processed: 1568391268236
+    title:
+      en: Talent
+      fr: Talent
   - archived: false
     github: sboots
     image-name: /img/cds/sean-boots.jpg

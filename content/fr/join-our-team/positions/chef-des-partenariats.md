@@ -7,9 +7,9 @@ description: >-
   SNC. Nous développons les connaissances de l’organisation sur les services
   fédéraux et nous développons l’empathie en écoutant les fonctionnaires et en
   apprenant d’eux.
-archived: false
-translationKey: head-of-partnerships
+archived: true
 leverId: 8ae1ad7b-5c5a-4304-b4d2-11cce4d86713
+translationKey: head-of-partnerships
 ---
 
 Le Service numérique canadien (SNC) collabore avec les ministères fédéraux pour rendre les services gouvernementaux simples et faciles à utiliser. Notre équipe repense la conception et la prestation des services, tout en mobilisant, à chaque étape, les personnes qui les utilisent. En travaillant ouvertement et en faisant connaître à nos partenaires des outils et des gens talentueux, nous améliorons la façon dont le gouvernement offre ses services.

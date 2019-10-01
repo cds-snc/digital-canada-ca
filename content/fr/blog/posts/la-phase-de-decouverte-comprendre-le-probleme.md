@@ -26,6 +26,7 @@ Par conséquent, à la mi-novembre 2017, les associés fédéraux de Code for Ca
 anciens combattants à mieux comprendre les prestations et les services qui les concernent et à y avoir accès.
 
 La phase de découverte du projet avait, au départ, trois grands objectifs liés à la connaissance :
+
 1. Comprendre les besoins des anciens combattants en ce qui a trait aux prestations;
 2. Comprendre la relation entre les anciens combattants et ACC;
 3. Comprendre les prestations elles-mêmes.

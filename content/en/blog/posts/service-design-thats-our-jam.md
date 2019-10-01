@@ -26,6 +26,7 @@ Design Jams typically bring together multi-sector groups to work on real service
 CRA and ESDC presented three challenge statements on gender diversity, accessibility, and user experience (UX). The 30 participants selected the challenge they wanted to work on. In mixed groups they used service design methods to brainstorm and pitch ideas that would give Canadians a better experience than is currently offered. 
 
 We framed the day around a few key principles:
+
 * Jammers would not solve the service challenge in one day - and that’s okay.
 * Users and their experiences were front and centre. The day was not about figuring out feasibility for internal government processes.
 * All ideas were welcome! There would be no right or wrong answers, nor ideas too ambitious. 
@@ -40,22 +41,27 @@ During the five-hour jam session, a constant stream of design mentors from the G
 The five methods in the toolkit were:
 
 _SWOT Analysis_
+
 * Participants scanned the department where their chosen service challenge currently lives
 * They outlined what the existing strengths, weaknesses, opportunities, and threats (SWOT) were to the service
 
 _Value Proposition Canvas_
+
 * Participants started by identifying all the users involved with their service challenge
 * They outlined all their users’ pain points and positive experiences and brainstormed ideas to further enhance the positive and lessen the negative experiences
 
 _Empathy Map_
+
 * This tool enabled participants to put themselves in the shoes of one particular user group
 * They worked to identify the different things these users see, feel, hear, and say as they use the service
 
 _Affinity Diagram_
+
 * Participants worked through all the ideas they’d generated using previous tools, by discussing, adding to them, and organizing the ideas by themes and similarities. 
 * As a final step, each person voted on the ideas they considered the highest priority
 
 _Service Blueprint (optional)_
+
 * If they had time, groups were encouraged to map out how their new ideas were situated within the existing service landscape
 * This included considering the different touch points a user experienced, both external and internal, to better understand all the stakeholders who would be involved in this service
 

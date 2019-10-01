@@ -27,6 +27,7 @@ We’re back with our CDS team now, armed with additional information that gives
 
 ## Some lessons learned for future co-locating:
 Given the benefits of our co-locating experience, we would recommend the following:
+
 1. Try to plan co-locating ahead of time. Put it directly in the project plan from the beginning. Prepare all sides for what to expect as much as possible.
 2. Bring your own WiFi: Access to WiFi and network at other facilities is unlikely.
 3. Arrange for any network accounts/logins ahead of time.

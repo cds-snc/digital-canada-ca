@@ -24,7 +24,13 @@
             <h1>{{ .Params.title | markdownify }}</h1>
             <p class="post-meta">
               <time datetime="{{ .Params.date }}" itemprop="datePublished">
-                {{ .Date.Format "Jan 2, 2006" }}
+              {{ if eq .Lang "en" }}                
+                 {{ .Date.Format "Jan 2, 2006" }}
+              {{ end }}     
+
+              {{ if eq .Lang "fr" }}                
+                 {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
+              {{ end }}  
               </time>          
               <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
                 <span itemprop="name">{{ .Params.author }}</span>
@@ -38,18 +44,18 @@
         </article>
         <div class="previous-next-nav">
             <div class="pull-left text-left mrgn-bttm-lg col-md-6 col-sm-12">
-                {{with .NextInSection }}
+                {{with .PrevInSection }}
                 <a href="{{ .RelPermalink }}">
                   <span class="fa fa-arrow-left"></span>
-                  {{i18n "next-post"}}<span class="wb-inv">:</span>
+                  {{i18n "previous-post"}}<span class="wb-inv">:</span>
                   <h5 class="mrgn-lft-md mrgn-tp-0 mrgn-bttm-0">{{ .Params.title | markdownify }}</h5>
                 </a>
                 {{end}}
               </div>
             
               <div class="pull-right text-right mrgn-bttm-lg col-md-6 col-sm-12">
-                {{with .PrevInSection }}
-                <a href="{{ .RelPermalink }}">{{i18n "previous-post"}}<span class="wb-inv">:</span>
+                {{with .NextInSection }}
+                <a href="{{ .RelPermalink }}">{{i18n "next-post"}}<span class="wb-inv">:</span>
                   <span class="fa fa-arrow-right"></span>
                   <h5 class="mrgn-rght-md mrgn-tp-0 mrgn-bttm-0">{{ .Params.title | markdownify }}</h5>
                 </a>

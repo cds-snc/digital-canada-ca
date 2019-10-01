@@ -46,6 +46,7 @@ Une fois que nous avons eu une image claire de ce dont le service aurait l’air
 Prendre une approche de dégradation progressive signifie que notre service est compatible avec les appareils qui ne peuvent pas exécuter JavaScript, les appareils connectés se trouvant sur des réseaux instables ainsi que les appareils plus anciens qui ne peuvent pas lire les nouvelles syntaxes JavaScript. Les utilisateurs appartenant à ce dernier groupe (de loin le plus grand) sont en mesure de télécharger notre code, sans toutefois pouvoir l’exécuter. C’est un peu comme si on essayait de forcer un lecteur VHS à lire un DVD. Maintenant, tous ces utilisateurs sont en mesure d’utiliser l’ensemble du service, sans doute sans même se rendre compte qu’il y avait un problème.
 
 Grâce à la dégradation progressive:
+
 * les utilisateurs peuvent charger le site dans une ou l’autre des langues officielles;
 * les utilisateurs ne perdent pas les renseignements enregistrés lorsqu’ils rechargent la page;
 * la langue de préférence des utilisateurs ne se réinitialise pas s’ils quittent * le site et reviennent plus tard;

@@ -32,9 +32,10 @@ body {
 }
 
 a {
-	color 			: $secondary-color;
+	color 		: inherit;
 	font-weight 	: 500;
-	text-decoration : none;
+	transition: all 0.3s ease-in-out;
+	
 
 	@include mobile_only {
 		font-size: 1.75rem;
@@ -49,18 +50,17 @@ a {
 	}
 
 	&:visited {
-		color: $secondary-color;
+		color: $dark-grey;
 	}
 
-	&:hover {
-		text-decoration: none;
-		color: lighten($secondary-color, 15);
+	&:hover, focus {
+		color: lighten($dark-grey, 15);
 		cursor: pointer;
 	}
 
 	&:hover:not[class] {
 		text-decoration: none;
-		border-bottom : $secondary-color 1px solid;
+		border-bottom : $dark-grey 1px solid;
 	}
 }
 
@@ -143,6 +143,14 @@ html .container {
 	}
 }
 
+.dark-bg:visited, hover, focus{
+	color: $light-grey;
+}
+
+.term {
+	font-style:italic;
+}
+		
 .col-sm-10,
 .col-sm-offset-1 {
 	margin: 0;
@@ -191,6 +199,7 @@ html .container {
 			bottom: -2rem;
 		}
 	}
+	
 
 	@include tablet {
 		font-size: 3.5rem;

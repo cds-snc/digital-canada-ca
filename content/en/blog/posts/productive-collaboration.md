@@ -24,6 +24,7 @@ processed: 1550672961741
 At CDS, we build our product teams to consist of product managers, researchers, designers, developers, policy experts, and communication specialists. But, assembling a multidisciplinary team does not mean the hardest part is done. All of the individuals that you’ve gathered onto your team come from different disciplines and they each have their own preferred ways of working. This includes (but is not limited to) the pace, tools, hours, times of day, environmental conditions, communication methods, and the ways each person prefers to give and receive feedback. With so many different variables, it’s easy for things to quickly get overwhelming. 
 
 There are two main ways of dealing with this: 
+
 1. Assign leaders and managers with the challenging task of establishing consensus — by determining the ways in which they think their teams *should* work, and hope everyone responds favourably, OR 
 2. Let teams chart their own path: figuring out these differences themselves as they get used to working with each other, and hope they’ll reach a productive consensus on their own. 
 

@@ -46,6 +46,7 @@ Depuis que nous partageons les locaux, la possibilité de faire partie d’une �
 Si le partage des locaux n’est pas une option pour votre espace de travail, il existe d’autres façons d’optimiser votre environnement pour profiter des avantages du travail d’équipe multidisciplinaire. 
 
 ## Une étape à la fois
+
 * Trouvez du temps pour parler des « obstacles » et des solutions possibles en équipe.
 * Essayez les rencontres vidéo (nous utilisons Google Meet), qui peuvent donner lieu à des formes de communication plus claires et plus personnelles. 
 * Acceptez de ne pas tout connaître et soyez ouvert à de nouvelles approches tout en gardant à l’esprit la stratégie de base. 
@@ -54,4 +55,3 @@ Si le partage des locaux n’est pas une option pour votre espace de travail, il
 Après mes inquiétudes du début, je dois dire que j’ai vraiment été conquise. Je sais que mes collègues et moi-même avons appris quelque chose de très précieux que nous pouvons rapporter à l’ARC bien après avoir terminé notre projet au SNC.
 
 L’Agence du revenu du Canada a travaillé fort pour devenir une organisation plus axée sur les personnes et pour améliorer les services offerts aux Canadiens. Selon moi, le travail que nous faisons ensemble au SNC nous aidera à tenir cette promesse en assurant de meilleurs résultats pour les Canadiens à faible revenu.
-
