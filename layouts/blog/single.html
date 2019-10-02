@@ -24,7 +24,13 @@
             <h1>{{ .Params.title | markdownify }}</h1>
             <p class="post-meta">
               <time datetime="{{ .Params.date }}" itemprop="datePublished">
-                {{ .Date.Format "Jan 2, 2006" }}
+              {{ if eq .Lang "en" }}                
+                 {{ .Date.Format "Jan 2, 2006" }}
+              {{ end }}     
+
+              {{ if eq .Lang "fr" }}                
+                 {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
+              {{ end }}  
               </time>          
               <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
                 <span itemprop="name">{{ .Params.author }}</span>

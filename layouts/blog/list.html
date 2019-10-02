@@ -10,7 +10,13 @@
                         <h2>{{ .Title | markdownify }}</h2>
                     </a></div>
                 <div class="date">
-                    {{ .Date.Format "Jan 2, 2006" }}
+                    {{ if eq .Lang "en" }}                
+                        {{ .Date.Format "Jan 2, 2006" }}
+                    {{ end }}     
+
+                    {{ if eq .Lang "fr" }}                
+                        {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
+                    {{ end }}                 
                 </div>
                 <div class="author">{{ .Params.author }}</div>
                 <div class="summary">{{ .Params.description | truncate 300 | markdownify }}</div>

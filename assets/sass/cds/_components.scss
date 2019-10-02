@@ -38,12 +38,11 @@
 	position: relative;
 	display: inline-block;
 	font-weight: 400;
-	padding: 1rem 1.5rem;
+	padding: 1rem 6.5rem;
 	border: $primary-color 2px solid;
-	border-radius: 1rem;
-	background: $primary-color;
+	background: #333;
 	transition: all 0.3s ease-in-out;
-	color: $secondary-color;
+	color: $primary-color;
 	margin: 2rem 0;
 	font-size: 1.75rem;
 
@@ -51,6 +50,7 @@
 		border-color: $secondary-color;
 		background: $secondary-color;
 		color: $primary-color;
+		border-radius: 0;
 	}
 
 	&.outline {
