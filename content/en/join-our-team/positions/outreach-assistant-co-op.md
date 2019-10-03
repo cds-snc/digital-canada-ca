@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: Outreach Assistant (co-op)
+title: Outreach Assistant (Co-Op)
 description: >-
   The Outreach Team at CDS tells the stories of the services we help build and
   the stories of the people who use them. We’re looking for an Outreach
@@ -19,14 +19,12 @@ The Canadian Digital Service is focused on delivering better public services usi
 The Outreach Team at CDS tells the stories of the services we help build and the stories of the people who use them. You can learn more about us [here](https://digital.canada.ca/). We’re looking for an Outreach assistant to support our events, storytelling and social media activities. 
 
 We're looking for someone who will:
-
 * Coordinate and contribute to our team’s meetings.
 * Provide a wide range of organizational and administrative support to the Head of Outreach and the larger team.
 * Support the team in telling the CDS story through a range of tasks, including meeting and event coordination, content delivery and writing.
 * Help the team tell more compelling stories by staying on top of the latest memes, social media trends, meet-ups, and #GCDigital community conversations.
 
 You'll fit right in if:
-
 * Your default mode is open, friendly, and collaborative.
 * You like to learn new things and help people out.
 * You’re organized, detail-oriented, and like to get stuff done.
