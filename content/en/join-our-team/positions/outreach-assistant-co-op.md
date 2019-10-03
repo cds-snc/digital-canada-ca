@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: Outreach Assistant (Co-op)
+title: Outreach Assistant (co-op)
 description: >-
   The Outreach Team at CDS tells the stories of the services we help build and
   the stories of the people who use them. We’re looking for an Outreach
