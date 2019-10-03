@@ -21,12 +21,14 @@ Le Service numérique canadien se concentre sur la prestation de services public
 L’équipe de liaison et diffusion du SNC raconte l’histoire des services que nous aidons à bâtir et celle des gens qui les utilisent. Vous pouvez en savoir plus sur nous [ici](https://numerique.canada.ca/). Nous sommes à la recherche d’un assistant de liaison et diffusion qui pourra fournir un soutien pour nos événements, nos mises en récit et nos activités sur les médias sociaux.
 
 Nous cherchons une personne qui saura :
+
 * Coordonner les réunions de l’équipe et y participer
 * Fournir divers types de soutien administratif et organisationnel à la chef de liaison et diffusion et à l’équipe élargie.
 * Aider l'équipe à raconter l’histoire du SNC au moyen de diverses tâches, notamment la coordination des réunions et des événements, la diffusion de contenu et la rédaction.
 * Aider l’équipe à raconter des histoires captivantes en se tenant à jour des nouveautés liées aux mèmes, aux tendances Twitter, aux événements de rencontre et aux discussions des communautés du #GCNumérique.
 
 Vous êtes la bonne personne si :
+
 * Votre mode par défaut est d’être ouvert, amical et collaboratif.
 * Vous aimez apprendre de nouvelles choses et aider les gens.
 * Vous êtes organisé, êtes orienté vers les détails, et aimez faire avancer les choses.
