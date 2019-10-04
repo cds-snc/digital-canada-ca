@@ -4,7 +4,7 @@ pathConfig.array = [
   '/',
   '/meet-the-team',
   '/join-our-team',
-  '/parternship',
+  '/parternships',
   '/products'
 ]
 

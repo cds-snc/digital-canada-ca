@@ -1,23 +1,37 @@
+// How to use
 /*
-  How to use
+step # 1
+  Please update this with the huroku deployment id or your pull request ID
+*/
+var deploymentId = "1097";
 
+/*
+Step # 2
+
+Run the follwoing commands in your termnal based on your prefered test cases bleow
+
+------------------------------------------
+  To test deafualt setting (only homepage)
+------------------------------------------
   backstop reference --configPath=backstop-settings.js
-       backstop test --configPath=backstop-settings.js
+  backstop test --configPath=backstop-settings.js
 
-  backstop reference --configPath=backstop-settings.js --refhost=https://digital.canada.ca
-       backstop test --configPath=backstop-settings.js --testhost=https://digital.canada.ca
-
+-------------------------------------------------------------------------------
+To test specific pages of your choice add the page name followed by a comma
+-------------------------------------------------------------------------------
   backstop reference --configPath=backstop-settings.js --paths=/,/partenership
-       backstop test --configPath=backstop-settings.js --paths=/,/partenership
+  backstop test --configPath=backstop-settings.js --paths=/,/partenership
 
+-------------------------------------
+To test the entire site all at once
+-------------------------------------
   backstop reference --configPath=backstop-settings.js --pathfile=paths
-       backstop test --configPath=backstop-settings.js --pathfile=paths
-
- */
+  backstop test --configPath=backstop-settings.js --pathfile=paths
+*/
 
 /*
-  Set up some variables
- */
+That's all no watch your browser doing some magic :)
+*/
 var arguments = require('minimist')(process.argv.slice(2)); // grabs the process arguments
 var defaultPaths = ['/']; // By default is just checks the homepage
 var scenarios = []; // The array that'll have the pages to test
@@ -31,7 +45,7 @@ var scenarios = []; // The array that'll have the pages to test
 // Pass the french array path list
 if (!arguments.testhost) {
 //added temporairly for testing
-  arguments.testhost  = "https://digital-canada-ca-pr-1097.herokuapp.com"; // Default test host
+  arguments.testhost  = "https://digital-canada-ca-pr-"+ deploymentId +".herokuapp.com"; // Default test host
 }
 // The host to reference
 if (!arguments.refhost) {
