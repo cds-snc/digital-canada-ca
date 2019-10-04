@@ -4,10 +4,6 @@
   <div class="container">
     <div class="page-banner--title">
       <h1>{{ i18n "tools-and-resources"}}</h1>
-      <div class="container-products-toggle">
-        <a href="/products">{{ i18n "products-btn"}}</a>
-        <a href="/tools-and-resources" class="active">{{ i18n "developer-tools-btn"}}</a>
-      </div>
     </div>
   </div>
 </div>
@@ -15,9 +11,10 @@
 
 {{ define "main" }}
 <div class="container">
-    <section class="content">
-      <section class="page--outer-container-padding">
-      {{ .Content }}
+    <section>
+      <div class="tools-and-resources--content">
+        {{ .Content }}
+      </div>
       <div class='row equal'>
         {{ range $elem_index, $elem_val := where .Pages ".Params.status" "==" "in-flight" }}
          {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
@@ -29,7 +26,6 @@
           </div>
         {{ end }}
       </div>
-    </section>
   </section>
 </div>
 {{ end }}

@@ -959,6 +959,14 @@ span.livefr {
     }
   }
 
+  .photo {
+    display: block;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+  }
+
   .text-container {
     width: calc(70% - 30px/2);
 
@@ -970,14 +978,6 @@ span.livefr {
       width: 85%;
       margin: 0 auto;
     }
-  }
-
-  .photo {
-    display: block;
-    height: 100%;
-    width: 100%;
-    background-size: cover;
-    background-position: center center;
   }
 
   h2 {
@@ -1124,7 +1124,15 @@ article.post {
     }
   }
 
-  #mc_embed_signup_scroll { padding: 0; }
+  #mc_embed_signup_scroll { 
+    padding: 0; 
+    display: flex;
+    flex-direction: row;
+
+    @include mobile_only {
+      display: block;
+    }
+  }
 
   label[for="mce-EMAIL"] {
     display: block !important;
@@ -1294,8 +1302,6 @@ article.post {
   }
 }
 
-
-
  ////////////////////////////////////////////////////
 //
 // PARTNERSHIPS PAGE
@@ -1372,5 +1378,16 @@ article.post {
       background: $black;
       color: $white;
     }
+  }
+}
+
+ ////////////////////////////////////////////////////
+//
+// TOOLS AND RESOURCES PAGE
+//
+////////////////////////////////////////////////////
+.tools-and-resources--content {
+  p {
+    margin-bottom: 0;
   }
 }
