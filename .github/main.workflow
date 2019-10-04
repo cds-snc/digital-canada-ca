@@ -2,8 +2,17 @@ workflow "New workflow" {
   on = "push"
   resolves = [
     "Process images commit",
-    "Process images",
+    "Process images"
   ]
+}
+
+workflow "Accessibility checks" {
+  on = "deployment_status"
+  resolves = ["a11y axe test"]
+}
+
+action "a11y axe test" {
+  uses = "docker://cdssnc/a11y-multiple-page-checker:latest"
 }
 
 action "Filter master" {
