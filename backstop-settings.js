@@ -75,9 +75,7 @@ for (var k = 0; k < paths.length; k++) {
     "selectors": [],
     "readyEvent": null,
     "delay": 500,
-    "misMatchThreshold" : 0.1,
-    "onBeforeScript": "onBefore.js",
-    "onReadyScript": "onReady.js"
+    "misMatchThreshold" : 0.1
   });
 }
 
