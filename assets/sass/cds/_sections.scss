@@ -953,8 +953,9 @@ span.livefr {
     }
 
     @media (max-width: 500px) {
-      width: 80%;
+      width: 85%;
       margin: 0 auto;
+      height: 20rem;
     }
   }
 
@@ -966,7 +967,7 @@ span.livefr {
     }
 
     @media (max-width: 500px) {
-      width: 80%;
+      width: 85%;
       margin: 0 auto;
     }
   }
@@ -982,7 +983,7 @@ span.livefr {
   h2 {
     margin-top: 0;
 
-    @include mobile_only {
+    @media (max-width: 500px) {
       margin-top: 1.5rem;
     }
   }
