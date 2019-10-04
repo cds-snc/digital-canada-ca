@@ -26,9 +26,9 @@ languages:
           name: Partnerships
           url: /partnerships/
           weight: 2
-        - identifier: products
-          name: View our products
-          url: /products/
+        - identifier: tools
+          name: Tools and resources
+          url: /tools-and-resources/
           weight: 3
         - identifier: meet-the-team
           name: Who we are
@@ -61,9 +61,9 @@ languages:
           name: Partenariats
           url: /partenariats/
           weight: 2
-        - identifier: produits
-          name: Découvrir nos produits
-          url: /produits/
+        - identifier: outils
+          name: Outils et ressources
+          url: /outils-et-ressources/
           weight: 3
         - identifier: rencontrez-lequipe
           name: Qui nous sommes

@@ -8,19 +8,6 @@
 /*
  * wet-boew plugin CSS overrides
  */
-.wb-mltmd {
-  margin-bottom: 10px;
-  margin-top: 10px; }
-
-.wb-mltmd.video:not(.playing):not(.waiting)
-.display::after {
-  line-height: 1.5em; }
 
 .wb-mm-ctrls .wb-mm-txtonly p {
   white-space: nowrap; }
-
-.dataTables_wrapper .top {
-  font-size: 17px; }
-
-.dataTables_wrapper .top [type=search] {
-  max-width: 205px; }

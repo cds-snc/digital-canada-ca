@@ -1123,7 +1123,15 @@ article.post {
     }
   }
 
-  #mc_embed_signup_scroll { padding: 0; }
+  #mc_embed_signup_scroll { 
+    padding: 0; 
+    display: flex;
+    flex-direction: row;
+
+    @include mobile_only {
+      display: block;
+    }
+  }
 
   label[for="mce-EMAIL"] {
     display: block !important;
@@ -1293,8 +1301,6 @@ article.post {
   }
 }
 
-
-
  ////////////////////////////////////////////////////
 //
 // PARTNERSHIPS PAGE
@@ -1371,5 +1377,16 @@ article.post {
       background: $black;
       color: $white;
     }
+  }
+}
+
+ ////////////////////////////////////////////////////
+//
+// TOOLS AND RESOURCES PAGE
+//
+////////////////////////////////////////////////////
+.tools-and-resources--content {
+  p {
+    margin-bottom: 0;
   }
 }
