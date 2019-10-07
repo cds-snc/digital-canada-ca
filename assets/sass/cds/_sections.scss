@@ -288,7 +288,7 @@
       }
 
       .date {
-        color: $date-grey;
+        color: $section-bg-grey;
         font-size: 1.2rem;
         font-weight: 500;
         margin-top: 1rem;
@@ -915,7 +915,7 @@ span.livefr {
 
   .date {
     font-size: 1.5rem;
-    color: $date-grey;
+    color: $section-bg-grey;
 
     @include tablet {
       font-size: 1.75rem;
