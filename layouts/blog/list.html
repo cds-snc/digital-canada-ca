@@ -1,10 +1,12 @@
+
 <li class="post">
-    <div class="row">
-        <div class="col-xs-12 col-sm-4">
+    <div class="row post-container">
+        <!-- <div class="col-xs-12 col-sm-4"> -->
+        <div class="photo-container">
             <div class="photo" role="img" aria-label='{{ index .Params "image-alt" }}'
                 style="background-image: url('{{ .Params.thumb }}')"></div>
         </div>
-        <div class="col-xs-12 col-sm-8">
+        <div class="text-container">
             <div class="text">
                 <div class="title"><a href="{{ .RelPermalink }}">
                         <h2>{{ .Title | markdownify }}</h2>
