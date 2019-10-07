@@ -416,18 +416,19 @@ span.livefr {
     margin-top: 15px;
     border-radius: 6px;
     font-size: 10pt;
+    text-transform: uppercase;
 
     @include mobile_only {
-      padding: 3px 20px 3px 20px;
+      padding: 4px 10px 3px 10px;
       bottom: 5px;
     }
 
     @include tablet {
-      padding: 5px 20px 5px 20px;
+      padding: 6px 10px 5px 10px;
     }
 
     @include desktop {
-      padding: 5px 30px 5px 30px;
+      padding: 6px 10px 5px 10px;
       font-size: 12pt;
     }
   }
