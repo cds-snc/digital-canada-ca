@@ -16,7 +16,7 @@ We’re transforming government. Our products will impact people’s everyday li
 
 The Canadian Digital Service is focused on delivering better public services using the best technology and design, all informed by people’s needs. We’re hiring people at all levels of experience.
 
-The Outreach Team at CDS tells the stories of the services we help build and the stories of the people who use them. You can learn more about us [here](https://digital.canada.ca/). We’re looking for an Outreach assistant to support our events, storytelling and social media activities. 
+The Outreach Team at CDS tells the stories of the services we help build and the stories of the people who use them. You can learn more about us [here](https://digital.canada.ca/). We're looking for an Outreach student to support our events, storytelling and social media activities, working from our office in Ottawa.
 
 We're looking for someone who will:
 
