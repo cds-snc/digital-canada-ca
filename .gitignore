@@ -5,3 +5,5 @@ resources/*
 .DS_Store
 deploy.md
 Dockerfile
+backstop_data/html_report/
+bitmaps_test/

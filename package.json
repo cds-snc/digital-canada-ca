@@ -14,9 +14,9 @@
     "netlify-cms": "^2.9.1",
     "set-value": "^3.0.1",
     "sharp": "^0.22.1",
+    "snyk": "^1.221.0",
     "style-loader": "^0.23.1",
-    "webpack": "^4.35.3",
-    "snyk": "^1.221.0"
+    "webpack": "^4.35.3"
   },
   "devDependencies": {
     "node-yaml": "^3.2.0",
