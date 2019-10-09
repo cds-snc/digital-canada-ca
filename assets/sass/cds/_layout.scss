@@ -84,6 +84,7 @@
   background: none;
   position: relative;
   border-bottom: 1px solid $black;
+  padding-bottom: 20px;
 }
 
 .page-banner {
@@ -92,7 +93,6 @@
   background-position: center center;
   height: 12rem;
   position: relative;
-  border-top: 20px solid $black;
 
   @include mobile_only {
     border-top: 15px solid $black;
