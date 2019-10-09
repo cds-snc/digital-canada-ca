@@ -18,7 +18,7 @@ Nous transformons le gouvernement. Nos produits généreront des retombées dans
 
 Le Service numérique canadien se concentre sur la prestation de services publics améliorés, en recourant aux meilleures technologies et conceptions et en se fondant sur les besoins des personnes. Nous embauchons des personnes de tous les niveaux d’expérience.
 
-L’équipe de liaison et diffusion du SNC raconte l’histoire des services que nous aidons à bâtir et celle des gens qui les utilisent. Vous pouvez en savoir plus sur nous [ici](https://numerique.canada.ca/). Nous sommes à la recherche d’un assistant de liaison et diffusion qui pourra fournir un soutien pour nos événements, nos mises en récit et nos activités sur les médias sociaux.
+L’équipe de liaison et diffusion du SNC raconte l’histoire des services que nous aidons à bâtir et celle des gens qui les utilisent. Vous pouvez en savoir plus sur nous [ici](https://numerique.canada.ca/). Nous sommes à la recherche d’un assistant de liaison et diffusion qui pourra fournir un soutien pour nos événements, nos mises en récit et nos activités sur les médias sociaux, à partir de notre bureau à Ottawa.
 
 Nous cherchons une personne qui saura :
 
