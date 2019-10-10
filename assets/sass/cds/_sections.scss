@@ -288,7 +288,7 @@
       }
 
       .date {
-        color: $date-grey;
+        color: $section-bg-grey;
         font-size: 1.2rem;
         font-weight: 500;
         margin-top: 1rem;
@@ -372,7 +372,7 @@ span.livefr {
   }
 
 
-  h3 {
+  h4 {
     font-weight: 500;
     margin: 12px 0;
   
@@ -390,7 +390,7 @@ span.livefr {
     }
   }
 
-  h4, p, a {
+  h5, p, a {
     font-size: 18.5px;
     display: inline-block;
   }
@@ -400,67 +400,67 @@ span.livefr {
     color: $black;
   }
 
-  h3.live::after,
-  h3.livefr::after,
-  h3.alpha::after,
-  h3.alphafr::after,
-  h3.discovery::after,
-  h3.découvertefr::after,
-  h3.beta::after,
-  h3.betafr::after {
+  h4.live::after,
+  h4.livefr::after,
+  h4.alpha::after,
+  h4.alphafr::after,
+  h4.discovery::after,
+  h4.découvertefr::after,
+  h4.beta::after,
+  h4.betafr::after {
     display: inline-block;
     position: relative;
     bottom: 10px;
     color: #ffffff;
     margin-left: 0;
-    margin-top: 15px;
-    border-radius: 6px;
-    font-size: 10pt;
+    margin-top: 10px;
+    border-radius: 3px;
+    font-size: 9pt;
+    text-transform: uppercase;
 
     @include mobile_only {
-      padding: 3px 20px 3px 20px;
+      padding: 3px 6.5px 2px 6.5px;
       bottom: 5px;
     }
 
     @include tablet {
-      padding: 5px 20px 5px 20px;
+      padding: 5px 6.5px 4px 6.5px;
     }
 
     @include desktop {
-      padding: 5px 30px 5px 30px;
-      font-size: 12pt;
+      padding: 5px 6.5px 4px 6.5px;
     }
   }
 
-  h3.live::after,
-  h3.livefr::after {
+  h4.live::after,
+  h4.livefr::after {
     content: "Live";
     background-color: $live-color;
   }
 
-  h3.alpha::after,
-  h3.alphafr::after {
+  h4.alpha::after,
+  h4.alphafr::after {
     content: "Alpha";
     background-color: $alpha-color;
   }
 
-  h3.discovery::after,
-  h3.découvertefr::after {
+  h4.discovery::after,
+  h4.découvertefr::after {
     background-color: $discovery-color;
   }
 
-  h3.discovery::after { content: "Discovery"; }
-  h3.découvertefr::after { content: "Découverte"; }
+  h4.discovery::after { content: "Discovery"; }
+  h4.découvertefr::after { content: "Découverte"; }
 
-  h3.beta::after,
-  h3.betafr::after {
+  h4.beta::after,
+  h4.betafr::after {
     background-color: $beta-color;
   }
 
-  h3.beta::after { content: "Beta"; }
-  h3.betafr::after { content: "Bêta"; }
+  h4.beta::after { content: "Beta"; }
+  h4.betafr::after { content: "Bêta"; }
 
-  h4 {
+  h5 {
     font-weight: 100;
 
     @include mobile_only {
@@ -478,7 +478,7 @@ span.livefr {
 
   h1,
   h2,
-  h3 {
+  h4 {
     color: #000000;
   }
 
@@ -915,7 +915,7 @@ span.livefr {
 
   .date {
     font-size: 1.5rem;
-    color: $date-grey;
+    color: $section-bg-grey;
 
     @include tablet {
       font-size: 1.75rem;

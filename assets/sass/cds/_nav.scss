@@ -104,7 +104,7 @@ html .container {
   clear: both;
   text-align: right;
   list-style: none;
-  margin: 1rem auto 1rem auto;
+  margin: 0.5rem auto 0.5rem auto;
   padding: 0;
 
   @include logo_break {
@@ -120,6 +120,10 @@ html .container {
 .top-nav--link {
   display: block;
   text-align: center;
+
+  @include logo_break {
+    padding-bottom: 16px;
+  }
 
   @include mobile_only {
     margin: 2rem 0;
@@ -233,7 +237,7 @@ html .container {
 
         .top-nav {
           left: 0;
-          top: 10rem;
+          top: 8.5rem;
           transform: translateX(0) translateY(0);
         }
       }
