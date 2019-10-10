@@ -121,9 +121,12 @@ html .container {
   display: block;
   text-align: center;
 
+  @include logo_break {
+    padding-bottom: 16px;
+  }
+
   @include mobile_only {
     margin: 2rem 0;
-    padding-bottom: 16px;
   }
 
   // below used to be @include tablet
