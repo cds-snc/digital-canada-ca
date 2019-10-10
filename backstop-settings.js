@@ -1,26 +1,28 @@
 // How to use
 /*
 step # 1
-  Please update this with the huroku deployment id or your pull request ID
+  Please update this with the Heroku deployment id or your pull request ID
 */
-var deploymentId = "1097";
+var deploymentId = "1107";
 
 /*
 Step # 2
 
-Run the follwoing commands in your termnal based on your prefered test cases bleow
+Run the following commands in your terminal based on your prefered test cases bleow
 
 ------------------------------------------
-  To test deafualt setting (only homepage)
+  To test default setting (only Homepage)
 ------------------------------------------
+  1. run command on all devices - this prepares everything to initiate the test
   backstop reference --configPath=backstop-settings.js
+  2. initiates the test and compares to production
   backstop test --configPath=backstop-settings.js
 
 -------------------------------------------------------------------------------
-To test specific pages of your choice add the page name followed by a comma
+To test specific pages of your choice, add the page name, followed by a comma
 -------------------------------------------------------------------------------
-  backstop reference --configPath=backstop-settings.js --paths=/,/partenership
-  backstop test --configPath=backstop-settings.js --paths=/,/partenership
+  backstop reference --configPath=backstop-settings.js --paths=/,/partnerships
+  backstop test --configPath=backstop-settings.js --paths=/,/partnerships
 
 -------------------------------------
 To test the entire site all at once
@@ -30,7 +32,7 @@ To test the entire site all at once
 */
 
 /*
-That's all no watch your browser doing some magic :)
+That's all! Now watch your browser do some magic :)
 */
 var arguments = require('minimist')(process.argv.slice(2)); // grabs the process arguments
 var defaultPaths = ['/']; // By default is just checks the homepage
