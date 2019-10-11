@@ -909,8 +909,11 @@ span.livefr {
   }
 
   .post {
-    padding: 3rem 0rem;
-    border-bottom: #ccc 1px solid;
+    // padding: 3rem 0rem;
+    background-color: #FFFFFF;
+    margin-bottom: 2em;
+    box-shadow: 5px 8px 5px #E1E4E7;
+    border-bottom: 5px solid $primary-color;
   }
 
   .date {
@@ -928,56 +931,20 @@ span.livefr {
     font-size: 2.25rem;
     margin-bottom: 1.25rem;
   }
-
-  .post-container {
-    display: flex;
-    flex-direction: row;
-
-    @media (max-width: 500px) {
-      display: block;
-    }
-  }
-
+  
   .photo-container {
-    width: calc(30% - 30px/2);
-    margin-right: 30px;
-    height: 15rem;
-
-    @include desktop {
-      height: 20rem;
-    }
-
-    @include mobile_only {
-      margin-right: 20px;
-      width: calc(30% - 20px/2);
-    }
-
-    @media (max-width: 500px) {
-      width: 85%;
-      margin: 0 auto;
-      height: 20rem;
-    }
+    height: 250px;
+    width: 100%;
   }
 
   .photo {
-    display: block;
+    display: inline-block;
     height: 100%;
     width: 100%;
-    background-size: cover;
+    background-size: 100%;
     background-position: center center;
-  }
-
-  .text-container {
-    width: calc(70% - 30px/2);
-
-    @include mobile_only {
-      width: calc(70% - 20px/2);
-    }
-
-    @media (max-width: 500px) {
-      width: 85%;
-      margin: 0 auto;
-    }
+    background-repeat: no-repeat;
+    object-fit: cover;
   }
 
   h2 {
@@ -986,6 +953,10 @@ span.livefr {
     @media (max-width: 500px) {
       margin-top: 1.5rem;
     }
+  }
+
+  .text-container {
+    padding: 25px;
   }
 
   .text {
