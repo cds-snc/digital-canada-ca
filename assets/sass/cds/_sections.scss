@@ -935,7 +935,15 @@ span.livefr {
     box-shadow: 5px 8px 5px #E1E4E7;
     border-bottom: 5px solid $primary-color;
     margin: 0 auto;
-    // height: 82rem;
+    height: 700px;
+
+    @media (max-width: 1015px) {
+      height: 850px;
+    }
+
+    @include mobile_only {
+      height: 550px;
+    }
   }
 
   .date {
@@ -970,12 +978,14 @@ span.livefr {
     background-size: 100%;
     background-position: center center;
     background-repeat: no-repeat;
-    object-fit: cover;
+  }
+
+  .text {
+    line-height: 1.4;
   }
 
   h2 {
     margin-top: 0;
-    line-height: 1.25;
     font-size: 24px;
   }
 
@@ -994,7 +1004,6 @@ span.livefr {
   .summary {
     color: $icon-grey;
     font-size: 18.5px;
-    line-height: 1.4;
   }
 
   .readmore {
