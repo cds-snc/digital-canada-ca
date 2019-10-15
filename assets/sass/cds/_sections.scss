@@ -949,6 +949,7 @@ span.livefr {
   .date {
     font-size: 1.5rem;
     color: $section-bg-grey;
+    padding: 5px 0;
 
     @include tablet {
       font-size: 1.75rem;
