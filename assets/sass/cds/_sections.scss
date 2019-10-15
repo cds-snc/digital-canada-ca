@@ -896,12 +896,16 @@ span.livefr {
 //
 ////////////////////////////////////////////////////
 .blogpost-list {
-  margin: 0 auto;
   padding: 0;
   list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 
   @include mobile_only {
-    width: 90%;
+    flex-direction: column;
+    width: 80%;
+    margin: 0 auto 30px auto;
   } 
 
   .post:first-child {
@@ -909,11 +913,29 @@ span.livefr {
   }
 
   .post {
-    // padding: 3rem 0rem;
+    width: calc(50% - 30px/2);
+    margin-bottom: 30px;
+
+    @include mobile_only {
+      width: 100%;
+      margin: 0 auto 30px;
+    }
+  }
+
+  .post:nth-child(odd) {
+    margin-right: 30px;
+    
+    @include mobile_only {
+      margin-right: 0;
+    }
+  }
+
+  .post-container {
     background-color: #FFFFFF;
-    margin-bottom: 2em;
     box-shadow: 5px 8px 5px #E1E4E7;
     border-bottom: 5px solid $primary-color;
+    margin: 0 auto;
+    // height: 82rem;
   }
 
   .date {
@@ -931,10 +953,14 @@ span.livefr {
     font-size: 2.25rem;
     margin-bottom: 1.25rem;
   }
-  
+
   .photo-container {
     height: 250px;
     width: 100%;
+
+    @include logo_break {
+      height: 200px;
+    }
   }
 
   .photo {
@@ -1007,6 +1033,7 @@ span.livefr {
   & .blogpost-paginator {
     text-align: center;
     padding: 0;
+    width: 100%;
 
     a {
       text-decoration: none;
