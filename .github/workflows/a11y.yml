@@ -1,6 +1,6 @@
 name: A11y
 
-on: [push]
+on: [deployment_status]
 
 jobs:
   a11y:
