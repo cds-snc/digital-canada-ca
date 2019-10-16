@@ -24,6 +24,7 @@ jobs:
       - uses: srt32/git-actions@v0.0.3
       - run: git status
       - run: git remote -v
+      - run: git branch
 
       - name: Commit changes
         run: |
@@ -31,11 +32,11 @@ jobs:
           git config --local user.name "${GITHUB_ACTOR}"
           git commit -am "Auto-commit update images"
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      # - uses: docker://cdssnc/auto-commit-github-action
-      #  with:
-      #    args: "Skip CI - Processed images"
-      #    github_token: ${{ secrets.GITHUB_TOKEN }}
+#      - name: Push changes
+#        uses: ad-m/github-push-action@master
+#        with:
+#          github_token: ${{ secrets.GITHUB_TOKEN }}
+# - uses: docker://cdssnc/auto-commit-github-action
+#  with:
+#    args: "Skip CI - Processed images"
+#    github_token: ${{ secrets.GITHUB_TOKEN }}
