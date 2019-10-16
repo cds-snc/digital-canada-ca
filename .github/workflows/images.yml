@@ -23,7 +23,7 @@ jobs:
 
       - uses: srt32/git-actions@v0.0.3
       - run: git status
-      - run: get remote -v
+      - run: git remote -v
 
       #      - name: Commit changes
       #        run: |
