@@ -30,4 +30,4 @@ jobs:
         with:
           args: "Skip CI - Processed images"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ GITHUB_TOKEN }}
