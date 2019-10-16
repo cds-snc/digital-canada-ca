@@ -1,9 +1,9 @@
 ---
-title: Un guide pour les entrevues
+title: Un guide pour les entrevues de recherche
 translationKey: guide-interviewing
 phase: live
 description: >-
-  L’abc des entrevues.
+  L’abc des entrevues de recherche.
 contact:
   - email: colin.macarthur@tbs-sct.gc.ca
     name: Colin MacArthur
