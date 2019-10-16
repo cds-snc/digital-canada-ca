@@ -1,0 +1,8 @@
+name: CI
+
+on: [push]
+
+jobs:
+  a11y:
+    steps:
+      - uses: docker://cdssnc/ally-multiple-page-checker:latest
