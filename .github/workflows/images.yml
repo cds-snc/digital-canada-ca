@@ -25,18 +25,17 @@ jobs:
       - run: git status
       - run: git remote -v
 
-      #      - name: Commit changes
-      #        run: |
-      #          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-      #          git config --local user.name "${GITHUB_ACTOR}"
-      #          git commit -am "Auto-commit update images"
+      - name: Commit changes
+        run: |
+          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git config --local user.name "${GITHUB_ACTOR}"
+          git commit -am "Auto-commit update images"
 
-      #      - name: Push changes
-      #        uses: ad-m/github-push-action@master
-      #        with:
-      #          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: docker://cdssnc/auto-commit-github-action
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          args: "Skip CI - Processed images"
           github_token: ${{ secrets.GITHUB_TOKEN }}
+      # - uses: docker://cdssnc/auto-commit-github-action
+      #  with:
+      #    args: "Skip CI - Processed images"
+      #    github_token: ${{ secrets.GITHUB_TOKEN }}
