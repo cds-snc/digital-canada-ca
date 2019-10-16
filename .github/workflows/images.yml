@@ -11,16 +11,14 @@ jobs:
     name: Process Images
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@master
-      - name: Install dependencies
-        uses: actions/setup-node@master
+      - uses: actions/checkout@master
+
+      - uses: actions/setup-node@master
         with:
           node-version: 10.x
       - run: npm install
 
-      - name: Process images
-        uses: actions/setup-node@master
+      - uses: actions/setup-node@master
         with:
           node-verion: 10.x
       - run: npm run process:images
