@@ -25,9 +25,9 @@ jobs:
 
       - uses: srt32/git-actions@v0.0.3
       - run: git status
-      #- name: Commit changes
-      #  uses: docker://cdssnc/auto-commit-github-action
-      #  with:
-      #    args: "Skip CI - Processed images"
-      #  env:
-      #    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: docker://cdssnc/auto-commit-github-action
+        with:
+          args: "Skip CI - Processed images"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
