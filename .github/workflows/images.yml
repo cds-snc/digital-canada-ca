@@ -23,7 +23,7 @@ jobs:
           node-verion: 10.x
       - run: npm run process:images
 
-      - uses: srt32/git-actions
+      - uses: srt32/git-actions@v0.0.3
       - run: git status
       #- name: Commit changes
       #  uses: docker://cdssnc/auto-commit-github-action
