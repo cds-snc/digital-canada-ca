@@ -4,5 +4,7 @@ on: [push]
 
 jobs:
   a11y:
+    name: Accessibility Check
+    runs-on: ubuntu-latest
     steps:
       - uses: docker://cdssnc/ally-multiple-page-checker:latest
