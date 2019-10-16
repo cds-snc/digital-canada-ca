@@ -1,0 +1,27 @@
+name: Process Images
+
+on:
+  push:
+    branches:
+      - "*"
+      - "!master"
+
+jobs:
+  process:
+    name: Process Images
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        uses: actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680
+        with:
+          args: install
+      - name: Process images
+        uses: actions/npm@59b64a598378f31e49cb76f27d6f3312b582f680
+        with:
+          args: run process:images
+      - name: Commit changes
+        uses: docker://cdssnc/auto-commit-github-action
+        with:
+          args: "Skip CI - Processed images"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
