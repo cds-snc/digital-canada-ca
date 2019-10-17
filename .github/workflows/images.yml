@@ -14,7 +14,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
         with:
-          ref: ${GITHUB_REF}
+          ref: ${{ GITHUB_REF }}
 
       #- name: Build and process images
       #  uses: actions/setup-node@master
