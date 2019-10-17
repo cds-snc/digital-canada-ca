@@ -12,26 +12,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v1
 
-      - name: Build and process images
-        uses: actions/setup-node@master
-        with:
-          node-version: 10.x
-      - run: npm install
-      - run: npm run process:images
+      #- name: Build and process images
+      #  uses: actions/setup-node@master
+      #  with:
+      #    node-version: 10.x
+      #- run: npm install
+      #- run: npm run process:images
 
       - uses: srt32/git-actions@v0.0.3
       - run: git status
       - run: git remote -v
       - run: git branch
-
-      - name: Commit changes
-        run: |
-          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git config --local user.name "${GITHUB_ACTOR}"
-          git commit -am "Auto-commit update images"
-
+      #- name: Commit changes
+      #  run: |
+      #    git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+      #    git config --local user.name "${GITHUB_ACTOR}"
+      #    git commit -am "Auto-commit update images"
 #      - name: Push changes
 #        uses: ad-m/github-push-action@master
 #        with:
