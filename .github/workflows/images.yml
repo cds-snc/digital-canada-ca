@@ -28,31 +28,29 @@ jobs:
       - run: git status
       - run: git remote -v
       - run: git branch
+      - run: git diff --quiet
       - run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "Github Actor"
-          git remote set-url origin https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-commit update images"; git push origin HEAD)
-          # git commit -am "Auto-commit update images"
+          git commit -am "Auto-commit update images"
 
-#      - name: Push changes
-#        uses: ad-m/github-push-action@master
-#        with:
-#          github_token: ${{ secrets.GITHUB_TOKEN }}
-#          branch: ${{ github.ref }}
-# git push -u origin HEAD
-# git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF}
-#- name: Commit changes
-#  run: |
-#    git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-#    git config --local user.name "${GITHUB_ACTOR}"
-#    git commit -am "Auto-commit update images"
-#      - name: Push changes
-#        uses: ad-m/github-push-action@master
-#        with:
-#          github_token: ${{ secrets.GITHUB_TOKEN }}
-#- uses: docker://cdssnc/auto-commit-github-action
-#  with:
-#    args: "Skip CI - Processed images"
-#    github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          # git push -u origin HEAD
+          # git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF}
+      #- name: Commit changes
+      #  run: |
+      #    git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+      #    git config --local user.name "${GITHUB_ACTOR}"
+      #    git commit -am "Auto-commit update images"
+      #      - name: Push changes
+      #        uses: ad-m/github-push-action@master
+      #        with:
+      #          github_token: ${{ secrets.GITHUB_TOKEN }}
+      #- uses: docker://cdssnc/auto-commit-github-action
+      #  with:
+      #    args: "Skip CI - Processed images"
+      #    github_token: ${{ secrets.GITHUB_TOKEN }}
