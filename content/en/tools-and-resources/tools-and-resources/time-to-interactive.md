@@ -9,6 +9,6 @@ contact:
     name: The Platform Team
 status: in-flight
 links:
-  - name: GitHub
+  - name: Time to interactive tracking
     url: "https://github.com/cds-snc/tti-tools-tracker"
 ---

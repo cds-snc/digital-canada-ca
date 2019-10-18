@@ -9,7 +9,7 @@ contact:
     name: Équipe des plateformes
 status: in-flight
 links:
-  - name: GitHub
+  - name: Vérificateur de renseignements d’identification personnelle
     url: 'https://github.com/cds-snc/pii-checker'
 ---
 
