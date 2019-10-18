@@ -9,6 +9,6 @@ contact:
     name: The Platform Team
 status: in-flight
 links:
-  - name: GitHub
+  - name: Bundle size tracker
     url: "https://github.com/cds-snc/bundle-size-tracker"
 ---
