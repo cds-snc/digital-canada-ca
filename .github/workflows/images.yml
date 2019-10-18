@@ -29,11 +29,17 @@ jobs:
       - run: git remote -v
       - run: git branch
       - run: |
-          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git config --local user.name "${GITHUB_ACTOR}"
+          git config --local user.email "actions@github.com"
+          git config --local user.name "Github Actor"
           git commit -am "Auto-commit update images"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
           # git push -u origin HEAD
-          git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF}
+          # git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF}
       #- name: Commit changes
       #  run: |
       #    git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
