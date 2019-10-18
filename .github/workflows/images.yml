@@ -32,7 +32,7 @@ jobs:
           git config --local user.name "${GITHUB_ACTOR}"
           git commit -am "Auto-commit update images"
           # git push -u origin HEAD
-          git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${github.ref}
+          git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF}
       #- name: Commit changes
       #  run: |
       #    git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
