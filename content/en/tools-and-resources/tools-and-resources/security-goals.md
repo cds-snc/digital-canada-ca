@@ -9,6 +9,6 @@ contact:
     name: The Platform Team
 status: in-flight
 links:
-  - name: GitHub
+  - name: Security goals
     url: "https://github.com/cds-snc/security-goals"
 ---

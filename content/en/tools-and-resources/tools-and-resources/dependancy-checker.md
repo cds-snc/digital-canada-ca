@@ -9,6 +9,6 @@ contact:
     name: The Platform Team
 status: in-flight
 links:
-  - name: GitHub
+  - name: Dependency checker
     url: "https://github.com/cds-snc/dependency-checker"
 ---

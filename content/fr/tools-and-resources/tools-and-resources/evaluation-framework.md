@@ -10,6 +10,6 @@ contact:
 phase: live
 status: in-flight
 links:
-  - name: Documentation
+  - name: Cadre d’évaluation des produits du SNC
     url: "/outils-et-ressources/cadre-devaluation/"
 ---

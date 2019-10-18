@@ -9,6 +9,6 @@ contact:
     name: The Platform Team
 status: in-flight
 links:
-  - name: GitHub
+  - name: Personal identifiable information checking
     url: "https://github.com/cds-snc/pii-checker"
 ---

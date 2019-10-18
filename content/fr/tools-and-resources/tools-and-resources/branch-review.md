@@ -9,7 +9,7 @@ contact:
     name: Équipe des plateformes
 status: in-flight
 links:
-  - name: GitHub
+  - name: Examens Kubernetes des branches
     url: 'https://github.com/cds-snc/kubernetes-branch-review'
 ---
 

@@ -128,8 +128,9 @@
   }
 
   p {
-    margin-bottom: 0;
+    margin-bottom: 10px;
   }
+ 
 }
 
 .homepage--our-team {
@@ -372,7 +373,8 @@ span.livefr {
   }
 
 
-  h4 {
+  h4, 
+  .title-link {
     font-weight: 500;
     margin: 12px 0;
   
@@ -398,6 +400,10 @@ span.livefr {
   a {
     text-decoration: underline;
     color: $black;
+
+    &:hover {
+      color: $dark-grey;
+    }
   }
 
   h4.live::after,
@@ -486,8 +492,7 @@ span.livefr {
 }
 
 .work-in-progress--platform-module {
-  padding-top: 0;
-  padding-bottom: 0;
+  padding: 10px;
 }
 
 .work-in-progress--product-summary {
