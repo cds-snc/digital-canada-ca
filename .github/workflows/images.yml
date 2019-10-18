@@ -16,17 +16,23 @@ jobs:
         with:
           ref: ${{ github.ref }}
 
-      #- name: Build and process images
-      #  uses: actions/setup-node@master
-      #  with:
-      #    node-version: 10.x
-      #- run: npm install
-      #- run: npm run process:images
+      - name: Build and process images
+        uses: actions/setup-node@master
+        with:
+          node-version: 10.x
+      - run: npm install
+      - run: npm run process:images
 
       - uses: srt32/git-actions@v0.0.3
       - run: git status
       - run: git remote -v
       - run: git branch
+      - run: |
+          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git config --local user.name "${GITHUB_ACTOR}"
+          git commit -am "Auto-commit update images"
+          git push -u origin HEAD
+          # git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${github.ref}
       #- name: Commit changes
       #  run: |
       #    git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
