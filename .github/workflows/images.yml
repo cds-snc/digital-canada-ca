@@ -15,6 +15,7 @@ jobs:
         uses: actions/checkout@v1
         with:
           ref: ${{ github.ref }}
+          fetch-depth: 1
 
       - name: Build and process images
         uses: actions/setup-node@master
@@ -32,7 +33,7 @@ jobs:
           git config --local user.name "${GITHUB_ACTOR}"
           git commit -am "Auto-commit update images"
           # git push -u origin HEAD
-          git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF}
+          git push "https://${secrets.GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:${GITHUB_REF}
       #- name: Commit changes
       #  run: |
       #    git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
