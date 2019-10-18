@@ -33,7 +33,7 @@ jobs:
           git config --local user.name "Github Actor"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-commit update images"; git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-commit update images"; git push origin HEAD)
           # git commit -am "Auto-commit update images"
 
 #      - name: Push changes
