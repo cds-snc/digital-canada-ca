@@ -9,6 +9,6 @@ contact:
     name: The Platform Team
 status: in-flight
 links:
-  - name: GitHub
+  - name: Kubernetes branch reviews
     url: "https://github.com/cds-snc/kubernetes-branch-review"
 ---

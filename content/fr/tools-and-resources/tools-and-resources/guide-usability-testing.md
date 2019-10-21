@@ -10,6 +10,6 @@ contact:
 phase: live
 status: in-flight
 links:
-  - name: Documentation
+  - name: Un guide pour les tests d’utilisabilité
     url: "/outils-et-ressources/guide-tests-d-utilisabilite/"
 ---

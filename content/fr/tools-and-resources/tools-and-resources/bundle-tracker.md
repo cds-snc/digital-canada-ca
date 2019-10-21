@@ -9,7 +9,7 @@ contact:
     name: Équipe des plateformes
 status: in-flight
 links:
-  - name: GitHub
+  - name: Outil de suivi de la taille des paquets
     url: 'https://github.com/cds-snc/bundle-size-tracker'
 ---
 

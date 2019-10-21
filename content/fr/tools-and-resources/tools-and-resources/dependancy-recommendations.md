@@ -9,7 +9,7 @@ contact:
     name: Équipe des plateformes
 status: in-flight
 links:
-  - name: GitHub
+  - name: Vérificateur des dépendances
     url: 'https://github.com/cds-snc/dependency-checker'
 ---
 

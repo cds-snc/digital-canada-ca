@@ -10,6 +10,6 @@ contact:
     name: Colin MacArthur
 status: in-flight
 links:
-  - name: Documentation
+  - name: A guide to usability testing
     url: "/tools-and-resources/guide-usability-testing/"
 ---

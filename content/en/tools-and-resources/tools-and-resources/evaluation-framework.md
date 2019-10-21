@@ -10,6 +10,6 @@ contact:
     name: Ross Ferguson
 status: in-flight
 links:
-  - name: Documentation
+  - name: CDS Product Evaluation Framework
     url: "/tools-and-resources/evaluation-framework/"
 ---
