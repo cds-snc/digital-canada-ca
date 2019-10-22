@@ -8,7 +8,7 @@ description: >-
   recherche d’un assistant de liaison et diffusion qui pourra fournir un soutien
   pour nos événements, nos mises en récit et nos activités sur les médias
   sociaux.
-archived: false
+archived: true
 leverId: a1862a96-ae11-4f7b-895b-82f35159761a
 translationKey: outreach-assistant
 ---
