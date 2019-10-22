@@ -6,7 +6,7 @@ description: >-
   The Outreach Team at CDS tells the stories of the services we help build and
   the stories of the people who use them. We’re looking for an Outreach
   assistant to support our events, storytelling and social media activities. 
-archived: false
+archived: true
 leverId: b750a30c-aff0-44f4-9b53-b7ac76d8e50e
 translationKey: outreach-assistant
 ---
