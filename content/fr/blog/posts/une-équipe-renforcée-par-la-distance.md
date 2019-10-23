@@ -13,8 +13,7 @@ image-alt: >-
   Cinq membres d’équipe communiquent entre eux à l’aide de différents appareils
   et à partir de lieux différents.
 translationKey: distributed-pm
-thumb: ''
-processed: ''
+thumb: /img/cds/distributed-pm-blog.jpg
 ---
 Je suis arrivé au Service numérique canadien (SNC) par une froide journée de janvier. Je me suis rendu au bureau d’Ottawa pour une période d’intégration de deux semaines, après quoi je devais retourner chez moi, à Kitchener-Waterloo, où il fait *un peu moins* froid, pour travailler à temps plein. 
 
