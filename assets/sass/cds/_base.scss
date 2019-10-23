@@ -20,6 +20,10 @@
 
 
 // CDS Base Styles and Style Overrides
+html {
+	// This sets the base font size as 1rem or 10px. 
+	font-size: 62.5%; 
+}
 
 body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
 	font-family	: "HKGrotesk", sans-serif !important;
@@ -121,7 +125,8 @@ h2 {
 
 h3 {
 	font-weight: 600;
-	font-size: 1.1em;
+	font-size: 2.2rem;
+
 }
 
 .underline {
@@ -182,7 +187,7 @@ html .container {
 		position: absolute;
 		height: 3px;
 		background: $primary-color;
-		bottom:-1.5rem;
+		bottom: -1.5rem;
 		width: 5rem;
 		left: 50%;
 		transform: translateX(-50%);

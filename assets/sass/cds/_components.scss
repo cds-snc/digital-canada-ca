@@ -16,7 +16,7 @@
 
 	.pause-ico {
 		border: $white 2px solid;
-		border-radius:50%;
+		border-radius: 50%;
 		display: inline-block;
 		margin-right: 0.4rem;
 		padding: 0.75rem;
@@ -196,12 +196,10 @@
 	}
 
 	.social-icons a {
-		/*display: inline-block;*/
-		display:inline-flex;
+		display: inline-flex;
 		justify-content: center;
-		font-size:1.1em;
+		font-size: 2.2rem;
 		padding: 1.5rem 1.8rem;
-		color: $icon-grey;
 
 		&:hover {
 			background: $primary-color;
@@ -254,7 +252,6 @@
 		background: $bg-color;
 		border: $primary-color 4px solid;
 		border-radius:100%;
-//		padding: 2rem;
 		min-width: 10rem;
 		min-height: 10rem;
 
@@ -268,7 +265,6 @@
 		}
 
 		@include desktop {
-//			padding: 2.5rem;
 			top: -3rem;
 		}
 
@@ -376,6 +372,7 @@
 	p {
 		margin-bottom: 2.75rem;
 		line-height: 1.6em;
+		
 		@include desktop{
 			font-size: 2.25rem;
 		}
