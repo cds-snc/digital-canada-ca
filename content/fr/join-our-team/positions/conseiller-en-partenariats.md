@@ -4,7 +4,7 @@ type: section
 title: Conseiller en partenariats
 description: >-
   Si vous êtes prêt à travailler au sein d’une petite équipe, à aider le SNC à bâtir une collectivité plus vaste et à offrir la plus grande valeur publique possible grâce à nos partenariats, ce rôle vous convient.
-archived: false
+archived: true
 leverId: 78f268dd-f9af-4822-b214-65ac8332c5ad
 translationKey: partnerships-advisor
 ---
