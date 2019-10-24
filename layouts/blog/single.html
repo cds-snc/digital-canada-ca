@@ -8,39 +8,46 @@
 {{end}}
 
 {{define "main"}}  
-  <div class="container">
+  <!-- <div class="container"> -->
   <section class="page--outer-container-padding">
     <div class="row">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+      <div class="">
         {{ with index .Params "image-translation" }}
           <div class="header-translation"><strong>Traduction&nbsp;:&nbsp;</strong>{{ index .Params "image-translation" }}</div>
         {{ end }}
 
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-          <div class="post-header">
-            <span class="blogpost-pretitle">
-              <a href="/blog/">{{i18n "blog"}}</a>
-            </span>
-            <h1>{{ .Params.title | markdownify }}</h1>
-            <p class="post-meta">
-              <time datetime="{{ .Params.date }}" itemprop="datePublished">
-              {{ if eq .Lang "en" }}                
-                 {{ .Date.Format "Jan 2, 2006" }}
-              {{ end }}     
+            <div class="post-header">
+                <div class="post-title-container">
+                  <div class="container">
+                    <span class="blogpost-pretitle">
+                      <a href="/blog/">{{i18n "blog"}} /</a>
+                    </span>
+                    <h1>{{ .Params.title | markdownify }}</h1>
+                  </div>
+                </div>
+                <div class="container">
+                  <p class="post-meta">
+                    <time datetime="{{ .Params.date }}" itemprop="datePublished">
+                    {{ if eq .Lang "en" }}                
+                      {{ .Date.Format "Jan 2, 2006" }}
+                    {{ end }}     
 
-              {{ if eq .Lang "fr" }}                
-                 {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
-              {{ end }}  
-              </time>          
-              <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-                <span itemprop="name">{{ .Params.author }}</span>
-              </span>
-            </p>
+                    {{ if eq .Lang "fr" }}                
+                      {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
+                    {{ end }}  
+                    </time>          
+                    <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                      <span itemprop="name">{{ .Params.author }}</span>
+                    </span>
+                  </p>
+                </div>
+              </div>
+              <div class="container">
+              <div class="post-content" itemprop="articleBody">
+                  {{ .Content }}
+              </div>
           </div>
-          <div class="post-content" itemprop="articleBody">
-              {{ .Content }}
-          </div>
-
         </article>
         <div class="previous-next-nav">
             <div class="pull-left text-left mrgn-bttm-lg col-md-6 col-sm-12">
@@ -66,5 +73,5 @@
             </div>
           </div>
           </section>
-  </div>
+  <!-- </div> -->
 {{ end }}

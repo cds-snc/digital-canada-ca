@@ -1057,11 +1057,11 @@ span.livefr {
 }
 
 article.post {
-  padding: 6rem 0;
+  // padding: 6rem 0;
 
-  @include mobile_only {
-    padding: 3rem 0;
-  }
+  // @include mobile_only {
+  //   padding: 3rem 0;
+  // }
 
   img {
     width: 100%;
@@ -1080,7 +1080,12 @@ article.post {
   .post-header {
     font-weight: 500;
     font-size: 1.5rem;
-    margin: 1rem 0 2rem 0;
+    margin: 0rem 0 2rem 0;
+
+    .post-title-container {
+      background: $black;
+      padding: 25px 0;
+    }
 
     time {
       display: block;
