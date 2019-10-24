@@ -909,16 +909,13 @@ span.livefr {
   padding: 0;
   list-style: none;
 
-  @include mobile_only {
-    width: 90%;
-  } 
-
   .post:first-child {
     padding-top: 0;
   }
 
   .post {
-    padding: 3rem 0rem;
+    margin: 0 auto;
+    padding: 3rem 3rem;
     border-bottom: #ccc 1px solid;
   }
 
