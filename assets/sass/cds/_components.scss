@@ -370,4 +370,34 @@
 			font-size: 2.25rem;
 		}
 	}
+
+	// Single blog page navigation
+	.previous-next-nav {
+		background: $primary-color;
+		padding: 35px 0;
+
+		.fa-arrow-circle-left {
+			margin-right: 10px;
+		}
+
+		.fa-arrow-circle-right {
+			margin-left: 10px;
+		}
+	}
+
+	.nav-post-title {
+		font-weight: 100;
+		text-decoration: none;
+		margin-top: 0;
+		max-width: 500px;
+	}
+
+	.nav-post-title-left {
+		margin-left: 38px;
+	}
+
+	.nav-post-title-right {
+		margin-right: 38px;
+
+	}
 }

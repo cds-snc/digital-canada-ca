@@ -1056,13 +1056,11 @@ span.livefr {
   }
 }
 
+.blog-single {
+  background: $light-grey;
+}
+
 article.post {
-  // padding: 6rem 0;
-
-  // @include mobile_only {
-  //   padding: 3rem 0;
-  // }
-
   img {
     width: 100%;
   }

@@ -9,7 +9,7 @@
 
 {{define "main"}}  
   <!-- <div class="container"> -->
-  <section class="page--outer-container-padding">
+  <section class="blog-single">
     <div class="row">
       <div class="">
         {{ with index .Params "image-translation" }}
@@ -50,28 +50,29 @@
           </div>
         </article>
         <div class="previous-next-nav">
-            <div class="pull-left text-left mrgn-bttm-lg col-md-6 col-sm-12">
+          <div class="container">
+            <div class="pull-left text-left">
                 {{with .PrevInSection }}
                 <a href="{{ .RelPermalink }}">
-                  <span class="fa fa-arrow-left"></span>
+                  <span class="fas fa-arrow-circle-left"></span>
                   {{i18n "previous-post"}}<span class="wb-inv">:</span>
-                  <h5 class="mrgn-lft-md mrgn-tp-0 mrgn-bttm-0">{{ .Params.title | markdownify }}</h5>
+                  <h5 class="nav-post-title nav-post-title-left">{{ .Params.title | markdownify }}</h5>
                 </a>
                 {{end}}
               </div>
             
-              <div class="pull-right text-right mrgn-bttm-lg col-md-6 col-sm-12">
+              <div class="pull-right text-right">
                 {{with .NextInSection }}
                 <a href="{{ .RelPermalink }}">{{i18n "next-post"}}<span class="wb-inv">:</span>
-                  <span class="fa fa-arrow-right"></span>
-                  <h5 class="mrgn-rght-md mrgn-tp-0 mrgn-bttm-0">{{ .Params.title | markdownify }}</h5>
+                  <span class="fas fa-arrow-circle-right"></span>
+                  <h5 class="nav-post-title nav-post-title-right">{{ .Params.title | markdownify }}</h5>
                 </a>
                 {{ end }}
-              
                 </div>
+              </div>
               </div>
             </div>
           </div>
-          </section>
+        </section>
   <!-- </div> -->
 {{ end }}
