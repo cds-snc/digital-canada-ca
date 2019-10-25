@@ -294,11 +294,11 @@
 // Blogpost page
 .page-blogpost {
 	h1 {
-		font-size: 4.5rem;
+		font-size: 4.6rem;
 		font-weight: 100;
 		margin-top: 0;
 		margin-top: 1.5rem;
-		color: $black;
+		color: $primary-color;
 		margin-left: 0;
 		margin-right: 0;
 		padding-left: 0;
@@ -339,32 +339,25 @@
 
 	.blogpost-pretitle {
 		font-size: 2rem;
-		text-transform: uppercase;
-		font-weight: bold;
 		position: relative;
 
-
-		&:after {
-			content: '';
-			position: absolute;
-			display: block;
-			background: $primary-color;
-			width: 100%;
-			height: 3px;
-			bottom: -0.5rem;
-			left: 0;
+		a {
+			text-decoration: none;
+			color: $white;
+			font-weight: 100;
 		}
-
 	}
+
 
 	.post-meta {
 		margin: 2.5rem 0;
+		padding-bottom: 10px;
 		position: relative;
 		display: block;
+		border-bottom: 1.5px solid $medium-grey;
 	}
 
 	time {
-		margin-bottom: 1.75rem;
 		font-size: 2rem;
 		font-weight: 100 !important;
 	}
@@ -376,5 +369,35 @@
 		@include desktop{
 			font-size: 2.25rem;
 		}
+	}
+
+	// Single blog page navigation
+	.previous-next-nav {
+		background: $primary-color;
+		padding: 35px 0;
+
+		.fa-arrow-circle-left {
+			margin-right: 10px;
+		}
+
+		.fa-arrow-circle-right {
+			margin-left: 10px;
+		}
+	}
+
+	.nav-post-title {
+		font-weight: 100;
+		text-decoration: none;
+		margin-top: 0;
+		max-width: 500px;
+	}
+
+	.nav-post-title-left {
+		margin-left: 35px;
+	}
+
+	.nav-post-title-right {
+		margin-right: 35px;
+
 	}
 }
