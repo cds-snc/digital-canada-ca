@@ -2,7 +2,7 @@
 type: a11y
 layout: default
 title: Services d'accessibilité pour les équipes du SNC
-translationKey: accessibility-services-for-cds-teams
+translationKey: services-d-accessibilite-pour-les-equipes-du-SNC
 ---
 
 Le SNC fournit des services d’accessibilité spécialement pour ses équipes.
