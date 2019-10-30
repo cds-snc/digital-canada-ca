@@ -178,6 +178,8 @@ spa-research:
   other: "Take part in our research"
 cppd-research:
   other: "Take part in our research"
+rcmp-research:
+  other: "Take part in our research"
 subscribe-title:
   other: "Subscribe to our newsletter!"
 subscribe-note:
