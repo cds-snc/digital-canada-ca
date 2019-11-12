@@ -10,5 +10,5 @@ contact:
 status: in-flight
 links:
   - name: Liste de lecture sur le gouvernement numérique
-    url: "/outils-et-ressources/guide-entrevue/"
+    url: "/outils-et-ressources/liste-lecture-concernant/"
 ---
