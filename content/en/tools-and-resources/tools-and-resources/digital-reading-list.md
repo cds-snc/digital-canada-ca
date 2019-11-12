@@ -11,5 +11,5 @@ contact:
 status: in-flight
 links:
   - name: Digital government reading list
-    url: "/tools-and-resources/guide-interviewing/"
+    url: "/tools-and-resources/digital-reading-list/"
 ---
