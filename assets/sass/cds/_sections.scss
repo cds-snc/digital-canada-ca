@@ -444,8 +444,15 @@ span.livefr {
 
   h4.live::after,
   h4.livefr::after {
-    content: "Live";
     background-color: $live-color;
+  }
+
+  h4.live::after {
+    content: "Live";
+  }
+
+  h4.livefr::after {
+    content: "En ligne";
   }
 
   h4.alpha::after,
@@ -1342,7 +1349,7 @@ article.post {
 }
 
  .partnership-products {
-  padding: 1.5rem 0;
+  padding: 5rem 0;
  }
 
 
@@ -1355,7 +1362,7 @@ article.post {
 
 
  .bg-dark-full {
-  padding: 2rem 0;
+  padding: 5rem 0;
   width: 100%;
   background-color: $section-bg-grey;
   color: $white;

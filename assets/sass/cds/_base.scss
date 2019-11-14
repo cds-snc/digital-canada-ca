@@ -116,17 +116,17 @@ h1, .h1 {
 h2 {
 	font-family: "HKGrotesk", sans-serif;
 	font-weight: 500;
+	margin-top: 0;
 
 	@include desktop {
 		font-size: 2.75rem;
-		margin: 4.75rem 0 0.5rem 0;
+		// margin: 4.75rem 0 0.5rem 0;
 	}
 }
 
 h3 {
 	font-weight: 600;
 	font-size: 2.2rem;
-
 }
 
 .underline {
