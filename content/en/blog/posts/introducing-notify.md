@@ -19,29 +19,29 @@ Imagine a scenario where every time you use a government service, all necessary 
 
 [Notify](https://notification.alpha.canada.ca/) is a service developed by the CDS platform team, that allows government departments to send emails and text messages to people who use their services, at low costs and in just a few simple steps.  
 
-This isn’t something we built entirely from scratch. Using open source code from the hugely successful [GOV.UK Notify](https://www.notifications.service.gov.uk/) service (created by the [Government Digital Service](https://gds.blog.gov.uk) in the UK), our team was able to adapt it to fit within our context, in English and French - both of Canada's official languages. After meeting with the Digital Transformation Agency (DTA) in Australia, we were also able to add timezone and local phone number support — all within just a couple of days. 
+This isn’t something we built entirely from scratch. Using open source code from the hugely successful [GOV.UK Notify](https://www.notifications.service.gov.uk/) service (created by the [Government Digital Service](https://gds.blog.gov.uk) in the UK), our team is adapting it to fit within our context, in English and French - both of Canada's official languages. After meeting with the Digital Transformation Agency (DTA) in Australia, we were also able to add timezone  and local phone number support — all within just a couple of days.
 
-As the product manager for this service, it's been so fulfilling to work on a system that can help people stay informed with the services they use. I can't wait to see how people will react to more communicative and open government services. 
+As the product manager for this service, it’s been so fulfilling to work on a system that can help people stay informed with the services they use. I can’t wait to see how people will react to more communicative and open government services. 
 
-## Why we set up Notify
+## Why we set up Notify 
 
-In the past, our team has worked with many government departments on services where we've identified the need to send transaction confirmation emails to people. But each time we built a one-off solution for this, we had to repeat the same manual steps we'd gone through before. 
+In the past, our team has worked with many government departments on services where we’ve identified the need to send transaction confirmation emails to people. But each time we built a one off-solution for this, we had to repeat the same manual steps we’d gone through before.  
 
-We decided to try building something that could be that solution, meet common needs, keep costs down, and provide a consistent experience to people as they move from one service to the next. Once we found Notify and stood it up, it became clear that this was a positive and sustainable way forward.
+We decided to try building something that could be a solution, meet common needs, keep costs down, and provide a consistent experience to people as they move from one service to the next. Once we found Notify and stood it up, it became clear that this was a positive and sustainable way forward.  
 
 Some interesting insights came about from early testing with recipients. We found that sending service updates via email is the bare minimum of what people expect from any online service they use. Our research also shows that even if there aren’t huge (or any) changes that happen after someone gets a confirmation email, following up occasionally to remind them they’re still in the process helps provide a sense of confidence and reassurance. 
 
-## Notify helps everyone
+## Notify helps everyone  
 
-Notify can be used to help services save resources - including call centres looking to reduce the volume of inquiries made by phone, or Access to Information and Privacy (ATIP) offices trying to cut down on long application wait times.
+Notify can be used to help services save resources - including call centres looking to reduce the volume of inquiries made by phone , or Access to Information and Privacy (ATIP) offices trying to cut down on long application wait times. 
 
 Meanwhile, developers in service teams can get straight to building, prototyping, and testing a notification service without having to go through a burdensome procurement process.
 
-One interesting fact is once we had Notify up and running, one of our developers, Max, performed load testing on the system to see how it would hold up. With no customization and a $70 USD a month server, Notify was able to send 10,000 emails in 15 minutes - that translates to one million emails a day, and 29.5 million emails a month.
+One interesting fact is once we had Notify up and running, one of our developers, Max, performed load testing on the system to see how it would hold up. With no customization and a $70 USD a month server, Notify was able to send 10,000 emails in 15 minutes - that translates to one million emails a day, and 29.5 million emails a month. 
 
 We wondered how much it would cost to send 29.5 million emails a month. It turns out this would only cost us around $4,000 Canadian dollars.
 
-No matter how big your service, Notify is built on cloud infrastructure that leverages best in class industry notification platforms to ensure notifications get sent. With Notify already built for you, you don't have to set up your own infrastructure, domain records, security, or maintenance. Wouldn't it be better to avoid the difficulty and expense of building and deploying your own notification service? Certainly it would be better to pool our problems and take advantage of a cloud computing at cost solution we can scale. This means we're only paying for what we use, when we use it. 
+No matter how big your service, Notify is built on cloud infrastructure that leverages a best in class industry notification platform to ensure notifications get sent. With Notify already built for you, you don’t have to set up your own infrastructure, domain records, security, or maintenance. Wouldn’t it be better to avoid the difficulty and expense of building and deploying your own notification service? Certainly it would be better to pool our problems and take advantage of a cloud computing at cost solution we can scale. This means we’re only paying for what we use, when we use it.
 
 ## Looking ahead
 
