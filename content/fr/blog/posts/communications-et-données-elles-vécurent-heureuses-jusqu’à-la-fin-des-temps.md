@@ -107,6 +107,7 @@ S’ils cliquaient sur « Gérer vos préférences », ils étaient dirigés ver
 En fin de compte, nous avons appris qu’il fallait inciter les gens à se rendre où ils allaient instinctivement de toute façon : dans leur boîte de réception.
 
 Nous avons simplifié cette page pour y inclure uniquement les renseignements qui préoccupent les abonnés :
+
 * Vous êtes abonné. Vous n’avez pas besoin de faire autre chose. 
 * Vous trouverez un courriel de bienvenue dans votre boîte de réception. 
 
