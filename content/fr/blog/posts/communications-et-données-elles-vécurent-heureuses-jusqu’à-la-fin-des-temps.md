@@ -10,8 +10,7 @@ date: 2019-11-28T14:09:20.985Z
 image: /img/cds/dreaming-of-words.jpg
 image-alt: 'Illustration d''une fille rêvant d''écriture et de livres. '
 translationKey: Data-driven-comms
-thumb: ''
-processed: ''
+thumb: /img/cds/dreaming-of-words.jpg
 ---
 ## Il était une fois...
 
