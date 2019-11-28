@@ -48,6 +48,8 @@ Ensuite, nous devions **vérifier si nous réussissions vraiment à les atteindr
 
 > **Voici nos chiffres :** 
 
+> _(Remarque : Nous avons commencé les tests avec notre liste de diffusion anglaise parce qu’elle offre plus de données à analyser. Nous travaillons actuellement à la préparation de tests pour notre liste française.)_ 
+
 > **2 210** abonnés
 
 > **786 (36 %)** d’entre eux sont des fonctionnaires fédéraux
