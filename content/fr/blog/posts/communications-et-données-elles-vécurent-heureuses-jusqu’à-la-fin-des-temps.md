@@ -84,7 +84,7 @@ Certaines personnes ne savaient pas non plus que notre bouton noir « s’inscri
 
 ✨✨✨
 
-![Avant et après les images des pages web.](/img/cds/FR-Newsletter1.png)
+![Avant et après les images des pages web.](/img/cds/FR-Newsletter1.jpg)
 
 Nous avons utilisé [Google Trends](https://trends.google.com/trends/?geo=CA) pour découvrir que les gens anglophones au Canada utilisent davantage le mot « subscribe » que « sign up », alors nous avons pris la décision de n’utiliser que le mot « subscribe ». 
 
@@ -102,7 +102,7 @@ S’ils cliquaient sur « Gérer vos préférences », ils étaient dirigés ver
 
 ✨✨✨
 
-![Avant et après les images des pages web.](/img/cds/FR-Newsletter2.png)
+![Avant et après les images des pages web.](/img/cds/FR-Newsletter2.jpg)
 
 En fin de compte, nous avons appris qu’il fallait inciter les gens à se rendre où ils allaient instinctivement de toute façon : dans leur boîte de réception.
 

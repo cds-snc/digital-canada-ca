@@ -84,7 +84,7 @@ Some people also didn’t realize that our black “subscribe” button was a cl
 
 ✨✨✨
 
-![A before and after of the two web pages.](/img/cds/EN-Newsletter1.png)
+![A before and after of the two web pages.](/img/cds/EN-Newsletter1.jpg)
 
 We used [Google Trends](https://trends.google.com/trends/?geo=CA) to discover that more people in Canada use the word “subscribe” than “sign up”, so we made a decision to only ever use the word “subscribe”.  
 
@@ -103,7 +103,7 @@ If they clicked “manage your preferences”, they’d be taken to a page where
 
 ✨✨✨
 
-![A before and after of the two web pages.](/img/cds/EN-Newsletter2.png)
+![A before and after of the two web pages.](/img/cds/EN-Newsletter2.jpg)
 
 Ultimately, we learned that we should prompt people to go where they instinctively were going anyway: their inbox.
 
