@@ -313,6 +313,15 @@ team:
       en: Outreach
       fr: Liaison et diffusion
   - archived: false
+    email: emily_kuret@tbs-sct.gc.ca
+    image-name: /img/cds/emily-kuret.jpg
+    name: Emily Kuret
+    # processed: 1552050695385
+    title:
+      en: Design
+      fr: Conception
+    twitter: emanelfy
+  - archived: false
     email: francois.moisan@tbs-sct.gc.ca
     image-name: /img/cds/francois-moisan.jpg
     name: Francois Moisan
