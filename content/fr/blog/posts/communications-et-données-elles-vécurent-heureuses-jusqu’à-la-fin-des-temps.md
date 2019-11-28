@@ -74,7 +74,7 @@ Comme point de départ, nous avons décidé de tester le processus d’abonnemen
 
 Grâce aux tests, nous avons appris certaines choses qui nous auraient échappé autrement. Ces constatations ont été transformées en mesures à prendre, ce qui a facilité notre compréhension du processus d’abonnement. Voici quelques-uns des changements apportés :
 
-**Formulaire d’abonnement : **
+### Formulaire d’abonnement :
 
 C’est le formulaire qui apparaît aux gens lorsqu’ils s’abonnent.
 
@@ -84,13 +84,13 @@ Certaines personnes ne savaient pas non plus que notre bouton noir « s’inscri
 
 ✨✨✨
 
-![Avant et après les images des pages web.](/img/cds/FR-Newsletter1.png/)
+![Avant et après les images des pages web.](/img/cds/FR-Newsletter1.jpg)
 
 Nous avons utilisé [Google Trends](https://trends.google.com/trends/?geo=CA) pour découvrir que les gens anglophones au Canada utilisent davantage le mot « subscribe » que « sign up », alors nous avons pris la décision de n’utiliser que le mot « subscribe ». 
 
 Nous avons aussi changé notre bouton pour le rendre plus reconnaissable en vert.  
 
-**Page de confirmation : **
+### Page de confirmation :
 
 C’est la page qui indique aux gens qu’ils ont réussi à s’abonner à l’infolettre. 
 
@@ -102,11 +102,12 @@ S’ils cliquaient sur « Gérer vos préférences », ils étaient dirigés ver
 
 ✨✨✨
 
-![Avant et après les images des pages web.](/img/cds/FR-Newsletter2.png/)
+![Avant et après les images des pages web.](/img/cds/FR-Newsletter2.jpg)
 
 En fin de compte, nous avons appris qu’il fallait inciter les gens à se rendre où ils allaient instinctivement de toute façon : dans leur boîte de réception.
 
 Nous avons simplifié cette page pour y inclure uniquement les renseignements qui préoccupent les abonnés :
+
 * Vous êtes abonné. Vous n’avez pas besoin de faire autre chose. 
 * Vous trouverez un courriel de bienvenue dans votre boîte de réception. 
 
@@ -118,7 +119,5 @@ Il semblerait, après tout, que les communications et les données peuvent vivre
 
 ### Ressources :
 * Psst! Nous nous préparons à bientôt tester le contenu français de l’infolettre! Si vous aimeriez participer ou expérimenter le processus d’abonnement en français, [abonnez-vous à l’infolettre](https://canada.us15.list-manage.com/subscribe?u=729a207773f7324e217a1d945&id=5fe89f4d28).
-
 * Avez-vous des questions ou des commentaires? [Écrivez-nous](mailto:elise.cossette@tbs-sct.gc.ca).
-
 * Aimeriez-vous savoir pourquoi nous avons choisi Mailchimp comme fournisseur de service d’infolettre? Ou en savoir plus sur les considérations relatives à la protection de la vie privée lors de l’utilisation d’un fournisseur tiers? Voici [l’histoire derrière Mailchimp](https://digital.canada.ca/files/story-behind-mailchimp-fr.docx). 
