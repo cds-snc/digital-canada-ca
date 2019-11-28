@@ -316,11 +316,16 @@ team:
     email: emily_kuret@tbs-sct.gc.ca
     image-name: /img/cds/emily-kuret.jpg
     name: Emily Kuret
-    # processed: 1552050695385
     title:
       en: Design
       fr: Conception
-    twitter: emanelfy
+  - archived: false
+    email: emma_wootton@tbs-sct.gc.ca
+    image-name: /img/cds/emma-wootton.jpg
+    name: Emma Wootton
+    title:
+      en: Design
+      fr: Conception
   - archived: false
     email: francois.moisan@tbs-sct.gc.ca
     image-name: /img/cds/francois-moisan.jpg
@@ -339,6 +344,13 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: hillarylorimer
+  - archived: false
+    email: ioana_Contu@tbs-sct.gc.ca
+    image-name: /img/cds/ioana-contu.jpg
+    name: Ioana Contu
+    title:
+      en: Design
+      fr: Conception
   - archived: false
     email: jeana.frost@tbs-sct.gc.ca
     image-name: /img/cds/jeana-frost.jpg
@@ -436,6 +448,13 @@ team:
       fr: Développement
     twitter: le0nL
   - archived: false
+    email: Lesley_Wheldrake@tbs-sct.gc.ca
+    image-name: /img/cds/lesley-wheldrake.jpg
+    name: Lesley Wheldrake
+    title:
+      en: Procurement
+      fr: Approvisionnement
+  - archived: false
     email: Lucas.Cherkewski@tbs-sct.gc.ca
     github: lchski
     image-name: /img/cds/lucas-cherkewski.jpg
@@ -491,6 +510,13 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: melbanyard
+  - archived: false
+    email: michael_connolly@tbs-sct.gc.ca
+    image-name: /img/cds/michael-connolly.jpg
+    name: Michael Connolly
+    title:
+      en: Policy
+      fr: Politiques
   - archived: false
     email: michelle.ngai@tbs-sct.gc.ca
     image-name: /img/cds/michelle-ngai.jpg
