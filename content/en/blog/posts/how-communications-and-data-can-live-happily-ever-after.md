@@ -74,7 +74,7 @@ We decided to test the process of subscribing to the newsletter as a starting po
 
 Through testing, we learned some things we would have otherwise not picked up on. Those insights were turned into action-items, which helped us make the subscription process easier to understand. Here are some of those changes:
 
-**Subscribe form:**
+### Subscribe form:
 
 This is the form people first see when they are subscribing.
 
@@ -91,7 +91,7 @@ We used [Google Trends](https://trends.google.com/trends/?geo=CA) to discover th
 We also changed our button to be a more recognizable green.  
 
 
-**Confirmation page:**
+### Confirmation page:
 
 This is the page that tells people they’ve successfully subscribed to the newsletter. 
 
@@ -108,6 +108,7 @@ If they clicked “manage your preferences”, they’d be taken to a page where
 Ultimately, we learned that we should prompt people to go where they instinctively were going anyway: their inbox.
 
 We simplified this page to only include the information that subscribers cared about:
+
 * You’re subscribed. You don’t need to do anything else. 
 * A welcome email will be in your inbox now. 
 
@@ -117,9 +118,8 @@ Charlene’s tale — and the stories of so many of us who are trying to make be
 It would seem that, afterall, communications and data can live happily ever after.  
 
 ### Resources:
+
 * You can go through the new subscription flow yourself by [subscribing to our newsletter](https://canada.us15.list-manage.com/subscribe?u=729a207773f7324e217a1d945&id=eb357181d2). 
-
 * Have questions or feedback? Please [reach out](mailto:charlotte.pedersen@tbs-sct.gc.ca).
-
-* Want to learn more about why we picked Mailchimp as our newsletter provider, and the privacy considerations that went along with using a third-party provider? Read the CDS [story behind Mailchimp.](https://digital.canada.ca/files/story-behind-mailchimp-en.docx)
+* Want to learn more about why we picked Mailchimp as our newsletter provider, and the privacy considerations that went along with using a third-party provider? Read the CDS [story behind Mailchimp](https://digital.canada.ca/files/story-behind-mailchimp-en.docx).
 
