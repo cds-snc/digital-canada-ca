@@ -104,7 +104,7 @@ If they clicked “manage your preferences”, they’d be taken to a page where
 
 ✨✨✨
 
-![A before and after of the two web pages.](/img/cds/EN-newsletter2.png/)
+![A before and after of the two web pages.](/img/cds/EN-Newsletter2.png/)
 
 Ultimately, we learned that we should prompt people to go where they instinctively were going anyway: their inbox.
 
