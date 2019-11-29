@@ -82,13 +82,12 @@ exec:
       fr: Chef de la conception
     twitter: emanelfy
   - archived: false
-    email: jennifer.fletcher@tbs-sct.gc.ca
-    image-name: /img/cds/jen-fletcher.jpg
-    name: Jennifer Fletcher
-    processed: 1552050695385
+    email: sage.cram@tbs-sct.gc.ca
+    image-name: /img/cds/sage-cram.jpg
+    name: Sage Cram
     title:
-      en: Acting Head of Partnerships
-      fr: Chef par intérim des partenariats
+      en: Head of Partnerships
+      fr: Chef des partenariats
   - email: Jennifer.Morin@tbs-sct.gc.ca
     image-name: /img/cds/jennifer-morin.jpg
     name: Jennifer Morin
@@ -313,14 +312,14 @@ team:
       en: Outreach
       fr: Liaison et diffusion
   - archived: false
-    email: emily_kuret@tbs-sct.gc.ca
+    email: emily.kuret@tbs-sct.gc.ca
     image-name: /img/cds/emily-kuret.jpg
     name: Emily Kuret
     title:
       en: Design
       fr: Conception
   - archived: false
-    email: emma_wootton@tbs-sct.gc.ca
+    email: emma.wootton@tbs-sct.gc.ca
     image-name: /img/cds/emma-wootton.jpg
     name: Emma Wootton
     title:
@@ -345,7 +344,7 @@ team:
       fr: Recherche en conception
     twitter: hillarylorimer
   - archived: false
-    email: ioana_Contu@tbs-sct.gc.ca
+    email: ioana.contu@tbs-sct.gc.ca
     image-name: /img/cds/ioana-contu.jpg
     name: Ioana Contu
     title:
@@ -371,7 +370,7 @@ team:
       en: Development
       fr: Développement
     twitter: plusjeff
-  - archived: true
+  - archived: false
     email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.jpg
     name: Jennifer Fletcher
@@ -448,7 +447,7 @@ team:
       fr: Développement
     twitter: le0nL
   - archived: false
-    email: Lesley_Wheldrake@tbs-sct.gc.ca
+    email: Lesley.Wheldrake@tbs-sct.gc.ca
     image-name: /img/cds/lesley-wheldrake.jpg
     name: Lesley Wheldrake
     title:
@@ -511,7 +510,7 @@ team:
       fr: Recherche en conception
     twitter: melbanyard
   - archived: false
-    email: michael_connolly@tbs-sct.gc.ca
+    email: michael.connolly@tbs-sct.gc.ca
     image-name: /img/cds/michael-connolly.jpg
     name: Michael Connolly
     title:
@@ -564,7 +563,19 @@ team:
     title:
       en: Development
       fr: Développement
-    twitter: pcraig3
+  - archived: false
+    email: philippe.caron@tbs-sct.gc.ca
+    image-name: /img/cds/Philippe-Caron.jpg
+    name: Philippe Caron
+    title:
+      en: Design
+      fr: Conception
+  - archived: false
+    image-name: /img/cds/philippe-tardiff.jpg
+    name: Philippe Tardiff
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
   - archived: false
     email: Priyanka.Rahman@tbs-sct.gc.ca
     image-name: /img/cds/priyanka-rahman.jpg
@@ -614,9 +625,8 @@ team:
     twitter: stephBoisvert
   - archived: false
     email: Stephanie.Gauthier@tbs-sct.gc.ca
-    image-name: /img/cds/stephanie-gauthier.jpg
+    image-name: /img/cds/stephanie-gauthier2.jpg
     name: Stephanie Gauthier
-    processed: 1552050695394
     title:
       en: Talent
       fr: Talent
