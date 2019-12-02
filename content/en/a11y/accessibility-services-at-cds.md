@@ -22,10 +22,8 @@ If you work at CDS,  you can use our internal Accessibility Services.  These inc
 ## Allow time for analysis
 
 - Please request Accessibility Services at least 3 weeks before your deadline.
-
-- If you request a high-level report, you should receive the report in 5-7 business days.
-
-- If you request a detailed accessibility audit, you should receive the audit results in 10-14 business days.
+- If you request a high-level report, you should receive the report in 10-14 business days.
+- If you request a detailed accessibility audit, you should receive the audit results in 30 business days.
 
 ## My team is from outside of CDS. Where can I find help?
 
