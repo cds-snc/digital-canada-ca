@@ -10,5 +10,5 @@ contact:
 status: in-flight
 links:
   - name: Accessibility Handbook
-    url: "/tools-and-resources/"
+    url: "https://digital.canada.ca/a11y"
 ---

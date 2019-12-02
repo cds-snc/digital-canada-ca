@@ -10,5 +10,5 @@ contact:
 status: in-flight
 links:
   - name: Le guide d’accessibilité
-    url: "/outils-et-ressources/"
+    url: "https://numerique.canada.ca/a11y"
 ---
