@@ -20,8 +20,6 @@ translationKey: accessibility-handbook
 thumb: ''
 processed: ''
 ---
-
-
 Dix ans! Cela fait 10 ans que je travaille dans le domaine de l’accessibilité au sein de la fonction publique. J’ai vu notre communauté évoluer et changer à mesure que de nouveaux visages sont arrivés et sont repartis. Bon nombre des personnes qui s’occupaient de l’accessibilité dans la fonction publique lorsque j’ai commencé en sont encore aujourd’hui les fers de lance. Notre communauté est petite, mais robuste, et elle travaille à la croisée des ministères et des secteurs afin d’améliorer l’accès aux services pour les gens.
 
 On me demande souvent comment j’ai commencé à travailler dans le domaine de l’accessibilité. Pour moi, cette réponse vient de mon expérience personnelle. J’ai un handicap, tout comme d’autres membres de ma famille. Mon père est devenu handicapé à la suite d’un accident à l’âge de 38 ans. Ma sœur est née handicapée, elle a une anomalie chromosomique. Et bien que la question du handicap m’était familière, je ne l’avais jamais envisagée comme option de carrière. 
@@ -68,6 +66,7 @@ L’objectif est de favoriser le développement de l’inclusion dans l’ensemb
 Nous avons commencé à créer le [Guide sur l’accessibilité](https://numerique.canada.ca/a11y) pour répondre à ce besoin. Le manuel est un produit itératif que nous mettrons régulièrement à jour et auquel nous ajouterons du contenu. 
 
 **Pour commencer, vous trouverez des renseignements sur :**
+
 * Les tests d’accessibilité automatisés
 * Les tests manuels
 * Les tests d’utilisabilité
