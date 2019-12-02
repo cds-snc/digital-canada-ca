@@ -19,7 +19,7 @@ Au SNC, vous pouvez bénéficier de nos services d&#39;accessibilité. Les servi
 L&#39;accessibilité demande du temps. Lorsque vous contactez les services d&#39;accessibilité, vous pouvez vous attendre aux délais suivants :
 
 - Un rapport de haut niveau aura une norme de service de 3 jours ouvrables.
-- Un contrôle détaillé de l&#39;accessibilité aura une norme de service de 7 à 10 jours ouvrables.
+- Un contrôle détaillé de l&#39;accessibilité aura une norme de service de 30 jours ouvrables.
 
 ## Tests automatisés
 
