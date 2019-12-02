@@ -22,8 +22,8 @@ Si vous travaillez au SNC, vous pouvez utiliser nos services d’accessibilité 
 ## Prévoir du temps pour l’analyse
 
 - Vous devez demander les services d’accessibilité au moins 3 semaines avant votre date limite.
-- Si vous demandez un rapport de haut niveau, vous devriez le recevoir dans un délai de 5 à 7 jours ouvrables.
-- Si vous demandez une vérification détaillée de l’accessibilité, vous devriez recevoir les résultats de la vérification dans un délai de 10 à 14 jours ouvrables.
+- Si vous demandez un rapport de haut niveau, vous devriez le recevoir dans un délai de 14 jours ouvrables.
+- Si vous demandez une vérification détaillée de l’accessibilité, vous devriez recevoir les résultats de la vérification dans un délai de 30 jours ouvrables.
 
 ## Mon équipe vient de l’extérieur du SNC. Où puis-je trouver de l’aide?
 
