@@ -58,3 +58,23 @@ Pour les tests multinavigateurs, assurez-vous que votre service peut fonctionner
 - [Firefox](https://www.mozilla.org/firefox/new/)
 - Windows seulement : [Internet Explorer 11](https://www.microsoft.com/fr-ca/download/internet-explorer.aspx), [Microsoft Edge](https://www.microsoft.com/fr-ca/windows/microsoft-edge)
 - Mac/iOS seulement : [Safari](https://www.apple.com/safari/) (page en anglais seulement)
+
+##Ressources additionnelles
+
+Il existe beaucoup de contenu sur l’accessibilité. Vous pouvez commencer certains tests simples au moyen de ce qui suit : 
+
+[W3C Easy Checks](https://www.w3.org/WAI/test-evaluate/preliminary/) (site en anglais seulement) — quelques éléments rapides pour vous aider à commencer à évaluer à quel point votre page est accessible.
+[Commandes de base de lecteur d’écran pour les tests d’accessibilité](https://developer.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/) (site en anglais seulement), du Paciello Group.
+[Générateur de rapports WCAG](https://www.w3.org/WAI/eval/report-tool/#/) (site en anglais seulement).
+
+Vous pouvez également lire certains billets de blogue sur : 
+
+[Les choses à faire et à ne pas faire au moment de la conception pour l’accessibilité](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/_ (site en anglais seulement)
+[La façon dont le Government Digital Service a fait les tests d’accessibilité sur GOV.UK](https://gds.blog.gov.uk/2012/01/20/user-testing-accessibility/) (site en anglais seulement)
+
+Vous pourriez également trouver les guides suivants utiles :
+
+[Rendre votre service accessible : une introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) (site en anglais seulement)
+[Utiliser, adapter et créer des motifs](https://www.gov.uk/service-manual/design/using-adapting-and-creating-patterns) (site en anglais seulement)
+[Utiliser l’amélioration progressive](https://www.gov.uk/service-manual/technology/using-progressive-enhancement_ (site en anglais seulement).
+
