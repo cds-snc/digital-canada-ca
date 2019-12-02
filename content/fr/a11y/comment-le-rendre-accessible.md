@@ -1,7 +1,7 @@
 ---
 type: a11y
 layout: default
-title: Comment le rendre accessible
+title: Comment assurer l’accessibilité
 translationKey: comment-le-rendre-accessible
 ---
 

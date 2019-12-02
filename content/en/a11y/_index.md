@@ -2,7 +2,7 @@
 type: a11y
 layout: default
 url: /a11y/
-title: "a11y"
+title: "Accessibility"
 description: "-"
 ---
 <h2 class="section--title">Welcome to CDS Accessibility Handbook</h2>

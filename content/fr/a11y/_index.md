@@ -17,4 +17,4 @@ Nous avons rédigé ces principes directeurs pour créer des services accessible
 - [Accessibility Services for CDS team](/a11y/services-d-accessibilite-a-cds/)
 - [Our Commitment](/a11y/comment-le-rendre-accessible/)
 - [Tools and resources](/a11y/outils-et-ressources)
-- [How to make it Accessible](/a11y/comment-le-rendre-accessible/)
+- [Comment assurer l’accessibilité](/a11y/comment-le-rendre-accessible/)
