@@ -5,7 +5,7 @@ url: /a11y/
 title: "Accessibility"
 description: "-"
 ---
-<h2 class="section--title">Welcome to CDS Accessibility Handbook</h2>
+<h2 class="section--title">Welcome to the CDS Accessibility Handbook</h2>
      
 The Canadian Digital Service is committed to building accessible and inclusive services. Building accessible services means meeting the needs of as many people as possible. From the start, we work with the people who will use a product, including people with disabilities. We are working across all disciplines — blurring the lines between research, development, design, and accessibility.
 
