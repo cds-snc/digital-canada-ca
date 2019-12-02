@@ -2,7 +2,7 @@
 type: a11y
 layout: default
 title: Outils et ressources
-translationKey: outils-et-ressources
+translationKey: tools-and-resources
 ---
 
 

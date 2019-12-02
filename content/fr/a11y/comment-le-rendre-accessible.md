@@ -2,7 +2,7 @@
 type: a11y
 layout: default
 title: Comment assurer l’accessibilité
-translationKey: comment-le-rendre-accessible
+translationKey: how-to-make-it-accessible
 ---
 
 Pour vous assurer que votre service est accessible et inclusif, il faut considérer l&#39;accessibilité à toutes les étapes. Vous devrez donc faire participer divers utilisateurs, y compris des personnes handicapées, à chaque phase de votre cycle de conception et de développement.

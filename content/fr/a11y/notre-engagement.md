@@ -2,7 +2,7 @@
 type: a11y
 layout: default
 title: Notre engagement
-translationKey: notre-engagement
+translationKey: our-commitment
 ---
 
 

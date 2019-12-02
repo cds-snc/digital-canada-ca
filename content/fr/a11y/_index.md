@@ -14,7 +14,7 @@ L’inclusion est une grande priorité dans tous nos travaux. Pour nous, il est 
      
 Nous avons rédigé ces principes directeurs pour créer des services accessibles et inclusifs au sein du Service numérique canadien et avec nos partenaires. Il s’agit d’un ensemble cohérent de directives visant à rendre le contenu accessible aux personnes handicapées.
 
-- [Accessibility Services for CDS team](/a11y/services-d-accessibilite-a-cds/)
-- [Our Commitment](/a11y/comment-le-rendre-accessible/)
-- [Tools and resources](/a11y/outils-et-ressources)
+- [Services d'accessibilité pour les équipes du SNC](/a11y/services-d-accessibilite-a-cds/)
+- [Notre engagement](/a11y/notre-engagement/)
+- [Outils et ressources](/a11y/outils-et-ressources)
 - [Comment assurer l’accessibilité](/a11y/comment-le-rendre-accessible/)
