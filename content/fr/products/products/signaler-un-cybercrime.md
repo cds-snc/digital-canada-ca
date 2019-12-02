@@ -16,5 +16,6 @@ status: in-flight
 links:
   - name: GitHub
     url: 'https://github.com/cds-snc/report-a-cybercrime'
+onhomepage: true
 ---
 

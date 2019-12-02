@@ -12,7 +12,7 @@ contact:
 partners:
   - name: Public Services and Procurement Canada
     url: 'https://www.tpsgc-pwgsc.gc.ca/comm/index-eng.html'
-status: in-flight
-onhomepage: true
+status: "past"
+onhomepage: false
 ---
 
