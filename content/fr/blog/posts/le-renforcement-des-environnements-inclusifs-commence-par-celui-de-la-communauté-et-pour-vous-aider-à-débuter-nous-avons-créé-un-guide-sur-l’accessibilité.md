@@ -77,3 +77,7 @@ Nous avons commencé à créer le [Guide sur l’accessibilité](https://numeriq
 Le fait de partager des ressources, de collaborer et de renforcer la communauté de l’accessibilité dans l’ensemble du gouvernement nous aidera à créer une fonction publique plus inclusive.
 
 Consultez notre [Guide sur l’accessibilité](https://numerique.canada.ca/a11y).
+
+Il est possible de donner une voix aux personnes en racontant leurs histoires et en partageant leurs réalités dans le but d’aider les équipes à concevoir de façon inclusive. Créer une culture d’accessibilité et d’inclusion, c’est s’assurer que toutes les personnes impliquées dans la conception, la livraison ou l’utilisation de produits ou services puissent y avoir accès.   
+
+Le gouvernement du Canada est un chef de file dans la création d’expériences équitables pour tous. Partager nos ressources, travailler en collaboration et bâtir une communauté présente dans tout le gouvernement nous aidera à rendre la fonction publique plus inclusive. Le Bureau du dirigeant principal de l’information souligne la Journée internationale des personnes handicapées 2019 par la publication de nouvelles lignes directrices destinées à la fonction publique. Celles-ci encouragent l’utilisation de la norme européenne EN 301 549 lors de l’acquisition ou du développement de technologies de l’information et de la communication. Ensemble, nous pouvons rendre les services inclusifs pour tout le monde.
