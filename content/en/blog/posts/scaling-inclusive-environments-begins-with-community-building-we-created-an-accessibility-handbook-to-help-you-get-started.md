@@ -18,8 +18,6 @@ translationKey: accessibility-handbook
 thumb: ''
 processed: ''
 ---
-
-
 Ten! Ten years, that’s how long I’ve worked in accessibility within the public service. I’ve watched the community grow and change as new faces have come and gone. Many people involved in accessibility in the public service when I first started out are still spearheading the charge today. We are a small, but mighty community, crossing departments and sectors to help improve access to services for people.
 
 I often get asked how I started working in accessibility. For me, that answer comes from my lived experience. I have a disability, and so do other members of my family. My father became disabled by accident when he was 38. My sister was born with a disability — she has a chromosome abnormality. And while I knew about disabilities, I never thought of it as a career option for me. 
@@ -66,6 +64,7 @@ The goal is to help scale inclusion across the government.
 We started our journey to create the [Accessibility Handbook](https://digital.canada.ca/a11y) to respond to this need. The handbook is an iterative product that we will be updating and adding to regularly. 
 
 **To start, you will find information on:**
+
 * Automated accessibility testing
 * Manual testing
 * Usability testing
@@ -76,3 +75,7 @@ We started our journey to create the [Accessibility Handbook](https://digital.ca
 Sharing resources, working collaboratively and building community across government will help us build a more inclusive public service.
 
 Check out our [Accessibility Handbook](https://digital.canada.ca/a11y).
+
+We can give a voice to people by telling their stories and sharing their truths in order to help teams design more inclusively. Creating a culture of accessibility and inclusion is about making sure everyone who works on, delivers or uses your services or products can access them.
+
+The Government of Canada is a leader in creating equitable experiences for everyone. Sharing resources, working collaboratively and building community across government will help us build a more inclusive public service. The Office of the Chief Information Officer is marking IDIP2019 by publishing new guidelines for the public service which encourages them to leverage the Harmonised European Standard EN 301 549 when procuring or developing information communication technology. Together we can make more inclusive services for everyone.
