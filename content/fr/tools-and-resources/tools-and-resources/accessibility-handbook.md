@@ -1,6 +1,6 @@
 ---
 title: Le guide d’accessibilité
-translationKey: accessibility-handbook
+translationKey: accessibility-tool
 phase: alpha
 description: >-
   Un ensemble cohérent de directives visant à rendre le contenu accessible et inclusifs aux personnes handicapées.
