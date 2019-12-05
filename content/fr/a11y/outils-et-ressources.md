@@ -76,5 +76,5 @@ Vous pourriez également trouver les guides suivants utiles :
 
 [Rendre votre service accessible : une introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) (site en anglais seulement)
 [Utiliser, adapter et créer des motifs](https://www.gov.uk/service-manual/design/using-adapting-and-creating-patterns) (site en anglais seulement)
-[Utiliser l’amélioration progressive](https://www.gov.uk/service-manual/technology/using-progressive-enhancement_ (site en anglais seulement).
+[Utiliser l’amélioration progressive](https://www.gov.uk/service-manual/technology/using-progressive-enhancement) (site en anglais seulement).
 
