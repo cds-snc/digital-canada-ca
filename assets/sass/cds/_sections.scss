@@ -159,12 +159,18 @@
   }
 
   .btn {
+    text-align: left;
+    width: 100%;
+
     @include mobile_only {
-      text-align: left;
       margin-bottom: 10px;
     }
-    @include tablet { text-align: left; }
-    @include desktop { text-align: right; }
+  }
+
+  .need-help {
+    h2 {
+      margin-top: 40px;
+    }
   }
 
   .fr-team-link {
