@@ -69,12 +69,12 @@ Il existe beaucoup de contenu sur l’accessibilité. Vous pouvez commencer cert
 
 Vous pouvez également lire certains billets de blogue sur : 
 
-[Les choses à faire et à ne pas faire au moment de la conception pour l’accessibilité](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/_ (site en anglais seulement)
+[Les choses à faire et à ne pas faire au moment de la conception pour l’accessibilité](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) (site en anglais seulement)
 [La façon dont le Government Digital Service a fait les tests d’accessibilité sur GOV.UK](https://gds.blog.gov.uk/2012/01/20/user-testing-accessibility/) (site en anglais seulement)
 
 Vous pourriez également trouver les guides suivants utiles :
 
 [Rendre votre service accessible : une introduction](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction) (site en anglais seulement)
 [Utiliser, adapter et créer des motifs](https://www.gov.uk/service-manual/design/using-adapting-and-creating-patterns) (site en anglais seulement)
-[Utiliser l’amélioration progressive](https://www.gov.uk/service-manual/technology/using-progressive-enhancement_ (site en anglais seulement).
+[Utiliser l’amélioration progressive](https://www.gov.uk/service-manual/technology/using-progressive-enhancement) (site en anglais seulement).
 
