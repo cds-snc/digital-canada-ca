@@ -182,6 +182,8 @@ cppd-research:
   other: "Participez à notre recherche"
 rcmp-research:
   other: "Participez à notre recherche"
+notify-research:
+  other: "Participez à notre recherche"
 subscribe-title:
   other: "Abonnez-vous à notre infolettre!"
 subscribe-note:
