@@ -7,7 +7,7 @@ description: >-
   Réflexions sur la façon d’améliorer les services offerts aux Canadiennes et
   aux Canadiens ayant une invalidité et à leurs enfants lors d’une demande de
   prestations du Régime de pensions du Canada.
-phase: discovery / découverte
+phase: alpha / alpha
 contact:
   - email: courtney.claessens@tbs-sct.gc.ca
     name: Courtney Claessens
