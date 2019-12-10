@@ -7,7 +7,7 @@ description: >-
   Canada. So we need someone to advocate for this new profession, and bring the
   community together to share practice and standards amongst themselves. This
   work will be creative, rewarding and high profile.
-archived: false
+archived: true
 leverId: 009af27c-525c-47ea-8161-850273915cb6
 translationKey: head-product-management
 ---
