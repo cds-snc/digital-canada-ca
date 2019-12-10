@@ -8,7 +8,7 @@ description: >-
   nouvelle profession et réunir la communauté pour qu’elle puisse mettre en
   commun ses pratiques et ses normes. Ce travail sera créatif, enrichissant et
   de grande visibilité.
-archived: false
+archived: true
 leverId: 8fb5b5b7-7315-4b5a-a98d-8364321cf98f
 translationKey: head-product-management
 ---
