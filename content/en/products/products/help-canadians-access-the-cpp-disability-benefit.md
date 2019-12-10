@@ -4,7 +4,7 @@ translationKey: esdc-product
 description: >-
   Exploring how to improve service delivery for Canadians with disabilities and
   their children who apply for Canada Pension Plan benefits.
-phase: discovery / découverte
+phase: alpha / alpha
 contact:
   - email: courtney.claessens@tbs-sct.gc.ca
     name: Courtney Claessens
