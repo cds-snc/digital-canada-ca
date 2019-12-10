@@ -4,7 +4,7 @@ type: section
 title: Congé pour fonctions civiques de Google
 archived: true
 leverId: 8cd6092c-9930-474b-b7aa-8b3ad5d3a13b
-translationKey: Conge-pour-fonctions-civiques-de-google
+translationKey: conge-pour-fonctions-civiques-de-google
 ---
 Le Service numérique canadien (SNC) collabore avec les ministères fédéraux pour rendre les services gouvernementaux simples et faciles à utiliser. Notre équipe repense la conception et la prestation des services, tout en mobilisant, à chaque étape, les personnes qui les utilisent. En travaillant ouvertement et en faisant connaître à nos partenaires des outils et des gens talentueux, nous améliorons la façon dont le gouvernement offre ses services.Et nous avons besoin de vous.
 
