@@ -4,7 +4,7 @@ type: section
 title: Google Civic Leave
 archived: true
 leverId: aba4ca67-9909-45ff-a1b7-eb4279098ed6
-translationKey: aba4ca67-9909-45ff-a1b7-eb4279098ed6
+translationKey: google-civic-leave
 ---
 The Canadian Digital Service (CDS) works with federal organizations to make the services people depend on simple and easy-to-use. We’re a small but mighty team that is rethinking service design and delivery, engaging users every step of the way. By working in the open, and connecting partners with tools, talent, and training grounded in practice, we’re building capacity across the government for better service delivery. And we need you. 
 
