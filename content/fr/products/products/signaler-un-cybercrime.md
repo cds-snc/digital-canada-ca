@@ -2,9 +2,7 @@
 title: Signaler un crime informatique
 translationKey: report-cybercrime
 description: >
-  Explorer la possibilité de mettre en place un service permettant aux Canadiens
-  et aux entreprises de signaler plus aisément les crimes informatiques et
-  facilitant le travail d'analyse et d'enquête de la police.
+  Itération d'un service qui permet aux victimes de la cybercriminalité de signaler plus facilement un incident et d'obtenir des conseils sur ce qu'elles peuvent faire pour se protéger.
 phase: beta
 contact:
   - email: daniel.tse@tbs-sct.gc.ca

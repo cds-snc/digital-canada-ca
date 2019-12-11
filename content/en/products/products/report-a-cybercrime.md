@@ -2,9 +2,7 @@
 title: Report a cybercrime
 translationKey: report-cybercrime
 description: >
-  Exploring a service that makes it easier for Canadians and businesses to
-  report when they encounter or are victims of a cybercrime and that helps
-  police analyze and investigate reports.
+  Iterating on a service that makes it easier for victims of cybercrime to report an incident and get guidance on what they can do to protect themselves.
 phase: beta
 contact:
   - email: daniel.tse@tbs-sct.gc.ca
