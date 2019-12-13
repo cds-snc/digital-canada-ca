@@ -6,7 +6,7 @@ description: >-
   The Canadian Digital Service is looking for an experienced technical writer to
   tell our stories, whether it’s: how our solutions are built; how they work; or
   how to reuse our tools and transfer technical knowledge across government.
-archived: false
+archived: true
 leverId: 5c39a7b7-4cc7-4b4e-b306-72d0cd8efe12
 translationKey: technical-writer
 ---
