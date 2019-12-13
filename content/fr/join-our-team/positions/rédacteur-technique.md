@@ -8,7 +8,7 @@ description: >-
   dont nos solutions sont créées, la façon dont ces solutions fonctionnent, ou
   la façon de réutiliser nos outils et de transférer des connaissances
   techniques à l’ensemble du gouvernement.
-archived: false
+archived: true
 leverId: 40b0d153-f0a7-4268-8925-1b3bae2ba57e
 translationKey: technical-writer
 ---
