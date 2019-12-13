@@ -22,7 +22,7 @@ While I don’t want to be labeled “mental health dude”, or to be viewed thr
 ## na·dir: the lowest point in the fortunes of a person
 Two years ago, after suffering an intense bout of depression, I found myself sitting in a psych ward, asking a lot of questions of myself. 
 
-I was 42. At mid-life, I had a breakdown. I needed to make positive changes. If not for me, then certainly for my 8 year old daughter. I started group therapy, I changed jobs, and I got out of an unhealthy relationship.
+I was 42. At mid-life, I had a breakdown. I needed to make positive changes. If not for me, then certainly for my 8 year old daughter. I started group therapy, I changed jobs, and I got out of a toxic relationship.
 
 For most of my career, I’ve been a developer. But this has never been enough; something was missing. It took me a while to realize what: **people** and feeling part of something bigger than myself.
 
