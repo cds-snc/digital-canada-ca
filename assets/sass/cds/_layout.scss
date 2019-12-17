@@ -253,22 +253,37 @@ main {
   z-index: 0;
 }
 
-// Universal style for blog post tables
+// Universal style for tables
+table,
+td,
+th {
+  border: 1px solid $icon-grey;
+}
+
 table {
-  border:1px solid #000;
-  margin-bottom: 30px;
+  margin: 25px 0;
+}
+
+th {
+  color: $white;
+  background-color: $icon-grey;
+  font-weight: 500;
 }
 
 td, th {
-  border: 1px solid #000;
-  padding: 10px;
+  padding: 10px 20px;
   vertical-align: top;
 }
 
 td {
-  // same base styles as p, main ul, main ol
   font-weight: 100;
-	font-size: 1.75rem;
+  color: $icon-grey;
+}
+
+th,
+td {
+  // same base styles as p, main ul, main ol
+  font-size: 1.75rem;
 
 	@include tablet {
 		font-size: 2rem;
@@ -280,8 +295,6 @@ td {
 		margin-bottom: 2.75rem;
 	}
 }
-
-th { background-color:#ccc; }
 
 // Style for circle arrow icon turning right (featured beside links in different sections of the homepage)
 .fa-arrow-circle-right {
