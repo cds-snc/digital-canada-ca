@@ -215,13 +215,7 @@
 .page-banner--title {
   display: block;
   font-weight: 100;
-  // left: 50%;
-  // line-height: 3rem;
-  // max-width: 1024px;
-  // position: absolute;
   text-align: left;
-  // transform: translateX(-50%) translateY(-50%);
-  // top: 50%;
   width: 100%;
   padding: 35px 0 25px 0;
 
@@ -232,25 +226,18 @@
     font-weight: 100;
     margin: 1.5rem;
     padding: 0;
-
-    @include mobile_only {
-      // font-size: 3rem;
-    }
-
-    @include tablet {
-      // font-size: 6.5rem;
-      // line-height: 1.25em;
-    }
-
-    @include desktop {
-      // font-size : 8.5rem;
-    }
   }
 }
 
 main {
   position: relative;
   z-index: 0;
+}
+
+
+hr {
+  border: 0.5px solid $medium-grey;
+  margin: 30px 0;
 }
 
 // Universal style for tables
