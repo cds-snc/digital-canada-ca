@@ -234,6 +234,10 @@ main {
   z-index: 0;
 }
 
+// Generic page styles
+blockquote{
+  border-left: 5px solid $primary-color;
+}
 
 hr {
   border: 0.5px solid $medium-grey;
