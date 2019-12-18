@@ -215,13 +215,7 @@
 .page-banner--title {
   display: block;
   font-weight: 100;
-  // left: 50%;
-  // line-height: 3rem;
-  // max-width: 1024px;
-  // position: absolute;
   text-align: left;
-  // transform: translateX(-50%) translateY(-50%);
-  // top: 50%;
   width: 100%;
   padding: 35px 0 25px 0;
 
@@ -232,19 +226,6 @@
     font-weight: 100;
     margin: 1.5rem;
     padding: 0;
-
-    @include mobile_only {
-      // font-size: 3rem;
-    }
-
-    @include tablet {
-      // font-size: 6.5rem;
-      // line-height: 1.25em;
-    }
-
-    @include desktop {
-      // font-size : 8.5rem;
-    }
   }
 }
 
@@ -253,22 +234,47 @@ main {
   z-index: 0;
 }
 
-// Universal style for blog post tables
+// Generic page styles
+blockquote{
+  border-left: 5px solid $primary-color;
+}
+
+hr {
+  border: 0.5px solid $medium-grey;
+  margin: 30px 0;
+}
+
+// Universal style for tables
+table,
+td,
+th {
+  border: 1px solid $icon-grey;
+}
+
 table {
-  border:1px solid #000;
-  margin-bottom: 30px;
+  margin: 25px 0;
+}
+
+th {
+  color: $white;
+  background-color: $icon-grey;
+  font-weight: 500;
 }
 
 td, th {
-  border: 1px solid #000;
-  padding: 10px;
+  padding: 10px 20px;
   vertical-align: top;
 }
 
 td {
-  // same base styles as p, main ul, main ol
   font-weight: 100;
-	font-size: 1.75rem;
+  color: $icon-grey;
+}
+
+th,
+td {
+  // same base styles as p, main ul, main ol
+  font-size: 1.75rem;
 
 	@include tablet {
 		font-size: 2rem;
@@ -280,8 +286,6 @@ td {
 		margin-bottom: 2.75rem;
 	}
 }
-
-th { background-color:#ccc; }
 
 // Style for circle arrow icon turning right (featured beside links in different sections of the homepage)
 .fa-arrow-circle-right {

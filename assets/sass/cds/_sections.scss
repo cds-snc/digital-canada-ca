@@ -832,10 +832,6 @@ span.livefr {
       font-size: 2.25rem;
     }
   }
-
-  hr {
-    color: $medium-grey;
-  }
 }
 
 .work-with-us--process {
@@ -1246,7 +1242,7 @@ article.post {
 
     @include desktop {
       font-size: 2.9rem;
-      margin: 4.75rem 0 1rem 0;
+      margin: 1rem 0;
     }
   }
 
