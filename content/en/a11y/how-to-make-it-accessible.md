@@ -46,24 +46,28 @@ In Alpha, ensure your service meets the standards of our Priority Check 1 checkl
 
 Check that your service includes all the following:
 
-- [Site is keyboard accessible](https://accessibility.18f.gov/keyboard/): All interactions can be accessed with a keyboard
-- [Site is free of keyboard traps](https://accessibility.18f.gov/keyboard/#keyboard-trap): The keyboard focus is never trapped in a loop
-- [All form inputs have explicit labels](https://accessibility.18f.gov/forms/)
-- [All relevant images use an img tag](https://accessibility.18f.gov/images/)
-- [All images have alt attributes](https://accessibility.18f.gov/images/)
-- [Multimedia is tagged](https://accessibility.18f.gov/multimedia/): All multimedia has appropriate captioning and audio description
-- [Text has sufficient color contrast](https://accessibility.18f.gov/color/): All text has a contrast ratio of 4.5:1 with the background
-- [Site](https://accessibility.18f.gov/keyboard/)[never loses focus](https://accessibility.18f.gov/keyboard/): Focus is always visible when moving through the page with the keyboard
-- [Tab order is logical](https://accessibility.18f.gov/keyboard/)
-- [Form instructions are associated with inputs](https://accessibility.18f.gov/forms/)
-- [Site doesn&#39;t timeout unexpectedly](https://accessibility.18f.gov/timeouts/): Identify elements that may &quot;timeout&quot; and verify that the user can request more time
-- [Tables are coded properly](https://accessibility.18f.gov/tables/): Tables have proper headers and column attributes
-- [Headings are nested properly](https://accessibility.18f.gov/headings/): Heading elements are nested in a logical way
-- [Language is set](https://accessibility.18f.gov/language/) for the page. For sections on the page that differ from the site, language is set.
-- Audio and video have appropriate captions, transcriptions and described video where necessary
-- Identifying content only by its shape or location, or using graphical symbol alone to convey information
-- Use of colour: No colour is used alone to convey meaningful information
-- Skip links: Are available to bypass blocks of content that are repeated on multiple [Web pages](https://www.w3.org/TR/WCAG21/#dfn-web-page-s)
+- Use automated tools to test:
+  - [All form inputs have explicit labels](https://accessibility.18f.gov/forms/)
+  - [Text has sufficient color contrast](https://accessibility.18f.gov/color/): All text has a contrast ratio of 4.5:1 with the background
+  - [Form instructions are associated with inputs](https://accessibility.18f.gov/forms/)
+  - [Language is set](https://accessibility.18f.gov/language/) for the page. For sections on the page that differ from the site, language is set.
+
+- Manually test:
+  - [Site is keyboard accessible](https://accessibility.18f.gov/keyboard/): All interactions can be accessed with a keyboard
+  - [Site is free of keyboard traps](https://accessibility.18f.gov/keyboard/#keyboard-trap): The keyboard focus is never trapped in a loop
+  - [All relevant images use an img tag](https://accessibility.18f.gov/images/)
+  - [All images have alt attributes](https://accessibility.18f.gov/images/)
+  - [Multimedia is tagged](https://accessibility.18f.gov/multimedia/): All multimedia has appropriate captioning and audio description
+  - If you use color gradients or background images check [text has sufficient color contrast](https://accessibility.18f.gov/color/): All text needs a contrast ratio of 4.5:1 in all display modes (desktop, tablet & mobile).
+  - [Site](https://accessibility.18f.gov/keyboard/)[never loses focus](https://accessibility.18f.gov/keyboard/): Focus is always visible when moving through the page with the keyboard
+  - [Tab order is logical](https://accessibility.18f.gov/keyboard/) - The Accessibility Insights tool is useful for this.
+  - [Site doesn&#39;t timeout unexpectedly](https://accessibility.18f.gov/timeouts/): Identify elements that may &quot;timeout&quot; and verify that the user can request more time
+  - [Tables are coded properly](https://accessibility.18f.gov/tables/): Tables have proper headers and column attributes
+  - [Headings are nested properly](https://accessibility.18f.gov/headings/): Heading elements are nested in a logical way
+  - Audio and video have appropriate captions, transcriptions and described video where necessary
+  - Identifying content only by its shape or location, or using graphical symbol alone to convey information
+  - Use of colour: No colour is used alone to convey meaningful information
+  - Skip links: Are available to bypass blocks of content that are repeated on multiple [Web pages](https://www.w3.org/TR/WCAG21/#dfn-web-page-s)
 
 ### Enabling adaptive technology
 
