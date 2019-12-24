@@ -23,21 +23,21 @@ At a minimum, our services need to meet level AA of the [Web Content Accessibili
 
 The following guidelines aim to help everyone at CDS, including our partners, create accessible and inclusive services for everyone.
 
-In creating these guidelines, we have drawn from the work of the Government Digital Service in the United Kingdom, 18F in the United States, Digital Transformation Agency in Australia and the Ontario Digital Service and adapted it to meet our needs and priorities. We will regularly add to and improve this guide.
+In creating these guidelines, we have drawn from the work of the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) in the United Kingdom, [18F](https://18f.gsa.gov/) in the United States, [Digital Transformation Agency](https://www.dta.gov.au/) in Australia and the [Ontario Digital Service](https://www.ontario.ca/page/ontario-digital-service) and adapted it to meet our needs and priorities. We will regularly add to and improve this guide.
 
 ## Principles of Accessibility
 
 - Put people first; follow inclusive design principles to provide equal access by providing a comparable experience to humans with diverse abilities
 - Include accessibility from the start of service design
 - Strive to have a clear purpose and well-defined goals
-- Ensure that content is clear, use plain language
+- Ensure that content is clear, use [plain language](https://www.plainlanguage.gov/)
 - Provide helpful wayfinding —_help people navigate to relevant content_
 - Accommodate a range of people&#39;s needs by providing choice and flexibility
 - Include people with disabilities in user research, design, and testing of services
-- Use solid structure by building to standards: strive to meet WCAG 2.1
+- Use solid structure by building to standards: strive to exceed WCAG 2.1 AA
 - Test the online parts of a service for compatibility with assistive technologies
 - Have champions for accessibility on product teams and internal support teams
 - Resources should be compatible with current and future tools, include redundant modalities by offering choice
-- Providing a community feedback layer to improve services
+- Providing a community feedback layer, such as an accessibility statement, to continually improve services
 
 Together we can build more inclusive and accessible services.
