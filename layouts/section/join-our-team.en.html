@@ -20,7 +20,7 @@
                                 {{ range $p := (where .Pages ".Params.archived" "==" false) }}
                                 <div class="col-xs-12 col-md-6">
                                     <div class="post border-primary ">
-                                        <h3><a href={{ .RelPermalink }}>{{ .Title }}</a></h3>
+                                        <h3><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h3>
                                     </div>
                                 </div>
                                 {{ end }}
