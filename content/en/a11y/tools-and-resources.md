@@ -38,7 +38,7 @@ Use [the accessibility checklist created by](https://accessibility.18f.gov/check
 - link text that&#39;s not descriptive (for example, &#39;click here&#39; and &#39;read more&#39; links)
 - lack of colour contrast for text and important graphics or lack of proper controls
 - non decorative images not having meaningful alt text
-- [nline forms](https://design-system.service.gov.uk/components/) not being marked up correctly, so the right control is associated with the right label
+- [Online forms](https://design-system.service.gov.uk/components/) not being marked up correctly, so the right control is associated with the right label
 
 Some browsers have tools that make it easier to find accessibility problems in the Document Object Model (DOM). For example, [accessibility Inspector for Mozilla Firefox](https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector) and the [accessibility features in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/accessibility/reference). Also, you can check out the [Accessibility Object  Model](https://wicg.github.io/aom/).
 
