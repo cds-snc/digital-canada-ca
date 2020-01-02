@@ -69,7 +69,7 @@ Vérifiez que votre service tient compte de tous les éléments suivants :
 
 Dans la phase alpha, vous devrez aussi vous assurer que votre service fonctionne avec les technologies d&#39;adaptation les plus communes.
 
-- Faites des tests par vous-même avec les technologies d&#39;adaptation (vous pouvez demander au responsable de la communauté de pratique sur l&#39;accessibilité ou communiquer avec le Programme d&#39;accessibilité, d&#39;adaptation et de technologie informatique adaptée [AATIA] à Services partagés Canada pour en apprendre plus sur les technologies d&#39;adaptation).
+- Faites des tests par vous-même avec les technologies d&#39;adaptation (vous pouvez demander au responsable de la communauté de pratique sur l&#39;accessibilité ou communiquer avec le Programme d&#39;accessibilité, d&#39;adaptation et de technologie informatique adaptée [AATIA](https://www.canada.ca/fr/services-partages/organisation/programme-aatia.html) à Services partagés Canada pour en apprendre plus sur les technologies d&#39;adaptation).
 - Communiquez avec le responsable de la communauté de recherche en conception afin de trouver des participants qui utilisent des technologies d&#39;adaptation pour vos recherches auprès des utilisateurs.
 - Demander que des tests de technologie d&#39;adaptation soient inclus dans votre audit de l&#39;accessibilité.
 
