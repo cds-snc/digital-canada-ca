@@ -53,7 +53,7 @@ Check that your service includes all the following:
 - [All images have alt attributes](https://accessibility.18f.gov/images/)
 - [Multimedia is tagged](https://accessibility.18f.gov/multimedia/): All multimedia has appropriate captioning and audio description
 - [Text has sufficient color contrast](https://accessibility.18f.gov/color/): All text has a contrast ratio of 4.5:1 with the background
-- [Site](https://accessibility.18f.gov/keyboard/)[never loses focus](https://accessibility.18f.gov/keyboard/): Focus is always visible when moving through the page with the keyboard
+- [Site](https://accessibility.18f.gov/keyboard/) [never loses focus](https://accessibility.18f.gov/keyboard/): Focus is always visible when moving through the page with the keyboard
 - [Tab order is logical](https://accessibility.18f.gov/keyboard/)
 - [Form instructions are associated with inputs](https://accessibility.18f.gov/forms/)
 - [Site doesn&#39;t timeout unexpectedly](https://accessibility.18f.gov/timeouts/): Identify elements that may &quot;timeout&quot; and verify that the user can request more time
