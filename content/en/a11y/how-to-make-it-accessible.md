@@ -69,7 +69,7 @@ Check that your service includes all the following:
 
 In Alpha, you will also need to ensure your service works with the most common adaptive technologies:
 
-- test with adaptive technology yourself (you can ask the accessibility community of practice lead or contact the Accessibility, Accommodation and Adaptive Computer Technology (AAACT) program at Shared Services Canada (SSC) to learn about adaptive technology)
+- test with adaptive technology yourself (you can ask the accessibility community of practice lead or contact the [Accessibility, Accommodation and Adaptive Computer Technology (AAACT)](https://www.canada.ca/en/shared-services/corporate/aaact-program.html) program at Shared Services Canada (SSC) to learn about adaptive technology)
 - reach out to the design research community lead to help find user research participants who use adaptive technology
 - ask for adaptive technology testing to be included in your accessibility audit.
 
