@@ -11,3 +11,5 @@ thumb: ''
 processed: ''
 ---
 Test test test
+
+![test](/img/cds/hemingway-en.jpg "test")
