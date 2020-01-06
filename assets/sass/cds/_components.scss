@@ -131,6 +131,22 @@
 	margin: 0 auto;
 }
 
+// Adapted from WET's Bootstrap based alerts
+// https://wet-boew.github.io/v4.0-ci/demos/collapsible-alerts/collapsible-alerts-en.html
+.info-alert {
+	background: #d7faff; 
+	border-left: 4px solid #269abc;
+	padding: 2.2rem 2.5rem; 
+	margin-bottom: 2.75rem;
+
+	p:last-child {
+		margin-bottom: 0;
+	}
+	a, a:link {
+		color: #245269;
+	}
+}
+
 
 ///// TEAM LISTING
 
