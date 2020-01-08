@@ -13,8 +13,7 @@ image-alt: >-
   textbooks, a ruler connected to a row of legos, a white pen, an apple and a
   speaker.
 translationKey: cds-student-trust
-thumb: ''
-processed: ''
+thumb: /img/cds/jose-blog-header.jpg
 ---
 _Thinking back on my eight months as a student at the Canadian Digital Service (CDS), I have come to learn that empowerment is about trust; trust from your leaders and most importantly trust in yourself._
 
