@@ -14,8 +14,7 @@ image-alt: >-
   droite: une pile de livres, une règle décorée d’une rangée de blocs Lego, un
   stylo blanc, une pomme et un haut-parleur portatif.
 translationKey: cds-student-trust
-thumb: ''
-processed: ''
+thumb: /img/cds/jose-blog-header.jpg
 ---
 _En repensant aux huit mois que j’ai passés comme étudiant en stage au Service numérique canadien (SNC), j’ai appris que le renforcement de l’autonomie est une question de confiance : la confiance de la part de ses gestionnaires et, surtout, la confiance en soi._
 
