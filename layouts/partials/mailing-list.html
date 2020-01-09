@@ -76,8 +76,10 @@
 <section id="privacy-notice-modal" class="mfp-hide wb-overlay modal-content overlay-def wb-popup-mid">
   <div class="modal-container">
     <header class="modal-header">
-      <h2 class="modal-title">{{ i18n "privacy-notice" }}</h2>
-      <button type="button" class="mfp-close" title="Close: Privacy Notice (escape key)">×<span class="wb-inv"> Close: Privacy Notice (escape key)</span><span class="wb-inv"> Close: Privacy Notice (escape key)</span></button>
+      <div class="modal-header-container">
+        <h2 class="modal-title">{{ i18n "privacy-notice" }}</h2>
+        <button type="button" class="mfp-close" title="Close: Privacy Notice (escape key)">×<span class="wb-inv"> Close: Privacy Notice (escape key)</span><span class="wb-inv"> Close: Privacy Notice (escape key)</span></button>
+      </div>
     </header>
     <div class="modal-body">
       <p>{{ i18n "privacy-notice-pt-1" | safeHTML }}</p>

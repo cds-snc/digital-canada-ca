@@ -1243,19 +1243,10 @@ article.post {
 // Privacy modal styles
 #privacy-notice-modal {
   position: relative;
+
+  h2 {
+    padding-bottom: 0;
   }
-
-.modal-content {
-  overflow-y: initial !important;
-  height: 100vh;
-  z-index: 100;
-  background: $black;
-}
-
-#privacy-notice-modal .modal-header {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
 }
 
 .modal-container {
@@ -1263,12 +1254,30 @@ article.post {
   margin: 40px auto;
 }
 
+.modal-content {
+  // overflow-y: initial !important;
+  height: 100vh;
+  z-index: 100;
+  background: $black;
+}
+
+.overlay-def header {
+  padding: 5px 10px 0 15px;
+}
+
+#privacy-notice-modal .modal-header-container {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row wrap;
+  align-items: flex-start;
+}
+
 .mfp-close {
   font-size: 20px;
   cursor: pointer;
   background: none;
   border: none;
-  margin: 0;
+  margin: 5px 0 0 0;
   padding: 0;
   width: 25px;
 }
