@@ -1240,6 +1240,62 @@ article.post {
   }
 }
 
+// Privacy modal styles
+#privacy-notice-modal {
+  position: relative;
+}
+
+.modal-container {
+  width: 80%;
+  margin: 40px auto;
+}
+
+.modal-content {
+  // overflow-y: initial !important;
+  height: 100vh;
+  z-index: 100;
+  background: $black;
+}
+
+.overlay-def header {
+  padding: 5px 10px 0 15px;
+}
+
+#privacy-notice-modal .modal-header-container {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: row wrap;
+  align-items: flex-start;
+}
+
+.mfp-close {
+  font-size: 20px;
+  cursor: pointer;
+  background: none;
+  border: none;
+  margin: 5px 0 0 0;
+  padding: 0;
+  width: 25px;
+}
+
+.modal-body {
+  height: 600px;
+  overflow-y: auto;
+}
+
+.mfp-preloader {
+  display: none;
+}
+
+.btn-sm {
+  display: none;
+}
+
+.overlay-close {
+  display: none;
+}
+
+
 // TODO - update general CSS for the main content section
 // and create specialized H3's etc. where needed.
 .page-legal {
