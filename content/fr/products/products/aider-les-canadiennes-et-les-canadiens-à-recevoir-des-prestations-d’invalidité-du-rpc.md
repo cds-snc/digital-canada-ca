@@ -18,6 +18,8 @@ status: in-flight
 links: 
   - name: Documentation
     url: 'https://cds-snc.github.io/cpp-disability-documentation/accueil/'
+  - name: GitHub
+    url: 'https://github.com/cds-snc/cppd-medical-report-sails'
 onhomepage: true
 ---
 
