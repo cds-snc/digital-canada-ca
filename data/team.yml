@@ -86,8 +86,8 @@ exec:
     image-name: /img/cds/sage-cram.jpg
     name: Sage Cram
     title:
-      en: Head of Partnerships
-      fr: Chef des partenariats
+      en: Head of Partnership Development
+      fr: Chef du développement des partenariats
     processed: 1575304321706
   - email: Jennifer.Morin@tbs-sct.gc.ca
     image-name: /img/cds/jennifer-morin.jpg
