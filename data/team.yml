@@ -68,9 +68,18 @@ exec:
     name: Colin MacArthur
     processed: 1552050695385
     title:
-      en: Head of Design Research
-      fr: Chef de recherche en conception
+      en: Interim Director of Communities
+      fr: Directeur par intérim des communautés
     twitter: colinpmacarthur
+  - archived: false
+    email: Courtney.Claessens@tbs-sct.gc.ca
+    image-name: /img/cds/courtney-claessens.jpg
+    linkedin: courtneyclaessens
+    name: Courtney Claessens
+    processed: 1552050695390
+    title:
+      en: Interim Head of Product Management
+      fr: Chef par intérim de la gestion de produits
   - archived: false
     email: Eman.El-Fayomi@tbs-sct.gc.ca
     image-name: /img/cds/eman-elfayomi.jpg
@@ -90,7 +99,7 @@ exec:
       fr: Chef du développement des partenariats
     processed: 1575304321706
   - email: Jennifer.Morin@tbs-sct.gc.ca
-    image-name: /img/cds/jennifer-morin.jpg
+    image-name: /img/cds/jennifer-morin1.jpg
     name: Jennifer Morin
     processed: 1568391268233
     title:
@@ -141,8 +150,8 @@ exec:
     name: Mario Garneau
     processed: 1552050695386
     title:
-      en: Head of Development
-      fr: Chef du développement
+      en: Delivery Manager - Platform
+      fr: Gestionnaire de livraison - Plateformes
     twitter: mcman12
   - archived: false
     email: Ross.Ferguson@tbs-sct.gc.ca
@@ -151,7 +160,7 @@ exec:
     name: Ross Ferguson
     processed: 1552050695387
     title:
-      en: Head of Delivery
+      en: Director of Platform
       fr: Chef de la prestation des services
     twitter: rossferg
   - archived: false
@@ -161,8 +170,8 @@ exec:
     name: Wendy Luciani
     processed: 1552050695387
     title:
-      en: Head of Engagement
-      fr: Chef de mobilisation
+      en: Director of Partnerships
+      fr: Directrice des partenariats
     twitter: wmluciani
 team:
   - archived: false
@@ -267,15 +276,6 @@ team:
       en: Product Management
       fr: Gestion de produits
     twitter: ClementineHahn
-  - archived: false
-    email: Courtney.Claessens@tbs-sct.gc.ca
-    image-name: /img/cds/courtney-claessens.jpg
-    linkedin: courtneyclaessens
-    name: Courtney Claessens
-    processed: 1552050695390
-    title:
-      en: Product Management
-      fr: Gestion de produits
   - archived: false
     email: Damien.Trudel@tbs-sct.gc.ca
     image-name: /img/cds/damien-trudel.jpg
@@ -391,14 +391,14 @@ team:
       en: Talent
       fr: Talent
   - archived: false
-    email: jose.jimenez@tbs-sct.gc.ca
-    image-name: /img/cds/jose-jimenez.jpg
-    linkedin: jimenezj27
-    name: Jose Jimenez
+    email: john.kenney@tbs-sct.gc.ca
+    image-name: /img/cds/john-kenney.jpg
+    linkedin: johnrkenney
+    name: John Kenney
     processed: 1563387298644
     title:
-      en: Partnerships
-      fr: Partenariats
+      en: Policy
+      fr: Politiques
   - archived: false
     email: julie-ann.rowsell@tbs-sct.gc.ca
     github: JuliannaR
