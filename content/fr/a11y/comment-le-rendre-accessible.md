@@ -46,24 +46,28 @@ Dans la phase alpha, assurez-vous que votre service satisfait aux normes de notr
 
 Vérifiez que votre service tient compte de tous les éléments suivants :
 
-- [Le site est accessible par clavier](https://accessibility.18f.gov/keyboard/) (page en anglais seulement) : toutes les interactions peuvent être faites par clavier.
-- [Le site est exempt de pièges pour clavier](https://accessibility.18f.gov/keyboard/#keyboard-trap) (page en anglais seulement) : le focus du clavier n&#39;est jamais piégé dans une boucle.
-- [Toutes les entrées de formulaire sont clairement identifiées](https://accessibility.18f.gov/forms/) (page en anglais seulement).
-- [Toutes les images pertinentes utilisent une étiquette img](https://accessibility.18f.gov/images/) (page en anglais seulement).
-- [Toutes les images ont des attributs de remplacement](https://accessibility.18f.gov/images/) (page en anglais seulement).
-- [Le contenu multimédia est étiqueté](https://accessibility.18f.gov/multimedia/) (page en anglais seulement) : tous les éléments multimédias ont une légende appropriée et une description audio.
-- [Le contraste de couleur du texte est suffisant](https://accessibility.18f.gov/color/) (page en anglais seulement) : tout le texte a un rapport de contraste de 4,5:1 avec l&#39;arrière-plan.
-- [Le site ne perd jamais le focus](https://accessibility.18f.gov/keyboard/) (page en anglais seulement) : l&#39;indicateur de focus est toujours visible lorsqu&#39;il se déplace dans la page avec le clavier.
-- [L&#39;ordre des onglets est logique](https://accessibility.18f.gov/keyboard/) (page en anglais seulement).
-- [Les instructions du formulaire sont associées aux entrées](https://accessibility.18f.gov/forms/) (page en anglais seulement).
-- [Le site n&#39;arrête pas de façon imprévue après un certain temps](https://accessibility.18f.gov/timeouts/) (page en anglais seulement) : déterminer quels sont les éléments assujettis à un « temps d&#39;expiration » et vérifier que l&#39;utilisateur peut demander plus de temps.
-- [Les tableaux sont bien codés](https://accessibility.18f.gov/tables/) (page en anglais seulement) : les tableaux ont les bons attributs de titre et de colonnes.
-- [Les titres sont bien imbriqués](https://accessibility.18f.gov/headings/) (page en anglais seulement) : les éléments de titre sont imbriqués de façon logique.
-- [La langue de la page est réglée](https://accessibility.18f.gov/language/) (page en anglais seulement), et pour les sections de la page qui diffèrent de la langue du site, la langue est réglée.
-- Le contenu audio et vidéo a des sous-titres appropriés, des transcriptions ou une vidéodescription au besoin.
-- Le contenu est identifié uniquement par sa forme ou son emplacement ou à l&#39;aide de symboles graphiques uniques pour transmettre des informations.
-- Utilisation des couleurs : ne pas utiliser seulement les couleurs pour transmettre des informations significatives.
-- Les liens « saut de navigation » sont disponibles pour contourner des blocs de contenu répétés sur plusieurs [pages Web](https://www.w3.org/TR/WCAG21/#dfn-web-page-s) (page en anglais seulement).
+- À l’aide d’outils automatisés :
+ - [Toutes les entrées de formulaire sont clairement identifiées](https://accessibility.18f.gov/forms/) (page en anglais seulement).
+ - [Le contraste de couleur du texte est suffisant](https://accessibility.18f.gov/color/) (page en anglais seulement) : tout le texte a un rapport de contraste de 4,5:1 avec l&#39;arrière-plan.
+ - [Les instructions du formulaire sont associées aux entrées](https://accessibility.18f.gov/forms/) (page en anglais seulement).
+ - [La langue de la page est réglée](https://accessibility.18f.gov/language/) (page en anglais seulement), et pour les sections de la page qui diffèrent de la langue du site, la langue est réglée.
+
+
+- À l’aide de tests manuels :
+ - [Le site est accessible par clavier](https://accessibility.18f.gov/keyboard/) (page en anglais seulement) : toutes les interactions peuvent être faites par clavier.
+ - [Le site est exempt de pièges pour clavier](https://accessibility.18f.gov/keyboard/#keyboard-trap) (page en anglais seulement) : le focus du clavier n&#39;est jamais piégé dans une boucle.
+ - [Toutes les images pertinentes utilisent une étiquette img](https://accessibility.18f.gov/images/) (page en anglais seulement).
+ - [Toutes les images ont des attributs de remplacement](https://accessibility.18f.gov/images/) (page en anglais seulement).
+ - [Le contenu multimédia est étiqueté](https://accessibility.18f.gov/multimedia/) (page en anglais seulement) : tous les éléments multimédias ont une légende appropriée et une description audio.
+ - [Le site ne perd jamais le focus](https://accessibility.18f.gov/keyboard/) (page en anglais seulement) : l&#39;indicateur de focus est toujours visible lorsqu&#39;il se déplace dans la page avec le clavier.
+ - [L&#39;ordre des onglets est logique](https://accessibility.18f.gov/keyboard/) (page en anglais seulement).
+ - [Le site n&#39;arrête pas de façon imprévue après un certain temps](https://accessibility.18f.gov/timeouts/) (page en anglais seulement) : déterminer quels sont les éléments assujettis à un « temps d&#39;expiration » et vérifier que l&#39;utilisateur peut demander plus de temps.
+ - [Les tableaux sont bien codés](https://accessibility.18f.gov/tables/) (page en anglais seulement) : les tableaux ont les bons attributs de titre et de colonnes.
+ - [Les titres sont bien imbriqués](https://accessibility.18f.gov/headings/) (page en anglais seulement) : les éléments de titre sont imbriqués de façon logique.
+ - Le contenu audio et vidéo a des sous-titres appropriés, des transcriptions ou une vidéodescription au besoin.
+ - Le contenu est identifié uniquement par sa forme ou son emplacement ou à l&#39;aide de symboles graphiques uniques pour transmettre des informations.
+ - Utilisation des couleurs : ne pas utiliser seulement les couleurs pour transmettre des informations significatives.
+ - Les liens « saut de navigation » sont disponibles pour contourner des blocs de contenu répétés sur plusieurs [pages Web](https://www.w3.org/TR/WCAG21/#dfn-web-page-s) (page en anglais seulement).
 
 ### Favoriser les technologies d&#39;adaptation
 
