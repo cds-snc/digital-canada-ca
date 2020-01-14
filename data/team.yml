@@ -90,14 +90,6 @@ exec:
       en: Head of Design
       fr: Chef de la conception
     twitter: emanelfy
-  - archived: false
-    email: sage.cram@tbs-sct.gc.ca
-    image-name: /img/cds/sage-cram.jpg
-    name: Sage Cram
-    title:
-      en: Head of Partnership Development
-      fr: Chef du développement des partenariats
-    processed: 1575304321706
   - email: Jennifer.Morin@tbs-sct.gc.ca
     image-name: /img/cds/jennifer-morin1.jpg
     name: Jennifer Morin
@@ -121,8 +113,8 @@ exec:
     name: John O'Brien
     processed: 1552050695386
     title:
-      en: Head of Security
-      fr: Chef de sécurité
+      en: Head of Development and Security
+      fr: Chef par intérim du développement et de la sécurité
     twitter: boardom_ca
   - archived: false
     email: Joshua.Ruihley@tbs-sct.gc.ca
@@ -154,6 +146,14 @@ exec:
       fr: Gestionnaire de livraison - Plateformes
     twitter: mcman12
   - archived: false
+    email: Mithula.Naik@tbs-sct.gc.ca
+    image-name: /img/cds/mithula-naik.jpg
+    name: Mithula Naik
+    processed: 1552050695393
+    title:
+      en: Interim Head of Design Research
+      fr: Chef par intérim de la recherche en conception
+  - archived: false
     email: Ross.Ferguson@tbs-sct.gc.ca
     image-name: /img/cds/ross-ferguson.jpg
     linkedin: rossferguson
@@ -163,6 +163,14 @@ exec:
       en: Director of Platform
       fr: Chef de la prestation des services
     twitter: rossferg
+  - archived: false
+    email: sage.cram@tbs-sct.gc.ca
+    image-name: /img/cds/sage-cram.jpg
+    name: Sage Cram
+    title:
+      en: Head of Partnership Development
+      fr: Chef du développement des partenariats
+    processed: 1575304321706
   - archived: false
     email: Wendy.Luciani@tbs-sct.gc.ca
     image-name: /img/cds/wendy-luciani.jpg
@@ -542,14 +550,6 @@ team:
       en: Development
       fr: Développement
     twitter: dexterchief
-  - archived: false
-    email: Mithula.Naik@tbs-sct.gc.ca
-    image-name: /img/cds/mithula-naik.jpg
-    name: Mithula Naik
-    processed: 1552050695393
-    title:
-      en: Design Research
-      fr: Recherche en conception
   - archived: false
     email: nick.makuch@tbs-sct.gc.ca
     github: nmakuch
