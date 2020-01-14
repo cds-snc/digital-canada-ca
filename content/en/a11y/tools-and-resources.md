@@ -17,21 +17,21 @@ At the Canadian Digital Service (CDS), we use a variety of testing tools, includ
 
 For automated testing, CDS uses a range of tools, including:
 
-- [accessibilityinsights.io](https://accessibilityinsights.io/)
-- [Axe](https://www.deque.com/axe/)
-- [Siteimprove](https://siteimprove.com/en-ca/core-platform/integrations/browser-extensions/)
-- [WAVE Toolbar](https://wave.webaim.org/)
+- [accessibilityinsights.io](https://accessibilityinsights.io/) - Open source browser extension from Microsoft.
+- [Axe](https://www.deque.com/axe/) - Open source accessibility engine.
+- [WAVE Toolbar](https://wave.webaim.org/) - Popular free browser extension by WebAim. 
+- [Siteimprove](https://siteimprove.com/en-ca/core-platform/integrations/browser-extensions/) - Commercial tool with site-wide accessibility checking and browser extensions.
 - [Google Chrome - Accessibility Developer Plugin](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 
-**Pa11y / Puppeteer** is a [NodeJS (JavaScript) Library](https://github.com/pa11y/pa11y) for automating Google&#39;s Chrome &amp; Chromium Web Browser. The reason we choose this library over another tool such as selenium was purely due to ease of use.
+**Pa11y / Puppeteer** is a [NodeJS (JavaScript) Library](https://github.com/pa11y/pa11y) for automating Google&#39;s Chrome and Chromium Web Browser. The reason we choose this library over another tool such as Selenium was purely due to ease of use.
 
 We found that Puppeteer was easier for our devs to use then other alternatives. This also allowed use to automate certain functionality that can be difficult to test for single page apps and dynamically generated content.
 
-**aXe Core** was selected due to the updates towards WCAG 2.1 automated testing scoring and due to their partnership with Microsoft&#39;s accessibility.insights.io tool which allows more detailed walk throughs in the manual testing arena. aXe is also commitment to producing little to no-false positives and has partnered with government, industry and other accessibility leaders as the engine for automation tools. It is also used by Google for their in-browser and cli a11y automation tool Lighthouse. It also was very easy to integrate with Puppeteer, Jira and Github.
+**aXe Core** is becoming the default accessibility engine because it supports WCAG 2.1 automated test scores, has a commitment to reducing false positives and because it is open source. Deque is in partnership with Microsoft which is contributing back to this open source project through the [Accessibility Insights](https://accessibilityinsights.io/) extension. Microsoft's accessibility extension allows more detailed walk throughs in the manual testing arena. Because it is open source, aXe has partners in government, industry and other through accessibility leaders keen on producing a robust automated accessibility engine. Google also leverages aXe in their Lighthouse tool which is available as a browser and command line tool (CLI) for automated reviews. aXe is also very easy to integrate with Puppeteer, Jira and Github.
 
 ## Manual testing
 
-Use [the accessibility checklist created by 18F](https://accessibility.18f.gov/checklist/) (the US government&#39;s digital agency) to help you test for common accessibility problems, including:
+Use [the accessibility checklist created by](https://accessibility.18f.gov/checklist/)[18F](https://accessibility.18f.gov/checklist/) (the US government&#39;s digital agency) to help you test for common accessibility problems, including:
 
 - lack of keyboard accessibility (important because people who use screen readers, voice recognition or have situational, temporary of permanent mobility related disabilities may rely on using a keyboard to navigate websites)
 - ensure that the content is written in plain language

@@ -25,17 +25,17 @@ L&#39;accessibilité demande du temps. Lorsque vous contactez les services d&#39
 
 Pour les tests automatisés, le SNC utilise un éventail d&#39;outils, dont les suivants :
 
-- [insights.io](https://accessibilityinsights.io/) (site en anglais seulement)
-- [Axe](https://www.deque.com/axe/) (site en anglais seulement)
-- [Siteimprove](https://siteimprove.com/en-ca/core-platform/integrations/browser-extensions/) (site en anglais seulement)
-- [WAVE](https://wave.webaim.org/) (site en anglais seulement)
+- [Accessibility Insights](https://accessibilityinsights.io/) (site en anglais seulement) : extension de navigateur en source libre, de Microsoft.
+- [Axe](https://www.deque.com/axe/) (site en anglais seulement) : outil en source libre de vérification de l’accessibilité, de Deque Systems.
+- [Siteimprove](https://siteimprove.com/en-ca/core-platform/integrations/browser-extensions/) (site en anglais seulement) : outil commercial de vérification étendue de l’accessibilité des sites Web avec extensions de navigateur.
+- [WAVE](https://wave.webaim.org/) (site en anglais seulement) : extension de navigateur gratuite et populaire, de WebAim.
 - [ADT google](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en) (site en anglais seulement)
 
 **Pa11y / Puppeteer** est une [bibliothèque Node.js (JavaScript)](https://github.com/pa11y/pa11y) (site en anglais seulement) pour l&#39;automatisation des navigateurs Google Chrome et Chromium. La raison pour laquelle nous avons choisi cette bibliothèque au lieu d&#39;un autre outil comme Selenium est strictement liée à la facilité d&#39;utilisation.
 
 Nous avons déterminé qu&#39;il était plus facile pour nos développeurs d&#39;utiliser Puppeteer que d&#39;autres solutions. Cela nous a également permis d&#39;automatiser certaines fonctions qui pourraient être difficiles à tester pour les applications à page unique et pour le contenu créé de façon dynamique.
 
-**aXe-core** a été sélectionné en raison des mises à jour vers l&#39;évaluation par tests automatisés WCAG 2.1 et en raison de son partenariat avec l&#39;outil accessibility.insights.io de Microsoft, qui permet des revues de projet plus détaillées sur le plan des tests manuels. aXe s&#39;est également engagé à produire peu ou pas de faux positifs et a fait équipe avec le gouvernement, l&#39;industrie et d&#39;autres chefs de l&#39;accessibilité en tant que moteur pour les outils d&#39;automatisation. Il a également été utilisé par Google pour leur outil d&#39;automatisation dans le navigateur et l&#39;interface de ligne de commande d&#39;accessibilité Lighthouse. Il était également très facile de faire l&#39;intégration avec Puppeteer, Jira et GitHub.
+**aXe-core** est de plus en plus le vérificateur d’accessibilité par défaut étant donné sa prise en charge des scores aux tests automatisés WCAG 2.1, de son engagement à réduire les faux positifs, et de son accès en source libre. Deque collabore avec Microsoft, qui contribue en retour à ce projet en source libre par l’intermédiaire de l’extension [Accessibility Insights](https://accessibilityinsights.io/). L’extension d’accessibilité de Microsoft permet des expérimentations plus détaillées dans le domaine des tests manuels. Puisqu’il est de source ouverte, aXe fait l’objet de partenariats avec le gouvernement, l’industrie et d’autres chefs de file du milieu intéressés à créer un outil robuste et automatisé de vérification de l’accessibilité. Google utilise également aXe dans son outil Lighthouse, qui est disponible comme navigateur et interface de ligne de commande pour les examens automatisés. Par ailleurs, aXe est très facile à intégrer avec Puppeteer, Jira et GitHub. 
 
 ## Tests manuels
 

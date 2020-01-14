@@ -35,8 +35,10 @@ Pour créer ces lignes directrices, nous nous sommes inspirés des travaux du Se
 - Fournir des indications utiles — _aider les gens à naviguer vers le contenu pertinent_
 - Répondre aux besoins d&#39;un large éventail de personnes en leur offrant choix et souplesse
 - Inclure les personnes handicapées dans la recherche auprès des utilisateurs, la conception et la mise à l&#39;essai des services
-- Utiliser une structure solide en construisant selon des normes : aspirer à respecter les règles WCAG 2.1
+- Utiliser une structure solide en concevant selon normes : s’efforcer de dépasser les règles WCAG 2.1 AA
 - Tester la compatibilité des parties d&#39;un service qui sont en ligne avec les technologies d&#39;adaptation
 - Établir des champions de l&#39;accessibilité au sein des équipes des produits et des équipes de soutien interne
 - Avoir des ressources compatibles avec les outils actuels et futurs, et inclure des modalités redondantes qui offrent un choix
-- Fournir une rétroaction à la communauté pour améliorer les services
+- Fournir aux partenaires, aux utilisateurs ou aux autres intervenants une option de rétroaction pour la communauté, comme un énoncé sur l’accessibilité, afin d’améliorer les services
+
+Ensemble, nous pouvons concevoir des services plus inclusifs et accessibles.
