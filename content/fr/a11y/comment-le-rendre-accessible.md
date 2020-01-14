@@ -44,7 +44,7 @@ Dans la phase alpha, assurez-vous que votre service satisfait aux normes de notr
 
 ### Contrôle de priorité 1 — Critique (WCAG 2.1 A, AA)
 
-Vérifiez que votre service tient compte de tous les éléments suivants :
+Vérifiez que votre service tient compte de tous les éléments suivants.
 
 - À l’aide d’outils automatisés :
  - [Toutes les entrées de formulaire sont clairement identifiées](https://accessibility.18f.gov/forms/) (page en anglais seulement).
