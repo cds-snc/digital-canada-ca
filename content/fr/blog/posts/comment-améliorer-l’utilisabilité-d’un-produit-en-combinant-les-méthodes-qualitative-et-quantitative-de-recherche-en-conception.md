@@ -31,6 +31,7 @@ Au cours des derniers mois, alors que nous travaillions sur [l’outil « Signal
 Mais qu’est-ce que ça veut dire? Eh bien, vous vous souviendrez peut-être que lors des premières [séances de recherche qualitative] (https://numerique.canada.ca/2019/07/11/donn%C3%A9es-qualitatives-inconfortables-oui-mais-elles-valent-le-coup/), nous avons discuté avec des utilisateurs potentiels du service afin de comprendre leurs besoins. À partir des résultats de cette recherche, nous avons apporté des changements au prototype afin de répondre à ces besoins. 
 
 Quels changements avons-nous apportés?
+
 * Nous avons simplifié la mise en page du formulaire et réduit le nombre de questions par page. 
 * Nous avons adopté un langage émotionnellement rassurant afin d’essayer de dissiper le sentiment de honte que peuvent ressentir les victimes. 
 * Nous avons affirmé aux victimes qu’elles ne sont pas seules et qu’elles font la bonne chose en signalant un crime. 
@@ -45,6 +46,7 @@ Alors que la recherche qualitative nécessite moins de participants, mais fait r
 Pour ce faire, nous avons comparé le service de signalement existant à deux nouveaux prototypes. Nous avons séparé en trois groupes un panel en ligne de personnes touchées par la cybercriminalité et nous avons demandé à chaque groupe de remplir un rapport d’incident en utilisant l’une des trois versions du service. Nous leur avons ensuite demandé leurs commentaires sur l’utilisabilité du service et leur satisfaction à son égard. À l’aide d’une méthode de notation que nous avons mise au point avec nos partenaires de la GRC, nous avons déterminé laquelle des trois versions avait le plus haut taux de réussite, la plus grande quantité de rapports de qualité, et la plus grande utilisabilité.
 
 Nous avons tiré des données précieuses de cet exercice :
+
 * Les deux nouveaux prototypes ont été jugés plus utilisables et se sont avérés plus susceptibles d’être remplis en entier que le formulaire existant.
 * Les participants étaient plus enclins à utiliser le prototype 2 (celui dont le langage est rassurant) que les autres versions.
 * Le prototype 2 et le formulaire existant ont abouti à des rapports de qualité équivalente.
