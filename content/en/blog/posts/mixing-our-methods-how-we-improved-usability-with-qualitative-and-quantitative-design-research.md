@@ -29,6 +29,7 @@ Over the last few months, while working on the Royal Canadian Mounted Police (RC
 What does this mean? Well, you may recall that during early [qualitative research sessions](https://digital.canada.ca/2019/07/11/qualitative-data-uncomfortable-but-worth-it/), we spoke with potential users of the service to understand their needs. Based on the findings of this research, we iterated on the prototype to meet those needs. 
 
 What changes did we make?
+
 * We simplified the form layout and reduced the number of questions per page. 
 * We added emotionally reassuring language in an attempt to decrease shame. 
 * We told victims, “you’re not alone, you’re doing the right thing.” 
@@ -43,6 +44,7 @@ Where qualitative research involves fewer participants but surfaces rich stories
 To do that, we compared the existing reporting service against two new prototypes. We split an online panel of people who have been affected by cybercrime into three groups and asked each group to complete an incident report using one of the three versions of the service. After, we asked them for input on service usability and satisfaction. Using a scoring method we developed with our partners at RCMP,  we looked at which of the three versions had a higher completion rate, produced more quality reports, and was more usable. 
 
 We learned valuable information from this exercise: 
+
 * Both prototypes were rated as being more usable and were more likely to be completed than the existing form. 
 * Participants were more likely to want to use Prototype 2  (the one with reassuring language), than the other versions. 
 * Prototype 2 and the existing form gave the same quality of reports. 
