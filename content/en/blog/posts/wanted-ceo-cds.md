@@ -15,3 +15,72 @@ thumb: /img/cds/thumbnails/wanted-ceo-cds-2017.jpg
 processed: 1550672961786
 ---
 
+<table class="field-notes">
+    <tbody>
+        <tr class="field-note-title">
+            <th class="field-note-header">
+                <span href="http://localhost:1313/" class="logo-field-note" role="img" aria-label="Canadian Digital Service"></span>
+                <h2>Field note</h2>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <h3>Date: <span class="unbold">Dec/01/2019</span></h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Site: <span class="unbold">Train ride to Montreal</span></h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Activity: <span class="unbold">Lorem Ipsum</span></h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Participants <span class="unbold">6</span></h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Length of Observation: <span class="unbold">2 hours</span></h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Summary:</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Narrative:</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Interpretative:</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Reflexive:</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Questions/Things to follow up with:</h3>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet?</li>
+                    <li>Lorem ipsum dolor sit amet?</li>
+                    <li>Lorem ipsum dolor sit amet?</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>

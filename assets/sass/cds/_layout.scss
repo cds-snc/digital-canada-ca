@@ -288,9 +288,33 @@ td {
   background-repeat: no-repeat;
   background-size: contain;
   display: inline-block;
-  z-index: 1;
   height: 4.5rem;
   width: 4.5rem;
+  margin-right: 10px;
+}
+
+.field-note-title {
+  background-color: $action-orange;
+  border: none;
+}
+
+.field-note-header {
+  background-color: $action-orange;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  border: none;
+  padding-top: 15px;
+
+  h2 {
+    font-size: 1.85em;
+    margin-bottom: 0;
+
+  }
+}
+
+.unbold {
+  font-weight: 100;
 }
 
 
