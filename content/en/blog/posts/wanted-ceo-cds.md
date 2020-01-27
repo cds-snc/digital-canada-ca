@@ -8,10 +8,10 @@ description: >-
   executing a bold agenda with a lasting impact.
 author: 'Field notes test'
 date: '2017-09-12 09:00:00 -0400'
-image: /img/cds/wanted-ceo-cds-2017.jpg
+image: /img/cds/field-note-banner.jpg
 image-alt: 'Yaprak Baltacıoğlu, Secretary of the Treasury Board'
 translationKey: wanted-ceo-cds
-thumb: /img/cds/thumbnails/wanted-ceo-cds-2017.jpg
+thumb: /img/cds/field-note-banner.jpg
 processed: 1550672961786
 ---
 
