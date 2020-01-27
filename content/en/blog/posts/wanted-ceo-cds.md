@@ -15,4 +15,3 @@ thumb: /img/cds/thumbnails/wanted-ceo-cds-2017.jpg
 processed: 1550672961786
 ---
 
-<h1>this is a test</h1>

@@ -97,12 +97,6 @@
   @include mobile_only {
     border-top: 15px solid $black;
   }
-  @include tablet { 
-    // height: 20rem; 
-  }
-  @include desktop {
-    //  height: 25rem; 
-    }
 
   .page-blogpost & {
     height: 25rem;
@@ -286,6 +280,19 @@ td {
 		margin-bottom: 2.75rem;
 	}
 }
+
+// Style for Field Note tables (in our Blog section)
+.logo-field-note {
+  background-image: url("../img/cds/cds-logo-en-v2.svg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  z-index: 1;
+  height: 4.5rem;
+  width: 4.5rem;
+}
+
 
 // Style for circle arrow icon turning right (featured beside links in different sections of the homepage)
 .fa-arrow-circle-right {
