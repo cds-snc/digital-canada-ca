@@ -1,33 +1,86 @@
 ---
-title: 'Wanted: CEO for CDS'
+title: 'Field notes test'
 description: >-
   The services our government provides play an important role in the lives of
   millions of people. That is why we’ve launched the Canadian Digital Service, a
   team focused on redesigning services from the user’s perspective. We are
   recruiting an experienced and inspiring Chief Executive to lead the team in
   executing a bold agenda with a lasting impact.
-author: 'Yaprak Baltacıoğlu, Secretary of the Treasury Board'
+author: 'Field notes test'
 date: '2017-09-12 09:00:00 -0400'
-image: /img/cds/wanted-ceo-cds-2017.jpg
+image: /img/cds/field-note-banner3.jpg
 image-alt: 'Yaprak Baltacıoğlu, Secretary of the Treasury Board'
 translationKey: wanted-ceo-cds
-thumb: /img/cds/thumbnails/wanted-ceo-cds-2017.jpg
+thumb: /img/cds/field-note-banner3.jpg
 processed: 1550672961786
 ---
-The services our government provides play an important role in the lives of millions of people. 
 
-That is why we’ve launched the Canadian Digital Service, a team focused on redesigning services from the user’s perspective. We are recruiting an experienced and inspiring Chief Executive to lead the team in executing a bold agenda with a lasting impact.
-
-The CEO of CDS will have a broad mandate to fundamentally improve federal service delivery across the enterprise, with partner departments. This person will have the strongest support from the top to put users back at the center of everything we do.
-
-In the past few months, I’ve spoken with digital service leaders around the world about what works and what they’ve learned. I’ve come away with a strong belief that the right leader for this role has a track record of shipping digital products and services that make a difference in people’s lives. They are an exceptional team-builder and creative partner, with a laser-like focus on implementation – and the ability to execute on their vision. 
-
-The right candidate is also inclusive, committed to the principles of openness, integrity, and fairness, and understands the connection between service delivery and public trust in government. 
-
-The CEO of CDS will have a seat at the senior management table of the Treasury Board Secretariat, the central agency which houses CDS and sets policies for all departments and agencies. As a peer and partner to the Government of Canada CIO, the CEO will be able to scale service innovation through standards that raise the bar for the entire government.
-
-If you’re excited by the opportunity we have before us as a government, as I am, I hope you will apply. As an immigrant to Canada, I learned the importance of service experience first-hand a long time ago. Whether we’re serving our nation’s immigrants, veterans, seniors, or the many other people and communities that depend on us, we have an obligation to provide services that are easy to access and simple to use.
-
-This is a unique opportunity to lead change for our country. You will make a difference.
-
-
+<table class="field-notes">
+    <tbody>
+        <tr class="field-note-title">
+            <th class="field-note-header">
+                <span href="http://localhost:1313/" class="logo-field-note" role="img" aria-label="Canadian Digital Service"></span>
+                <h2>Field note</h2>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <h3>Date: <span class="unbold">Dec/01/2019</span></h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Site: <span class="unbold">Train ride to Montreal</span></h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Activity: <span class="unbold">Lorem Ipsum</span></h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Participants <span class="unbold">6</span></h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Length of Observation: <span class="unbold">2 hours</span></h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Summary:</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Narrative:</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Interpretative:</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Reflexive:</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>Questions/Things to follow up with:</h3>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet?</li>
+                    <li>Lorem ipsum dolor sit amet?</li>
+                    <li>Lorem ipsum dolor sit amet?</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
