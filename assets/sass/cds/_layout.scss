@@ -282,6 +282,12 @@ td {
 }
 
 // Style for Field Note tables (in our Blog section)
+.field-note {
+  .bold {
+    font-weight: 500;
+  }
+}
+
 .logo-field-note {
   background-image: url("../img/cds/cds-logo-en-v2.svg");
   background-position: center center;
@@ -298,7 +304,7 @@ td {
   border: none;
 }
 
-.field-note-header {
+.page-blogpost .field-note-header {
   background-color: $action-orange;
   display: flex;
   flex-direction: row;
@@ -309,7 +315,15 @@ td {
   h2 {
     font-size: 1.85em;
     margin-bottom: 0;
+  }
+}
 
+.page-blogpost .field-note-subheader {
+  padding-top: 0;
+  padding-bottom: 0;
+
+  h3 {
+    font-size: 1.85rem;
   }
 }
 

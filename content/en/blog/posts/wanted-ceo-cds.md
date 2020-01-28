@@ -1,19 +1,17 @@
 ---
 title: 'Field notes test'
 description: >-
-  The services our government provides play an important role in the lives of
-  millions of people. That is why we’ve launched the Canadian Digital Service, a
-  team focused on redesigning services from the user’s perspective. We are
-  recruiting an experienced and inspiring Chief Executive to lead the team in
-  executing a bold agenda with a lasting impact.
+  Field Notes are a new content format for the Canadian Digital Service. Shorter than a blog post, a Field Note allows delivery teams to give more regular updates, share smaller insights and continue working in the open on a continuous basis.
 author: 'Field notes test'
 date: '2017-09-12 09:00:00 -0400'
-image: /img/cds/field-note-banner.jpg
+image: /img/cds/field-note-train.jpg
 image-alt: 'Yaprak Baltacıoğlu, Secretary of the Treasury Board'
 translationKey: wanted-ceo-cds
-thumb: /img/cds/field-note-banner.jpg
+thumb: /img/cds/field-note-train.jpg
 processed: 1550672961786
 ---
+
+<p>Field Notes are a new content format for the Canadian Digital Service. Shorter than a blog post, a Field Note allows delivery teams to give more regular updates, share smaller insights and continue working in the open on a continuous basis.</p>
 
 <table class="field-notes">
     <tbody>
@@ -24,62 +22,63 @@ processed: 1550672961786
             </th>
         </tr>
         <tr>
-            <td>
-                <h3>Date: <span class="unbold">Dec/01/2019</span></h3>
+            <td class="field-note-subheader">
+                <h3>Date: <span class="unbold">December 1, 2019</span></h3>
             </td>
         </tr>
         <tr>
-            <td>
-                <h3>Site: <span class="unbold">Train ride to Montreal</span></h3>
+            <td class="field-note-subheader">
+                <h3>Site: <span class="unbold">Montreal</span></h3>
             </td>
         </tr>
         <tr>
-            <td>
-                <h3>Activity: <span class="unbold">Lorem Ipsum</span></h3>
+            <td class="field-note-subheader">
+                <h3>Activity: <span class="unbold">Intercept Testing</span></h3>
             </td>
         </tr>
         <tr>
-            <td>
-                <h3>Participants <span class="unbold">6</span></h3>
+            <td class="field-note-subheader">
+                <h3>Participants <span class="unbold">CPP-D Team Researchers </span></h3>
             </td>
         </tr>
         <tr>
-            <td>
-                <h3>Length of Observation: <span class="unbold">2 hours</span></h3>
+            <td class="field-note-subheader">
+                <h3>Length of Observation: <span class="unbold">Two Days</span></h3>
             </td>
         </tr>
         <tr>
             <td>
                 <h3>Summary:</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <h5>Train ride to Montreal - Dec/01/2019</h5>
+                <p>Conducting design research for government services means that we’re often trying to conduct research with people who are difficult to find. For the Help Canadians access the CPP Disability Benefit (CPP-D) partnership with Employment and Social Development Canada (ESDC), we’re conducting research with three groups of people who will come in contact with the service: applicants to the benefit; medical professionals who provide supplemental information about the applicant; and processing staff at ESDC.</p>
+                <p>Medical professionals tend to value their time and they likely aren’t too enthusiastic about participating in a long survey. They’re also not very accessible to our small team of 12. </p>
+                <p>We attempted to, with some success, recruit research participants by contacting a famous doctor, associations representing family physicians and nurse practitioners, educational institutions for medical professionals, and local clinics to see if they would forward our emails to medical professionals. One recruitment strategy we hadn’t tried was intercept, where we go to where participants might be, rather than relying on forwarded emails and word-of-mouth.</p>
+                <p>On Dec 1st, 2019, we were on a train from Ottawa to Montreal to attend the Annual Refresher Course for Family Physicians — a medical conference that is mandatory for Canadian family physicians — to set up a table and test version 2 of our design with family physicians over two days.</p>
             </td>
         </tr>
         <tr>
             <td>
-                <h3>Narrative:</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3>Interpretative:</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3>Reflexive:</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3>Questions/Things to follow up with:</h3>
+                <h3>Observations:</h3>
+                <h5>Intercept in Montreal Day 1 - Dec/02/2019</h5>
+                <p>We set up our table that morning. We had a sign that read, “Hate government benefits paperwork? Help us make it easier,” hoping it would offer an additional incentive on top of our small compensation for their time.</p>
+                <p>Physicians were interested in participating in our research,  but said they couldn’t spare 15 minutes to sit down with us. </p>
+                <h5>Intercept in Montreal Day 2 - Dec/03/2019</h5>
+                <p>By the end of the second day, we had a total of five participants sit down with us.</p>
+                <p>We aimed for 10 participants. We were disappointed by our efforts and felt like they were wasted. </p>
+                <p>However, these five sessions gave us insight we couldn’t have gathered if we didn’t try intercept at a venue like this:</p>
                 <ul>
-                    <li>Lorem ipsum dolor sit amet?</li>
-                    <li>Lorem ipsum dolor sit amet?</li>
-                    <li>Lorem ipsum dolor sit amet?</li>
+                    <li>Medical professionals really don’t want to fill out this form;</li>
+                    <li>The time crunch participants experienced during their 15 minutes likely represents the actual amount of time they have to complete this form in real life;</li>
+                    <li>For our previous round of testing, our sessions were pre-scheduled. While these sessions also provided us with valuable feedback, participants were invested in improving this form with us. These new intercept participants are more likely to be representative of people outside of a fabricated research session; and,</li>
+                    <li>Intercept at a venue like a training conference is really difficult to make work. Scoping down what we want to learn during a research session will be helpful for next time.</li>
                 </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <h3>What's Next</h3>
+                <p>We’re conducting our third round of testing with medical professionals and processing staff to understand whether our ideas on the CPP-D medical report work within their contexts. As we did previously, we’re asking medical professionals to complete the medical report using a patient case study. Then, we take their responses to the CPP-D processing staff to ask if the responses were useful to adjudicating the medical report.</p>
+                <p>By putting prototypes in front of real people as early as possible, on all sides of the service, we can learn what works and what doesn't to adjust our course.</p>
             </td>
         </tr>
     </tbody>
