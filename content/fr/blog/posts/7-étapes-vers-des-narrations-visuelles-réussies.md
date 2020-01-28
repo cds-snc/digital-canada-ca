@@ -25,7 +25,7 @@ j’ai préparé un coffre à outils qui comprend 7 astuces afin de vous aider �
 
 Sortir du texte et traduire un récit de façon visuelle, c’est maximiser l’impact de son message. Bref, plus vos messages sont visuels, plus ils seront mémorables! Posez-vous cette question : que préférez-vous? Des données brutes ou une histoire visuellement intéressante?
 
-![]()
+![Une infographie qui présente trois faits. Fait 1 : Environ 50 % du cerveau est impliqué dans le traitement de l’information visuelle. Fait 2 : Ça prend environ 150 millisecondes au cerveau pour assimiler une image et lui associer une signification. Fait 3 : Selon une étude portant sur la reconnaissance des mots, le cerveau humain traite les images plus vite que les mots.](/img/cds/visual-storyteller-infographic-fr.jpeg)
 
 La recherche a fait d’importantes découvertes dans ce domaine. Par exemple, saviez-vous qu’environ 50 % de votre cerveau est impliqué dans le traitement de l’information visuelle (1)? Ou que le cerveau met environ 150 millisecondes à assimiler une image et à lui associer une signification (2)? OK, ces chiffres sont vraiment cool, mais qu’essaient-ils de nous dire?
 
