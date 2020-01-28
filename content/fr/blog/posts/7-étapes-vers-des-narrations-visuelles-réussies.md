@@ -51,25 +51,25 @@ Bien sûr, tout n’est pas blanc ou noir. L’important, c’est de savoir comm
 
 Napoléon se plaisait à dire qu’un bon croquis vaut mieux qu’un long discours. À l’ère du numérique, ces mots sont toujours d’actualité. La création d’images n’est en rien exclusive aux designers graphiques qui usent de logiciels d’imagerie spécialisés. Une simple capture d’écran peut être un excellent moyen d’illustrer clairement son message. Voici 7 astuces pour améliorer vos compétences en communication visuelle sans nécessairement être un spécialiste : 
 
-**Simplifiez**
+**1. Simplifiez**
 Déterminez l’essentiel de votre message. Si vous n’aviez le droit de dire qu’une seule chose, ce serait quoi? Quel est le cœur de votre message? Faites en sorte de traduire vos idées dans un langage simple. Soyez clair et concis. Évitez le jargon.
 
-**Demeurez authentique** 
+**2. Demeurez authentique** 
 Utiliser de vraies photos, c’est communiquer qui l’on est réellement. N’hésitez pas à faire des choix personnels. Des photographies touchantes susciteront davantage d’empathie de la part de votre public cible. Assurez-vous de savoir ce que vous souhaitez transmettre au moment de choisir une image.
 
-\*_Vous n’aurez pas toujours l’image idéale pour illustrer vos propos. Acceptez-le._
+**3. Vous n’aurez pas toujours l’image idéale pour illustrer vos propos. Acceptez-le.**
 Faites des choix visuels. Choisissez des images pertinentes et n’hésitez pas à utiliser des métaphores visuelles afin d’illustrer vos propos. Les images sont les premiers éléments qui accrochent l’œil dans une présentation. Sur Internet, faites preuve de discernement : les images ne devraient pas être une distraction. Si votre image n’aide pas à mieux comprendre, ne l’ajoutez pas.
 
-**Organisez vos mises en page**
+**4. Organisez vos mises en page**
 Organisez vos communications en séquences structurées. L’œil humain détecte instinctivement des structures répétitives. L’utilisation de la règle des tiers (un espace divisé en trois parties égales) apportera à vos conceptions l’équilibre qui captera l’attention. Sans un peu d’équilibre et de rythme, vos communications sembleront incohérentes et inefficaces. Souvenez-vous que le rythme n’est pas que musical. Il est visuel aussi.
 
-**Dites-le avec un graphique**
+**5. Dites-le avec un graphique**
 Mélange subtil entre informations et visuels, l’infographie sert à mieux présenter des données qui peuvent parfois être, pour certains, trop complexes à comprendre. Utilisez les infographies afin de visualiser des données de manière innovante et surtout de communiquer des informations spécifiques. Choisissez votre support avec soin puis concevez en conséquence, pour que l’information soit facile à lire et à comprendre.
 
-**Apprenez à utiliser les icônes avec succès**
+**6. Apprenez à utiliser les icônes avec succès**
 Les icônes s’expriment sans mots. Pratiquement toutes les cultures les utilisent. Cependant, elles doivent rester reconnaissables et homogènes à l’intérieur d’une même communication. Il ne faut pas en abuser. Assurez-vous que les icônes que vous utilisez transmettent efficacement ce que vous voulez dire. N’oubliez pas que les icônes servent à renforcer votre message. Ne les laissez pas lui voler la vedette.
 
-**Soyez inspirants!**
+**7. Soyez inspirants!**
 Transmettez vos informations sous forme de récit. Les gens se souviennent mieux des histoires que de simples données. N’hésitez pas à laisser parler votre créativité. Mais attention : si l’emballage est séduisant mais que le cadeau est vide, vous n’engendrerez que de la déception.
 
 ## En conclusion
