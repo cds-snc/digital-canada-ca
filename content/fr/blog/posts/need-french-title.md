@@ -10,10 +10,6 @@ translationKey: field-note-1
 thumb: ''
 processed: ''
 ---
-
-
-
-
 # Notes de terrain
 
 **Date :**  1er décembre 2019
@@ -22,7 +18,7 @@ processed: ''
 **Participants :**  L’équipe de recherche PI-RPC
 **Durée des observations :**   2 jours
 
-## Résumé :\*\*
+## Résumé :
 
 **En train vers Montréal – 1er décembre 2019**
 Réaliser des travaux de recherche en conception pour les services gouvernementaux, c’est souvent essayer de faire de la recherche avec des gens qui sont difficiles à trouver. Dans le cadre du partenariat Aider les Canadiennes et Canadiens à accéder aux prestations d’invalidité du RPC (PI-RPC) avec Emploi et Développement social Canada (EDSC), nous menons des recherches auprès de trois groupes de personnes concernées par le service : les personnes qui demandent des prestations, les spécialistes de la santé qui fournissent des renseignements supplémentaires au sujet de ces dernières, ainsi que le personnel de traitement à EDSC. 
