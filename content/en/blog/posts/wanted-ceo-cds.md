@@ -15,7 +15,7 @@ thumb: /img/cds/field-note-train.jpg
 processed: 1550672961786
 ---
 
-<p>Field Notes are a new content format for the Canadian Digital Service. Shorter than a blog post, a Field Note allows delivery teams to give more regular updates, share smaller insights and continue working in the open on a continuous basis.</p>
+<p>Les notes de terrain sont un nouveau format de contenu du Service numérique canadien. Plus courtes qu’un billet de blogue, elles permettent aux équipes de livraison de donner des mises à jour plus régulières, de partager des observations plus modestes et de travailler ouvertement de façon continue.</p>
 
 <table class="field-notes">
     <tbody>
