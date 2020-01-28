@@ -22,6 +22,8 @@ Drawing from my past experiences, as well as those learned at CDS, I’ve put to
 
 Stepping outside of the text and translating a story visually maximizes the impact of your message. In short, the more visual your messages are, the more memorable they will be! Ask yourself this question: Which do you prefer? Raw data, or an interesting graphical story?
 
+![An infographic that states three facts. Fact 1 : Almost 50 % of your brain is involved in visual processing. Fact 2: 150 milliseconds is the approximate time that a brain takes to assimilate an image and to associate a meaning to it. Fact 3: According to a study on word recognition, the human brain processes images faster than words.](/img/cds/visual-storyteller-infographic.jpeg)
+
 Research in this field has yielded some interesting findings like, for example, did you know that almost 50 percent of your brain is involved in visual processing?(1) Or that it takes our brains about 150 milliseconds to process an image and give it meaning?(2). These numbers are really cool, but what are they really trying to tell us?
 
 They teach us that vision is the dominant sense in human beings. Our brains seem to prefer an interesting story when it comes to understanding the world that surrounds us.
