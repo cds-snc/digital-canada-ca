@@ -25,7 +25,7 @@ Field Notes are a new content format for the Canadian Digital Service. Shorter t
 **Activity:** Intercept Testing
 **Participants:** CPP-D Team Researchers
 **Length of Observation:**  Two Days
-**Summary:**  
+## Summary:  
 **Train ride to Montreal - Dec/01/2019**
 
 Conducting design research for government services means that we’re often trying to conduct research with people who are difficult to find. For the Help Canadians access the CPP Disability Benefit (CPP-D) partnership with Employment and Social Development Canada (ESDC), we’re conducting research with three groups of people who will come in contact with the service: applicants to the benefit; medical professionals who provide supplemental information about the applicant; and processing staff at ESDC. 
@@ -36,7 +36,7 @@ We attempted to, with some success, recruit research participants by contacting 
 
 On Dec 1st, 2019, we were on a train from Ottawa to Montreal to attend the Annual Refresher Course for Family Physicians — a medical conference that is mandatory for Canadian family physicians — to set up a table and test version 2 of our design with family physicians over two days.
 
-**Observations:**  
+## Observations:**  
 **Intercept in Montreal Day 1 - Dec/02/2019**
 We set up our table that morning. We had a sign that read, “Hate government benefits paperwork? Help us make it easier,” hoping it would offer an additional incentive on top of our small compensation for their time.
 
@@ -58,7 +58,7 @@ However, these five sessions gave us insight we couldn’t have gathered if we d
 *For our previous round of testing, our sessions were pre-scheduled. While these sessions also provided us with valuable feedback, participants were invested in improving this form with us. These new intercept participants are more likely to be representative of people outside of a fabricated research session; and,
 *Intercept at a venue like a training conference is really difficult to make work. Scoping down what we want to learn during a research session will be helpful for next time.
 
-**Observations:**  
+## Observations:**  
 We’re conducting our third round of testing with medical professionals and processing staff to understand whether our ideas on the CPP-D medical report work within their contexts. As we did previously, we’re asking medical professionals to complete the medical report using a patient case study. Then, we take their responses to the CPP-D processing staff to ask if the responses were useful to adjudicating the medical report.
 
 By putting prototypes in front of real people as early as possible, on all sides of the service, we can learn what works and what doesn't to adjust our course.
