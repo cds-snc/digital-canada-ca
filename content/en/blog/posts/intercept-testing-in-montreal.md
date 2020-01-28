@@ -25,6 +25,7 @@ Field Notes are a new content format for the Canadian Digital Service. Shorter t
 **Activity:** Intercept Testing
 **Participants:** CPP-D Team Researchers
 **Length of Observation:**  Two Days
+
 ## Summary:  
 **Train ride to Montreal - Dec/01/2019**
 
