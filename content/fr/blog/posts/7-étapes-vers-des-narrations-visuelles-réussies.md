@@ -10,7 +10,7 @@ image: /img/cds/visual-storyteller.jpg
 image-alt: >-
   Illustration d’un homme assis à un ordinateur et concevant un récit visuel sur
   le cosmos.
-translationKey: visual-storyteller
+translationKey: visual-storyteller-blog
 thumb: /img/cds/visual-storyteller.jpg
 ---
 Vous cherchez à rendre vos communications plus efficaces? Laissez les images vous aider à mettre en valeur vos messages.
