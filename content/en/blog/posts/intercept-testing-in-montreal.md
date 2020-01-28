@@ -16,10 +16,6 @@ translationKey: field-note-1
 thumb: ''
 processed: ''
 ---
-
-
-
-
 Field Notes are a new content format for the Canadian Digital Service. Shorter than a blog post, a Field Note allows delivery teams to give more regular updates, share smaller insights and continue working in the open on a continuous basis.
 
 # Field note
