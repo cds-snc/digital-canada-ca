@@ -49,26 +49,26 @@ of one’s own cultural context temporarily in order to get into someone else’
 
 Napoleon liked to say that “a good sketch is better than a long speech.” In the digital age, these words are still relevant today. Image creation is by no means exclusive to graphic designers who use specialized imaging software; Something as simple as a screenshot can be an excellent way to clearly illustrate your message. Here are 7 tips to improve your visual communication skills without necessarily being a specialist:
 
-**Simplify.**
+**1. Simplify.**
 Find the essence of your message. If you could only say one thing, what would it be? What is the core of your message? Make sure you translate your ideas into simple language. Be clear and concise. Avoid jargon.
 
-**Remain authentic.** 
+**2. Remain authentic.** 
 Using real photos helps communicate who you really are. Feel free to make personal choices. A touching photograph will evoke more empathy from your target audience. Make sure you know what you are trying to convey when selecting an image.
 
-**You won’t always have the ideal image to illustrate what you’re saying. Accept it.**
+**3. You won’t always have the ideal image to illustrate what you’re saying. Accept it.**
 Make visual choices. In presentations, choose relevant images and feel free to use visual metaphors to illustrate your discourse. Images are the first element that catch your eye. On the web, be discerning. Images should not be a distraction. If you don’t have an image that enhances understanding, don’t add one.
 
-**Organize your layout.**
+**4. Organize your layout.**
 Organize your communications into structured sequences. The human eye instinctively detects repetitive structures. Using the “rule of thirds” (a space divided into three equal parts) will bring to your design the balance that will capture attention. Without a little balance and rhythm, your communications will seem inconsistent and ineffective. Remember, rhythm is not only musical, it is also visual.
 
-**Say it with a graph.**
+**5. Say it with a graph.**
 Infographics, a subtle mix of information and visuals, are used to more easily present data that can sometimes be too complex for some to understand. Use graphs to visualize data in an innovative way to communicate specific information.
 Be thoughtful about your medium and design accordingly, so that all the information is easy to read and understand.
 
-**Learn how to use icons successfully.**
+**6. Learn how to use icons successfully.**
 Icons speak without any words. When well designed, everyone understands them. Almost every culture uses them. However, they must remain recognizable and homogeneous within any given form of communication. Don’t overuse them. Make sure that the icons you are using effectively convey what you want to say. Remember that icons are used to reinforce your message, don’t let them steal the show.
 
-**Be inspiring!**
+**7. Be inspiring!**
 Share your information in the form of a story. People remember stories better than data alone. Feel free to let your creativity speak for itself. But be careful: If the packaging is attractive and the gift empty, it will only generate disappointment.
 
 ## In conclusion
