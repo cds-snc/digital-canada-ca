@@ -8,7 +8,7 @@ author: 'Philippe Tardif, Visual Storyteller'
 date: 2020-01-28T15:02:30.012Z
 image: /img/cds/visual-storyteller.jpg
 image-alt: A picture of a man at a computer designing a visual story about outer space.
-translationKey: visual-storyteller
+translationKey: visual-storyteller-blog
 thumb: /img/cds/visual-storyteller.jpg
 ---
 Are you looking to make your communications more effective? Let images help you enhance your messages.
