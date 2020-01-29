@@ -293,9 +293,17 @@ td {
     font-weight: 500;
   }
  }
-  
+
  .logo-field-note {
   background-image: url("../img/cds/cds-logo-en-v2.svg");
+ }
+
+ .logo-field-note-fr {
+  background-image: url("../img/cds/cds-logo-fr-v2.svg");
+ }
+  
+ .logo-field-note,
+ .logo-field-note-fr {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
