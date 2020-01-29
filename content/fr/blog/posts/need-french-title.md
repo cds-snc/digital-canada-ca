@@ -1,11 +1,13 @@
 ---
 layout: blog
-title: Need french title
-description: Need french description
-author: Need french translation for author's title
+title: Réalisation de tests par interception à Montréal
+description: ' Les notes de terrain sont un nouveau format de contenu du Service numérique canadien. Plus courtes qu’un billet de blogue, elles permettent aux équipes de livraison de donner des mises à jour plus régulières, de partager des observations plus modestes et de travailler ouvertement de façon continue.'
+author: >-
+  Adrianne Lee, chercheuse au sein du partenariat «Aider les Canadiennes et
+  Canadiens à recevoir des prestations d’invalidité du RPC»
 date: 2020-01-28T20:47:54.884Z
 image: /img/cds/field-note-train.jpg
-image-alt: Need french alt text
+image-alt: Photo en teinte orangée d’une locomotive.
 translationKey: field-note-1
 thumb: ''
 processed: ''
