@@ -72,7 +72,7 @@ thumb: /img/cds/field-note-train.jpg
                     <li>Les spécialistes de la santé ne veulent vraiment pas remplir ce formulaire. </li>
                     <li>Les contraintes de temps vécues par les personnes participantes au cours de leurs 15 minutes représentent probablement le temps réel dont elles disposent pour remplir ce formulaire dans la vraie vie.</li>
                     <li>Pour nos séries de tests précédentes, nos séances étaient planifiées. Bien que nous en ayons tiré des commentaires utiles, les personnes participantes étaient motivées à améliorer ce formulaire avec nous. Toutefois, les nouvelles personnes recrutées par interception sont plus susceptibles d’être représentatives des gens qui ne font pas partie d’une séance de recherche fabriquée.</li>
-                    <li>ILe recrutement de répondants par interception dans une activité comme un symposium de formation est très difficile à faire fonctionner. Pour une prochaine fois, il sera utile de réduire la quantité de choses que nous voulons apprendre au cours de la séance de recherche.</li>
+                    <li>Le recrutement de répondants par interception dans une activité comme un symposium de formation est très difficile à faire fonctionner. Pour une prochaine fois, il sera utile de réduire la quantité de choses que nous voulons apprendre au cours de la séance de recherche.</li>
                 </ul>
             </td>
         </tr>
