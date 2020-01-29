@@ -61,7 +61,7 @@ thumb: /img/cds/field-note-train.jpg
                 <h3>Observations :</h3>
                 <h5>Jour 1 du recrutement par interception à Montréal – 2 décembre 2019</h5>
                 <p>Le matin, nous avons préparé notre table. Nous avions une affiche sur laquelle on pouvait lire : « Vous détestez toute la paperasse pour les prestations gouvernementales? Aidez-nous à la simplifier », en espérant que ça inciterait davantage les gens à participer, en plus de notre modeste rémunération pour leur temps.</p>
-                <img class="field-note-img" src="/img/cds/field-note-1-ad-fr.jpg" alt="Vous detestez toute la paperasse pour les presentations gouvernementales? Aidez-nous a la simplifier. Le Service numerique canadien aimerait connaitre votre avis. Vous recevrez une carte-cadeau de 25 $.">
+                <img class="field-note-img" src="/img/cds/field-note-1-ad-fr.jpg" alt="Vous detestez toute la paperasse pour les presentations gouvernementales? Aidez-nous a la simplifier. Le Service numerique canadien aimerait connaitre votre avis.">
                 <img class="field-note-img" src="/img/cds/cppd-team-research.jpg" alt="Des membres de l’équipe PI-RPC sont assis à une table avec des bannières du Service numérique canadien et des affiches visant à recruter des médecins pour leur recherche.">
                 <p>Les médecins étaient intéressés à participer à notre recherche, mais nous ont dit qu’ils ne pouvaient pas prendre 15 minutes pour s’asseoir avec nous.</p>
                 <h5>Jour 2 du recrutement par interception à Montréal – 3 décembre 2019</h5>
