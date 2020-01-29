@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Intercept testing in Montreal
+title: Field Note - Intercept Testing in Montreal
 description: >-
   Field Notes are a new content format for the Canadian Digital Service. Shorter
   than a blog post, a Field Note allows delivery teams to give more regular

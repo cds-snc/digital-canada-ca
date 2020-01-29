@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Réalisation de tests par interception à Montréal
+title: Notes de terrain - Réalisation de tests par interception à Montréal
 description: ' Les notes de terrain sont un nouveau format de contenu du Service numérique canadien. Plus courtes qu’un billet de blogue, elles permettent aux équipes de livraison de donner des mises à jour plus régulières, de partager des observations plus modestes et de travailler ouvertement de façon continue.'
 author: >-
   Adrianne Lee, chercheuse au sein du partenariat «Aider les Canadiennes et
