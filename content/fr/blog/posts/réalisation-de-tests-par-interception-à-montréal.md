@@ -17,7 +17,7 @@ thumb: /img/cds/field-note-train.jpg
     <tbody>
         <tr class="field-note-title">
             <th class="field-note-header">
-                <span href="http://localhost:1313/" class="logo-field-note" role="img" aria-label="Canadian Digital Service"></span>
+                <span href="http://localhost:1313/" class="logo-field-note-fr" role="img" aria-label="Canadian Digital Service"></span>
                 <h2>Notes de terrain</h2>
             </th>
         </tr>
