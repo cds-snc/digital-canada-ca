@@ -10,10 +10,10 @@ author: >-
   Adrianne Lee, Researcher with Help Canadians access the CPP Disability Benefit
   (CPP-D) partnership
 date: 2020-01-28T20:37:47.522Z
-image: /img/cds/field-note-train.jpg
+image: /img/cds/notify-4.jpg
 image-alt: 'A picture of the front of a train in an orange tinted background. '
 translationKey: field-note-1
-thumb: /img/cds/field-note-train.jpg
+thumb: /img/cds/notify-4.jpg
 ---
 <p>Field Notes are a new content format for the Canadian Digital Service. Shorter than a blog post, a Field Note allows delivery teams to give more regular updates, share smaller insights and continue working in the open on a continuous basis.</p>
 
