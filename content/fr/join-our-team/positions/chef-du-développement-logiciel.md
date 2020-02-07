@@ -21,11 +21,11 @@ Vous relèverez du directeur des communautés, qui lui, relève du directeur gé
 **Vous devrez accomplir les tâches suivantes :**
 
 1. Créer une sécurité émotionnelle et professionnelle dans la communauté de développeuses et développeurs du SNC en prenant les mesures suivantes :
-* établir des attentes claires;
-* donner de la rétroaction souvent et dès le début;
-* appuyer la diversité, l’équité et l’inclusion au moyen de processus cohérents;
-* tenir le personnel technique au courant de la stratégie du SNC;
-* créer un environnement qui assure la stabilité dans un contexte de changement et de débats réguliers et sains;
+  * établir des attentes claires;
+  * donner de la rétroaction souvent et dès le début;
+  * appuyer la diversité, l’équité et l’inclusion au moyen de processus cohérents;
+  * tenir le personnel technique au courant de la stratégie du SNC;
+  * créer un environnement qui assure la stabilité dans un contexte de changement et de débats réguliers et sains;
 2. Unifier et définir la mission de la communauté de développeurs et développeuses et ses initiatives au sein du SNC. Pour ce faire, il faudra jouer un rôle de facilitateur auprès de la direction du SNC et des membres de la communauté.
 3. Embaucher les développeurs et les développeuses et les affecter aux projets. La participation à l’embauche comprend le recrutement, les entrevues et l’évaluation régulière de candidats. Ces processus devraient accroître la diversité dans notre bassin de candidats. L’affectation des développeuses et développeurs existants permettra d’établir un équilibre entre les objectifs et résultats clés du SNC, la diversité au SNC et les objectifs professionnels et individuels.
 4. Créer des pratiques par défaut et des objectifs stratégiques significatifs pour les développeurs et développeuses du SNC, en tenant compte des divers contextes des projets et des personnes. Cela comprend les pratiques liées au développement Web, à l’accessibilité, à la sécurité et à l’exploitation technique. L’amélioration continue est essentielle. Les pratiques seront établies au moyen d’un dialogue ouvert avec la communauté et au sein de celle-ci.
