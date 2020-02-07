@@ -22,10 +22,10 @@ You will report to the Director of Communities, who in turn reports to CDS’s C
 
 1. Create emotional and professional safety in CDS’s development community by
 setting clear expectations
-* providing feedback early and often
-* supporting diversity, equity, and inclusion through consistent processes
-* keeping engineering staff abreast of CDS strategy
-* creating an environment that provides stability in the face of part of regular, healthy change and debate
+  * providing feedback early and often
+  * supporting diversity, equity, and inclusion through consistent processes
+  * keeping engineering staff abreast of CDS strategy
+  * creating an environment that provides stability in the face of part of regular, healthy change and debate
 2. Unify and define the development community’s mission and what initiatives it owns within CDS. This will require facilitating across CDS’s management and community members alike.
 3. Hire and assign developers to efforts. Hiring participation includes recruiting, interviewing, and consistently evaluating candidates. These processes should increase diversity in our candidate pool. Assigning existing developers will balance across CDS’s OKRs, diversity, and individuals' professional goals.
 4. Create meaningful, default practices and strategic goals for CDS developers, accounting for the varying contexts of projects and people. This includes web development, accessibility, security, and technical operations practices. Continual improvement is a must. Practices will be created through open dialogue with and in the community.
