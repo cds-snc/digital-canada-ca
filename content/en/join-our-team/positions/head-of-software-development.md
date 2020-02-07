@@ -20,8 +20,8 @@ You will report to the Director of Communities, who in turn reports to CDS’s C
 
 **You’ll be need to accomplish the following things:**
 
-1. Create emotional and professional safety in CDS’s development community by
-setting clear expectations
+1. Create emotional and professional safety in CDS’s development community by:
+  * setting clear expectations
   * providing feedback early and often
   * supporting diversity, equity, and inclusion through consistent processes
   * keeping engineering staff abreast of CDS strategy
