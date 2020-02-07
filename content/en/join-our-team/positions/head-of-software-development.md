@@ -6,7 +6,7 @@ description: >-
   We’re hiring a Head of Software Development in Ottawa, Montreal, Toronto, or
   Kitchener; although highly qualified candidates will be considered in other
   locations.
-archived: true
+archived: false
 leverId: f53bc870-2354-40f3-ad66-3ea0dcd69009
 translationKey: head-software-development
 ---

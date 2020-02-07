@@ -6,7 +6,7 @@ description: >-
   Nous embauchons un ou une chef du développement logiciel à Ottawa, à Montréal,
   à Toronto ou à Kitchener; bien que des candidats hautement qualifiés seront
   pris en considération à d’autres endroits.
-archived: true
+archived: false
 leverId: cd18781f-c960-4d54-8913-85a5d3778d7d
 translationKey: head-software-development
 ---
