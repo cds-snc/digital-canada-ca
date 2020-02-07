@@ -16,7 +16,7 @@ Nous embauchons un ou une chef du développement logiciel à Ottawa, à Montréa
 
 Le ou la chef du développement logiciel est à la tête de la communauté de développeurs et développeuses du SNC. Cette personne est chargée de veiller à ce que le SNC puisse créer et expédier les logiciels qui sous-tendent les services gouvernementaux. Pour ce faire, vous affecterez les développeurs à diverses missions et les soutiendrez. Il s’agit notamment de créer des produits en partenariat avec les ministères fédéraux et de fournir des services de plateforme (c.-à-d. ordonnancement, notification, identité/logique, etc.).
 
-Vous relèverez du directeur des communautés, qui lui, relève du directeur général du SNC.
+Vous relèverez du directeur des communautés, qui lui, relève du directeur général du SNC. Il s’agit d’un poste de niveau [CS-05](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=1#toc12259212260) dans le groupe des Systèmes d’ordinateurs.
 
 **Vous devrez accomplir les tâches suivantes :**
 
