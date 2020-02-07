@@ -16,7 +16,7 @@ We’re hiring a Head of Software Development in Ottawa, Montreal, Toronto, or K
 
 The Head of Software Development is the leader of CDS’s software development community and is responsible for making sure CDS can build and ship the software behind government services. They do this by assigning and supporting developers on a variety of engagements. These include building products in partnership with federal departments and providing platform services (i.e. scheduling, notifying, identity/logic, etc.).
 
-You will report to the Director of Communities, who in turn reports to CDS’s CEO.
+You will report to the Director of Communities, who in turn reports to CDS’s CEO. This role is classified as a CS-05 in the Computer Systems group.
 
 **You’ll be need to accomplish the following things:**
 
