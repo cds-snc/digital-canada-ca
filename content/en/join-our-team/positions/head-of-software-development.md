@@ -6,7 +6,7 @@ description: >-
   We’re hiring a Head of Software Development in Ottawa, Montreal, Toronto, or
   Kitchener; although highly qualified candidates will be considered in other
   locations.
-archived: true
+archived: false
 leverId: f53bc870-2354-40f3-ad66-3ea0dcd69009
 translationKey: head-software-development
 ---
@@ -16,16 +16,16 @@ We’re hiring a Head of Software Development in Ottawa, Montreal, Toronto, or K
 
 The Head of Software Development is the leader of CDS’s software development community and is responsible for making sure CDS can build and ship the software behind government services. They do this by assigning and supporting developers on a variety of engagements. These include building products in partnership with federal departments and providing platform services (i.e. scheduling, notifying, identity/logic, etc.).
 
-You will report to the Director of Communities, who in turn reports to CDS’s CEO. This role is classified as a CS-05 in the Computer Systems group.
+You will report to the Director of Communities, who in turn reports to CDS’s CEO. This role is classified as a [CS-05](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260/) in the Computer Systems group.
 
-**You’ll be need to accomplish the following things:**
+**You’ll need to accomplish the following things:**
 
 1. Create emotional and professional safety in CDS’s development community by:
   * setting clear expectations
   * providing feedback early and often
   * supporting diversity, equity, and inclusion through consistent processes
   * keeping engineering staff abreast of CDS strategy
-  * creating an environment that provides stability in the face of part of regular, healthy change and debate
+  * creating an environment that provides stability in the face of regular, healthy change and debate
 2. Unify and define the development community’s mission and what initiatives it owns within CDS. This will require facilitating across CDS’s management and community members alike.
 3. Hire and assign developers to efforts. Hiring participation includes recruiting, interviewing, and consistently evaluating candidates. These processes should increase diversity in our candidate pool. Assigning existing developers will balance across CDS’s OKRs, diversity, and individuals' professional goals.
 4. Create meaningful, default practices and strategic goals for CDS developers, accounting for the varying contexts of projects and people. This includes web development, accessibility, security, and technical operations practices. Continual improvement is a must. Practices will be created through open dialogue with and in the community.
@@ -35,7 +35,7 @@ You will report to the Director of Communities, who in turn reports to CDS’s C
 **We’re looking for people that have experience with:**
 
 * People management, including giving and delivering feedback, even when it’s hard.
-Fostering practices that support diversity, equity, and inclusion within your teams.
+* Fostering practices that support diversity, equity, and inclusion within your teams.
 * Participating in and moderating difficult conversations around organization, community, and technical strategy.
 * Making tradeoffs in support of mission and prioritization.
 * Writing code for web applications and delivering it iteratively.
