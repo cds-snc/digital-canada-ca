@@ -12,7 +12,7 @@ image-alt: >-
   La première équipe de prestation du SNC en train de finaliser et de tester la
   première version de l'application de breffage électronique.
 translationKey: getting-prototypes-out-the-door
-thumb: /img/cds/thumbnails/blog-ebriefing-2018.jpg
+thumb: /img/cds/blog-ebriefing-2018.jpg
 processed: 1550672962220
 ---
 

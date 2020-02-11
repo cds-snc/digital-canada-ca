@@ -11,7 +11,7 @@ date: 2018-11-01T19:30:00.000Z
 image: /img/cds/screen-shot-2018-11-01-at-3.42.39-pm.jpg
 image-alt: A collection of work tools.
 translationKey: digital-training-needs
-thumb: /img/cds/thumbnails/screen-shot-2018-11-01-at-3.42.39-pm.jpg
+thumb: /img/cds/screen-shot-2018-11-01-at-3.42.39-pm.jpg
 processed: 1550672961672
 ---
 **Update:** *Building Digital Capacity: Report on the Training Needs Analysis is now available on Dalhousie University's website! [Read about what we heard here](/2019/08/30/assessing-government-training-needs-for-the-future-of-digital-service-delivery/). Thank you to all the public servants who took the survey. Your responses will help shape learning on emerging digital disciplines.* 

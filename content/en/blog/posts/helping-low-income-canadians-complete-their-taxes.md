@@ -12,7 +12,7 @@ date: 2018-11-07T16:00:00.000Z
 image: /img/cds/img_0880.jpg
 image-alt: Someone filling out taxes on paper and holding a mug.
 translationKey: Canadians-complete-taxes
-thumb: /img/cds/thumbnails/img_0880.jpg
+thumb: /img/cds/img_0880.jpg
 processed: 1550672961711
 ---
 Every day, Canadians use government services. As public servants, we exist to design and deliver those services. Many of those services are mission critical to people who need them. What this means is that when people need government services, they are often facing significant hardship.  

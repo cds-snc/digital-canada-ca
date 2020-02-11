@@ -13,7 +13,7 @@ image-alt: >-
   Des personnes sont debouts et prononcent le serment de citoyenneté canadienne
   à une cérémonie à Vancouver
 translationKey: human-story-behind-citizenship
-thumb: /img/cds/thumbnails/blog-human-story-citizenship1.jpg
+thumb: /img/cds/blog-human-story-citizenship1.jpg
 processed: 1550672961820
 ---
 

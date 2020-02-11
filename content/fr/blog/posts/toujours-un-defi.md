@@ -10,7 +10,7 @@ date: '2017-12-07 09:00:00 -0400'
 image: /img/cds/blog-toujours-un-defi-2017.jpg
 image-alt: La page d’accueil de la plateforme de défis Impact Canada.
 translationKey: always-a-challenge
-thumb: /img/cds/thumbnails/blog-toujours-un-defi-2017.jpg
+thumb: /img/cds/blog-toujours-un-defi-2017.jpg
 processed: 1550672962330
 ---
 Au cours de nos [séances de mobilisation](/commencement-de-la-conversation/rapport-complet/), les gens nous ont dit que le gouvernement devait trouver des façons de permettre aux joueurs non traditionnels de s’impliquer et de co-créer des solutions avec le gouvernement.

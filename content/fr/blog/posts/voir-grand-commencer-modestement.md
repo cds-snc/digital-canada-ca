@@ -13,7 +13,7 @@ image-alt: >-
   Des membres de l'équipe du SNC célèbrent le lancement du site web avec le
   pouce vers le haut.
 translationKey: think-big-start-small
-thumb: /img/cds/thumbnails/blog-think-big-start-small-2017.jpg
+thumb: /img/cds/blog-think-big-start-small-2017.jpg
 processed: 1550672962344
 ---
 Le Government Digital Service (GDS) du Royaume-Uni a une remarquable liste de [dix principes de conception](https://www.gov.uk/design-principles). Je me souviens encore de la première fois où je l’ai vue. On peut y lire «&nbsp;Commencez par les besoins des utilisateurs, pas par les besoins du gouvernement&nbsp;». Oh mon dieu, me suis-je dit : il s’agit d’un vrai site Web du gouvernement du Royaume-Uni. C’est incroyable!

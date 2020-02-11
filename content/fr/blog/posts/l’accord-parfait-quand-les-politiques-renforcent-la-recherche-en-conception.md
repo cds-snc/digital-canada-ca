@@ -9,7 +9,7 @@ date: 2019-02-27T14:00:00.000Z
 image: /img/cds/tim-swaan-45717-unsplash.jpg
 image-alt: Une passerelle qui mène vers une forêt.
 translationKey: user-interview-policy
-thumb: /img/cds/thumbnails/tim-swaan-45717-unsplash.jpg
+thumb: /img/cds/tim-swaan-45717-unsplash.jpg
 processed: 1552050695071
 ---
 Si vous êtes un fonctionnaire et que vous souhaitez mener des entrevues auprès des gens qui utilisent votre service, ce billet est pour vous. Dans tout secteur, il peut déjà être difficile de recruter des personnes à des fins de recherche en conception de services. Le gouvernement, toutefois, a des exigences supplémentaires. Bien que certaines d’entre elles soient justifiées par sa position en tant qu’autorité, [d’autres peuvent découler d’une culture ou d’habitudes](https://numerique.canada.ca/2018/09/07/politiques/). Dans ce billet, nous vous montrons comment nous avons fait pour recruter des anciens combattants et mener notre recherche.

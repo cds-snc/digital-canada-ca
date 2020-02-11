@@ -15,7 +15,7 @@ image-alt: >-
   Two people sit at a table with papers, using hand gestures as though
   discussing their work.
 translationKey: discovery-phase-understanding-the-problem
-thumb: /img/cds/thumbnails/blog-discovery.jpg
+thumb: /img/cds/blog-discovery.jpg
 processed: 1550672961676
 ---
 

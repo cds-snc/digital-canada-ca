@@ -8,7 +8,7 @@ date: '2018-06-27 09:00:00 -0400'
 image: /img/cds/blog-tools-for-work-2018.jpg
 image-alt: Several MacBook computers covered in stickers laid out on a table.
 translationKey: tools-to-do-good-work
-thumb: /img/cds/thumbnails/blog-tools-for-work-2018.jpg
+thumb: /img/cds/blog-tools-for-work-2018.jpg
 processed: 1550672961772
 ---
 

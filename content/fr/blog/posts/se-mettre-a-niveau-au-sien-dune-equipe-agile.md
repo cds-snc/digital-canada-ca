@@ -9,7 +9,7 @@ date: '2018-10-16 09:00:00 -0400'
 image: /img/cds/blog-up-to-speed.jpg
 image-alt: Le tableau de bord d’une voiture avec l’indicateur de vitesse.
 translationKey: getting-up-to-speed
-thumb: /img/cds/thumbnails/blog-up-to-speed.jpg
+thumb: /img/cds/blog-up-to-speed.jpg
 processed: 1550672962210
 ---
 

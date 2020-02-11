@@ -13,7 +13,7 @@ image-alt: >-
   Un caniche français et un bouledogue anglais assis devant des ordinateurs
   portables.
 translationKey: language-gap
-thumb: /img/cds/thumbnails/blog-language-gap.jpg
+thumb: /img/cds/blog-language-gap.jpg
 processed: 1550672961841
 ---
 

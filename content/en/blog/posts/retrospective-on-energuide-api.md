@@ -12,7 +12,7 @@ image-alt: >-
   people standing at the front of the room grouping post-it notes on on the
   whiteboard.
 translationKey: retrospective-on-energuide-api
-thumb: /img/cds/thumbnails/blog-energuide-retro.jpg
+thumb: /img/cds/blog-energuide-retro.jpg
 processed: 1550672961750
 ---
 

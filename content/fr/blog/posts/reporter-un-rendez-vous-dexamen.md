@@ -12,7 +12,7 @@ image-alt: >-
   La salle d'attente du centre de soutien à la clientèle d'IRCC avec neuf places
   au comptoir de service.
 translationKey: reschedule-a-citizenship-appointment
-thumb: /img/cds/thumbnails/blog-ircc-april.jpg
+thumb: /img/cds/blog-ircc-april.jpg
 processed: 1550672962203
 ---
 

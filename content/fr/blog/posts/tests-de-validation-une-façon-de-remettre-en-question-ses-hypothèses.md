@@ -14,7 +14,7 @@ image-alt: >-
   Cinq cactus de couleur différente (orange, rouge, vert, rose et jaune) placés
   côte à côte dans des pots blancs et devant un fond blanc.
 translationKey: validation-testing-cra
-thumb: /img/cds/thumbnails/colourful-cactuses.jpg
+thumb: /img/cds/colourful-cactuses.jpg
 processed: 1564689903502
 ---
 Placer les gens au centre de notre travail, c’est aussi avoir confiance qu’ils sont les experts de leur contexte et de leurs besoins. 

@@ -8,7 +8,7 @@ date: '2018-05-16 09:00:00 -0400'
 image: /img/cds/blog-continuous-deployment.jpg
 image-alt: Un homme travaille à un bureau sur le code.
 translationKey: reducing-risk-through-continuous-deployment
-thumb: /img/cds/thumbnails/blog-continuous-deployment.jpg
+thumb: /img/cds/blog-continuous-deployment.jpg
 processed: 1550672962200
 ---
 La plupart des ministères avec qui nous travaillons déploient de nouvelles versions de leur code tous les 4, 6 ou 12 mois. Cette façon de faire cadre bien avec le processus de [développement de logiciel en cascade](https://cyclededeveloppementdunlogiciel.wordpress.com/le-modele-en-cascade/), souvent accompagné de sérieux risques. 

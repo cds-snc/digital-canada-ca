@@ -12,7 +12,7 @@ image-alt: >-
   The initial CDS delivery team finalizing and testing the first version of the
   e-briefing app.
 translationKey: getting-prototypes-out-the-door
-thumb: /img/cds/thumbnails/blog-ebriefing-2018.jpg
+thumb: /img/cds/blog-ebriefing-2018.jpg
 processed: 1550672961702
 ---
 

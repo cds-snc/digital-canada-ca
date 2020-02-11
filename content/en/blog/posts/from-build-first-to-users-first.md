@@ -14,7 +14,7 @@ image-alt: >-
   stacked blocks with a ladder and two people on top, beside three stacked
   blocks with a ladder and a group of people on top.
 translationKey: from-build-first-to-users-first
-thumb: /img/cds/thumbnails/fullsizeoutput_55.jpg
+thumb: /img/cds/fullsizeoutput_55.jpg
 processed: 1550672961690
 ---
 At the Canadian Digital Service (CDS), we are excited to be working with government departments to build better [services](https://digital.canada.ca/products/). We are also keen to share lessons we learn from these experiences to hopefully help folks with their own work.

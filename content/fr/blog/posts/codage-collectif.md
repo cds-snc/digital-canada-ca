@@ -13,7 +13,7 @@ image-alt: >-
   Une illustration de deux personnes qui peinturent une maquette géante de page
   web.
 translationKey: community-driven-coding
-thumb: /img/cds/thumbnails/blog-david-https-header.jpg
+thumb: /img/cds/blog-david-https-header.jpg
 processed: 1550672961814
 ---
 

@@ -9,7 +9,7 @@ image-alt: >-
   électroniques, y compris un téléphone à cadran, un téléphone à clapet, un
   ordinateur portable et une tour d’ordinateur de bureau.
 translationKey: supporting-users-gracefully-degrading-react
-thumb: /img/cds/thumbnails/blog-noJS.jpg
+thumb: /img/cds/blog-noJS.jpg
 processed: 1550672962326
 ---
 

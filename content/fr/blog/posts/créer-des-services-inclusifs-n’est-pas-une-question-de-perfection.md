@@ -11,7 +11,7 @@ image-alt: >-
   Un homme utilise un clavier ajustable et d’autres technologies qui l’aident à
   utiliser son ordinateur.
 translationKey: not-perfect
-thumb: /img/cds/thumbnails/_mg_9837-2.jpg
+thumb: /img/cds/_mg_9837-2.jpg
 processed: 1550672961824
 ---
 L'accessibilité a la réputation d'être difficile, et même parfois impossible à réaliser. Pourtant, l’élaboration de services inclusifs qui conviennent à tous n’est pas une question de perfection. C’est une question d’efforts et de progrès. Et lorsqu’on déploie ce genre d’efforts chaque jour, la transformation s’opère. À l’opposé, si l’on ne fait rien, les gens qui ont le plus besoin de nos services ne pourront pas y accéder. 

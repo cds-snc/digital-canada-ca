@@ -10,7 +10,7 @@ date: '2018-01-09 09:00:00 -0400'
 image: /img/cds/blog-hiring-2018.jpg
 image-alt: Team members of CDS
 translationKey: hiring-at-cds
-thumb: /img/cds/thumbnails/blog-hiring-2018.jpg
+thumb: /img/cds/blog-hiring-2018.jpg
 processed: 1550672961713
 ---
 There’s a lot of interest on how we are recruiting and staffing up a digital services team that can hit the ground running and help solve service challenges across the Government. This is why I am super excited to be writing a blog post about our hiring practices at CDS.

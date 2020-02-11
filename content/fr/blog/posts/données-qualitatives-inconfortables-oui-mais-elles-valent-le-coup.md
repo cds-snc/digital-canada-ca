@@ -13,7 +13,7 @@ image-alt: >-
   d’une table. Ils sourient et examinent un diagramme de service composé de
   papillons adhésifs de différentes couleurs.
 translationKey: data-driven-service
-thumb: /img/cds/thumbnails/rcmp-data-blog.jpg
+thumb: /img/cds/rcmp-data-blog.jpg
 processed: 1563384025449
 ---
 Je suis un grand lecteur. J’adore les livres. Mais j’ai parfois du mal à en choisir un. 

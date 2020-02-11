@@ -13,7 +13,7 @@ image-alt: >-
   Photo de Lynn dans Google Hangouts du point de vue du bureau à domicile de
   Charlotte.
 translationKey: CDS-distributed
-thumb: /img/cds/thumbnails/google-hangout.jpg
+thumb: /img/cds/google-hangout.jpg
 processed: 1555352899385
 ---
 Au cours de la dernière année, le Service numérique canadien (SNC) a pris une expansion considérable. Il compte maintenant des collègues à Ottawa, à Toronto, à Montréal et à Kitchener-Waterloo. Bien que notre bureau à Ottawa compte le plus grand nombre d’employés, nous sommes un organisme géographiquement dispersé. Nous travaillons dans un environnement où tout le monde, peu importe leur emplacement géographique, est en mesure de contribuer aux objectifs de l’équipe de la même façon que le fait une équipe dont les membres travaillent tous dans le même bureau.

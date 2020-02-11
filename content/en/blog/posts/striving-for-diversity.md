@@ -8,7 +8,7 @@ date: '2018-10-30 09:00:00 -0400'
 image: /img/cds/blog-striving-for-diversity.jpg
 image-alt: A blue ribbon banner with the words “a mari usque ad mare” in yellow.
 translationKey: striving-for-diversity
-thumb: /img/cds/thumbnails/blog-striving-for-diversity.jpg
+thumb: /img/cds/blog-striving-for-diversity.jpg
 processed: 1550672961764
 ---
 

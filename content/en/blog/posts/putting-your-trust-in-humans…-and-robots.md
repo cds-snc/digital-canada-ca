@@ -9,7 +9,7 @@ date: 2019-03-14T13:00:00.000Z
 image: /img/cds/grass-lawn-robot.jpg
 image-alt: 'A small wooden robot stands in a grassy green lawn. '
 translationKey: trust-humans-and-robots
-thumb: /img/cds/thumbnails/grass-lawn-robot.jpg
+thumb: /img/cds/grass-lawn-robot.jpg
 processed: 1552576946487
 ---
 Effective product development and service delivery is nothing without trust. As a delivery team at CDS, we often speak to our partners about extending us the trust to help them leave their comfort zones and try new approaches. 

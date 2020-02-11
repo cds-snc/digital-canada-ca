@@ -15,7 +15,7 @@ image-alt: >-
   des notes dans un petit carnet, avec une tasse de café et un téléphone à côté
   d’elle. L’autre a une tablette devant elle et un verre d’eau à sa droite.
 translationKey: using-words-people-use
-thumb: /img/cds/thumbnails/bag-and-hands.jpg
+thumb: /img/cds/bag-and-hands.jpg
 processed: 1560358863965
 
 ---

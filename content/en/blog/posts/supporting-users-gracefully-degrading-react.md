@@ -14,7 +14,7 @@ image-alt: >-
   A person navigating through a range of devices, including a rotary dial phone,
   a flip phone, a laptop and a computer tower.
 translationKey: supporting-users-gracefully-degrading-react
-thumb: /img/cds/thumbnails/blog-noJS.jpg
+thumb: /img/cds/blog-noJS.jpg
 processed: 1550672961766
 ---
 

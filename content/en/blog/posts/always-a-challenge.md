@@ -9,7 +9,7 @@ date: '2017-12-07 09:00:00 -0400'
 image: /img/cds/blog-always-a-challenge-2017.jpg
 image-alt: The homepage of the Impact Canada Challenge Platform
 translationKey: always-a-challenge
-thumb: /img/cds/thumbnails/blog-always-a-challenge-2017.jpg
+thumb: /img/cds/blog-always-a-challenge-2017.jpg
 processed: 1550672961655
 ---
 During our [engagement sessions](/beginning-the-conversation/full-report/), people told us that the government needed to identify ways to enable non-traditional players to work with government and co-create solutions.  

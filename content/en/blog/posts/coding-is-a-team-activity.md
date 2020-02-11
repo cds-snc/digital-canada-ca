@@ -9,7 +9,7 @@ date: '2018-04-24 09:00:00 -0400'
 image: /img/cds/blog-team-coding.jpg
 image-alt: A computer screen displays 200 lines of JavaScript code in Sublime Text.
 translationKey: coding-is-a-team-activity
-thumb: /img/cds/thumbnails/blog-team-coding.jpg
+thumb: /img/cds/blog-team-coding.jpg
 processed: 1550672961670
 ---
 

@@ -8,7 +8,7 @@ date: '2018-02-15 09:00:00 -0400'
 image: /img/cds/blog-conducting-user-research-with-NRCAN.jpg
 image-alt: Eman et Jennifer regardent le canevas de proposition de valeur
 translationKey: conducting-user-research-with-NRCan
-thumb: /img/cds/thumbnails/blog-conducting-user-research-with-NRCAN.jpg
+thumb: /img/cds/blog-conducting-user-research-with-NRCAN.jpg
 processed: 1550672961792
 ---
 

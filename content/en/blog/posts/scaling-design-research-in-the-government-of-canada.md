@@ -14,7 +14,7 @@ image-alt: >-
   A photo showing a table covered by white puzzle pieces, with a focus on an
   individual’s hand holding a unique red puzzle piece.
 translationKey: design-research
-thumb: /img/cds/thumbnails/puzzle.jpg
+thumb: /img/cds/puzzle.jpg
 processed: 1562852147851
 ---
 Design research (or user research) helps us understand the people who use our services. If we understand them, we can better meet their needs. We’ve seen how important design research is to delivering people-centered digital services in our work with partners. We’ve also seen how easily it can become mistaken for public opinion research (POR.) 

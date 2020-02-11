@@ -13,7 +13,7 @@ image-alt: >-
   Une personne debout derrière un podium fait signe vers un iceberg qui flotte
   dans un aquarium, alors qu’un petit chien observe.
 translationKey: showing-the-whole-iceberg
-thumb: /img/cds/thumbnails/blog-iceberg-header.jpg
+thumb: /img/cds/blog-iceberg-header.jpg
 processed: 1550672962171
 ---
 

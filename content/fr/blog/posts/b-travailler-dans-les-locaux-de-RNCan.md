@@ -9,7 +9,7 @@ date: '2018-02-15 09:00:00 -0400'
 image: /img/cds/blog-colocating-with-NRCAN.jpg
 image-alt: Jason et Dave debouts devant l'édifice de Ressources naturelles Canada
 translationKey: colocating-with-NRCan
-thumb: /img/cds/thumbnails/blog-colocating-with-NRCAN.jpg
+thumb: /img/cds/blog-colocating-with-NRCAN.jpg
 processed: 1550672961800
 ---
 

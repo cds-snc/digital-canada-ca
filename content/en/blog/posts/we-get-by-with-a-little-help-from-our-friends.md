@@ -12,7 +12,7 @@ image-alt: >-
   Two vintage Volkswagen Beetles face each other in a green grass field with a
   blue sky.
 translationKey: help-from-friends
-thumb: /img/cds/thumbnails/katka-pavlickova-131100-unsplash-min.jpg
+thumb: /img/cds/katka-pavlickova-131100-unsplash-min.jpg
 processed: 1550672961787
 ---
 I often get asked by fellow public servants “What authorities did the Canadian Digital Service (CDS) get to operate the way it does?” So I thought I would share the authorities we received from government when CDS was established in 2017:

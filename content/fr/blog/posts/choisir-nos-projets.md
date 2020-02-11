@@ -15,7 +15,7 @@ date: '2017-08-24 10:00:00 -0400'
 image: /img/cds/picking-our-projects-2017.jpg
 image-alt: Affiches dans les locaux du SNC.
 translationKey: picking-our-projects/
-thumb: /img/cds/thumbnails/picking-our-projects-2017.jpg
+thumb: /img/cds/picking-our-projects-2017.jpg
 processed: 1550672961807
 ---
 J’ai grandi sur une ferme. Mon enfance a été marquée par la sensation du gravier sous mes pieds, la terre sur mes mains et le bonheur de choisir des fruits et des légumes directement du champ. J’aimerais pouvoir vous dire que choisir des projets est semblable, mais je n’ai toujours pas vu de gravier, de terre, de fruits ou de légumes pendant une discussion portant sur un partenariat (points bonis si vous y arrivez!)

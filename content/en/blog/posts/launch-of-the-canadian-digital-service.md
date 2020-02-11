@@ -12,7 +12,7 @@ date: '2017-07-18 09:00:00 -0400'
 image: /img/cds/launch-post-2017.jpg
 image-alt: 'The Honourable Scott Brison, President of the Treasury Board'
 translationKey: launch-of-the-canadian-digital-service
-thumb: /img/cds/thumbnails/launch-post-2017.jpg
+thumb: /img/cds/launch-post-2017.jpg
 processed: 1550672961728
 ---
 Canadians deserve government services that are easy to access and to use. They expect their government to be focused on service to citizens. In the connected world of the 21st century, good service means digital delivery, whether you are ordering take-out, rearranging your mortgage, managing your prescriptions -- or accessing government programs and services.

@@ -13,7 +13,7 @@ image-alt: >-
   Quatre personnes parlent devant un tableau noir alors que des nuages ​​colorés
   tourbillonnent au-dessus de leurs têtes.
 translationKey: service-design-thats-our-jam
-thumb: /img/cds/thumbnails/blog-jam-header.jpg
+thumb: /img/cds/blog-jam-header.jpg
 processed: 1550672961818
 ---
 

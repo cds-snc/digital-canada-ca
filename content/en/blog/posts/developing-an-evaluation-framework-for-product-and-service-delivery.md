@@ -12,7 +12,7 @@ date: 2019-06-13T17:20:00.000Z
 image: /img/cds/four-frames.jpg
 image-alt: Four black empty picture frames hanging side by side on a white wall.
 translationKey: evaluation-framework
-thumb: /img/cds/thumbnails/four-frames.jpg
+thumb: /img/cds/four-frames.jpg
 processed: 1560520010223
 
 ---

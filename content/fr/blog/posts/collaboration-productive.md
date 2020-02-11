@@ -22,7 +22,7 @@ image-alt: >-
   L'équipe de produit se réunit autour du tableau de print lors d'une réunion
   quotidienne.
 translationKey: productive-collaboration
-thumb: /img/cds/thumbnails/blog-productive-collaboration.jpg
+thumb: /img/cds/blog-productive-collaboration.jpg
 processed: 1550672961816
 ---
 
