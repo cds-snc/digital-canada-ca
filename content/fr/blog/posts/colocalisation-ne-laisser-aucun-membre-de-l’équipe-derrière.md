@@ -9,7 +9,7 @@ date: 2019-04-10T13:57:43.293Z
 image: /img/cds/colourful-umbrellas.jpg
 image-alt: Des parapluies colorés flottant côte à côte dans le ciel.
 translationKey: cra-colocation
-thumb: /img/cds/thumbnails/colourful-umbrellas.jpg
+thumb: /img/cds/colourful-umbrellas.jpg
 processed: 1555070084965
 
 ---

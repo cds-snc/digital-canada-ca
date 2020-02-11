@@ -10,7 +10,7 @@ date: '2017-07-25 10:00:00 -0400'
 image: /img/cds/blog-its-about-people-2017.jpg
 image-alt: Anatole Papadopoulos parle avec le personnel du SNC.
 translationKey: its-about-people
-thumb: /img/cds/thumbnails/blog-its-about-people-2017.jpg
+thumb: /img/cds/blog-its-about-people-2017.jpg
 processed: 1550672961802
 ---
 Privilégier les utilisateurs. Voilà la raison d’être du Service numérique canadien. Lorsqu’on parle du «&nbsp;gouvernement numérique&nbsp;», on pense habituellement aux sites Web, aux API et aux applications. Tout cela fait partie du coffre à outils. Pourtant, ce sont les gens – leurs besoins, leurs expériences, leurs frustrations, même leurs espoirs – qui devraient être au cœur des efforts vers un gouvernement numérique.

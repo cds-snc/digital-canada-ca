@@ -9,7 +9,7 @@ date: '2018-03-09 09:00:00 -0400'
 image: /img/cds/blog-aaron-snow.jpg
 image-alt: Aaron Snow
 translationKey: CDS-gets-its-first-CEO
-thumb: /img/cds/thumbnails/blog-aaron-snow.jpg
+thumb: /img/cds/blog-aaron-snow.jpg
 processed: 1550672961791
 ---
 

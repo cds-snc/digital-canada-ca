@@ -16,7 +16,7 @@ image-alt: >-
   personnes au sommet, à côté de trois blocs empilés avec une échelle et un
   groupe de personnes en-haut.
 translationKey: from-build-first-to-users-first
-thumb: /img/cds/thumbnails/fullsizeoutput_55.jpg
+thumb: /img/cds/fullsizeoutput_55.jpg
 processed: 1550672961830
 ---
 Au Service numérique canadien (SNC), nous sommes heureux de collaborer avec les ministères afin de concevoir de meilleurs [services](https://numerique.canada.ca/produits/). Nous sommes également impatients de partager les leçons apprises de ces expériences pour tenter d’aider les autres dans leur propre travail.

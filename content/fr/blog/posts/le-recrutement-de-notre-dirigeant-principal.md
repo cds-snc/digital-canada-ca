@@ -8,7 +8,7 @@ image-alt: >-
   Le dirigeant principal Aaron Snow discute avec deux autres membres de
   l’équipe.
 translationKey: recruiting-our-ceo
-thumb: /img/cds/thumbnails/blog-ceo-recruitment.jpg
+thumb: /img/cds/blog-ceo-recruitment.jpg
 processed: 1550672962164
 ---
 

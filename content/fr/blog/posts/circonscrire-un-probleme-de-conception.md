@@ -8,7 +8,7 @@ date: '2017-10-24 09:00:00 -0400'
 image: /img/cds/blog-framing-a-design-problem-2017.jpg
 image-alt: Une salle remplie de chaises inoccupées lors d’une cérémonie de citoyenneté.
 translationKey: framing-a-design-problem
-thumb: /img/cds/thumbnails/blog-framing-a-design-problem-2017.jpg
+thumb: /img/cds/blog-framing-a-design-problem-2017.jpg
 processed: 1550672961807
 ---
 C’est une période emballante au Service numérique canadien (SNC) : nous avons retroussé nos manches et nous nous sommes lancés dans nos premiers projets de prestation de services, tout en travaillant fort pour [choisir nos prochains partenariats](/2017/08/24/choisir-nos-projets/). L’un de nos partenaires pour ces tout premiers projets est Immigration, Réfugiés et Citoyenneté Canada (IRCC).

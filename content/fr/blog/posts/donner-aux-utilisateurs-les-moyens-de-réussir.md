@@ -15,7 +15,7 @@ description: >-
   demandeurs, tout en facilitant la vie du personnel administratif.
 image-translation: null
 translationKey: setting-users-up-for-success-with-content-design
-thumb: /img/cds/thumbnails/blog-setting-up-users-for-success.jpg
+thumb: /img/cds/blog-setting-up-users-for-success.jpg
 processed: 1550672961832
 ---
 

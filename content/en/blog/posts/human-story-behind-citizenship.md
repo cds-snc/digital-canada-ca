@@ -12,7 +12,7 @@ image-alt: >-
   People stand to take an oath of Canadian Citizenship at a ceremony in
   Vancouver.
 translationKey: human-story-behind-citizenship
-thumb: /img/cds/thumbnails/blog-human-story-citizenship1.jpg
+thumb: /img/cds/blog-human-story-citizenship1.jpg
 processed: 1550672961718
 ---
 

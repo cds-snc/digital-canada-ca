@@ -11,7 +11,7 @@ image-alt: >-
   Les mains d’une femme déballent du papier brun. Il y a un café à la gauche et
   des fleurs violettes à la droite.
 translationKey: building-a-research-plan
-thumb: /img/cds/thumbnails/blog-building-a-research-plan.jpg
+thumb: /img/cds/blog-building-a-research-plan.jpg
 processed: 1550672961836
 ---
 

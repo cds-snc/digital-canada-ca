@@ -13,7 +13,7 @@ image-alt: >-
   Une capture d’écran de la page d’accueil de l’outil Rechercher des avantages
   et des services.
 translationKey: by-the-numbers
-thumb: /img/cds/thumbnails/VACBenchmarkBlogFRgood.jpg
+thumb: /img/cds/VACBenchmarkBlogFRgood.jpg
 processed: 1556121236018
 ---
 Si nous mesurons une prestation, nous pouvons savoir si nous l’améliorons. C’est pourquoi au Service numérique canadien, nous aimons savoir où nous en sommes avant de commencer à itérer. De cette façon, nous pouvons constater tout le chemin parcouru après avoir perfectionné un produit ou un service.

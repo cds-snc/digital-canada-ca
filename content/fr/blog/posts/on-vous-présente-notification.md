@@ -13,7 +13,7 @@ image-alt: >-
   des écrans affiche la page d’accueil du service Notification, l’un en anglais,
   l’autre en français. 
 translationKey: introducing-notify
-thumb: /img/cds/thumbnails/introducing-notify.jpg
+thumb: /img/cds/introducing-notify.jpg
 processed: 1575304320958
 ---
 Imaginez un scénario où chaque fois que vous utilisez un service gouvernemental, toute l’information nécessaire est acheminée au bon destinataire, au bon moment, et vous en avez l’assurance du début à la fin. Ces derniers mois, nous avons consacré notre temps à élaborer une solution qui aiderait le gouvernement du Canada à atteindre cet objectif.

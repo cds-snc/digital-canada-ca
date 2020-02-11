@@ -9,7 +9,7 @@ date: 2019-01-03T14:00:35.062Z
 image: /img/cds/nordwood-themes-1066398-unsplash.jpg
 image-alt: '2019 écrit en feux d''artifices, Photo : NordWood Themes/Unsplash'
 translationKey: unleash-talent
-thumb: /img/cds/thumbnails/nordwood-themes-1066398-unsplash.jpg
+thumb: /img/cds/nordwood-themes-1066398-unsplash.jpg
 processed: 1550672962169
 ---
 Après deux ans à bâtir le SNC, j’ai voulu partager quelques réflexions sur ce que j’ai appris. Avec l’aide de nos partenaires, nous changeons la façon dont le gouvernement conçoit et livre ses services. Néanmoins, le chemin à parcourir est long. Voici ce qui nous permettra d’y arriver :

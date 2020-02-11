@@ -12,7 +12,7 @@ image-alt: >-
   Les six membres de la première cohorte d’associés de Code for Canada à
   l’extérieur de l’édifice du parlement provincial à Toronto.
 translationKey: our-partnership-with-code-for-canada
-thumb: /img/cds/thumbnails/blog-c4c.jpg
+thumb: /img/cds/blog-c4c.jpg
 processed: 1550672962173
 ---
 

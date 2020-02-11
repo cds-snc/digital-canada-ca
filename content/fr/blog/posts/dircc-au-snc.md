@@ -13,7 +13,7 @@ date: '2018-09-11 09:00:00 -0400'
 image: /img/cds/blog-amir.jpg
 image-alt: Amir dans l'espace de travail du SNC.
 translationKey: ircc-to-cds
-thumb: /img/cds/thumbnails/blog-amir.jpg
+thumb: /img/cds/blog-amir.jpg
 processed: 1550672961831
 ---
 

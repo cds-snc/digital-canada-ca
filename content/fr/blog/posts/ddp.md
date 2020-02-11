@@ -11,7 +11,7 @@ date: '2018-08-31 09:00:00 -0400'
 image: /img/cds/rfp_fr.jpg
 image-alt: 'Des autocollants en forme de feuilles d''érables avec les mots, fort et libre.'
 translationKey: rfp
-thumb: /img/cds/thumbnails/rfp_fr.jpg
+thumb: /img/cds/rfp_fr.jpg
 processed: 1550672961826
 ---
 Aujourd'hui, nous (le Service numérique canadien) avons lancé une [demande de propositions](https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/appels-d-offres/PW-18-00841347). 

@@ -17,7 +17,7 @@ image-alt: >-
   ordinateurs portables. Une personne montre du doigt l’écran de la personne en
   face d’elle qui montre un signe d’accord.
 translationKey: automated-testing-blog
-thumb: /img/cds/thumbnails/blog-automated-testing.jpg
+thumb: /img/cds/blog-automated-testing.jpg
 processed: 1550672962167
 ---
 

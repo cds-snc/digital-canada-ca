@@ -10,7 +10,7 @@ date: 2018-12-04T14:30:00.000Z
 image: /img/cds/magnificent-cloud.jpg
 image-alt: Un nuage magnifique s’élève au-dessus des arbres.
 translationKey: from-code-to-cloud
-thumb: /img/cds/thumbnails/magnificent-cloud.jpg
+thumb: /img/cds/magnificent-cloud.jpg
 processed: 1550672961835
 ---
 Au Service numérique canadien (SNC), nous travaillons actuellement sur une [application Web] (https://github.com/cds-snc/vac-benefits-directory) avec Anciens Combattants Canada (ACC). L’application aidera les vétérans et leurs familles à trouver des avantages et des programmes qui leur conviennent. Cela signifie que cette application doit surveiller beaucoup de contenu, soit le texte d’interface, les titres et les descriptions en une ligne des avantages, les questions à choix multiples, les étiquettes associées aux prestations, l’adresse des bureaux d’ACC et d’autres informations, dont aucune ne contenait des données ou des renseignements personnels. Bien sûr, tout ce texte est en anglais et en français.

@@ -14,7 +14,7 @@ image-alt: >-
   personnes debouts devant eux qui regroupent des papiers autocollants («
   post-it ») sur le tableau blanc.
 translationKey: retrospective-on-EnerGuide-api
-thumb: /img/cds/thumbnails/blog-energuide-retro.jpg
+thumb: /img/cds/blog-energuide-retro.jpg
 processed: 1550672962208
 ---
 

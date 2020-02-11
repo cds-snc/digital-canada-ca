@@ -14,7 +14,7 @@ image-alt: >-
   Ryan Androsoff, Lena Trudeau, Anatole Papadopoulos, Olivia Neal et Pascale
   Elvas
 translationKey: why-canada-needs-a-digital-service/
-thumb: /img/cds/thumbnails/why-canada-needs-a-digital-service-2017.jpg
+thumb: /img/cds/why-canada-needs-a-digital-service-2017.jpg
 processed: 1550672962193
 ---
 Pendant plusieurs mois, j’ai travaillé en coulisses pour défendre cette cause qu’est le Service numérique canadien (SNC). J’ai beaucoup réfléchi à la raison d’être d’une organisation dédiée aux services numériques au Canada, ainsi qu’au potentiel de cette organisation de changer la façon de concevoir les services gouvernementaux. 

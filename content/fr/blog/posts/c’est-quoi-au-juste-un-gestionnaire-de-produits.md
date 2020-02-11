@@ -16,7 +16,7 @@ image-alt: >-
   dispersés de l’équipe de gestion de produits qui travaillent de Montréal,
   Waterloo, Toronto et Ottawa.
 translationKey: product-manager-QA
-thumb: /img/cds/thumbnails/pm-banner-fix.jpg
+thumb: /img/cds/pm-banner-fix.jpg
 processed: 1563904136241
 ---
 

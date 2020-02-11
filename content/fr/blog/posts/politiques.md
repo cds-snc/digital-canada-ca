@@ -6,7 +6,7 @@ date: '2018-09-07 09:00:00 -0400'
 image: /img/cds/blog-puzzle.jpg
 image-alt: Morceaux de casse-tête de couleurs différentes connectés ensemble.
 translationKey: policy
-thumb: /img/cds/thumbnails/blog-puzzle.jpg
+thumb: /img/cds/blog-puzzle.jpg
 processed: 1550672962191
 ---
 Au sein du Service numérique canadien, nous avons eu la chance d'apprendre de plusieurs grands modèles du Royaume-Uni, des États-Unis, de l'Italie, de l'Australie, de l'Ontario et de bien d'autres endroits, alors que nous travaillons avec nos partenaires pour améliorer les services numériques offerts aux Canadiens et aux Canadiennes. Nous utilisons des techniques bien établies pour diriger cette mission : regrouper des talents multidisciplinaires en équipes qui s'attaquent ensemble aux questions de service. Nos équipes de produits sont composées de concepteurs, de chercheurs, de développeurs et de gestionnaires de produit, puis nous avons également intégré des spécialistes en politiques et communications. 

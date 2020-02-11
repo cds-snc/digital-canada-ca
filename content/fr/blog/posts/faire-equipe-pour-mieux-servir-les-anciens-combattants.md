@@ -11,7 +11,7 @@ date: 2018-07-24T13:00:00.000Z
 image: /img/cds/blog-pei-banner.jpg
 image-alt: Falaise rouge bordée d’herbe surplombant la mer.
 translationKey: teaming-up-to-deliver-better-outcomes-for-veterans
-thumb: /img/cds/thumbnails/blog-pei-banner.jpg
+thumb: /img/cds/blog-pei-banner.jpg
 processed: 1550672961838
 ---
 

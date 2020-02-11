@@ -16,7 +16,7 @@ image-alt: >-
   Deux personnes sont assises à une table et utilisent des gestes de la main en
   discutant de leur travail.
 translationKey: discovery-phase-understanding-the-problem
-thumb: /img/cds/thumbnails/blog-discovery.jpg
+thumb: /img/cds/blog-discovery.jpg
 processed: 1550672961839
 ---
 

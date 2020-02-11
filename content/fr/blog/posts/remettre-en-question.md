@@ -11,7 +11,7 @@ date: '2018-01-16 09:00:00 -0400'
 image: /img/cds/blog-accessibility-2018.jpg
 image-alt: Clavier avec des touches représentant des fonctionnalités d'accessibilité
 translationKey: challenging-our-assumption
-thumb: /img/cds/thumbnails/blog-accessibility-2018.jpg
+thumb: /img/cds/blog-accessibility-2018.jpg
 processed: 1550672962201
 ---
 

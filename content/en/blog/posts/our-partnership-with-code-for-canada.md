@@ -11,7 +11,7 @@ image-alt: >-
   The six members of the first cohort of Code for Canada fellows outside the
   provincial parliament building in Toronto.
 translationKey: our-partnership-with-code-for-canada
-thumb: /img/cds/thumbnails/blog-c4c.jpg
+thumb: /img/cds/blog-c4c.jpg
 processed: 1550672961733
 ---
 
