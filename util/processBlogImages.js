@@ -1,4 +1,5 @@
 const path = require("path");
+const fs = require("fs");
 const fmEditor = require("front-matter-editor");
 const { getFileInfo } = require("./lib/getFileInfo");
 const { timestamp } = require("./lib/timestamp");
@@ -15,8 +16,7 @@ const frontMatter = (
   const filePath = path.join(`${dirName}/${fileName}`);
   const destPath = path.join(dirName);
   let imageInfo;
-  //let saveFile = false;
-  let saveFile = false;
+  let saveFile = true;
 
   fmEditor.saveFile = fmEditor.save;
   fmEditor.read(filePath).data((data, matter) => {
@@ -27,7 +27,6 @@ const frontMatter = (
       return;
     }
 
-    saveFile = true;
     imageInfo = getFileInfo(data.image);
 
     if (!imageInfo) return;
@@ -78,7 +77,16 @@ const start = (lang, markdownDir) => {
       return;
     }
 
-    const imagePath = `${sourceImagePath}/${imageInfo.name}${imageInfo.ext}`;
+    let imagePath = `${sourceImagePath}/${imageInfo.name}${imageInfo.ext}`;
+    let imagePathPng = `${sourceImagePath}/${imageInfo.name}.png`;
+
+    try {
+      if (fs.existsSync(imagePathPng)) {
+        imagePath = imagePathPng;
+      }
+    } catch (err) {
+      console.log(".png not found");
+    }
 
     // save a large version of the image
     saveImage(imagePath, `${prefixPath}/${largeImagePath}`, ".jpg");
@@ -87,9 +95,7 @@ const start = (lang, markdownDir) => {
     saveImage(imagePath, `${prefixPath}/${thumbImagePath}`, ".jpg", 300, 300);
 
     // save a mediumImagePath version of the image
-
-    // adjust size as needed and uncomment the next line
-    //saveImage(imagePath, `${prefixPath}/${mediumImagePath}`, ".jpg", 600, 600);
+    saveImage(imagePath, `${prefixPath}/${mediumImagePath}`, ".jpg", 740, 410);
   });
 };
 
