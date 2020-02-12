@@ -12,7 +12,7 @@ date: '2018-09-11 09:00:00 -0400'
 image: /img/cds/blog-amir.jpg
 image-alt: Amir in the CDS workspace.
 translationKey: ircc-to-cds
-thumb: /img/cds/blog-amir.jpg
+thumb: /img/cds/thumbnails/blog-amir.jpg
 processed: 1550672961720
 ---
 

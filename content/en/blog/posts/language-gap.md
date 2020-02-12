@@ -10,7 +10,7 @@ date: '2018-10-03 09:00:00 -0400'
 image: /img/cds/blog-language-gap.jpg
 image-alt: A French Poodle and an English Bulldog sitting in front of laptops.
 translationKey: language-gap
-thumb: /img/cds/blog-language-gap.jpg
+thumb: /img/cds/thumbnails/blog-language-gap.jpg
 processed: 1550672961723
 ---
 

@@ -11,7 +11,7 @@ image-alt: >-
   Photo of six members of the RCMP team around a table. They are smiling and
   reviewing a service diagram made up of different coloured sticky notes.
 translationKey: data-driven-service
-thumb: /img/cds/rcmp-data-blog.jpg
+thumb: /img/cds/thumbnails/rcmp-data-blog.jpg
 processed: 1563384025336
 ---
 

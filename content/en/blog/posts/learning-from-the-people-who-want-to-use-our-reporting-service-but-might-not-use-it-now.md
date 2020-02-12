@@ -15,7 +15,7 @@ image-alt: >-
   tool prototype pulled displayed. The title reads, “Report a scam or an online
   crime”.
 translationKey: reporting-service-checklist
-thumb: /img/cds/rcmp-prototype-en.jpg
+thumb: /img/cds/thumbnails/rcmp-prototype-en.jpg
 processed: 1567091591113
 
 ---

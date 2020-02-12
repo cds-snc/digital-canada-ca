@@ -11,7 +11,8 @@ image-alt: >-
   Illustration d’un homme assis à un ordinateur et concevant un récit visuel sur
   le cosmos.
 translationKey: visual-storyteller-blog
-thumb: /img/cds/visual-storyteller.jpg
+thumb: /img/cds/thumbnails/visual-storyteller.jpg
+processed: 1581470354098
 ---
 Vous cherchez à rendre vos communications plus efficaces? Laissez les images vous aider à mettre en valeur vos messages.
 
@@ -78,3 +79,4 @@ La communication visuelle, c’est l’art de transmettre un message par l’uti
 Vous n’êtes pas obligé d’être un professionnel de la communication visuelle pour faire en sorte que vos communications aient un impact positif et durable. Bref, les images ont un pouvoir bien plus puissant que vous ne pourriez l’imaginer.
 
 Sources : (1) Merieb, E. N. et K. Hoehn (2007). Human Anatomy & Physiology, 7e édition, Pearson International Edition. (2) Thorpe, S., Fize, D. et Marlot, C. (1996). Speed of processing in the human visual system. Nature (381). (3) Hauk, O., Davis, M.H., Ford, M., Pulvermüller, F., Marslen-Wilson, W.D. (2006). The time course of visual word recognition as revealed by linear regression analysis of ERP data. NeuroImage (30).
+

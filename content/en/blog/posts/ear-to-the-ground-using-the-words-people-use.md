@@ -14,7 +14,7 @@ image-alt: >-
   beside her. The other has a tablet in front of him, with a glass of water to
   his right. 
 translationKey: using-words-people-use
-thumb: /img/cds/bag-and-hands.jpg
+thumb: /img/cds/thumbnails/bag-and-hands.jpg
 processed: 1560358863721
 
 ---

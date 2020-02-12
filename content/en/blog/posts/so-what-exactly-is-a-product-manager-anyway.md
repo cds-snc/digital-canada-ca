@@ -14,7 +14,7 @@ image-alt: >-
   connect with distributed product management team members working from
   Montreal, Waterloo, Toronto, and Ottawa.
 translationKey: product-manager-QA
-thumb: /img/cds/pm-banner-fix.jpg
+thumb: /img/cds/thumbnails/pm-banner-fix.jpg
 processed: 1563904136175
 ---
 If you find yourself speaking to someone who is highly organized, curious, adaptive, communicative, empathetic, and passionate about removing barriers in order to get stuff done, chances are you’re either talking to a superhuman or a product manager.

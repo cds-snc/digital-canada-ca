@@ -10,7 +10,7 @@ date: 2018-07-24T13:00:00.000Z
 image: /img/cds/blog-pei-banner.jpg
 image-alt: A red sanded clif overlooking the sea in Prince Edward Island.
 translationKey: teaming-up-to-deliver-better-outcomes-for-veterans
-thumb: /img/cds/blog-pei-banner.jpg
+thumb: /img/cds/thumbnails/blog-pei-banner.jpg
 processed: 1550672961767
 ---
 

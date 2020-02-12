@@ -11,7 +11,7 @@ image-alt: >-
   Female hands unwrap brown paper with coffee to the left and purple flowers to
   the right.
 translationKey: building-a-research-plan
-thumb: /img/cds/blog-building-a-research-plan.jpg
+thumb: /img/cds/thumbnails/blog-building-a-research-plan.jpg
 processed: 1550672961664
 ---
 

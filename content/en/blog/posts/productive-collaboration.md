@@ -17,7 +17,7 @@ date: '2018-08-21 09:00:00 -0400'
 image: /img/cds/blog-productive-collaboration.jpg
 image-alt: The product team gathers around the sprint board at a daily standup meeting.
 translationKey: productive-collaboration
-thumb: /img/cds/blog-productive-collaboration.jpg
+thumb: /img/cds/thumbnails/blog-productive-collaboration.jpg
 processed: 1550672961741
 ---
 

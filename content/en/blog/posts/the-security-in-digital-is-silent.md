@@ -10,7 +10,7 @@ date: '2018-07-11 09:00:00 -0400'
 image: /img/cds/the-security-in-digital-is-silent.jpg
 image-alt: An open lock
 translationKey: the-security-in-digital-is-silent
-thumb: /img/cds/the-security-in-digital-is-silent.jpg
+thumb: /img/cds/thumbnails/the-security-in-digital-is-silent.jpg
 processed: 1550672961769
 ---
 

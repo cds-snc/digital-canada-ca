@@ -13,7 +13,7 @@ date: '2017-08-24 10:00:00 -0400'
 image: /img/cds/picking-our-projects-2017.jpg
 image-alt: Posters in the CDS office
 translationKey: picking-our-projects
-thumb: /img/cds/picking-our-projects-2017.jpg
+thumb: /img/cds/thumbnails/picking-our-projects-2017.jpg
 processed: 1550672961739
 ---
 I grew up on a farm. It was a childhood marked by the feeling of gravel beneath my feet, dirt on my hands, and the joy of picking produce right from the field. I wish I could tell you that picking projects is the same but I have yet to encounter gravel, dirt or produce during a partnership chat (bonus points if you make this happen!)

@@ -8,7 +8,7 @@ date: '2018-05-16 09:00:00 -0400'
 image: /img/cds/blog-continuous-deployment.jpg
 image-alt: A man works at his desk working on code.
 translationKey: reducing-risk-through-continuous-deployment
-thumb: /img/cds/blog-continuous-deployment.jpg
+thumb: /img/cds/thumbnails/blog-continuous-deployment.jpg
 processed: 1550672961744
 ---
 

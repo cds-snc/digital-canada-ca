@@ -13,7 +13,7 @@ description: >-
   appointment as convenient and stress-free as possible for applicants, while
   empowering office staff.
 translationKey: setting-users-up-for-success-with-content-design
-thumb: /img/cds/blog-setting-up-users-for-success.jpg
+thumb: /img/cds/thumbnails/blog-setting-up-users-for-success.jpg
 processed: 1550672961760
 ---
 

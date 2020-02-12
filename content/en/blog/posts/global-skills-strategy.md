@@ -15,7 +15,7 @@ date: '2018-10-12 09:00:00 -0400'
 image: /img/cds/blog-global-skills-strategy.jpg
 image-alt: A woman in silver shoes standing on a subway platform.
 translationKey: global-skills-strategy
-thumb: /img/cds/blog-global-skills-strategy.jpg
+thumb: /img/cds/thumbnails/blog-global-skills-strategy.jpg
 processed: 1550672961706
 ---
 

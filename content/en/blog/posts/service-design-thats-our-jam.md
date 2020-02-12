@@ -13,7 +13,7 @@ image-alt: >-
   Four people talk in front of a black board while coloured clouds swirl above
   their heads.
 translationKey: service-design-thats-our-jam
-thumb: /img/cds/blog-jam-header.jpg
+thumb: /img/cds/thumbnails/blog-jam-header.jpg
 processed: 1550672961756
 ---
 

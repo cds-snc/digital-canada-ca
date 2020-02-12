@@ -13,7 +13,7 @@ image-alt: >-
   They are writing ideas on post-it notes and placing those on quadrants posted
   on the wall.
 translationKey: lets-talk-user-experience
-thumb: /img/cds/blog-user-experience.jpg
+thumb: /img/cds/thumbnails/blog-user-experience.jpg
 processed: 1550672961729
 ---
 

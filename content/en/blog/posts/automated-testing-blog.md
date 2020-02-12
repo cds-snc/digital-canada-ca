@@ -13,7 +13,7 @@ image-alt: >-
   Three people are sitting around a table working on laptops. One person is
   pointing at the screen of a person across the table, who gives a thumbs-up.
 translationKey: automated-testing-blog
-thumb: /img/cds/blog-automated-testing.jpg
+thumb: /img/cds/thumbnails/blog-automated-testing.jpg
 processed: 1550672961659
 ---
 

@@ -12,7 +12,7 @@ image-alt: >-
   An image of book stacks inside the Montreal library where I had my panic
   attack.
 translationKey: best-panic-attack
-thumb: /img/cds/montreal-library.jpg
+thumb: /img/cds/thumbnails/montreal-library.jpg
 processed: 1575304320698
 ---
 Exactly one year ago, I was having a panic attack in the restroom of a public library in Montreal.

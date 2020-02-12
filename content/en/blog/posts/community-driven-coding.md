@@ -10,7 +10,7 @@ date: '2018-07-17 09:00:00 -0400'
 image: /img/cds/blog-david-https-header.jpg
 image-alt: 'Illustration of two people painting a giant, physical web page.'
 translationKey: community-driven-coding
-thumb: /img/cds/blog-david-https-header.jpg
+thumb: /img/cds/thumbnails/blog-david-https-header.jpg
 processed: 1550672961671
 ---
 

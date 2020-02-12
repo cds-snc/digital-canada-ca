@@ -12,7 +12,7 @@ image-alt: >-
   Ryan Androsoff, Lena Trudeau, Anatole Papadopoulos, Olivia Neal, and Pascale
   Elvas
 translationKey: why-canada-needs-a-digital-service
-thumb: /img/cds/why-canada-needs-a-digital-service-2017.jpg
+thumb: /img/cds/thumbnails/why-canada-needs-a-digital-service-2017.jpg
 processed: 1550672961788
 ---
 For months, I’ve been working behind the scenes to stand up the Canadian Digital Service. Through this process, I’ve done a lot of thinking about why Canada needs a digital service organization and the potential it has to change how we design government services.

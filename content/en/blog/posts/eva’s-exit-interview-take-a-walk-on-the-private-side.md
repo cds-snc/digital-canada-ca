@@ -12,7 +12,7 @@ image-alt: >-
   more silly, including a portrait of her mascot, Mr. Pinchey, an orange stuffed
   animal crab wearing a shark hat.
 translationKey: take-a-walk-on-the-private-side
-thumb: /img/cds/eva-blog.jpg
+thumb: /img/cds/thumbnails/eva-blog.jpg
 processed: 1559833506993
 ---
 One of our beloved developers and OG team member Eva Demers-Brett is leaving us this month to embark on an exciting opportunity in the private sector 😢. It’ll be her first time working outside the public service during her career as a developer, so we wanted to capture her insights and find out what lessons she’ll bring with her as she takes a walk on the private side.

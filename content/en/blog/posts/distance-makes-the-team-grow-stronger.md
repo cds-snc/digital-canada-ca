@@ -12,7 +12,7 @@ image-alt: >-
   Five members of a team communicating to each other using different devices,
   and in different locations.
 translationKey: distributed-pm
-thumb: /img/cds/distributed-pm-blog.jpg
+thumb: /img/cds/thumbnails/distributed-pm-blog.jpg
 processed: 1575304320615
 ---
 It was a cold January day when I first started at The Canadian Digital Service (CDS). I went to the Ottawa office for a two-week onboarding session, after which I’d go back home to a *slightly warmer* Kitchener-Waterloo, to work full-time. 

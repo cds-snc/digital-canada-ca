@@ -9,7 +9,7 @@ date: '2018-04-09 09:00:00 -0400'
 image: /img/cds/blog-ceo-recruitment.jpg
 image-alt: Chief Executive Officer Aaron Snow chatting with two other team members.
 translationKey: recruiting-our-ceo
-thumb: /img/cds/blog-ceo-recruitment.jpg
+thumb: /img/cds/thumbnails/blog-ceo-recruitment.jpg
 processed: 1550672961742
 ---
 

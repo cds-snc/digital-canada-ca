@@ -10,7 +10,7 @@ date: '2018-08-31 09:00:00 -0400'
 image: /img/cds/rfp_eng.jpg
 image-alt: 'A maple leaf sticker with the words, Strong and Free.'
 translationKey: rfp
-thumb: /img/cds/rfp_eng.jpg
+thumb: /img/cds/thumbnails/rfp_eng.jpg
 processed: 1550672961754
 ---
 

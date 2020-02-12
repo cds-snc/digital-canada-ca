@@ -12,7 +12,7 @@ image-alt: >-
   A person standing behind a podium gestures towards an iceberg floating in an
   aquarium while a small dog watches.
 translationKey: showing-the-whole-iceberg
-thumb: /img/cds/blog-iceberg-header.jpg
+thumb: /img/cds/thumbnails/blog-iceberg-header.jpg
 processed: 1550672961762
 ---
 

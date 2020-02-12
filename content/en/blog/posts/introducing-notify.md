@@ -12,7 +12,7 @@ image-alt: >-
   A phone and laptop on a white desk, with both screens featuring the Notify
   service homepage in English and French. 
 translationKey: introducing-notify
-thumb: /img/cds/introducing-notify.jpg
+thumb: /img/cds/thumbnails/introducing-notify.jpg
 processed: 1575304320646
 ---
 Imagine a scenario where every time you use a government service, all necessary information gets to where it’s going, when it needs to, and all along, you’re confident that it will. We’ve spent the past few months working to create a service that can help the Government of Canada meet this goal. 
