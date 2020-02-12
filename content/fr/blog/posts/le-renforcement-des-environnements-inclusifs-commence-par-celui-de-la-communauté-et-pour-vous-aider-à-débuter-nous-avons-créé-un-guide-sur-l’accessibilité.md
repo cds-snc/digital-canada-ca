@@ -17,7 +17,8 @@ image-alt: >-
   Portrait de la responsable de l’accessibilité et des services inclusifs,
   Julianna Rowsell, posant devant un mur mauve.
 translationKey: accessibility-handbook
-thumb: /img/cds/accessibility-handbook-blog.jpg
+thumb: /img/cds/medium/accessibility-handbook-blog.jpg
+processed: 1581549455169
 ---
 Dix ans! Cela fait 10 ans que je travaille dans le domaine de l’accessibilité au sein de la fonction publique. J’ai vu notre communauté évoluer et changer à mesure que de nouveaux visages sont arrivés et sont repartis. Bon nombre des personnes qui s’occupaient de l’accessibilité dans la fonction publique lorsque j’ai commencé en sont encore aujourd’hui les fers de lance. Notre communauté est petite, mais robuste, et elle travaille à la croisée des ministères et des secteurs afin d’améliorer l’accès aux services pour les gens.
 
@@ -80,3 +81,4 @@ Consultez notre [Guide sur l’accessibilité](https://numerique.canada.ca/a11y)
 Il est possible de donner une voix aux personnes en racontant leurs histoires et en partageant leurs réalités dans le but d’aider les équipes à concevoir de façon inclusive. Créer une culture d’accessibilité et d’inclusion, c’est s’assurer que toutes les personnes impliquées dans la conception, la livraison ou l’utilisation de produits ou services puissent y avoir accès.   
 
 Le gouvernement du Canada est un chef de file dans la création d’expériences équitables pour tous. Partager nos ressources, travailler en collaboration et bâtir une communauté présente dans tout le gouvernement nous aidera à rendre la fonction publique plus inclusive. Le Bureau du dirigeant principal de l’information souligne la Journée internationale des personnes handicapées 2019 par la publication de nouvelles lignes directrices destinées à la fonction publique. Celles-ci encouragent l’utilisation de la norme européenne EN 301 549 lors de l’acquisition ou du développement de technologies de l’information et de la communication. Ensemble, nous pouvons rendre les services inclusifs pour tout le monde.
+

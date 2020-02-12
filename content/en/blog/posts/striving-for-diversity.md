@@ -8,8 +8,8 @@ date: '2018-10-30 09:00:00 -0400'
 image: /img/cds/blog-striving-for-diversity.jpg
 image-alt: A blue ribbon banner with the words “a mari usque ad mare” in yellow.
 translationKey: striving-for-diversity
-thumb: /img/cds/blog-striving-for-diversity.jpg
-processed: 1550672961764
+thumb: /img/cds/medium/blog-striving-for-diversity.jpg
+processed: 1581549454553
 ---
 
 One of the biggest perks of working for the Canadian Digital Service (CDS) is that we have the opportunity to serve Canadians every day. Public servants work to make positive impacts on people all across Canada. In fact, Canada’s motto is *A Mari Usque Ad Mare*, which translates to *From Sea to Sea*, and that’s the truth. That said, from sea to sea implicates a lot of people. Indigenous people, immigrants, refugees, and families who have been here for generations. People of all cultures, races, religions, identities, and backgrounds. How can we serve all of these groups with equality and equity? For starters, we can build teams as diverse as the people we serve.
@@ -31,4 +31,5 @@ That’s what we’re trying to do at CDS, and we need your help. We’re lookin
 ![Employees at CDS, including a remote colleague on a screen, taking a photo for Pride while holding Pride flags.](/img/cds/blog-striving-for-diversity.jpg)
 
 A special kudos to all the participating departments who took part in the Pride Parade and the dedicated public servants who work day in and day out to support diversity within the Government of Canada, just like James.
+
 

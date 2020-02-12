@@ -13,8 +13,8 @@ image-alt: >-
   Un caniche français et un bouledogue anglais assis devant des ordinateurs
   portables.
 translationKey: language-gap
-thumb: /img/cds/blog-language-gap.jpg
-processed: 1550672961841
+thumb: /img/cds/medium/blog-language-gap.jpg
+processed: 1581549455111
 ---
 
 Lorsque nous optons pour des outils de source libre (*open source*), l’un des plus grands obstacles que nous rencontrons est la langue, ou plutôt l’absence de la langue française. L’adaptation d’une application à la langue locale s’appelle l’internationalisation, ou [i18n](https://fr.wikipedia.org/wiki/Internationalisation_(informatique)) en forme abrégée. Au Canada, nous avons le défi d’offrir une expérience soutenue et accessible autant en français qu'en anglais, nos deux langues officielles. Les technologies modernes sont formidables, mais le monde de la technologie est manifestement unilingue anglais. De nombreux outils de source libre n’offrent pas la fonction multilingue dont nous avons besoin, comme la capacité de changer une version du contenu en contexte. Comment comblons-nous donc ce fossé afin d’offrir des services modernes aux Canadiens?
@@ -40,3 +40,4 @@ Une chose est certaine : nous avons beaucoup à faire dans le monde des sources 
 Avez-vous des difficultés semblables? Avez-vous trouvé d’excellents outils i18n de source libre? [Veuillez nous les communiquer](#contact-us-links)!
 
 Nous tenons aussi à nous excuser auprès du développeur qui a eu la tâche ardue de publier le présent article. Nous vous assurons que nous mettons bien la main à la pâte.
+

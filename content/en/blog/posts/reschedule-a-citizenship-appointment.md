@@ -14,8 +14,8 @@ image-alt: >-
   The waiting area at an IRCC client support centre with nine stations at the
   service counter.
 translationKey: reschedule-a-citizenship-appointment
-thumb: /img/cds/blog-ircc-april.jpg
-processed: 1550672961748
+thumb: /img/cds/medium/blog-ircc-april.jpg
+processed: 1581549454529
 ---
 
 The goal of our partnership with [Immigration, Refugees and Citizenship Canada](https://www.canada.ca/en/immigration-refugees-citizenship.html) (IRCC) is to make the process of rescheduling a citizenship appointment as convenient and stress-free as possible for applicants, whilst empowering frontline staff.
@@ -78,4 +78,5 @@ The Citizenship product team are working closely with our colleagues at IRCC to 
 By continuing to conduct on-site research and usability testing, we can support the broader drive towards more user-centric service delivery at IRCC. Together we share their vision for a clear and simple service that allows future citizens to reschedule their interview for a time that meets their needs, with minimal intervention by staff.
 
 Follow our Twitter accounts and keep an eye on our blog for updates as we progress.
+
 

@@ -10,8 +10,8 @@ date: '2018-07-17 09:00:00 -0400'
 image: /img/cds/blog-david-https-header.jpg
 image-alt: 'Illustration of two people painting a giant, physical web page.'
 translationKey: community-driven-coding
-thumb: /img/cds/blog-david-https-header.jpg
-processed: 1550672961671
+thumb: /img/cds/medium/blog-david-https-header.jpg
+processed: 1581549454240
 ---
 
 If you're looking, you can find community all around you. Open source software development is no exception. By its nature, open source development is community-driven. People share and build on each other's work, making it better for all.
@@ -42,3 +42,4 @@ And the cooperation continues. While testing our system last week, we uncovered 
 Once that realization was made, it was a fairly simple thing to enforce numeric sorting on the column, resolving the issue.
 
 The fix has now made its way into both our projects, leaving them both better off. And our relationship with Eric a little bit stronger. Thanks, Eric.
+

@@ -14,8 +14,8 @@ image-alt: >-
   stacked blocks with a ladder and two people on top, beside three stacked
   blocks with a ladder and a group of people on top.
 translationKey: from-build-first-to-users-first
-thumb: /img/cds/fullsizeoutput_55.jpg
-processed: 1550672961690
+thumb: /img/cds/medium/fullsizeoutput_55.jpg
+processed: 1581549454255
 ---
 At the Canadian Digital Service (CDS), we are excited to be working with government departments to build better [services](https://digital.canada.ca/products/). We are also keen to share lessons we learn from these experiences to hopefully help folks with their own work.
 
@@ -89,4 +89,5 @@ At this point for CDS, we take a step back and the partner department maintains 
 [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)  
 
 The resources will continue to grow. In the meantime, we want to hear from you. If you have feedback, or want to learn more about a particular topic, [let us know](#contact-us-links)!
+
 

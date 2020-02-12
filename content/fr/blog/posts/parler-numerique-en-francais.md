@@ -13,8 +13,8 @@ author: 'Annie Leblond, communications'
 image: /img/cds/blog-discussing-digital-in-french-2017.jpg
 image-alt: Clavier d’ordinateur avec une touche illustrant le drapeau de la France.
 translationKey: discussing-digital-in-french/
-thumb: /img/cds/blog-discussing-digital-in-french-2017.jpg
-processed: 1550672962190
+thumb: /img/cds/medium/blog-discussing-digital-in-french-2017.jpg
+processed: 1581549455264
 ---
 Demain, le 30 septembre, ce sera la Journée mondiale de la traduction. Pour moi, parler du numérique en français, c’est un défi&nbsp;: Nommer correctement les nouveautés technologiques et *surtout* – surtout – ne pas perdre de vue que nous nous adressons à «&nbsp;du vrai monde&nbsp;». **Penser à l’utilisateur d’abord, le placer au cœur de notre travail, c’est aussi dans les mots que nous choisissons**.
 
@@ -27,4 +27,5 @@ Penser à l’utilisateur d’abord, c’est aussi veiller à être compris et t
 Si notre équipe s’est inspirée d’organisations telles que 18F des États-Unis, le GDS du Royaume-Uni et la DTA de l’Australie à bien des égards, elle doit composer avec les défis linguistiques uniques propres au contexte canadien.
 
 Alors, demain soir, faites comme moi et levez votre verre (d’un bon vin français?) à la santé de ceux et celles qui aident à traduire la réalité du numérique dans la langue de Molière.
+
 
