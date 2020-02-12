@@ -28,15 +28,6 @@
 // CDS LOGO
 //
 ////////////////////////////////////////////////////////////
-html .container {
-  // @include logo_break {
-  //   background: yellow;
-  // }
-
-  // @include desktop {
-  //   background: blue;
-  // }
-}
 
 .cds-logo {
   background-image: url("../img/cds/cds-lockup-ko-en.svg");
@@ -70,7 +61,7 @@ html .container {
 
   // BILINGUAL SPECIFIC CDS LOGO
   .fr & {
-    background-image: url("../img/cds/cds-lockup-ko-fr.svg") !important;
+    background-image: url("../img/cds/cds-lockup-ko-fr.svg");
   }
 }
 
