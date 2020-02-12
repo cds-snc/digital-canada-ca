@@ -23,7 +23,7 @@
 
     // BILINGUAL SPECIFIC CDS LOGO
     .fr & {
-      background-image: url("../img/cds/goc--header-logo-fr.svg") !important;
+      background-image: url("../img/cds/goc--header-logo-fr.svg");
     } 
 
     @include tablet {
