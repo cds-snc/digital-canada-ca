@@ -32,7 +32,7 @@
     "build_admin": "webpack --config webpack.config.js",
     "build:stage": "webpack && hugo --environment staging",
     "preview:clean:fr:images" : "rimraf public/fr/img/*",
-    "heroku-postbuild": "preview:clean:fr:images && webpack && ./bin/hugo --environment staging",
+    "heroku-postbuild": "npm run preview:clean:fr:images && webpack && ./bin/hugo --environment staging",
     "stage-server": "node stage-server.js",
     "snyk-protect": "snyk protect",
     "prepare": "npm run snyk-protect"
