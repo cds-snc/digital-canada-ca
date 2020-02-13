@@ -44,7 +44,7 @@ languages:
     lang: fr
     languageName: Francais
     title: Blogue
-    Paginate: 5
+    Paginate: 6
     weight: 2
     frontmatter:
       date: [":filename", ":default"]

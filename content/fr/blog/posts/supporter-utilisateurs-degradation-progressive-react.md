@@ -9,8 +9,8 @@ image-alt: >-
   électroniques, y compris un téléphone à cadran, un téléphone à clapet, un
   ordinateur portable et une tour d’ordinateur de bureau.
 translationKey: supporting-users-gracefully-degrading-react
-thumb: /img/cds/blog-noJS.jpg
-processed: 1550672962326
+thumb: /img/cds/medium/blog-noJS.jpg
+processed: 1581549455348
 ---
 
 Utiliser les technologies modernes peut rendre le développement plus rapide, mais, ultimement, nous devons livrer des solutions fonctionnelles sans sacrifier la robustesse et l’accessibilité. Nous avons créé le service pour « [reporter un examen de citoyenneté](https://vancouver.rescheduler-dev.cds-snc.ca/?language=fr) » de sorte à repousser les limites de la prestation de services sans toutefois laisser les utilisateurs au dépourvu.
@@ -61,4 +61,5 @@ Pour ceux qui s’intéressent aux détails techniques, nous rédigeons une publ
 Beaucoup d’équipes de services gouvernementaux sentent qu’elles doivent choisir entre utiliser une pile Web moderne ou supporter les navigateurs plus anciens. Toutefois, il s’agit souvent d’une fausse dichotomie. [Nous avons choisi d’utiliser React sans abandonner les utilisateurs qui n’ont pas JavaScript](https://twitter.com/CDS_GC/status/1022142454634438661). La majorité des utilisateurs ont accès à une expérience raffinée et une minorité a toujours un service fonctionnel. Plutôt que de nous contenter d’un compromis, nous sommes parvenus à profiter des deux approches.
 
 Certes, notre solution n’est pas une panacée : tous les produits ne sont pas ce produit. Il s’agit cependant d’un énoncé de principe, et nous sommes extrêmement fiers [du dur travail que nous avons accompli pour tout rendre simple](https://www.gov.uk/guidance/government-design-principles#do-the-hard-work-to-make-it-simple). Notre service résout un problème important pour nos utilisateurs. Il est simple à utiliser et il fonctionne sur votre Game Boy.
+
 

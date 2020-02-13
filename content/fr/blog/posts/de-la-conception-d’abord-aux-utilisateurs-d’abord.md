@@ -16,8 +16,8 @@ image-alt: >-
   personnes au sommet, à côté de trois blocs empilés avec une échelle et un
   groupe de personnes en-haut.
 translationKey: from-build-first-to-users-first
-thumb: /img/cds/fullsizeoutput_55.jpg
-processed: 1550672961830
+thumb: /img/cds/medium/fullsizeoutput_55.jpg
+processed: 1581549454909
 ---
 Au Service numérique canadien (SNC), nous sommes heureux de collaborer avec les ministères afin de concevoir de meilleurs [services](https://numerique.canada.ca/produits/). Nous sommes également impatients de partager les leçons apprises de ces expériences pour tenter d’aider les autres dans leur propre travail.
 
@@ -90,4 +90,5 @@ Lancer le service dans le domaine public pour qu’il soit utilisé dans des sit
 [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)  
 
 Cette liste de ressources continuera d’évoluer. Entre-temps, nous voulons connaître votre opinion. Si vous avez des commentaires ou voulez en savoir plus sur un sujet précis, [communiquez avec nous](#contact-us-links)!
+
 

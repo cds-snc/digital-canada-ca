@@ -12,8 +12,8 @@ image-alt: >-
   Une image des rayons de la bibliothèque de Montréal où j’ai eu une crise de
   panique.
 translationKey: best-panic-attack
-thumb: /img/cds/montreal-library.jpg
-processed: 1575304320916
+thumb: /img/cds/medium/montreal-library.jpg
+processed: 1581549455105
 ---
 Il y a exactement un an, j’ai eu une crise de panique dans les toilettes de la Grande Bibliothèque à Montréal.
 
@@ -60,4 +60,5 @@ En nous concentrant sur les conséquences négatives, nous entravons notre capac
 Aucune personne n’est responsable de trouver, seule, la bonne réponse. Nous sommes tous humains et limités, mais nous savons apprendre.
 
 _P.S. :  Poser des questions, admettre que j’ignore quelque chose et permettre aux autres d’essayer, c’est en fait mon travail maintenant. Et j’adore ça._
+
 

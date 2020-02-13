@@ -9,7 +9,8 @@ date: 2020-01-28T15:02:30.012Z
 image: /img/cds/visual-storyteller.jpg
 image-alt: A picture of a man at a computer designing a visual story about outer space.
 translationKey: visual-storyteller-blog
-thumb: /img/cds/visual-storyteller.jpg
+thumb: /img/cds/medium/visual-storyteller.jpg
+processed: 1581549454194
 ---
 Are you looking to make your communications more effective? Let images help you enhance your messages.
 
@@ -77,3 +78,4 @@ Visual Storytelling is the art of transmitting a message through evocative visua
 You don't have to be a professional Visual Storyteller to ensure that your communications have a positive and lasting impact. In short, images are so much more powerful than you could ever imagine them to be.
 
 Sources : (1) Merieb, E. N. & Hoehn, K. (2007). Human Anatomy & Physiology 7th Edition, Pearson International Edition. (2)Thorpe, S., Fize, D. & Marlot, C. (1996). Speed of processing in the human visual system. Nature (381). (3) Hauk, O., Davis, M.H., Ford, M., Pulvermüller, F., Marslen-Wilson, W.D. (2006). The time course of visual word recognition as revealed by linear regression analysis of ERP data. NeuroImage (30).
+

@@ -13,7 +13,8 @@ image-alt: >-
   Photo de Keith souriant alors qu’il se trouve dehors, au centre-ville
   d’Ottawa.
 translationKey: keith-rcmp-blog
-thumb: /img/cds/keith-rcmp-blog.jpg
+thumb: /img/cds/medium/keith-rcmp-blog.jpg
+processed: 1581549455361
 ---
 Oh là là. Je suis en réunion, à répondre aux questions du dirigeant principal de l’information (DPI) de la GRC. **Le D-P-I.** Au cours de ma carrière de presque 20 ans dans la fonction publique, cette situation ne s’est jamais produite. Cependant me voici, moi, un développeur de la Gendarmerie royale du Canada (GRC), en colocalisation au Service numérique canadien (SNC) pour travailler sur un outil de signalement public destiné aux victimes de cybercrimes, plaidant pour des changements directement au DPI. Il y a 14 mois, cette situation aurait été tout à fait inconcevable.
  
@@ -60,3 +61,4 @@ C’est la programmation qui m’a amené à la gestion de produits. On m’a di
 La culture des deux organismes a eu une incidence permanente sur moi. Mais surtout, les personnes que j’ai rencontrées m’ont touché d’une manière qu’il m’est impossible d’expliquer. Je suis empreint d’humilité, rempli de gratitude et prêt à repousser davantage les limites de mon confort personnel.
  
 Merci.
+

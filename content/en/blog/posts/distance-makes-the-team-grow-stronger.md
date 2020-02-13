@@ -12,8 +12,8 @@ image-alt: >-
   Five members of a team communicating to each other using different devices,
   and in different locations.
 translationKey: distributed-pm
-thumb: /img/cds/distributed-pm-blog.jpg
-processed: 1575304320615
+thumb: /img/cds/medium/distributed-pm-blog.jpg
+processed: 1581549454247
 ---
 It was a cold January day when I first started at The Canadian Digital Service (CDS). I went to the Ottawa office for a two-week onboarding session, after which I’d go back home to a *slightly warmer* Kitchener-Waterloo, to work full-time. 
 
@@ -61,4 +61,5 @@ But it doesn’t stop here. Every two weeks we get together online to make sure 
 
 * [Distributed teams and how they are changing how we work](https://us15.campaign-archive.com/?u=729a207773f7324e217a1d945&id=dfed0eea32) 
 * [But what exactly is a product manager, anyway?](https://us15.campaign-archive.com/?u=729a207773f7324e217a1d945&id=f0df90e111) 
+
 

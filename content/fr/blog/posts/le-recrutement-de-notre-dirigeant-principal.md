@@ -8,8 +8,8 @@ image-alt: >-
   Le dirigeant principal Aaron Snow discute avec deux autres membres de
   l’équipe.
 translationKey: recruiting-our-ceo
-thumb: /img/cds/blog-ceo-recruitment.jpg
-processed: 1550672962164
+thumb: /img/cds/medium/blog-ceo-recruitment.jpg
+processed: 1581549455164
 ---
 
 Nous avons récemment [annoncé](https://numerique.canada.ca/2018/03/09/le-snc-accueille-son-premier-dirigeant-principal/) qu’Aaron Snow se joignait au Service numérique canadien (SNC) en tant que premier dirigeant principal pour faire partie de notre mouvement numérique.
@@ -45,4 +45,5 @@ Je tiens à remercier très chaleureusement l’équipe des ressources humaines 
 ## Leçons retenues
 
 Nous avons beaucoup appris de cette expérience sur la façon dont nous abordons le recrutement, le travail nécessaire dans la recherche des bonnes personnes, et où nous devons relever la barre. Nous allons continuer à partager alors que nous évaluons et itérons. Si vous avez d’excellentes pratiques à partager, nous aimerions vous entendre!
+
 

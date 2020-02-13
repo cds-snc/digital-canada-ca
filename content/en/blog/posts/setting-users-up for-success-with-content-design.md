@@ -13,8 +13,8 @@ description: >-
   appointment as convenient and stress-free as possible for applicants, while
   empowering office staff.
 translationKey: setting-users-up-for-success-with-content-design
-thumb: /img/cds/blog-setting-up-users-for-success.jpg
-processed: 1550672961760
+thumb: /img/cds/medium/blog-setting-up-users-for-success.jpg
+processed: 1581549454548
 ---
 
 
@@ -95,4 +95,5 @@ This addressed user anxieties around scheduling, and helped them complete the fo
 When a service is designed iteratively and with a “research-first” approach, designers gain insight into the mental model of the people they’re designing for, and how they think about the problems they encounter in a service.
 
 Being mindful of high-level content design principles like “set expectations up front” and “allowing critical information room to breathe” is helping the CDS design team build more accessible and effective services and products.
+
 

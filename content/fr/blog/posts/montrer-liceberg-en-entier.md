@@ -13,8 +13,8 @@ image-alt: >-
   Une personne debout derrière un podium fait signe vers un iceberg qui flotte
   dans un aquarium, alors qu’un petit chien observe.
 translationKey: showing-the-whole-iceberg
-thumb: /img/cds/blog-iceberg-header.jpg
-processed: 1550672962171
+thumb: /img/cds/medium/blog-iceberg-header.jpg
+processed: 1581549455191
 ---
 
 *« Je crois que les équipes comme le SNC sont des équipes de gestion du changement déguisés en équipes de services numériques. »* – Aaron Snow, dirigeant principal
@@ -60,5 +60,6 @@ Mais ce que nous allons continuer à faire et à prioriser, c’est de travaille
 Pour y arriver, nous devons montrer l’iceberg en entier tout au long de notre parcours, le bon comme le mauvais, afin d’aider les autres à naviguer un peu mieux dans les eaux à l’avenir, tout comme nous avons pu le faire grâce à ceux qui nous ont précédés. 
 
 Nous sommes ravis d’effectuer ce parcours avec nos partenaires et le public pour aider les Canadiens. [Dites-nous](#contact-us-links) les points sur lesquels vous voulez en savoir plus. 
+
 
 

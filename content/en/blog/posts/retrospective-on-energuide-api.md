@@ -12,8 +12,8 @@ image-alt: >-
   people standing at the front of the room grouping post-it notes on on the
   whiteboard.
 translationKey: retrospective-on-energuide-api
-thumb: /img/cds/blog-energuide-retro.jpg
-processed: 1550672961750
+thumb: /img/cds/medium/blog-energuide-retro.jpg
+processed: 1581549454540
 ---
 
 As our partnership with NRCan on the EnerGuide API winds down, the CDS product team held a retrospective to reflect on our experience, accomplishments and lessons learned.
@@ -57,4 +57,5 @@ Here’s what we took away from our final retro for the EnerGuide API product.
 * **Co-locate whenever possible**. Co-locating at NRCan helped us tailor our capacity building to meet the needs of the NRCan developers we were working with and, in turn, having NRCan developers co-locate at CDS gave them insight into how we work.
 
 As we concluded the final NRCan EnerGuide API product sprint, one of the themes that emerged was “firsts” for NRCan’s Office of Energy Efficiency. From [automated testing](https://digital.canada.ca/2018/03/26/automated-testing-blog/) and using [GraphQL](https://graphql.org/learn/) to build the API itself, we broke new ground. Most importantly, we were able to help NRCan realize the value of putting users at the forefront of product design, and get their feet wet with adopting modern development practices.
+
 

@@ -14,7 +14,8 @@ image-alt: >-
   droite: une pile de livres, une règle décorée d’une rangée de blocs Lego, un
   stylo blanc, une pomme et un haut-parleur portatif.
 translationKey: cds-student-trust
-thumb: /img/cds/jose-blog-header.jpg
+thumb: /img/cds/medium/jose-blog-header.jpg
+processed: 1581549455396
 ---
 _En repensant aux huit mois que j’ai passés comme étudiant en stage au Service numérique canadien (SNC), j’ai appris que le renforcement de l’autonomie est une question de confiance : la confiance de la part de ses gestionnaires et, surtout, la confiance en soi._
 
@@ -34,3 +35,4 @@ Après réflexion, cette expérience m’a appris deux leçons précieuses :
 2. **Soyez toujours un étudiant.** Pour moi, être étudiant est un état d’être, où l’on est constamment en train d’absorber de l’information, de critiquer ses propres idées, et de chercher des façons de transmettre ces connaissances. Nous grandissons tous en tant que personnes lorsque nous sommes réceptifs à de nouvelles idées.
 
 Les étudiants et étudiantes s’efforcent toujours d’apprendre, mais cela ne signifie pas que nous sommes incapables de contribuer pleinement à nos équipes. Lorsque vous faites confiance aux personnes et à leur capacité de mettre leurs connaissances en pratique, elles sont en mesure d’apprendre, de faire des erreurs et d’apprendre à nouveau, et ainsi de s’améliorer en tant que membres de votre équipe. Donnez aux jeunes la permission de se faire confiance, et ils et elles finiront par développer plus d’assurance, à la fois personnellement et professionnellement.
+

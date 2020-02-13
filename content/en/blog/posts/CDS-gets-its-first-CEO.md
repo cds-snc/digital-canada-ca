@@ -9,8 +9,8 @@ date: '2018-03-09 09:00:00 -0400'
 image: /img/cds/blog-aaron-snow.jpg
 image-alt: Aaron Snow
 translationKey: CDS-gets-its-first-CEO
-thumb: /img/cds/blog-aaron-snow.jpg
-processed: 1550672961644
+thumb: /img/cds/medium/blog-aaron-snow.jpg
+processed: 1581549454201
 ---
 
 In September, Yaprak Baltacıoğlu, Secretary of the Treasury Board, [launched the search for CDS's first CEO.](https://digital.canada.ca/2017/09/12/wanted-ceo-cds/) The global search attracted candidates from all over the world.
@@ -32,4 +32,5 @@ As CEO, Aaron will work alongside the Government of Canada Chief Information Off
 On behalf of the CDS team, I want to express our sincerest appreciation to all of those who applied. From even before the formal launch of CDS, I have been struck by the generosity of colleagues across Canada and around the world in sharing their experiences, lessons, and wisdom with us. The interest of many leaders in joining our mission has only reinforced the dedication and sense of community of the growing digital government movement.
 
 We are beyond delighted to welcome Aaron to CDS in April. Aaron, the whole team is looking forward to supporting you in your new role. I'm confident our partners across government will share our excitement for the leadership you will bring to building better services here in Canada.
+
 

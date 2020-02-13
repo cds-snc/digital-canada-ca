@@ -12,8 +12,8 @@ image-alt: >-
   An image of book stacks inside the Montreal library where I had my panic
   attack.
 translationKey: best-panic-attack
-thumb: /img/cds/montreal-library.jpg
-processed: 1575304320698
+thumb: /img/cds/medium/montreal-library.jpg
+processed: 1581549454560
 ---
 Exactly one year ago, I was having a panic attack in the restroom of a public library in Montreal.
 
@@ -60,4 +60,5 @@ If we only think about bad outcomes, we block our ability to make informed judgm
 No one person alone is responsible to come up with the one right answer, because we are all human and we are limited, but we learn.
 
 _PS:  Asking questions, saying when I don’t know something, and empowering others to try is actually my job now. And I love it._
+
 

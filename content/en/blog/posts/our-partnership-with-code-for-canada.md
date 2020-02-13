@@ -11,8 +11,8 @@ image-alt: >-
   The six members of the first cohort of Code for Canada fellows outside the
   provincial parliament building in Toronto.
 translationKey: our-partnership-with-code-for-canada
-thumb: /img/cds/blog-c4c.jpg
-processed: 1550672961733
+thumb: /img/cds/medium/blog-c4c.jpg
+processed: 1581549454497
 ---
 
 This past fall, we brought on one of the first two cohorts of [Code for Canada](https://codefor.ca/) (C4C) fellows, the other joining our colleagues in the Government of Ontario. This post outlines how to make the most out of a potential partnership!
@@ -56,4 +56,5 @@ So how do you make the most of the partnership? Here are the keys from our persp
 Working with C4C has been an exciting opportunity as we share common goals of building better public services and improving digital capacity across government! Participating in the fellowship program is a great opportunity to strengthen the multi-disciplinary approach to problem solving in your organization. Dan, Raluca and Leon have each brought unique expertise and perspectives to CDS that are integral to designing and delivering user-centered services!
 
 [Get in touch with us](mailto:cds-snc@tbs-sct.gc.ca) or with [C4C](mailto:dorothy@codefor.ca) to learn more about our experience or how you can get involved!
+
 

@@ -12,8 +12,8 @@ date: '2018-08-17 09:00:00 -0400'
 image: /img/cds/blog-lexicon.jpg
 image-alt: Une illustration d’un combo laveuse-sécheuse.
 translationKey: lexicon
-thumb: /img/cds/blog-lexicon.jpg
-processed: 1550672962167
+thumb: /img/cds/medium/blog-lexicon.jpg
+processed: 1581549455186
 ---
 
 ## Pourquoi un lexique?
@@ -41,4 +41,5 @@ Connaissez-vous des employés d’Hydro-Québec qui portent leurs “[grimpettes
 Tout ça pour dire qu’il a fallu s’adapter, et itérer (que de débats sur *test d’utilisabilité*, par exemple) même dans notre vocabulaire! 
 
 Je vous invite donc à consulter [le lexique du SNC](https://docs.google.com/spreadsheets/d/16Xo5ROhRLjH1sxlFLd9Jz3R-x5oCx62rkQ1cvOBV3jE/edit?usp=sharing), à faire vos propres recherches et à innover, mais surtout à avoir une pensée toute particulière pour les utilisateurs francophones. Être inclusif, c’est aussi veiller à ce que le message soit clair pour tout le monde. 
+
 
