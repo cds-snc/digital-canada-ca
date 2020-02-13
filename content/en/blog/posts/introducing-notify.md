@@ -12,8 +12,8 @@ image-alt: >-
   A phone and laptop on a white desk, with both screens featuring the Notify
   service homepage in English and French. 
 translationKey: introducing-notify
-thumb: /img/cds/medium/introducing-notify.jpg
-processed: 1581549454481
+thumb: /img/cds/thumbnails/introducing-notify.jpg
+processed: 1575304320646
 ---
 Imagine a scenario where every time you use a government service, all necessary information gets to where it’s going, when it needs to, and all along, you’re confident that it will. We’ve spent the past few months working to create a service that can help the Government of Canada meet this goal. 
 
@@ -50,5 +50,4 @@ Our main goal with Notify is to serve people better by keeping them informed abo
 We’re currently collecting feedback on Notify from early adopters and testers to help ensure the system can meet their needs. As we continue our research, we’ll make sure we share results with those using Notify to help make their services more effective.[Reach out to us](mailto:antoine.garcia-suarez@tbs-sct.gc.ca) if you're interested in participating in our research.
 
 We encourage anyone in the Government of Canada to go to the [Notify website](https://notification.alpha.canada.ca/) and make a free trial account. Try it, [let us know what you think](mailto:cds-snc@tbs-sct.gc.ca), and start using it to improve your service.
-
 

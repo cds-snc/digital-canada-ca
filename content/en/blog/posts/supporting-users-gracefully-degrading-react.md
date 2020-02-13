@@ -14,8 +14,8 @@ image-alt: >-
   A person navigating through a range of devices, including a rotary dial phone,
   a flip phone, a laptop and a computer tower.
 translationKey: supporting-users-gracefully-degrading-react
-thumb: /img/cds/medium/blog-noJS.jpg
-processed: 1581549454554
+thumb: /img/cds/thumbnails/blog-noJS.jpg
+processed: 1550672961766
 ---
 
 Using modern technologies can make development faster, but ultimately we need to deliver working solutions without sacrificing robustness or accessibility. We’ve built the “[Reschedule a citizenship test](https://vancouver.rescheduler-dev.cds-snc.ca/)” service in a way that pushes service delivery forward without leaving users behind.
@@ -68,5 +68,4 @@ For the technically-minded, we’re writing a follow-up post about how it works,
 Many government service teams may feel like they have to make a choice between choosing a modern web stack and supporting older browsers. However, in many cases this is a false dichotomy. [We have chosen React and we support no-JavaScript users](https://twitter.com/CDS_GC/status/1022142454634438661). The majority of users get a polished experience, a minority still get a functional service. Rather than compromising, we get the benefits of both approaches.
 
 Granted, our solution isn’t the panacea: not every product is this product. However, it is a statement of principle, and we are extremely proud of having [done the hard work to make it simple](https://www.gov.uk/guidance/government-design-principles#do-the-hard-work-to-make-it-simple). Our service solves an important problem for our users, it is simple to use, and it works on your Game Boy.
-
 

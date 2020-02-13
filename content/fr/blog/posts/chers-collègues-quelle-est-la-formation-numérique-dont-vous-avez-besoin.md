@@ -12,8 +12,8 @@ date: 2018-11-01T19:50:46.952Z
 image: /img/cds/screen-shot-2018-11-01-at-3.42.39-pm.jpg
 image-alt: Une collection d'outils de travail
 translationKey: digital-training-needs
-thumb: /img/cds/medium/screen-shot-2018-11-01-at-3.42.39-pm.jpg
-processed: 1581549454746
+thumb: /img/cds/thumbnails/screen-shot-2018-11-01-at-3.42.39-pm.jpg
+processed: 1550672961805
 ---
 **Mise à jour :** *Renforcement de la capacité numérique : le rapport sur l’analyse des besoins en formation est maintenant disponible sur le site Web de l’Université Dalhousie! [Lisez ici ce que nous avons découvert](/2019/08/30/%C3%A9valuer-les-besoins-en-formation-du-gouvernement-pour-lavenir-de-la-prestation-de-services-num%C3%A9riques/). Merci à tous les fonctionnaires qui ont participé au sondage. Vos réponses contribueront à orienter l’apprentissage sur les disciplines numériques émergentes.*
 
@@ -72,5 +72,4 @@ Pendant que le sondage est en cours, l’équipe rencontrera les décideurs prin
 Les résultats de l’ABF seront utilisés pour éclairer la conception et l’élaboration de la formation dans le cadre de [l’Académie du numérique](https://www.canada.ca/fr/secretariat-conseil-tresor/nouvelles/2018/10/le-gouvernement-du-canada-annonce-la-creation-de-lacademie-du-numerique.html) qui a récemment fait l’objet d’une annonce , et pour appuyer les initiatives de formation d’autres ministères dans l’ensemble du gouvernement. Un rapport final sur les données agrégées sera affiché sur le site Web [numerique.canada.ca](https://numerique.canada.ca/).
 
 **Veuillez rester à l’affût du sondage ouvert au cours des prochaines semaines. Nous aimerions avoir vos impressions!**
-
 

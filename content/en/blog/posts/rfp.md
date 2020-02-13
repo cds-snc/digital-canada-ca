@@ -10,8 +10,8 @@ date: '2018-08-31 09:00:00 -0400'
 image: /img/cds/rfp_eng.jpg
 image-alt: 'A maple leaf sticker with the words, Strong and Free.'
 translationKey: rfp
-thumb: /img/cds/medium/rfp_eng.jpg
-processed: 1581549454541
+thumb: /img/cds/thumbnails/rfp_eng.jpg
+processed: 1550672961754
 ---
 
 Today we (the Canadian Digital Service) launched a [Request for Proposals](https://buyandsell.gc.ca/procurement-data/tender-notice/PW-18-00841347) (RFP). 
@@ -136,5 +136,4 @@ Estimated time to evaluate: 1 week per 10 bids submitted
 **Key contact information**
 
 For questions on applying or for clarification on the RFP, don't contact CDS or its employees. Contact Neil Charbonneau with Treasury Board Secretariat Contracting Services at [Neil.Charbonneau@tbs-sct.gc.ca](mailto:Neil.Charbonneau@tbs-sct.gc.ca) and [zzTBSCONT@tbs-sct.gc.ca](mailto:zzTBSCONT@tbs-sct.gc.ca) 
-
 

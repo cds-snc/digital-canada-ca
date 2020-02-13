@@ -11,8 +11,7 @@ image: /img/cds/keith-rcmp-blog.jpg
 image-alt: Photo of Keith smiling while standing outside in downtown Ottawa.
 translationKey: keith-rcmp-blog
 thumb: /img/cds/thumbnails/keith-rcmp-blog.jpg
-medium: /img/cds/medium/keith-rcmp-blog.jpg
-processed: 1581549454717
+processed: 1581626526396
 ---
 Yikes.  I’m in a meeting, answering questions from the Chief Information Officer (CIO) of the RCMP. **The C-I-O.** In my nearly 20-year public service career, this was unheard of. But here I am, a developer at the Royal Canadian Mounted Police (RCMP), co-locating at The Canadian Digital Service (CDS) to work on a public reporting tool for victims of cybercrime, advocating for change directly to the CIO. This would have been a foreign concept to me 14 months ago. 
  

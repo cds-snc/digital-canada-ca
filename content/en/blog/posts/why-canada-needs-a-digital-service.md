@@ -12,8 +12,8 @@ image-alt: >-
   Ryan Androsoff, Lena Trudeau, Anatole Papadopoulos, Olivia Neal, and Pascale
   Elvas
 translationKey: why-canada-needs-a-digital-service
-thumb: /img/cds/medium/why-canada-needs-a-digital-service-2017.jpg
-processed: 1581549454699
+thumb: /img/cds/thumbnails/why-canada-needs-a-digital-service-2017.jpg
+processed: 1550672961788
 ---
 For months, I’ve been working behind the scenes to stand up the Canadian Digital Service. Through this process, I’ve done a lot of thinking about why Canada needs a digital service organization and the potential it has to change how we design government services.
 
@@ -28,5 +28,4 @@ That’s why we created CDS. We need a digital team that can demonstrate the art
 They say that the only way to make history is to do so carefully. Canada being relatively late in the game allows us to work with and learn from folks like [Mike Bracken](https://twitter.com/MTBracken) and [Olivia Neal](https://twitter.com/LivNeal) from the U.K.’s Government Digital Service, [Lena Trudeau](https://twitter.com/ltrudeau) from the U.S.’s 18F, and many others.
 
 I’m so excited to help shape a made-in-Canada approach to digital service delivery – one with collaboration at its roots that demonstrates what can be achieved by learning by doing, and putting people first.
-
 
