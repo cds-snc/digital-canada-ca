@@ -11,7 +11,8 @@ const frontMatter = (
   dirName,
   fileName,
   ext,
-  paths = { large, medium, thumb }
+  paths = { large, thumb }
+  // paths = { large, medium, thumb }
 ) => {
   const filePath = path.join(`${dirName}/${fileName}`);
   const destPath = path.join(dirName);
@@ -36,7 +37,7 @@ const frontMatter = (
     // update markdown data
     data.image = `/${paths.large}/${imageInfo.name}${useExt}`;
     data.thumb = `/${paths.thumb}/${imageInfo.name}${useExt}`;
-    data.medium = `/${paths.medium}/${imageInfo.name}${useExt}`;
+    // data.medium = `/${paths.medium}/${imageInfo.name}${useExt}`;
     data.processed = timestamp();
     matter.data = data;
   });
@@ -61,7 +62,7 @@ const start = (lang, markdownDir) => {
   const sourceImagePath = `${prefixPath}/${imagePath}`;
   const largeImagePath = `${imagePath}`;
   const thumbImagePath = `${imagePath}/thumbnails`;
-  const mediumImagePath = `${imagePath}/medium`;
+  // const mediumImagePath = `${imagePath}/medium`;
 
   readFileDir(markdownDir, (dirName, fileName) => {
     // console.log(`read ${dirName}/${fileName}`);
@@ -95,7 +96,7 @@ const start = (lang, markdownDir) => {
     saveImage(imagePath, `${prefixPath}/${thumbImagePath}`, ".jpg", 300, 300);
 
     // save a mediumImagePath version of the image
-    saveImage(imagePath, `${prefixPath}/${mediumImagePath}`, ".jpg", 740, 410);
+    // saveImage(imagePath, `${prefixPath}/${mediumImagePath}`, ".jpg", 740, 410);
   });
 };
 
