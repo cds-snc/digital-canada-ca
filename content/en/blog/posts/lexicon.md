@@ -11,8 +11,9 @@ date: '2018-08-17 09:00:00 -0400'
 image: /img/cds/blog-lexicon.jpg
 image-alt: Illustration a front-loading washer-dryer combo.
 translationKey: lexicon
-thumb: /img/cds/medium/blog-lexicon.jpg
-processed: 1581549454489
+thumb: /img/cds/thumbnails/blog-lexicon.jpg
+processed: 1581608215330
+medium: /img/cds/medium/blog-lexicon.jpg
 ---
 
 ## Why a lexicon? 
@@ -41,5 +42,6 @@ Do you know any Hydro-Québec employees who wear their “*[grimpettes](http://g
 All this to say that it was necessary to adapt and iterate (debating about *test d’utilisabilité*, for example) even in our vocabulary! 
 
 So I invite you to consult the [CDS lexicon](https://docs.google.com/spreadsheets/d/16Xo5ROhRLjH1sxlFLd9Jz3R-x5oCx62rkQ1cvOBV3jE/edit?usp=sharing). Do your own research and innovate, but do give special thought to francophone users. Being inclusive also means ensuring that the message is clear for everyone. 
+
 
 

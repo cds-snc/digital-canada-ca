@@ -13,8 +13,9 @@ image-alt: >-
   Four people talk in front of a black board while coloured clouds swirl above
   their heads.
 translationKey: service-design-thats-our-jam
-thumb: /img/cds/medium/blog-jam-header.jpg
-processed: 1581549454547
+thumb: /img/cds/thumbnails/blog-jam-header.jpg
+processed: 1581608215356
+medium: /img/cds/medium/blog-jam-header.jpg
 ---
 
 On June 21, the Canadian Digital Service (CDS) hosted its very first [Design Jam](https://www.youtube.com/watch?v=S_XeFWoR9uU) with 30 participants from the Canada Revenue Agency (CRA) & Employment and Social Development Canada (ESDC). With help from design mentors, participants brainstormed ideas to tackle current service challenges in the Government of Canada.
@@ -88,5 +89,6 @@ However, there were a few barriers. Some indicated that they found the methods v
 We’re looking forward to taking the feedback, iterating on this model, and perfecting the recipe to make services across all of government simple and easy to use. 
 
 Interested in jamming with us in the future? [Let us know!](mailto:charlotte.pedersen@cds-snc.ca)
+
 
 

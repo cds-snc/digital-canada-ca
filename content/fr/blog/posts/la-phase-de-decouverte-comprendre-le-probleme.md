@@ -16,8 +16,9 @@ image-alt: >-
   Deux personnes sont assises à une table et utilisent des gestes de la main en
   discutant de leur travail.
 translationKey: discovery-phase-understanding-the-problem
-thumb: /img/cds/medium/blog-discovery.jpg
-processed: 1581549455106
+thumb: /img/cds/thumbnails/blog-discovery.jpg
+processed: 1581608215888
+medium: /img/cds/medium/blog-discovery.jpg
 ---
 
 Les anciens combattants ont consacré leur vie à servir le Canada. Que ce soit à la Gendarmerie royale du Canada ou aux Forces armées canadiennes, quitter le service, c’est comme quitter une famille et un emploi en même temps. Dans cette nouvelle phase de leur vie, les anciens combattants font face à de nombreux défis qui sont très différents du stress physique et psychologique qu’ils subissaient chaque jour alors qu’ils portaient l’uniforme. L’un des nombreux importants défis consiste à comprendre les plus de prestations et services qui leur sont offerts, et à y accéder.
@@ -62,5 +63,6 @@ L’importance de la recherche d’utilisateur était si élevée que l’équip
 découverte. C’est seulement après avoir analysé le parcours d’un ancien combattant pour
 comprendre sa vie, ses besoins et ses objectifs que l’équipe serait en mesure de concevoir un
 produit centré sur l’utilisateur.
+
 
 

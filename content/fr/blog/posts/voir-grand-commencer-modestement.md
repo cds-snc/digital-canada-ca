@@ -13,8 +13,9 @@ image-alt: >-
   Des membres de l'équipe du SNC célèbrent le lancement du site web avec le
   pouce vers le haut.
 translationKey: think-big-start-small
-thumb: /img/cds/medium/blog-think-big-start-small-2017.jpg
-processed: 1581549455353
+thumb: /img/cds/thumbnails/blog-think-big-start-small-2017.jpg
+processed: 1581608216055
+medium: /img/cds/medium/blog-think-big-start-small-2017.jpg
 ---
 Le Government Digital Service (GDS) du Royaume-Uni a une remarquable liste de [dix principes de conception](https://www.gov.uk/design-principles). Je me souviens encore de la première fois où je l’ai vue. On peut y lire «&nbsp;Commencez par les besoins des utilisateurs, pas par les besoins du gouvernement&nbsp;». Oh mon dieu, me suis-je dit : il s’agit d’un vrai site Web du gouvernement du Royaume-Uni. C’est incroyable!
 
@@ -41,5 +42,6 @@ Nous avons tous été ravis de constater autant de réactions positives à la su
 Ici et là dans l’appareil fédéral, certains fonctionnaires font du travail véritablement inspirant dans le domaine du développement et de la conception de logiciels et de l’analyse de données. Nous sommes heureux de mettre en lumière le travail formidable que font les autres, et de travailler et d’apprendre ensemble.
 
 Au cours des prochaines semaines, nous utiliserons ce blogue pour vous parler de notre travail et des leçons que nous tirons à mesure que le SNC prend son envol. Si vous avez des commentaires ou des suggestions, nous serions heureux de les entendre! N’hésitez pas à communiquer avec nous que ce soit par [Twitter](https://twitter.com/SNC_GC) ou [par l’intermédiaire d’un membre](/rencontrez-lequipe/) de notre équipe.
+
 
 

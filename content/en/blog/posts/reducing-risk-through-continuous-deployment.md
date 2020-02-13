@@ -8,8 +8,9 @@ date: '2018-05-16 09:00:00 -0400'
 image: /img/cds/blog-continuous-deployment.jpg
 image-alt: A man works at his desk working on code.
 translationKey: reducing-risk-through-continuous-deployment
-thumb: /img/cds/medium/blog-continuous-deployment.jpg
-processed: 1581549454528
+thumb: /img/cds/thumbnails/blog-continuous-deployment.jpg
+processed: 1581608215347
+medium: /img/cds/medium/blog-continuous-deployment.jpg
 ---
 
 Most of the departments we work with are deploying new versions of their code quarterly, semi-annually, or annually. This fits well with the standard [waterfall software development](https://en.wikipedia.org/wiki/Waterfall_model) process, but it comes with some serious risks.
@@ -75,4 +76,5 @@ The ability to continuously deploy new code to production depends on a few assum
 * We’re using public cloud (AWS/Azure/Google Cloud).
 
 These assumptions probably don’t hold true for legacy applications, but, they’re usually true for newer systems being planned today. We used all three of these practices (continuous integration, code reviews, continuous deployment) on our recent [API project with NRCan](https://github.com/cds-snc/nrcan-energuide-api-poc/).
+
 

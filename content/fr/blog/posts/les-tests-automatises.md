@@ -17,8 +17,9 @@ image-alt: >-
   ordinateurs portables. Une personne montre du doigt l’écran de la personne en
   face d’elle qui montre un signe d’accord.
 translationKey: automated-testing-blog
-thumb: /img/cds/medium/blog-automated-testing.jpg
-processed: 1581549455185
+thumb: /img/cds/thumbnails/blog-automated-testing.jpg
+processed: 1581608215934
+medium: /img/cds/medium/blog-automated-testing.jpg
 ---
 
 Dans le cadre de l’interface de programmation d’applications (API) développée avec Ressources naturelles Canada (RNCan), nous suivons un processus commun d’intégration continue (IC), qui comprend l’utilisation intensive de tests automatisés. À notre avis, les tests d’IC et les tests automatisés constituent une condition fondamentale à la production et au maintien de produits logiciels de haute qualité.
@@ -83,5 +84,6 @@ Nous parlerons davantage des aspects techniques de l’API que nous élaborons a
 
 * [Partie 1 – Effectuer la recherche utilisateur de RNCan: orienter la conception d’une API](https://numerique.canada.ca/2018/02/15/a-la-recherche-utilisateur-avec-rncan/)
 * [Partie 2 – Travailler dans les locaux de RNCan pendant une semaine](https://numerique.canada.ca/2018/02/15/b-travailler-dans-les-locaux-de-rncan/)
+
 
 

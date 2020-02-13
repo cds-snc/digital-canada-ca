@@ -13,8 +13,9 @@ date: 2020-01-28T20:37:47.522Z
 image: /img/cds/field-note-train.jpg
 image-alt: 'A picture of the front of a train in an orange tinted background. '
 translationKey: field-note-1
-thumb: /img/cds/medium/field-note-train.jpg
-processed: 1581549454452
+thumb: /img/cds/thumbnails/field-note-train.jpg
+processed: 1581608215316
+medium: /img/cds/medium/field-note-train.jpg
 ---
 <p>Field Notes are a new content format for the Canadian Digital Service. Shorter than a blog post, a Field Note allows delivery teams to give more regular updates, share smaller insights and continue working in the open on a continuous basis.</p>
 
@@ -90,4 +91,5 @@ processed: 1581549454452
         </tr>
     </tbody>
 </table>
+
 

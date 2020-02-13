@@ -13,8 +13,9 @@ date: '2017-09-29 09:00:00 -0400'
 image: /img/cds/blog-discussing-digital-in-french-2017.jpg
 image-alt: Computer keyboard with the flag of France on a key
 translationKey: discussing-digital-in-french
-thumb: /img/cds/medium/blog-discussing-digital-in-french-2017.jpg
-processed: 1581549454246
+thumb: /img/cds/thumbnails/blog-discussing-digital-in-french-2017.jpg
+processed: 1581608215283
+medium: /img/cds/medium/blog-discussing-digital-in-french-2017.jpg
 ---
 Tomorrow, September 30, is International Translation Day. For me, talking about digital in French is a challenge: properly naming new technologies and *especially* - especially - not losing sight of the fact that we are addressing "real people". **Thinking of users first, making them central to our work - that also comes into play with the words that we choose**.
 
@@ -27,5 +28,6 @@ Thinking about users first is also about ensuring understanding and finding a ce
 While our team draws inspiration from organizations like 18F in the United States, the GDS in the United Kingdom and the DTA in Australia, in many respects, we must also deal with unique language challenges specific to the Canadian context.
 
 So, tomorrow evening, do as I do and raise your glass (of some nice French wine?) and toast to those who help translate the digital reality into the "*langue de Molière*".
+
 
 

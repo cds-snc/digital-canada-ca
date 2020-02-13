@@ -30,7 +30,7 @@ const saveImage = (
       position: "centre",
       withoutEnlargement: true
     })
-    .toFormat("jpeg", { quality: 100 })
+    .toFormat("jpeg", { quality: 70 })
     .toBuffer(function(err, buffer) {
       fs.writeFile(imageName, buffer, function(err) {
         if (err) {

@@ -13,8 +13,9 @@ image-alt: >-
   des écrans affiche la page d’accueil du service Notification, l’un en anglais,
   l’autre en français. 
 translationKey: introducing-notify
-thumb: /img/cds/medium/introducing-notify.jpg
-processed: 1581549455261
+thumb: /img/cds/thumbnails/introducing-notify.jpg
+processed: 1581608215962
+medium: /img/cds/medium/introducing-notify.jpg
 ---
 Imaginez un scénario où chaque fois que vous utilisez un service gouvernemental, toute l’information nécessaire est acheminée au bon destinataire, au bon moment, et vous en avez l’assurance du début à la fin. Ces derniers mois, nous avons consacré notre temps à élaborer une solution qui aiderait le gouvernement du Canada à atteindre cet objectif.
 
@@ -51,5 +52,6 @@ Avec Notification, notre principal objectif est de mieux servir les gens en les 
 Nous recueillons actuellement des commentaires sur Notification auprès des premiers utilisateurs et testeurs pour nous assurer que le système peut répondre à leurs besoins. À mesure que nous poursuivrons nos recherches, nous veillerons à communiquer les résultats aux utilisateurs de Notification afin de rendre leurs services plus efficaces. [Écrivez-nous](mailto:antoine.garcia-suarez@tbs-sct.gc.ca) si vous souhaitez participer à notre étude.
 
 Nous encourageons toute personne au sein du gouvernement du Canada à créer gratuitement un compte d’essai sur le [site Web](https://notification.alpha.canada.ca/) de [Notification](https://notification.alpha.canada.ca/). Essayez-le, dites-nous ce que vous en pensez et commencez à l’utiliser pour améliorer votre service.
+
 
 

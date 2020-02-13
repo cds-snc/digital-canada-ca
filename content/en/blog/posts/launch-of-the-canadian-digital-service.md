@@ -12,8 +12,9 @@ date: '2017-07-18 09:00:00 -0400'
 image: /img/cds/launch-post-2017.jpg
 image-alt: 'The Honourable Scott Brison, President of the Treasury Board'
 translationKey: launch-of-the-canadian-digital-service
-thumb: /img/cds/medium/launch-post-2017.jpg
-processed: 1581549454486
+thumb: /img/cds/thumbnails/launch-post-2017.jpg
+processed: 1581608215325
+medium: /img/cds/medium/launch-post-2017.jpg
 ---
 Canadians deserve government services that are easy to access and to use. They expect their government to be focused on service to citizens. In the connected world of the 21st century, good service means digital delivery, whether you are ordering take-out, rearranging your mortgage, managing your prescriptions -- or accessing government programs and services.
 
@@ -30,4 +31,5 @@ As I have often said, in this world you’re either digital or you’re dead. We
 We need to change the way we do business. CDS is just one tool in the kit, but it stands as a clear signal of our commitment. We aren’t the first government digital service in the world, but I believe we can be the best.
 
 I hope you join us on this journey. I’m excited to share more with you as delivery starts in earnest.
+
 

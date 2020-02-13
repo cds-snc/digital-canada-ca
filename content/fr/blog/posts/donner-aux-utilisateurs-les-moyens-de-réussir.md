@@ -15,8 +15,9 @@ description: >-
   demandeurs, tout en facilitant la vie du personnel administratif.
 image-translation: null
 translationKey: setting-users-up-for-success-with-content-design
-thumb: /img/cds/medium/blog-setting-up-users-for-success.jpg
-processed: 1581549454964
+thumb: /img/cds/thumbnails/blog-setting-up-users-for-success.jpg
+processed: 1581608215752
+medium: /img/cds/medium/blog-setting-up-users-for-success.jpg
 ---
 
 Vous avez peut-être déjà lu que le SNC travaille avec [Immigration, Réfugiés et Citoyenneté Canada (IRCC)](https://numerique.canada.ca/2017/10/24/circonscrire-un-probleme-de-conception/) pour rendre le processus de [report d’un rendez-vous d’examen de citoyenneté](https://numerique.canada.ca/2018/04/13/reporter-un-rendez-vous-dexamen/) aussi pratique et facile que possible pour les demandeurs, tout en facilitant la vie du personnel administratif.
@@ -115,5 +116,6 @@ Ce texte a apaisé les inquiétudes des utilisateurs au sujet du report et les a
 Lorsqu’un service est conçu de façon itérative et selon une approche «&nbsp;recherche d’abord&nbsp;», les concepteurs acquièrent un aperçu du modèle mental des utilisateurs et de la façon dont ils réfléchissent aux problèmes qu’ils rencontrent dans un service.
 
 Tenir compte des principes de conception de contenu de haut niveau comme «&nbsp;établir les attentes dès le départ&nbsp;» et «&nbsp;permettre à l’espace lié à l’information critique de respirer&nbsp;» aide l’équipe de conception du SNC à créer des produits et des services plus accessibles et efficaces.
+
 
 

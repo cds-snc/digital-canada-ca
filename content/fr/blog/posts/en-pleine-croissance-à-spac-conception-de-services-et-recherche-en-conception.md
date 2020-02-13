@@ -13,8 +13,9 @@ date: 2019-07-30T13:00:00.000Z
 image: /img/cds/pspc-team-1.jpg
 image-alt: Photo de l’équipe de recherche en conception à SPAC.
 translationKey: emilio-pspc
-thumb: /img/cds/medium/pspc-team-1.jpg
-processed: 1581549454988
+thumb: /img/cds/thumbnails/pspc-team-1.jpg
+processed: 1581608215762
+medium: /img/cds/medium/pspc-team-1.jpg
 ---
 Lorsqu’on parle de la conception de services au gouvernement, il est surtout question de la création de services hors pair offerts aux citoyens. Cela est conforme à notre but principal : nous travaillons pour servir les citoyens. Nous devons par conséquent faire en sorte que les citoyens soient placés au cœur des services.
 
@@ -69,5 +70,6 @@ Je me réjouis de voir que nous commençons à orienter nos efforts pour appliqu
 - - -
 
 Envie d’en savoir plus sur la façon dont le SNC embauche des chercheurs? Vous pouvez trouver des offres d’emploi pour les [chercheurs en conception](https://cds-snc.github.io/talent/chercheur-en-conception/) et les [chercheurs quantitatifs en conception](https://cds-snc.github.io/talent/chercheur-quantitatif-en-conception/) dans le [Guide de talent du SNC](https://cds-snc.github.io/talent/accueil/). De plus, n’hésitez pas à communiquer avec l’équipe du talent du SNC au <mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca>.
+
 
 

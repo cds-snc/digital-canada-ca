@@ -13,8 +13,9 @@ date: '2017-08-24 10:00:00 -0400'
 image: /img/cds/picking-our-projects-2017.jpg
 image-alt: Posters in the CDS office
 translationKey: picking-our-projects
-thumb: /img/cds/medium/picking-our-projects-2017.jpg
-processed: 1581549454498
+thumb: /img/cds/thumbnails/picking-our-projects-2017.jpg
+processed: 1581608215334
+medium: /img/cds/medium/picking-our-projects-2017.jpg
 ---
 I grew up on a farm. It was a childhood marked by the feeling of gravel beneath my feet, dirt on my hands, and the joy of picking produce right from the field. I wish I could tell you that picking projects is the same but I have yet to encounter gravel, dirt or produce during a partnership chat (bonus points if you make this happen!)
 
@@ -43,5 +44,6 @@ If the problem falls within our wheelhouse and we think there’s potential to p
 If we both decide a partnership makes good sense, we’ll put in place a light touch agreement that outlines our approach, roles, responsibilities and timelines. And then, we get to roll up our sleeves and get to work! It’s important to keep in mind that we intend to work in the open with partners, sharing our lessons learned, challenges and successes along the way as much as possible.
 
 So far the response has been incredible! We’re humbled by the interest we’ve received to date and look forward to the many conversations to come. So with the above in mind, [don’t hesitate to reach out](#contact-us-links) if you’d like to set up a chat about your problem and explore how we can help.
+
 
 

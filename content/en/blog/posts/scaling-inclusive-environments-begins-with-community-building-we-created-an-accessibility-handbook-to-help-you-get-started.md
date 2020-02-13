@@ -15,8 +15,9 @@ image-alt: >-
   A headshot of Lead of Accessibility and Inclusion Services, Julianna Rowsell,
   standing in front of a purple wall.
 translationKey: accessibility-handbook
-thumb: /img/cds/medium/accessibility-handbook-blog.jpg
-processed: 1581549454544
+thumb: /img/cds/thumbnails/accessibility-handbook-blog.jpg
+processed: 1581608215353
+medium: /img/cds/medium/accessibility-handbook-blog.jpg
 ---
 Ten! Ten years, that’s how long I’ve worked in accessibility within the public service. I’ve watched the community grow and change as new faces have come and gone. Many people involved in accessibility in the public service when I first started out are still spearheading the charge today. We are a small, but mighty community, crossing departments and sectors to help improve access to services for people.
 
@@ -79,4 +80,5 @@ Check out our [Accessibility Handbook](https://digital.canada.ca/a11y).
 We can give a voice to people by telling their stories and sharing their truths in order to help teams design more inclusively. Creating a culture of accessibility and inclusion is about making sure everyone who works on, delivers or uses your services or products can access them.
 
 The Government of Canada is a leader in creating equitable experiences for everyone. Sharing resources, working collaboratively and building community across government will help us build a more inclusive public service. The Office of the Chief Information Officer is marking IDIP2019 by publishing new guidelines for the public service which encourages them to leverage the Harmonised European Standard EN 301 549 when procuring or developing information communication technology. Together we can make more inclusive services for everyone.
+
 

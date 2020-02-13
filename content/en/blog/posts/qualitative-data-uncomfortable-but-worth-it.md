@@ -11,8 +11,9 @@ image-alt: >-
   Photo of six members of the RCMP team around a table. They are smiling and
   reviewing a service diagram made up of different coloured sticky notes.
 translationKey: data-driven-service
-thumb: /img/cds/medium/rcmp-data-blog.jpg
-processed: 1581549454515
+thumb: /img/cds/thumbnails/rcmp-data-blog.jpg
+processed: 1581608215342
+medium: /img/cds/medium/rcmp-data-blog.jpg
 ---
 
 I’m an avid reader. I love books. But sometimes I struggle to choose which ones to read. 
@@ -117,5 +118,6 @@ In the weeks ahead, we’ll follow our format of starting small, clarifying the 
 It can be daunting to design a service that meets people’s needs, especially when the people you’re serving are in a vulnerable position, like suffering from the impacts of cybercrime. But we can increase our confidence by combining qualitative and quantitative data.
 
 However uncomfortable it can be at first, this combination is worth the challenge.
+
 
 

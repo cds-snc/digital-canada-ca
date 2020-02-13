@@ -10,8 +10,9 @@ date: '2017-07-28 10:00:00 -0400'
 image: /img/cds/blog-think-big-start-small-2017.jpg
 image-alt: Some members of the CDS team celebrating the website launch with a thumbs up
 translationKey: think-big-start-small
-thumb: /img/cds/medium/blog-think-big-start-small-2017.jpg
-processed: 1581549454568
+thumb: /img/cds/thumbnails/blog-think-big-start-small-2017.jpg
+processed: 1581608215372
+medium: /img/cds/medium/blog-think-big-start-small-2017.jpg
 ---
 The UK’s Government Digital Service has a brilliant list of [ten design principles](https://www.gov.uk/design-principles). I still remember the first time I saw it. “Start with user needs”, it read, “not government needs.” Oh my goodness, I thought: this is a real UK government website! That’s …amazing!
 
@@ -38,5 +39,6 @@ We’ve all been pretty thrilled about the past week, and to see so many positiv
 In pockets throughout the government, individual public servants are doing really inspiring work in software development, design, and data analysis. We’re excited to shine a light on awesome work that others are doing, and to work and learn together.
 
 In the weeks ahead, we’ll be using this blog to share what we’re working on, and what we’re learning as CDS gets off the launchpad. If you have thoughts or feedback, we’d love to hear from you! Please don’t hesitate to get in touch - you can [find us on Twitter](https://twitter.com/CDS_GC) or [reach out to anyone](/meet-the-team/) on the team.
+
 
 

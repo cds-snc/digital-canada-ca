@@ -10,8 +10,9 @@ date: '2018-10-19 09:00:00 -0400'
 image: /img/cds/blog-hello-world-canada.jpg
 image-alt: Red maple leaves.
 translationKey: hello-world-canada
-thumb: /img/cds/medium/blog-hello-world-canada.jpg
-processed: 1581549454270
+thumb: /img/cds/thumbnails/blog-hello-world-canada.jpg
+processed: 1581608215304
+medium: /img/cds/medium/blog-hello-world-canada.jpg
 ---
 
 Hello! CDS is just over one year old, and having had the ~~honor~~ honour of serving with this team for six months now, I’m well overdue to write a few words here.
@@ -62,5 +63,6 @@ And the team agreed that we would:
 Finally, we set some audacious “stretch” objectives for our still-nascent (50+ and counting) team this year: to continuously improve several aspects of our digital delivery capabilities; to deliver a high-impact, transactional, end-to-end service exemplar with a partner; to deliver three more successful product beta exemplars, two of which serve vulnerable populations; and to help five more department or agency partners with service delivery, capacity building and/or digital acquisitions.
 
 We invite you to follow along with us. We know it won’t always be an easy journey, but we know it’s going to be worthwhile. And if you’re up to the challenge, [come join us](/join-our-team/)!
+
 
 

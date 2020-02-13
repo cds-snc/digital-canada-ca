@@ -9,8 +9,9 @@ image-alt: >-
   L’application utilise un fichier ESLint pour faire une analyse statique de
   programmes.
 translationKey: security-hard
-thumb: /img/cds/medium/airplane.jpg
-processed: 1581549455107
+thumb: /img/cds/thumbnails/airplane.jpg
+processed: 1581608215892
+medium: /img/cds/medium/airplane.jpg
 ---
 La sécurité numérique, c’est difficile. Même les meilleures équipes d’ingénieurs et de spécialistes des TI sont susceptibles de faire des erreurs à un moment donné. Mais tout comme la sécurité dans les aéroports, les étapes et les processus en place sont là pour votre sûreté.
 
@@ -81,5 +82,6 @@ Montrez-moi le code d’[Objectifs de sécurité](https://github.com/cds-snc/sec
 ## Prochaines étapes
 
 Nous venons tout juste de commencer à prouver nos hypothèses. Nous sommes à en faire l’essai dans le cadre de certains services auxquels nous travaillons au SNC. Au fur et à mesure, nous rédigerons des « conteneurs de vérification » réutilisables et nous travaillerons avec les équipes de sécurité de nos partenaires pour déterminer exactement dans quelle mesure il est possible d’automatiser ces vérifications.
+
 
 

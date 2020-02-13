@@ -12,8 +12,9 @@ image-alt: >-
   People stand to take an oath of Canadian Citizenship at a ceremony in
   Vancouver.
 translationKey: human-story-behind-citizenship
-thumb: /img/cds/medium/blog-human-story-citizenship1.jpg
-processed: 1581549454386
+thumb: /img/cds/thumbnails/blog-human-story-citizenship1.jpg
+processed: 1581608215313
+medium: /img/cds/medium/blog-human-story-citizenship1.jpg
 ---
 
 In government, we deliver services that meet fundamental human needs: for belonging, for safety, and for human connection. Becoming a citizen of a new country is one of the most emotional life experiences a person will go through and marks the completion of a long journey.
@@ -113,5 +114,6 @@ This last point is particularly important, as tells us people are more confident
 Throughout the past seven months, we continually iterated and improved the service based on user research and testing with real people going through the citizenship process. We have reduced the administrative burden on staff, and given 200,000 future Canadians the best possible chance to succeed.
 
 Together with our colleagues at IRCC we’re reshaping the way government works to get closer to what people need. There’s a long way to go but this work has been an important step in moving towards our goal of human-centred services that change lives for the better.
+
 
 

@@ -15,8 +15,9 @@ date: '2017-08-24 10:00:00 -0400'
 image: /img/cds/picking-our-projects-2017.jpg
 image-alt: Affiches dans les locaux du SNC.
 translationKey: picking-our-projects/
-thumb: /img/cds/medium/picking-our-projects-2017.jpg
-processed: 1581549454748
+thumb: /img/cds/thumbnails/picking-our-projects-2017.jpg
+processed: 1581608215548
+medium: /img/cds/medium/picking-our-projects-2017.jpg
 ---
 J’ai grandi sur une ferme. Mon enfance a été marquée par la sensation du gravier sous mes pieds, la terre sur mes mains et le bonheur de choisir des fruits et des légumes directement du champ. J’aimerais pouvoir vous dire que choisir des projets est semblable, mais je n’ai toujours pas vu de gravier, de terre, de fruits ou de légumes pendant une discussion portant sur un partenariat (points bonis si vous y arrivez!)
 
@@ -45,5 +46,6 @@ Si le problème «&nbsp;tombe dans notre palette&nbsp;» et que nous entrevoyons
 Si les deux parties décident que le partenariat est judicieux, nous mettrons en place une entente allégée décrivant notre approche, nos rôles et responsabilités et les échéances. Ensuite, nous retrousserons nos manches et nous nous mettrons au travail! Rappelez-vous que nous avons l’intention de travailler ouvertement avec nos partenaires, c’est-à-dire que nous partagerons, autant que possible, les conclusions que nous aurons tirées, nos défis et nos succès, au fur et à mesure.
 
 Jusqu’à présent, la réponse a été incroyable! C’est avec humilité que nous constatons l’intérêt qui nous a été manifesté à ce jour, et nous attendons avec impatience les nombreuses conversations à venir. Gardez ces renseignements à l’esprit, et n’hésitez pas à [communiquer avec nous](#contact-us-links) si vous souhaitez discuter de votre problème et des manières dont nous pourrions vous aider.
+
 
 

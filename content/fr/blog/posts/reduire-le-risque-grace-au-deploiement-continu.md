@@ -8,8 +8,9 @@ date: '2018-05-16 09:00:00 -0400'
 image: /img/cds/blog-continuous-deployment.jpg
 image-alt: Un homme travaille à un bureau sur le code.
 translationKey: reducing-risk-through-continuous-deployment
-thumb: /img/cds/medium/blog-continuous-deployment.jpg
-processed: 1581549455314
+thumb: /img/cds/thumbnails/blog-continuous-deployment.jpg
+processed: 1581608215968
+medium: /img/cds/medium/blog-continuous-deployment.jpg
 ---
 La plupart des ministères avec qui nous travaillons déploient de nouvelles versions de leur code tous les 4, 6 ou 12 mois. Cette façon de faire cadre bien avec le processus de [développement de logiciel en cascade](https://cyclededeveloppementdunlogiciel.wordpress.com/le-modele-en-cascade/), souvent accompagné de sérieux risques. 
 
@@ -74,5 +75,6 @@ La capacité à déployer continuellement un nouveau code vers la production dé
 * Nous utilisons un nuage public (AWS/Azure/Google Cloud).
 
 Ces principes ne s’appliqueront probablement pas aux applications patrimoniales, mais ils sont habituellement vrais pour les nouveaux systèmes qui sont en voie de planification aujourd’hui. Nous avons utilisé trois de ces pratiques (intégration continue, examens de code, déploiement continu) dans le cadre de notre récent [projet d’API avec Ressources naturelles Canada](https://github.com/cds-snc/nrcan-energuide-api-poc/).
+
 
 

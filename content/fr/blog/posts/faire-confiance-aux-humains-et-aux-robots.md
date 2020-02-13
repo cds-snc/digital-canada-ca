@@ -10,8 +10,9 @@ date: 2019-03-14T13:00:00.000Z
 image: /img/cds/grass-lawn-robot.jpg
 image-alt: 'Un petit robot en bois se tient debout dans une pelouse verdoyante. '
 translationKey: trust-humans-and-robots
-thumb: /img/cds/medium/grass-lawn-robot.jpg
-processed: 1581549454991
+thumb: /img/cds/thumbnails/grass-lawn-robot.jpg
+processed: 1581608215769
+medium: /img/cds/medium/grass-lawn-robot.jpg
 ---
 Le développement de produits et la prestation de services efficaces ne sont rien sans la confiance. En tant qu’équipe de prestation au SNC, nous parlons souvent à nos partenaires de nous accorder la confiance pour les aider à quitter leurs zones de confort et à essayer de nouvelles approches. 
 
@@ -62,5 +63,6 @@ Depuis que nous utilisons ces outils dans le cadre de nos projets, nous avons d�
 Nous ne rêvons peut-être pas de moutons électriques, mais je dors mieux la nuit en sachant que l’information que nous utilisons pour prendre des décisions est publique et à la disposition des développeurs au moment où ils en ont le plus besoin. 
 
 Si vous ou votre équipe souhaitez en savoir davantage sur les outils ou les processus dont il a été question ci-dessus, veuillez communiquer directement avec l’un des auteurs des outils sur [Github](https://github.com/cds-snc) ou [communiquez avec le SNC](/rencontrez-lequipe/) par l’entremise de votre média préféré.
+
 
 

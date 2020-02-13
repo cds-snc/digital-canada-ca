@@ -13,8 +13,9 @@ date: '2018-09-11 09:00:00 -0400'
 image: /img/cds/blog-amir.jpg
 image-alt: Amir dans l'espace de travail du SNC.
 translationKey: ircc-to-cds
-thumb: /img/cds/medium/blog-amir.jpg
-processed: 1581549454913
+thumb: /img/cds/thumbnails/blog-amir.jpg
+processed: 1581608215750
+medium: /img/cds/medium/blog-amir.jpg
 ---
 
 À l'origine, j'avais entendu parler du Service numérique canadien (SNC) par mon gestionnaire à IRCC et, en un rien de temps, je commençais à traquer leurs [répertoires GitHub](https://github.com/cds-snc) et à en apprendre davantage sur une bibliothèque frontale appelée [React](https://reactjs.org/). J'étais enthousiaste de sortir de mon silo et de collaborer dans ce qui semblait être un environnement où l'on travaillait avec de nouvelles technologies. 
@@ -28,5 +29,6 @@ Au SNC, les développeurs, les concepteurs, les politiques et les produits sont 
 Au bout du compte, il est difficile, et peut-être même injuste de ma part, de comparer le SNC à l'ensemble du gouvernement canadien. Il est important de comprendre que **chaque ministère possède sa propre réalité**, avec ses microcultures et ses façons de faire. Il est facile de se laisser emporter par l'autonomie parce que le gouvernement est un système incroyablement complexe, alors j'essaie d'être aussi pragmatique que possible. J'ai même découvert que certaines choses étaient mieux gérées par mon propre ministère (IRCC) que le SNC, comme le fait de simplifier le déploiement et rendre la traduction des langues officielles plus déterministe et prévisible, par exemple. 
 
 Est-ce que je recommanderais la cohabitation à quelqu'un d'autre? Absolument. J'ai vraiment eu la chance de travailler avec des gens talentueux dans un environnement qui a favorisé cette cohabitation. Maintenant, je peux revenir à mon équipe au sein d'IRCC avec un peu plus de sagesse et en ayant en tête toute une série de principes de conception numérique.
+
 
 

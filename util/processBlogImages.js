@@ -20,12 +20,15 @@ const frontMatter = (
 
   fmEditor.saveFile = fmEditor.save;
   fmEditor.read(filePath).data((data, matter) => {
+    
+    
     if (data.processed) {
       // console.log("processed => ", data.processed)
       imageInfo = { processed: data.processed };
       saveFile = false;
       return;
     }
+   
 
     imageInfo = getFileInfo(data.image);
 
