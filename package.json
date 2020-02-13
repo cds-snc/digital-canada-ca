@@ -13,9 +13,10 @@
     "front-matter-editor": "0.0.1",
     "minimist": "^1.2.0",
     "netlify-cms": "^2.9.1",
+    "rimraf": "^3.0.2",
+    "serialize-javascript": "^2.1.2",
     "set-value": "^3.0.1",
     "sharp": "^0.22.1",
-    "serialize-javascript": "^2.1.2",
     "snyk": "^1.221.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.41.5"
@@ -30,7 +31,8 @@
     "build": "npm run process:images && webpack && hugo",
     "build_admin": "webpack --config webpack.config.js",
     "build:stage": "webpack && hugo --environment staging",
-    "heroku-postbuild": "webpack && ./bin/hugo --environment staging",
+    "preview:clean:fr:images" : "rimraf public/fr/img/*",
+    "heroku-postbuild": "preview:clean:fr:images && webpack && ./bin/hugo --environment staging",
     "stage-server": "node stage-server.js",
     "snyk-protect": "snyk protect",
     "prepare": "npm run snyk-protect"
