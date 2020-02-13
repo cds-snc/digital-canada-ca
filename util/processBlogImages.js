@@ -89,7 +89,7 @@ const start = (lang, markdownDir) => {
     }
 
     // save a large version of the image
-    saveImage(imagePath, `${prefixPath}/${largeImagePath}`, ".jpg");
+    // saveImage(imagePath, `${prefixPath}/${largeImagePath}`, ".jpg");
 
     // save a thumbnail version of the image
     saveImage(imagePath, `${prefixPath}/${thumbImagePath}`, ".jpg", 300, 300);

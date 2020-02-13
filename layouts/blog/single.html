@@ -3,7 +3,7 @@
   {{ with .Params.imagealt }}
   <div class="page-banner" role="img" aria-label="{{ .Params.imagealt }}" style="background-image: url('{{ .Params.image }}')"></div>
   {{ else }}
-  <div class="page-banner" style="background-image:url('{{ .Params.image }}')"></div>
+  <div class="page-banner" style="background-image:url('{{ .Params.thumb }}')"></div>
   {{ end }}
 {{end}}
 
