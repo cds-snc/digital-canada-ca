@@ -10,7 +10,7 @@ image: /img/cds/visual-storyteller.jpg
 image-alt: A picture of a man at a computer designing a visual story about outer space.
 translationKey: visual-storyteller-blog
 thumb: /img/cds/medium/visual-storyteller.jpg
-processed: 1581549454194
+
 ---
 Are you looking to make your communications more effective? Let images help you enhance your messages.
 
