@@ -13,8 +13,8 @@ date: '2017-09-12 09:00:00 -0400'
 image: /img/cds/wanted-ceo-cds-2017.jpg
 image-alt: 'Yaprak Baltacıoğlu, Secrétaire du Conseil du Trésor'
 translationKey: wanted-ceo-cds/
-thumb: /img/cds/medium/wanted-ceo-cds-2017.jpg
-processed: 1581549455269
+thumb: /img/cds/thumbnails/wanted-ceo-cds-2017.jpg
+processed: 1550672962199
 ---
  Les services fournis par notre gouvernement jouent un rôle important dans la vie de millions de gens. 
 
@@ -31,5 +31,4 @@ Le dirigeant principal du SNC siègera à la table de la haute direction du Secr
 Si, comme moi, vous êtes emballé par le défi qui se présente à nous comme gouvernement, j’espère que vous présenterez votre candidature. Ayant moi-même immigré au Canada, j’ai appris il y a longtemps à quel point les services sont importants. Que nous offrions des services aux immigrants, aux anciens combattants, aux personnes âgées ou aux nombreuses autres personnes et communautés de notre pays qui dépendent de nous, nous avons l’obligation de fournir des services qui sont faciles d’accès et simples à utiliser. 
   
 Il s’agit d’une occasion unique de mener le changement pour notre pays. Oui, vous ferez une différence. 
-
 

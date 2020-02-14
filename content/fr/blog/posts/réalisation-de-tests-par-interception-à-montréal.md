@@ -9,8 +9,8 @@ date: 2020-01-29T14:47:59.514Z
 image: /img/cds/field-note-train.jpg
 image-alt: Photo en teinte orangée d’une locomotive.
 translationKey: field-note-1
-thumb: /img/cds/medium/field-note-train.jpg
-processed: 1581549455341
+thumb: /img/cds/thumbnails/field-note-train.jpg
+processed: 1581626526559
 ---
 <p>Les notes de terrain sont un nouveau format de contenu du Service numérique canadien. Plus courtes qu’un billet de blogue, elles permettent aux équipes de livraison de donner des mises à jour plus régulières, de partager des observations plus modestes et de travailler ouvertement de façon continue.</p>
 

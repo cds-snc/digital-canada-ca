@@ -19,8 +19,8 @@ image-alt: >-
   Deux personnes examinent des graphiques pour les aider à prendre des décisions
   éclairées.
 translationKey: rcmp-mixed-method
-thumb: /img/cds/medium/mixed-methods-rcmp.jpg
-processed: 1581549454776
+thumb: /img/cds/thumbnails/mixed-methods-rcmp.jpg
+processed: 1581626526412
 ---
 Dans toute industrie, la nouveauté vient avec des risques. Nous comprenons donc la prudence, voire l’hésitation, de nos partenaires de la fonction publique face aux nouvelles méthodes que nous proposons afin de fournir des services numériques gouvernementaux.  
 

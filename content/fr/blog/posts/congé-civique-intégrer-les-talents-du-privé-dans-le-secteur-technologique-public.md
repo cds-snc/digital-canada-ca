@@ -1,12 +1,12 @@
 ---
 layout: blog
 title: >-
-  Congé pour fonctions civiques : intégrer les talents du privé dans le secteur
-  technologique public
+  Congé pour fonctions civiques : intégrer les talents du privé dans le secteur technologique
+  public
 description: >-
-  Le congé pour fonctions civiques, c’est l’occasion pour un employé du secteur
-  privé de partager son expertise lors d’une période de service dans le secteur
-  public ou dans la société civile.
+  Le congé pour fonctions civiques, c’est l’occasion pour un employé du secteur privé de
+  partager son expertise lors d’une période de service dans le secteur public ou
+  dans la société civile.
 author: 'Andrea Gilbrook, chef du talent'
 date: 2019-07-26T13:00:00.000Z
 image: /img/cds/small-maple-leafs.jpg
@@ -14,8 +14,8 @@ image-alt: >-
   Photo de personnes côte à côte, chacune tenant une feuille d'érable dans sa
   main.
 translationKey: civic-leave
-thumb: /img/cds/medium/small-maple-leafs.jpg
-processed: 1581549454862
+thumb: /img/cds/thumbnails/small-maple-leafs.jpg
+processed: 1564408446497
 ---
 Il faut une variété de personnes qualifiées pour créer et offrir des services numériques gouvernementaux de qualité. Ici, au Service numérique canadien (SNC), nous avons recours à des équipes multidisciplinaires pour concevoir des services simples et efficaces pour les Canadiens. Ces équipes possèdent des compétences et des expériences variées, ainsi qu’une expertise provenant de divers secteurs et même de différents pays. 
 
@@ -46,5 +46,4 @@ Le programme de congé pour fonctions civiques est une occasion pour les travail
 
 
 Il n’est pas nécessaire d’être fonctionnaire toute sa vie pour avoir un impact réel sur la vie des Canadiens. Si vous voulez mettre vos compétences numériques au profit du SNC en effectuant une période de service encadrée par le programme de congé pour fonctions civiques, [veuillez communiquer avec nous](mailto:cds-snc@tbs-sct.gc.ca). Les entreprises peuvent aussi communiquer directement avec nous. Si vous cherchez à travailler avec le SNC et à profiter de tous les avantages que le congé pour fonctions civiques offre à vos employés, [veuillez nous en informer](mailto:cds-snc@tbs-sct.gc.ca).
-
 

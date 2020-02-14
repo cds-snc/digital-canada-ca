@@ -9,8 +9,8 @@ date: 2019-11-28T13:46:22.820Z
 image: /img/cds/dreaming-of-words.jpg
 image-alt: Illustration of a girl daydreaming about writing and books.
 translationKey: Data-driven-comms
-thumb: /img/cds/medium/dreaming-of-words.jpg
-processed: 1581549454380
+thumb: /img/cds/thumbnails/dreaming-of-words.jpg
+processed: 1581626757485
 ---
 ## Once upon a time...
 

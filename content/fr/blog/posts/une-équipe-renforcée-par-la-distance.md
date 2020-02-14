@@ -13,8 +13,8 @@ image-alt: >-
   Cinq membres d’équipe communiquent entre eux à l’aide de différents appareils
   et à partir de lieux différents.
 translationKey: distributed-pm
-thumb: /img/cds/medium/distributed-pm-blog.jpg
-processed: 1581549455352
+thumb: /img/cds/thumbnails/distributed-pm-blog.jpg
+processed: 1575304320971
 ---
 Je suis arrivé au Service numérique canadien (SNC) par une froide journée de janvier. Je me suis rendu au bureau d’Ottawa pour une période d’intégration de deux semaines, après quoi je devais retourner chez moi, à Kitchener-Waterloo, où il fait *un peu moins* froid, pour travailler à temps plein. 
 
@@ -62,5 +62,4 @@ Mais ça ne s’arrête pas là. Toutes les deux semaines, nous nous réunissons
 
 * [Les équipes dispersées et leur façon de changer notre mode de travail.](https://us15.campaign-archive.com/?u=729a207773f7324e217a1d945&id=edbeb34908) 
 * [Mais, c’est quoi au juste, un « gestionnaire de produit »?](https://us15.campaign-archive.com/?u=729a207773f7324e217a1d945&id=ce59bb7b03) 
-
 

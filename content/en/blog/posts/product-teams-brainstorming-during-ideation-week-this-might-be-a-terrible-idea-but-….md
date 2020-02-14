@@ -12,8 +12,8 @@ date: 2019-08-26T14:05:22.645Z
 image: /img/cds/ideas.jpg
 image-alt: CPP-D product team members looking up at lightbulbs drawn above their heads.
 translationKey: brainstorming-ideation-week
-thumb: /img/cds/medium/ideas.jpg
-processed: 1581549454507
+thumb: /img/cds/thumbnails/ideas.jpg
+processed: 1581626815128
 ---
 Imagine standing up in front of your team at work and saying the worst possible idea you’ve ever had. Did that make you feel uncomfortable? We’ve been conditioned to bring only our very best ideas forward, but voicing the worst possible ideas is exactly what I asked my team to do during our recent Ideation week. Let me explain why this “outlandish” exercise was actually a very good idea. 
 
