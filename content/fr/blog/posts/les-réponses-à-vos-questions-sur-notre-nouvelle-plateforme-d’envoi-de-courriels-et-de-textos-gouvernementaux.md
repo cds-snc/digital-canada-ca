@@ -82,4 +82,4 @@ Nous avons développé Notification pour vous permettre de communiquer avec les 
 
 Nous espérons que vous trouverez cette plateforme aussi facile et agréable à utiliser que nous.
 
-Si vous avez des questions ou si vous souhaitez participer aux recherches en cours sur Notification, [communiquez directement avec nous](mailto:antoine.garcia-suarez@tbs-sct.gc.ca). Vous pouvez aussi utiliser le mot-clic #NotificationGC sur Twitter pour obtenir plus de détails et de l’aide.
+Si vous avez des questions ou si vous souhaitez participer aux recherches en cours sur Notification, [communiquez directement avec nous](mailto:antoine.garcia-suarez@tbs-sct.gc.ca). Vous pouvez aussi utiliser le mot-clic **\#NotificationGC** sur Twitter pour obtenir plus de détails et de l’aide.
