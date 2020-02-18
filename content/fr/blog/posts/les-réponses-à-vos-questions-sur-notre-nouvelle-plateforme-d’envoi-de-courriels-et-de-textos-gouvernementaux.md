@@ -12,7 +12,7 @@ description: >-
   pour leurs services.
 author: 'Max Neuvians et Tim Arney, développeurs'
 date: 2020-02-18T17:27:31.267Z
-image: /img/cds/blog-notify2.png
+image: /img/cds/blog-notify2.jpg
 image-alt: >-
   Trois personnes discutent ensemble; la personne de gauche tient un ordinateur
   portable et parle du code de l’API Notification, et l’une des personnes de
