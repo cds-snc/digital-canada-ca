@@ -67,8 +67,6 @@ Sign up for a Notify account and visit the API [documentation](https://notificat
 
 ![A screenshot of the Notify API integration page, which includes a section asking a user to create an API key by filling in the name for the key. There are three types of keys they can select - live, team and safelist, and test. ](/img/cds/notify-api-en.jpg)
 
- 
-
 Take note, we’re utilizing those clients (hurray open source!) with an undocumented parameter **BASE URL**, so you’ll need to set that to point to our version of the API. For more details, see [how to change your API endpoint](https://github.com/cds-snc/notification-api/wiki/How-to-change-your-API-endpoint%3F).
 
 ## But wait, there's more!
@@ -83,4 +81,4 @@ We built Notify with the goal that it will open the door for you to connect with
 
 We hope you’ll find this platform as easy and enjoyable to integrate as we did.
 
-If you have questions or would like to participate in ongoing research around Notify, [connect with us](mailto:antoine.garcia-suarez@tbs-sct.gc.ca) directly, or use the Twitter hashtag #notifygc for more details, queries and assistance.
+If you have questions or would like to participate in ongoing research around Notify, [connect with us](mailto:antoine.garcia-suarez@tbs-sct.gc.ca) directly, or use the Twitter hashtag **\#notifygc** for more details, queries and assistance.
