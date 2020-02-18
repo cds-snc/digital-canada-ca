@@ -11,7 +11,7 @@ description: >-
   services onto Notify. 
 author: 'Max Neuvians and Tim Arney, Developers'
 date: 2020-02-18T17:04:57.318Z
-image: /img/cds/blog-notify2.png
+image: /img/cds/blog-notify2.jpg
 image-alt: >-
   Three people talking with one another, with a person on the left side holding
   a laptop talking about the Notify API’s code. A person on the right side holds
