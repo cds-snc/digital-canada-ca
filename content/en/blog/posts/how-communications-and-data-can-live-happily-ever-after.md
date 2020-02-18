@@ -10,7 +10,7 @@ image: /img/cds/dreaming-of-words.jpg
 image-alt: Illustration of a girl daydreaming about writing and books.
 translationKey: Data-driven-comms
 thumb: /img/cds/thumbnails/dreaming-of-words.jpg
-processed: 1575304320638
+processed: 1581626757485
 ---
 ## Once upon a time...
 
@@ -123,5 +123,6 @@ It would seem that, afterall, communications and data can live happily ever afte
 * You can go through the new subscription flow yourself by [subscribing to our newsletter](https://canada.us15.list-manage.com/subscribe?u=729a207773f7324e217a1d945&id=eb357181d2). 
 * Have questions or feedback? Please [reach out](mailto:charlotte.pedersen@tbs-sct.gc.ca).
 * Want to learn more about why we picked Mailchimp as our newsletter provider, and the privacy considerations that went along with using a third-party provider? Read the CDS [story behind Mailchimp](https://digital.canada.ca/files/story-behind-mailchimp-en.docx).
+
 
 

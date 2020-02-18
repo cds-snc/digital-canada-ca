@@ -16,7 +16,8 @@ date: 2020-01-09T14:00:00.000Z
 image: /img/cds/mixed-methods-rcmp.jpg
 image-alt: Two people consulting charts and graphs to help them make informed decisions.
 translationKey: rcmp-mixed-method
-thumb: /img/cds/mixed-methods-rcmp.jpg
+thumb: /img/cds/thumbnails/mixed-methods-rcmp.jpg
+processed: 1581626676898
 ---
 
 There’s risk involved with doing something new in every industry. So when we come to the table with new methods to deliver digital services in government, we understand why our partners in the public service are cautious or even hesitant to jump on board right away.  
@@ -78,3 +79,5 @@ Understanding how the victim is feeling has allowed us to try and build an onlin
 Designing services and getting it exactly right for the people who use them is challenging. No one method will answer all the pressing needs they may have. Qualitative research is sometimes dismissed as anecdotal, while quantitative research may lack the social context to have an impact and be memorable. Evidence becomes strengthened, and design decisions become more clear, when we combine methods.   
 
 And as we’re seeing in this RCMP product, where there are numbers to support it, trying new things can feel far less risky.
+
+

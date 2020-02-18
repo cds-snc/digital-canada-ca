@@ -13,7 +13,8 @@ image-alt: >-
   textbooks, a ruler connected to a row of legos, a white pen, an apple and a
   speaker.
 translationKey: cds-student-trust
-thumb: /img/cds/jose-blog-header.jpg
+thumb: /img/cds/thumbnails/jose-blog-header.jpg
+processed: 1581626526260
 ---
 _Thinking back on my eight months as a student at the Canadian Digital Service (CDS), I have come to learn that empowerment is about trust; trust from your leaders and most importantly trust in yourself._
 
@@ -33,3 +34,4 @@ Upon reflection, that experience taught me two valuable lessons:
 2. **Always be a student.** For me being a student is a state of being, where you are always constantly absorbing, being critical of your notions, and looking for ways to share that knowledge. We all grow as people when we are receptive to new ideas.
 
 Students are always striving to learn, but that does not mean we’re unable to fully contribute to our teams. By trusting someone to put their knowledge into practice, they are able to learn, make mistakes and learn again, becoming better members of your team. Give young people permission to trust themselves, and they will ultimately grow more confident, both personally and professionally.
+

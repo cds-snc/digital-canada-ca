@@ -82,5 +82,3 @@ const start = (lang, markdownDir) => {
 // kickoff 
 start('en', path.join(__dirname, '../content/en/blog/posts'));
 start('fr', path.join(__dirname, '../content/fr/blog/posts'));
-
-//process.exit()
