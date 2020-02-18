@@ -19,6 +19,9 @@ thumb: /img/cds/thumbnails/rcmp-prototype-en.jpg
 processed: 1567091591113
 
 ---
+<div class="blog-diary">
+<div class="blog-diary-text">
+
 Our raison d’être at the Canadian Digital Service (CDS) is putting people first in order to make government services easier for them to use. So naturally, to help us better understand how we can do that, we talk a lot about conducting research with people who use our services. 
 
 **But there's also another group we can learn from: people who don't use our service.** These could be people who have used the service before, or attempted to use a similar service in the past, but would opt out of something similar in the future. 
@@ -68,3 +71,5 @@ We’re currently conducting validation and usability tests to ensure that we’
 * [Ear to the ground: using the words people use](https://digital.canada.ca/2019/06/06/ear-to-the-ground-using-the-words-people-use/)
 * [Qualitative data: uncomfortable, but worth it](https://digital.canada.ca/2019/07/11/qualitative-data-uncomfortable-but-worth-it/)
 
+</div>
+</div>

@@ -359,7 +359,16 @@ td {
   max-width: 70%;
   margin: 15px 0;
  }
- 
+
+ // Style for Diaries(in our Blog section)
+ .blog-diary {
+   background-image: url("../img/cds/blog-diary-background1.png");
+   background-size: contain;
+ }
+
+ .blog-diary-text {
+   padding: 100px;
+ }
 
 // Style for circle arrow icon turning right (featured beside links in different sections of the homepage)
 .fa-arrow-circle-right {
