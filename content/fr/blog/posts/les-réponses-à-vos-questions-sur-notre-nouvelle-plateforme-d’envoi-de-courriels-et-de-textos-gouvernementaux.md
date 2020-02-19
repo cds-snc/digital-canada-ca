@@ -19,8 +19,8 @@ image-alt: >-
   droite tient un ordinateur portable et parle des courriels et des messages
   texte envoyés grâce au service Notification.
 translationKey: notify-blog2
-thumb: ''
-processed: ''
+thumb: /img/cds/thumbnails/blog-notify2.jpg
+processed: 1582120424419
 ---
 Depuis le lancement de notre [plateforme Notification](https://numerique.canada.ca/2019/11/26/on-vous-pr%C3%A9sente-notification/), nous avons reçu plusieurs questions de personnes qui souhaitent savoir comment elle fonctionne, qui peut l’utiliser et, surtout, si elle est gratuite. En raison de cet immense intérêt, nous avons décidé de prendre le temps de répondre à ces questions et d’encourager d’autres organisations à utiliser Notification pour leurs services.
 
@@ -83,3 +83,5 @@ Nous avons développé Notification pour vous permettre de communiquer avec les 
 Nous espérons que vous trouverez cette plateforme aussi facile et agréable à utiliser que nous.
 
 Si vous avez des questions ou si vous souhaitez participer aux recherches en cours sur Notification, [communiquez directement avec nous](mailto:antoine.garcia-suarez@tbs-sct.gc.ca). Vous pouvez aussi utiliser le mot-clic **\#NotificationGC** sur Twitter pour obtenir plus de détails et de l’aide.
+
+

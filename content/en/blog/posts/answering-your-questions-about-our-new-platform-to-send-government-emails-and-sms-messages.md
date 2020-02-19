@@ -18,8 +18,8 @@ image-alt: >-
   a laptop, while talking about the emails and text messages that result from
   using the Notify service. 
 translationKey: notify-blog2
-thumb: ''
-processed: ''
+thumb: /img/cds/thumbnails/blog-notify2.jpg
+processed: 1582120424308
 ---
 Since we introduced our [Notify platform](https://digital.canada.ca/2019/11/26/introducing-notify/), we’ve received many questions about how it works, who can use it, and most frequently, whether or not it's free. With such great interest around the platform, we wanted to take the time to answer your questions and encourage more organizations to bring their live services onto Notify.  
 
@@ -82,3 +82,6 @@ We built Notify with the goal that it will open the door for you to connect with
 We hope you’ll find this platform as easy and enjoyable to integrate as we did.
 
 If you have questions or would like to participate in ongoing research around Notify, [connect with us](mailto:antoine.garcia-suarez@tbs-sct.gc.ca) directly, or use the Twitter hashtag **\#notifygc** for more details, queries and assistance.
+
+
+
