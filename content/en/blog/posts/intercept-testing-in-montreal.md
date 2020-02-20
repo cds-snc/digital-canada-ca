@@ -12,10 +12,8 @@ translationKey: field-note-1
 thumb: 
 processed: 1581626757493
 ---
-<div class="diary">
 
 <p>Hi! Charlotte and Élise here!</p> 
-
 <p>We recently learned an interesting lesson about assuming we know the problems of our users. Turns out, that isn’t necessarily the case. Here’s a diary about this journey and learning experience.</p>
 
 <hr>
@@ -24,24 +22,22 @@ processed: 1581626757493
     <h3>November 18, 2019</h3>
     <p>I’ve been noticing a problem with one of our newsletters.</p>
     <p>We have two mailing lists that people can subscribe to: one in English and one in French. We’ve been using analytics to improve our performance every month, and seeing a lot of success with our English newsletter. Subscriptions for that one have been going way up! **The problem is, we aren’t seeing the same steady growth with our French newsletter.</p>
-
-<table class="">
-    <tbody>
-        <tr>
-            <td class="diary-text">
-               <p>I’m happy things are resonating with our English audience, but I wonder why it’s not resonating with our French audience in the same way. We want the newsletter to have the same value for people regardless of what language they’re reading it in.</p>
-               <p>I met with Élise today to talk about how we can figure out a way to improve the uptake of our French newsletter. **We’re assuming the reason readership is low is because we’re missing the mark with our content and how we’re presenting it in French.** Afterall, content is king, right</p>
-            </td>
-            <td class="diary-img">
-                <img class="" src="/img/cds/balance.png" alt="Balanced scales.">
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<p>We decided we’re going to launch into content testing to fix this. We’ll sit down with French subscribers and have them go through the newsletters with us to get a better understanding of what is clear, what is helpful, and what is neither of those things</p>
-<p>We set up a meeting with one of our design researchers, Adrianne, to help us flesh out this plan. More to come!</p>
-<p>- Charlotte</p>
+    <table class="">
+        <tbody>
+            <tr>
+                <td class="diary-text">
+                <p>I’m happy things are resonating with our English audience, but I wonder why it’s not resonating with our French audience in the same way. We want the newsletter to have the same value for people regardless of what language they’re reading it in.</p>
+                <p>I met with Élise today to talk about how we can figure out a way to improve the uptake of our French newsletter. **We’re assuming the reason readership is low is because we’re missing the mark with our content and how we’re presenting it in French.** Afterall, content is king, right?</p>
+                </td>
+                <td class="diary-img">
+                    <img class="" src="/img/cds/balance.png" alt="Balanced scales.">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>We decided we’re going to launch into content testing to fix this. We’ll sit down with French subscribers and have them go through the newsletters with us to get a better understanding of what is clear, what is helpful, and what is neither of those things</p>
+    <p>We set up a meeting with one of our design researchers, Adrianne, to help us flesh out this plan. More to come!</p>
+    <p>- Charlotte</p>
 </div>
 
 <hr>
@@ -60,10 +56,9 @@ processed: 1581626757493
             </tr>
         </tbody>
     </table>
-
-<p>Based on that helpful advice, Élise and I reconvened today to discuss a new plan of attack and to update our research plan. We talked about who we want to target for testing, came up survey questions for each audience, and then put together a recruitment plan to ensure we get enough data/responses.</p>
-<p>We’re pretty confident we know what the responses will be (hello, content!), and that it will lead us to come up with a content testing plan. But Adrianne’s totally right: better to have the data to point to!</p>
-<p>- Charlotte</p>
+    <p>Based on that helpful advice, Élise and I reconvened today to discuss a new plan of attack and to update our research plan. We talked about who we want to target for testing, came up survey questions for each audience, and then put together a recruitment plan to ensure we get enough data/responses.</p>
+    <p>We’re pretty confident we know what the responses will be (hello, content!), and that it will lead us to come up with a content testing plan. But Adrianne’s totally right: better to have the data to point to!</p>
+    <p>- Charlotte</p>
 </div>
 
 <hr>
@@ -75,7 +70,7 @@ processed: 1581626757493
         <tbody>
             <tr>
                 <td class="diary-text">
-                    <p>*Nous avons un premier sondage de 4 questions qui sera intégré à l’infolettre française, avec des questions comme « Qu’est-ce qui vous incite à ouvrir une infolettre? » et « Lisez-vous habituellement les nouvelles sur le numérique en français ou en anglais? ». Puis nous avons un autre sondage d’une question pour l’infolettre anglaise, où on demande pourquoi les personnes se sont abonnées à la liste de diffusion anglaise et non française.</p>
+                    <p>Nous avons un premier sondage de 4 questions qui sera intégré à l’infolettre française, avec des questions comme « Qu’est-ce qui vous incite à ouvrir une infolettre? » et « Lisez-vous habituellement les nouvelles sur le numérique en français ou en anglais? ». Puis nous avons un autre sondage d’une question pour l’infolettre anglaise, où on demande pourquoi les personnes se sont abonnées à la liste de diffusion anglaise et non française.</p>
                     <p>Le public cible dans les deux cas est le lectorat francophone. On veut vraiment savoir ce qui cloche avec notre infolettre française.</p>
                 </td>
                 <td class="diary-img">
@@ -139,5 +134,5 @@ processed: 1581626757493
     <p>- Élise</p>
 </div>
 
-</div>
+
 
