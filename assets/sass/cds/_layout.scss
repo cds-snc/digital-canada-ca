@@ -361,6 +361,15 @@ td {
  }
  
 // Style for Diary (in our Blog section)
+.blog-diary {
+  background-image: url("../img/cds/diary-background.jpg");
+  background-size: contain;
+}
+
+.diary-container {
+  padding: 100px 100px 100px 200px;
+}
+
 .diary-entry {
   p {
     font-style: italic;

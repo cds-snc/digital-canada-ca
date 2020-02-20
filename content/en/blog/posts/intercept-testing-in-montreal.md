@@ -12,6 +12,8 @@ translationKey: field-note-1
 thumb: 
 processed: 1581626757493
 ---
+<div class="blog-diary">
+<div class="diary-container">
 
 <p>Hi! Charlotte and Élise here!</p> 
 <p>We recently learned an interesting lesson about assuming we know the problems of our users. Turns out, that isn’t necessarily the case. Here’s a diary about this journey and learning experience.</p>
@@ -132,6 +134,8 @@ processed: 1581626757493
     </table>
     <p>Morale de l’histoire : ne jamais supposer connaître la réponse. Seul notre lectorat la connaissait!</p>
     <p>- Élise</p>
+</div>
+</div>
 </div>
 
 

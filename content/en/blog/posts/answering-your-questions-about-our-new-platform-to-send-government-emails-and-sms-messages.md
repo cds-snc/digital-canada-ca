@@ -1,87 +1,139 @@
 ---
 layout: blog
-title: >-
-  Answering your questions about our new platform to send government emails and
-  SMS messages 
+title: Testing our french newsletter - The problem we didn’t expect
 description: >-
-  Since we introduced our Notify platform, we’ve received many questions about
-  how it works, who can use it, and most frequently, whether or not it's free.
-  With such great interest around the platform, we wanted to take the time to
-  answer your questions and encourage more organizations to bring their live
-  services onto Notify. 
-author: 'Max Neuvians and Tim Arney, Developers'
-date: 2020-02-18T17:04:57.318Z
-image: /img/cds/blog-notify2.jpg
-image-alt: >-
-  Three people talking with one another, with a person on the left side holding
-  a laptop talking about the Notify API’s code. A person on the right side holds
-  a laptop, while talking about the emails and text messages that result from
-  using the Notify service. 
-translationKey: notify-blog2
-thumb: /img/cds/thumbnails/blog-notify2.jpg
-processed: 1582120424308
+  We assumed we needed to do French content testing to improve our French newsletter subscription numbers. We sent out a survey to our users first. We learned a lot about assuming you know the problem.  
+author: >-
+  Élise Cossette and Charlotte Pedersen (Outreach)
+date: 2020-01-28T20:37:47.522Z
+image: /img/cds/blog-newsletter-testing.jpg
+image-alt: 'A picture of the front of a train in an orange tinted background. '
+translationKey: field-note-1
+thumb: 
+processed: 1581626757493
 ---
-Since we introduced our [Notify platform](https://digital.canada.ca/2019/11/26/introducing-notify/), we’ve received many questions about how it works, who can use it, and most frequently, whether or not it's free. With such great interest around the platform, we wanted to take the time to answer your questions and encourage more organizations to bring their live services onto Notify.  
+<div class="blog-diary">
+<div class="diary-container">
 
-As developers, we also want to provide a clearer path forward on why Notify should be integrated with new and existing government services. 
+<p>Hi! Charlotte and Élise here!</p> 
+<p>We recently learned an interesting lesson about assuming we know the problems of our users. Turns out, that isn’t necessarily the case. Here’s a diary about this journey and learning experience.</p>
 
-But first, let’s address our single most common question:
+<hr>
 
-## Is there a cost for sending email notifications through Notify?
+<div class="diary-entry">
+    <h3>November 18, 2019</h3>
+    <p>I’ve been noticing a problem with one of our newsletters.</p>
+    <p>We have two mailing lists that people can subscribe to: one in English and one in French. We’ve been using analytics to improve our performance every month, and seeing a lot of success with our English newsletter. Subscriptions for that one have been going way up! **The problem is, we aren’t seeing the same steady growth with our French newsletter.</p>
+    <table class="">
+        <tbody>
+            <tr>
+                <td class="diary-text">
+                <p>I’m happy things are resonating with our English audience, but I wonder why it’s not resonating with our French audience in the same way. We want the newsletter to have the same value for people regardless of what language they’re reading it in.</p>
+                <p>I met with Élise today to talk about how we can figure out a way to improve the uptake of our French newsletter. **We’re assuming the reason readership is low is because we’re missing the mark with our content and how we’re presenting it in French.** Afterall, content is king, right?</p>
+                </td>
+                <td class="diary-img">
+                    <img class="" src="/img/cds/balance.jpg" alt="Balanced scales.">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>We decided we’re going to launch into content testing to fix this. We’ll sit down with French subscribers and have them go through the newsletters with us to get a better understanding of what is clear, what is helpful, and what is neither of those things</p>
+    <p>We set up a meeting with one of our design researchers, Adrianne, to help us flesh out this plan. More to come!</p>
+    <p>- Charlotte</p>
+</div>
 
-**No**. Using Notify is **free**, and it will stay that way for the lifetime of the product at the Canadian Digital Service (CDS). 
+<hr>
 
-Secondly, many people ask why and how they should be using Notify. We think we can address this by providing a compelling example from our own product delivery history.
+<div class="diary-entry">
+    <h3>November 26, 2019</h3>
+    <table class="">
+        <tbody>
+            <tr>
+                <td>
+                    <img class="" src="/img/cds/direction.jpg" alt="Two arrows pointing in opposite directions with a lightbulb on top.">
+                </td>
+                <td>
+                    <p>We’re pivoting a little after a great chat with Adrianne. She suggested we may want to test our assumption that content is the problem before we leap into fixing it. Her advice was to get more data on what the problem is from actual subscribers. Then we can choose what the best way is to tackle that problem. She said it could very well be content, but let’s let actual people using the service tell us that so we’re not trying to solve a problem that might not be a problem.</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>Based on that helpful advice, Élise and I reconvened today to discuss a new plan of attack and to update our research plan. We talked about who we want to target for testing, came up survey questions for each audience, and then put together a recruitment plan to ensure we get enough data/responses.</p>
+    <p>We’re pretty confident we know what the responses will be (hello, content!), and that it will lead us to come up with a content testing plan. But Adrianne’s totally right: better to have the data to point to!</p>
+    <p>- Charlotte</p>
+</div>
 
-One of the first projects we worked on here CDS was a service for [rescheduling citizenship appointments](https://digital.canada.ca/2018/04/13/reschedule-a-citizenship-appointment/). We learned that once applicants sent in their request to reschedule, they weren’t always clear on what happened next and as a result, there was a need for the service to send a transactional email to confirm receipt of one’s information. 
+<hr>
 
-As it turned out, sending an email from a cloud-based service was easier said than done. It involved several steps including procurement of services, verification of domain ownership, and setting up appropriate safeguards against email spoofing - all things that could potentially take months to accomplish, depending on organizational processes. 
+<div class="diary-entry">
+    <h3>November 29, 2019</h3>
+    <p>Charlotte et moi avons profité des derniers jours pour faire un peu de travail d’arrière-plan. J’ai finalisé les questions de sondage, et Charlotte a créé le squelette de la prochaine infolettre. Je pense qu’on a quelque chose qui se tient!</p>
+    <table class="">
+        <tbody>
+            <tr>
+                <td class="diary-text">
+                    <p>Nous avons un premier sondage de 4 questions qui sera intégré à l’infolettre française, avec des questions comme « Qu’est-ce qui vous incite à ouvrir une infolettre? » et « Lisez-vous habituellement les nouvelles sur le numérique en français ou en anglais? ». Puis nous avons un autre sondage d’une question pour l’infolettre anglaise, où on demande pourquoi les personnes se sont abonnées à la liste de diffusion anglaise et non française.</p>
+                    <p>Le public cible dans les deux cas est le lectorat francophone. On veut vraiment savoir ce qui cloche avec notre infolettre française.</p>
+                </td>
+                <td class="diary-img">
+                    <img class="" src="/img/cds/sondage.jpg" alt="A notebook with checkboxes labelled “survey”.">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>Comme nos répondants potentiels sont moins nombreux en français (240 abonnés contre 2 800 abonnés en anglais), Charlotte a eu l’idée d’envoyer un courriel ciblé du type « On s’ennuie de vous » à ceux qui n’ouvrent presque jamais l’infolettre. Je vais rédiger un petit paragraphe les invitant à nous aider à améliorer l’infolettre française. On va y inclure le sondage et l’envoyer une semaine avant l’infolettre mensuelle.</p>
+    <p>J’ai vraiment hâte de voir ce qu’on va apprendre. Maintenant, il ne nous reste plus qu’à rédiger les infolettres!</p>
+    <p>- Élise</p>
+</div>
 
-As developers, we just wanted to send timely emails. 
+<div class="diary-entry">
+    <h3>December 10, 2019 </h3>
+    <p>The eblast and newsletters have been built and sent out!</p>
+    <table class="">
+        <tbody>
+            <tr class="">
+                <td class="diary-img">
+                    <img class="" src="/img/cds/attente.jpg" alt="Hourglass.">
+                </td>
+                <td class="diary-text">
+                    <p>Five days ago we sent out the eblast with our survey to the less engaged French subscribers. We got 16 responses so far from a group of people who, data tells us, don’t typically engage with our emails. Not too shabby.</p>
+                    <p>Then today we sent out the two newsletters, English and French, with their respective surveys.</p>
+                    <p>We’re going to give people a few days to fill them out. I can’t wait to check out the responses!</p>
+                    <p>- Charlotte</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-Fast forward to today, where we’ve built Notify, a platform that allows you to skip to the front of the line and send notifications quickly and reliably (because we’ve taken care of a lot of the additional work for you)!
+<hr>
 
-## Why should you use Notify?
-
-Much like the email client on your desktop, Notify allows you to send emails and text messages through a website (either in bulk using the list upload feature, or to single recipients).
-
-Using open source code from the GOV.UK Notify service (created by GDS, the Government Digital Service in the UK), we built and adapted the Notify Application Programming Interface to fit our Canadian context, making it easier to integrate into your own system. 
-
-While sending messages manually can make sense in certain situations, it generally requires a lot of time and resources to do so. By using the API, you are able to automate your messaging requirements. For developers, that means you can expect to take a more hands-off approach to sending status updates, confirmations and reminders, once a service has integrated the Notify API. 
-
-## Advantages of using the Notify API
-
-Here are some of the benefits of sending your messages through the Notify API:
-
-* Valid Sender Policy Framework (SPF) and DomainKeys Identified Mail records (DKIM);
-* Automatic compliance with upcoming email sending guidelines, most notably, Domain-based Message Authentication, Reporting, and Conformance (DMARC);
-* Default Government of Canada branding in place (you can also upload your own to match your service) 
-* Emails will be sent from a trusted Canada.ca domain, minimizing the risk of spam detection. Sending from your own domain is also possible but not recommended.
-* A dashboard feature that tells you how many emails were successfully delivered over time. 
-
-All of that to say, if we had Notify when building the service for rescheduling citizenship appointments, it would have saved a lot of blood, sweat, and tears. 
-
-## Now that we’ve sold you on the idea, how can you get started?
-
-Sign up for a Notify account and visit the API [documentation](https://notification.alpha.canada.ca/documentation). You’ll see there are clients for many common programming languages, such as Java, Python, and JavaScript. These clients and documentation are maintained by GDS.
-
-![A screenshot of the Notify API integration page, which includes a section asking a user to create an API key by filling in the name for the key. There are three types of keys they can select - live, team and safelist, and test. ](/img/cds/notify-api-en.jpg)
-
-Take note, we’re utilizing those clients (hurray open source!) with an undocumented parameter **BASE URL**, so you’ll need to set that to point to our version of the API. For more details, see [how to change your API endpoint](https://github.com/cds-snc/notification-api/wiki/How-to-change-your-API-endpoint%3F).
-
-## But wait, there's more!
-
-Sometimes using an API just isn’t an option - perhaps you’re using Commercial-off-the-shelf (COTS) product that requires sending using Simple Mail Transfer Protocol (SMTP). We’re excited to announce that alongside the API, we’re experimenting with a new SMTP option.  
-
-Messages sent through SMTP have largely the same features available to them as those sent through the API. Contact us for more details or if you’re interested in trying out this new feature. 
-
-## Connect with your users and connect with us
-
-We built Notify with the goal that it will open the door for you to connect with the people who will use your service. Since announcing our Notify platform, we’ve seen over a hundred new trial accounts created to test out Notify and consequently, we’ve tripled the amount of live services on our platform to date.
-
-We hope you’ll find this platform as easy and enjoyable to integrate as we did.
-
-If you have questions or would like to participate in ongoing research around Notify, [connect with us](mailto:antoine.garcia-suarez@tbs-sct.gc.ca) directly, or use the Twitter hashtag **\#notifygc** for more details, queries and assistance.
-
-
-
+<div class="diary-entry">
+    <h3>December 20, 2019</h3>
+    <p>Aujourd’hui, c’était le jour de la surprise.</p>
+    <p>Charlotte et moi avons analysé les réponses au sondage. Ce sont les répondants francophones inscrits à l’infolettre anglaise qui nous ont le plus appris. Voici ce qu’on a découvert :</p>
+    <blockquote>1. 41 % d’entre eux ne savaient pas qu’il existait une infolettre française.</blockquote>
+    <blockquote> 2. 20 % d’entre eux sont habitués à de mauvaises traductions au gouvernement ou préfèrent lire en langue originale.</blockquote>
+    <blockquote>3. 11 % d’entre eux lisent en anglais car ils peuvent plus facilement partager le contenu avec leurs collègues anglophones.</blockquote>
+    <p>Charlotte et moi ne nous attendions **pas du tout** à ce qu’autant de gens ne connaissent simplement pas l’existence de l’infolettre française! Ça représente un problème beaucoup moins gros que de s’attaquer directement au contenu.</p>
+    <p>Nous avons donc tout de suite élaboré des mesures préliminaires  :</p>
+    <table class="">
+        <tbody>
+            <tr>
+                <td class="diary-text">
+                    <ul>
+                        <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
+                        <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
+                    </ul>
+                </td>
+                <td class="diary-img">
+                    <img src="/img/cds/morale.jpg" alt="Word bubble with a smiley face inside of it.">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>Morale de l’histoire : ne jamais supposer connaître la réponse. Seul notre lectorat la connaissait!</p>
+    <p>- Élise</p>
+</div>
+</div>
+</div>
