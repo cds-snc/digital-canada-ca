@@ -6,10 +6,10 @@ description: >-
 author: >-
   Élise Cossette and Charlotte Pedersen (Outreach)
 date: 2020-01-28T20:37:47.522Z
-image: /img/cds/field-note-train.jpg
+image: /img/cds/blog-newsletter-testing.jpg
 image-alt: 'A picture of the front of a train in an orange tinted background. '
 translationKey: field-note-1
-thumb: /img/cds/thumbnails/field-note-train.jpg
+thumb: 
 processed: 1581626757493
 ---
 <div>
@@ -32,6 +32,9 @@ processed: 1581626757493
                <p>I’m happy things are resonating with our English audience, but I wonder why it’s not resonating with our French audience in the same way. We want the newsletter to have the same value for people regardless of what language they’re reading it in.</p>
                <p>I met with Élise today to talk about how we can figure out a way to improve the uptake of our French newsletter. **We’re assuming the reason readership is low is because we’re missing the mark with our content and how we’re presenting it in French.** Afterall, content is king, right</p>
             </td>
+            <td>
+                <img class="" src="/img/cds/balance.png" alt="Balanced scales.">
+            </td>
         </tr>
     </tbody>
 </table>
@@ -49,7 +52,10 @@ processed: 1581626757493
         <tbody>
             <tr>
                 <td>
-                <p>We’re pivoting a little after a great chat with Adrianne. She suggested we may want to test our assumption that content is the problem before we leap into fixing it. Her advice was to get more data on what the problem is from actual subscribers. Then we can choose what the best way is to tackle that problem. She said it could very well be content, but let’s let actual people using the service tell us that so we’re not trying to solve a problem that might not be a problem.</p>
+                    <img class="" src="/img/cds/direction.png" alt="Two arrows pointing in opposite directions with a lightbulb on top.">
+                </td>
+                <td>
+                    <p>We’re pivoting a little after a great chat with Adrianne. She suggested we may want to test our assumption that content is the problem before we leap into fixing it. Her advice was to get more data on what the problem is from actual subscribers. Then we can choose what the best way is to tackle that problem. She said it could very well be content, but let’s let actual people using the service tell us that so we’re not trying to solve a problem that might not be a problem.</p>
                 </td>
             </tr>
         </tbody>
@@ -69,8 +75,11 @@ processed: 1581626757493
         <tbody>
             <tr>
                 <td>
-                <p>*Nous avons un premier sondage de 4 questions qui sera intégré à l’infolettre française, avec des questions comme « Qu’est-ce qui vous incite à ouvrir une infolettre? » et « Lisez-vous habituellement les nouvelles sur le numérique en français ou en anglais? ». Puis nous avons un autre sondage d’une question pour l’infolettre anglaise, où on demande pourquoi les personnes se sont abonnées à la liste de diffusion anglaise et non française.</p>
-                <p>Le public cible dans les deux cas est le lectorat francophone. On veut vraiment savoir ce qui cloche avec notre infolettre française.</p>
+                    <p>*Nous avons un premier sondage de 4 questions qui sera intégré à l’infolettre française, avec des questions comme « Qu’est-ce qui vous incite à ouvrir une infolettre? » et « Lisez-vous habituellement les nouvelles sur le numérique en français ou en anglais? ». Puis nous avons un autre sondage d’une question pour l’infolettre anglaise, où on demande pourquoi les personnes se sont abonnées à la liste de diffusion anglaise et non française.</p>
+                    <p>Le public cible dans les deux cas est le lectorat francophone. On veut vraiment savoir ce qui cloche avec notre infolettre française.</p>
+                </td>
+                <td>
+                    <img class="" src="/img/cds/sondage.png" alt="A notebook with checkboxes labelled “survey”.">
                 </td>
             </tr>
         </tbody>
@@ -86,6 +95,9 @@ processed: 1581626757493
     <table class="">
         <tbody>
             <tr class="">
+                <td>
+                    <img class="" src="/img/cds/attente.png" alt="Hourglass.">
+                </td>
                 <td class="">
                     <p>Five days ago we sent out the eblast with our survey to the less engaged French subscribers. We got 16 responses so far from a group of people who, data tells us, don’t typically engage with our emails. Not too shabby.</p>
                     <p>Then today we sent out the two newsletters, English and French, with their respective surveys.</p>
@@ -112,10 +124,13 @@ processed: 1581626757493
         <tbody>
             <tr>
                 <td class="">
-                <ul>
-                    <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
-                    <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
-                </ul>
+                    <ul>
+                        <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
+                        <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
+                    </ul>
+                </td>
+                <td>
+                    <img class="" src="/img/cds/morale.png" alt="Word bubble with a smiley face inside of it.">
                 </td>
             </tr>
         </tbody>
