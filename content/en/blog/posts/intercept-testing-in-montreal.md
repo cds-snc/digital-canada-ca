@@ -1,14 +1,10 @@
 ---
 layout: blog
-title: Field Note - Intercept Testing in Montreal
+title: Testing our french newsletter - The problem we didn’t expect
 description: >-
-  Field Notes are a new content format for the Canadian Digital Service. Shorter
-  than a blog post, a Field Note allows delivery teams to give more regular
-  updates, share smaller insights and continue working in the open on a
-  continuous basis.
+  We assumed we needed to do French content testing to improve our French newsletter subscription numbers. We sent out a survey to our users first. We learned a lot about assuming you know the problem.  
 author: >-
-  Adrianne Lee, Researcher with Help Canadians access the CPP Disability Benefit
-  (CPP-D) partnership
+  Élise Cossette and Charlotte Pedersen (Outreach)
 date: 2020-01-28T20:37:47.522Z
 image: /img/cds/field-note-train.jpg
 image-alt: 'A picture of the front of a train in an orange tinted background. '
@@ -16,79 +12,117 @@ translationKey: field-note-1
 thumb: /img/cds/thumbnails/field-note-train.jpg
 processed: 1581626757493
 ---
-<p>Field Notes are a new content format for the Canadian Digital Service. Shorter than a blog post, a Field Note allows delivery teams to give more regular updates, share smaller insights and continue working in the open on a continuous basis.</p>
+<div>
 
-<table class="field-notes">
+<p>Hi! Charlotte and Élise here!</p> 
+
+<p>We recently learned an interesting lesson about assuming we know the problems of our users. Turns out, that isn’t necessarily the case. Here’s a diary about this journey and learning experience.</p>
+
+<hr>
+
+<div class="diary-entry">
+    <h3>November 18, 2019</h3>
+    <p>I’ve been noticing a problem with one of our newsletters.</p>
+    <p>We have two mailing lists that people can subscribe to: one in English and one in French. We’ve been using analytics to improve our performance every month, and seeing a lot of success with our English newsletter. Subscriptions for that one have been going way up! **The problem is, we aren’t seeing the same steady growth with our French newsletter.</p>
+
+<table class="">
     <tbody>
-        <tr class="field-note-title">
-            <th class="field-note-header">
-                <span href="http://localhost:1313/" class="logo-field-note" role="img" aria-label="Canadian Digital Service"></span>
-                <h2>Field note</h2>
-            </th>
-        </tr>
-        <tr>
-            <td class="field-note-subheader">
-                <h3>Date: <span class="unbold">December 1, 2019</span></h3>
-            </td>
-        </tr>
-        <tr>
-            <td class="field-note-subheader">
-                <h3>Site: <span class="unbold">Montreal</span></h3>
-            </td>
-        </tr>
-        <tr>
-            <td class="field-note-subheader">
-                <h3>Activity: <span class="unbold">Intercept Testing</span></h3>
-            </td>
-        </tr>
-        <tr>
-            <td class="field-note-subheader">
-                <h3>Participants: <span class="unbold">CPP-D Team Researchers </span></h3>
-            </td>
-        </tr>
-        <tr>
-            <td class="field-note-subheader">
-                <h3>Length of Observation: <span class="unbold">Two Days</span></h3>
-            </td>
-        </tr>
         <tr>
             <td>
-                <h3>Summary:</h3>
-                <h5>Train ride to Montreal - Dec/01/2019</h5>
-                <p>Conducting design research for government services means that we’re often trying to conduct research with people who are difficult to find. For the Help Canadians access the CPP Disability Benefit (CPP-D) partnership with Employment and Social Development Canada (ESDC), we’re conducting research with three groups of people who will come in contact with the service: applicants to the benefit; medical professionals who provide supplemental information about the applicant; and processing staff at ESDC.</p>
-                <p>Medical professionals tend to value their time and they likely aren’t too enthusiastic about participating in a long survey. They’re also not very accessible to our small team of 12. </p>
-                <p>We attempted to, with some success, recruit research participants by contacting a <a href="https://globalnews.ca/news/5288899/income-health-poverty/">famous doctor</a>, associations representing family physicians and nurse practitioners, educational institutions for medical professionals, and local clinics to see if they would forward our emails to medical professionals. One recruitment strategy we hadn’t tried was intercept, where we go to where participants might be, rather than relying on forwarded emails and word-of-mouth.</p>
-                <p>On Dec 1st, 2019, we were on a train from Ottawa to Montreal to attend the Annual Refresher Course for Family Physicians — a medical conference that is mandatory for Canadian family physicians — to set up a table and test version 2 of our design with family physicians over two days.</p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3>Observations:</h3>
-                <h5>Intercept in Montreal Day 1 - Dec/02/2019</h5>
-                <p>We set up our table that morning. We had a sign that read, “Hate government benefits paperwork? Help us make it easier,” hoping it would offer an additional incentive on top of our small compensation for their time.</p>
-                <img class="field-note-img" src="/img/cds/field-note-1-ad.jpg" alt="Hate government benefits paper-work? Help us make it easier. The Canadian Digital Service would love your feedback.">
-                <img class="field-note-img" src="/img/cds/cppd-team-research.jpg" alt="Researchers from the CPP-D team sitting at a table with Canadian Digital Service banners and posters recruiting physicians for research">
-                <p>Physicians were interested in participating in our research,  but said they couldn’t spare 15 minutes to sit down with us. </p>
-                <h5>Intercept in Montreal Day 2 - Dec/03/2019</h5>
-                <p>By the end of the second day, we had a total of five participants sit down with us.</p>
-                <p>We aimed for 10 participants. We were disappointed by our efforts and felt like they were wasted. </p>
-                <p>However, these five sessions gave us insight we couldn’t have gathered if we didn’t try intercept at a venue like this:</p>
-                <ul>
-                    <li>Medical professionals really don’t want to fill out this form;</li>
-                    <li>The time crunch participants experienced during their 15 minutes likely represents the actual amount of time they have to complete this form in real life;</li>
-                    <li>For our previous round of testing, our sessions were pre-scheduled. While these sessions also provided us with valuable feedback, participants were invested in improving this form with us. These new intercept participants are more likely to be representative of people outside of a fabricated research session; and,</li>
-                    <li>Intercept at a venue like a training conference is really difficult to make work. Scoping down what we want to learn during a research session will be helpful for next time.</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <h3>What's Next</h3>
-                <p>We’re conducting our third round of testing with medical professionals and processing staff to understand whether our ideas on the CPP-D medical report work within their contexts. As we did previously, we’re asking medical professionals to complete the medical report using a patient case study. Then, we take their responses to the CPP-D processing staff to ask if the responses were useful to adjudicating the medical report.</p>
-                <p>By putting prototypes in front of real people as early as possible, on all sides of the service, we can learn what works and what doesn't to adjust our course.</p>
+               <p>I’m happy things are resonating with our English audience, but I wonder why it’s not resonating with our French audience in the same way. We want the newsletter to have the same value for people regardless of what language they’re reading it in.</p>
+               <p>I met with Élise today to talk about how we can figure out a way to improve the uptake of our French newsletter. **We’re assuming the reason readership is low is because we’re missing the mark with our content and how we’re presenting it in French.** Afterall, content is king, right</p>
             </td>
         </tr>
     </tbody>
 </table>
 
+<p>We decided we’re going to launch into content testing to fix this. We’ll sit down with French subscribers and have them go through the newsletters with us to get a better understanding of what is clear, what is helpful, and what is neither of those things</p>
+<p>We set up a meeting with one of our design researchers, Adrianne, to help us flesh out this plan. More to come!</p>
+<p>- Charlotte</p>
+</div>
+
+<hr>
+
+<div class="diary-entry">
+    <h3>November 26, 2019</h3>
+    <table class="">
+        <tbody>
+            <tr>
+                <td>
+                <p>We’re pivoting a little after a great chat with Adrianne. She suggested we may want to test our assumption that content is the problem before we leap into fixing it. Her advice was to get more data on what the problem is from actual subscribers. Then we can choose what the best way is to tackle that problem. She said it could very well be content, but let’s let actual people using the service tell us that so we’re not trying to solve a problem that might not be a problem.</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+<p>Based on that helpful advice, Élise and I reconvened today to discuss a new plan of attack and to update our research plan. We talked about who we want to target for testing, came up survey questions for each audience, and then put together a recruitment plan to ensure we get enough data/responses.</p>
+<p>We’re pretty confident we know what the responses will be (hello, content!), and that it will lead us to come up with a content testing plan. But Adrianne’s totally right: better to have the data to point to!</p>
+<p>- Charlotte</p>
+</div>
+
+<hr>
+
+<div class="diary-entry">
+    <h3>November 29, 2019</h3>
+    <p>Charlotte et moi avons profité des derniers jours pour faire un peu de travail d’arrière-plan. J’ai finalisé les questions de sondage, et Charlotte a créé le squelette de la prochaine infolettre. Je pense qu’on a quelque chose qui se tient!</p>
+    <table class="">
+        <tbody>
+            <tr>
+                <td>
+                <p>*Nous avons un premier sondage de 4 questions qui sera intégré à l’infolettre française, avec des questions comme « Qu’est-ce qui vous incite à ouvrir une infolettre? » et « Lisez-vous habituellement les nouvelles sur le numérique en français ou en anglais? ». Puis nous avons un autre sondage d’une question pour l’infolettre anglaise, où on demande pourquoi les personnes se sont abonnées à la liste de diffusion anglaise et non française.</p>
+                <p>Le public cible dans les deux cas est le lectorat francophone. On veut vraiment savoir ce qui cloche avec notre infolettre française.</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>Comme nos répondants potentiels sont moins nombreux en français (240 abonnés contre 2 800 abonnés en anglais), Charlotte a eu l’idée d’envoyer un courriel ciblé du type « On s’ennuie de vous » à ceux qui n’ouvrent presque jamais l’infolettre. Je vais rédiger un petit paragraphe les invitant à nous aider à améliorer l’infolettre française. On va y inclure le sondage et l’envoyer une semaine avant l’infolettre mensuelle.</p>
+    <p>J’ai vraiment hâte de voir ce qu’on va apprendre. Maintenant, il ne nous reste plus qu’à rédiger les infolettres!</p>
+    <p>- Élise</p>
+</div>
+
+<div class="diary-entry">
+    <h3>December 10, 2019 </h3>
+    <p>The eblast and newsletters have been built and sent out!</p>
+    <table class="">
+        <tbody>
+            <tr class="">
+                <td class="">
+                    <p>Five days ago we sent out the eblast with our survey to the less engaged French subscribers. We got 16 responses so far from a group of people who, data tells us, don’t typically engage with our emails. Not too shabby.</p>
+                    <p>Then today we sent out the two newsletters, English and French, with their respective surveys.</p>
+                    <p>We’re going to give people a few days to fill them out. I can’t wait to check out the responses!</p>
+                    <p>- Charlotte</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<hr>
+
+<div>
+    <h3>December 20, 2019</h3>
+    <p>Aujourd’hui, c’était le jour de la surprise.</p>
+    <p>Charlotte et moi avons analysé les réponses au sondage. Ce sont les répondants francophones inscrits à l’infolettre anglaise qui nous ont le plus appris. Voici ce qu’on a découvert :</p>
+    <blockquote>1. 41 % d’entre eux ne savaient pas qu’il existait une infolettre française.</blockquote>
+    <blockquote> 2. 20 % d’entre eux sont habitués à de mauvaises traductions au gouvernement ou préfèrent lire en langue originale.</blockquote>
+    <blockquote>3. 11 % d’entre eux lisent en anglais car ils peuvent plus facilement partager le contenu avec leurs collègues anglophones.</blockquote>
+    <p>Charlotte et moi ne nous attendions **pas du tout** à ce qu’autant de gens ne connaissent simplement pas l’existence de l’infolettre française! Ça représente un problème beaucoup moins gros que de s’attaquer directement au contenu.</p>
+    <p>Nous avons donc tout de suite élaboré des mesures préliminaires  :</p>
+    <table class="">
+        <tbody>
+            <tr>
+                <td class="">
+                <ul>
+                    <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
+                    <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
+                </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>Morale de l’histoire : ne jamais supposer connaître la réponse. Seul notre lectorat la connaissait!</p>
+    <p>- Élise</p>
+</div>
+
+</div>
 
