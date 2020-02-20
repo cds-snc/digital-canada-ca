@@ -12,7 +12,7 @@ translationKey: field-note-1
 thumb: 
 processed: 1581626757493
 ---
-<div>
+<div class="diary">
 
 <p>Hi! Charlotte and Élise here!</p> 
 
@@ -28,11 +28,11 @@ processed: 1581626757493
 <table class="">
     <tbody>
         <tr>
-            <td>
+            <td class="diary-text">
                <p>I’m happy things are resonating with our English audience, but I wonder why it’s not resonating with our French audience in the same way. We want the newsletter to have the same value for people regardless of what language they’re reading it in.</p>
                <p>I met with Élise today to talk about how we can figure out a way to improve the uptake of our French newsletter. **We’re assuming the reason readership is low is because we’re missing the mark with our content and how we’re presenting it in French.** Afterall, content is king, right</p>
             </td>
-            <td>
+            <td class="diary-img">
                 <img class="" src="/img/cds/balance.png" alt="Balanced scales.">
             </td>
         </tr>
@@ -74,11 +74,11 @@ processed: 1581626757493
     <table class="">
         <tbody>
             <tr>
-                <td>
+                <td class="diary-text">
                     <p>*Nous avons un premier sondage de 4 questions qui sera intégré à l’infolettre française, avec des questions comme « Qu’est-ce qui vous incite à ouvrir une infolettre? » et « Lisez-vous habituellement les nouvelles sur le numérique en français ou en anglais? ». Puis nous avons un autre sondage d’une question pour l’infolettre anglaise, où on demande pourquoi les personnes se sont abonnées à la liste de diffusion anglaise et non française.</p>
                     <p>Le public cible dans les deux cas est le lectorat francophone. On veut vraiment savoir ce qui cloche avec notre infolettre française.</p>
                 </td>
-                <td>
+                <td class="diary-img">
                     <img class="" src="/img/cds/sondage.png" alt="A notebook with checkboxes labelled “survey”.">
                 </td>
             </tr>
@@ -95,10 +95,10 @@ processed: 1581626757493
     <table class="">
         <tbody>
             <tr class="">
-                <td>
+                <td class="diary-img">
                     <img class="" src="/img/cds/attente.png" alt="Hourglass.">
                 </td>
-                <td class="">
+                <td class="diary-text">
                     <p>Five days ago we sent out the eblast with our survey to the less engaged French subscribers. We got 16 responses so far from a group of people who, data tells us, don’t typically engage with our emails. Not too shabby.</p>
                     <p>Then today we sent out the two newsletters, English and French, with their respective surveys.</p>
                     <p>We’re going to give people a few days to fill them out. I can’t wait to check out the responses!</p>
@@ -111,7 +111,7 @@ processed: 1581626757493
 
 <hr>
 
-<div>
+<div class="diary-entry">
     <h3>December 20, 2019</h3>
     <p>Aujourd’hui, c’était le jour de la surprise.</p>
     <p>Charlotte et moi avons analysé les réponses au sondage. Ce sont les répondants francophones inscrits à l’infolettre anglaise qui nous ont le plus appris. Voici ce qu’on a découvert :</p>
@@ -123,14 +123,14 @@ processed: 1581626757493
     <table class="">
         <tbody>
             <tr>
-                <td class="">
+                <td class="diary-text">
                     <ul>
                         <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
                         <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
                     </ul>
                 </td>
-                <td>
-                    <img class="" src="/img/cds/morale.png" alt="Word bubble with a smiley face inside of it.">
+                <td class="diary-img">
+                    <img src="/img/cds/morale.png" alt="Word bubble with a smiley face inside of it.">
                 </td>
             </tr>
         </tbody>

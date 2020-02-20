@@ -360,6 +360,20 @@ td {
   margin: 15px 0;
  }
  
+// Style for Diary (in our Blog section)
+.diary-entry {
+  p {
+    font-style: italic;
+  }
+
+  td, th {
+    border: 1px solid transparent;
+  }
+
+  .diary-img {
+    width: 30%;
+  }
+}
 
 // Style for circle arrow icon turning right (featured beside links in different sections of the homepage)
 .fa-arrow-circle-right {
