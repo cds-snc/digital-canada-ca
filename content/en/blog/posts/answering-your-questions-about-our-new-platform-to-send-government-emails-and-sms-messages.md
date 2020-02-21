@@ -23,7 +23,7 @@ processed: 1581626757493
 <div class="diary-entry">
     <h3>November 18, 2019</h3>
     <p>I’ve been noticing a problem with one of our newsletters.</p>
-    <p>We have two mailing lists that people can subscribe to: one in English and one in French. We’ve been using analytics to improve our performance every month, and seeing a lot of success with our English newsletter. Subscriptions for that one have been going way up! **The problem is, we aren’t seeing the same steady growth with our French newsletter.</p>
+    <p>We have two mailing lists that people can subscribe to: one in English and one in French. We’ve been using analytics to improve our performance every month, and seeing a lot of success with our English newsletter. Subscriptions for that one have been going way up! <span class="bold">The problem is, we aren’t seeing the same steady growth with our French newsletter.</span></p>
     <table class="">
         <tbody>
             <tr>
@@ -49,7 +49,7 @@ processed: 1581626757493
     <table class="">
         <tbody>
             <tr>
-                <td>
+                <td class="diary-img">
                     <img class="" src="/img/cds/direction.jpg" alt="Two arrows pointing in opposite directions with a lightbulb on top.">
                 </td>
                 <td>

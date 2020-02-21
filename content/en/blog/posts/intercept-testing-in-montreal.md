@@ -13,7 +13,7 @@ thumb:
 processed: 1581626757493
 ---
 <div class="blog-diary">
-<div class="diary-container">
+<div class="diary">
 
 <p>Hi! Charlotte and Élise here!</p> 
 <p>We recently learned an interesting lesson about assuming we know the problems of our users. Turns out, that isn’t necessarily the case. Here’s a diary about this journey and learning experience.</p>
@@ -23,7 +23,7 @@ processed: 1581626757493
 <div class="diary-entry">
     <h3>November 18, 2019</h3>
     <p>I’ve been noticing a problem with one of our newsletters.</p>
-    <p>We have two mailing lists that people can subscribe to: one in English and one in French. We’ve been using analytics to improve our performance every month, and seeing a lot of success with our English newsletter. Subscriptions for that one have been going way up! **The problem is, we aren’t seeing the same steady growth with our French newsletter.</p>
+    <p>We have two mailing lists that people can subscribe to: one in English and one in French. We’ve been using analytics to improve our performance every month, and seeing a lot of success with our English newsletter. Subscriptions for that one have been going way up! <span class="bold">The problem is, we aren’t seeing the same steady growth with our French newsletter.</span></p>
     <table class="">
         <tbody>
             <tr>
@@ -32,7 +32,7 @@ processed: 1581626757493
                 <p>I met with Élise today to talk about how we can figure out a way to improve the uptake of our French newsletter. **We’re assuming the reason readership is low is because we’re missing the mark with our content and how we’re presenting it in French.** Afterall, content is king, right?</p>
                 </td>
                 <td class="diary-img">
-                    <img class="" src="/img/cds/balance.png" alt="Balanced scales.">
+                    <img class="" src="/img/cds/balance.jpg" alt="Balanced scales.">
                 </td>
             </tr>
         </tbody>
@@ -50,7 +50,7 @@ processed: 1581626757493
         <tbody>
             <tr>
                 <td>
-                    <img class="" src="/img/cds/direction.png" alt="Two arrows pointing in opposite directions with a lightbulb on top.">
+                    <img class="" src="/img/cds/direction.jpg" alt="Two arrows pointing in opposite directions with a lightbulb on top.">
                 </td>
                 <td>
                     <p>We’re pivoting a little after a great chat with Adrianne. She suggested we may want to test our assumption that content is the problem before we leap into fixing it. Her advice was to get more data on what the problem is from actual subscribers. Then we can choose what the best way is to tackle that problem. She said it could very well be content, but let’s let actual people using the service tell us that so we’re not trying to solve a problem that might not be a problem.</p>
@@ -76,7 +76,7 @@ processed: 1581626757493
                     <p>Le public cible dans les deux cas est le lectorat francophone. On veut vraiment savoir ce qui cloche avec notre infolettre française.</p>
                 </td>
                 <td class="diary-img">
-                    <img class="" src="/img/cds/sondage.png" alt="A notebook with checkboxes labelled “survey”.">
+                    <img class="" src="/img/cds/sondage.jpg" alt="A notebook with checkboxes labelled “survey”.">
                 </td>
             </tr>
         </tbody>
@@ -93,7 +93,7 @@ processed: 1581626757493
         <tbody>
             <tr class="">
                 <td class="diary-img">
-                    <img class="" src="/img/cds/attente.png" alt="Hourglass.">
+                    <img class="" src="/img/cds/attente.jpg" alt="Hourglass.">
                 </td>
                 <td class="diary-text">
                     <p>Five days ago we sent out the eblast with our survey to the less engaged French subscribers. We got 16 responses so far from a group of people who, data tells us, don’t typically engage with our emails. Not too shabby.</p>
@@ -127,7 +127,7 @@ processed: 1581626757493
                     </ul>
                 </td>
                 <td class="diary-img">
-                    <img src="/img/cds/morale.png" alt="Word bubble with a smiley face inside of it.">
+                    <img src="/img/cds/morale.jpg" alt="Word bubble with a smiley face inside of it.">
                 </td>
             </tr>
         </tbody>

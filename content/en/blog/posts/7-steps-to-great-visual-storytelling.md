@@ -1,82 +1,139 @@
 ---
 layout: blog
-title: 7 steps to great visual storytelling
+title: Testing our french newsletter - The problem we didn’t expect
 description: >-
-  Are you looking to make your communications more effective? Let images help
-  you enhance your messages.
-author: 'Philippe Tardif, Visual Storyteller'
-date: 2020-01-28T15:02:30.012Z
-image: /img/cds/visual-storyteller.jpg
-image-alt: A picture of a man at a computer designing a visual story about outer space.
-translationKey: visual-storyteller-blog
-thumb: /img/cds/thumbnails/visual-storyteller.jpg
-processed: 1581626586748
+  We assumed we needed to do French content testing to improve our French newsletter subscription numbers. We sent out a survey to our users first. We learned a lot about assuming you know the problem.  
+author: >-
+  Élise Cossette and Charlotte Pedersen (Outreach)
+date: 2020-01-28T20:37:47.522Z
+image: /img/cds/blog-newsletter-testing.jpg
+image-alt: 'A picture of the front of a train in an orange tinted background. '
+translationKey: field-note-1
+thumb: 
+processed: 1581626757493
 ---
-Are you looking to make your communications more effective? Let images help you enhance your messages.
+<div class="blog-diary2">
+<div class="diary-container2">
 
-## Visual storytelling and narrative visions
+<p>Hi! Charlotte and Élise here!</p> 
+<p>We recently learned an interesting lesson about assuming we know the problems of our users. Turns out, that isn’t necessarily the case. Here’s a diary about this journey and learning experience.</p>
 
-At the Canadian Digital Service (CDS), we’re constantly working to improve the way we communicate our messages to people. My name is Philippe Tardif, I work at CDS as a Visual Storyteller, and  help my colleagues communicate using pictures so that they can share their ideas more effectively; and create engaging experiences on all our platforms.
+<hr>
 
-Drawing from my past experiences, as well as those learned at CDS, I’ve put together this tool kit which provides 7 tips for visual storytelling to help you create successful visual communications, discover the emotional impact of images; and improve your communication skills. After all, visual storytelling isn't a science, it’s within everyone's reach.
+<div class="diary-entry">
+    <h3>November 18, 2019</h3>
+    <p>I’ve been noticing a problem with one of our newsletters.</p>
+    <p>We have two mailing lists that people can subscribe to: one in English and one in French. We’ve been using analytics to improve our performance every month, and seeing a lot of success with our English newsletter. Subscriptions for that one have been going way up! <span class="bold">The problem is, we aren’t seeing the same steady growth with our French newsletter.</span></p>
+    <table class="">
+        <tbody>
+            <tr>
+                <td class="diary-text">
+                <p>I’m happy things are resonating with our English audience, but I wonder why it’s not resonating with our French audience in the same way. We want the newsletter to have the same value for people regardless of what language they’re reading it in.</p>
+                <p>I met with Élise today to talk about how we can figure out a way to improve the uptake of our French newsletter. **We’re assuming the reason readership is low is because we’re missing the mark with our content and how we’re presenting it in French.** Afterall, content is king, right?</p>
+                </td>
+                <td class="diary-img">
+                    <img class="" src="/img/cds/balance.jpg" alt="Balanced scales.">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>We decided we’re going to launch into content testing to fix this. We’ll sit down with French subscribers and have them go through the newsletters with us to get a better understanding of what is clear, what is helpful, and what is neither of those things</p>
+    <p>We set up a meeting with one of our design researchers, Adrianne, to help us flesh out this plan. More to come!</p>
+    <p>- Charlotte</p>
+</div>
 
-Stepping outside of the text and translating a story visually maximizes the impact of your message. In short, the more visual your messages are, the more memorable they will be! Ask yourself this question: Which do you prefer? Raw data, or an interesting graphical story?
+<hr>
 
-![An infographic that states three facts. Fact 1 : Almost 50 % of your brain is involved in visual processing. Fact 2: 150 milliseconds is the approximate time that a brain takes to assimilate an image and to associate a meaning to it. Fact 3: According to a study on word recognition, the human brain processes images faster than words.](/img/cds/visual-storyteller-infographic.jpeg)
+<div class="diary-entry">
+    <h3>November 26, 2019</h3>
+    <table class="">
+        <tbody>
+            <tr>
+                <td class="diary-img">
+                    <img class="" src="/img/cds/direction.jpg" alt="Two arrows pointing in opposite directions with a lightbulb on top.">
+                </td>
+                <td>
+                    <p>We’re pivoting a little after a great chat with Adrianne. She suggested we may want to test our assumption that content is the problem before we leap into fixing it. Her advice was to get more data on what the problem is from actual subscribers. Then we can choose what the best way is to tackle that problem. She said it could very well be content, but let’s let actual people using the service tell us that so we’re not trying to solve a problem that might not be a problem.</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>Based on that helpful advice, Élise and I reconvened today to discuss a new plan of attack and to update our research plan. We talked about who we want to target for testing, came up survey questions for each audience, and then put together a recruitment plan to ensure we get enough data/responses.</p>
+    <p>We’re pretty confident we know what the responses will be (hello, content!), and that it will lead us to come up with a content testing plan. But Adrianne’s totally right: better to have the data to point to!</p>
+    <p>- Charlotte</p>
+</div>
 
-Research in this field has yielded some interesting findings like, for example, did you know that almost 50 percent of your brain is involved in visual processing?(1) Or that it takes our brains about 150 milliseconds to process an image and give it meaning?(2). These numbers are really cool, but what are they really trying to tell us?
+<hr>
 
-They teach us that vision is the dominant sense in human beings. Our brains seem to prefer an interesting story when it comes to understanding the world that surrounds us.
+<div class="diary-entry">
+    <h3>November 29, 2019</h3>
+    <p>Charlotte et moi avons profité des derniers jours pour faire un peu de travail d’arrière-plan. J’ai finalisé les questions de sondage, et Charlotte a créé le squelette de la prochaine infolettre. Je pense qu’on a quelque chose qui se tient!</p>
+    <table class="">
+        <tbody>
+            <tr>
+                <td class="diary-text">
+                    <p>Nous avons un premier sondage de 4 questions qui sera intégré à l’infolettre française, avec des questions comme « Qu’est-ce qui vous incite à ouvrir une infolettre? » et « Lisez-vous habituellement les nouvelles sur le numérique en français ou en anglais? ». Puis nous avons un autre sondage d’une question pour l’infolettre anglaise, où on demande pourquoi les personnes se sont abonnées à la liste de diffusion anglaise et non française.</p>
+                    <p>Le public cible dans les deux cas est le lectorat francophone. On veut vraiment savoir ce qui cloche avec notre infolettre française.</p>
+                </td>
+                <td class="diary-img">
+                    <img class="" src="/img/cds/sondage.jpg" alt="A notebook with checkboxes labelled “survey”.">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>Comme nos répondants potentiels sont moins nombreux en français (240 abonnés contre 2 800 abonnés en anglais), Charlotte a eu l’idée d’envoyer un courriel ciblé du type « On s’ennuie de vous » à ceux qui n’ouvrent presque jamais l’infolettre. Je vais rédiger un petit paragraphe les invitant à nous aider à améliorer l’infolettre française. On va y inclure le sondage et l’envoyer une semaine avant l’infolettre mensuelle.</p>
+    <p>J’ai vraiment hâte de voir ce qu’on va apprendre. Maintenant, il ne nous reste plus qu’à rédiger les infolettres!</p>
+    <p>- Élise</p>
+</div>
 
-## Do visuals have an influence over our emotions?
+<div class="diary-entry">
+    <h3>December 10, 2019 </h3>
+    <p>The eblast and newsletters have been built and sent out!</p>
+    <table class="">
+        <tbody>
+            <tr class="">
+                <td class="diary-img">
+                    <img class="" src="/img/cds/attente.jpg" alt="Hourglass.">
+                </td>
+                <td class="diary-text">
+                    <p>Five days ago we sent out the eblast with our survey to the less engaged French subscribers. We got 16 responses so far from a group of people who, data tells us, don’t typically engage with our emails. Not too shabby.</p>
+                    <p>Then today we sent out the two newsletters, English and French, with their respective surveys.</p>
+                    <p>We’re going to give people a few days to fill them out. I can’t wait to check out the responses!</p>
+                    <p>- Charlotte</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-We’ve all been moved, amused or shocked by an image or a photograph at some point in our lives… By using less text and using simple words, we create an opportunity for empathetic imagery. Most people remember information better when it conjures an emotional responses.
+<hr>
 
-![A photo of Maya angelou, an American poet, singer, memoirist, and civil rights activist, quoting her saying : “people will forget what you said, people will forget what you did, but people will never forget how you made them feel.”](/img/cds/maya-angelou-quote.jpeg)
-
-Visual quotes (such as the one above) give credibility to your content and maximize its lifespan, whether on social media or on a website. When unaccompanied by words, images tend to be interpreted in very different ways. The objective is therefore for images and words to complement each other. Now think to yourself,  is a picture really worth a thousand words? We say this because an image that makes people talk is an image that produces a story. Our brain needs an engaging narrative structure, with a clear beginning, middle and end, to facilitate the retention of information. 
-
-## The weight of words
-
-Of course, being clear and concise is not always easy. And communicating in both Shakespeare’s and Molière's tongue at the same time is not always easy either! In addition to being a Visual Storyteller at CDS, I’m also a bilingual storyteller.
-
-While the length of words often varies greatly from one language to another, so does the colour and meaning of words. For example, the French expression "Des yeux de lynx" is translated into English as: “Eagle eyes.” And what about ”la goutte qui fait déborder le vase”? The English equivalent would be: “The straw that broke the camel’s back”. It’s starting to become quite a menagerie! Fortunately, images can help communicate these ideas more easily/clearly.
-
-Of course, not everything is black or white. The important thing to know is how to get out 
-of one’s own cultural context temporarily in order to get into someone else’s. This is very important. Working in both official languages means we have to make sure that the concept is as attractive in one language, as in the other. Building bridges and being able to thrive while respecting one's own cultural identity are values that we take to heart at the Canadian Digital Service.
-
-## 7 steps to great visual storytelling
-
-Napoleon liked to say that “a good sketch is better than a long speech.” In the digital age, these words are still relevant today. Image creation is by no means exclusive to graphic designers who use specialized imaging software; Something as simple as a screenshot can be an excellent way to clearly illustrate your message. Here are 7 tips to improve your visual communication skills without necessarily being a specialist:
-
-**1. Simplify.**
-Find the essence of your message. If you could only say one thing, what would it be? What is the core of your message? Make sure you translate your ideas into simple language. Be clear and concise. Avoid jargon.
-
-**2. Remain authentic.** 
-Using real photos helps communicate who you really are. Feel free to make personal choices. A touching photograph will evoke more empathy from your target audience. Make sure you know what you are trying to convey when selecting an image.
-
-**3. You won’t always have the ideal image to illustrate what you’re saying. Accept it.**
-Make visual choices. In presentations, choose relevant images and feel free to use visual metaphors to illustrate your discourse. Images are the first element that catch your eye. On the web, be discerning. Images should not be a distraction. If you don’t have an image that enhances understanding, don’t add one.
-
-**4. Organize your layout.**
-Organize your communications into structured sequences. The human eye instinctively detects repetitive structures. Using the “rule of thirds” (a space divided into three equal parts) will bring to your design the balance that will capture attention. Without a little balance and rhythm, your communications will seem inconsistent and ineffective. Remember, rhythm is not only musical, it is also visual.
-
-**5. Say it with a graph.**
-Infographics, a subtle mix of information and visuals, are used to more easily present data that can sometimes be too complex for some to understand. Use graphs to visualize data in an innovative way to communicate specific information.
-Be thoughtful about your medium and design accordingly, so that all the information is easy to read and understand.
-
-**6. Learn how to use icons successfully.**
-Icons speak without any words. When well designed, everyone understands them. Almost every culture uses them. However, they must remain recognizable and homogeneous within any given form of communication. Don’t overuse them. Make sure that the icons you are using effectively convey what you want to say. Remember that icons are used to reinforce your message, don’t let them steal the show.
-
-**7. Be inspiring!**
-Share your information in the form of a story. People remember stories better than data alone. Feel free to let your creativity speak for itself. But be careful: If the packaging is attractive and the gift empty, it will only generate disappointment.
-
-## In conclusion
-
-Visual Storytelling is the art of transmitting a message through evocative visuals. Stimulating, amazing, social, artistic, practical or documentary, images remain a privileged tool to transmit information and arouse emotions that help us to better remember the content of a story.
-
-You don't have to be a professional Visual Storyteller to ensure that your communications have a positive and lasting impact. In short, images are so much more powerful than you could ever imagine them to be.
-
-Sources : (1) Merieb, E. N. & Hoehn, K. (2007). Human Anatomy & Physiology 7th Edition, Pearson International Edition. (2)Thorpe, S., Fize, D. & Marlot, C. (1996). Speed of processing in the human visual system. Nature (381). (3) Hauk, O., Davis, M.H., Ford, M., Pulvermüller, F., Marslen-Wilson, W.D. (2006). The time course of visual word recognition as revealed by linear regression analysis of ERP data. NeuroImage (30).
-
-
+<div class="diary-entry">
+    <h3>December 20, 2019</h3>
+    <p>Aujourd’hui, c’était le jour de la surprise.</p>
+    <p>Charlotte et moi avons analysé les réponses au sondage. Ce sont les répondants francophones inscrits à l’infolettre anglaise qui nous ont le plus appris. Voici ce qu’on a découvert :</p>
+    <blockquote>1. 41 % d’entre eux ne savaient pas qu’il existait une infolettre française.</blockquote>
+    <blockquote> 2. 20 % d’entre eux sont habitués à de mauvaises traductions au gouvernement ou préfèrent lire en langue originale.</blockquote>
+    <blockquote>3. 11 % d’entre eux lisent en anglais car ils peuvent plus facilement partager le contenu avec leurs collègues anglophones.</blockquote>
+    <p>Charlotte et moi ne nous attendions **pas du tout** à ce qu’autant de gens ne connaissent simplement pas l’existence de l’infolettre française! Ça représente un problème beaucoup moins gros que de s’attaquer directement au contenu.</p>
+    <p>Nous avons donc tout de suite élaboré des mesures préliminaires  :</p>
+    <table class="">
+        <tbody>
+            <tr>
+                <td class="diary-text">
+                    <ul>
+                        <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
+                        <li>Charlotte et moi allons nous rencontrer chaque mois pour écrire le plan de l’infolettre sous forme de puces. En nous basant sur ce plan commun, Charlotte rédigera la version anglaise, et moi, la version française. Cette mesure vise l’observation 2. Voilà pour du contenu original dans les deux langues!</li>
+                    </ul>
+                </td>
+                <td class="diary-img">
+                    <img src="/img/cds/morale.jpg" alt="Word bubble with a smiley face inside of it.">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <p>Morale de l’histoire : ne jamais supposer connaître la réponse. Seul notre lectorat la connaissait!</p>
+    <p>- Élise</p>
+</div>
+</div>
+</div>
