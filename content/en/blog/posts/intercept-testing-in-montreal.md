@@ -12,7 +12,7 @@ translationKey: field-note-1
 thumb: 
 processed: 1581626757493
 ---
-<div class="blog-diary">
+<div class="blog-diary-diary">
 <div class="diary">
 
 <p>Hi! Charlotte and Élise here!</p> 
