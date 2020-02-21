@@ -14,7 +14,7 @@ The Canadian Digital Service changes government to serve people better. We do th
 
 We’re hiring a Head of Software Development in Ottawa, Montreal, Toronto, or Kitchener; although highly qualified candidates will be considered in other locations.
 
-The Head of Software Development is the leader of CDS’s software development community and is responsible for making sure CDS can build and ship the software behind government services. They do this by assigning and supporting developers on a variety of engagements. These include building products in partnership with federal departments and providing platform services (i.e. scheduling, notifying, identity/logic, etc.).
+The Head of Software Development is the leader of CDS’s software development community and is responsible for making sure CDS can build and ship the software behind government services. They do this by assigning and supporting developers on a variety of engagements. These include building products in partnership with federal departments and providing platform services (e.g., [notifications](https://notification.alpha.canada.ca), scheduling, identity/login, etc.).
 
 You will report to the Director of Communities, who in turn reports to CDS’s CEO. This role is classified as a [CS-05](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260/) in the Computer Systems group.
 
