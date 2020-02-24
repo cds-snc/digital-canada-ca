@@ -13,8 +13,7 @@ image-alt: >-
   Groupe de personnes qui assemblent un casse-tête alors que d’autres bâtissent
   une maison au moyen de différents blocs.
 translationKey: why-open-source-matters
-thumb: ''
-processed: ''
+thumb: /img/cds/blog-open-source.jpg
 ---
 Il y a quelques semaines, nous avons publié un [fil Twitter](https://twitter.com/SNC_GC/status/1227970738017251335) sur ce qu’est le code source libre et sur la façon dont il améliore les services en ligne. Nous avons reçu beaucoup de questions à ce sujet de partout au gouvernement. Utiliser du code source libre — et publier le code logiciel que nous écrivons — constitue l’un des principes les plus importants au Service numérique canadien. Si vous êtes curieux de savoir pourquoi, poursuivez votre lecture! 
 
@@ -91,3 +90,4 @@ La [boîte à outils de l’expérience Web](https://github.com/wet-boew) et [le
 Les [normes numériques du gouvernement du Canada](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) sont un bon point de départ. Il s’agit des normes que nous devons tous essayer de respecter lorsqu’on conçoit et que l’on développe de meilleurs services pour les Canadiens. Nos collègues du BDPI ont récemment publié le [Livre blanc « Ouvert en premier »](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/logiciels-libres/livre-blanc-ouvert-premier.html) ainsi que le [Guide de contribution aux logiciels libres](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/logiciels-libres/guide-de-contribution-aux-logiciels-libres.html).
 
 Nous sommes redevables aux fonctionnaires et aux citoyens qui [soutiennent l’utilisation du code source libre](https://ouvert.canada.ca/fr/blogue/logiciels-libres-normes-ouvertes-au-gouvernement-du-canada) au sein du gouvernement du Canada depuis plus d’une décennie. Que la transition vers un gouvernement ouvert se poursuive! Pour toute question concernant l’utilisation ou la publication de logiciels libres au sein du gouvernement, [n’hésitez pas à communiquer avec nous](mailto:cds-snc@tbs-sct.gc.ca).
+
