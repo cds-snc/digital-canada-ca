@@ -12,8 +12,7 @@ image-alt: >-
   People collaborating on putting together a puzzle and building a house out of
   different blocks.
 translationKey: why-open-source-matters
-thumb: ''
-processed: ''
+thumb: /img/cds/blog-open-source.jpg
 ---
 A few weeks ago, we posted [a Twitter thread](https://twitter.com/CDS_GC/status/1227971000471560197) on what open source is and how it makes online services better. We get a lot of questions about open source software from across the government. Using open source code – and publishing the software code we write – are some of the Canadian Digital Service’s (CDS) most important principles. If you’re curious why, read on!
 
@@ -91,3 +90,4 @@ The [Web Experience Toolkit](https://github.com/wet-boew) and the [GCTools team]
 The [Government of Canada Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html) are a great place to start – they’re what we should all be aiming for as we design and build better services for Canadians. Our colleagues at the Office of the CIO recently published an [Open First Whitepaper](https://www.canada.ca/en/government/system/digital-government/open-source-software/open-first-whitepaper.htm) as well as as a [Guide for Contributing to Open Source Software](https://www.canada.ca/en/government/system/digital-government/open-source-software/guide-for-contributing-to-open-source-software.html).
 
 We’re indebted to the public servants and citizens who have [championed open source](https://open.canada.ca/en/blog/open-source-software-and-open-standards-government-canada) in the Government of Canada for more than a decade. Here’s to making things open! If you have questions about using or publishing open source software in government, [don’t hesitate to reach out](mailto:cds-snc@tbs-sct.gc.ca).
+
