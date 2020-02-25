@@ -12,13 +12,11 @@ translationKey: field-note-1
 thumb: 
 processed: 1581626757493
 ---
-<div class="blog-diary2">
-<div class="diary-container2">
+<div class="blog-diary">
+<div class="diary-container">
 
 <p>Hi! Charlotte and Élise here!</p> 
 <p>We recently learned an interesting lesson about assuming we know the problems of our users. Turns out, that isn’t necessarily the case. Here’s a diary about this journey and learning experience.</p>
-
-<hr>
 
 <div class="diary-entry">
     <h3>November 18, 2019</h3>
@@ -42,8 +40,6 @@ processed: 1581626757493
     <p>- Charlotte</p>
 </div>
 
-<hr>
-
 <div class="diary-entry">
     <h3>November 26, 2019</h3>
     <table class="">
@@ -62,8 +58,6 @@ processed: 1581626757493
     <p>We’re pretty confident we know what the responses will be (hello, content!), and that it will lead us to come up with a content testing plan. But Adrianne’s totally right: better to have the data to point to!</p>
     <p>- Charlotte</p>
 </div>
-
-<hr>
 
 <div class="diary-entry">
     <h3>November 29, 2019</h3>
@@ -105,8 +99,6 @@ processed: 1581626757493
         </tbody>
     </table>
 </div>
-
-<hr>
 
 <div class="diary-entry">
     <h3>December 20, 2019</h3>
