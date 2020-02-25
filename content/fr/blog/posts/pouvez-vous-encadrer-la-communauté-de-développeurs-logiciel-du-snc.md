@@ -15,8 +15,8 @@ image-alt: >-
   Une photo de l’équipe du SNC devant un mur de notes autocollantes lors d’une
   réunion
 translationKey: blog-head-software-dev
-thumb: ''
-processed: ''
+thumb: /img/cds/thumbnails/blog-head-software-dev.jpg
+processed: 1582641005761
 ---
 Le gouvernement numérique et les associations de technologie civique parlent beaucoup de la façon d’habiliter le gouvernement à fournir des services révolutionnaires. Des éléments comme les pratiques agiles, la réflexion conceptuelle et l’utilisation des technologies modernes sont monnaie courante. Au Service numérique canadien (SNC), nous croyons à l’importance de « donner la priorité aux personnes ». C’est pourquoi embaucher la bonne personne est important, voire plus important que ces processus et outils.
 
@@ -34,3 +34,4 @@ Comme je travaille ici, je peux affirmer que ce ne sera pas une mince tâche. Le
 Le SNC a le potentiel d’aider à fournir des services essentiels utilisés chaque jour par des millions de Canadiennes et de Canadiens. Même si beaucoup de travail difficile nous attend, créer des équipes et des produits pour les gens qui en ont besoin est profondément gratifiant.
 
 Êtes-vous la bonne personne? [Postulez maintenant](https://numerique.canada.ca/join-our-team/positions/chef-du-d%C3%A9veloppement-logiciel/).
+
