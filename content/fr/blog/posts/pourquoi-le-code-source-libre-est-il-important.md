@@ -25,6 +25,7 @@ L’expression « code source libre » désigne du code logiciel que tout le mon
 Les logiciels libres sont utilisés à travers le monde par les petites et les grandes entreprises, les organisations et les gouvernements. Le gouvernement du Canada lui-même s’en sert depuis plus de vingt ans. Le navigateur que vous utilisez pour lire ce document et les systèmes utilisés pour transmettre cette information à travers le Web sont presque tous conçus au moyen de logiciels à code source libre.
 
 Lorsque vous travaillez au sein d’une équipe gouvernementale chargée de concevoir ou d’acheter de nouveaux logiciels (pour un nouveau service en ligne, par exemple), la publication de votre nouveau code sous une licence libre peut vous procurer de nombreux avantages importants. Anna Shipman (l’ancienne dirigeante du code source libre du gouvernement du R.-U.) fait [une bonne liste des avantages du code source libre](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) :
+
 *  Il favorise le recours aux pratiques exemplaires.
 *  Il facilite la collaboration.
 *  Il permet aux utilisateurs externes de l’améliorer.
@@ -76,7 +77,7 @@ Travailler au sein du gouvernement du Canada implique de prendre des engagements
 
 ### Lorsque nous procédons à l’acquisition d’un logiciel auprès d’un vendeur, est-ce que nous pouvons exiger que leur code source soit libre?
 
-Oui, vous le pouvez! Il s’agissait d’une des principales caractéristiques [des projets pilotes d’approvisionnement agile](https://buyandsell.gc.ca/cds/public/2017/11/23/11cd6397ea30bc8d834c50dba11e6aca/loi_no_24062-180181_e.pdf) récemment entrepris par le BDPI. Tant que les exigences relatives à la licence sont énoncées clairement dans les documents d’approvisionnement (par exemple, que l’ensemble du code logiciel produit dans le cadre de ce contrat soit la propriété intellectuelle du gouvernement du Canada, sous la licence MIT), tout est conforme! Vous pouvez aussi demander dans vos critères d’évaluation à ce qu’on vous remette des exemples d’autres travaux sources libres.
+Oui, vous le pouvez! Il s’agissait d’une des principales caractéristiques [des projets pilotes d’approvisionnement agile](https://buyandsell.gc.ca/cds/public/2017/11/23/4655ae54b996067f73cb00dd7923e862/li_no_24062-180181_f.pdf) récemment entrepris par le BDPI. Tant que les exigences relatives à la licence sont énoncées clairement dans les documents d’approvisionnement (par exemple, que l’ensemble du code logiciel produit dans le cadre de ce contrat soit la propriété intellectuelle du gouvernement du Canada, sous la licence MIT), tout est conforme! Vous pouvez aussi demander dans vos critères d’évaluation à ce qu’on vous remette des exemples d’autres travaux sources libres.
 
 ### Y a-t-il des types de code source qui ne devraient pas être libres?
 
