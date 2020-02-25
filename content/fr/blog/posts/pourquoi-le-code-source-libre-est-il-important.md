@@ -25,6 +25,7 @@ L’expression « code source libre » désigne du code logiciel que tout le mon
 Les logiciels libres sont utilisés à travers le monde par les petites et les grandes entreprises, les organisations et les gouvernements. Le gouvernement du Canada lui-même s’en sert depuis plus de vingt ans. Le navigateur que vous utilisez pour lire ce document et les systèmes utilisés pour transmettre cette information à travers le Web sont presque tous conçus au moyen de logiciels à code source libre.
 
 Lorsque vous travaillez au sein d’une équipe gouvernementale chargée de concevoir ou d’acheter de nouveaux logiciels (pour un nouveau service en ligne, par exemple), la publication de votre nouveau code sous une licence libre peut vous procurer de nombreux avantages importants. Anna Shipman (l’ancienne dirigeante du code source libre du gouvernement du R.-U.) fait [une bonne liste des avantages du code source libre](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) :
+
 *  Il favorise le recours aux pratiques exemplaires.
 *  Il facilite la collaboration.
 *  Il permet aux utilisateurs externes de l’améliorer.
