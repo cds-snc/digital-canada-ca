@@ -14,8 +14,8 @@ image-alt: >-
   A picture of the CDS team standing in front of a wall of post-it notes at a
   Meeting.
 translationKey: blog-head-software-dev
-thumb: ''
-processed: ''
+thumb: /img/cds/thumbnails/blog-head-software-dev.jpg
+processed: 1582641005596
 ---
 The digital government and civic tech communities talk a lot about how to make government more effective at delivering life-changing services. Things like agile practices, design thinking, and using modern technology are commonplace. At the Canadian Digital Service (CDS), we believe in the value of putting “people first,” which is why hiring the right person is critical, and more important than these processes and tools.
 
@@ -33,3 +33,4 @@ As someone working here, I can say that this is not going to be an easy job. CDS
 This is an organization that has the potential to help deliver critical services that millions of Canadians use and need every day. While there is a lot of challenging work ahead of us, it’s also deeply fulfilling to create teams and products that help people in need.
 
 Is that you? [Apply now](https://digital.canada.ca/join-our-team/positions/head-of-software-development/).
+
