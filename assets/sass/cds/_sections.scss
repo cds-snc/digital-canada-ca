@@ -1026,7 +1026,7 @@ span.livefr {
   .author {
     font-size: 18.5px;
 
-    @include tablet { // This rule will limit the number of lines to 4
+    @include tablet { // This rule will limit the number of lines to 3
       overflow: hidden;
       text-overflow: ellipsis;
       display: -webkit-box;
@@ -1039,7 +1039,7 @@ span.livefr {
     color: $icon-grey;
     font-size: 18.5px;
 
-    @include tablet { // This rule will limit the number of lines to 10
+    @include tablet { // This rule will limit the number of lines to 5
       overflow: hidden;
       text-overflow: ellipsis;
       display: -webkit-box;
