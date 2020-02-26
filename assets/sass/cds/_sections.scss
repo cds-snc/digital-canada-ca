@@ -961,10 +961,9 @@ span.livefr {
     box-shadow: 5px 8px 5px #E1E4E7;
     border-bottom: 5px solid $primary-color;
     margin: 0 auto;
-    height: 700px;
 
-    @media (max-width: 1015px) {
-      height: 850px;
+    @include tablet {
+      height: 800px;
     }
 
     @include mobile_only {
@@ -1026,11 +1025,27 @@ span.livefr {
 
   .author {
     font-size: 18.5px;
+
+    @include tablet { // This rule will limit the number of lines to 4
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+    }
   }
 
   .summary {
     color: $icon-grey;
     font-size: 18.5px;
+
+    @include tablet { // This rule will limit the number of lines to 10
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      -webkit-line-clamp: 5;
+      -webkit-box-orient: vertical;
+    }
   }
 
   .readmore {
