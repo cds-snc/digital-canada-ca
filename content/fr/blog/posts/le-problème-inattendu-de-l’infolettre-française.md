@@ -7,7 +7,7 @@ description: >-
   envoyé un sondage à nos utilisateurs. Et nous avons beaucoup appris sur le
   fait de supposer que nous connaissons le problème.
 author: 'Élise Cossette et Charlotte Pedersen, Liaison et diffusion'
-date: 2020-03-02T16:21:59.373Z
+date: 2020-02-28T16:21:59.373Z
 image: /img/cds/blog-newsletter-testing.jpg
 image-alt: >-
   Plusieurs crayonnages dont une balance, une ampoule, un carnet de note avec le
