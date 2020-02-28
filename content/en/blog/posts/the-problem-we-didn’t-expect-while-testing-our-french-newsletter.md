@@ -6,7 +6,7 @@ description: >-
   newsletter subscription numbers. We sent out a survey to our users first. We
   learned a lot about assuming you know the problem.  
 author: 'Élise Cossette and Charlotte Pedersen, Outreach'
-date: 2020-03-02T16:14:40.025Z
+date: 2020-02-28T16:14:40.025Z
 image: /img/cds/blog-newsletter-testing.jpg
 image-alt: 'Doodles in a notebook about planning, iterating, and testing ideas.'
 translationKey: french-newsletter-surveys
