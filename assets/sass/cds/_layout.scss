@@ -360,6 +360,51 @@ td {
   margin: 15px 0;
  }
  
+// Style for Diary (in our Blog section)
+.diary-entry {
+  display: inline-block;
+  position: relative;
+  margin: 20px auto;
+  background-color: white;
+  box-shadow: 0px 0px 5px 0px #888;
+  padding: 30px 30px 30px 100px;
+
+  @include mobile_only {
+    padding: 0px 20px;
+  }
+
+   p {
+    font-style: italic;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  td, th {
+    border: 1px solid transparent;
+  }
+  
+  .diary-img {
+    width: 30%;
+  }
+ }
+  
+ .diary-entry:before{
+  content: '';
+  position: absolute;
+  top: 0; bottom: 0; left: 0;
+  width: 80px;
+  background: radial-gradient(#575450 10px, transparent 7px) repeat-y;
+  background-size: 70px 70px;
+  border-right: 3px solid #D44147;
+  box-sizing: border-box;
+
+  @include mobile_only {
+    display: none;
+  }
+ }
+ 
 
 // Style for circle arrow icon turning right (featured beside links in different sections of the homepage)
 .fa-arrow-circle-right {
