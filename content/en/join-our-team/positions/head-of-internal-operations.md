@@ -39,7 +39,7 @@ An excellent candidate will be able to:
 * Drive continuous improvement in CDS operational and administrative processes based on the needs of the organization and its team members;
 * Use a research and data-driven approach to problem-solving, making sense of trends and using the insights to better process;
 * Foster practices that support diversity, equity, and inclusion within their teams
-Communicate in both French and English (in government terms, this positions is CBC)
+* Communicate in both French and English (in government terms, this positions is CBC)
 
 At CDS, we don’t just accept difference - we celebrate it. We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we can recognize and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 
