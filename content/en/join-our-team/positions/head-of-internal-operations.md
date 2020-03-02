@@ -3,19 +3,19 @@ layout: job-posting
 type: section
 title: Head of Internal Operations
 description: >-
-  We are looking for an interim Head of Internal Operations as an 18 month
-  maternity leave replacement, located in Ottawa. Reporting to the Chief
-  Operating Officer (COO), this position manages the finances and administrative
-  operations of the organization — and makes sure that employees at CDS are
-  equipped with the tools, workspace, and operational support they need to make
-  an impact on the lives of people.
+  We are looking for an interim Head of Internal Operations on an 18 month term,
+  located in Ottawa. Reporting to the Chief Operating Officer (COO), this
+  position manages the finances and administrative operations of the
+  organization — and makes sure that employees at CDS are equipped with the
+  tools, workspace, and operational support they need to make an impact on the
+  lives of people.
 archived: false
 leverId: 0afc2be6-724c-4e8f-b9af-45c1186798b1
 translationKey: head-internal-ops
 ---
 The Canadian Digital Service (CDS) works with federal departments to make the services people depend on simple and easy-to-use. We’re a small but mighty team that is rethinking service design and delivery, engaging users every step of the way. By working in the open, and connecting partners with tools, talent, and training grounded in practice, we’re building capacity across the government for better service delivery. And we need you.
 
-To support this important mission, we are looking for an interim Head of Internal Operations as an 18 month maternity leave replacement, located in Ottawa. Reporting to the Chief Operating Officer (COO), this position manages the finances and administrative operations of the organization — and makes sure that employees at CDS are equipped with the tools, workspace, and operational support they need to make an impact on the lives of people.
+To support this important mission, we are looking for an interim Head of Internal Operations on an 18 month term, located in Ottawa. Reporting to the Chief Operating Officer (COO), this position manages the finances and administrative operations of the organization — and makes sure that employees at CDS are equipped with the tools, workspace, and operational support they need to make an impact on the lives of people.
 
 You can expect high impact and wide-ranging responsibility: managing finances and forecasting for all of CDS; overseeing day-to-day procurement and IT operations; managing the travel operations that ensure CDS teams can meet service users where they are; working with the CDS talent team to welcome and onboard new team members; ensuring CDS employees have great places to work in Ottawa, Montreal, Toronto, Kitchener-Waterloo, and beyond; planning and supporting organization-level activities; and more. 
 
