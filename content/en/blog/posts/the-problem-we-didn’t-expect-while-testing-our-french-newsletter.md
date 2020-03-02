@@ -55,7 +55,7 @@ processed: 1583159548621
            </tr>
        </tbody>
    </table>
-   <p>Based on that helpful advice, Élise and I reconvened today to discuss a new plan of attack and to update our research plan. We talked about who we want to target for testing, came up survey questions for each audience, and then put together a recruitment plan to ensure we get enough data/responses.</p>
+   <p>Based on that helpful advice, Élise and I reconvened today to discuss a new plan of attack and to update our research plan. We talked about who we want to target for testing, came up with survey questions for each audience, and then put together a recruitment plan to ensure we get enough data/responses.</p>
    <p>We’re pretty confident we know what the responses will be (hello, content!), and that it will lead us to come up with a content testing plan. But Adrianne’s totally right: better to have the data to point to!</p>
    <p>- Charlotte</p>
 </div>
