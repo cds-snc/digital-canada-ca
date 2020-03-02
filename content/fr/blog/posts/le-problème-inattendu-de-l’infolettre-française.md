@@ -69,7 +69,7 @@ processed: 1583159548752
        <tbody>
            <tr>
                <td class="diary-text">
-                   <p>On a un premier sondage de 4 questions à intégrer à l’infolettre française, avec des questions comme « Qu’est-ce qui vous incite à ouvrir une infolettre? » et « Lisez-vous habituellement les nouvelles sur le numérique en français ou en anglais? ». Puis, on a un sondage d’une question pour l’infolettre anglaise, où on demande pourquoi les personnes se sont abonnées à la liste de diffusion anglaise et non française.</p>
+                   <p>On a un premier sondage de 4 questions à intégrer à l’infolettre française, avec des questions comme «&nbsp;Qu’est-ce qui vous incite à ouvrir une infolettre?&nbsp;» et «&nbsp;Lisez-vous habituellement les nouvelles sur le numérique en français ou en anglais?&nbsp;». Puis, on a un sondage d’une question pour l’infolettre anglaise, où on demande pourquoi les personnes se sont abonnées à la liste de diffusion anglaise et non française.</p>
                    <p>Le public cible dans les deux cas est le lectorat francophone. On veut vraiment savoir ce qui cloche avec notre infolettre française.</p>
                </td>
                <td class="diary-img">
@@ -78,14 +78,14 @@ processed: 1583159548752
            </tr>
        </tbody>
    </table>
-   <p>Comme nos répondants potentiels sont moins nombreux en français (240 abonnés contre 2 800 abonnés en anglais), Charlotte a eu l’idée d’envoyer un courriel ciblé du type « On s’ennuie de vous » à ceux qui n’ouvrent presque jamais l’infolettre selon Mailchimp. Je vais rédiger un petit paragraphe les invitant à nous aider à améliorer l’infolettre française. On va y inclure le sondage et l’envoyer une semaine avant l’infolettre mensuelle. On espère ainsi obtenir des réponses à la fois des abonnés actifs et des abonnés ayant un faible engagement.</p>
+   <p>Comme nos répondants potentiels sont moins nombreux en français (240 abonnés contre 2 800 abonnés en anglais), Charlotte a eu l’idée d’envoyer un courriel ciblé du type «&nbsp;On s’ennuie de vous&nbsp;» à ceux qui n’ouvrent presque jamais l’infolettre selon Mailchimp. Je vais rédiger un petit paragraphe les invitant à nous aider à améliorer l’infolettre française. On va y inclure le sondage et l’envoyer une semaine avant l’infolettre mensuelle. On espère ainsi obtenir des réponses à la fois des abonnés actifs et des abonnés ayant un faible engagement.</p>
    <p>J’ai vraiment hâte de voir ce qu’on va apprendre.</p>
    <p>- Élise</p>
 </div>
  
 <div class="diary-entry">
    <h3>Le 10 décembre 2019 </h3>
-   <p>Le courriel « On s’ennuie de vous » et les infolettres subséquentes ont été créés et envoyés!</p>
+   <p>Le courriel «&nbsp;On s’ennuie de vous&nbsp;» et les infolettres subséquentes ont été créés et envoyés!</p>
    <table>
        <tbody>
            <tr>
@@ -109,7 +109,7 @@ processed: 1583159548752
    <p>Charlotte et moi avons analysé les réponses aux sondages. Nous avons appris bien des choses, mais ce sont les répondants francophones inscrits à l’infolettre anglaise qui nous ont le plus étonnées (ce sont ceux à qui on demandait pourquoi ils s’étaient abonnés en anglais plutôt qu’en français). Voici ce qu’on a découvert :</p>
    <blockquote>a) 41 % d’entre eux ne savaient pas qu’il existait une infolettre française.</blockquote>
    <blockquote>b) 20 % d’entre eux sont habitués à de mauvaises traductions au gouvernement ou préfèrent lire dans la langue d’origine.</blockquote>
-   <blockquote>c) c) 11 % d’entre eux lisent en anglais car ils peuvent alors plus facilement partager le contenu avec leurs collègues anglophones.</blockquote>
+   <blockquote>c) 11 % d’entre eux lisent en anglais car ils peuvent alors plus facilement partager le contenu avec leurs collègues anglophones.</blockquote>
    <p>Wow. On peut bien aller se rhabiller avec notre théorie voulant que le contenu soit le problème. Charlotte et moi ne nous attendions <span class="bold">pas du tout</span> à ce qu’autant de gens ne connaissent simplement pas l’existence de l’infolettre française! C’est un pépin bien plus simple à résoudre que de tester et retravailler le contenu. Et… ça nous épargnera bien du temps passé à régler le mauvais problème.</p>
    <p>Même si nous allons continuer d’explorer des solutions à long terme, nous avons tout de suite élaboré des mesures préliminaires pour répondre à ces observations :</p>
    <table>
