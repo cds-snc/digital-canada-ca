@@ -3,19 +3,15 @@ layout: job-posting
 type: section
 title: Chef des opérations internes
 description: >-
-  Nous recherchons un ou une chef intérimaire des opérations internes pour un
-  remplacement de congé de maternité de 18 mois, à Ottawa. Relevant du directeur
-  de l’exploitation, cette personne assure la gestion des finances et des
-  opérations administratives de l’organisation et s’assure que les employés du
-  SNC ont les outils, l’espace de travail et le soutien opérationnel dont ils
-  ont besoin pour avoir une incidence sur la vie des gens.
+  Nous recherchons un ou une chef intérimaire des opérations internes pour une
+  période déterminée de 18 mois, à Ottawa.
 archived: false
 leverId: 7bc280bb-f403-4a12-8a4e-c6cee0ef766d
 translationKey: head-internal-ops
 ---
 Le Service numérique canadien (SNC) collabore avec les ministères fédéraux afin de rendre les services dont la population a besoin simples et faciles à utiliser. Nous sommes une petite mais puissante équipe qui repense la conception et la prestation des services en impliquant les utilisateurs à chaque étape du processus. En travaillant ouvertement et en mettant à la disposition de nos partenaires des outils, des personnes talentueuses et des formations fondées sur la pratique, nous renforçons les capacités dans tout le gouvernement dans le but d’améliorer la prestation des services. Et nous avons besoin de vous.
 
-Pour soutenir cette importante mission, nous recherchons un ou une chef intérimaire des opérations internes pour un remplacement de congé de maternité de 18 mois, à Ottawa. Relevant du directeur de l’exploitation, cette personne assure la gestion des finances et des opérations administratives de l’organisation et s’assure que les employés du SNC ont les outils, l’espace de travail et le soutien opérationnel dont ils ont besoin pour avoir une incidence sur la vie des gens.
+Pour soutenir cette importante mission, nous recherchons un ou une chef intérimaire des opérations internes pour une période déterminée de 18 mois, à Ottawa. Relevant du directeur de l’exploitation, cette personne assure la gestion des finances et des opérations administratives de l’organisation et s’assure que les employés du SNC ont les outils, l’espace de travail et le soutien opérationnel dont ils ont besoin pour avoir une incidence sur la vie des gens.
 
 Vous pouvez vous attendre à avoir un impact élevé et des responsabilités diverses : gérer les finances et assurer la planification pour l’ensemble du SNC; superviser l’approvisionnement quotidien et les opérations informatiques; gérer les activités de déplacement pour s’assurer que les équipes du SNC peuvent rencontrer les utilisateurs de services là où ils se trouvent; travailler avec l’équipe de gestion du talent du SNC pour accueillir et intégrer les nouveaux membres de l’équipe; veiller à ce que les employés du SNC aient de bons espaces de travail à Ottawa, à Montréal, à Toronto, à Kitchener-Waterloo et ailleurs; planifier et soutenir les activités au niveau de l’organisation; et plus. 
 
