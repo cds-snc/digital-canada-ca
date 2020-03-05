@@ -6,7 +6,7 @@ description: >-
   Canada.ca to send auto-replies from their questions and comments form. 
 author: 'Kelly Galbraith and Pierre Dubois, Service Canada'
 date: 2020-03-05T15:28:44.137Z
-image: /img/cds/EN-Newsletter1.jpg
+image: /img/cds/blog-service-canada-notify.jpg
 image-alt: Rainbow parachute in the sky.
 translationKey: blog-service-canada-notify
 thumb: ''
