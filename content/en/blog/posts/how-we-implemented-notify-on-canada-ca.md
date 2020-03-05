@@ -19,6 +19,7 @@ We had a discussion with our developers to get their first impressions of Notify
 
 ## Benefits of using Notify from a developer’s perspective
 The team listed many benefits of the service from a developer’s perspective. These include:
+
 * Not having to develop and maintain an email template. It is done for you. 
 * A software release is not needed to modify content (e.g. fixing a typo or adding a notice). The Notify operator can quickly make any necessary changes.
 * The implementation of the service is similar to that of any other Simple Mail Transfer Protocol (SMTP) library. In other words, it is pretty simple.
