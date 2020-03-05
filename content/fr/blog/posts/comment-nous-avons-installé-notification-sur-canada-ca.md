@@ -19,6 +19,7 @@ Nous avons discuté avec notre équipe de développement pour connaître leurs p
 ## Avantages d’utiliser Notification pour les développeurs et développeuses
 
 L’équipe a énuméré de nombreux avantages du service, notamment :
+
 * Ne pas avoir à développer et à maintenir un gabarit de courriel. C’est déjà fait.
 * Une version logicielle n’est pas requise pour modifier le contenu (par exemple, pour corriger une faute de frappe ou ajouter une note). L’opérateur ou l’opératrice de Notification peut rapidement apporter les modifications nécessaires.
 * L’implémentation du service est similaire à celle de toute autre bibliothèque SMTP (Simple Mail Transfer Protocol). Bref, c’est assez simple.
