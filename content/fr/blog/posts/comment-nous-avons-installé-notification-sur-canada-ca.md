@@ -4,7 +4,7 @@ title: Comment nous avons installé Notification sur Canada.ca
 description: ' L’équipe de Service Canada explique comment elle a implanté Notification sur Canada.ca pour envoyer des réponses automatiques aux utilisateurs de son formulaire de questions et commentaires.'
 author: 'Kelly Galbraith et Pierre Dubois, Service Canada'
 date: 2020-03-05T15:49:02.842Z
-image: /img/cds/EN-Newsletter1.jpg
+image: /img/cds/blog-service-canada-notify.jpg
 image-alt: ' Montgolfière aux couleurs arc-en-ciel dans le ciel.'
 translationKey: blog-service-canada-notify
 thumb: ''
