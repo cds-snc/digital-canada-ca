@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: How we Implemented Notify on Canada.ca
+title: How we implemented Notify on Canada.ca
 description: >-
   The team from Service Canada shares how they got Notify up and running on
   Canada.ca to send auto-replies from their questions and comments form. 
