@@ -93,7 +93,7 @@
 #wb-sm {
   background: none;
   position: relative;
-  border-bottom: 1px solid $black;
+  border-bottom: 6px solid $black;
   padding-bottom: 20px;
 }
 
@@ -371,10 +371,6 @@ td {
 
   @include mobile_only {
     padding: 0px 20px;
-  }
-
-   p, li {
-    font-style: italic;
   }
   
   .bold {
