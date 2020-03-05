@@ -7,8 +7,8 @@ date: 2020-03-05T15:49:02.842Z
 image: /img/cds/blog-service-canada-notify.jpg
 image-alt: ' Montgolfière aux couleurs arc-en-ciel dans le ciel.'
 translationKey: blog-service-canada-notify
-thumb: ''
-processed: ''
+thumb: /img/cds/thumbnails/blog-service-canada-notify.jpg
+processed: 1583432511366
 ---
 [Canada.ca](https://www.canada.ca/fr.html), le site Web centralisé du gouvernement du Canada, utilise maintenant Notification pour envoyer des courriels de réponse automatique aux personnes ayant utilisé son [formulaire de questions et commentaires](https://www.canada.ca/fr/contact/questions.html). Ces notifications leur confirment que leur formulaire a été soumis avec succès à un domaine Canada.ca de confiance.
 
@@ -42,3 +42,4 @@ C’était fantastique de travailler avec l’équipe du SNC. Elle a été réce
 Pour l’instant, nous nous concentrons sur quelques formulaires Web importants. Cela nous donne le temps de développer un nouveau composant SWG qui pourra aider les auteurs Web des ministères à intégrer Notification lors de la création de leurs formulaires Web. 
 
 Nous pouvons concevoir un avenir proche dans lequel tous les secteurs d’activité utilisent Notification pour gérer de façon centralisée les documents de communication envoyés à la population canadienne.
+

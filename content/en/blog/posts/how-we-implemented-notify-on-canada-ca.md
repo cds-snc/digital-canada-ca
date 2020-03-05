@@ -9,8 +9,8 @@ date: 2020-03-05T15:28:44.137Z
 image: /img/cds/blog-service-canada-notify.jpg
 image-alt: Rainbow parachute in the sky.
 translationKey: blog-service-canada-notify
-thumb: ''
-processed: ''
+thumb: /img/cds/thumbnails/blog-service-canada-notify.jpg
+processed: 1583432511600
 ---
 [Canada.ca](https://www.canada.ca/en.html), the Government of Canada’s centralized website, is now using Notify for sending auto-reply emails for its [questions and comments form](https://www.canada.ca/en/contact/questions.html). These notifications reassure users that their form was successfully submitted to a trusted Canada.ca domain. 
 
@@ -39,3 +39,4 @@ It was fantastic to work with the CDS team. They were receptive, took the time t
 We are currently using Notify mainly to send data from web forms to the appropriate internal group and to send an acknowledgement email to the user. For now, we are focusing on a few key web forms. This gives us time to develop a new Managed Web Service (MWS) component to help departmental web authors incorporate Notify during the creation of their web forms.
 
 We can see a near future in which all lines of business use Notify to centrally manage communication materials sent out to Canadians.
+
