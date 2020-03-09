@@ -29,40 +29,39 @@ I chatted with Jeff to learn more about the journey from October 2018 to now, an
 
 ## What interested you in partnering with CDS?
 
-*I do not want the NC3 — which is about all things modern and agile and public facing —  to be done the same way we’ve done things before; which is where we think we’re the experts.* 
+I do not want the NC3 — which is about all things modern and agile and public facing —  to be done the same way we’ve done things before; which is where we think we’re the experts. 
 
-*When [my Director General] told me that there was this group of folks [CDS] who would be able to change how we approach service delivery, I was like, “Green light. Go.”*
+When [my Director General] told me that there was this group of folks [CDS] who would be able to change how we approach service delivery, I was like, “Green light. Go.”
 
 ## And how has the experience been so far?
 
-*I’m surprised I’m as impressed as I am.* 
+I’m surprised I’m as impressed as I am. 
 
-*When you’re a cop and you’re investigating, you have a set of procedures that you follow. They are tried and true because they go to court. Then the court decides if you did it well enough. We’ve become very ingrained in how we do things because, frankly, if you’re innovative in how you collect evidence, you may get tossed out of court. So we are not prone to take new approaches to things.* 
+When you’re a cop and you’re investigating, you have a set of procedures that you follow. They are tried and true because they go to court. Then the court decides if you did it well enough. We’ve become very ingrained in how we do things because, frankly, if you’re innovative in how you collect evidence, you may get tossed out of court. So we are not prone to take new approaches to things. 
 
-*[CDS is] using a vastly wider group to respond to a question than we would, or we could. If we asked 10 Mounties, “How would you fill out this cybercrime report?”, you’d get 9 out of 10 of them filling it out exactly the same. But CDS has helped bring the diversity of the Canadian experience into it, which we can’t argue with. And it’s going to make it a better product.* 
+[CDS is] using a vastly wider group to respond to a question than we would, or we could. If we asked 10 Mounties, “How would you fill out this cybercrime report?”, you’d get 9 out of 10 of them filling it out exactly the same. But CDS has helped bring the diversity of the Canadian experience into it, which we can’t argue with. And it’s going to make it a better product. 
 
-*I’m actually looking to have the CDS presentation made to a higher senior executive level, like my peers, then I’d like to take that to the big guns at our senior executive committee. Just to say, "Here’s how things could be done."* 
+I’m actually looking to have the CDS presentation made to a higher senior executive level, like my peers, then I’d like to take that to the big guns at our senior executive committee. Just to say, "Here’s how things could be done." 
 
-*That’s a long way of saying why this has been such a breath of fresh air.** It’s not about cutting corners. It’s about taking a different path.** So it’s not about CDS, per se, it’s the approach you take.* 
+That’s a long way of saying why this has been such a breath of fresh air. **It’s not about cutting corners. It’s about taking a different path.** So it’s not about CDS, per se, it’s the approach you take. 
 
 ## When it comes to digital service delivery in the RCMP, what does success look like to you?
 
-*In the areas where we can, we need to embrace new approaches.* 
+In the areas where we can, we need to embrace new approaches. 
 
-*We’re looking at the way CDS has brought a new way of thinking to us. And the new idea of “build test, build test, build test, build test”, instead of “build, test, and wait.”* 
+We’re looking at the way CDS has brought a new way of thinking to us. And the new idea of “build test, build test, build test, build test”, instead of “build, test, and wait.” 
 
-*That agility and that unique approach is being taken up by my other Director Generals at the table, and they are thinking, “I can do that. I don’t have to be perfect. I don’t have to know everything. I would like something that does X. And I don’t have to draw out the requirements for X because I don’t actually know them.”*
+That agility and that unique approach is being taken up by my other Director Generals at the table, and they are thinking, “I can do that. I don’t have to be perfect. I don’t have to know everything. I would like something that does X. And I don’t have to draw out the requirements for X because I don’t actually know them.”
 
 ## Is there any advice you have for us at CDS, as we continue to do more of this kind of work with federal departments?
 
-*I don’t have a good answer for that. Without the drive from the top saying, “Yes you have the freedom to think outside the box,” I don’t know what advice I could give you there.*
+I don’t have a good answer for that. Without the drive from the top saying, “Yes you have the freedom to think outside the box,” I don’t know what advice I could give you there.
 
 ## In that case, what advice would you give to those at the top who can give that permission?
 
-*Look at the policy and ask yourself, is a new way of doing it moral, legal, and ethical? 
-And if the answer is yes, then why is the policy constraining you from doing that?*
+Look at the policy and ask yourself, is a new way of doing it moral, legal, and ethical? And if the answer is yes, then why is the policy constraining you from doing that?
 
-*The iterative development that CDS has brought in isn’t against policy, it’s just not how we’ve done things before. Does that make it wrong? No. Then let’s try it.*
+The iterative development that CDS has brought in isn’t against policy, it’s just not how we’ve done things before. Does that make it wrong? No. Then let’s try it.
 
 
 Sources: (1) [Cybercrime in Canada, Statistics Canada](https://www150.statcan.gc.ca/n1/pub/89-28-0001/2018001/article/00015-eng.htm) 
