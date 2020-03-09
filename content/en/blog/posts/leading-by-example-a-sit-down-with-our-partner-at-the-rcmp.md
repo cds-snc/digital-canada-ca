@@ -43,7 +43,7 @@ I chatted with Jeff to learn more about the journey from October 2018 to now, an
 
 *I’m actually looking to have the CDS presentation made to a higher senior executive level, like my peers, then I’d like to take that to the big guns at our senior executive committee. Just to say, "Here’s how things could be done."* 
 
-*That’s a long way of saying why this has been such a breath of fresh air.* * **It’s not about cutting corners. It’s about taking a different path.** * *So it’s not about CDS, per se, it’s the approach you take.* 
+*That’s a long way of saying why this has been such a breath of fresh air.** It’s not about cutting corners. It’s about taking a different path.** So it’s not about CDS, per se, it’s the approach you take.* 
 
 ## When it comes to digital service delivery in the RCMP, what does success look like to you?
 
