@@ -2,7 +2,7 @@
 layout: blog
 title: 'Leading by example: A sit down with our partner at the RCMP'
 description: >-
-  In an interview with Jeff Adam, Assistant commissioner at The Royal Canadian
+  In an interview with Jeff Adam, Assistant Commissioner at The Royal Canadian
   Mounted Police (RCMP), we hear about his experience working with us to launch
   a cybercrime reporting tool, how he hopes to use that experience to change the
   culture of service delivery at RCMP, and the advice he would give other
