@@ -30,40 +30,40 @@ J’ai discuté avec Jeff pour en savoir plus sur ce parcours d’octobre 2018 �
 
 ## Qu’est-ce qui a suscité votre partenariat avec le SNC?
 
-*Je ne veux pas que le GNC3 — qui travaille sur tout ce qui est moderne, agile et public — soit réalisé de la même façon qu’on a réalisé les choses auparavant; c’est là que nous pensons être les experts*.
+Je ne veux pas que le GNC3 — qui travaille sur tout ce qui est moderne, agile et public — soit réalisé de la même façon qu’on a réalisé les choses auparavant; c’est là que nous pensons être les experts*.
 
-*Quand [mon directeur général] m’a dit qu’il y avait ce groupe de personnes [SNC] qui serait en mesure de changer *comment* nous abordons la prestation de services, je me suis dit : « Feu vert. Allons-y. »*
+Quand [mon directeur général] m’a dit qu’il y avait ce groupe de personnes [SNC] qui serait en mesure de changer *comment* nous abordons la prestation de services, je me suis dit : « Feu vert. Allons-y. »
 
 ## Comment se déroule l’expérience jusqu’à maintenant?
 
-*Je suis surpris d’être aussi impressionné.*
+Je suis surpris d’être aussi impressionné.
 
-*Lorsqu’on est policier et que l’on effectue une enquête, on a un ensemble de procédures à respecter. Celles-ci sont éprouvées parce que l’enquête est présentée au tribunal. Puis, le tribunal décide si vous avez assez bien mené l’enquête. Cette façon de faire les choses est profondément ancrée en nous parce que, franchement, si vous êtes innovateur dans la collecte des preuves, on peut vous chasser de la cour. Par conséquent, on n’est pas enclins à adopter de nouvelles approches.*
+Lorsqu’on est policier et que l’on effectue une enquête, on a un ensemble de procédures à respecter. Celles-ci sont éprouvées parce que l’enquête est présentée au tribunal. Puis, le tribunal décide si vous avez assez bien mené l’enquête. Cette façon de faire les choses est profondément ancrée en nous parce que, franchement, si vous êtes innovateur dans la collecte des preuves, on peut vous chasser de la cour. Par conséquent, on n’est pas enclins à adopter de nouvelles approches.
 
-*[Le SNC] fait appel à un groupe beaucoup plus large que nous le ferions ou que nous pourrions le faire pour répondre à une question. Si nous demandions à dix gendarmes, « Comment rempliriez-vous ce rapport sur la cybercriminalité? », neuf d’entre eux le rempliraient exactement de la même manière. Toutefois, le SNC a contribué à y intégrer la diversité de l’expérience canadienne, ce que nous ne pouvons pas contester. Et ça nous permettra d’obtenir un meilleur résultat.*
+[Le SNC] fait appel à un groupe beaucoup plus large que nous le ferions ou que nous pourrions le faire pour répondre à une question. Si nous demandions à dix gendarmes, « Comment rempliriez-vous ce rapport sur la cybercriminalité? », neuf d’entre eux le rempliraient exactement de la même manière. Toutefois, le SNC a contribué à y intégrer la diversité de l’expérience canadienne, ce que nous ne pouvons pas contester. Et ça nous permettra d’obtenir un meilleur résultat.
 
-*À vrai dire, j’aimerais faire en sorte que le SNC fasse l’une de ses présentations à un niveau supérieur de la haute direction, c’est-à-dire à mes pairs. Puis, j’aimerais la montrer aux cadres supérieurs de notre comité de la haute direction, simplement pour dire : voici comment on pourrait faire les choses.*
+À vrai dire, j’aimerais faire en sorte que le SNC fasse l’une de ses présentations à un niveau supérieur de la haute direction, c’est-à-dire à mes pairs. Puis, j’aimerais la montrer aux cadres supérieurs de notre comité de la haute direction, simplement pour dire : voici comment on pourrait faire les choses.
 
-*C’est beaucoup de mots pour dire qu’en fait, ç’a été une bouffée d’air frais. **Il ne s’agit pas de tourner les coins ronds, mais d’emprunter un chemin différent.** Il n’est donc pas question du SNC en soi, mais de l’approche que l’on adopte.*
+C’est beaucoup de mots pour dire qu’en fait, ç’a été une bouffée d’air frais. **Il ne s’agit pas de tourner les coins ronds, mais d’emprunter un chemin différent.** Il n’est donc pas question du SNC en soi, mais de l’approche que l’on adopte.
 
 ## En ce qui concerne la prestation de services numériques à la GRC, à quoi ressemble le succès pour vous?
 
-*Dans les domaines où cela est possible, on doit adopter de nouvelles approches.*
+Dans les domaines où cela est possible, on doit adopter de nouvelles approches.
 
-*On examine la nouvelle façon de réfléchir proposée par le SNC. Et la nouvelle idée de « développer et tester, développer et tester, développer et tester, développer et tester » au lieu de « développer, tester et attendre ».*
+On examine la nouvelle façon de réfléchir proposée par le SNC. Et la nouvelle idée de « développer et tester, développer et tester, développer et tester, développer et tester » au lieu de « développer, tester et attendre ».
 
-*Cette souplesse et cette approche unique sont prises en compte par mes autres directeurs généraux, et ils se disent : « Je peux le faire. Je n’ai pas besoin d’être parfait. Je n’ai pas à tout savoir. J’aimerais créer quelque chose qui fait X. Et je n’ai pas besoin de préciser les conditions pour X parce que je ne les connais pas vraiment. »*
+Cette souplesse et cette approche unique sont prises en compte par mes autres directeurs généraux, et ils se disent : « Je peux le faire. Je n’ai pas besoin d’être parfait. Je n’ai pas à tout savoir. J’aimerais créer quelque chose qui fait X. Et je n’ai pas besoin de préciser les conditions pour X parce que je ne les connais pas vraiment. »
 
 ## Avez-vous des conseils à nous donner, au SNC, pour que nous continuions à faire plus de ce genre de travail avec les ministères fédéraux?
 
-*Je n’ai pas de bonne réponse pour ça. À part la nécessité pour les cadres de dire « Oui, vous avez la liberté de sortir des sentiers battus », je ne sais pas quel conseil je pourrais vous donner.*
+Je n’ai pas de bonne réponse pour ça. À part la nécessité pour les cadres de dire « Oui, vous avez la liberté de sortir des sentiers battus », je ne sais pas quel conseil je pourrais vous donner.
 
 ## Dans ce cas, quel conseil donneriez-vous aux cadres qui peuvent donner cette autorisation?
 
-*Examinez la politique et demandez-vous : pourrait-il y avoir une nouvelle façon de faire qui soit morale, légale et éthique? 
-Si la réponse est oui, alors pourquoi la politique vous empêche-t-elle de le faire?*
+Examinez la politique et demandez-vous : pourrait-il y avoir une nouvelle façon de faire qui soit morale, légale et éthique? 
+Si la réponse est oui, alors pourquoi la politique vous empêche-t-elle de le faire?
 
-*Le développement itératif que le SNC a apporté n’est pas contraire aux politiques, mais plutôt à la façon dont nous avons fait les choses auparavant. Est-ce que cela fait du tort? Non, essayons-le.*
+Le développement itératif que le SNC a apporté n’est pas contraire aux politiques, mais plutôt à la façon dont nous avons fait les choses auparavant. Est-ce que cela fait du tort? Non, essayons-le.
 
 
 Sources : (1) [Le cybercrime au Canada, Statistique Canada] (https://www150.statcan.gc.ca/n1/pub/89-28-0001/2018001/article/00015-fra.htm) 
