@@ -30,7 +30,7 @@ J’ai discuté avec Jeff pour en savoir plus sur ce parcours d’octobre 2018 �
 
 ## Qu’est-ce qui a suscité votre partenariat avec le SNC?
 
-Je ne veux pas que le GNC3 — qui travaille sur tout ce qui est moderne, agile et public — soit réalisé de la même façon qu’on a réalisé les choses auparavant; c’est là que nous pensons être les experts*.
+Je ne veux pas que le GNC3 — qui travaille sur tout ce qui est moderne, agile et public — soit réalisé de la même façon qu’on a réalisé les choses auparavant; c’est là que nous pensons être les experts.
 
 Quand [mon directeur général] m’a dit qu’il y avait ce groupe de personnes [SNC] qui serait en mesure de changer *comment* nous abordons la prestation de services, je me suis dit : « Feu vert. Allons-y. »
 
