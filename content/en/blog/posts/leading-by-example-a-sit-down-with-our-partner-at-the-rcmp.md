@@ -31,8 +31,7 @@ I chatted with Jeff to learn more about the journey from October 2018 to now, an
 
 *I do not want the NC3 — which is about all things modern and agile and public facing —  to be done the same way we’ve done things before; which is where we think we’re the experts.* 
 
-*When [my Director General] told me that there was this group of folks [CDS] who would be able to change *how* we approach service delivery, I was like, “Green light. Go.”*
-
+*When [my Director General] told me that there was this group of folks [CDS] who would be able to change how we approach service delivery, I was like, “Green light. Go.”*
 
 ## And how has the experience been so far?
 
@@ -44,8 +43,7 @@ I chatted with Jeff to learn more about the journey from October 2018 to now, an
 
 *I’m actually looking to have the CDS presentation made to a higher senior executive level, like my peers, then I’d like to take that to the big guns at our senior executive committee. Just to say, "Here’s how things could be done."* 
 
-*That’s a long way of saying why this has been such a breath of fresh air. **It’s not about cutting corners. It’s about taking a different path.** So it’s not about CDS, per se, it’s the approach you take.*
- 
+*That’s a long way of saying why this has been such a breath of fresh air.* * **It’s not about cutting corners. It’s about taking a different path.** * *So it’s not about CDS, per se, it’s the approach you take.* 
 
 ## When it comes to digital service delivery in the RCMP, what does success look like to you?
 
@@ -58,7 +56,6 @@ I chatted with Jeff to learn more about the journey from October 2018 to now, an
 ## Is there any advice you have for us at CDS, as we continue to do more of this kind of work with federal departments?
 
 *I don’t have a good answer for that. Without the drive from the top saying, “Yes you have the freedom to think outside the box,” I don’t know what advice I could give you there.*
-
 
 ## In that case, what advice would you give to those at the top who can give that permission?
 
