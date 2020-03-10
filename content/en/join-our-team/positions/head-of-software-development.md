@@ -50,3 +50,7 @@ We recognize that everyone brings skills and experiences to the table and that n
 We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 
 CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.
+
+We are committed to providing an inclusive and barrier-free work environment, starting with the hiring process. If you need to be accommodated during any phase of the evaluation process, please use the Contact information below to request specialized accommodation. All information received in relation to accommodation will be kept confidential.
+
+[Assessment accommodation](https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html)
