@@ -15,7 +15,7 @@ image-alt: >-
   corners. It’s about taking a different path.”
 translationKey: jeff-adam-interview
 thumb: /img/cds/thumbnails/jeff-adam.jpg
-processed: 1583766277209
+processed: 1583853528683
 ---
 In 1987, Jeff Adam joined the Royal Canadian Mounted Police (RCMP) because he wanted to help the vulnerable and catch the bad guys. Thirty-three years later, he’s still striving to do that, now as the Assistant Commissioner in charge of Technical Operations. 
 
@@ -65,4 +65,5 @@ The iterative development that CDS has brought in isn’t against policy, it’s
 
 
 Sources: (1) [Cybercrime in Canada, Statistics Canada](https://www150.statcan.gc.ca/n1/pub/89-28-0001/2018001/article/00015-eng.htm) 
+
 

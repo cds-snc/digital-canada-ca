@@ -10,13 +10,13 @@ description: >-
   sont en mesure de favoriser ce type de changement ministériel.
 author: 'Jeff Adam (GRC), Charlotte Pedersen (SNC)'
 date: 2020-03-09T13:55:41.495Z
-image: /img/cds/jeff-adam-fr.jpg
+image: /img/cds/jeff-adam.jpg
 image-alt: >-
   Une citation de Jeff Adam, commissaire adjoint de la GRC : « Il ne s’agit pas
   de tourner les coins ronds. Il s’agit d’emprunter un chemin différent. »
 translationKey: jeff-adam-interview
-thumb: /img/cds/thumbnails/jeff-adam-fr.jpg
-processed: 1583766278181
+thumb: /img/cds/thumbnails/jeff-adam.jpg
+processed: 1583853817542
 ---
 En 1987, Jeff Adam s’est joint à la Gendarmerie royale du Canada (GRC) parce qu’il voulait aider les personnes vulnérables et attraper les méchants. Trente-trois ans plus tard, il s’efforce toujours de le faire, maintenant en tant que commissaire adjoint chargé des opérations techniques.
 
@@ -67,4 +67,6 @@ Le développement itératif que le SNC a apporté n’est pas contraire aux poli
 
 
 Sources : (1) [Le cybercrime au Canada, Statistique Canada] (https://www150.statcan.gc.ca/n1/pub/89-28-0001/2018001/article/00015-fra.htm) 
+
+
 
