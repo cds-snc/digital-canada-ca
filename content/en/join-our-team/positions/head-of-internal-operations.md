@@ -49,4 +49,4 @@ We are committed to providing an inclusive and barrier-free work environment, st
 
 [Assessment accommodation](https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html)
 
-*Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future. If you have any questions about this, please reach out to [cdsrecruitment.recrutementSNC@tbs-sct.gc.ca](cdsrecruitment.recrutementSNC@tbs-sct.gc.ca).*
+*Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future. If you have any questions about this, please reach out to [cdsrecruitment.recrutementSNC@tbs-sct.gc.ca](mailto:cdsrecruitment.recrutementSNC@tbs-sct.gc.ca).*
