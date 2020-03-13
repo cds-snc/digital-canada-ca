@@ -20,8 +20,6 @@ processed: 1583159548752
  
 <p>Bonjour! Ici Charlotte et Élise! </p>
 <p>Récemment, nous avons appris une leçon intéressante sur le fait de présumer que nous connaissons les problèmes de nos utilisateurs tout simplement parce que nous sommes proches de nos produits. Eh bien, il s’avère ce n’est pas nécessairement le cas. Voici notre journal sur cette expérience fort utile.</p>
-
-<!-- This is a test comment! -->
  
 <div class="diary-entry">
    <h3>Le 18 novembre 2019</h3>
