@@ -8,7 +8,7 @@ description: >-
   fonctionne bien. Nous sommes à la recherche d’une personne formidable qui
   deviendra notre chef du développement logiciel et aidera cette communauté à
   devenir encore meilleure.
-author: 'Jeff Maher, ingénieur principal'
+author: 'Jeff Maher, développeur principal'
 date: 2020-02-25T13:19:14.211Z
 image: /img/cds/blog-head-software-dev.jpg
 image-alt: >-

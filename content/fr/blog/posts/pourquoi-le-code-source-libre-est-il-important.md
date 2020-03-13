@@ -35,7 +35,7 @@ Lorsque vous travaillez au sein d’une équipe gouvernementale chargée de conc
 *  Il lève toute ambiguïté sur le droit de propriété.
 *  Il permet d’uniformiser les technologies du gouvernement.
 
-La conception de logiciels dans un environnement ouvert amène les gens à faire de leur mieux. Elle nous aide à apprendre l’un de l’autre et permet aux travailleurs de continuer de contribuer à un logiciel utile facilement, même lorsqu’ils sont mutés à un nouvel organe gouvernemental. Le code source libre permet d’économiser du temps et de l’argent, en rendant les logiciels plus faciles à réutiliser et à adapter. En raison de ces avantages, les gouvernements du monde entier sont devenus plus enthousiastes dans l’adoption de code source libre au cours des dernières années.
+La conception de logiciels dans un environnement ouvert fait ressortir le meilleur du travail de chacun. Elle nous aide à apprendre l’un de l’autre et permet aux travailleurs de continuer de contribuer à un logiciel utile facilement, même lorsqu’ils sont mutés à un nouvel organe gouvernemental. Le code source libre permet d’économiser du temps et de l’argent, en rendant les logiciels plus faciles à réutiliser et à adapter. En raison de ces avantages, les gouvernements du monde entier sont devenus plus enthousiastes dans l’adoption de code source libre au cours des dernières années.
 
 ## L’approche du SNC
 
