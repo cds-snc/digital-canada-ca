@@ -9,7 +9,7 @@ description: >-
   services, ressources et composants communs et bien conçus qui répondent aux
   besoins de prestation de services du gouvernement du Canada tout en faisant
   avancer la mission du SNC.
-archived: false
+archived: true
 leverId: 4874d95f-a569-43dc-a237-b503d91cacaf
 translationKey: director-of-platform
 ---
