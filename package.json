@@ -4,7 +4,7 @@
   "description": "",
   "main": "webpack.config.js",
   "dependencies": {
-    "@babel/core": "^7.8.4",
+    "@babel/core": "^7.8.6",
     "babel-loader": "^8.0.6",
     "babel-preset-env": "^1.7.0",
     "css-loader": "^2.1.1",
@@ -12,11 +12,11 @@
     "file-loader": "^3.0.1",
     "front-matter-editor": "0.0.1",
     "minimist": "^1.2.2",
-    "netlify-cms": "^2.10.26",
+    "netlify-cms": "^2.10.27",
     "serialize-javascript": "^2.1.2",
     "set-value": "^3.0.1",
     "sharp": "^0.24.0",
-    "snyk": "^1.296.1",
+    "snyk": "^1.297.1",
     "style-loader": "^0.23.1",
     "webpack": "^4.41.6"
   },
