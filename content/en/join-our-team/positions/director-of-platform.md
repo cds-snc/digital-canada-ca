@@ -8,7 +8,7 @@ description: >-
   creating, incubating and supporting well-designed common products, services,
   components, and resources that meet the service delivery needs of the
   Government of Canada while advancing the mission of CDS.
-archived: true
+archived: false
 leverId: c2c518dd-26a5-4ebd-aa01-b339cf52155c
 translationKey: director-of-platform
 ---
