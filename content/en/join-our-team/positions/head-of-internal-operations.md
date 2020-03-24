@@ -19,7 +19,7 @@ To support this important mission, we are looking for an interim Head of Interna
 
 You can expect high impact and wide-ranging responsibility: managing finances and forecasting for all of CDS; overseeing day-to-day procurement and IT operations; managing the travel operations that ensure CDS teams can meet service users where they are; working with the CDS talent team to welcome and onboard new team members; ensuring CDS employees have great places to work in Ottawa, Montreal, Toronto, Kitchener-Waterloo, and beyond; planning and supporting organization-level activities; and more. 
 
-You would lead a team that currently includes three other members.
+You would lead a team that currently includes three other members. This role is classified as a [AS-05](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc993929940) in the Administrative Services group.
 
 We are looking for someone who will:
 

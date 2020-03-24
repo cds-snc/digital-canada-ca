@@ -15,7 +15,7 @@ Pour soutenir cette importante mission, nous recherchons un ou une chef intérim
 
 Vous pouvez vous attendre à avoir un impact élevé et des responsabilités diverses : gérer les finances et assurer la planification pour l’ensemble du SNC; superviser l’approvisionnement quotidien et les opérations informatiques; gérer les activités de déplacement pour s’assurer que les équipes du SNC peuvent rencontrer les utilisateurs de services là où ils se trouvent; travailler avec l’équipe de gestion du talent du SNC pour accueillir et intégrer les nouveaux membres de l’équipe; veiller à ce que les employés du SNC aient de bons espaces de travail à Ottawa, à Montréal, à Toronto, à Kitchener-Waterloo et ailleurs; planifier et soutenir les activités au niveau de l’organisation; et plus. 
 
-Vous dirigerez une équipe qui comprend actuellement trois autres membres.
+Vous dirigerez une équipe qui comprend actuellement trois autres membres. Il s’agit d’un poste de niveau [AS-05](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=15#toc993929940) dans le groupe des Services administratifs.
 
 Nous recherchons une personne qui saura :
 
