@@ -399,6 +399,15 @@ team:
       en: Talent
       fr: Talent
   - archived: false
+    email: johanna.button@tbs-sct.gc.ca
+    image-name: /img/cds/johanna-button.jpg
+    linkedin: johanna-button-097825143
+    name: Johanna Button
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    twitter: buttonjohanna
+  - archived: false
     email: john.kenney@tbs-sct.gc.ca
     image-name: /img/cds/john-kenney.jpg
     linkedin: johnrkenney
