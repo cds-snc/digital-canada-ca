@@ -15,8 +15,8 @@
     "netlify-cms": "^2.10.30",
     "serialize-javascript": "^2.1.2",
     "set-value": "^3.0.1",
-    "sharp": "^0.24.0",
-    "snyk": "^1.297.4",
+    "sharp": "^0.25.0",
+    "snyk": "^1.297.3",
     "style-loader": "^0.23.1",
     "webpack": "^4.42.0"
   },
