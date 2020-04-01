@@ -52,16 +52,6 @@ exec:
       fr: Chef de liaison et diffusion
     twitter: herhighnessness
   - archived: false
-    email: Christopher.Govias@tbs-sct.gc.ca
-    image-name: /img/cds/chris-govias.jpg
-    linkedin: cgovias
-    name: Chris Govias
-    processed: 1552050695385
-    title:
-      en: Chief of Design
-      fr: Chef de la conception
-    twitter: cgovias
-  - archived: false
     email: Colin.MacArthur@tbs-sct.gc.ca
     image-name: /img/cds/colin-mcarthur.jpg
     linkedin: colinpmacarthur
@@ -293,16 +283,6 @@ team:
       en: Security
       fr: Sécurité
   - archived: false
-    github: danprime
-    image-name: /img/cds/daniel-tse.jpg
-    linkedin: danielmktse
-    name: Daniel Tse
-    processed: 1552050695390
-    title:
-      en: Product Management
-      fr: Gestion de produits
-    twitter: danprime
-  - archived: false
     github: dsamojlenko
     image-name: /img/cds/dave-samojlenko.jpg
     name: Dave Samojlenko
@@ -436,17 +416,6 @@ team:
       en: Design
       fr: Conception
   - archived: false
-    email: keith.emmerson@tbs-sct.gc.ca
-    github: keithiopia
-    image-name: /img/cds/keith-emmerson.jpg
-    linkedin: keithemmerson
-    name: Keith Emmerson
-    processed: 1560521882136
-    title:
-      en: Design
-      fr: Conception
-    twitter: keithEmmerson
-  - archived: false
     email: Khalid.Elaggan@tbs-sct.gc.ca
     image-name: /img/cds/khalid-elaggan.jpg
     linkedin: khalidelaggan
@@ -455,18 +424,6 @@ team:
     title:
       en: Development
       fr: Développement
-    twitter: ''
-  - archived: false
-    email: leon.lukashevsky@tbs-sct.gc.ca
-    github: leonL
-    image-name: /img/cds/leon-lukashevsky.jpg
-    linkedin: le0nl
-    name: Leon Lukashevsky
-    processed: 1552050695392
-    title:
-      en: Development
-      fr: Développement
-    twitter: le0nL
   - archived: false
     email: Lesley.Wheldrake@tbs-sct.gc.ca
     image-name: /img/cds/lesley-wheldrake.jpg
@@ -549,16 +506,6 @@ team:
       en: Design
       fr: Conception
     twitter: itsMichelleNgai
-  - archived: false
-    email: mike.williamson@tbs-sct.gc.ca
-    github: sleepycat
-    image-name: /img/cds/mike-williamson.jpg
-    name: Mike Williamson
-    processed: 1552050695393
-    title:
-      en: Development
-      fr: Développement
-    twitter: dexterchief
   - archived: false
     email: nick.makuch@tbs-sct.gc.ca
     github: nmakuch
