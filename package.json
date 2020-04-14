@@ -16,7 +16,7 @@
     "serialize-javascript": "^2.1.2",
     "set-value": "^3.0.1",
     "sharp": "^0.25.1",
-    "snyk": "^1.300.0",
+    "snyk": "^1.303.1",
     "style-loader": "^0.23.1",
     "webpack": "^4.42.0"
   },
