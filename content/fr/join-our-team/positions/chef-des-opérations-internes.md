@@ -5,7 +5,7 @@ title: Chef des opérations internes
 description: >-
   Nous recherchons un ou une chef intérimaire des opérations internes pour une
   période déterminée de 18 mois, à Ottawa.
-archived: false
+archived: true
 leverId: 7bc280bb-f403-4a12-8a4e-c6cee0ef766d
 translationKey: head-internal-ops
 ---

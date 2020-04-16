@@ -9,7 +9,7 @@ description: >-
   organization — and makes sure that employees at CDS are equipped with the
   tools, workspace, and operational support they need to make an impact on the
   lives of people.
-archived: false
+archived: true
 leverId: 0afc2be6-724c-4e8f-b9af-45c1186798b1
 translationKey: head-internal-ops
 ---
