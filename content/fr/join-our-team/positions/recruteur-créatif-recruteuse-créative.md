@@ -5,9 +5,9 @@ title: Recruteur créatif / Recruteuse créative
 description: >-
   Nous recherchons un(e) recruteur(se) consultatif(ve) et créatif(ve) qui
   viendra faire croître notre équipe.
-archived: true
+archived: false
 leverId: 2e2d67b4-e48c-429a-be80-270f7dd5dcb7
-translationKey: creative-recruiter1
+translationKey: creative-recruiter
 ---
 Le Service numérique canadien (SNC) est chargé de changer la façon dont le gouvernement fédéral conçoit et fournit les services numériques, afin de réduire les risques d’échec des produits, de réduire les coûts, de garantir la confidentialité des utilisateurs et la sécurité des systèmes, et surtout, d’améliorer la vie des gens en appelant l’attention sur leurs besoins et préoccupations. Selon nous, chaque expérience vécue par les Canadiennes et Canadiens lorsqu’ils interagissent avec le gouvernement devrait répondre ou dépasser leurs attentes modernes et valables voulant que les services numériques soient sûrs, rapides, faciles, transparents et accessibles. Nous travaillons ouvertement, renforçant ainsi les capacités dans tout le gouvernement pour améliorer la prestation de services. Et nous avons besoin de vous.
 
