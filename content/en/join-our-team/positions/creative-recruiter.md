@@ -3,9 +3,9 @@ layout: job-posting
 type: section
 title: Creative Recruiter
 description: We are looking for a consultative and creative recruiter to scale our team.
-archived: true
+archived: false
 leverId: 4cc43c15-77fd-481c-8a82-58c4fa9861cc
-translationKey: creative-recruiter1
+translationKey: creative-recruiter
 ---
 The Canadian Digital Service (CDS) is tasked with changing how the federal government designs and delivers digital services, to reduce the risk of product failure, lower costs, ensure user privacy and system security, and, above all, improves people’s lives by putting their needs and concerns front and center. We believe every experience Canadians have with their government should meet or exceed their reasonable modern expectations that digital services be safe, fast, easy, transparent, and accessible. Working in the open, we’re building capacity across the government for better service delivery. And we need you.
 
