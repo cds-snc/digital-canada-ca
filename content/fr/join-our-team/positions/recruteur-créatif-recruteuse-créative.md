@@ -30,7 +30,7 @@ Un excellent candidat ou une excellente candidate sera en mesure de :
 * Utiliser une approche centrée sur l’humain pour le recrutement et l’embauche, en comprenant les besoins de vos « utilisateurs » (soit les responsable de l’embauche et les candidats) et en travaillant avec eux pour répondre à leurs besoins
 * Être flexible et avoir une mentalité axée sur la croissance, en pouvant changer de tâches et de priorités selon les circonstances
 * Travailler de façon multidisciplinaire, avec la capacité d’apprendre rapidement
-Communiquer à la fois en français et en anglais (en termes gouvernementaux, ce poste est CBC)
+* Communiquer à la fois en français et en anglais (en termes gouvernementaux, ce poste est CBC)
 
 Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons. C’est avec fierté et passion que nous nous efforçons activement de rendre le SNC plus représentatif et plus inclusif de la société que nous servons. Notre capacité à fournir des services publics améliorés — des services accessibles et inclusifs — ne peut être réalisée que si nous pouvons reconnaître et exploiter l’éventail le plus diversifié de pensées, d’expériences et de compétences. Nous travaillons fort pour créer un environnement où les différentes perspectives et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à s’épanouir.
 
