@@ -62,15 +62,6 @@ exec:
       fr: Directeur par intérim des communautés
     twitter: colinpmacarthur
   - archived: false
-    email: Courtney.Claessens@tbs-sct.gc.ca
-    image-name: /img/cds/courtney-claessens.jpg
-    linkedin: courtneyclaessens
-    name: Courtney Claessens
-    processed: 1552050695390
-    title:
-      en: Interim Head of Product Management
-      fr: Chef par intérim de la gestion de produits
-  - archived: false
     email: Eman.El-Fayomi@tbs-sct.gc.ca
     image-name: /img/cds/eman-elfayomi.jpg
     linkedin: eelfayomi
@@ -80,6 +71,17 @@ exec:
       en: Head of Design
       fr: Chef de la conception
     twitter: emanelfy
+  - archived: false
+    email: jeff.maher@tbs-sct.gc.ca
+    github: jeffmaher
+    image-name: /img/cds/jeff-maher.jpg
+    linkedin: jeffmaher
+    name: Jeff Maher
+    processed: 1560521882135
+    title:
+      en: Interim Head of Software Development
+      fr: Chef par intérim du développement logiciel
+    twitter: plusjeff
   - email: Jennifer.Morin@tbs-sct.gc.ca
     image-name: /img/cds/jennifer-morin1.jpg
     name: Jennifer Morin
@@ -103,8 +105,8 @@ exec:
     name: John O'Brien
     processed: 1552050695386
     title:
-      en: Interim Head of Development and Security
-      fr: Chef par intérim du développement et de la sécurité
+      en: Head of Security
+      fr: Chef de la sécurité
     twitter: boardom_ca
   - archived: false
     email: Joshua.Ruihley@tbs-sct.gc.ca
@@ -275,6 +277,15 @@ team:
       fr: Gestion de produits
     twitter: ClementineHahn
   - archived: false
+    email: Courtney.Claessens@tbs-sct.gc.ca
+    image-name: /img/cds/courtney-claessens.jpg
+    linkedin: courtneyclaessens
+    name: Courtney Claessens
+    processed: 1552050695390
+    title:
+      en: Product Management
+      fr: Gestion de produits
+  - archived: false
     email: Damien.Trudel@tbs-sct.gc.ca
     image-name: /img/cds/damien-trudel.jpg
     name: Damien Trudel
@@ -351,17 +362,6 @@ team:
     title:
       en: Design Research
       fr: Recherche en conception
-  - archived: false
-    email: jeff.maher@tbs-sct.gc.ca
-    github: jeffmaher
-    image-name: /img/cds/jeff-maher.jpg
-    linkedin: jeffmaher
-    name: Jeff Maher
-    processed: 1560521882135
-    title:
-      en: Development
-      fr: Développement
-    twitter: plusjeff
   - archived: false
     email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.jpg
