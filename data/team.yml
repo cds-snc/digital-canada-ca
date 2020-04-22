@@ -45,6 +45,7 @@ exec:
     image-name: /img/cds/andreanne-trudeau.jpg
     linkedin: andreannetrudeau
     name: Andréanne Trudeau
+    processed: 1552050695385
     title:
       en: Head of Product Management
       fr: Chef de la gestion de produits
