@@ -41,6 +41,14 @@ exec:
       fr: Chef du talent
     twitter: andreagilbrook
   - archived: false
+    email: andreanne.trudeau@tbs-sct.gc.ca
+    image-name: /img/cds/andreanne-trudeau.jpg
+    linkedin: andreannetrudeau
+    name: Andréanne Trudeau
+    title:
+      en: Head of Product Management
+      fr: Chef de la gestion de produits
+  - archived: false
     email: chelsea.novak@tbs-sct.gc.ca
     github: chelseanovak
     image-name: /img/cds/chelsea-novak.jpg
