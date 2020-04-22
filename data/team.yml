@@ -45,10 +45,10 @@ exec:
     image-name: /img/cds/andreanne-trudeau.jpg
     linkedin: andreannetrudeau
     name: Andréanne Trudeau
-    processed: 1552050695385
     title:
       en: Head of Product Management
       fr: Chef de la gestion de produits
+    processed: 1587584291180
   - archived: false
     email: chelsea.novak@tbs-sct.gc.ca
     github: chelseanovak
@@ -396,6 +396,7 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: buttonjohanna
+    processed: 1587584291183
   - archived: false
     email: john.kenney@tbs-sct.gc.ca
     image-name: /img/cds/john-kenney.jpg
