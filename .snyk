@@ -371,3 +371,9 @@ patch:
         patched: '2020-04-30T15:22:03.015Z'
     - netlify-cms > netlify-cms-app > netlify-cms-widget-select > react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
         patched: '2020-04-30T15:22:03.015Z'
+    - snyk > graphlib > lodash:
+        patched: '2020-05-01T17:58:05.637Z'
+    - snyk > snyk-mvn-plugin > @snyk/java-call-graph-builder > lodash:
+        patched: '2020-05-01T17:58:05.637Z'
+    - snyk > snyk-mvn-plugin > @snyk/java-call-graph-builder > graphlib > lodash:
+        patched: '2020-05-01T17:58:05.637Z'
