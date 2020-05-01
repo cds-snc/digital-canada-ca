@@ -19,6 +19,6 @@ links:
   - name: GitHub
     url: 'https://github.com/cds-snc/cra-claim-tax-benefits'
 status: past
-onhomepage: true
+onhomepage: false
 ---
 
