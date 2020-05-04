@@ -18,6 +18,6 @@ links:
     url: 'https://cds-snc.github.io/claim-tax-benefits-documentation/information-about-claim-tax-benefits/'
   - name: GitHub
     url: 'https://github.com/cds-snc/cra-claim-tax-benefits'
-onhomepage: true
+onhomepage: false
 ---
 
