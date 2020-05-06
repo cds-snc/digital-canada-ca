@@ -23,20 +23,27 @@
           </div>
         </div>
       <!-- </div> -->
+      {{ $products := where .Site.Pages ".Dir" "==" "tools-and-resources/platform-tools/" }}
       <div class='row equal'>
-        {{ range $elem_index, $elem_val := where .Pages ".Params.status" "==" "in-flight" }}
-         {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
-            </div>
-            <div class='row equal'>
-          {{ end }}
-          <div class='col-md-6 col-xs-12'>
-            {{ .Render "list"}}
-          </div>
-        {{ end }}
+        {{ $inflight := where .Site.Pages ".Params.status" "==" "in-flight" }}
+        {{ range $elem_index, $elem_val := $inflight | intersect $products }}
+        {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
       </div>
-    </div>
-
-    <!-- RESOURCES LIST -->
+      <div class='row equal'>
+        {{ end }}
+        <div class='col-md-6 col-xs-12'>
+          {{ .Render "list"}}
+        </div>
+        {{ end }}
+        </div>
+        <!-- RESOURCES LIST -->
+        <div class="section tools-and-resources--resources">
+          <div class="col-xs-12">
+            <h2>{{ i18n "tools-and-resources-resources-title" | safeHTML }}</h2>
+            <p>{{ i18n "tools-and-resources-resources-description" | safeHTML }}</p>
+          </div>
+        </div>
+      </div> 
   </section>
 </div>
 <section class="section section--mailing-list">

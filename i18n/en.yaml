@@ -164,6 +164,10 @@ tools-and-resources-platform-description-2nd:
   other: "Our team builds these components — also known as Platform Products — that departments can set up for their services instead of having to build them from scratch. For example, any departments can use our Notify tool if they need to send email or text message updates to public servants or Canadians."
 tools-and-resources-platform-description-3rd: 
   other: "The benefit of using platform products is that it allows departments to focus their efforts on the details that are unique to their services. Here are the platform products we’ve built, which your department can use:"
+tools-and-resources-resources-title: 
+  other: "Resources"
+tools-and-resources-resources-description: 
+  other: "Here are some resources developed by our teams here at the Canadian Digital Service (CDS). They are available to everyone inside and outside of government, and they can help you build new solutions to service delivery by adopting best practices in design, research, policy and product management."
 the-platform-team:
   other: "The Platform Team"
 version-history:
