@@ -12,9 +12,17 @@
 {{ define "main" }}
 <div class="container">
     <section>
-      <div class="tools-and-resources--content">
-        {{ .Content }}
-      </div>
+      <!-- <div class="tools-and-resources--content"> -->
+        <!-- PLATFORM TOOLS LIST -->
+        <div class="section tools-and-resources--platform">
+          <div class="col-xs-12">
+            <h2>{{ i18n "tools-and-resources-platform-title" | safeHTML }}</h2>
+            <p>{{ i18n "tools-and-resources-platform-description-1st" | safeHTML }}</p>
+            <p>{{ i18n "tools-and-resources-platform-description-2nd" | safeHTML }}</p>
+            <p>{{ i18n "tools-and-resources-platform-description-3rd" | safeHTML }}</p>
+          </div>
+        </div>
+      <!-- </div> -->
       <div class='row equal'>
         {{ range $elem_index, $elem_val := where .Pages ".Params.status" "==" "in-flight" }}
          {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
@@ -26,6 +34,9 @@
           </div>
         {{ end }}
       </div>
+    </div>
+
+    <!-- RESOURCES LIST -->
   </section>
 </div>
 <section class="section section--mailing-list">
