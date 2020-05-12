@@ -1,8 +1,8 @@
 ---
-title: Find financial help during COVID-19
+title: Trouver de l’aide financière pendant la pandémie de COVID-19
 translationKey: benefits-finder
 description: >-
-  An online tool to help individuals quickly find and understand what financial help is available to them during the COVID-19 pandemic.
+  Outil en ligne permettant aux personnes de trouver et de comprendre rapidement à quelle aide financière elles sont admissibles pendant la pandémie de COVID-19.
 product-url: https://covid-benefits.alpha.canada.ca/en/start
 phase: alpha
 contact:
@@ -10,7 +10,7 @@ contact:
     name: Courtney Claessens
 partners:
   - name: Service Canada
-    url: 'https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html'
+    url: 'https://covid-prestations.alpha.canada.ca/fr/debut'
 status: in-flight
 onhomepage: true
 links: 
