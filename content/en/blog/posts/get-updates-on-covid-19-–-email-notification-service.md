@@ -26,6 +26,7 @@ The Canadian Digital Service had already adapted the basic service from the UKâ€
 The project has aligned to the Government of Canada [principles for digital government](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html): user-centered, agile and iterative, working across departmental teams, embedding security and privacy, using simple language, and prioritizing accessibility.
 
 The email notification service is maturing, and weâ€™re still improving it but there are a few things we have learned so far: 
+
 * **Keep it simple.** We built the minimum viable product that was required for launch. New features have been added iteratively, making improvements as we go and refining the service. 
 * **Focus on people.** Everyone needs to be able to understand the messages and what they need to do. We are using simple, easy to understand language in an accessible email format.
 * **Content is data driven.** We consult data analytics from top searches and key questions from the 1-833 call line to track trends in what people are worried about. This keeps our content agile and responsive to the evolving situation. 
