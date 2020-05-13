@@ -26,6 +26,7 @@ Le Service numérique canadien avait déjà adapté le service de base à partir
 Le projet s’est aligné sur les [principes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html) du gouvernement du Canada : orientation utilisateur, agilité et itération, collaboration interministérielle, intégration de la sécurité et de la confidentialité, langage clair et simple, et priorité à l’accessibilité.
 
 Le service de notification par courriel est en train de s’affiner, et nous l’améliorons encore, mais il y a certaines choses que nous avons apprises jusqu’à présent : 
+
 * **La simplicité avant tout.** Nous avons construit le produit viable minimum requis pour le lancement. Nous avons ajouté de nouvelles fonctionnalités de façon itérative, en apportant des changements à mesure et en peaufinant le service. 
 * **Il faut se concentrer sur les personnes.** Tout le monde doit être capable de comprendre les messages et les instructions. Nous utilisons un langage simple et facile à comprendre dans un format de courriel accessible.
 * **Le contenu est informé par les données.** Nous analysons les données sur les recherches les plus populaires des utilisateurs et les questions principales de la ligne d’appel 1-833 pour suivre les tendances dans les inquiétudes des gens. Cela assure l’agilité et la réactivité de notre contenu face à l’évolution de la situation. 
