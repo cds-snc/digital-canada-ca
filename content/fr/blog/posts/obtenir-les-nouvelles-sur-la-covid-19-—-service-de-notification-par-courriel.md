@@ -17,7 +17,7 @@ processed: 1589465188180
 ---
 **« Le numérique consiste à appliquer la culture, les processus, les modèles d’affaires et les technologies de l’ère de l’Internet pour répondre aux attentes élevées des personnes. » – Tom Loosemore**
 
-*Marcel Saulnier est sous-ministre adjoint à Santé Canada. Dans le cadre de la réponse du Canada à la pandémie de la maladie à coronavirus, il a dirigé l’équipe d’intervention numérique qui a créé « Obtenir les nouvelles sur la COVID-19 ». Ce service est une collaboration entre Santé Canada, Service Canada, le Service numérique canadien et le Secrétariat du Conseil du Trésor.* 
+*Marcel Saulnier est sous-ministre adjoint à Santé Canada. Dans le cadre de la réponse du Canada à la pandémie de la maladie à coronavirus, il a dirigé l’équipe d’intervention numérique qui a créé « [Obtenir les nouvelles sur la COVID-19](https://www.canada.ca/fr/service-web-gere/obtenez-nouvelles-covid-19.html) ». Ce service est une collaboration entre Santé Canada, Service Canada, le Service numérique canadien et le Secrétariat du Conseil du Trésor.* 
 
 Lorsque la crise mondiale de COVID-19 s’est intensifiée et que la réponse nationale du Canada s’est formée, nous avons reconnu la nécessité de mettre rapidement l’information entre les mains de la population canadienne. À la mi-mars, les pages canada.ca sur le coronavirus affichaient des sommets atteignant 13 millions de visites par jour. Google dirigeait 90 % du trafic, montrant que les gens cherchaient des renseignements fiables. 
 
