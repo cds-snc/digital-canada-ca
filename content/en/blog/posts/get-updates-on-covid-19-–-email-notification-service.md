@@ -17,7 +17,7 @@ processed: 1589465188277
 ---
 **"Digital is about applying the culture, processes, business models and technologies of the internet era to respond to people's raised expectations." – Tom Loosemore**
 
-*Marcel Saulnier is an Assistant Deputy Minister at Health Canada. As part of Canada’s response to the Coronavirus outbreak he has been leading the digital surge team that made “[Get Updates on COVID-19]((https://www.canada.ca/en/managed-web-service/get-updates-covid-19.html))”. The service is a collaboration between Health Canada, Service Canada, Canadian Digital Service and Treasury Board Secretariat.* 
+*Marcel Saulnier is an Assistant Deputy Minister at Health Canada. As part of Canada’s response to the Coronavirus outbreak he has been leading the digital surge team that made “[Get Updates on COVID-19](https://www.canada.ca/en/managed-web-service/get-updates-covid-19.html)”. The service is a collaboration between Health Canada, Service Canada, Canadian Digital Service and Treasury Board Secretariat.* 
 
 When the COVID-19 global crisis escalated and Canada’s national response was forming, we recognised a need to get information into the hands of Canadians quickly. In the middle of March, the coronavirus pages on canada.ca were seeing highs of up to 13 million visits daily.  90% of the traffic was directed from Google, showing that people were searching for reliable information. 
 
