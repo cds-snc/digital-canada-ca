@@ -1,17 +1,19 @@
 ---
 layout: blog
 title: Get Updates on COVID-19 – Email Notification Service
-description: When the COVID-19 global crisis escalated and Canada’s national
-  response was forming, we recognised a need to get information into the hands
-  of Canadians quickly.
-author: Marcel Saulnier, Assistant Deputy Minister at Health Canada
+description: >-
+  When the COVID-19 global crisis escalated and Canada’s national response was
+  forming, we recognised a need to get information into the hands of Canadians
+  quickly.
+author: 'Marcel Saulnier, Assistant Deputy Minister at Health Canada'
 date: 2020-05-13T17:26:05.709Z
 image: /img/cds/financial-help-covid-19-en.jpg
-image-alt: Someone navigating the “Get updates on COVID-19” email notification
-  service on their phone.
+image-alt: >-
+  Someone navigating the “Get updates on COVID-19” email notification service on
+  their phone.
 translationKey: blog-get-covid-updates
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/financial-help-covid-19-en.jpg
+processed: 1589465188277
 ---
 **"Digital is about applying the culture, processes, business models and technologies of the internet era to respond to people's raised expectations." – Tom Loosemore**
 
@@ -34,7 +36,8 @@ The email notification service is maturing, and we’re still improving it but t
 * **Collaborate.** Our partners were included from the beginning so despite moving quickly, we went through the security, legal, and privacy aspects diligently. 
 * **An empowered team helps you go faster.** The team is a mix of skills and departments. Frequent check-ins, a willingness to learn and ask questions has meant a collaborative environment with shorter lead times and fewer follow ups.
 
-The service was envisioned specifically for the COVID-19 crisis. But the product we’ve built, with the improvements and new applications of the existing tools, can be replicated at scale. A detailed account of the product process, including links to the open source tools we used is available for the next group building a similar email subscription-based service. 
+The service was envisioned specifically for the COVID-19 crisis. But the product we’ve built, with the improvements and new applications of the existing tools, can be replicated at scale. A detailed account of the product process, including links to the open source tools we used will be available for the next group building a similar email subscription-based service. 
 
 Digital government represents a shift in how the Government provides services to the people of Canada. It’s about building government services that are agile, open-source, user-focused and developed collaboratively with partners across platforms, departments, and jurisdictions. The COVID-19 pandemic is fast-tracking digital transformation and the approach to building
 this service is an example of that.
+

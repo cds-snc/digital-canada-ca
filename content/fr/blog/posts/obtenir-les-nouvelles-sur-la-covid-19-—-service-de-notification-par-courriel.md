@@ -1,17 +1,19 @@
 ---
 layout: blog
 title: Obtenir les nouvelles sur la COVID-19 — Service de notification par courriel
-description: Lorsque la crise mondiale de COVID-19 s’est intensifiée et que la
-  réponse nationale du Canada s’est formée, nous avons reconnu la nécessité de
-  mettre rapidement l’information entre les mains de la population canadienne.
-author: Marcel Saulnier, sous-ministre adjoint à Santé Canada
+description: >-
+  Lorsque la crise mondiale de COVID-19 s’est intensifiée et que la réponse
+  nationale du Canada s’est formée, nous avons reconnu la nécessité de mettre
+  rapidement l’information entre les mains de la population canadienne.
+author: 'Marcel Saulnier, sous-ministre adjoint à Santé Canada'
 date: 2020-05-13T17:36:56.069Z
 image: /img/cds/financial-help-covid-19-fr.jpg
-image-alt: Photo d’une personne parcourant le service de notification par
-  courriel «Obtenir les nouvelles sur la COVID-19» sur son téléphone.
+image-alt: >-
+  Photo d’une personne parcourant le service de notification par courriel
+  «Obtenir les nouvelles sur la COVID-19» sur son téléphone.
 translationKey: blog-get-covid-updates
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/financial-help-covid-19-fr.jpg
+processed: 1589465188180
 ---
 **« Le numérique consiste à appliquer la culture, les processus, les modèles d’affaires et les technologies de l’ère de l’Internet pour répondre aux attentes élevées des personnes. » – Tom Loosemore**
 
@@ -34,6 +36,7 @@ Le service de notification par courriel est en train de s’affiner, et nous l�
 * **Il faut collaborer.** Nos partenaires ont été inclus dès le début, donc, malgré notre rapidité d’action, nous avons traité les aspects juridiques, de sécurité et de protection de la vie privée avec diligence. 
 * **Une équipe motivée vous aide à aller plus vite.** L’équipe est un mélange de compétences et de ministères. Les mises au point fréquentes, la volonté d’apprendre et de poser des questions ont résulté en un environnement de collaboration avec des délais plus courts et moins de suivi.
 
-Ce service était prévu spécifiquement pour la crise de COVID-19. Cependant, le produit que nous avons construit, avec les améliorations et les nouvelles applications des outils existants, peut être reproduit à grande échelle. Un compte rendu détaillé du processus du produit, comprenant des liens vers les outils à code source ouvert que nous avons utilisés, est disponible pour le prochain groupe qui construira un service semblable de courriels par abonnement. 
+Ce service était prévu spécifiquement pour la crise de COVID-19. Cependant, le produit que nous avons construit, avec les améliorations et les nouvelles applications des outils existants, peut être reproduit à grande échelle. Un compte rendu détaillé du processus du produit, comprenant des liens vers les outils à code source ouvert que nous avons utilisés, sera est disponible pour le prochain groupe qui construira un service semblable de courriels par abonnement. 
 
 Le gouvernement numérique représente un changement dans la façon dont le gouvernement fournit des services à la population canadienne. Il s’agit de construire des services gouvernementaux qui sont agiles, ouverts, axés sur l’utilisateur et développés grâce à une collaboration entre les plateformes, les ministères et les administrations. La pandémie de la COVID-19 accélère la transformation numérique, et notre approche pour construire ce service en est un exemple. 
+
