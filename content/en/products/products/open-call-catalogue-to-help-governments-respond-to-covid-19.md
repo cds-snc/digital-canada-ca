@@ -3,7 +3,7 @@ title: Open Call catalogue to help governments respond to COVID-19
 translationKey: open-call
 description: >-
   Open Call is a curated catalogue of free, open-source tools that governments can use to support people during COVID-19.
-product-url: https://cds-snc.github.io/opencall-appelouvert/
+product-url: https://opencall-appelouvert.alpha.canada.ca/#/
 phase: alpha
 contact:
   - email: honey.dacanay@da-an.ca
@@ -16,6 +16,6 @@ partners:
 status: in-flight
 links: 
   - name: GitHub
-    url: 'https://github.com/cds-snc/opencall-appelouvert'
+    url: 'https://opencall-appelouvert.alpha.canada.ca/#/'
 onhomepage: true
 ---
