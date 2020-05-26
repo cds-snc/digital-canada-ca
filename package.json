@@ -4,7 +4,7 @@
   "description": "",
   "main": "webpack.config.js",
   "dependencies": {
-    "@babel/core": "^7.8.7",
+    "@babel/core": "^7.9.6",
     "babel-loader": "^8.1.0",
     "babel-preset-env": "^1.7.0",
     "css-loader": "^2.1.1",
@@ -16,7 +16,7 @@
     "serialize-javascript": "^2.1.2",
     "set-value": "^3.0.2",
     "sharp": "^0.25.1",
-    "snyk": "^1.316.2",
+    "snyk": "^1.317.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.43.0"
   },
