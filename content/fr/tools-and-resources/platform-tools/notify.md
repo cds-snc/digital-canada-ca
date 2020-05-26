@@ -10,5 +10,5 @@ contact:
 status: in-flight
 links:
   - name: Notification
-    url: "https://notification.alpha.canada.ca/"
+    url: "https://notification.alpha.canada.ca/?lang=fr"
 ---
