@@ -13,10 +13,10 @@
     "front-matter-editor": "0.0.1",
     "minimist": "^1.2.5",
     "netlify-cms": "^2.10.48",
-    "serialize-javascript": "^2.1.2",
+    "serialize-javascript": "^3.1.0",
     "set-value": "^3.0.2",
     "sharp": "^0.25.1",
-    "snyk": "^1.319.0",
+    "snyk": "^1.319.2",
     "style-loader": "^0.23.1",
     "webpack": "^4.43.0"
   },
