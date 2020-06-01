@@ -295,14 +295,6 @@ team:
       en: Product Management
       fr: Gestion de produits
   - archived: false
-    email: Damien.Trudel@tbs-sct.gc.ca
-    image-name: /img/cds/damien-trudel.jpg
-    name: Damien Trudel
-    processed: 1552050695390
-    title:
-      en: Security
-      fr: Sécurité
-  - archived: false
     github: dsamojlenko
     image-name: /img/cds/dave-samojlenko.jpg
     name: Dave Samojlenko
@@ -506,16 +498,6 @@ team:
       en: Policy
       fr: Politiques
     processed: 1575304321711
-  - archived: false
-    email: michelle.ngai@tbs-sct.gc.ca
-    image-name: /img/cds/michelle-ngai.jpg
-    linkedin: ilovedesign
-    name: Michelle Ngai
-    processed: 1552050695393
-    title:
-      en: Design
-      fr: Conception
-    twitter: itsMichelleNgai
   - archived: false
     email: nick.makuch@tbs-sct.gc.ca
     github: nmakuch
