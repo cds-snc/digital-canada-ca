@@ -6,7 +6,7 @@
     <li>
       <div class="contact-icon">
         <a title="Twitter" href="https://twitter.com/{{ i18n "twitter" }}">
-          <i class="icon-twitter" aria-hidden="true"></i>
+          <i class="icon-twitter"></i>
         </a>
       </div>
     </li>
@@ -14,7 +14,7 @@
       <div class="contact-icon">
         <a title="LinkedIn"
            href="https://linkedin.com/company/{{$.Site.Data.contact.linkedin}}">
-          <i class="icon-linkedin" aria-hidden="true"></i>
+          <i class="icon-linkedin"></i>
         </a>
       </div>
     </li>
@@ -22,7 +22,7 @@
       <div class="contact-icon">
         <a title="Github"
            href="https://github.com/{{.Site.Data.contact.github}}">
-          <i class="icon-github" aria-hidden="true"></i>
+          <i class="icon-github"></i>
         </a>
       </div>
     </li>
@@ -30,7 +30,7 @@
       <div class="contact-icon">
         <a title="Youtube"
            href="https://www.youtube.com/channel/UC7LZmDau701R-Tbs3c7miMQ">
-          <i class="icon-youtube" aria-hidden="true"></i>
+          <i class="icon-youtube"></i>
         </a>
       </div>
     </li>
@@ -38,14 +38,14 @@
       <div class="contact-icon">
         <a title="Mailchimp"
            href={{ index $.Site.Data.contact.mailchimp (string ($.Site.Language)) "url" }}>
-          <i class="icon-mailchimp" aria-hidden="true"></i>
+          <i class="icon-mailchimp"></i>
         </a>
       </div>
     </li>
     <li>
       <div class="contact-icon">
         <a title="Email" href="mailto:{{ .Site.Data.contact.email }}">
-          <i class="icon-envelope" aria-hidden="true"></i></a>
+          <i class="icon-envelope"></i></a>
       </div>
     </li>
   </ul>
