@@ -34,10 +34,14 @@ languages:
           name: Who we are
           url: /meet-the-team/
           weight: 4
+        - identifier: join-our-team/
+          name: Join our team
+          url: /join-our-team/
+          weight: 5
         - identifier: blog
           name: Blog
           url: /blog/
-          weight: 5
+          weight: 6
   fr:
     baseUrl: https://numerique.canada.ca/
     contentDir: content/fr
@@ -69,7 +73,11 @@ languages:
           name: Qui nous sommes
           url: /rencontrez-lequipe/
           weight: 4
+        - identifier: rejoindre-notre-equipe
+          name: Rejoindre notre équipe
+          url: /rejoindre-notre-equipe/
+          weight: 5
         - identifier: blogue
           name: Blogue
           url: /blogue/
-          weight: 5
+          weight: 6
