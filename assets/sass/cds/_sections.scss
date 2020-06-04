@@ -45,7 +45,7 @@
   color: $white;
   border-top: 1px solid $black;
 
-  p {
+  h1 {
     font-size: 3rem; 
 
     @include mobile_only {

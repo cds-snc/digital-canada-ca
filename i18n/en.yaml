@@ -3,7 +3,7 @@
 aria-canada-website:
   other: "Government of Canada"
 aria-cds-website:
-  other: "Canadian Digital Service"
+  other: "Accéder à la page d'accueil"
 blog:
   other: "Read the blog"
 canada-ca:
@@ -232,3 +232,5 @@ apply-now:
   other: "Apply now"
 who-is-on-the-team:
   other: "Who is on the team"
+options-below:
+  other: "using one of the options below"
