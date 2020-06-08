@@ -6,7 +6,7 @@ description: >-
   We are looking for an Executive Assistant who will thrive at managing multiple
   priorities in a rapidly changing environment, as they work alongside our Chief
   Operating Officer (COO) and their teams. 
-archived: false
+archived: true
 leverId: 7c3b9da6-720e-4454-b7a3-9dd635b3a889
 translationKey: executive-assistant-coo
 ---
