@@ -16,7 +16,7 @@ La conception de contenu est une pratique de conception d’expérience utilisat
 
 Les concepteurs et les conceptrices de contenu placent les tâches et les procédures dans un contexte que les gens peuvent suivre. Ils le font en se basant sur la recherche sur les besoins utilisateurs, les politiques, l’expertise en la matière et les contraintes systémiques.
 
-Au SNC, voici les responsabilités typiques des concepteurs et conceptrices de contenu :
+Au SNC, voici les responsabilités typiques des concepteurs et conceptrices de contenu:
 
 * rechercher du vocabulaire et des modèles mentaux que les gens utilisent pour atteindre leurs objectifs;
 * préciser l’objectif de chaque élément d’une expérience;
