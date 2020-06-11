@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: Concepteur / Conceptrice de contenu
+title: Concepteur / Conceptrice de contenu senior
 description: Les concepteurs et les conceptrices de contenu placent les tâches
   et les procédures dans un contexte que les gens peuvent suivre. Ils le font en
   se basant sur la recherche sur les besoins utilisateurs, les politiques,
