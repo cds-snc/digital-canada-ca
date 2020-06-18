@@ -15,7 +15,7 @@ image-alt: >-
   mobile phone.
 translationKey: get-updates-blog-2
 thumb: /img/cds/thumbnails/get-updates-c19-phone-en.jpg
-processed: 1592490440727
+processed: 1592491143406
 ---
 *Marcel Saulnier and Jennifer Hollington are ADMs at Health Canada. Marcel oversaw the development and launch of the “[Get Updates on COVID-19](https://www.canada.ca/covid19updates)” email notification service as part of the COVID-19 Task Force. Jennifer’s communications team has taken over the service as it becomes part of Health Canada’s communications function.*
 
@@ -46,3 +46,4 @@ Two months after the launch, a focus on users remains the defining element of th
 * The emails are simple and accessible, and are written at a grade 8 level. They are  based on guidelines that ensure clarity and reliability. The focus is on key messages and behaviours, which are gathered from behavioural insights experts. 
 
 When “Get Updates on COVID-19” went live, the team launched with the simplest version of the email service. People needed information, so launching an early iteration served people's needs better than waiting for all the bells and whistles to be ready. Launching as an alpha is not a typical approach for the Government, but it allows room for testing and improvement through feedback and incorporating best practices. The team has published a [record](https://docs.google.com/document/d/1pJQqsmV5bPTKOT6XOqBQXlTESbpkKYovfAqr0D8zh6U/edit) of the iterations and decisions made alongside the [code for the tools](https://getupdates.github.io/) that make up the service. The service is listed on [Open Call](https://opencall-appelouvert.alpha.canada.ca/#/), a catalogue of free digital tools to address common COVID-19 challenges. The intention is to help others learn from the process, whether it be for replicating a similar service, or to help shape their own approach to [doing things digitally](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html).
+
