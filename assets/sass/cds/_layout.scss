@@ -254,6 +254,16 @@ hr {
   margin: 30px 0;
 }
 
+// Styles for individual research pages
+.research-page-contact {
+  // this style removes the margin for any contact listings on individual research pages
+  p {
+    margin: 0;
+  }
+
+  margin-bottom: 23px;
+}
+
 // Universal style for tables
 table,
 td,
