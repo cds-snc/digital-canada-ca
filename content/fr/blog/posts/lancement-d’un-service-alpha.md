@@ -1,20 +1,22 @@
 ---
 layout: blog
 title: Lancement d’un service alpha
-description: Santé Canada a réussi à mettre sur pied le service « Obtenir les
-  nouvelles sur la COVID-19 » dès les débuts de l’épidémie de COVID-19 grâce à
-  un commencement modeste, une entrée en service rapide et des améliorations
-  constantes éclairées par les données et la recherche sur les utilisateurs.
-  Depuis son lancement le 2 avril 2020, le service a envoyé 780 000
-  notifications à un peu plus de 51 000 abonnés.
+description: >-
+  Santé Canada a réussi à mettre sur pied le service « Obtenir les nouvelles sur
+  la COVID-19 » dès les débuts de l’épidémie de COVID-19 grâce à un commencement
+  modeste, une entrée en service rapide et des améliorations constantes
+  éclairées par les données et la recherche sur les utilisateurs. Depuis son
+  lancement le 2 avril 2020, le service a envoyé 780 000 notifications à un peu
+  plus de 51 000 abonnés.
 author: Marcel Saulnier et Jennifer Hollington
 date: 2020-06-17T20:05:16.380Z
 image: /img/cds/get-updates-c19-phone-fr.jpg
-image-alt: Une personne en train de s’abonner au service «Obtenir les nouvelles
-  sur la COVID-19» sur son téléphone mobile.
+image-alt: >-
+  Une personne en train de s’abonner au service «Obtenir les nouvelles sur la
+  COVID-19» sur son téléphone mobile.
 translationKey: get-updates-blog-2
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/get-updates-c19-phone-fr.jpg
+processed: 1592490440554
 ---
 *Marcel Saulnier et Jennifer Hollington sont tous deux sous-ministres adjoints à Santé Canada. M. Saulnier a supervisé la conception et le lancement du service de notification par courriel « [Obtenir les nouvelles sur la COVID-19](https://www.canada.ca/covid19nouvelles) » dans le cadre de sa participation au groupe de travail sur la COVID-19. L’équipe des communications de Mme Hollington a repris le service alors que celui-ci s’inscrit dans la fonction de communication de Santé Canada.*
 
