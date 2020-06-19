@@ -14,7 +14,7 @@ Le Service numérique canadien (SNC) change la façon dont le gouvernement féd�
 
 L’équipe de liaison et diffusion est responsable de tout ce qui touche la mise en récit au SNC. Nous racontons des histoires qui aident les fonctionnaires à améliorer les services gouvernementaux et qui enrichissent la vie des gens. Nous aidons le SNC à raconter des histoires qui aident les gens à travailler pour nous, comme nous et avec nous. Nous fournissons les outils et les conseils nécessaires pour aider les employés du SNC à créer des récits efficaces et pour assurer la présence du SNC en ligne dans les deux langues officielles.
 
-Le rôle de traducteur ou de traductrice est essentiel afin de nous assurer de respecter notre mandat dans les deux langues officielles et de contribuer à l’amélioration continue de notre équipe, ainsi que du contenu et des normes bilingues à l’échelle de l’organisation. Ce rôle est classifié[IS-02](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=15#toc993929944)dans le groupe Services d’information.
+Le rôle de traducteur ou de traductrice est essentiel afin de nous assurer de respecter notre mandat dans les deux langues officielles et de contribuer à l’amélioration continue de notre équipe, ainsi que du contenu et des normes bilingues à l’échelle de l’organisation. Ce rôle est classifié [IS-02](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=15#toc993929944) dans le groupe Services d’information.
 
 Nous sommes à la recherche d’une personne qui peut :
 
