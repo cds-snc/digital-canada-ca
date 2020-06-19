@@ -14,7 +14,7 @@ The Canadian Digital Service (CDS) is changing how the federal government design
 
 The Outreach team is responsible for all things storytelling at CDS. We tell stories that help public servants improve government services and make people’s lives better. We help CDS tell stories that help people work for us, work like us and work with us. We provide supporting tools and advice to help CDSers tell effective stories, and build and maintain CDS’ online presence in both official languages.
 
-The Translator role is absolutely essential to ensure that we can fulfill our mandate in both official languages and to contribute to the on-going improvement of our team, and the content and bilingual standards across the organization. This role is classified as a[IS-02](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc993929944)in the Information Services group.
+The Translator role is absolutely essential to ensure that we can fulfill our mandate in both official languages and to contribute to the on-going improvement of our team, and the content and bilingual standards across the organization. This role is classified as a [IS-02](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc993929944) in the Information Services group.
 
 We’re looking for someone who will:
 
