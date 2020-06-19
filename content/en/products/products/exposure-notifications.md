@@ -13,7 +13,7 @@ partners:
     url: 'https://www.canada.ca/en/health-canada.html'
   - name: Public Health Agency of Canada
     url: 'https://www.canada.ca/en/public-health.html'
-  - name: Innovation, Science and Economic Development
+  - name: Innovation, Science and Economic Development Canada
     url: 'https://www.ic.gc.ca/eic/site/icgc.nsf/eng/home'
   - name: Canadian Centre for Cyber Security
     url: 'https://cyber.gc.ca/en/'
