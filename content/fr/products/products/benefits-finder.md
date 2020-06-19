@@ -1,13 +1,13 @@
 ---
-title: Trouver de l’aide financière pendant la pandémie de COVID-19
-translationKey: benefits-finder
+title: Application mobile de notification d’exposition du gouvernement du Canada
+translationKey: exposure-notifications
 description: >-
-  Outil en ligne permettant aux personnes de trouver et de comprendre rapidement à quelle aide financière elles sont admissibles pendant la pandémie de COVID-19.
-product-url: https://covid-prestations.alpha.canada.ca/fr/debut
+Application mobile fédérale visant à ralentir la propagation de la COVID-19 au Canada en avisant les Canadiens de leurs expositions tout en protégeant complètement leur vie privée.
+# product-url: 
 phase: alpha
 contact:
-  - email: courtney.claessens@tbs-sct.gc.ca
-    name: Courtney Claessens
+  - email: CDS-SNC@tbs-sct.gc.ca
+    name: CDS-SNC@tbs-sct.gc.ca
 partners:
   - name: Service Canada
     url: 'https://covid-prestations.alpha.canada.ca/fr/debut'
