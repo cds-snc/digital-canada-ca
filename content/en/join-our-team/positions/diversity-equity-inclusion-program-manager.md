@@ -12,7 +12,7 @@ translationKey: diversity-inclusion-manager
 ---
 The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital services. We’re here to improve people’s lives by changing how the government builds technology. We do this by putting people's needs and concerns front and centre. Every experience Canadians have with their government should be safe, fast, easy, transparent, and accessible. We are working in the open to help everyone across government improve service delivery. We need you.
 
-To further this important mission, we are looking for a Diversity, Equity and Inclusion (DEI) Program Manager. Building a more diverse, equitable, and inclusive organization is better for the members of our team, for the quality of our work, and for our ability to serve all Canadians. You can expect high impact and wide-ranging responsibility: owning DEI initiatives and strategy, collaborating throughout the organization, and advocating for a culture of belonging. You must be a builder who thrives in a learning environment—you’re unafraid to challenge the way we’ve been doing things, engage partners across and outside government, and welcome suggestions for how we can iterate on our processes. This role is classified as an [AS-05](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc993929940) in the Administrative Services group and reports to the Head of Talent.
+To further this important mission, we are looking for a Diversity, Equity and Inclusion (DEI) Program Manager. Building a more diverse, equitable, and inclusive organization is better for the members of our team, for the quality of our work, and for our ability to serve all Canadians. You can expect high impact and wide-ranging responsibility: owning DEI initiatives and strategy, collaborating throughout the organization, and advocating for a culture of belonging. You must be a builder who thrives in a learning environment—you’re unafraid to challenge the way we’ve been doing things, engage partners across and outside government, and welcome suggestions for how we can iterate on our processes. This role is classified as an [AS-06](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc993929940) in the Administrative Services group and reports to the Head of Talent.
 
 What we’re looking for:
 
@@ -40,4 +40,4 @@ CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orie
 
 [Assessment accommodation](https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html)  
 
-\*Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future.
+*Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future.
