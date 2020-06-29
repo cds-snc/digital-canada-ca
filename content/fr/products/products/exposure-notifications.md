@@ -23,8 +23,10 @@ status: in-flight
 onhomepage: true
 links: 
   - name: GitHub du serveur COVID Shield
-    url: 'https://github.com/cds-snc/covid-shield-server'
+    url: 'https://github.com/cds-snc/covid-shield-server#serveur-de-diagnostic-covid-shield'
   - name: GitHub de l’appli mobile COVID Shield
-    url: 'https://github.com/cds-snc/covid-shield-mobile'
+    url: 'https://github.com/cds-snc/covid-shield-mobile#application-mobile-covid-shield'
+  - name: Portail de soins de santé COVID
+    url: 'https://github.com/cds-snc/covid-healthcare-portal#portail-de-soins-de-sant%C3%A9-covid'
 ---
 

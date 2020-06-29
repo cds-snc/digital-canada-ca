@@ -5,7 +5,7 @@ title: Recruteur créatif / Recruteuse créative
 description: >-
   Nous recherchons un(e) recruteur(se) consultatif(ve) et créatif(ve) qui
   viendra faire croître notre équipe.
-archived: false
+archived: true
 leverId: 2e2d67b4-e48c-429a-be80-270f7dd5dcb7
 translationKey: creative-recruiter
 ---
