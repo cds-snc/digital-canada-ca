@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: Creative Recruiter
 description: We are looking for a consultative and creative recruiter to scale our team.
-archived: false
+archived: true
 leverId: 4cc43c15-77fd-481c-8a82-58c4fa9861cc
 translationKey: creative-recruiter
 ---

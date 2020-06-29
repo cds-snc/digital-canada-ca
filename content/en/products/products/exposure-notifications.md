@@ -26,5 +26,7 @@ links:
     url: 'https://github.com/cds-snc/covid-shield-server'
   - name: Covid Shield Mobile Github
     url: 'https://github.com/cds-snc/covid-shield-mobile'
+  - name: COVID Healthcare Portal
+    url: 'https://github.com/cds-snc/covid-healthcare-portal'
 ---
 
