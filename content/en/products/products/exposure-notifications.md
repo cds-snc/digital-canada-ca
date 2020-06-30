@@ -22,11 +22,11 @@ partners:
 status: in-flight
 onhomepage: true
 links: 
-  - name: Covid Shield Server GitHub
+  - name: COVID Alert Server GitHub
     url: 'https://github.com/cds-snc/covid-shield-server'
-  - name: Covid Shield Mobile Github
+  - name: COVID Alert Mobile Github
     url: 'https://github.com/cds-snc/covid-shield-mobile'
-  - name: COVID Healthcare Portal
+  - name: COVID Alert Healthcare Portal Github
     url: 'https://github.com/cds-snc/covid-healthcare-portal'
 ---
 
