@@ -263,6 +263,17 @@ hr {
   }
 }
 
+// Exposure Notification privacy policy styles
+.en-privacy-policy {
+  .section--title {
+    text-align: left;
+  }
+
+  .section--title::after {
+    content: none;
+  }
+}
+
 // Universal style for tables
 table,
 td,
