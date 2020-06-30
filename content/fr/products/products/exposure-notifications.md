@@ -22,11 +22,11 @@ partners:
 status: in-flight
 onhomepage: true
 links: 
-  - name: GitHub du serveur COVID Shield
+  - name: GitHub du serveur d’Alerte COVID
     url: 'https://github.com/cds-snc/covid-shield-server#serveur-de-diagnostic-covid-shield'
-  - name: GitHub de l’appli mobile COVID Shield
+  - name: GitHub de l’application mobile Alerte COVID
     url: 'https://github.com/cds-snc/covid-shield-mobile#application-mobile-covid-shield'
-  - name: Portail de soins de santé COVID
+  - name: GitHub du portail de soins de santé Alerte COVID
     url: 'https://github.com/cds-snc/covid-healthcare-portal#portail-de-soins-de-sant%C3%A9-covid'
 ---
 
