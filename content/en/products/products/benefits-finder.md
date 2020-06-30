@@ -6,13 +6,13 @@ description: >-
 product-url: https://covid-benefits.alpha.canada.ca/en/start
 phase: alpha
 contact:
-  - email: courtney.claessens@tbs-sct.gc.ca
-    name: Courtney Claessens
+  - email: CDS-SNC@tbs-sct.gc.ca
+    name: CDS-SNC@tbs-sct.gc.ca
 partners:
   - name: Service Canada
     url: 'https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada.html'
-status: in-flight
-onhomepage: true
+status: past
+onhomepage: false
 links: 
   - name: GitHub
     url: 'https://github.com/cds-snc/c19-benefits-node'
