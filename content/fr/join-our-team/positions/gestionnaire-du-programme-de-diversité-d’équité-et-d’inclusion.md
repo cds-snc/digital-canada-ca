@@ -7,7 +7,7 @@ description: Nous recherchons un(e) gestionnaire du programme de diversité,
   équitable et plus inclusive est bénéfique pour les membres de notre équipe, la
   qualité de notre travail et notre capacité à servir tous les Canadiens et
   Canadiennes.
-archived: false
+archived: true
 leverId: dfae57bb-2c71-4461-b522-72e36a068d4c
 translationKey: diversity-inclusion-manager
 ---

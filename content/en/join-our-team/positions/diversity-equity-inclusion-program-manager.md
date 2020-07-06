@@ -6,7 +6,7 @@ description: "We are looking for a Diversity, Equity and Inclusion (DEI) Program
   Manager. Building a more diverse, equitable, and inclusive organization is
   better for the members of our team, for the quality of our work, and for our
   ability to serve all Canadians. "
-archived: false
+archived: true
 leverId: f4328eb1-43cf-4510-8266-dad6d29b8967
 translationKey: diversity-inclusion-manager
 ---
