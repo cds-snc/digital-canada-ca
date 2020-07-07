@@ -1,10 +1,10 @@
 ---
 layout: blog
-title: "Improving our COVID-19 benefits finder tool using a feedback text box "
-description: A blog post about building the feedback component on “Find
+title: "Listening to Users: Improving the COVID-19 Benefits Finder Tool"
+description: " A blog post about building the feedback component on “Find
   Financial Help During COVID-19” tool using Canada.ca template. It speaks to
   the type of feedback we’ve been receiving, and how we're handling private
-  information that may come in.
+  information that may come in."
 author: Adrianne Lee, Researcher
 date: 2020-07-06T20:31:25.403Z
 image: /img/cds/adrianne-blog-en.jpg
@@ -14,13 +14,15 @@ translationKey: blog-ffhc19-feedback
 thumb: ""
 processed: ""
 ---
-On May 7th, we soft launched the [Find financial help during COVID-19 online tool](http://canada.ca/coronavirus-benefits) in partnership with Service Canada as co-developers to deliver together a tool to help reduce financial stress that people in Canada are experiencing during the pandemic. By having people answer a few simple questions anonymously, the tool provides them with a tailored list of benefits for their specific situation. We included a feedback text box, which has had a huge impact on our ability to improve the tool with the help of the people using it every day. 
+On May 7th, we soft launched the *[Find financial help during COVID-19](http://canada.ca/coronavirus-benefits)* online tool in partnership with Service Canada. The purpose of this co-developed tool is to help reduce financial stress that people in Canada are experiencing during the pandemic. By having people answer a few simple questions anonymously, the tool provides them with a tailored list of benefits for their specific situation. We included a feedback text box, which has had a huge impact on our ability to improve the tool with the help of the people using it every day. 
 
 We conducted design research throughout the product build, facilitating multiple rounds of quick, moderated usability testing and a survey to make sure we were building the best thing for people, as quickly as possible. When we launched, we started collecting live data on the tool to make sure we could quickly address issues and ensure we were continuing to meet user needs.
 
 ## Feedback text box
 
-One of the ways we collected live data was through a feedback form with a feedback text box. Canada.ca specifications require a ‘Report a problem or a mistake on this page’ form on every page. We modified the options to more specifically fit our product’s content. We added a feedback text box because we decided as a team that we needed to understand when people report “confusing” or “incorrect information,” what people specifically found confusing or incorrect about the tool. The open text provided informative data for ways we could improve our tool. Although we didn't intend to, we learned a lot about how we can improve government services in general too.
+One of the ways we collected live data was through a feedback form with a feedback text box. Canada.ca specifications require a ‘Report a problem or a mistake on this page’ form on every page. A feedback box feature is also available for web pages as part of the Canada.ca design system. We modified the options to more specifically fit our product’s content. We added a feedback text box because we decided as a team that we needed to understand when people report “confusing” or “incorrect information,” what people specifically found confusing or incorrect about the tool. The open text provided informative data for ways we could improve our tool. 
+
+Although we didn't intend to, we learned a lot about how we can improve government services in general too.
 
 The feedback we received was in real-time, and helped us identify areas where the tool wasn't meeting the needs of the people using it. It also helped inform the team on future research questions to address.
 
@@ -40,9 +42,9 @@ For our team, we decided the value of the  insights we could capture from a feed
 
 ## Scoping feedback
 
-For every piece of feedback, we first consider our product scope and see whether a piece of feedback is relevant to the scope.  In product development, [a layer cake is sometimes used to describe the Agile methodology](https://twitter.com/nkkl/status/1066571295784022016). Expanding on this analogy is helpful to explain how we consider a piece of feedback’s relevance.
+For every piece of feedback, we first consider our product scope and see whether a piece of feedback is relevant to the scope.  In product development, a [layer cake is sometimes used to describe the Agile methodology](https://twitter.com/nkkl/status/1066571295784022016). Expanding on this analogy is helpful to explain how we consider a piece of feedback’s relevance.
 
-![Alt text: Helpful feedback (represented by a piece of strawberry cake and a strawberry) vs. not helpful feedback (represented by a fish soup and a fish)](/img/cds/adrianne-blog-infographic-en.jpg)
+![Helpful feedback (represented by a piece of strawberry cake and a strawberry) vs. not helpful feedback (represented by a fish soup and a fish)](/img/cds/adrianne-blog-infographic-en.jpg)
 
 If building the Find financial help tool is like baking a cake, the benefits/programs listed in the tool are kind of like the cake’s ingredients. They play a large part in how the cake tastes and feels, and ultimately whether it’s ‘useful’ or not to the person eating the cake. 
 
@@ -58,9 +60,9 @@ Here are a few examples of relevant feedback we saw and were able to address tha
 Like any research method, there are limitations. Because this is a survey of sorts, we can’t ask follow-up questions to the people who experienced issues. There were some issues identified through the feedback submissions that prompt more research questions to explore.
 
 * Are there other issues causing people to leave more feedback on the start page than other pages of the tool?
-* If seniors are leaving more feedback on the first few pages of the tool, does that mean the tool is not as helpful for them? 
+* If seniors are leaving more feedback on the first few pages of the tool, does that mean the tool is not as helpful for them?
 * Since we received proportionally more feedback from French users relative to unique visitor numbers, could that mean the tool isn’t as helpful for French users as English users?
 
-Service Canada will be taking over the tool, future research and iterations,  at the end of June. During this initial launch and phase of the tool, we learned that we might not get all the answers to our research questions from the feedback text box on the Find financial help during COVID-19 tool, but that doesn’t mean it isn’t incredibly valuable. Even if the feedback we received makes us ask ourselves many more questions, it’s told us so much about who is using the tool, where they may be stumbling, and what changes we can make to create a better and more helpful experience. 
+Service Canada took over the management of the tool, future research and iterations, at the end of June. During this initial launch and phase of the tool, we learned that we might not get all the answers to our research questions from the feedback text box on the *Find financial help during COVID-19 tool*, but that doesn’t mean it isn’t incredibly valuable. Even if the feedback we received makes us ask ourselves many more questions, it’s told us so much about who is using the tool, where they may be stumbling, and what changes we can make to create a better and more helpful experience. 
 
 Have you tried a feedback text box on your Government of Canada online tool or service? We’d love to hear about your findings. Get in touch with our [research community](mailto:rc-gc-dr@cds-snc.ca).
