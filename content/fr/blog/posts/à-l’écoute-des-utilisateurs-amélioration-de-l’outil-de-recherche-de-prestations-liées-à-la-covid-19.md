@@ -1,19 +1,22 @@
 ---
 layout: blog
-title: "À l’écoute des utilisateurs : amélioration de l’outil de recherche de
-  prestations liées à la COVID-19"
-description: Article de blogue au sujet de l’ajout d’une zone de commentaires à
-  l’outil « Trouver de l’aide financière pendant la COVID-19 » à l’aide du
-  modèle de Canada.ca. On y parle du type de commentaires reçus et du traitement
-  des renseignements personnels qui peuvent s’y faufiler.
-author: Adrianne Lee, chercheuse
+title: >-
+  À l’écoute des utilisateurs : amélioration de l’outil de recherche de
+  prestations liées à la COVID-19
+description: >-
+  Article de blogue au sujet de l’ajout d’une zone de commentaires à l’outil «
+  Trouver de l’aide financière pendant la COVID-19 » à l’aide du modèle de
+  Canada.ca. On y parle du type de commentaires reçus et du traitement des
+  renseignements personnels qui peuvent s’y faufiler.
+author: 'Adrianne Lee, chercheuse'
 date: 2020-07-06T20:39:16.171Z
 image: /img/cds/adrianne-blog-fr.jpg
-image-alt: Illustration d’un service en ligne qui reçoit des commentaires écrits
-  sur son utilisabilité de la part de 8 personnes différentes.
+image-alt: >-
+  Illustration d’un service en ligne qui reçoit des commentaires écrits sur son
+  utilisabilité de la part de 8 personnes différentes.
 translationKey: blog-ffhc19-feedback
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/adrianne-blog-fr.jpg
+processed: 1594214285021
 ---
 Le 7 mai, nous avons lancé discrètement l’outil en ligne « [Trouver de l’aide financière pendant la COVID-19](https://covid-prestations.alpha.canada.ca/fr/debut) », en partenariat avec Service Canada. Le but de cet outil codéveloppé est de réduire le stress financier que subissent les Canadiens et les Canadiennes pendant la pandémie. En demandant aux gens de répondre à quelques questions simples de façon anonyme, l’outil leur fournit une liste de prestations adaptée à leur situation. La zone de commentaires que nous y avons incluse a eu une incidence considérable sur notre capacité à améliorer l’outil, grâce aux gens qui l’ont utilisée chaque jour. 
 
