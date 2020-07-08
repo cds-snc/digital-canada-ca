@@ -1,18 +1,16 @@
 ---
 layout: blog
-title: "Listening to Users: Improving the COVID-19 Benefits Finder Tool"
-description: " A blog post about building the feedback component on “Find
-  Financial Help During COVID-19” tool using Canada.ca template. It speaks to
-  the type of feedback we’ve been receiving, and how we're handling private
-  information that may come in."
-author: Adrianne Lee, Researcher
+title: 'Listening to Users: Improving the COVID-19 Benefits Finder Tool'
+description: ' A blog post about building the feedback component on “Find Financial Help During COVID-19” tool using Canada.ca template. It speaks to the type of feedback we’ve been receiving, and how we''re handling private information that may come in.'
+author: 'Adrianne Lee, Researcher'
 date: 2020-07-06T20:31:25.403Z
 image: /img/cds/adrianne-blog-en.jpg
-image-alt: An illustration of an online service receiving written feedback on
-  its usability from 8 different people.
+image-alt: >-
+  An illustration of an online service receiving written feedback on its
+  usability from 8 different people.
 translationKey: blog-ffhc19-feedback
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/adrianne-blog-en.jpg
+processed: 1594214285126
 ---
 On May 7th, we soft launched the *[Find financial help during COVID-19](http://canada.ca/coronavirus-benefits)* online tool in partnership with Service Canada. The purpose of this co-developed tool is to help reduce financial stress that people in Canada are experiencing during the pandemic. By having people answer a few simple questions anonymously, the tool provides them with a tailored list of benefits for their specific situation. We included a feedback text box, which has had a huge impact on our ability to improve the tool with the help of the people using it every day. 
 
