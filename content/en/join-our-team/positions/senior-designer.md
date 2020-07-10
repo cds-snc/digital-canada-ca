@@ -21,7 +21,7 @@ What we’re looking for:
 * You can effectively demonstrate what your detailed design process entails;
 * You are passionate about users’ experiences and want to create measurable improvements to government services;
 * You have experience working alongside developers and researchers and rapidly prototyping;
-* Communicate and write in both French and English (in government terms, this position is CBC).
+* Bilingualism (English and French) will be considered a strong asset.  
 
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
 

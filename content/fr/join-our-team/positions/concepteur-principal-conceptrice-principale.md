@@ -22,7 +22,7 @@ Nous sommes à la recherche d’une personne qui :
 * démontre efficacement et de façon détaillée son processus de conception;
 * se consacre à l’expérience des utilisateurs et apporte des améliorations mesurables aux services du gouvernement;
 * dispose d’expérience en travail collaboratif avec des développeurs et des chercheurs afin d’élaborer rapidement des prototypes;
-* communique efficacement oralement et par écrit en français et en anglais (profil linguistique CBC au gouvernement).
+* le bilinguisme (anglais et français) sera considéré comme un atout important.
 
 Nous comprenons que nous disposons de compétences et d’expériences différentes, et que nous ne pouvons pas tous répondre à tous les critères. Posez quand même votre candidature! Dites-nous pourquoi vous êtes la personne que nous recherchons.
 
