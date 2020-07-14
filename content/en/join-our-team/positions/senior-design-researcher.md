@@ -21,7 +21,7 @@ You will also mentor, train and carry out activities designed to up-skill other 
 
 You’ll communicate insights from research in engaging and impactful ways to delivery teams, senior stakeholders and partner departments to drive change and improve government services.
 
-This role is classified as a EC-06 in the Economics and Social Science Services group.
+This role is classified as a [EC-06](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=4#tocxx320842) in the Economics and Social Science Services group.
 
 ## What you’ll be doing:
 
