@@ -25,14 +25,14 @@ This role is classified as a [EC-06](https://www.tbs-sct.gc.ca/agreements-conven
 
 ## What you’ll be doing:
 
-* leading the planning, design, facilitation, analysis and reporting of design research to understand people’s needs and behaviours and inform the design and development of government services. 
-* influencing how decisions are made and constructively challenging ways of thinking at both the team and senior stakeholder level.
-* leading research with other members in a digital delivery team, mentoring and up-skilling junior researchers and supporting the growth and development of the team. 
-* taking a human centered, evidence-based approach by turning design research findings into actionable insights that influence service/product development
-* supporting digital delivery teams to build accessible digital services by ensuring that participants with access needs and low digital skills are included in all research
-* clearly and confidently communicating insights from research and examples of best practice to technical and non-technical audiences, including senior decision makers across the government
-* aligning design research activities with wider organisational objectives to provide strategic insights that inform service and policy design
-* identifying, mitigating or escalating risks to conducting and implementing research
+* Leading the planning, design, facilitation, analysis and reporting of design research to understand people’s needs and behaviours and inform the design and development of government services; 
+* Influencing how decisions are made and constructively challenging ways of thinking at both the team and senior stakeholder level;
+* Leading research with other members in a digital delivery team, mentoring and up-skilling junior researchers and supporting the growth and development of the team; 
+* Taking a human centered, evidence-based approach by turning design research findings into actionable insights that influence service/product development;
+* Supporting digital delivery teams to build accessible digital services by ensuring that participants with access needs and low digital skills are included in all research;
+* Clearly and confidently communicating insights from research and examples of best practice to technical and non-technical audiences, including senior decision makers across the government;
+* Aligning design research activities with wider organisational objectives to provide strategic insights that inform service and policy design;
+* Identifying, mitigating or escalating risks to conducting and implementing research.
 
 ## What we’re looking for:
 
