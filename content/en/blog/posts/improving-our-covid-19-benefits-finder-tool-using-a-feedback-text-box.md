@@ -20,6 +20,8 @@ We conducted design research throughout the product build, facilitating multiple
 
 One of the ways we collected live data was through a feedback form with a feedback text box. Canada.ca specifications require a ‘Report a problem or a mistake on this page’ form on every page. A feedback box feature is also available for web pages as part of the Canada.ca design system. We modified the options to more specifically fit our product’s content. We added a feedback text box because we decided as a team that we needed to understand when people report “confusing” or “incorrect information,” what people specifically found confusing or incorrect about the tool. The open text provided informative data for ways we could improve our tool. 
 
+![A screenshot of the feedback box in the Find financial help during COVID-19 tool.](/img/cds/adrianne-blog-screenshot-en.jpg)
+
 Although we didn't intend to, we learned a lot about how we can improve government services in general too.
 
 The feedback we received was in real-time, and helped us identify areas where the tool wasn't meeting the needs of the people using it. It also helped inform the team on future research questions to address.

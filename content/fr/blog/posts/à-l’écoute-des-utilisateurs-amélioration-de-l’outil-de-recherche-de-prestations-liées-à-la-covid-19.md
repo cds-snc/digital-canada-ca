@@ -26,6 +26,8 @@ Tout au long du développement du produit, nous avons mené des recherches sur l
 
 Nous avons notamment recueilli des données en temps réel au moyen d’un formulaire de rétroaction muni d’une zone de commentaires. Les spécifications de Canada.ca exigent qu’il y ait sur chaque page un formulaire intitulé « Signaler un problème ou une erreur sur cette page ». Une fonction de zone de commentaires est aussi possible pour les pages Web dans le cadre du système de conception de Canada.ca. Nous avons modifié les options pour mieux les adapter au contenu de notre produit. Nous avons ajouté une zone de commentaires parce que nous avons décidé, en tant qu’équipe, qu’il nous fallait bien comprendre ce que les gens veulent dire précisément au sujet de l’outil quand ils signalent que des renseignements sont « incorrects » ou « portent à confusion ». Le texte libre a fourni des données informatives sur diverses façons dont nous pouvions améliorer notre outil. Même si cela n’était pas notre but, nous avons beaucoup appris sur la façon d’améliorer les services gouvernementaux en général.
 
+![Capture d’écran de la zone de commentaires dans l’outil « Trouver de l’aide financière pendant la COVID-19 »](/img/cds/adrianne-blog-screenshot-fr.jpg)
+
 Les commentaires que nous avons reçus en temps réel nous ont aidés à cerner les domaines où l’outil ne répondait pas aux besoins des personnes qui l’utilisaient. Ces commentaires ont aussi éclairé l’équipe sur les questions de recherche qui devraient être abordées à l’avenir.
 
 ## Remédier aux problèmes
