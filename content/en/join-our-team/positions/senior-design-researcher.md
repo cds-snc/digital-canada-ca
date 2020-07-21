@@ -2,9 +2,9 @@
 layout: job-posting
 type: section
 title: Senior Design Researcher
-description: "We’re looking for an experienced Senior Design Researcher who is
+description: We’re looking for an experienced Senior Design Researcher who is
   passionate about delivering better government services and being a vocal
-  advocate for people’s needs."
+  advocate for people’s needs.
 archived: false
 leverId: 33a68ab6-d594-45e8-956e-7cd5c2950a4c
 translationKey: senior-design-researcher
@@ -45,7 +45,7 @@ This role is classified as a [EC-06](https://www.tbs-sct.gc.ca/agreements-conven
 * You bring diverse research audiences to help teams deliver accessible and inclusive digital services.
 * You can plan and conduct research in both English and French (in government terms, this role is CBC).
 
-We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
+We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes." Apply anyway! Tell us why you’re the right fit for the job.
 
 At CDS, we don’t just accept difference - we celebrate it. We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we can recognize and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 
