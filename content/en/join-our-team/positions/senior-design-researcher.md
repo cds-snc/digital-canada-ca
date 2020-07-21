@@ -4,9 +4,9 @@ type: section
 title: Senior Design Researcher
 description: "We’re looking for an experienced Senior Design Researcher who is
   passionate about delivering better government services and being a vocal
-  advocate for people’s needs. "
+  advocate for people’s needs."
 archived: false
-leverId: "33a68ab6-d594-45e8-956e-7cd5c2950a4c "
+leverId: 33a68ab6-d594-45e8-956e-7cd5c2950a4c
 translationKey: senior-design-researcher
 ---
 The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital services. We’re here to improve people’s lives by changing how the government builds technology. We do this by putting people’s needs and concerns front and centre. Every experience Canadians have with their government should be safe, fast, easy, transparent, and accessible. We are working in the open to help everyone across government improve service delivery. We need you.
