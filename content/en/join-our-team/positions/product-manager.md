@@ -1,7 +1,7 @@
 ---
 title: "Product Manager"
 description: "The role we’re looking to fill is a career-defining opportunity for someone passionate about using product management to transform public services as part of a world-class team of engineers, designers, and researchers who share a vision of better public services in Canada."
-aliases: ['/gestionnaire-de-produits/']
+aliases: [/gestionnaire-de-produits/]
 archived: true
 layout: page
 type: section
