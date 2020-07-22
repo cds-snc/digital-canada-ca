@@ -7,7 +7,7 @@ description: Le rôle constitue une occasion déterminante dans une carrière po
   transformer les services publics au sein d’une équipe d’ingénieurs, de
   concepteurs et de chercheurs de calibre international qui ont une vision
   commune de créer de meilleurs services publics au Canada.
-archived: false
+archived: true
 leverId: 62de6655-f952-4be2-bf43-d077d5b624e2
 translationKey: product-managere
 ---
