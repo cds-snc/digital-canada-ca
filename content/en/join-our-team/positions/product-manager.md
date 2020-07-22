@@ -5,6 +5,7 @@ aliases: [/gestionnaire-de-produits/]
 archived: true
 layout: page
 type: section
+translationKey: product-manager
 ---
 
 The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital services. We’re here to improve people’s lives by changing how the government builds technology. We do this by putting people’s needs and concerns front and centre. Every experience Canadians have with their government should be safe, fast, easy, transparent, and accessible. We are working in the open to help everyone across government improve service delivery. We need you.
