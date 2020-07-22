@@ -9,7 +9,7 @@ description: Le rôle constitue une occasion déterminante dans une carrière po
   commune de créer de meilleurs services publics au Canada.
 archived: true
 leverId: 62de6655-f952-4be2-bf43-d077d5b624e2
-translationKey: product-managere
+translationKey: product-manager
 ---
 Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Nous sommes ici pour améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des citoyens au premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être sécuritaire, rapide, facile, transparente et accessible. Nous travaillons ouvertement pour aider tout le monde au sein du gouvernement à améliorer la prestation des services. Nous avons besoin de vous.
 
@@ -18,6 +18,7 @@ Le rôle constitue une occasion déterminante dans une carrière pour une person
 Les produits que vous livrerez rendront les services du gouvernement plus rapides, plus simples et plus fiables. Vous aurez la possibilité de collaborer et de dialoguer avec des utilisateurs et des équipes de l’ensemble du gouvernement. Ce travail sera créatif, enrichissant et à grande visibilité.
 
 ## Assurer un leadership en matière de gestion de produits
+
 À titre de gestionnaire de produits, vous aiderez le SNC et ses partenaires à s’acquitter de leurs responsabilités, soit :
 
 * Fournir des connaissances approfondies sur les besoins des utilisateurs et les défendre dans le cadre de la livraison de vos produits et de la prestation des services que vous soutenez.
@@ -28,16 +29,16 @@ Les produits que vous livrerez rendront les services du gouvernement plus rapide
 * Communiquer les avantages des produits et partager l’expérience de la prestation afin d’obtenir une acceptation organisationnelle et d’établir la capacité des autres.
 
 ## Mettez vos compétences et expériences à contribution
+
 Nous nous attendons à ce que vous puissiez démontrer les capacités essentielles suivantes :
 
-* créativité et passion pour la résolution de problèmes par l’utilisation de données quantitatives et qualitatives sur les utilisateurs, les services et la technologie;
-* avoir fait ses preuves quant à l’élaboration de dossier d’analyse et de plans de livraison pour les produits qui ont une portée et une incidence importantes;
-* expérience de la direction de l’élaboration, de la diffusion et de l’amélioration continue de produits numériques à différentes étapes de la prestation;
-* maîtrise des techniques de gestion de produits agiles, comme la rédaction d’histoires d’utilisateurs, la priorisation de la liste de production, l’élaboration de feuilles de route et la production de rapports par rapport aux paramètres de réussite;
-* capacité à coordonner et à motiver plusieurs équipes de développeurs, de concepteurs et de chercheurs, et posséder une expérience d’avoir assumé des fonctions semblables et d’avoir travaillé dans des équipes précédemment;
-capacité à communiquer de façon persuasive par divers canaux, par exemple, des conférences, des billets de blogue et des démonstrations de produits, à un éventail de publics cibles;
-* habitudes d’être organisé, d’agir, d’apprendre par l’action et d’aider les autres à atteindre leurs objectifs.
-
+* Créativité et passion pour la résolution de problèmes par l’utilisation de données quantitatives et qualitatives sur les utilisateurs, les services et la technologie;
+* Avoir fait ses preuves quant à l’élaboration de dossier d’analyse et de plans de livraison pour les produits qui ont une portée et une incidence importantes;
+* Expérience de la direction de l’élaboration, de la diffusion et de l’amélioration continue de produits numériques à différentes étapes de la prestation;
+* Maîtrise des techniques de gestion de produits agiles, comme la rédaction d’histoires d’utilisateurs, la priorisation de la liste de production, l’élaboration de feuilles de route et la production de rapports par rapport aux paramètres de réussite;
+* Capacité à coordonner et à motiver plusieurs équipes de développeurs, de concepteurs et de chercheurs, et posséder une expérience d’avoir assumé des fonctions semblables et d’avoir travaillé dans des équipes précédemment;
+  capacité à communiquer de façon persuasive par divers canaux, par exemple, des conférences, des billets de blogue et des démonstrations de produits, à un éventail de publics cibles;
+* Habitudes d’être organisé, d’agir, d’apprendre par l’action et d’aider les autres à atteindre leurs objectifs.
 
 Nous comprenons que nous disposons de compétences et d’expériences différentes, et que nous ne pouvons pas tous répondre à tous les critères. Posez quand même votre candidature! Dites-nous pourquoi vous êtes la personne que nous recherchons.
 
