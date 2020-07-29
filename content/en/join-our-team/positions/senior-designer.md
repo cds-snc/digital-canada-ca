@@ -4,7 +4,7 @@ type: section
 title: Senior Designer
 description: Designers are also responsible for creating intelligent, simple
   interactions that allow users to achieve their goals quickly and easily.
-archived: false
+archived: true
 leverId: f0f81910-2dbc-4bd8-a30f-ce68ec2b3704
 translationKey: senior-designer
 ---

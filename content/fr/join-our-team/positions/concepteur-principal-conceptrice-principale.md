@@ -5,7 +5,7 @@ title: Concepteur principal/Conceptrice principale
 description: Les concepteurs et conceptrices sont également responsables de la
   création d’interactions intelligentes et simples qui permettent aux
   utilisateurs d’atteindre leurs objectifs rapidement et facilement.
-archived: false
+archived: true
 leverId: e4a2a2a6-213f-44e9-a039-1f80f287892f
 translationKey: senior-designer
 ---
