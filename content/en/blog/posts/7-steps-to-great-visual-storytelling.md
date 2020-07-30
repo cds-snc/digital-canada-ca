@@ -1,10 +1,9 @@
 ---
 layout: blog
 title: 7 steps to great visual storytelling
-description: >-
-  Are you looking to make your communications more effective? Let images help
-  you enhance your messages.
-author: 'Philippe Tardif, Visual Storyteller'
+description: Are you looking to make your communications more effective? Let
+  images help you enhance your messages.
+author: Philippe Tardif, Visual Storyteller
 date: 2020-01-28T15:02:30.012Z
 image: /img/cds/visual-storyteller.jpg
 image-alt: A picture of a man at a computer designing a visual story about outer space.
@@ -12,6 +11,27 @@ translationKey: visual-storyteller-blog
 thumb: /img/cds/thumbnails/visual-storyteller.jpg
 processed: 1581626586748
 ---
+
+
+```
+ <div>
+  <table>
+       <tbody>
+           <tr>
+               <td class="diary-text">
+               <p>I’m happy things are resonating with our English audience, but I wonder why it’s not resonating with our French audience in the same way. We want the newsletter to have the same value for people regardless of what language they’re reading it in.</p>
+               <p>I met with Élise today to talk about how we can figure out a way to improve the uptake of our French newsletter.  <span class="bold">We’re assuming the reason readership is low is because we’re missing the mark with our content and how we’re presenting it in French.</span> Afterall, content is king, right?</p>
+               </td>
+               <td class="diary-img">
+                   <img src="/img/cds/improving-covid-alert1-en.jpg" alt="Test">
+               </td>
+           </tr>
+       </tbody>
+   </table>
+ 
+ <div>
+```
+
 Are you looking to make your communications more effective? Let images help you enhance your messages.
 
 ## Visual storytelling and narrative visions
@@ -78,5 +98,3 @@ Visual Storytelling is the art of transmitting a message through evocative visua
 You don't have to be a professional Visual Storyteller to ensure that your communications have a positive and lasting impact. In short, images are so much more powerful than you could ever imagine them to be.
 
 Sources : (1) Merieb, E. N. & Hoehn, K. (2007). Human Anatomy & Physiology 7th Edition, Pearson International Edition. (2)Thorpe, S., Fize, D. & Marlot, C. (1996). Speed of processing in the human visual system. Nature (381). (3) Hauk, O., Davis, M.H., Ford, M., Pulvermüller, F., Marslen-Wilson, W.D. (2006). The time course of visual word recognition as revealed by linear regression analysis of ERP data. NeuroImage (30).
-
-
