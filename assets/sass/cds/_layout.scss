@@ -317,6 +317,37 @@ td {
 	}
 }
 
+// Style for text image wrap in blog posts
+
+.flex-blog {
+  display: flex;
+  flex-direction: row;
+
+  @include mobile_only {
+    display: block;
+  }
+
+  .flex-text {
+    width: 65%;
+    margin-right: 15px;
+    @include mobile_only {
+      width: 100%;
+      margin-right: 0;
+    }
+  }
+  
+  .flex-image {
+    width: 35%;
+    height: 100%;
+    
+    @include mobile_only {
+      width: 80%;
+      margin: 20px 0;
+    }
+
+  }
+}
+
 // Style for Field Note tables (in our Blog section)
 .field-note {
   .bold {
