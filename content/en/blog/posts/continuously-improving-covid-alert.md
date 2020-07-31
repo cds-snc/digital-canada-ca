@@ -129,9 +129,9 @@ processed: 1596212015012
                 <img class="flex-image" src="/img/cds/improving-covid-alert1-en.jpg"
                    alt="A screenshot from COVID Alert’s introduction screen, saying: Your privacy is safe. COVID Alert does not use GPS or location services. It has no way of knowing: Your location. Your name or address. Your phone’s contacts. Your health information. The health information of anyone you’re near.">
            </div>
-            <p> Based on the OPC’s feedback, we removed the word “anonymous” from the app and replaced it with more specific text
-               explaining how people’s privacy is safe.</p>
-            <p>The COVID Alert app and the Apple/Google Bluetooth technology that it runs on have been carefully
+            <!-- <p> Based on the OPC’s feedback, we removed the word “anonymous” from the app and replaced it with more specific text
+               explaining how people’s privacy is safe.</p> -->
+            <!-- <p>The COVID Alert app and the Apple/Google Bluetooth technology that it runs on have been carefully
                designed to maximize people’s privacy. The app doesn’t have any way of knowing your location, your name
                or address, your phone contacts, your health information, or the health information of anyone you’re
                near. When you get an alert that you were exposed to someone with COVID-19, neither you nor the app can
@@ -151,10 +151,8 @@ processed: 1596212015012
                whatsoever that a person could be identified, however, and although we all agreed that while there’s a
                very, very low risk that someone could be re-identified through the app, it isn’t necessarily zero.
                Someone living in a remote area and only interacting with one or two other people could theoretically be
-               identified by their neighbours if they received exposure notification alerts, for example. </p>
-           <p>More importantly, exposure notifications exist in a bigger ecosystem of public health response efforts
-               led by provincial and territorial governments (including manual contact tracing), and using the word
-               “anonymous” might give people an incorrect impression of this broader ecosystem. Based on the OPC’s
+               identified by their neighbours if they received exposure notification alerts, for example. </p> -->
+           <p>Based on the OPC’s
                feedback, we removed the word “anonymous” from the app and replaced it with more specific text
                explaining how people’s privacy is safe.</p>
             <hr>
