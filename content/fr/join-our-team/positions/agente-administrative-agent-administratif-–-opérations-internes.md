@@ -6,7 +6,7 @@ description: Nous sommes à la recherche d’un(e) agent(e) administratif(ve) qu
   travaillera avec notre équipe des opérations internes.
 archived: true
 leverId: e5389c99-39b8-4cc7-ae51-72b78146ac2f
-translationKey: administrative-assistant
+translationKey: administrative-officer
 ---
 Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Nous sommes ici pour améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des citoyens au premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être sécuritaire, rapide, facile, transparente et accessible. Nous travaillons ouvertement pour aider tout le monde au sein du gouvernement à améliorer la prestation des services. Nous avons besoin de vous.
 
