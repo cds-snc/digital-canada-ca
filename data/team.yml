@@ -155,16 +155,6 @@ exec:
       en: Interim Head of Design Research
       fr: Chef par intérim de la recherche en conception
   - archived: false
-    email: Ross.Ferguson@tbs-sct.gc.ca
-    image-name: /img/cds/ross-ferguson.jpg
-    linkedin: rossferguson
-    name: Ross Ferguson
-    processed: 1552050695387
-    title:
-      en: Director of Platform
-      fr: Chef de la prestation des services
-    twitter: rossferg
-  - archived: false
     email: sage.cram@tbs-sct.gc.ca
     image-name: /img/cds/sage-cram.jpg
     name: Sage Cram
@@ -418,15 +408,6 @@ team:
       en: Design
       fr: Conception
   - archived: false
-    email: Khalid.Elaggan@tbs-sct.gc.ca
-    image-name: /img/cds/khalid-elaggan.jpg
-    linkedin: khalidelaggan
-    name: Khalid Elaggan
-    processed: 1552050695392
-    title:
-      en: Development
-      fr: Développement
-  - archived: false
     email: Lesley.Wheldrake@tbs-sct.gc.ca
     image-name: /img/cds/lesley-wheldrake.jpg
     name: Lesley Wheldrake
@@ -648,11 +629,3 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: yaelberger
-  - archived: false
-    email: zoe.ritchford@tbs-sct.gc.ca
-    image-name: /img/cds/zoe-richford.jpg
-    name: Zoe Ritchford
-    processed: 1552050695395
-    title:
-      en: Internal Operations
-      fr: Opérations internes
