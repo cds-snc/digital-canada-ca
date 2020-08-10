@@ -28,7 +28,7 @@ exec:
     processed: 1552050695385
     title:
       en: Chief Operating Officer
-      fr: Directeur de l’exploitation
+      fr: Chef des opérations
     twitter: anatolep
   - archived: false
     email: Andrea.Gilbrook@tbs-sct.gc.ca
@@ -41,6 +41,15 @@ exec:
       fr: Chef du talent
     twitter: andreagilbrook
   - archived: false
+    email: andreanne.trudeau@tbs-sct.gc.ca
+    image-name: /img/cds/andreanne-trudeau.jpg
+    linkedin: andreannetrudeau
+    name: Andréanne Trudeau
+    title:
+      en: Head of Product Management
+      fr: Chef de la gestion de produits
+    processed: 1587584291180
+  - archived: false
     email: chelsea.novak@tbs-sct.gc.ca
     github: chelseanovak
     image-name: /img/cds/chelsea-novak.jpg
@@ -52,16 +61,6 @@ exec:
       fr: Chef de liaison et diffusion
     twitter: herhighnessness
   - archived: false
-    email: Christopher.Govias@tbs-sct.gc.ca
-    image-name: /img/cds/chris-govias.jpg
-    linkedin: cgovias
-    name: Chris Govias
-    processed: 1552050695385
-    title:
-      en: Chief of Design
-      fr: Chef de la conception
-    twitter: cgovias
-  - archived: false
     email: Colin.MacArthur@tbs-sct.gc.ca
     image-name: /img/cds/colin-mcarthur.jpg
     linkedin: colinpmacarthur
@@ -72,15 +71,6 @@ exec:
       fr: Directeur par intérim des communautés
     twitter: colinpmacarthur
   - archived: false
-    email: Courtney.Claessens@tbs-sct.gc.ca
-    image-name: /img/cds/courtney-claessens.jpg
-    linkedin: courtneyclaessens
-    name: Courtney Claessens
-    processed: 1552050695390
-    title:
-      en: Interim Head of Product Management
-      fr: Chef par intérim de la gestion de produits
-  - archived: false
     email: Eman.El-Fayomi@tbs-sct.gc.ca
     image-name: /img/cds/eman-elfayomi.jpg
     linkedin: eelfayomi
@@ -90,6 +80,17 @@ exec:
       en: Head of Design
       fr: Chef de la conception
     twitter: emanelfy
+  - archived: false
+    email: jeff.maher@tbs-sct.gc.ca
+    github: jeffmaher
+    image-name: /img/cds/jeff-maher.jpg
+    linkedin: jeffmaher
+    name: Jeff Maher
+    processed: 1560521882135
+    title:
+      en: Interim Head of Software Development
+      fr: Chef par intérim du développement logiciel
+    twitter: plusjeff
   - email: Jennifer.Morin@tbs-sct.gc.ca
     image-name: /img/cds/jennifer-morin1.jpg
     name: Jennifer Morin
@@ -113,8 +114,8 @@ exec:
     name: John O'Brien
     processed: 1552050695386
     title:
-      en: Interim Head of Development and Security
-      fr: Chef par intérim du développement et de la sécurité
+      en: Head of Security
+      fr: Chef de la sécurité
     twitter: boardom_ca
   - archived: false
     email: Joshua.Ruihley@tbs-sct.gc.ca
@@ -275,23 +276,14 @@ team:
       fr: Gestion de produits
     twitter: ClementineHahn
   - archived: false
-    email: Damien.Trudel@tbs-sct.gc.ca
-    image-name: /img/cds/damien-trudel.jpg
-    name: Damien Trudel
-    processed: 1552050695390
-    title:
-      en: Security
-      fr: Sécurité
-  - archived: false
-    github: danprime
-    image-name: /img/cds/daniel-tse.jpg
-    linkedin: danielmktse
-    name: Daniel Tse
+    email: Courtney.Claessens@tbs-sct.gc.ca
+    image-name: /img/cds/courtney-claessens.jpg
+    linkedin: courtneyclaessens
+    name: Courtney Claessens
     processed: 1552050695390
     title:
       en: Product Management
       fr: Gestion de produits
-    twitter: danprime
   - archived: false
     github: dsamojlenko
     image-name: /img/cds/dave-samojlenko.jpg
@@ -362,17 +354,6 @@ team:
       en: Design Research
       fr: Recherche en conception
   - archived: false
-    email: jeff.maher@tbs-sct.gc.ca
-    github: jeffmaher
-    image-name: /img/cds/jeff-maher.jpg
-    linkedin: jeffmaher
-    name: Jeff Maher
-    processed: 1560521882135
-    title:
-      en: Development
-      fr: Développement
-    twitter: plusjeff
-  - archived: false
     email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.jpg
     name: Jennifer Fletcher
@@ -397,6 +378,7 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: buttonjohanna
+    processed: 1587584291183
   - archived: false
     email: john.kenney@tbs-sct.gc.ca
     image-name: /img/cds/john-kenney.jpg
@@ -425,28 +407,6 @@ team:
     title:
       en: Design
       fr: Conception
-  - archived: false
-    email: keith.emmerson@tbs-sct.gc.ca
-    github: keithiopia
-    image-name: /img/cds/keith-emmerson.jpg
-    linkedin: keithemmerson
-    name: Keith Emmerson
-    processed: 1560521882136
-    title:
-      en: Design
-      fr: Conception
-    twitter: keithEmmerson
-  - archived: false
-    email: leon.lukashevsky@tbs-sct.gc.ca
-    github: leonL
-    image-name: /img/cds/leon-lukashevsky.jpg
-    linkedin: le0nl
-    name: Leon Lukashevsky
-    processed: 1552050695392
-    title:
-      en: Development
-      fr: Développement
-    twitter: le0nL
   - archived: false
     email: Lesley.Wheldrake@tbs-sct.gc.ca
     image-name: /img/cds/lesley-wheldrake.jpg
@@ -519,26 +479,6 @@ team:
       en: Policy
       fr: Politiques
     processed: 1575304321711
-  - archived: false
-    email: michelle.ngai@tbs-sct.gc.ca
-    image-name: /img/cds/michelle-ngai.jpg
-    linkedin: ilovedesign
-    name: Michelle Ngai
-    processed: 1552050695393
-    title:
-      en: Design
-      fr: Conception
-    twitter: itsMichelleNgai
-  - archived: false
-    email: mike.williamson@tbs-sct.gc.ca
-    github: sleepycat
-    image-name: /img/cds/mike-williamson.jpg
-    name: Mike Williamson
-    processed: 1552050695393
-    title:
-      en: Development
-      fr: Développement
-    twitter: dexterchief
   - archived: false
     email: nick.makuch@tbs-sct.gc.ca
     github: nmakuch

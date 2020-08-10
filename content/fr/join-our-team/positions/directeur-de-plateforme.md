@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: Directeur de plateforme
+title: Directeur/directrice de plateforme
 description: >-
   Nous recherchons une directrice ou un directeur de plateforme qui assurera
   avec succès la réalisation des produits et services de plateforme. L’unité de
@@ -9,7 +9,7 @@ description: >-
   services, ressources et composants communs et bien conçus qui répondent aux
   besoins de prestation de services du gouvernement du Canada tout en faisant
   avancer la mission du SNC.
-archived: false
+archived: true
 leverId: 4874d95f-a569-43dc-a237-b503d91cacaf
 translationKey: director-of-platform
 ---
@@ -47,4 +47,4 @@ Nous nous engageons à fournir un environnement de travail inclusif et sans obst
 
 [Mesures d’adaptation en matière d’évaluation](https://www.canada.ca/fr/commission-fonction-publique/services/mesures-d-adaptation-matiere-evaluation.html)
 
-Par prudence, toutes les entrevues seront menées par vidéo ou téléconférence pour un futur proche. Si vous avez des questions à ce sujet, veuillez écrire à [cdsrecruitment.recrutementSNC@tbs-sct.gc.ca](mailto:mailto:cdsrecruitment.recrutementSNC@tbs-sct.gc.ca).
+Par prudence, toutes les entrevues seront menées par vidéo ou téléconférence pour un futur proche. 

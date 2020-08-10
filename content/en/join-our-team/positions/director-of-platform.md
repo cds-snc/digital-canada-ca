@@ -8,7 +8,7 @@ description: >-
   creating, incubating and supporting well-designed common products, services,
   components, and resources that meet the service delivery needs of the
   Government of Canada while advancing the mission of CDS.
-archived: false
+archived: true
 leverId: c2c518dd-26a5-4ebd-aa01-b339cf52155c
 translationKey: director-of-platform
 ---
@@ -45,5 +45,4 @@ We are committed to providing an inclusive and barrier-free work environment, st
 
 [Assessment accommodation](https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html)
 
-Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future. If you have any questions about this, please reach out to [cdsrecruitment.recrutementSNC@tbs-sct.gc.ca](mailto:cdsrecruitment.recrutementSNC@tbs-sct.gc.ca).
-
+Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future. 

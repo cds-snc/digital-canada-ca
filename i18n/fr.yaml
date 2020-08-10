@@ -59,7 +59,7 @@ partnerships:
 partnerships-contact-us:
   other: "Communiquez avec nous"
 partnerships-intro:
-  other: "Au Service numérique canadien, nous établissons des partenariats avec les ministères fédéraux pour concevoir, tester et bâtir des services simples et faciles à utiliser. Notre objectif est d’améliorer l’expérience des personnes qui fournissent les services gouvernementaux tout comme celle des personnes qui les utilisent."
+  other: "Au Service numérique canadien (SNC), nous établissons des partenariats avec les ministères fédéraux pour concevoir, tester et bâtir des services simples et faciles à utiliser. Notre objectif est d’améliorer l’expérience des personnes qui fournissent les services gouvernementaux tout comme celle des personnes qui les utilisent."
 partnerships-how-it-works:
   other: "Fonctionnement"
 partnerships-how-we-do-it-1st:
@@ -132,6 +132,18 @@ terms-and-conditions:
   other: "Avis"
 terms-link:
   other: "/transparence/avis/"
+tools-and-resources-platform-title: 
+  other: "Outils de plateforme"
+tools-and-resources-platform-description-1st: 
+  other: "Les équipes de prestation de services dans l’ensemble du gouvernement sont confrontées à de nombreux défis lors de la création de services numériques. Nous pensons que certains de ces problèmes peuvent être résolus par un ensemble commun d’outils, de technologies et de processus partagés entre les ministères."
+tools-and-resources-platform-description-2nd: 
+  other: "Notre équipe construit ces composants — également connus sous le nom de produits de plateforme — que les ministères peuvent mettre en place pour leurs services au lieu de devoir les créer de toutes pièces. Par exemple, tous les ministères peuvent utiliser notre outil Notification s’ils ont besoin d’envoyer des mises à jour par courriel ou par message texte aux fonctionnaires ou à la population canadienne."
+tools-and-resources-platform-description-3rd: 
+  other: "L’avantage d’utiliser des produits de plateforme est que cela permet aux ministères de concentrer leurs efforts sur les détails propres à leurs services. Voici les produits de plateforme que nous avons mis au point et que votre ministère peut utiliser :"
+tools-and-resources-resources-title: 
+  other: "Ressources"
+tools-and-resources-resources-description: 
+  other: "Voici des ressources développées par nos équipes ici au Service numérique canadien (SNC). Elles sont à la disposition de tous, à l’intérieur comme à l’extérieur du gouvernement, et elles peuvent vous aider à élaborer de nouvelles solutions de prestation de services grâce à des pratiques exemplaires en matière de conception, de recherche, de politique et de gestion de produits."
 top-of-page:
   other: "Haut de la page"
 trans-abbr-switch:
@@ -224,3 +236,6 @@ what-were-working-on:
   other: "Sur quoi travaillons-nous?"
 who-is-on-the-team:
   other: "Qui est dans l'équipe"
+options-below:
+  other: "using one of the options below"
+  

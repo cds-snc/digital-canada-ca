@@ -216,7 +216,7 @@ collections:
           - {label: email, name: email, widget: string}
           - {label: youtube, hint: "Username Only", name: youtube, widget: string}
           - {label: github, hint: "Username Only", name: github, widget: string}
-          - {label: linkedin, hint: "Username Only", name: github, widget: string}
+          - {label: linkedin, hint: "Username Only", name: linkedin, widget: string}
           - label: medium
             name: medium
             widget: object
