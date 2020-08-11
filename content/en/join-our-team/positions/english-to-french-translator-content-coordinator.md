@@ -6,7 +6,7 @@ description: "The Translator role is absolutely essential to ensure that we can
   fulfill our mandate in both official languages and to contribute to the
   on-going improvement of our team, and the content and bilingual standards
   across the organization. "
-archived: false
+archived: true
 leverId: 254a0b5c-f8b1-4cb3-8eb7-6c650d10ccfa
 translationKey: english-to-french-translator
 ---
