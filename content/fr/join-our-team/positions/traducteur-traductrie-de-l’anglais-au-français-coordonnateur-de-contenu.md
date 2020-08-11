@@ -6,7 +6,7 @@ description: "Le rôle de traducteur ou de traductrice est essentiel afin de nou
   assurer de respecter notre mandat dans les deux langues officielles et de
   contribuer à l’amélioration continue de notre équipe, ainsi que du contenu et
   des normes bilingues à l’échelle de l’organisation. "
-archived: false
+archived: true
 leverId: 4752a92a-843a-4453-aaff-e826cc1af6d5
 translationKey: english-to-french-translator
 ---
