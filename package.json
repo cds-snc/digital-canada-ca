@@ -18,7 +18,7 @@
     "sharp": "^0.25.4",
     "snyk": "^1.363.0",
     "style-loader": "^0.23.1",
-    "webpack": "^4.43.0"
+    "webpack": "^4.44.0"
   },
   "devDependencies": {
     "node-yaml": "^3.2.0",
