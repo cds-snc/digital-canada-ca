@@ -16,9 +16,9 @@
     "serialize-javascript": "^3.1.0",
     "set-value": "^3.0.2",
     "sharp": "^0.25.4",
-    "snyk": "^1.364.0",
+    "snyk": "^1.369.0",
     "style-loader": "^0.23.1",
-    "webpack": "^4.44.0"
+    "webpack": "^4.44.1"
   },
   "devDependencies": {
     "node-yaml": "^3.2.0",
