@@ -28,7 +28,6 @@ Notify est une plateforme SaaS qui permet aux organisations d’envoyer des avis
 * Capacité de coder avec Python (pour les applications Web dorsales “backend”), HTML, JavaScript et CSS
 * Capacité de lire JSON et de travailler avec des API (interfaces de programmation d’applications)
 * Expérience antérieure avec les services Web d’Amazon (AWS)
-
   * En particulier : CloudWatch, EKS, Alarms, SNS, SES, SQS
 * Connaissance de l’infrastructure en code
 * Expérience de travail dans un environnement agile
