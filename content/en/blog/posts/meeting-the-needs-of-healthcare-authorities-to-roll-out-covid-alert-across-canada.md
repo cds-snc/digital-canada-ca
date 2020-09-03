@@ -68,7 +68,7 @@ To further reduce cognitive load of healthcare workers and alleviate the anxieti
 
 For example, we created a phonetic alphabet that could be provided alongside the generated key. This makes it easier for the healthcare worker to read out the one-time key over the phone, and also makes it easier for the patient to enter the correct key into the app. 
 
-![[Screenshot of the 10 digit alphanumeric one-time key 284 FKQ 8889. Underneath are instructions on how to read it out. “To read this phonetically: Two. eight. Four. F as in family. K as in kangaroo. Q as in question. Eight. Eight. Eight. Nine.”](/img/cds/app-portal-blog-1-en.jpg)
+![Screenshot of the 10 digit alphanumeric one-time key 284 FKQ 8889. Underneath are instructions on how to read it out. “To read this phonetically: Two. eight. Four. F as in family. K as in kangaroo. Q as in question. Eight. Eight. Eight. Nine](/img/cds/app-portal-blog-1-en.jpg)
 
 ## Help us continuously improve
 
