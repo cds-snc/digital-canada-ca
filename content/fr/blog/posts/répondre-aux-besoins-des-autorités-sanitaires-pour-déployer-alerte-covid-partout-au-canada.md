@@ -1,19 +1,22 @@
 ---
 layout: blog
-title: Répondre aux besoins des autorités sanitaires pour déployer Alerte COVID
+title: >-
+  Répondre aux besoins des autorités sanitaires pour déployer Alerte COVID
   partout au Canada
-description: Ce billet de blogue explique comment la conception de services est
-  appliquée à Alerte COVID de sorte que l’application fonctionne pour
-  différentes autorités sanitaires provinciales et territoriales tout en
-  répondant à leurs besoins et à ceux de leurs patients.
-author: " Brian Hendrick, Conception des services"
+description: >-
+  Ce billet de blogue explique comment la conception de services est appliquée à
+  Alerte COVID de sorte que l’application fonctionne pour différentes autorités
+  sanitaires provinciales et territoriales tout en répondant à leurs besoins et
+  à ceux de leurs patients.
+author: ' Brian Hendrick, Conception des services'
 date: 2020-09-03T13:39:00.473Z
 image: /img/cds/app-portal-blog-banner.jpg
-image-alt: Illustration d’une carte du Canada avec des patients et des
-  travailleurs de la santé dans diverses provinces et territoires.
+image-alt: >-
+  Illustration d’une carte du Canada avec des patients et des travailleurs de la
+  santé dans diverses provinces et territoires.
 translationKey: healthcare-portal-service-design
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/app-portal-blog-banner.jpg
+processed: 1599143371099
 ---
 [Alerte COVID](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html), l’application gratuite de notification d’exposition à la COVID-19 du gouvernement du Canada, a été téléchargée par plus de 2 millions de personnes. Bien que l’application elle-même soit le point de contact avec le public, il se passe des choses en coulisses sans quoi elle ne fonctionnerait pas.
 
