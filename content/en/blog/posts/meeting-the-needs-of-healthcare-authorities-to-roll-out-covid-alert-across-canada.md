@@ -1,19 +1,22 @@
 ---
 layout: blog
-title: Meeting the needs of healthcare authorities to roll out COVID Alert
-  across Canada
-description: This blog shares how service design is being applied to the COVID
-  Alert app to make sure it works with different provincial and territorial
-  healthcare authorities in order to meet their varying needs, and the needs of
-  their patients.
-author: Brian Hendrick, Service Design
+title: >-
+  Meeting the needs of healthcare authorities to roll out COVID Alert across
+  Canada
+description: >-
+  This blog shares how service design is being applied to the COVID Alert app to
+  make sure it works with different provincial and territorial healthcare
+  authorities in order to meet their varying needs, and the needs of their
+  patients.
+author: 'Brian Hendrick, Service Design'
 date: 2020-09-03T13:29:16.969Z
 image: /img/cds/app-portal-blog-banner.jpg
-image-alt: "A map of Canada showing patients and healthcare workers in different
-  provinces and territories. "
+image-alt: >-
+  A map of Canada showing patients and healthcare workers in different provinces
+  and territories. 
 translationKey: healthcare-portal-service-design
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/app-portal-blog-banner.jpg
+processed: 1599143371197
 ---
 [COVID Alert](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), the free Government of Canada exposure notification app for COVID-19, has been downloaded by over 2 million people. While the app itself is the public-facing touchpoint, there are things going on behind the scenes that enable it to do what it’s designed to do. 
 
