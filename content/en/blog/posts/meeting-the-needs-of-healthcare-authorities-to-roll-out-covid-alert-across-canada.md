@@ -70,7 +70,7 @@ For example, we created a phonetic alphabet that could be provided alongside the
 
 ![[Screenshot of the 10 digit alphanumeric one-time key 284 FKQ 8889. Underneath are instructions on how to read it out. “To read this phonetically: Two. eight. Four. F as in family. K as in kangaroo. Q as in question. Eight. Eight. Eight. Nine.”](/img/cds/app-portal-blog-1-en.jpg)
 
-### Help us continuously improve
+## Help us continuously improve
 
 Our team is working hard to provide a solution that meets the needs of healthcare workers and patients across Canada, to make generating and entering one-time keys into the app as simple as possible. We strive to continuously improve the process as we roll out across Canada. 
 
