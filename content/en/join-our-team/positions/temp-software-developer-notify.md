@@ -28,7 +28,6 @@ Notify is a SaaS platform that allows organizations to send email and text messa
 * Can code in Python (for backend web apps), HTML, JavaScript, and CSS
 * Can read JSON and work with APIs
 * Has worked with Amazon Web Services
-
   * Especially: CloudWatch, EKS, Alarms, SNS, SES, SQS
 * Familiarity with infrastructure as code practices
 * Experience working in agile environments
