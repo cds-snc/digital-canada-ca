@@ -5,7 +5,7 @@ title: Senior / Principal Software Developer
 description: We’re hiring Senior and Principal Software Developers. While we
   have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work
   distributedly and equally value candidates in other parts of Canada.
-archived: false
+archived: true
 leverId: 3bd6f7cd-339b-48a3-8d9e-e50b40dc4ecf
 translationKey: senior-principal-software-dev
 ---

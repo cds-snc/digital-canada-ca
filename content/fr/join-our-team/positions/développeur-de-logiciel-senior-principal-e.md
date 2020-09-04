@@ -6,7 +6,7 @@ description: Nous recrutons des Développeurs de logiciel principal(e) et senior
   Bien que nous ayons des bureaux à Ottawa, Montréal, Toronto et Kitchener, nous
   travaillons en grande partie de manière distribuée et nous embauchons
   également des candidats dans d'autres régions du Canada.
-archived: false
+archived: true
 leverId: 74131acc-faf9-4a96-b734-ab2445f671db
 translationKey: senior-principal-software-dev
 ---
