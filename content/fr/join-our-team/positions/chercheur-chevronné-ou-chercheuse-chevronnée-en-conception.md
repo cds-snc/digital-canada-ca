@@ -6,7 +6,7 @@ description: Nous recherchons un chercheur en conception chevronné ou une
   chercheuse en conception chevronnée qui a un grand intérêt pour l’amélioration
   des services gouvernementaux offerts au public et qui défend avec vigueur les
   besoins des personnes.
-archived: false
+archived: true
 leverId: dc80302d-d1bf-48d4-9502-5d7ee3ed9584
 translationKey: senior-design-researcher
 ---
