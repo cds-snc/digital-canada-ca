@@ -5,7 +5,7 @@ title: Senior Design Researcher
 description: We’re looking for an experienced Senior Design Researcher who is
   passionate about delivering better government services and being a vocal
   advocate for people’s needs.
-archived: false
+archived: true
 leverId: 33a68ab6-d594-45e8-956e-7cd5c2950a4c
 translationKey: senior-design-researcher
 ---
