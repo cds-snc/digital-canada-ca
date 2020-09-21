@@ -5,7 +5,7 @@ title: Senior Content Designer
 description: Content designers put tasks and procedures into a context that
   people can follow. They do this on a foundation of research into user needs,
   policy, subject-matter expertise, and systemic constraints.
-archived: false
+archived: true
 leverId: c231fef6-282c-4acb-b219-906896d5a6e8
 translationKey: content-designer
 ---

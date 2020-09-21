@@ -6,7 +6,7 @@ description: Les concepteurs et les conceptrices de contenu placent les tâches
   et les procédures dans un contexte que les gens peuvent suivre. Ils le font en
   se basant sur la recherche sur les besoins utilisateurs, les politiques,
   l’expertise en la matière et les contraintes systémiques.
-archived: false
+archived: true
 leverId: 4fc00856-067f-4036-9335-84355bdf8acf
 translationKey: content-designer
 ---
