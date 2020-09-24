@@ -4,7 +4,7 @@ translationKey: low-income-file-taxes
 description: >-
   Exploring a service to help Canadians with low income receive the benefits and
   refunds they’re entitled to by making it easier to file their taxes.
-# product-url: https://claim-tax-benefits.azurewebsites.net/start
+product-url: 'https://claim-tax-benefits.herokuapp.com/start'
 phase: beta
 contact:
   - email: clementine.hahn@tbs-sct.gc.ca
