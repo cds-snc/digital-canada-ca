@@ -80,17 +80,6 @@ exec:
       en: Head of Design
       fr: Chef de la conception
     twitter: emanelfy
-  - archived: false
-    email: jeff.maher@tbs-sct.gc.ca
-    github: jeffmaher
-    image-name: /img/cds/jeff-maher.jpg
-    linkedin: jeffmaher
-    name: Jeff Maher
-    processed: 1560521882135
-    title:
-      en: Interim Head of Software Development
-      fr: Chef par intérim du développement logiciel
-    twitter: plusjeff
   - email: Jennifer.Morin@tbs-sct.gc.ca
     image-name: /img/cds/jennifer-morin1.jpg
     name: Jennifer Morin
@@ -127,16 +116,6 @@ exec:
       en: Senior Technical Advisor
       fr: Conseiller technique principal
   - archived: false
-    email: leanne.labelle@tbs-sct.gc.ca
-    image-name: /img/cds/leeane-labelle.jpg
-    linkedin: leannelabelle
-    name: Leanne Labelle
-    processed: 1552050695386
-    title:
-      en: Head of Procurement
-      fr: Chef de l’approvisionnement
-    twitter: leannelabelle
-  - archived: false
     email: Mario.Garneau@tbs-sct.gc.ca
     github: mcman12
     image-name: /img/cds/mario-garneau.jpg
@@ -172,6 +151,15 @@ exec:
       en: Director of Partnerships
       fr: Directrice des partenariats
     twitter: wmluciani
+  - archived: false
+    email: wissam.moussa@cds-snc.ca
+    image-name: /img/cds/wissam-moussa.jpg
+    linkedin: wmoussa
+    name: Wissam Moussa
+    title:
+      en: Head of Software Development
+      fr: Chef du développement de logiciels
+    twitter: WissamM86679605
 team:
   - archived: false
     email: Adrianne.Lee@tbs-sct.gc.ca
@@ -249,6 +237,16 @@ team:
     title:
       en: Product Management
       fr: Gestion de produits
+  - archived: false
+    email: calvin.rodo@cds-snc.ca
+    github: CalvinRodo
+    image-name: /img/cds/calvin-rodo.jpg
+    linkedin: calvin-rodo-54396710 
+    name: Calvin Rodo
+    title:
+      en: Development
+      fr: Développement
+    twitter: CalvinR
   - archived: false
     email: cayce.fischer@cds-snc.ca
     image-name: /img/cds/cayce-fischer.jpg
@@ -354,6 +352,17 @@ team:
       en: Design Research
       fr: Recherche en conception
   - archived: false
+    email: jeff.maher@tbs-sct.gc.ca
+    github: jeffmaher
+    image-name: /img/cds/jeff-maher.jpg
+    linkedin: jeffmaher
+    name: Jeff Maher
+    processed: 1560521882135
+    title:
+      en: Development
+      fr: Développement
+    twitter: plusjeff
+  - archived: false
     email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.jpg
     name: Jennifer Fletcher
@@ -388,6 +397,14 @@ team:
     title:
       en: Policy
       fr: Politiques
+  - archived: false
+    email: jose.jimenez@cds-snc.ca
+    image-name: /img/cds/jose-jimenez.jpg
+    name: Jose Jimenez
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    twitter: curious_jose
   - archived: false
     email: julie-ann.rowsell@tbs-sct.gc.ca
     github: JuliannaR
@@ -427,14 +444,6 @@ team:
       fr: Politiques
     twitter: lchski
   - archived: false
-    email: Lyn.Elliott@tbs-sct.gc.ca
-    image-name: /img/cds/lyn-elliott.jpg
-    name: Lyn Elliott
-    processed: 1552050695386
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-  - archived: false
     email: martha.edwards@tbs-sct.gc.ca
     image-name: /img/cds/martha-edwards.jpg
     name: Martha Edwards
@@ -451,7 +460,7 @@ team:
     title:
       en: Development
       fr: Développement
-  - archived: false
+  - archived: true
     email: megan.beretta@tbs-sct.gc.ca
     image-name: /img/cds/meg-beretta.jpg
     linkedin: meganberetta
@@ -533,6 +542,15 @@ team:
       en: Design
       fr: Conception
     twitter: samsadasivan
+  - archived: false
+    email: sam.burton@cds-snc.ca
+    image-name: /img/cds/sam-burton.jpg
+    linkedin: samanthaburton
+    name: Sam Burton
+    title:
+      en: Policy
+      fr: Politiques
+    twitter: thesamburton
   - email: Sana.Qureshi@tbs-sct.gc.ca
     image-name: /img/cds/sana-qureshi.jpg
     linkedin: sana-qureshi-35206a11
