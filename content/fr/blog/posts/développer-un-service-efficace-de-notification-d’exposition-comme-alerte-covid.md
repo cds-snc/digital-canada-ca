@@ -1,22 +1,25 @@
 ---
 layout: blog
 title: Développer un service efficace de notification d’exposition comme Alerte COVID
-description: Nous expliquons les principaux éléments pris en compte pendant le
+description: >-
+  Nous expliquons les principaux éléments pris en compte pendant le
   développement d’Alerte COVID, une application de notification d’exposition
   respectueuse de la vie privée. Dans le présent billet, nous parlons de ce
   qu’il faut à la base pour qu’un service de notification d’exposition
   fonctionne bien et soit mis à la disposition du plus grand nombre de personnes
   possible
-author: Josh Ruihley, responsable de service, et Emily Kuret, chef de produit –
-  Alerte COVID
+author: >-
+  Josh Ruihley, responsable de service, et Emily Kuret, chef de produit – Alerte
+  COVID
 date: 2020-10-02T15:07:00.987Z
 image: /img/cds/covid-alert-vision-banner.jpg
-image-alt: Illustration d’un plateau de balance sur lequel des personnes munies
-  de l’application Alerte COVID se tiennent de façon à maintenir le plateau en
+image-alt: >-
+  Illustration d’un plateau de balance sur lequel des personnes munies de
+  l’application Alerte COVID se tiennent de façon à maintenir le plateau en
   équilibre.
 translationKey: covid-alert-utility-scale
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/covid-alert-vision-banner.jpg
+processed: 1601655413486
 ---
 *Le 31 juillet 2020, nous avons lancé Alerte COVID, le service canadien de notification d’exposition à la COVID-19. L’application mobile a été développée ouvertement. Pour poursuivre dans la même veine, nous publierons une série de billets de blogue qui expliquent les choix que nous faisons à mesure que nous continuons de mettre à jour, de tester et d’itérer ce service.* 
 
@@ -69,3 +72,4 @@ Plus il y aura de gens qui utilisent Alerte COVID, plus ce service aura une inci
 Au fur et à mesure que nous déployons Alerte COVID au Canada, nous continuerons de vous montrer des exemples de la façon dont Alerte COVID est développée, tout comme les décisions que nous prenons en appui aux considérations décrites ci-dessus, c’est-à-dire l’utilité et la portée. Restez à l’affût!
 
 D’ici là, vous pouvez [suivre notre travail sur GitHub](https://github.com/cds-snc/covid-alert-app).
+
