@@ -17,7 +17,9 @@ processed: ""
 The app was built in the open. Continuing in that vein, we’ll be sharing posts that explain the reasons behind the choices we’re making as we continue to update, test, and iterate on this service.*  
 
 *In the first blog post here, we’ll talk about what’s required for an exposure notification service to work well at a foundational level and be used by as many people as possible.*
+
 ## Balancing utility and scale
+
 Our mission with COVID Alert is to help limit the spread of COVID-19 across the country by creating a privacy-preserving exposure notification service that addresses as many barriers to adoption as possible. 
 
 When we talk about the COVID Alert “service”, the public-facing app is a big piece of that - but it’s not the only piece. It also includes portals for healthcare workers to generate one-time keys in different provinces, and technical support for both the public and healthcare workers. So those barriers to adoption could apply to these other elements of the full service as well.
@@ -34,6 +36,7 @@ As we continue to build and improve COVID Alert, it’s important that these two
 An exposure notification service that works well will **detect** when there’s a good chance that someone has been in contact with a person with COVID-19 and it will **guide** the person to appropriate action. In our case, this means getting a person to follow public health advice. 
 
 ### Detection
+
 If done correctly, a detection is triggered when:
 
 * Someone with the app has been near a person who also has the app and who’s been diagnosed with COVID-19.
@@ -42,6 +45,7 @@ If done correctly, a detection is triggered when:
 * The person who’s diagnosed was contagious when the contact happened.
 
 ### Guidance
+
 When the detection criteria is met and it’s confirmed that someone may have had a possible exposure to COVID-19, the app must then share information to guide the user’s next steps to prevent spread. This guidance comes from the public health authority in the app user’s jurisdiction. 
 
 Here in Canada, each province and territory has different guidance based on their regional situation. We’re working closely with these healthcare partners across Canada to make sure that when a person is notified that they may have been exposed, they’re given guidance that is relevant to their specific situation and region.
@@ -51,7 +55,11 @@ Guidance is successful when:
 * A person is made aware that they may have been exposed.
 * The person is given next steps based on public health guidance.
 * The person takes those next steps.
+
+
+
 ## Getting the app into more hands
+
 The more people who use COVID Alert, the more impact it will have at slowing the spread of COVID-19 across Canada. To help us get COVID Alert into as many hands as possible, we’re working to address five key factors that may influence uptake: 
 
 * Availability: The service must be available to as many people as possible.
@@ -65,4 +73,3 @@ The more people who use COVID Alert, the more impact it will have at slowing the
 As we work to roll out COVID Alert across Canada, we’ll continue to share examples of how COVID Alert is built and how the decisions around its design are based on the two main considerations of utility and scale, as described above. Stay tuned!
 
 Until then, you can [follow our work on Github](https://github.com/cds-snc/covid-alert-app).
-
