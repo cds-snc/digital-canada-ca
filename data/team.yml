@@ -160,6 +160,7 @@ exec:
       en: Head of Software Development
       fr: Chef du développement de logiciels
     twitter: wmoussa_cds
+    processed: 1601655414104
 team:
   - archived: false
     email: Adrianne.Lee@tbs-sct.gc.ca
@@ -241,12 +242,13 @@ team:
     email: calvin.rodo@cds-snc.ca
     github: CalvinRodo
     image-name: /img/cds/calvin-rodo.jpg
-    linkedin: calvin-rodo-54396710 
+    linkedin: calvin-rodo-54396710
     name: Calvin Rodo
     title:
       en: Development
       fr: Développement
     twitter: CalvinR
+    processed: 1601655414111
   - archived: false
     email: cayce.fischer@cds-snc.ca
     image-name: /img/cds/cayce-fischer.jpg
@@ -405,6 +407,7 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: curious_jose
+    processed: 1601655414112
   - archived: false
     email: julie-ann.rowsell@tbs-sct.gc.ca
     github: JuliannaR
@@ -551,6 +554,7 @@ team:
       en: Policy
       fr: Politiques
     twitter: thesamburton
+    processed: 1601655414113
   - email: Sana.Qureshi@tbs-sct.gc.ca
     image-name: /img/cds/sana-qureshi.jpg
     linkedin: sana-qureshi-35206a11

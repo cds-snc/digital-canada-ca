@@ -1,17 +1,18 @@
 ---
 layout: blog
 title: Building an effective exposure notification service like COVID Alert
-description: We’re sharing the main considerations we had while building the
+description: >-
+  We’re sharing the main considerations we had while building the
   privacy-preserving exposure notification app, COVID Alert. In this post, we’ll
   talk about what’s needed at a basic level for an exposure notification service
   to work while getting the app into as many hands as possible.
-author: Josh Ruihley, Service Owner, and Emily Kuret, Product Manager - COVID Alert
+author: 'Josh Ruihley, Service Owner, and Emily Kuret, Product Manager - COVID Alert'
 date: 2020-10-02T15:04:18.149Z
 image: /img/cds/covid-alert-vision-banner.jpg
-image-alt: "A scale, balancing people using the COVID Alert app in the middle. "
+image-alt: 'A scale, balancing people using the COVID Alert app in the middle. '
 translationKey: covid-alert-utility-scale
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/covid-alert-vision-banner.jpg
+processed: 1601655413377
 ---
 *On July 31, 2020, we released COVID Alert, Canada’s COVID-19 exposure notification service.
 The app was built in the open. Continuing in that vein, we’ll be sharing posts that explain the reasons behind the choices we’re making as we continue to update, test, and iterate on this service.*  
