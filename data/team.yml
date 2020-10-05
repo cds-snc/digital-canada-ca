@@ -5,7 +5,7 @@ exec:
     image-name: /img/cds/aaron-snow2.jpg
     linkedin: aaronsnow
     name: Aaron Snow
-    # processed: 1552050695382
+    processed: 1552050695382
     title:
       en: Chief Executive Officer
       fr: Président-directeur général
@@ -115,6 +115,16 @@ exec:
     title:
       en: Senior Technical Advisor
       fr: Conseiller technique principal
+  - archived: false	
+    email: leanne.labelle@tbs-sct.gc.ca	
+    image-name: /img/cds/leane-labelle.jpg	
+    linkedin: leannelabelle	
+    name: Leanne Labelle	
+    processed: 1552050695386	
+    title:	
+      en: Head of Procurement	
+      fr: Chef de l’approvisionnement	
+    twitter: leannelabelle
   - archived: false
     email: Mario.Garneau@tbs-sct.gc.ca
     github: mcman12
