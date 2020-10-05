@@ -3,8 +3,8 @@ title: Application mobile de notification d’exposition du gouvernement du Cana
 translationKey: exposure-notifications
 description: >-
   Application mobile fédérale visant à ralentir la propagation de la COVID-19 au Canada en avisant les Canadiens de leurs expositions tout en protégeant complètement leur vie privée.
-# product-url: 
-phase: alpha
+product-url: https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html
+phase: live
 contact:
   - email: CDS-SNC@tbs-sct.gc.ca
     name: CDS-SNC@tbs-sct.gc.ca

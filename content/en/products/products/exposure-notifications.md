@@ -3,8 +3,8 @@ title: Government of Canada Exposure Notifications Mobile App
 translationKey: exposure-notifications
 description: >-
   A federal mobile app to help stop the spread of COVID-19 in Canada by notifying Canadians of exposure, while fully protecting their privacy.
-# product-url: To be added later
-phase: alpha
+product-url: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html
+phase: live
 contact:
   - email: CDS-SNC@tbs-sct.gc.ca
     name: CDS-SNC@tbs-sct.gc.ca
