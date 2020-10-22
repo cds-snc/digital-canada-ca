@@ -1,6 +1,7 @@
 ---
 layout: blog
-title: https://meet.google.com/wqj-iopm-nek?authuser=0
+title: "Multiplayer mode unlocked: Better team collaboration for designers,
+  developers, and researchers "
 description: "While designing digital services is not a game of basketball,
   similar principles can apply: in multiplayer mode we’re more effective when
   people with different roles can work together towards one goal, in real time,
