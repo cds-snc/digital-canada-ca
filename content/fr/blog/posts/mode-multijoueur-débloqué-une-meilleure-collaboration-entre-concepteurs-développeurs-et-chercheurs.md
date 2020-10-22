@@ -36,9 +36,11 @@ Sans documents de conception ou représentations visuelles des écrans, il est p
 Je voulais donc donner à chaque spécialité les bons outils pour travailler. Mais il était important pour l’équipe que, ce faisant, nous ne créions pas une séparation entre le travail des concepteurs et celui des développeurs, autrement appelée « transfert ». Jusqu’à ce moment-là, nous avions contourné cette séparation en demandant à tout le monde, même aux concepteurs, de faire leur travail directement dans le code. Mais encore une fois, cela limitait la capacité de nos concepteurs à tester des conceptions de manière plus agile.
 
 Compte tenu de ces défis, mes principaux objectifs étaient les suivants : 
+
 * Créer une meilleure documentation et un espace de référence visuelle pour les développeurs, les chercheurs et tous les membres de l’équipe;
 * Débloquer le potentiel créatif des concepteurs en leur donnant les bons outils pour bien travailler; 
 * Ne pas créer de situation de transfert.
+
 ## Le plan de match
 Pour atteindre ces objectifs, nous avons testé un outil de conception appelé Figma. Nous l’avons choisi parce que Figma permet l’édition « multijoueur » des fichiers de conception. Cela signifie qu’en théorie, les concepteurs, les chercheurs et les développeurs pourraient travailler ensemble à créer des maquettes conceptuelles, des maquettes graphiques et des diagrammes de parcours en un seul endroit au même moment. Il y aurait un environnement créatif où les concepteurs pourraient créer des visualisations de ce à quoi les écrans ressembleraient une fois codés, mais il n’y aurait pas de documents de conception à transférer aux développeurs. 
 
