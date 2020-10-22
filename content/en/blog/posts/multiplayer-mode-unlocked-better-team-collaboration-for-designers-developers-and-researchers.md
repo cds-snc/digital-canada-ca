@@ -1,19 +1,22 @@
 ---
 layout: blog
-title: "Multiplayer mode unlocked: Better team collaboration for designers,
-  developers, and researchers "
-description: "While designing digital services is not a game of basketball,
-  similar principles can apply: in multiplayer mode we’re more effective when
-  people with different roles can work together towards one goal, in real time,
-  in one place. Here’s how we did that using a tool called Figma."
-author: Philippe Caron, Design
+title: >-
+  Multiplayer mode unlocked: Better team collaboration for designers,
+  developers, and researchers 
+description: >-
+  While designing digital services is not a game of basketball, similar
+  principles can apply: in multiplayer mode we’re more effective when people
+  with different roles can work together towards one goal, in real time, in one
+  place. Here’s how we did that using a tool called Figma.
+author: 'Philippe Caron, Design'
 date: 2020-10-22T14:07:23.319Z
 image: /img/cds/blog-multiplayer-figma.jpg
-image-alt: An illustration of a basketball court with four different team
-  members on the court together.
+image-alt: >-
+  An illustration of a basketball court with four different team members on the
+  court together.
 translationKey: multiplayer-figma
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/blog-multiplayer-figma.jpg
+processed: 1603376638397
 ---
 Many games are more fun to play in multiplayer mode than in single player. Can you imagine playing a game of basketball by yourself? Boring.
 
@@ -57,3 +60,4 @@ We grew our Figma community of collaborators from 3 designers and researchers on
 If you work in a multidisciplinary team, finding the right tool to get different specialized ideas across is ultimately a good way to make work more efficient, as well as more enjoyable. You wouldn’t want to dribble across a basketball court just to score a point against no one. It’s not creative, it’s not productive, and it’s just not as fun. 
 
 Finding the right multiplayer tool for your team can be a fun and rewarding experiment. Don’t be afraid of learning a new tool, it might be easier than you expect!
+
