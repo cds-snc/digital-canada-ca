@@ -1,20 +1,23 @@
 ---
 layout: blog
-title: "Mode multijoueur débloqué : une meilleure collaboration entre
-  concepteurs, développeurs et chercheurs "
-description: "Bien que la conception de services numériques ne soit pas un jeu
-  de basketball, des principes semblables s’appliquent : en mode multijoueur,
-  nous sommes plus efficaces quand des personnes ayant des rôles différents
-  peuvent travailler ensemble vers le même but, en temps réel, au même endroit.
-  Voici comment nous avons fait cela en utilisant un outil appelé Figma."
-author: Philippe Caron, conception
+title: >-
+  Mode multijoueur débloqué : une meilleure collaboration entre concepteurs,
+  développeurs et chercheurs 
+description: >-
+  Bien que la conception de services numériques ne soit pas un jeu de
+  basketball, des principes semblables s’appliquent : en mode multijoueur, nous
+  sommes plus efficaces quand des personnes ayant des rôles différents peuvent
+  travailler ensemble vers le même but, en temps réel, au même endroit. Voici
+  comment nous avons fait cela en utilisant un outil appelé Figma.
+author: 'Philippe Caron, conception'
 date: 2020-10-22T13:53:58.534Z
 image: /img/cds/blog-multiplayer-figma.jpg
-image-alt: Une illustration d’un terrain de basketball avec un ballon et quatre
-  dossards à l’effigie du SNC.
+image-alt: >-
+  Une illustration d’un terrain de basketball avec un ballon et quatre dossards
+  à l’effigie du SNC.
 translationKey: multiplayer-figma
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/blog-multiplayer-figma.jpg
+processed: 1603376638536
 ---
 Bon nombre de jeux sont plus amusants à jouer en mode multijoueur qu’en solo. Vous verriez-vous jouer au basketball tout seul? Plutôt ennuyeux, n’est-ce pas?
 
@@ -57,4 +60,5 @@ Depuis notre travail avec la GRC, où nous étions trois concepteurs et chercheu
 Si vous travaillez au sein d’une équipe multidisciplinaire, trouver l’outil qui permet à chaque spécialité de montrer ses idées est finalement une bonne façon de rendre le travail plus efficace et plus agréable. Vous ne voudriez pas dribler d’un bout à l’autre d’un terrain de basketball pour compter un point contre personne. Ce n’est ni créatif ni productif. Ni aussi amusant, tout compte fait. 
 
 Trouver le bon outil multijoueur pour votre équipe peut être une expérience amusante et enrichissante. N’ayez pas peur d’apprendre un nouvel outil, cela pourrait être plus facile que vous ne le pensez!
+
 
