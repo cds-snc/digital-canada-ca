@@ -35,9 +35,11 @@ Not having design documents or visual representations of the screens meant it wa
 While I wanted to give each specialization the specific tools it needed to get the job done, one thing that was important to the team was that, in doing this, we weren’t creating a division between design work and developer work, otherwise called “handoff”. Up to this point, we avoided handoff by having everyone, even designers, doing their work directly in code. But this limited our designers ability to test out designs in a more nimble way. 
 
 Given these challenges, my main goals were to: 
+
 * Create better documentation and a visual reference for developers, researchers, and all team members;
 * Unlock designers creative potential by giving them the right tools to do their best work; and, 
 * Not create a handoff situation.
+
 ## The game plan
 To try and achieve those goals, we piloted the use of a design tool called Figma. We chose Figma because it allows “multiplayer” editing of design files. That means, in theory, designers, researchers, and developers could work together creating wireframes, mockups, and flow maps in one place at the same time. With that, there would be a creative environment for designers to make visualizations of what each screen would actually look like when coded, but no handoff of a design document to developers. 
 
