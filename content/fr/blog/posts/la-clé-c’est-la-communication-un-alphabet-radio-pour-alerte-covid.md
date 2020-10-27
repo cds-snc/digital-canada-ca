@@ -1,18 +1,19 @@
 ---
 layout: blog
-title: "La clé, c’est la communication : un alphabet radio pour Alerte COVID"
-description: Découvrez comment et pourquoi notre équipe a développé un nouvel
-  alphabet radio pour aider le personnel utilisant le portail Alerte COVID à
-  fournir par téléphone des clés à usage unique aux patients en période de
-  stress.
-author: Élise Cossette et Yedida Zalik, conception de contenu
+title: 'La clé, c’est la communication : un alphabet radio pour Alerte COVID'
+description: >-
+  Découvrez comment et pourquoi notre équipe a développé un nouvel alphabet
+  radio pour aider le personnel utilisant le portail Alerte COVID à fournir par
+  téléphone des clés à usage unique aux patients en période de stress.
+author: 'Élise Cossette et Yedida Zalik, conception de contenu'
 date: 2020-10-27T13:00:33.817Z
 image: /img/cds/banner-phonetic-alphabetic-blog.jpg
-image-alt: Un travailleur de la santé communiquant avec succès une clé à usage
-  unique à un patient au téléphone.
+image-alt: >-
+  Un travailleur de la santé communiquant avec succès une clé à usage unique à
+  un patient au téléphone.
 translationKey: phonetic-alphabet
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/banner-phonetic-alphabetic-blog.jpg
+processed: 1603809167065
 ---
 Le personnel du milieu de la santé ainsi que bien des agents administratifs jouent un rôle crucial dans la réussite de l’application Alerte COVID. 
 
