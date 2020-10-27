@@ -1,17 +1,19 @@
 ---
 layout: blog
-title: "Communication is key: A phonetic alphabet for COVID Alert"
-description: Learn how and why our team developed a new phonetic alphabet to
-  help healthcare workers using the COVID Alert Portal give one-time keys over
-  the phone to patients during a stressful time.
-author: Élise Cossette, Outreach and Yedida Zalik, Content Design
+title: 'Communication is key: A phonetic alphabet for COVID Alert'
+description: >-
+  Learn how and why our team developed a new phonetic alphabet to help
+  healthcare workers using the COVID Alert Portal give one-time keys over the
+  phone to patients during a stressful time.
+author: 'Élise Cossette, Outreach and Yedida Zalik, Content Design'
 date: 2020-10-27T12:56:48.422Z
 image: /img/cds/banner-phonetic-alphabetic-blog.jpg
-image-alt: A healthcare worker successfully communicating a one-time key to a
-  patient over the phone.
+image-alt: >-
+  A healthcare worker successfully communicating a one-time key to a patient
+  over the phone.
 translationKey: phonetic-alphabet
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/banner-phonetic-alphabetic-blog.jpg
+processed: 1603809166911
 ---
 Healthcare workers put themselves at risk to keep us safe. They also play a crucial role in the success of the COVID Alert app. 
 
