@@ -11,7 +11,7 @@ image: /img/cds/banner-phonetic-alphabetic-blog.jpg
 image-alt: >-
   Un travailleur de la santé communiquant avec succès une clé à usage unique à
   un patient au téléphone.
-translationKey: phonetic-alphabet
+translationKey: phonetic-alphabet-blog
 thumb: /img/cds/thumbnails/banner-phonetic-alphabetic-blog.jpg
 processed: 1603809167065
 ---

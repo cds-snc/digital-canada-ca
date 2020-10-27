@@ -11,7 +11,7 @@ image: /img/cds/banner-phonetic-alphabetic-blog.jpg
 image-alt: >-
   A healthcare worker successfully communicating a one-time key to a patient
   over the phone.
-translationKey: phonetic-alphabet
+translationKey: phonetic-alphabet-blog
 thumb: /img/cds/thumbnails/banner-phonetic-alphabetic-blog.jpg
 processed: 1603809166911
 ---
