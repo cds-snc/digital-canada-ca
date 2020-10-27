@@ -75,7 +75,7 @@ Similar to using syllables to separate one spoken word from the next, we needed 
 
 In French, many words that start with “e” are followed by the letter “m” or “n” (*environnement, emploi*), which are pronounced the same as words starting with “an” (*anglais*). To avoid confusion or additional cognitive effort from patients, we are testing the word “espresso”, where the sound of the first letter can be heard.
 
-This is also why we decided not to use “hotel” from the NATO alphabet. Though spelt the same in both languages, in French the “h” is silent, and hôtel is therefore pronounced the same as *autel*. We chose the word *hôpital*/”hospital”, and even though it still has a silent “h” in French, it’s not ambiguous because no other words are pronounced the same. Plus, as our colleague [Anik Brazeau](https://twitter.com/BrazeauAnik) pointed out, it’s often symbolized by the letter H on road signs, so people would already have an association between the word and that letter.
+This is also why we decided not to use “hotel” from the NATO alphabet. Though spelt the same in both languages, in French the “h” is silent, and *hôtel* is therefore pronounced the same as *autel*. We chose the word *hôpital*/”hospital”, and even though it still has a silent “h” in French, it’s not ambiguous because no other words are pronounced the same. Plus, as our colleague [Anik Brazeau](https://twitter.com/BrazeauAnik) pointed out, it’s often symbolized by the letter H on road signs, so people would already have an association between the word and that letter.
 
 ### No negative connotations
 
