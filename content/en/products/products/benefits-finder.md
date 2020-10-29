@@ -16,4 +16,6 @@ onhomepage: false
 links: 
   - name: GitHub
     url: 'https://github.com/cds-snc/c19-benefits-node'
+  - name: Documentation
+    url: 'https://cds-snc.github.io/c19-benefits-prestations-docs/home/'
 ---
