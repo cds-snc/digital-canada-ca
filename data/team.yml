@@ -81,12 +81,13 @@ exec:
       fr: Chef de la conception
     twitter: emanelfy
   - email: Paul.Joseph@tbs-sct.gc.ca
-    image-name: /img/cds/paul-joseph.jpeg
+    image-name: /img/cds/paul-joseph.jpg
     name: Paul Joseph
     title:
       en: Head of Internal Operations
       fr: Chef des opérations internes
     linkedin: lastingdiscovery
+    processed: 1604601509043
   - archived: false
     email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
@@ -115,15 +116,15 @@ exec:
     title:
       en: Senior Technical Advisor
       fr: Conseiller technique principal
-  - archived: false	
-    email: leanne.labelle@tbs-sct.gc.ca	
-    image-name: /img/cds/leane-labelle.jpg	
-    linkedin: leannelabelle	
-    name: Leanne Labelle	
-    processed: 1552050695386	
-    title:	
-      en: Head of Procurement	
-      fr: Chef de l’approvisionnement	
+  - archived: false
+    email: leanne.labelle@tbs-sct.gc.ca
+    image-name: /img/cds/leane-labelle.jpg
+    linkedin: leannelabelle
+    name: Leanne Labelle
+    processed: 1552050695386
+    title:
+      en: Head of Procurement
+      fr: Chef de l’approvisionnement
     twitter: leannelabelle
   - archived: false
     email: Mario.Garneau@tbs-sct.gc.ca
@@ -162,7 +163,7 @@ exec:
       fr: Directrice des partenariats
     twitter: wmluciani
   - archived: false
-    email: wissam.moussa@tbs-sct.gc.ca 
+    email: wissam.moussa@tbs-sct.gc.ca
     image-name: /img/cds/wissam-moussa.jpg
     linkedin: wmoussa
     name: Wissam Moussa
@@ -219,6 +220,7 @@ team:
     title:
       en: Development
       fr: Développement
+    processed: 1604601509047
   - archived: false
     email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
@@ -348,6 +350,7 @@ team:
     twitter: tirofe
     linkedin: fitorejaha
     github: fitore-cds
+    processed: 1604601509047
   - archived: false
     email: francois.moisan@tbs-sct.gc.ca
     image-name: /img/cds/francois-moisan.jpg
