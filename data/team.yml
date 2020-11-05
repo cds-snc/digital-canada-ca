@@ -162,7 +162,7 @@ exec:
       fr: Directrice des partenariats
     twitter: wmluciani
   - archived: false
-    email: wissam.moussa@cds-snc.ca
+    email: wissam.moussa@tbs-sct.gc.ca 
     image-name: /img/cds/wissam-moussa.jpg
     linkedin: wmoussa
     name: Wissam Moussa
@@ -249,7 +249,7 @@ team:
       en: Product Management
       fr: Gestion de produits
   - archived: false
-    email: calvin.rodo@cds-snc.ca
+    email: calvin.rodo@tbs-sct.gc.ca
     github: CalvinRodo
     image-name: /img/cds/calvin-rodo.jpg
     linkedin: calvin-rodo-54396710
@@ -556,7 +556,7 @@ team:
       fr: Conception
     twitter: samsadasivan
   - archived: false
-    email: sam.burton@cds-snc.ca
+    email: Samantha.Burton@tbs-sct.gc.ca
     image-name: /img/cds/sam-burton.jpg
     linkedin: samanthaburton
     name: Sam Burton
