@@ -80,13 +80,13 @@ exec:
       en: Head of Design
       fr: Chef de la conception
     twitter: emanelfy
-  - email: Jennifer.Morin@tbs-sct.gc.ca
-    image-name: /img/cds/jennifer-morin1.jpg
-    name: Jennifer Morin
-    processed: 1568391268233
+  - email: Paul.Joseph@tbs-sct.gc.ca
+    image-name: /img/cds/paul-joseph.jpeg
+    name: Paul Joseph
     title:
       en: Head of Internal Operations
       fr: Chef des opérations internes
+    linkedin: lastingdiscovery
   - archived: false
     email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
@@ -210,6 +210,16 @@ team:
       en: Design Research
       fr: Recherche en conception
   - archived: false
+    email: Antoine.Augusti@tbs-sct.gc.ca
+    github: AntoineAugusti
+    twitter: AntoineAugusti
+    linkedin: AntoineAugusti
+    image-name: /img/cds/antoine-augusti.jpg
+    name: Antoine Augusti
+    title:
+      en: Development
+      fr: Développement
+  - archived: false
     email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
     image-name: /img/cds/bethany-dunfield.jpg
@@ -328,6 +338,16 @@ team:
       en: Design
       fr: Conception
     processed: 1575304321709
+  - archived: false
+    email: Fitore.JahaPrice@tbs-sct.gc.ca
+    image-name: /img/cds/fitore-jaha-price.jpeg
+    name: Fitore Jaha Price
+    title:
+      en: Development
+      fr: Développement
+    twitter: tirofe
+    linkedin: fitorejaha
+    github: fitore-cds
   - archived: false
     email: francois.moisan@tbs-sct.gc.ca
     image-name: /img/cds/francois-moisan.jpg
