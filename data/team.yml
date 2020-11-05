@@ -80,13 +80,14 @@ exec:
       en: Head of Design
       fr: Chef de la conception
     twitter: emanelfy
-  - email: Jennifer.Morin@tbs-sct.gc.ca
-    image-name: /img/cds/jennifer-morin1.jpg
-    name: Jennifer Morin
-    processed: 1568391268233
+  - email: Paul.Joseph@tbs-sct.gc.ca
+    image-name: /img/cds/paul-joseph.jpg
+    name: Paul Joseph
     title:
       en: Head of Internal Operations
       fr: Chef des opérations internes
+    linkedin: lastingdiscovery
+    processed: 1604601509043
   - archived: false
     email: John.Millons@tbs-sct.gc.ca
     image-name: /img/cds/john-millons.jpg
@@ -115,15 +116,15 @@ exec:
     title:
       en: Senior Technical Advisor
       fr: Conseiller technique principal
-  - archived: false	
-    email: leanne.labelle@tbs-sct.gc.ca	
-    image-name: /img/cds/leane-labelle.jpg	
-    linkedin: leannelabelle	
-    name: Leanne Labelle	
-    processed: 1552050695386	
-    title:	
-      en: Head of Procurement	
-      fr: Chef de l’approvisionnement	
+  - archived: false
+    email: leanne.labelle@tbs-sct.gc.ca
+    image-name: /img/cds/leane-labelle.jpg
+    linkedin: leannelabelle
+    name: Leanne Labelle
+    processed: 1552050695386
+    title:
+      en: Head of Procurement
+      fr: Chef de l’approvisionnement
     twitter: leannelabelle
   - archived: false
     email: Mario.Garneau@tbs-sct.gc.ca
@@ -162,7 +163,7 @@ exec:
       fr: Directrice des partenariats
     twitter: wmluciani
   - archived: false
-    email: wissam.moussa@cds-snc.ca
+    email: wissam.moussa@tbs-sct.gc.ca
     image-name: /img/cds/wissam-moussa.jpg
     linkedin: wmoussa
     name: Wissam Moussa
@@ -210,6 +211,17 @@ team:
       en: Design Research
       fr: Recherche en conception
   - archived: false
+    email: Antoine.Augusti@tbs-sct.gc.ca
+    github: AntoineAugusti
+    twitter: AntoineAugusti
+    linkedin: AntoineAugusti
+    image-name: /img/cds/antoine-augusti.jpg
+    name: Antoine Augusti
+    title:
+      en: Development
+      fr: Développement
+    processed: 1604601509047
+  - archived: false
     email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
     image-name: /img/cds/bethany-dunfield.jpg
@@ -249,7 +261,7 @@ team:
       en: Product Management
       fr: Gestion de produits
   - archived: false
-    email: calvin.rodo@cds-snc.ca
+    email: calvin.rodo@tbs-sct.gc.ca
     github: CalvinRodo
     image-name: /img/cds/calvin-rodo.jpg
     linkedin: calvin-rodo-54396710
@@ -328,6 +340,17 @@ team:
       en: Design
       fr: Conception
     processed: 1575304321709
+  - archived: false
+    email: Fitore.JahaPrice@tbs-sct.gc.ca
+    image-name: /img/cds/fitore-jaha-price.jpeg
+    name: Fitore Jaha Price
+    title:
+      en: Development
+      fr: Développement
+    twitter: tirofe
+    linkedin: fitorejaha
+    github: fitore-cds
+    processed: 1604601509047
   - archived: false
     email: francois.moisan@tbs-sct.gc.ca
     image-name: /img/cds/francois-moisan.jpg
@@ -556,7 +579,7 @@ team:
       fr: Conception
     twitter: samsadasivan
   - archived: false
-    email: sam.burton@cds-snc.ca
+    email: Samantha.Burton@tbs-sct.gc.ca
     image-name: /img/cds/sam-burton.jpg
     linkedin: samanthaburton
     name: Sam Burton
