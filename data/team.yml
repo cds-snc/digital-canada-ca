@@ -22,7 +22,7 @@ exec:
     processed: 1605545386390
   - archived: false
     email: Anatole.Papadopoulos@tbs-sct.gc.ca
-    image-name: /img/cds/anatole-papadopoulos.png
+    image-name: /img/cds/anatole-papadopoulos.jpg
     linkedin: anatole-papadopoulos-845a431
     name: Anatole Papadopoulos
     title:
@@ -434,7 +434,7 @@ team:
     processed: 1605545386398
   - archived: false
     email: jose.jimenez@cds-snc.ca
-    image-name: /img/cds/Jose-Jimenez.jpg
+    image-name: /img/cds/jose-jimenez.jpg
     name: Jose Jimenez
     title:
       en: Outreach
