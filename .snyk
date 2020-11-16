@@ -381,3 +381,11 @@ patch:
         patched: '2020-09-02T15:23:09.124Z'
     - snyk > snyk-docker-plugin > snyk-nodejs-lockfile-parser > graphlib > lodash:
         patched: '2020-09-29T17:27:22.291Z'
+    - netlify-cms > netlify-cms-app > netlify-cms-widget-colorstring > react-color > lodash:
+        patched: '2020-11-05T15:58:21.305Z'
+    - netlify-cms > netlify-cms-app > netlify-cms-widget-colorstring > react-color > reactcss > lodash:
+        patched: '2020-11-05T15:58:21.305Z'
+    - snyk > snyk-python-plugin > snyk-poetry-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-11-05T18:16:43.695Z'
+    - snyk > snyk-python-plugin > snyk-poetry-lockfile-parser > @snyk/cli-interface > @snyk/dep-graph > graphlib > lodash:
+        patched: '2020-11-05T18:16:43.695Z'
