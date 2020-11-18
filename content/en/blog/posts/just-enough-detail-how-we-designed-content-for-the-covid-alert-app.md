@@ -48,7 +48,7 @@ We also made these kinds of decisions at the level of specific words. Take the w
 
 Similarly, on the screen that starts the process for people who have tested positive, instead of simply saying something like “Anonymously upload your random codes,” we used a whole sentence just to convey the concept of anonymity: “Nobody will get any information about you or the time you were near them.”
 
-Even a seemingly simpler word like “optional” contains a lot of information in it. So in a [new functionality](https://twitter.com/CDS_GC/status/1322209683399184385) we rolled out just last month, we expanded “optional” to a full sentence: “You can choose not to give any details.”
+Even a seemingly simpler word like “optional” contains a lot of information in it. So in the [new functionality](https://twitter.com/CDS_GC/status/1322209683399184385) we rolled out just last month, we expanded “optional” to a full sentence: “You can choose not to give any details.”
 
 ![](/img/cds/content-covidalert-screen-EN.jpg)
 
