@@ -1,16 +1,18 @@
 ---
 layout: blog
-title: "Juste assez de détails : concevoir le contenu de l’appli Alerte COVID"
-description: Notre chef de la conception de contenu explique comment nous avons
-  fait pour faciliter la compréhension de l’application Alerte COVID.
-author: Kate Wilhelm, Conception du contenu
+title: 'Juste assez de détails : concevoir le contenu de l’appli Alerte COVID'
+description: >-
+  Notre chef de la conception de contenu explique comment nous avons fait pour
+  faciliter la compréhension de l’application Alerte COVID.
+author: 'Kate Wilhelm, Conception du contenu'
 date: 2020-11-18T15:48:06.854Z
 image: /img/cds/banner-content-covidalert-blog.jpg
-image-alt: Cinq lignes sinueuses et entremêlées de couleur différente qui, après
-  être passées dans un filtre, se transforment en deux lignes droites.
+image-alt: >-
+  Cinq lignes sinueuses et entremêlées de couleur différente qui, après être
+  passées dans un filtre, se transforment en deux lignes droites.
 translationKey: content-covidalert
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/banner-content-covidalert-blog.jpg
+processed: 1605718866202
 ---
 Lorsque nous avons commencé à travailler sur [Alerte COVID](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html), nous savions [que l’une des clés du succès était la confiance](https://numerique.canada.ca/2020/10/02/d%C3%A9velopper-un-service-efficace-de-notification-dexposition-comme-alerte-covid/). Les gens n’allaient pas télécharger l’application s’ils n’y faisaient pas confiance. Et nous savions que la clé de la confiance était la compréhension. 
 
