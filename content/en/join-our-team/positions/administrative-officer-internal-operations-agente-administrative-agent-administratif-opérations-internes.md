@@ -1,8 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: "Administrative Officer (Internal Operations) - Agente Administrative/
-  Agent administratif (Opérations internes) "
+title: Administrative Officer - Internal Operations
 description: Do you have a natural inclination toward logistics and planning?
   Are you the type of person who jumps in with both feet when it comes to taking
   on new tasks and projects? Do you thrive at handling multiple demands in a
