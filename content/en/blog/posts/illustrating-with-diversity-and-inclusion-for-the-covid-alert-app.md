@@ -85,4 +85,4 @@ COVID Alert was an opportunity to show how important user experience in visual d
 
 A big part of COVID Alert’s success is based on whether people understand and trust the service.
 
-Of course, putting the app out into the world doesn’t mean the work is done - our visual concepts are continually being tested and iterated on. We welcome feedback(mailto:CDS-SNC@tbs-sct.gc.ca) about the app, and hope COVID Alert’s illustrations help capture Canada’s diversity of experiences.
+Of course, putting the app out into the world doesn’t mean the work is done - our visual concepts are continually being tested and iterated on. We [welcome feedback](mailto:CDS-SNC@tbs-sct.gc.ca) about the app, and hope COVID Alert’s illustrations help capture Canada’s diversity of experiences.
