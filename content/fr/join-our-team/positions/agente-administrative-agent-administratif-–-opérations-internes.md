@@ -18,10 +18,11 @@ Le Service numérique canadien (SNC) change la façon dont le gouvernement féd�
 
 Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) agent(e) administratif(ve) qui travaillera avec notre équipe des opérations internes. Avez-vous un intérêt naturel pour la logistique et la planification? Êtes-vous le genre de personne prêt à agir lorsqu’il faut entreprendre de nouvelles tâches et de nouveaux projets? Trouvez-vous un épanouissement à répondre à des demandes multiples dans un environnement en évolution rapide? Avez-vous l’esprit à la collaboration et est-ce agréable de travailler avec vous? Êtes-vous bilingue et aimez-vous travailler dans les deux langues officielles? Êtes-vous à la recherche d’un emploi comportant beaucoup de défis et de possibilités de croissance? 
 
-Vous vous joindrez à une équipe qui compte actuellement quatre autres membres. Ce poste est classé [AS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=15#toc993929940) au sein du Groupe Services administratifs.
+Vous vous joindrez à une équipe qui compte actuellement quatre autres membres. Ce poste est déterminé, et est classé [AS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=15#toc993929940) au sein du Groupe Services administratifs.
 
 Dans le cadre de ce poste, vous devrez :
 
+* Vous êtes bilingue (CBB) 
 * Fournir un soutien à divers services administratifs du SNC, y compris l’approvisionnement, l’hospitalité, la formation et l’AIPRP.
 * Traiter pour le SNC les paiements de factures provenant de fournisseurs externes, les règlements internes et les bons de commande.
 * Produire des rapports financiers et des prévisions de dépenses, et déterminer le besoin de réaffecter des fonds au sein du SNC au moyen des applications SAP et Cognos BI.
@@ -30,6 +31,7 @@ Dans le cadre de ce poste, vous devrez :
 * Gérer le processus d’approvisionnement pour les services infonuagiques, à l’aide du formulaire contractuel en ligne (FCEL)  et en interagissant avec les fournisseurs externes et les services de courtage infonuagique  de Services partagés Canada (SPC).
 * Participer aux exercices de prévision budgétaire trimestrielle. Collaborer avec la direction pour déterminer ses besoins en matière de dépenses à venir. Prévoir les besoins budgétaires pour toutes les dépenses en biens et services.
 * Suivre le processus de rémunération des participants à nos séances de recherche.
+* Vous avez un diplôme du secondaire  
 
 Vous êtes un(e) excellent(e) candidat(e) si :
 

@@ -16,7 +16,7 @@ The Canadian Digital Service (CDS) is changing how the federal government design
 
 To support this important mission, we are looking for an administrative officer to work alongside members of our internal operations team. Do you have a natural inclination toward logistics and planning? Are you the type of person who jumps in with both feet when it comes to taking on new tasks and projects? Do you thrive at handling multiple demands in a rapidly changing environment? Are you collaborative and great to work with? Are you bilingual and love working in both official languages? Are you looking for a job with lots of challenges and room for growth? 
 
-You would join a team that currently includes four other members. This role is classified as an [AS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc993929940) in the Administrative Services group.
+You would join a team that currently includes four other members. This role is determinate and classified as an [AS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc993929940) in the Administrative Services group.
 
 In this role, you will:
 
@@ -31,6 +31,7 @@ In this role, you will:
 
 You are an excellent candidate if you’re:
 
+* Bilingual (CBB)
 * Experienced and knowledgeable at government procurement processes
 * Responsive to the ever-changing needs of a fast-growing technology team.
 * Someone who enjoys working with data and tracking expenses for budgeting and forecasting exercises
@@ -38,6 +39,7 @@ You are an excellent candidate if you’re:
 * A person with a positive “can-do” spirit; a bureaucracy hacker who finds ways to get things done and iterate on current processes
 * Able to prioritize multiple tasks in a dynamic environment
 * Trustworthy with sensitive organizational, partner, and personal information
+* You have a secondary diploma degree
 
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
 
