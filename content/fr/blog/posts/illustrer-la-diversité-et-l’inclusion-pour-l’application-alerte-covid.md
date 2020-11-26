@@ -7,7 +7,7 @@ description: >-
   Canadiens et Canadiennes à ralentir la propagation de la COVID-19, mon but
   ultime a été de créer des images représentatives de la diversité humaine, afin
   que tous puissent sentir qu’ils font partie de la lutte.
-author: 'Sam Sadasivan, conception'
+author: 'Sam Sadasivan, Conception de services'
 date: 2020-11-26T14:40:26.743Z
 image: /img/cds/banner-covid-alert-illustration.jpg
 image-alt: >-
