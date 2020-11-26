@@ -8,7 +8,7 @@ description: "When I was asked to illustrate for COVID Alert, a nationwide
   fight. "
 author: Sam Sadasivan, Senior Service Designer
 date: 2020-11-26T14:14:53.427Z
-image: /img/cds/EN-Newsletter1.jpg
+image: /img/cds/banner-covid-alert-illustration.jpg
 image-alt: "People drawn as simplified stick figures in different types and
   coloured clothing, going about their day. "
 translationKey: blog-illustrating-covid-alert
