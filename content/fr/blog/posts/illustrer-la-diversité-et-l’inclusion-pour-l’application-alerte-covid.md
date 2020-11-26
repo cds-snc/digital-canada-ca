@@ -11,8 +11,7 @@ author: 'Sam Sadasivan, Conception de services'
 date: 2020-11-26T14:40:26.743Z
 image: /img/cds/banner-covid-alert-illustration.jpg
 image-alt: >-
-  Des personnes dessinées en bonhommes allumettes, portant divers types de
-  vêtements de différentes couleurs et se promenant.
+  Des personnes dessinées en bonhommes allumettes, portant divers types de vêtements de différentes couleurs et se promenant.
 translationKey: blog-illustrating-covid-alert
 thumb: /img/cds/thumbnails/banner-covid-alert-illustration.jpg
 processed: 1606404367795
