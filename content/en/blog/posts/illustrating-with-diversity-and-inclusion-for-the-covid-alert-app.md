@@ -66,7 +66,7 @@ A lot of illustrations of people with minimal colour palettes pigment those with
 
 I decided not to give lighter skin characters in the app pigmentation in order to give **equal contrast and tone to all characters** featured on a screen. In the following examples of side by side tests, you can see the difference that a small design choice makes in allowing characters with different skin tones to be seen and represented more equally, resulting in a more inclusive design. 
 
-![Three images side by side. The first image is an illustration of a group of people standing together with masks on, where light-skinned pink toned characters are given pigmentation. The second image is the same illustration, but with light-skinned characters without pigmentation. The third is illustration with light-skinned characters with yellow toned pigmentation.](/img/cds/covid-alert-illustration3.jpg)
+![Three images side by side. The first image is an illustration of a group of people standing together with masks on, where light-skinned pink toned characters are given pigmentation. The second image is the same illustration, but with light-skinned characters without pigmentation. The third is illustration with light-skinned characters with yellow toned pigmentation.](/img/cds/covid-alert-illustration3.png)
 
 ***Reminder: You can show diversity beyond colour and hair.*** 
 

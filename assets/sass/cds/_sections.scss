@@ -1128,13 +1128,14 @@ span.livefr {
 }
 
 article.post {
-  // padding: 6rem 0;
+  padding: 6rem 0;
 
   @include mobile_only {
     // padding: 3rem 0;
   }
 
   img {
+    max-width: 100%;
     display: block;
     margin-right: auto;
     margin-left: auto;

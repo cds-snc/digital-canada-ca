@@ -65,7 +65,7 @@ Bon nombre d’illustrations créées à l’aide d’une palette réduite pigme
 
 J’ai donc décidé de ne pas pigmenter les personnages à la peau pâle dans l’application, **afin d’attribuer un contraste et un ton égaux à tous les personnages**. Dans les illustrations tests ci-dessous, vous pouvez voir la différence qu’engendre ce petit choix de conception, où je cherche à représenter de façon plus égalitaire les personnages ayant des teints différents. On aboutit donc à des images plus inclusives.
 
-![Trois illustrations côte à côte. La première montre un groupe de personnes portant un masque, les personnes à la peau pâle ayant une pigmentation. La deuxième illustration montre la même chose, mais les personnes à la peau pâle n’ont aucune pigmentation. La troisième illustration montre les personnes à la peau pâle avec une pigmentation teintée de jaune.](/img/cds/covid-alert-illustration3.jpg)
+![Trois illustrations côte à côte. La première montre un groupe de personnes portant un masque, les personnes à la peau pâle ayant une pigmentation. La deuxième illustration montre la même chose, mais les personnes à la peau pâle n’ont aucune pigmentation. La troisième illustration montre les personnes à la peau pâle avec une pigmentation teintée de jaune.](/img/cds/covid-alert-illustration3.png)
 
 ***Rappel : C’est possible de montrer la diversité ailleurs que dans les cheveux et le teint.***
 
