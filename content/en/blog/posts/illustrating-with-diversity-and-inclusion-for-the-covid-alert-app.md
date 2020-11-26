@@ -1,19 +1,20 @@
 ---
 layout: blog
 title: Illustrating with diversity and inclusion for the COVID Alert app
-description: "When I was asked to illustrate for COVID Alert, a nationwide
-  exposure notification application to help Canadians slow the spread of
-  COVID-19, my ultimate goal was to create designs that included a full range of
-  diversity in order to allow everyone to feel like they were included in the
-  fight. "
-author: Sam Sadasivan, Senior Service Designer
+description: >-
+  When I was asked to illustrate for COVID Alert, a nationwide exposure
+  notification application to help Canadians slow the spread of COVID-19, my
+  ultimate goal was to create designs that included a full range of diversity in
+  order to allow everyone to feel like they were included in the fight. 
+author: 'Sam Sadasivan, Senior Service Designer'
 date: 2020-11-26T14:14:53.427Z
 image: /img/cds/banner-covid-alert-illustration.jpg
-image-alt: "People drawn as simplified stick figures in different types and
-  coloured clothing, going about their day. "
+image-alt: >-
+  People drawn as simplified stick figures in different types and coloured
+  clothing, going about their day. 
 translationKey: blog-illustrating-covid-alert
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/banner-covid-alert-illustration.jpg
+processed: 1606404367705
 ---
 A healthcare app that reminds us of a particularly difficult time is not always going to be a comfortable experience to build - or to use. 
 
@@ -37,7 +38,7 @@ As I began the process of designing each screen, I would first show the team its
 
 While critique sometimes gets a bad rap, it was crucial to this design process, providing insight into how these illustrations could be seen and understood by those who would use the app. I never said no to reworking a rough draft of a concept because I relied on my team’s honest critique, which ultimately saved us a lot of time and iterations when the visuals later went through rounds of testing.
 
-** *Reminder: Critique can provide opportunities for dialogue and genuine communication.*** 
+***Reminder: Critique can provide opportunities for dialogue and genuine communication.*** 
 
 ## Reflect diverse populations within Canada — or at least try to
 
@@ -67,7 +68,7 @@ I decided not to give lighter skin characters in the app pigmentation in order t
 
 ![Three images side by side. The first image is an illustration of a group of people standing together with masks on, where light-skinned pink toned characters are given pigmentation. The second image is the same illustration, but with light-skinned characters without pigmentation. The third is illustration with light-skinned characters with yellow toned pigmentation.](/img/cds/covid-alert-illustration3.jpg)
 
-** *Reminder: You can show diversity beyond colour and hair.*** 
+***Reminder: You can show diversity beyond colour and hair.*** 
 
 ## Promote more visual storytelling in government services
 
@@ -79,10 +80,11 @@ Meanwhile, while some of us rely on the act of reading to ensure we follow instr
 
 COVID Alert was an opportunity to show how important user experience in visual design is. When we’re building services, we’re still trying to make our message and story as accessible as we possibly can to as many people, in and outside of Canada.
 
-** *Reminder: A post it picture and a map can’t always tell the right story.*** 
+***Reminder: A post it picture and a map can’t always tell the right story.*** 
 
 > Visual storytelling is more than an aesthetic - it’s a core feature that can impact whether people see themselves in a service. 
 
 A big part of COVID Alert’s success is based on whether people understand and trust the service.
 
 Of course, putting the app out into the world doesn’t mean the work is done - our visual concepts are continually being tested and iterated on. We [welcome feedback](mailto:CDS-SNC@tbs-sct.gc.ca) about the app, and hope COVID Alert’s illustrations help capture Canada’s diversity of experiences.
+

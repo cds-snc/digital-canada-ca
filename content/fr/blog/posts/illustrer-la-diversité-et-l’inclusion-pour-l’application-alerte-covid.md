@@ -1,19 +1,21 @@
 ---
 layout: blog
 title: Illustrer la diversité et l’inclusion pour l’application Alerte COVID
-description: Quand on m’a demandé de faire les illustrations d’Alerte COVID, une
+description: >-
+  Quand on m’a demandé de faire les illustrations d’Alerte COVID, une
   application nationale de notification d’exposition destinée à aider les
   Canadiens et Canadiennes à ralentir la propagation de la COVID-19, mon but
   ultime a été de créer des images représentatives de la diversité humaine, afin
   que tous puissent sentir qu’ils font partie de la lutte.
-author: Sam Sadasivan, conception
+author: 'Sam Sadasivan, conception'
 date: 2020-11-26T14:40:26.743Z
 image: /img/cds/banner-covid-alert-illustration.jpg
-image-alt: Des personnes dessinées en bonhommes allumettes, portant divers types
-  de vêtements de différentes couleurs et se promenant.
+image-alt: >-
+  Des personnes dessinées en bonhommes allumettes, portant divers types de
+  vêtements de différentes couleurs et se promenant.
 translationKey: illustrating-covid-alert
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/banner-covid-alert-illustration.jpg
+processed: 1606404367795
 ---
 Une application mobile sanitaire, qui se concentre sur un moment particulièrement difficile de notre vie, n’est pas toujours ce qu’il y a de plus agréable à construire — ou à utiliser. 
 
@@ -37,7 +39,7 @@ C’est ainsi que j’ai commencé à concevoir chaque écran, en montrant mon c
 
 Les séances de critique ont parfois mauvaise réputation. Néanmoins, elles ont été essentielles à notre processus de conception, car elles ont permis de savoir comment les illustrations pouvaient être perçues et comprises par les personnes qui allaient utiliser l’application. Je n’ai jamais refusé de retravailler l’ébauche d’un concept, sachant les critiques de mon équipe sincères, ce qui nous a épargné bien du temps et bien des itérations au moment de tester les illustrations.
 
-***Rappel : Les critiques ouvrent la porte aux échanges et à de franches discussions*.**
+***Rappel : Les critiques ouvrent la porte aux échanges et à de franches discussions.***
 
 ## Représenter (du mieux possible) la diversité de la population canadienne
 
@@ -65,7 +67,7 @@ J’ai donc décidé de ne pas pigmenter les personnages à la peau pâle dans l
 
 ![Trois illustrations côte à côte. La première montre un groupe de personnes portant un masque, les personnes à la peau pâle ayant une pigmentation. La deuxième illustration montre la même chose, mais les personnes à la peau pâle n’ont aucune pigmentation. La troisième illustration montre les personnes à la peau pâle avec une pigmentation teintée de jaune.](/img/cds/covid-alert-illustration3.jpg)
 
-***Rappel : C’est possible de montrer la diversité ailleurs que dans les cheveux et le teint*.**
+***Rappel : C’est possible de montrer la diversité ailleurs que dans les cheveux et le teint.***
 
 ## Encourager le recours à la narration visuelle dans les services gouvernementaux
 
@@ -77,10 +79,11 @@ Par ailleurs, si certains d’entre nous nous contentons de lire les instruction
 
 Alerte COVID nous a donné la chance de souligner l’importance de l’expérience utilisateur d’un point de vue visuel. Quand nous créons des services, nous essayons toujours de rendre notre message le plus accessible possible au plus grand nombre de personnes possible, aussi bien à l’intérieur qu’à l’extérieur du Canada.
 
-***Rappel : Une photo de Post-it et un diagramme de service ne racontent pas toujours ce que l’on veut*.**
+***Rappel : Une photo de Post-it et un diagramme de service ne racontent pas toujours ce que l’on veut.***
 
 > La narration visuelle ne sert pas seulement un but esthétique; elle peut faire en sorte que les personnes se sentent incluses dans un service ou non.
 
 Le succès d’Alerte COVID dépend en grande partie de la compréhension du service et de la confiance que les gens lui portent.
 
 Bien sûr, ce n’est pas parce que l’application est lancée que le travail est terminé. Nos concepts visuels sont continuellement testés et améliorés. Nous serions ravis de [recevoir vos commentaires](mailto:CDS-SNC@tbs-sct.gc.ca), et nous espérons que les illustrations d’Alerte COVID reflètent bien la diversité canadienne.
+
