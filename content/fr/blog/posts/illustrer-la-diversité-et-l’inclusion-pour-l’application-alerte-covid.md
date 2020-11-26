@@ -13,7 +13,7 @@ image: /img/cds/banner-covid-alert-illustration.jpg
 image-alt: >-
   Des personnes dessinées en bonhommes allumettes, portant divers types de
   vêtements de différentes couleurs et se promenant.
-translationKey: illustrating-covid-alert
+translationKey: blog-illustrating-covid-alert
 thumb: /img/cds/thumbnails/banner-covid-alert-illustration.jpg
 processed: 1606404367795
 ---
