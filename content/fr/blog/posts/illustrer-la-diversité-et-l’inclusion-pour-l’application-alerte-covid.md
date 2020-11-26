@@ -6,7 +6,7 @@ description: Quand on m’a demandé de faire les illustrations d’Alerte COVID
   Canadiens et Canadiennes à ralentir la propagation de la COVID-19, mon but
   ultime a été de créer des images représentatives de la diversité humaine, afin
   que tous puissent sentir qu’ils font partie de la lutte.
-author: Sam Sadasivan, Senior Service Designer
+author: Sam Sadasivan, conception
 date: 2020-11-26T14:40:26.743Z
 image: /img/cds/banner-covid-alert-illustration.jpg
 image-alt: Des personnes dessinées en bonhommes allumettes, portant divers types
