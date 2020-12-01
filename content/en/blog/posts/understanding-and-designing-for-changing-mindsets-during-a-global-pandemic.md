@@ -18,17 +18,22 @@ We started building the COVID Alert app a few months into this time of uncertain
 
 Even before COVID-19, we had struggled with some design research methods, such as personas, because they tended to reduce peoples’ dynamic experiences to one static representation. In this moment in particular, we needed a way to understand the spectrum of emotions, attitudes, and experiences of Canadians while acknowledging that people’s perspectives can change based on their day-to-day circumstances. In that search, we found a methodology new to most of us: mindsets. 
 
-
 ## What are mindsets?
+
 Mindsets are often used in the private sector to inform design by understanding varying attitudes, behaviours and motivations of users within a particular context. Mindsets are not static and set, but rather fluid and dynamic. When complete, they suggest the different needs people have, while acknowledging that these could shift.  
 
 On a practical level, this methodology often uses two variables to map out a set of axes onto which the mindsets sit. The variables are factors that impact a person’s views or needs. There are four mindsets that sit in each quadrant of the axes. 
 
 
+
+![A matrix with 4 quadrants. On the “north” and “south” points of the matrix, it reads, “Variable 2”. On the “east” and “west” points, it reads, “Variable 1”. There are 4 circles that read “Mindset” sitting in each quadrant.](/img/cds/blog-mindsets-1-en.jpg)
+
 ## How we used mindsets for COVID Alert
+
 We developed our mindsets for COVID Alert based on research collected during the first three months of developing the app. This included two sets of survey responses from a total of 350 people, five rounds of interviews and usability tests, and an analysis of over 200 support requests. Three of us from the team – two researchers and a service designer – reviewed and analyzed these findings to understand the varying perspectives of people who use the COVID Alert app.
 
-## Factors affecting mindsets 
+## Factors affecting mindsets
+
 In our research, we uncovered several factors that could impact peoples’ experiences of COVID Alert. However, two of them emerged as the primary ones shaping people’s willingness to download COVID Alert: **level of trust** and **level of information seeking**. 
 
 ### Variable 1: Trust versus distrust
@@ -112,22 +117,16 @@ After mapping out the axes, we drafted the four mindsets that could fit in them.
    </tbody>
 </table>
 
-
 People in each of these mindsets approach the app differently. They each have their own motivations and biases that can evolve over time. 
 
 ## Shifting mindsets
+
 As we mentioned, life changes and people’s mindsets change along with it. My sister’s use of the app illustrates this point. When COVID Alert first came out, she was in what we might call a “reluctant” mindset. She didn’t trust that the app would protect her privacy so she didn’t download it. But at the end of the summer when she needed to start taking public transit again to go to work and became aware of the second wave of the virus, her attitude changed. Because of the changes to her circumstances, she moved from a “reluctant” to a “cautious” mindset. She downloaded the app to protect herself and the people close to her. 
 
 In contrast to design artifacts like personas or use cases, mindsets account for this type of fluidity. They invite us to think about factors that could shift people from one mindset to another. Some of these factors include clarifying information, improving the user interface, and crafting clear marketing messages that address the needs of each mindset. As such, we are focusing these design changes to support shifts in mindsets. 
 
-
 ## Always more to learn
+
 Mindsets represent part, but not all of the possible attitudes and feelings that a person could have. We  – as a team – had to narrow down our focus to four common mindsets that are most prevalent right now. We know mindsets will continue to change as the context evolves, just as it has these past few months. Recognizing that these mindsets are not complete, even for this moment, means we will continue to test and refine them over time. 
 
-Do you want to be part of this learning experience? [Sign up](https://digital.canada.ca/covid-alert-research-signup/) to participate in future research for COVID Alert, and help us ensure we’re meeting your changing needs. 
-
-
-
-
-
-
+Do you want to be part of this learning experience? [Sign up](https://digital.canada.ca/covid-alert-research-signup/) to participate in future research for COVID Alert, and help us ensure we’re meeting your changing needs.
