@@ -253,6 +253,10 @@
   .blog-posts {
     @include tablet { margin-bottom: 3rem; }
 
+    img {
+      width: 50%;
+    }
+
     .post {
       display: flex;
       flex-direction: column;
@@ -1131,7 +1135,10 @@ article.post {
   }
 
   img {
-    width: 100%;
+    max-width: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   a.large-link {
