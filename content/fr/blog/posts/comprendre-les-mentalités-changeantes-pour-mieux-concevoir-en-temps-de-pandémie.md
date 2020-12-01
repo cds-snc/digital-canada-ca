@@ -51,7 +51,7 @@ Nous avons utilisé cette variable comme axe Y.
 
 Après avoir schématisé les axes, nous y avons ajouté les mentalités. Nous avons perfectionné ces mentalités grâce à l’analyse de données de sondage supplémentaires et à des discussions avec des concepteurs de contenu, jusqu’à ce que nous ayons quatre mentalités pour les personnes utilisant Alerte COVID.
 
-\[Alt:  Un schéma à 4 quadrants. Le nord de l’axe vertical correspond à « En quête d’information », et le sud de l’axe vertical correspond à « Pas en quête d’information ». L’est de l’axe horizontal correspond à « Confiant », et l’ouest de l’axe horizontal correspond à « Méfiant ». À partir du quadrant supérieur gauche, et en sens horaire, les quatre cercles dans les quadrants sont étiquetés « Prudent », « Serviable », « Coopératif » et « Réticent ».]
+![Un schéma à 4 quadrants. Le nord de l’axe vertical correspond à « En quête d’information », et le sud de l’axe vertical correspond à « Pas en quête d’information ». L’est de l’axe horizontal correspond à « Confiant », et l’ouest de l’axe horizontal correspond à « Méfiant ». À partir du quadrant supérieur gauche, et en sens horaire, les quatre cercles dans les quadrants sont étiquetés « Prudent », « Serviable », « Coopératif » et « Réticent ».](/img/cds/blog-mindsets-2-fr.jpg)
 
 <table>
    <tbody>
