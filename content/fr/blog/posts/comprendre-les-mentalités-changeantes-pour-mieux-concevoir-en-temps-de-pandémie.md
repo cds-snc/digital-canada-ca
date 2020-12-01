@@ -129,4 +129,6 @@ Contrairement aux approches de conception comme les personas ou les scénarios d
 ## Nous n’avons pas fini d’apprendre
 
 Les mentalités représentent une partie, mais pas l’entièreté des attitudes et sentiments possibles qu’une personne peut avoir. En équipe, nous avons dû nous limiter à quatre mentalités communes, les plus répandues. Nous savons qu’elles continueront de changer au fur et à mesure que le contexte évolue, tout comme elles l’ont fait au cours des derniers mois. Reconnaissant que ces mentalités ne sont pas complètes, même à l’heure actuelle, nous continuerons de les tester et de les peaufiner.
+
+
 Aimeriez-vous faire partie de cet apprentissage? [Inscrivez-vous](https://numerique.canada.ca/inscription-recherche-alerte-covid/) pour participer à nos activités de recherche sur Alerte COVID et nous aider à répondre à vos besoins changeants.
