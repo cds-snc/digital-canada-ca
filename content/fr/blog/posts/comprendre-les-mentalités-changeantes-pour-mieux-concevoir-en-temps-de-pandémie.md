@@ -19,19 +19,20 @@ Nous avons commencé à développer Alerte COVID quelques mois après le début 
 
 Même avant la COVID-19, certaines méthodes de recherche en conception nous convenaient plus ou moins, notamment le recours aux personas, qui réduisent souvent le vécu fluctuant des gens à une expérience unique et statique. En pandémie, il nous fallait un moyen de comprendre toute la gamme d’émotions, d’attitudes et d’expériences des Canadiens et Canadiennes, tout en reconnaissant que leurs perceptions peuvent changer au jour le jour, selon les circonstances. Nous avons alors découvert une méthodologie inconnue de la plupart d’entre nous : les mentalités.
 
-
 ## L’approche des mentalités, c’est quoi?
+
 Le recours aux mentalités est fréquent dans le secteur privé pour éclairer la conception, car il permet de comprendre les attitudes, les comportements et les motivations changeantes des utilisateurs dans un contexte particulier. Les mentalités ne sont pas fixes, mais fluides. Elles peuvent révéler les divers besoins qu’ont les personnes selon leurs perceptions, émotions et situations, tout en reconnaissant que ces dernières peuvent changer.
 
 En pratique, cette méthode utilise souvent deux variables représentées par deux axes perpendiculaires pour illustrer les mentalités. Les variables sont des facteurs qui influencent les perceptions et les besoins d’une personne. Il y a quatre mentalités, une dans chacun des quadrants créés par les axes.
 
-
-[Alt: Un schéma à 4 quadrants. L’axe horizontal correspond à la variable 1, et l’axe vertical correspond à la variable 2. Chacun des quadrants comprend un cercle où il est écrit « Mentalité ».]
+![Un schéma à 4 quadrants. L’axe horizontal correspond à la variable 1, et l’axe vertical correspond à la variable 2. Chacun des quadrants comprend un cercle où il est écrit « Mentalité »](/img/cds/blog-mindsets-1-fr.jpg)
 
 ## Comment nous avons utilisé les mentalités avec Alerte COVID
+
 Nous avons élaboré les mentalités liées à Alerte COVID en nous fondant sur les recherches menées pendant les trois premiers mois de développement de l’application. Nous avions deux ensembles de réponses de sondage, avec un total de 350 répondants, cinq séries d’entrevues et de tests d’utilisabilité, et une analyse de plus de 200 demandes d’assistance. À nous trois (deux chercheuses et un concepteur de service), nous avons analysé ces données pour comprendre les diverses perceptions des personnes qui utilisent l’application Alerte COVID.
 
-## Facteurs influençant les mentalités 
+## Facteurs influençant les mentalités
+
 Pendant notre étude, nous avons relevé plusieurs facteurs qui pouvaient influencer l’expérience des gens par rapport à Alerte COVID. Mais nous avons dégagé les deux principaux qui jouent sur la disposition des personnes à télécharger Alerte COVID: le **degré de confiance** et le **degré de quête d’information**. 
 
 ### Variable 1 : Confiance versus méfiance
@@ -50,8 +51,7 @@ Nous avons utilisé cette variable comme axe Y.
 
 Après avoir schématisé les axes, nous y avons ajouté les mentalités. Nous avons perfectionné ces mentalités grâce à l’analyse de données de sondage supplémentaires et à des discussions avec des concepteurs de contenu, jusqu’à ce que nous ayons quatre mentalités pour les personnes utilisant Alerte COVID.
 
-
-[Alt:  Un schéma à 4 quadrants. Le nord de l’axe vertical correspond à « En quête d’information », et le sud de l’axe vertical correspond à « Pas en quête d’information ». L’est de l’axe horizontal correspond à « Confiant », et l’ouest de l’axe horizontal correspond à « Méfiant ». À partir du quadrant supérieur gauche, et en sens horaire, les quatre cercles dans les quadrants sont étiquetés « Prudent », « Serviable », « Coopératif » et « Réticent ».]
+\[Alt:  Un schéma à 4 quadrants. Le nord de l’axe vertical correspond à « En quête d’information », et le sud de l’axe vertical correspond à « Pas en quête d’information ». L’est de l’axe horizontal correspond à « Confiant », et l’ouest de l’axe horizontal correspond à « Méfiant ». À partir du quadrant supérieur gauche, et en sens horaire, les quatre cercles dans les quadrants sont étiquetés « Prudent », « Serviable », « Coopératif » et « Réticent ».]
 
 <table>
    <tbody>
@@ -118,17 +118,15 @@ Après avoir schématisé les axes, nous y avons ajouté les mentalités. Nous a
    </tbody>
 </table>
 
-
-
 Les personnes qui ont ces mentalités perçoivent l’application de façon différente. Elles ont leurs propres motivations et biais, qui peuvent évoluer.
+
 ## Changer de mentalité
+
 Comme nous l’avons mentionné, les mentalités changent au gré des événements. La réaction de ma soeur face à l’application en est un exemple. Quand Alerte COVID est sortie, elle avait en quelque sorte la mentalité « réticente ». Elle ne croyait pas que l’application allait protéger sa vie privée, donc elle ne l’a pas téléchargée. Mais vers la fin de l’été, alors qu’elle devait commencer à prendre le transport en commun pour se rendre au travail, elle a pris conscience de la deuxième vague. Et son attitude a changé. Parce que sa situation avait changé, elle est passée d’une mentalité « réticente » à « prudente ». Elle a téléchargé l’application pour se protéger et protéger ses proches.
 
 Contrairement aux approches de conception comme les personas ou les scénarios d’utilisation, les mentalités tiennent compte de cette fluctuation. Elles nous invitent à réfléchir aux facteurs qui pourraient faire passer les personnes d’une mentalité à une autre. Ces facteurs peuvent consister à clarifier des informations, à améliorer l’interface utilisateur ou à créer des messages publicitaires clairs qui répondent aux besoins de chaque mentalité. Nous cherchons donc à aligner nos changements de conception sur les changements de mentalité.
 
-
 ## Nous n’avons pas fini d’apprendre
+
 Les mentalités représentent une partie, mais pas l’entièreté des attitudes et sentiments possibles qu’une personne peut avoir. En équipe, nous avons dû nous limiter à quatre mentalités communes, les plus répandues. Nous savons qu’elles continueront de changer au fur et à mesure que le contexte évolue, tout comme elles l’ont fait au cours des derniers mois. Reconnaissant que ces mentalités ne sont pas complètes, même à l’heure actuelle, nous continuerons de les tester et de les peaufiner.
 Aimeriez-vous faire partie de cet apprentissage? [Inscrivez-vous](https://numerique.canada.ca/inscription-recherche-alerte-covid/) pour participer à nos activités de recherche sur Alerte COVID et nous aider à répondre à vos besoins changeants.
-
-
