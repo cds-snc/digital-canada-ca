@@ -24,8 +24,6 @@ Mindsets are often used in the private sector to inform design by understanding 
 
 On a practical level, this methodology often uses two variables to map out a set of axes onto which the mindsets sit. The variables are factors that impact a person’s views or needs. There are four mindsets that sit in each quadrant of the axes. 
 
-
-
 ![A matrix with 4 quadrants. On the “north” and “south” points of the matrix, it reads, “Variable 2”. On the “east” and “west” points, it reads, “Variable 1”. There are 4 circles that read “Mindset” sitting in each quadrant.](/img/cds/blog-mindsets-1-en.jpg)
 
 ## How we used mindsets for COVID Alert
