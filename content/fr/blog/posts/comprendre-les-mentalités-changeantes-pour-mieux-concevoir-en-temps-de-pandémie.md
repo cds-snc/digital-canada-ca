@@ -57,6 +57,72 @@ Après avoir schématisé les axes, nous y avons ajouté les mentalités. Nous a
 
 ![Un schéma à 4 quadrants. Le nord de l’axe vertical correspond à « En quête d’information », et le sud de l’axe vertical correspond à « Pas en quête d’information ». L’est de l’axe horizontal correspond à « Confiant », et l’ouest de l’axe horizontal correspond à « Méfiant ». À partir du quadrant supérieur gauche, et en sens horaire, les quatre cercles dans les quadrants sont étiquetés « Prudent », « Serviable », « Coopératif » et « Réticent ».](/img/cds/blog-mindsets-2-fr.jpg)
 
+<table>
+   <tbody>
+       <tr>
+           <td>
+           <h2>Prudent</h2>
+           <h4>Énoncé de valeurs :</h4>
+           <p>Je valorise ma sécurité personnelle et celle de mes proches. Je souhaite trouver les informations qui me permettent à moi et à ma famille de rester en sécurité.</p>
+           <h4>Traits de caractère :</h4>
+           <ul>
+             <li>Appréhensif</li>
+             <li>Pragmatique</li>
+             <li>Inquiet</li>
+           </ul>
+           <p><span class="bolded">Sens des responsabilités sociales :</span> Modéré ••</p>
+           <p><span class="bolded">Degré d’anxiété :</span> Élevé •••</p>
+           <p><span class="bolded">Adhésion à l’application :</span> Élevée •••</p>
+           </td>
+           <td>
+           <h2>Serviable</h2>
+           <h4>Énoncé de valeurs : </h4>
+           <p>Je valorise la santé et le bien-être de la société. Je me préoccupe du bien-être des autres et je considère que ma santé est liée à celle de ma communauté.</p>
+           <h4>Traits de caractère :</h4>
+           <ul>
+             <li>Militant</li>
+             <li>Compatissant</li>
+             <li>Consciencieux</li>
+           </ul>
+           <p><span class="bolded">Sens des responsabilités sociales : </span>Élevé•••</p>
+           <p><span class="bolded">Degré d’anxiété :</span> Élevé •••</p>
+           <p><span class="bolded">Adhésion à l’application :</span> Élevée •••</p>
+           </td>
+       </tr>
+      <tr>
+           <td>
+           <h2>Réticent</h2>
+           <h4>Énoncé de valeurs :</h4>
+           <p>Je valorise ma vie privée et mon pouvoir décisionnel sur l’utilisation de mes données. Je me préoccupe du fait que suivre les consignes sanitaires ait une efficacité limitée.</p>
+           <h4>Traits de caractère :</h4>
+           <ul>
+             <li>Cynique</li>
+             <li>Réticent</li>
+             <li>Suspicieux</li>
+           </ul>
+           <p><span class="bolded">Sens des responsabilités sociales : </span>Faible •</p>
+           <p><span class="bolded">Degré d’anxiété :</span> Faible •</p>
+           <p><span class="bolded">Adhésion à l’application :</span> Faible •</p>
+           </td>
+           <td>
+           <h2>Coopératif</h2>
+           <h4>Énoncé de valeurs :</h4>
+           <p>Je valorise les opinions et les recommandations des autres. Je peux en savoir beaucoup sur l’application, ou pas. Si c’est le cas, je pense que c’est un moyen utile pour freiner la propagation de la COVID-19.</p>
+           <h4>Traits de caractère : </h4>
+           <ul>
+             <li>Conformiste</li>
+             <li>Flexible</li>
+             <li>Confiant</li>
+           </ul>
+           <p><span class="bolded">Sens des responsabilités sociales : </span>Modéré ••</p>
+           <p><span class="bolded">Degré d’anxiété :</span> Faible •</p>
+           <p><span class="bolded">Adhésion à l’application :</span> Modérée ••</p>
+           </td>
+       </tr>
+   </tbody>
+</table>
+
+
 Les personnes qui ont ces mentalités perçoivent l’application de façon différente. Elles ont leurs propres motivations et biais, qui peuvent évoluer.
 
 ## Changer de mentalité
