@@ -54,14 +54,7 @@
   <meta name="google-site-verification" content="sBa9o-9RVlIHHlyeaHgIir20ZKcSuzLVgCCeXIMgKZg" />
 </head>
 
-{{ with $pageTitle }}
-
-<body vocab="http://schema.org/" typeof="WebPage" class="{{ $pageTitle }} {{ (string ( $.Site.Language) ) }}">
-  {{ else }}
-
-  <body vocab="http://schema.org/" typeof="WebPage"
-    class="{{if eq .Section "blog"}}page-blogpost{{else}}{{ lower .Params.title }}{{end}} {{ (string ( $.Site.Language) ) }}">
-    {{end}}
+<body vocab="http://schema.org/" typeof="WebPage">
 
     <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
     <!-- EN -->
