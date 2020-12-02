@@ -1,18 +1,21 @@
 ---
 layout: blog
-title: Comprendre les mentalités changeantes pour mieux concevoir en temps de pandémie
-description: Alerte COVID avise les personnes d’une exposition potentielle à la
-  COVID-19 dans le but de limiter la transmission communautaire. Mais en cette
-  période d’incertitude, comment concevoir pour des besoins qui changent
-  constamment?
-author: "Jeana Frost, recherche en conception, et Brian Hendrick, conception de
-  services "
+title: >-
+  Comprendre les mentalités changeantes pour mieux concevoir en temps de
+  pandémie
+description: >-
+  Alerte COVID avise les personnes d’une exposition potentielle à la COVID-19
+  dans le but de limiter la transmission communautaire. Mais en cette période
+  d’incertitude, comment concevoir pour des besoins qui changent constamment?
+author: >-
+  Jeana Frost, recherche en conception, et Brian Hendrick, conception de
+  services 
 date: 2020-12-02T15:35:14.762Z
 image: /img/cds/blog-banner-mindsets.jpg
-image-alt: Quatre personnes affichant diverses expressions, de la réticence à la joie.
+image-alt: 'Quatre personnes affichant diverses expressions, de la réticence à la joie.'
 translationKey: mindsets-covidalert
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/blog-banner-mindsets.jpg
+processed: 1606924352001
 ---
 Nous sommes en décembre 2020. Quand nous réfléchissons aux neuf derniers mois de pandémie, nos vies d’avant la COVID-19 semblent bien loin. Les préoccupations que nous avions au début de la crise ressemblent à peine à celles d’aujourd’hui. Que nos peurs et nos craintes concernent le bien-être de nos enfants, la santé de nos aînés, notre stabilité d’emploi, ou le risque de sortir dehors, elles changent chaque jour selon l’état de notre monde.
 
@@ -53,6 +56,72 @@ Nous avons utilisé cette variable comme axe Y.
 Après avoir schématisé les axes, nous y avons ajouté les mentalités. Nous avons perfectionné ces mentalités grâce à l’analyse de données de sondage supplémentaires et à des discussions avec des concepteurs de contenu, jusqu’à ce que nous ayons quatre mentalités pour les personnes utilisant Alerte COVID.
 
 ![Un schéma à 4 quadrants. Le nord de l’axe vertical correspond à « En quête d’information », et le sud de l’axe vertical correspond à « Pas en quête d’information ». L’est de l’axe horizontal correspond à « Confiant », et l’ouest de l’axe horizontal correspond à « Méfiant ». À partir du quadrant supérieur gauche, et en sens horaire, les quatre cercles dans les quadrants sont étiquetés « Prudent », « Serviable », « Coopératif » et « Réticent ».](/img/cds/blog-mindsets-2-fr.jpg)
+
+<table>
+   <tbody>
+       <tr>
+           <td>
+           <h2>Prudent</h2>
+           <h4>Énoncé de valeurs :</h4>
+           <p>Je valorise ma sécurité personnelle et celle de mes proches. Je souhaite trouver les informations qui me permettent à moi et à ma famille de rester en sécurité.</p>
+           <h4>Traits de caractère :</h4>
+           <ul>
+             <li>Appréhensif</li>
+             <li>Pragmatique</li>
+             <li>Inquiet</li>
+           </ul>
+           <p><span class="bolded">Sens des responsabilités sociales :</span> Modéré ••</p>
+           <p><span class="bolded">Degré d’anxiété :</span> Élevé •••</p>
+           <p><span class="bolded">Adhésion à l’application :</span> Élevée •••</p>
+           </td>
+           <td>
+           <h2>Serviable</h2>
+           <h4>Énoncé de valeurs : </h4>
+           <p>Je valorise la santé et le bien-être de la société. Je me préoccupe du bien-être des autres et je considère que ma santé est liée à celle de ma communauté.</p>
+           <h4>Traits de caractère :</h4>
+           <ul>
+             <li>Militant</li>
+             <li>Compatissant</li>
+             <li>Consciencieux</li>
+           </ul>
+           <p><span class="bolded">Sens des responsabilités sociales : </span>Élevé•••</p>
+           <p><span class="bolded">Degré d’anxiété :</span> Élevé •••</p>
+           <p><span class="bolded">Adhésion à l’application :</span> Élevée •••</p>
+           </td>
+       </tr>
+      <tr>
+           <td>
+           <h2>Réticent</h2>
+           <h4>Énoncé de valeurs :</h4>
+           <p>Je valorise ma vie privée et mon pouvoir décisionnel sur l’utilisation de mes données. Je me préoccupe du fait que suivre les consignes sanitaires ait une efficacité limitée.</p>
+           <h4>Traits de caractère :</h4>
+           <ul>
+             <li>Cynique</li>
+             <li>Réticent</li>
+             <li>Suspicieux</li>
+           </ul>
+           <p><span class="bolded">Sens des responsabilités sociales : </span>Faible •</p>
+           <p><span class="bolded">Degré d’anxiété :</span> Faible •</p>
+           <p><span class="bolded">Adhésion à l’application :</span> Faible •</p>
+           </td>
+           <td>
+           <h2>Coopératif</h2>
+           <h4>Énoncé de valeurs :</h4>
+           <p>Je valorise les opinions et les recommandations des autres. Je peux en savoir beaucoup sur l’application, ou pas. Si c’est le cas, je pense que c’est un moyen utile pour freiner la propagation de la COVID-19.</p>
+           <h4>Traits de caractère : </h4>
+           <ul>
+             <li>Conformiste</li>
+             <li>Flexible</li>
+             <li>Confiant</li>
+           </ul>
+           <p><span class="bolded">Sens des responsabilités sociales : </span>Modéré ••</p>
+           <p><span class="bolded">Degré d’anxiété :</span> Faible •</p>
+           <p><span class="bolded">Adhésion à l’application :</span> Modérée ••</p>
+           </td>
+       </tr>
+   </tbody>
+</table>
+
 
 Les personnes qui ont ces mentalités perçoivent l’application de façon différente. Elles ont leurs propres motivations et biais, qui peuvent évoluer.
 

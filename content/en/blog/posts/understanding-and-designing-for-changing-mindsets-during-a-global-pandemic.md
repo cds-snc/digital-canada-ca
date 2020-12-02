@@ -1,20 +1,21 @@
 ---
 layout: blog
 title: Understanding and designing for changing mindsets during a global pandemic
-description: COVID Alert helps inform people about possible exposures to
-  COVID-19 in order to limit its spread. But in this uncertain time, the
-  question becomes, how do we design for needs that are constantly changing?
-author: "Jeana Frost, Design Research and Brian Hendrick, Service Design "
+description: >-
+  COVID Alert helps inform people about possible exposures to COVID-19 in order
+  to limit its spread. But in this uncertain time, the question becomes, how do
+  we design for needs that are constantly changing?
+author: 'Jeana Frost, Design Research and Brian Hendrick, Service Design '
 date: 2020-12-02T15:05:58.424Z
 image: /img/cds/blog-banner-mindsets.jpg
-image-alt: "Four people ranging in emotions from happiness to reluctance.  "
+image-alt: 'Four people ranging in emotions from happiness to reluctance.  '
 translationKey: mindsets-covidalert
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/blog-banner-mindsets.jpg
+processed: 1606924351789
 ---
 It’s December 2020. When thinking about the last nine months of the pandemic, our lives before COVID-19 feel distant. Our concerns at the beginning of the crisis barely resemble how we’re feeling now. Our fears and anxieties about the well-being of our children, the health of our older relatives, the security of our livelihoods, or whether just going outside is worth the risk, change day-to-day depending on the state of the world. 
 
-We started building the COVID Alert app a few months into this time of uncertainty. As designers and researchers at the Canadian Digital Service (CDS), we’re building this service so it \[meets the needs of as many Canadians as possible](<https://digital.canada.ca/2020/10/02/building-an-effective-exposure-notification-service-like-covid-alert/>). But in this unprecedented time, the question becomes, \*\*how do we design for needs when they are constantly changing?\*\* 
+We started building the COVID Alert app a few months into this time of uncertainty. As designers and researchers at the Canadian Digital Service (CDS), we’re building this service so it [meets the needs of as many Canadians as possible](<https://digital.canada.ca/2020/10/02/building-an-effective-exposure-notification-service-like-covid-alert/>). But in this unprecedented time, the question becomes, **how do we design for needs when they are constantly changing?** 
 
 Even before COVID-19, we had struggled with some design research methods, such as personas, because they tended to reduce peoples’ dynamic experiences to one static representation. In this moment in particular, we needed a way to understand the spectrum of emotions, attitudes, and experiences of Canadians while acknowledging that people’s perspectives can change based on their day-to-day circumstances. In that search, we found a methodology new to most of us: mindsets. 
 
@@ -49,6 +50,71 @@ We used this as the primary y axis.
 ## COVID Alert mindsets
 
 ![A matrix with 4 quadrants. On the “north” point, it reads “Seeks info” and on the “south” points of the matrix, it reads, “Doesn’t Seek info”. On the “east” point it reads, “Trusting” and “west” point, it reads “Distrusting”. Starting from the top left going clockwise, the four different circles in the quadrants are labelled “Cautious”, “Helpful”, “Cooperative” and “Reluctant”.](/img/cds/blog-mindsets-2-en.jpg)
+
+<table>
+   <tbody>
+       <tr>
+           <td>
+           <h2>Cautious</h2>
+           <h4>Value statement</h4>
+           <p>I value my personal safety and the safety of people in my inner circle. I want access to the information that could help me and my family stay safe.</p>
+           <h4>Qualities</h4>
+           <ul>
+             <li>Apprehensive</li>
+             <li>Practical</li>
+             <li>Worried</li>
+           </ul>
+           <p><span class="bolded">Sense of social responsibility:</span> Moderate ••</p>
+           <p><span class="bolded">Anxiety level:</span> High •••</p>
+           <p><span class="bolded">Reception to using the app:</span> High •••</p>
+           </td>
+           <td>
+           <h2>Helpful</h2>
+           <h4>Value Statement</h4>
+           <p>I value the health and well-being of society. I am concerned about the well-being of others and see a connection between my health and the health of my community.</p>
+           <h4>Qualities</h4>
+           <ul>
+             <li>Advocating</li>
+             <li>Compassionate</li>
+             <li>Conscientious</li>
+           </ul>
+           <p><span class="bolded">Sense of social responsibility:</span> High •••</p>
+           <p><span class="bolded">Anxiety level:</span> High •••</p>
+           <p><span class="bolded">Reception to using the app:</span> High •••</p>
+           </td>
+       </tr>
+      <tr>
+           <td>
+           <h2>Reluctant</h2>
+           <h4>Value statement</h4>
+           <p>I value my privacy and the ability to choose how my data is shared. I am concerned about the limited effectiveness of following public health guidelines.</p>
+           <h4>Qualities</h4>
+           <ul>
+             <li>Cynical</li>
+             <li>Reluctant </li>
+             <li>Suspicious</li>
+           </ul>
+           <p><span class="bolded">Sense of social responsibility:</span> Low •</p>
+           <p><span class="bolded">Anxiety level:</span> Low •</p>
+           <p><span class="bolded">Reception to using the app:</span> Low •</p>
+           </td>
+           <td>
+           <h2>Cooperative</h2>
+           <h4>Value Statement</h4>
+           <p>I value the opinions and recommendations of others. I may or may not know much about the app. If I do, I think it is a good approach to help stop the spread of COVID-19. </p>
+           <h4>Qualities</h4>
+           <ul>
+             <li>Conforming</li>
+             <li>Flexible</li>
+             <li>Trusting</li>
+           </ul>
+           <p><span class="bolded">Sense of social responsibility:</span> Moderate ••</p>
+           <p><span class="bolded">Anxiety level:</span> Low •</p>
+           <p><span class="bolded">Reception to using the app:</span> Moderate ••</p>
+           </td>
+       </tr>
+   </tbody>
+</table>
 
 After mapping out the axes, we drafted the four mindsets that could fit in them. We iterated on these mindsets through analysis of additional survey data and discussions with content designers until we had four separate mindsets for people who use COVID Alert.
 
