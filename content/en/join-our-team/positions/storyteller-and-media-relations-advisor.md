@@ -2,11 +2,7 @@
 layout: job-posting
 type: section
 title: Storyteller and Media Relations Advisor
-description: Reporting to the Head of Outreach, this position is responsible for
-  media relations for CDS, liaising with our partners on media needs for our
-  projects and aiding the telling the CDS story. At CDS we believe that our
-  mission is best understood by telling the stories of the people who use and
-  build our products
+description: "Reporting to the Head of Outreach, this position is responsible for media relations for CDS, liaising with our partners on media needs for our projects and aiding the telling the CDS story. At CDS we believe that our mission is best understood by telling the stories of the people who use and build our products."
 archived: false
 leverId: acd80e98-0d20-48b0-aca8-cff7a7b2e7a4
 translationKey: storyteller-media-relations
@@ -45,4 +41,4 @@ CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orie
 
 Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future.
 
-\*A pool of qualified persons resulting from this process MAY be created and MAY be used to fill similar position with linguistic profiles (english essential, bilingual imperative BBB/BBB, bilingual imperative CBC/CBC, as well as tenures (indeterminate, deployment, acting, assignment, secondment, specified period) which may vary according to the position being staffed.
+*A pool of qualified persons resulting from this process MAY be created and MAY be used to fill similar position with linguistic profiles (english essential, bilingual imperative BBB/BBB, bilingual imperative CBC/CBC, as well as tenures (indeterminate, deployment, acting, assignment, secondment, specified period) which may vary according to the position being staffed.
