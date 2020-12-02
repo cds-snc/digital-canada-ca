@@ -51,6 +51,71 @@ We used this as the primary y axis.
 
 ![A matrix with 4 quadrants. On the “north” point, it reads “Seeks info” and on the “south” points of the matrix, it reads, “Doesn’t Seek info”. On the “east” point it reads, “Trusting” and “west” point, it reads “Distrusting”. Starting from the top left going clockwise, the four different circles in the quadrants are labelled “Cautious”, “Helpful”, “Cooperative” and “Reluctant”.](/img/cds/blog-mindsets-2-en.jpg)
 
+<table>
+   <tbody>
+       <tr>
+           <td>
+           <h2>Cautious</h2>
+           <h4>Value statement</h4>
+           <p>I value my personal safety and the safety of people in my inner circle. I want access to the information that could help me and my family stay safe.</p>
+           <h4>Qualities</h4>
+           <ul>
+             <li>Apprehensive</li>
+             <li>Practical</li>
+             <li>Worried</li>
+           </ul>
+           <p><span class="bolded">Sense of social responsibility:</span> Moderate ••</p>
+           <p><span class="bolded">Anxiety level:</span> High •••</p>
+           <p><span class="bolded">Reception to using the app:</span> High •••</p>
+           </td>
+           <td>
+           <h2>Helpful</h2>
+           <h4>Value Statement</h4>
+           <p>I value the health and well-being of society. I am concerned about the well-being of others and see a connection between my health and the health of my community.</p>
+           <h4>Qualities</h4>
+           <ul>
+             <li>Advocating</li>
+             <li>Compassionate</li>
+             <li>Conscientious</li>
+           </ul>
+           <p><span class="bolded">Sense of social responsibility:</span> High •••</p>
+           <p><span class="bolded">Anxiety level:</span> High •••</p>
+           <p><span class="bolded">Reception to using the app:</span> High •••</p>
+           </td>
+       </tr>
+      <tr>
+           <td>
+           <h2>Reluctant</h2>
+           <h4>Value statement</h4>
+           <p>I value my privacy and the ability to choose how my data is shared. I am concerned about the limited effectiveness of following public health guidelines.</p>
+           <h4>Qualities</h4>
+           <ul>
+             <li>Cynical</li>
+             <li>Reluctant </li>
+             <li>Suspicious</li>
+           </ul>
+           <p><span class="bolded">Sense of social responsibility:</span> Low •</p>
+           <p><span class="bolded">Anxiety level:</span> Low •</p>
+           <p><span class="bolded">Reception to using the app:</span> Low •</p>
+           </td>
+           <td>
+           <h2>Coorperative</h2>
+           <h4>Value Statement</h4>
+           <p>I value the opinions and recommendations of others. I may or may not know much about the app. If I do, I think it is a good approach to help stop the spread of COVID-19. </p>
+           <h4>Qualities</h4>
+           <ul>
+             <li>Conforming</li>
+             <li>Flexible</li>
+             <li>Trusting</li>
+           </ul>
+           <p><span class="bolded">Sense of social responsibility:</span> Moderate ••</p>
+           <p><span class="bolded">Anxiety level:</span> Low •</p>
+           <p><span class="bolded">Reception to using the app:</span> Moderate ••</p>
+           </td>
+       </tr>
+   </tbody>
+</table>
+
 After mapping out the axes, we drafted the four mindsets that could fit in them. We iterated on these mindsets through analysis of additional survey data and discussions with content designers until we had four separate mindsets for people who use COVID Alert.
 
 People in each of these mindsets approach the app differently. They each have their own motivations and biases that can evolve over time. 
