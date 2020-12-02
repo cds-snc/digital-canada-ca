@@ -1,18 +1,21 @@
 ---
 layout: blog
-title: Comprendre les mentalités changeantes pour mieux concevoir en temps de pandémie
-description: Alerte COVID avise les personnes d’une exposition potentielle à la
-  COVID-19 dans le but de limiter la transmission communautaire. Mais en cette
-  période d’incertitude, comment concevoir pour des besoins qui changent
-  constamment?
-author: "Jeana Frost, recherche en conception, et Brian Hendrick, conception de
-  services "
+title: >-
+  Comprendre les mentalités changeantes pour mieux concevoir en temps de
+  pandémie
+description: >-
+  Alerte COVID avise les personnes d’une exposition potentielle à la COVID-19
+  dans le but de limiter la transmission communautaire. Mais en cette période
+  d’incertitude, comment concevoir pour des besoins qui changent constamment?
+author: >-
+  Jeana Frost, recherche en conception, et Brian Hendrick, conception de
+  services 
 date: 2020-12-02T15:35:14.762Z
 image: /img/cds/blog-banner-mindsets.jpg
-image-alt: Quatre personnes affichant diverses expressions, de la réticence à la joie.
+image-alt: 'Quatre personnes affichant diverses expressions, de la réticence à la joie.'
 translationKey: mindsets-covidalert
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/blog-banner-mindsets.jpg
+processed: 1606924352001
 ---
 Nous sommes en décembre 2020. Quand nous réfléchissons aux neuf derniers mois de pandémie, nos vies d’avant la COVID-19 semblent bien loin. Les préoccupations que nous avions au début de la crise ressemblent à peine à celles d’aujourd’hui. Que nos peurs et nos craintes concernent le bien-être de nos enfants, la santé de nos aînés, notre stabilité d’emploi, ou le risque de sortir dehors, elles changent chaque jour selon l’état de notre monde.
 
