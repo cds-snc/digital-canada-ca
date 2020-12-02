@@ -99,7 +99,7 @@ We used this as the primary y axis.
            <p><span class="bolded">Reception to using the app:</span> Low •</p>
            </td>
            <td>
-           <h2>Coorperative</h2>
+           <h2>Cooperative</h2>
            <h4>Value Statement</h4>
            <p>I value the opinions and recommendations of others. I may or may not know much about the app. If I do, I think it is a good approach to help stop the spread of COVID-19. </p>
            <h4>Qualities</h4>
