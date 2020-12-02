@@ -54,7 +54,14 @@
   <meta name="google-site-verification" content="sBa9o-9RVlIHHlyeaHgIir20ZKcSuzLVgCCeXIMgKZg" />
 </head>
 
-<body vocab="http://schema.org/" typeof="WebPage">
+{{ with $pageTitle }}
+
+<body vocab="http://schema.org/" typeof="WebPage" class="{{ $pageTitle | urlize }}">
+  {{ else }}
+
+  <body vocab="http://schema.org/" typeof="WebPage"
+    class="{{if eq .Section "blog"}}page-blogpost{{else}}{{lower .Params.title | urlize }}{{end}}">
+    {{end}}
 
     <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
     <!-- EN -->
