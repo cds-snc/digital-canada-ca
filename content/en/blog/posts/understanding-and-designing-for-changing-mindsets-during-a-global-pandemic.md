@@ -1,20 +1,21 @@
 ---
 layout: blog
 title: Understanding and designing for changing mindsets during a global pandemic
-description: COVID Alert helps inform people about possible exposures to
-  COVID-19 in order to limit its spread. But in this uncertain time, the
-  question becomes, how do we design for needs that are constantly changing?
-author: "Jeana Frost, Design Research and Brian Hendrick, Service Design "
+description: >-
+  COVID Alert helps inform people about possible exposures to COVID-19 in order
+  to limit its spread. But in this uncertain time, the question becomes, how do
+  we design for needs that are constantly changing?
+author: 'Jeana Frost, Design Research and Brian Hendrick, Service Design '
 date: 2020-12-02T15:05:58.424Z
 image: /img/cds/blog-banner-mindsets.jpg
-image-alt: "Four people ranging in emotions from happiness to reluctance.  "
+image-alt: 'Four people ranging in emotions from happiness to reluctance.  '
 translationKey: mindsets-covidalert
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/blog-banner-mindsets.jpg
+processed: 1606924351789
 ---
 It’s December 2020. When thinking about the last nine months of the pandemic, our lives before COVID-19 feel distant. Our concerns at the beginning of the crisis barely resemble how we’re feeling now. Our fears and anxieties about the well-being of our children, the health of our older relatives, the security of our livelihoods, or whether just going outside is worth the risk, change day-to-day depending on the state of the world. 
 
-We started building the COVID Alert app a few months into this time of uncertainty. As designers and researchers at the Canadian Digital Service (CDS), we’re building this service so it \[meets the needs of as many Canadians as possible](<https://digital.canada.ca/2020/10/02/building-an-effective-exposure-notification-service-like-covid-alert/>). But in this unprecedented time, the question becomes, \*\*how do we design for needs when they are constantly changing?\*\* 
+We started building the COVID Alert app a few months into this time of uncertainty. As designers and researchers at the Canadian Digital Service (CDS), we’re building this service so it [meets the needs of as many Canadians as possible](<https://digital.canada.ca/2020/10/02/building-an-effective-exposure-notification-service-like-covid-alert/>). But in this unprecedented time, the question becomes, **how do we design for needs when they are constantly changing?** 
 
 Even before COVID-19, we had struggled with some design research methods, such as personas, because they tended to reduce peoples’ dynamic experiences to one static representation. In this moment in particular, we needed a way to understand the spectrum of emotions, attitudes, and experiences of Canadians while acknowledging that people’s perspectives can change based on their day-to-day circumstances. In that search, we found a methodology new to most of us: mindsets. 
 
