@@ -48,6 +48,8 @@ We used this as the primary y axis.
 
 ## COVID Alert mindsets
 
+![A matrix with 4 quadrants. On the “north” point, it reads “Seeks info” and on the “south” points of the matrix, it reads, “Doesn’t Seek info”. On the “east” point it reads, “Trusting” and “west” point, it reads “Distrusting”. Starting from the top left going clockwise, the four different circles in the quadrants are labelled “Cautious”, “Helpful”, “Cooperative” and “Reluctant”.](/img/cds/blog-mindsets-2-en.jpg)
+
 After mapping out the axes, we drafted the four mindsets that could fit in them. We iterated on these mindsets through analysis of additional survey data and discussions with content designers until we had four separate mindsets for people who use COVID Alert.
 
 People in each of these mindsets approach the app differently. They each have their own motivations and biases that can evolve over time. 
