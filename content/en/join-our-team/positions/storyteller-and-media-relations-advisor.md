@@ -11,7 +11,7 @@ We are looking for a Storyteller and Media Relations Advisor. The Canadian Digit
 
 To support this important mission, we are looking for a Storyteller and Media Relations Advisor. Reporting to the Head of Outreach, this position is responsible for media relations for CDS, liaising with our partners on media needs for our projects and aiding the telling the CDS story. At CDS we believe that our mission is best understood by telling the stories of the people who use and build our products. 
 
-This role is classified as a IS-04 in the Information Systems group. This position is Bilingual Essential.
+This role is classified as an [IS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc24156224161) in the Information Systems group and represents the [IS qualification standard](https://www.canada.ca/en/treasury-board-secretariat/services/staffing/qualification-standards/core.html#is). This position is Bilingual Imperative  (in government terms, this role is CBC/CBC)*.
 
 We are looking for someone who will
 

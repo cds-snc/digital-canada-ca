@@ -16,7 +16,7 @@ Le Service numérique canadien (SNC) modifie la façon dont le gouvernement féd
 
 Pour soutenir cette importante mission, nous recherchons un(e) raconteur/raconteuse et conseiller/conseillère en relations avec les médias. Relevant du chef de la sensibilisation, ce poste est responsable des relations avec les médias pour le SNC, assurant la liaison avec nos partenaires sur les besoins des médias pour nos projets et aidant à raconter l’histoire du SNC. Au SNC, nous pensons que notre mission est mieux comprise en racontant les histoires des personnes qui utilisent et construisent nos produits. 
 
-Ce rôle est classé comme un IS-04 dans le groupe des systèmes d’information. Ce poste est bilingue essentiel.
+Ce rôle est classé comme un [IS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=15#toc24156224161) dans [le groupe des systèmes d’information](https://www.canada.ca/fr/secretariat-conseil-tresor/services/dotation/normes-qualification/centrale.html). Ce poste est bilingue impérative.
 
 Nous recherchons une personne qui
 
