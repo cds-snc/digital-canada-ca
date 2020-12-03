@@ -56,11 +56,11 @@
 
 {{ with $pageTitle }}
 
-<body vocab="http://schema.org/" typeof="WebPage" class="{{ $pageTitle }} {{ (string ( $.Site.Language) ) }}">
+<body vocab="http://schema.org/" typeof="WebPage" class="{{ $pageTitle | urlize }}">
   {{ else }}
 
   <body vocab="http://schema.org/" typeof="WebPage"
-    class="{{if eq .Section "blog"}}page-blogpost{{else}}{{ lower .Params.title }}{{end}} {{ (string ( $.Site.Language) ) }}">
+    class="{{if eq .Section "blog"}}page-blogpost{{else}}{{lower .Params.title | urlize }}{{end}}">
     {{end}}
 
     <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
