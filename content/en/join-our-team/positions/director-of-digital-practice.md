@@ -8,7 +8,7 @@ description: We are looking for a Director of Digital Practice to empower and
   Management, and Software Development) make up the multidisciplinary digital
   product teams in both our Partnership and Platform business units, that
   advance the mission of CDS.
-archived: false
+archived: true
 leverId: c284600b-aa90-4bc9-86b3-ca6aad8f45a7
 translationKey: director-digital-practice
 ---
