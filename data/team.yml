@@ -1,15 +1,15 @@
 exec:
   - archived: false
-    email: aaron.snow@tbs-sct.gc.ca
     github: aaronsnow
-    image-name: /img/cds/aaron-snow2.jpg
-    linkedin: aaronsnow
     name: Aaron Snow
+    processed: 1605545386387
+    twitter: aaronsnow
     title:
       en: Chief Executive Officer
       fr: Président-directeur général
-    twitter: aaronsnow
-    processed: 1605545386387
+    email: aaron.snow@tbs-sct.gc.ca
+    image-name: /img/cds/aaron-snow2.jpg
+    linkedin: aaronsnow
   - archived: false
     email: Alex.MacEachern@tbs-sct.gc.ca
     image-name: /img/cds/alex-maceachern.jpg
@@ -50,16 +50,16 @@ exec:
       fr: Chef de la gestion de produits
     processed: 1605545386391
   - archived: false
-    email: chelsea.novak@tbs-sct.gc.ca
     github: chelseanovak
-    image-name: /img/cds/chelsea-novak.jpg
-    linkedin: chelseanovak
     name: Chelsea Novak
+    processed: 1605545386391
+    twitter: herhighnessness
     title:
       en: Head of Outreach
       fr: Chef de liaison et diffusion
-    twitter: herhighnessness
-    processed: 1605545386391
+    email: chelsea.novak@tbs-sct.gc.ca
+    image-name: /img/cds/chelsea-novak.jpg
+    linkedin: chelseanovak
   - archived: false
     email: Colin.MacArthur@tbs-sct.gc.ca
     image-name: /img/cds/colin-mcarthur.jpg
@@ -211,16 +211,16 @@ team:
       fr: Recherche en conception
     processed: 1605545386394
   - archived: false
-    email: Antoine.Augusti@tbs-sct.gc.ca
     github: AntoineAugusti
-    twitter: AntoineAugusti
-    linkedin: AntoineAugusti
-    image-name: /img/cds/antoine-augusti.jpg
     name: Antoine Augusti
+    processed: 1605545386395
+    twitter: AntoineAugusti
     title:
       en: Development
       fr: Développement
-    processed: 1605545386395
+    email: Antoine.Augusti@tbs-sct.gc.ca
+    image-name: /img/cds/antoine-augusti.jpg
+    linkedin: AntoineAugusti
   - archived: false
     email: Bethany.Dunfield@tbs-sct.gc.ca
     github: brdunfield
@@ -240,16 +240,16 @@ team:
       fr: Conception
     processed: 1605545386395
   - archived: false
-    email: brock.higgins@tbs-sct.gc.ca
     github: brockhigg10
-    image-name: /img/cds/brock-higgins.jpg
-    linkedin: brockhiggins
     name: Brock Higgins
+    processed: 1605545386395
+    twitter: brockhigg10
     title:
       en: Talent
       fr: Talent
-    twitter: brockhigg10
-    processed: 1605545386395
+    email: brock.higgins@tbs-sct.gc.ca
+    image-name: /img/cds/brock-higgins.jpg
+    linkedin: brockhiggins
   - archived: false
     email: Bryan.Willey@tbs-sct.gc.ca
     github: willeybryan
@@ -261,16 +261,16 @@ team:
       fr: Gestion de produits
     processed: 1605545386395
   - archived: false
-    email: calvin.rodo@tbs-sct.gc.ca
     github: CalvinRodo
-    image-name: /img/cds/calvin-rodo.jpg
-    linkedin: calvin-rodo-54396710
     name: Calvin Rodo
+    processed: 1605545386395
+    twitter: CalvinR
     title:
       en: Development
       fr: Développement
-    twitter: CalvinR
-    processed: 1605545386395
+    email: calvin.rodo@tbs-sct.gc.ca
+    image-name: /img/cds/calvin-rodo.jpg
+    linkedin: calvin-rodo-54396710
   - archived: false
     email: cayce.fischer@cds-snc.ca
     image-name: /img/cds/cayce-fischer.jpg
@@ -289,7 +289,7 @@ team:
       fr: Liaison et diffusion
     twitter: Charp90
     processed: 1605545386396
-  - email: ' Clementine.Hahn@tbs-sct.gc.ca'
+  - email: " Clementine.Hahn@tbs-sct.gc.ca"
     image-name: /img/cds/clementine_hahn.jpg
     name: Clementine Hahn
     title:
@@ -341,16 +341,16 @@ team:
       fr: Conception
     processed: 1605545386397
   - archived: false
-    email: Fitore.JahaPrice@tbs-sct.gc.ca
-    image-name: /img/cds/fitore-jaha-price.jpg
+    github: fitore-cds
     name: Fitore Jaha Price
+    processed: 1605545386397
+    twitter: tirofe
     title:
       en: Development
       fr: Développement
-    twitter: tirofe
+    email: Fitore.JahaPrice@tbs-sct.gc.ca
+    image-name: /img/cds/fitore-jaha-price.jpg
     linkedin: fitorejaha
-    github: fitore-cds
-    processed: 1605545386397
   - archived: false
     email: francois.moisan@tbs-sct.gc.ca
     image-name: /img/cds/francois-moisan.jpg
@@ -387,16 +387,16 @@ team:
       fr: Recherche en conception
     processed: 1605545386398
   - archived: false
-    email: jeff.maher@tbs-sct.gc.ca
     github: jeffmaher
-    image-name: /img/cds/jeff-maher.jpg
-    linkedin: jeffmaher
     name: Jeff Maher
+    processed: 1605545386398
+    twitter: plusjeff
     title:
       en: Development
       fr: Développement
-    twitter: plusjeff
-    processed: 1605545386398
+    email: jeff.maher@tbs-sct.gc.ca
+    image-name: /img/cds/jeff-maher.jpg
+    linkedin: jeffmaher
   - archived: false
     email: jennifer.fletcher@tbs-sct.gc.ca
     image-name: /img/cds/jen-fletcher.jpg
@@ -442,16 +442,16 @@ team:
     twitter: curious_jose
     processed: 1605545386399
   - archived: false
-    email: julie-ann.rowsell@tbs-sct.gc.ca
     github: JuliannaR
-    image-name: /img/cds/julianna-rowsell.jpg
-    linkedin: julianna-rowsell-86625624
     name: Julianna Rowsell
+    processed: 1605545386399
+    twitter: JuliannaRowsell
     title:
       en: Accessibility
       fr: Accessibilité
-    twitter: JuliannaRowsell
-    processed: 1605545386399
+    email: julie-ann.rowsell@tbs-sct.gc.ca
+    image-name: /img/cds/julianna-rowsell.jpg
+    linkedin: julianna-rowsell-86625624
   - archived: false
     email: kate.wilhelm@tbs-sct.gc.ca
     image-name: /img/cds/kate-wilhelm.jpg
@@ -469,16 +469,16 @@ team:
       fr: Approvisionnement
     processed: 1605545386399
   - archived: false
-    email: Lucas.Cherkewski@tbs-sct.gc.ca
     github: lchski
-    image-name: /img/cds/lucas-cherkewski.jpg
-    linkedin: lchski
     name: Lucas Cherkewski
+    processed: 1605545386399
+    twitter: lchski
     title:
       en: Policy
       fr: Politiques
-    twitter: lchski
-    processed: 1605545386399
+    email: Lucas.Cherkewski@tbs-sct.gc.ca
+    image-name: /img/cds/lucas-cherkewski.jpg
+    linkedin: lchski
   - archived: false
     email: martha.edwards@tbs-sct.gc.ca
     image-name: /img/cds/martha-edwards.jpg
@@ -625,16 +625,16 @@ team:
     twitter: StephenMcMurtry
     processed: 1605545386402
   - archived: false
-    email: steve.astels@tbs-sct.gc.ca
     github: sastels
-    image-name: /img/cds/steve-astels.jpg
-    linkedin: sastels
     name: Steve Astels
+    processed: 1605545386402
+    twitter: sastels
     title:
       en: Development
       fr: Développement
-    twitter: sastels
-    processed: 1605545386402
+    email: steve.astels@tbs-sct.gc.ca
+    image-name: /img/cds/steve-astels.jpg
+    linkedin: sastels
   - archived: false
     email: Steven.Talbot@tbs-sct.gc.ca
     image-name: /img/cds/stevie-ray-talbot.jpg
@@ -653,16 +653,16 @@ team:
       fr: Développement
     processed: 1605545386403
   - archived: false
-    email: victoria.chan@tbs-sct.gc.ca
     github: victoriachanimal
-    image-name: /img/cds/victoria-chan.jpg
-    linkedin: victoriakaychan
     name: Victoria Chan
+    processed: 1605545386403
+    twitter: vchanimal
     title:
       en: Outreach
       fr: Liaison et diffusion
-    twitter: vchanimal
-    processed: 1605545386403
+    email: victoria.chan@tbs-sct.gc.ca
+    image-name: /img/cds/victoria-chan.jpg
+    linkedin: victoriakaychan
   - archived: false
     email: yael.berger@tbs-sct.gc.ca
     image-name: /img/cds/yael-berger.jpg
@@ -673,3 +673,10 @@ team:
       fr: Liaison et diffusion
     twitter: yaelberger
     processed: 1605545386403
+  - archived: false
+    processed: ""
+    name: Test
+    title:
+      en: Test
+      fr: Test
+    image-name: /img/cds/bethany-dunfield.jpg
