@@ -12,11 +12,11 @@
     "file-loader": "^3.0.1",
     "front-matter-editor": "0.0.1",
     "minimist": "^1.2.5",
-    "netlify-cms": "^2.10.71",
+    "netlify-cms": "^2.10.74",
     "serialize-javascript": "^3.1.0",
     "set-value": "^3.0.2",
     "sharp": "^0.25.4",
-    "snyk": "^1.434.0",
+    "snyk": "^1.434.3",
     "style-loader": "^0.23.1",
     "webpack": "^4.44.2"
   },
