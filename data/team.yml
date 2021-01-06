@@ -683,3 +683,11 @@ team:
     github: githubusername
     image-name: /img/cds/EN-Newsletter1.jpg
     name: This is a test
+  - archived: false
+    processed: ""
+    name: test
+    title:
+      en: test
+      fr: test
+    github: test
+    image-name: /img/cds/EN-Newsletter1.jpg
