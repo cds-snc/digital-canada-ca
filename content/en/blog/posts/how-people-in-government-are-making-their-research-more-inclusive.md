@@ -7,7 +7,7 @@ description: "Two of our design researchers talk about the importance of
   about advocating for underrepresented users. "
 author: Martha Edwards and Anne-Marie Mulumba, Design Research
 date: 2021-01-07T00:42:36.844Z
-image: /img/cds/EN-Newsletter1.jpg
+image: /img/cds/inclusive-research-event.jpg
 image-alt: People connecting over a virtual meeting to discuss work and new ideas.
 translationKey: inclusive-research-event
 thumb: ""
