@@ -8,7 +8,7 @@ description: Deux de nos chercheuses en conception discutent de l’importance d
   sur la défense des populations sous-représentées.
 author: Martha Edwards et Anne-Marie Mulumba, recherche en conception
 date: 2021-01-07T00:45:37.372Z
-image: /img/cds/EN-Newsletter1.jpg
+image: /img/cds/inclusive-research-event.jpg
 image-alt: Des personnes qui participent à une réunion virtuelle pour discuter
   de leur travail et de nouvelles idées.
 translationKey: " inclusive-research-event"
