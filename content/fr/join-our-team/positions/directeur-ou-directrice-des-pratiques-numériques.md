@@ -15,30 +15,30 @@ translationKey: director-digital-practice
 ---
 Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Notre mission est d’améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des personnes au premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être sécuritaire, rapide, facile, transparente et accessible. Nous travaillons ouvertement dans le but d’aider tout le monde au sein du gouvernement à améliorer la prestation des services. Et nous avons besoin de vous.
 
-Pour mener à bien cette importante mission, nous sommes à la recherche d’un directeur ou d’une directrice des pratiques numériques qui pourra outiller et aider nos équipes et nos chefs d’équipe à l’amorce d’une phase de grande croissance pour le SNC. Les communautés numériques de l’organisation (conception, recherche en conception, gestion de produits et développement logiciel) servent à former des équipes de produits multidisciplinaires au sein des deux unités opérationnelles (partenariats et plateforme) qui font avancer la mission du SNC.
+Pour mener à bien cette importante mission, nous sommes à la recherche d’un directeur ou d’une directrice des pratiques numériques qui pourra outiller et aider nos équipes et nos chefs d’équipe à l’amorce d’une phase de grande croissance pour le SNC. Les champs de pratiques numériques de l’organisation (conception, recherche en conception, gestion de produits et développement logiciel) servent à former les équipes de produits multidisciplinaires au sein de nos unités opérationnelles (partenariats, plateforme et Alerte COVID) qui font avancer la mission du SNC.
 
 Ce poste est classé [EX-03](https://www.canada.ca/fr/agence-revenu/organisation/carrieres-a-arc/renseignements-ont-deplaces/taux-remuneration/echelles-salariales-groupe-direction.html) au sein du Groupe de la direction, conformément aux [normes de qualification EX](https://www.canada.ca/fr/secretariat-conseil-tresor/services/dotation/normes-qualification/centrale.html#ex).
 
 Nous cherchons une personne qui pourra :
 
-* Apporter une expérience considérable de la gestion hiérarchique et de la direction d’équipes issues des communautés de prestation de services numériques (conception, recherche en conception, gestion de produits, sécurité, développement logiciel, etc.);
-* Encourager et autonomiser les dirigeants et dirigeantes de ces communautés;
-* Veiller à ce que le rendement et la croissance du SNC s’harmonisent avec ses stratégies en matière de diversité, d’équité et d’inclusion;
+* Apporter une expérience considérable de la gestion hiérarchique et de la direction d’équipes de prestation logicielle (conception, recherche en conception, gestion de produits, développement logiciel, etc.);
+* Conseiller et autonomiser les dirigeants et dirigeantes de ces équipes;
+* Fournir du soutien en matière d’embauche et de pratiques aux unités opérationnelles afin qu’elles aient l’effectif et les pratiques nécessaires pour obtenir les résultats escomptés;
+* Veiller à ce que le rendement et la croissance du SNC s’harmonisent avec ses priorités en matière de diversité, d’équité et d’inclusion;
 * Mettre en oeuvre des processus et des structures servant à affecter du personnel aux unités opérationnelles et à d’autres tâches en fonction des priorités du SNC;
 * Collaborer avec les unités opérationnelles, l’équipe des opérations et le bureau du dirigeant principal pour orienter la mission et la stratégie du SNC;
-* Créer une culture, des formations et de la documentation sur « la façon de faire du SNC »;
-* Encourager la collaboration efficace entre les membres des différentes communautés qui forment les équipes multidisciplinaires;
+* Diriger l’élaboration et la documentation de pratiques de prestation numérique pour le gouvernement du Canada;
+* Encourager la collaboration efficace entre les membres issus des différents champs de pratique qui forment les équipes multidisciplinaires;
 * Travailler avec l’équipe de gestion des talents du SNC pour définir les différentes fonctions et établir des critères de promotion et des cadres d’avancement professionnel uniformes et explicables;
-* Veiller à ce que les préoccupations, les idées et les commentaires des communautés de prestation soient communiqués avec transparence et régularité à la haute direction;
-* Communiquer à la fois en français et en anglais (en jargon gouvernemental, ce poste est « bilingue impératif CBC/CBC »).
+* Veiller à ce que les préoccupations, les idées et les commentaires issus des champs de pratiques de prestation soient communiqués avec transparence et régularité à la haute direction;
+* Communiquer à la fois en français et en anglais (en jargon gouvernemental, ce poste est « bilingue impératif CBC/CBC »).
 
 Un bon candidat ou une bonne candidate fera preuve :
 
-* D’un bilan de réussites dans la mise en oeuvre de stratégies et d’initiatives de gestion du changement qui ont une incidence sur des communautés de pratique ou des unités opérationnelles entières;
+* D’un bilan de réussites dans la mise en oeuvre de stratégies et d’initiatives de gestion du changement qui ont une incidence sur des équipes ou des unités opérationnelles entières;
 * D’une expérience à encadrer, mentorer et inspirer des dirigeants et des gestionnaires hiérarchiques dans un environnement de perfectionnement;
-* De tact et de jugement pour gérer les relations de travail et communiquer les problèmes aux paliers supérieurs dans un environnement syndiqué;
-* D’une participation à la prestation réussie de produits numériques ainsi que d’une capacité à agir comme leader d’opinion et pilier collectif dans le domaine de la prestation numérique;
-* D'un sens exceptionnel du tact et de la diplomatie, et d'une capacité remarquable pour la collaboration et la communication interpersonnelle;
+* D’une participation à la prestation réussie de produits numériques et d’une capacité à bâtir des équipes de prestation logicielle enrichissantes et compétentes;
+* D’un jugement et d’un sens du tact et de la diplomatie exceptionnels, et d’une capacité remarquable pour la collaboration et la communication interpersonnelle;
 * De connaissances et de compétences permettant de prendre et de traiter de façon stratégique des décisions relatives à l’allocation de ressources et de capacités aux équipes de prestation.
 
 Nous sommes à la recherche d’une personne qui satisfait à nos critères essentiels. Nous sommes toutefois conscients que chacun et chacune présente des compétences et des expériences différentes, et que personne ne répond exactement aux exigences. Postulez quand même! Dites-nous pourquoi vous êtes la bonne candidate ou le bon candidat pour ce poste.
