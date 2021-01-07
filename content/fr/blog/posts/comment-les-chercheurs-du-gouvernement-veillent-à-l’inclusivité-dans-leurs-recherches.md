@@ -1,19 +1,22 @@
 ---
 layout: blog
-title: Comment les chercheurs du gouvernement veillent à l’inclusivité dans
-  leurs recherches
-description: Deux de nos chercheuses en conception discutent de l’importance de
-  la recherche inclusive au gouvernement. Elles nous font également part des
-  leçons tirées à la suite d’une réunion des différents paliers gouvernementaux
-  sur la défense des populations sous-représentées.
-author: Martha Edwards et Anne-Marie Mulumba, recherche en conception
+title: >-
+  Comment les chercheurs du gouvernement veillent à l’inclusivité dans leurs
+  recherches
+description: >-
+  Deux de nos chercheuses en conception discutent de l’importance de la
+  recherche inclusive au gouvernement. Elles nous font également part des leçons
+  tirées à la suite d’une réunion des différents paliers gouvernementaux sur la
+  défense des populations sous-représentées.
+author: 'Martha Edwards et Anne-Marie Mulumba, recherche en conception'
 date: 2021-01-07T00:45:37.372Z
 image: /img/cds/inclusive-research-event.jpg
-image-alt: Des personnes qui participent à une réunion virtuelle pour discuter
-  de leur travail et de nouvelles idées.
-translationKey: " inclusive-research-event"
-thumb: ""
-processed: ""
+image-alt: >-
+  Des personnes qui participent à une réunion virtuelle pour discuter de leur
+  travail et de nouvelles idées.
+translationKey: inclusive-research-event
+thumb: /img/cds/thumbnails/inclusive-research-event.jpg
+processed: 1610031181666
 ---
 À titre de chercheuses en conception, nous sommes responsables de faire valoir les besoins de chaque personne qui utilise les services du gouvernement. L’une de nos principales préoccupations consiste à mener des recherches qui représentent les besoins de *tous* les utilisateurs — pas seulement les utilisateurs conventionnels. Des facteurs comme la race, les incapacités, l’âge, l’emplacement géographique, le sexe ou l’inhabileté numérique peuvent poser des difficultés pour l’accès aux services gouvernementaux.
 
@@ -85,3 +88,4 @@ Nous tenons à remercier tous nos braves présentateurs qui ont donné de leur t
 c’est vous qui faites la force de cette communauté et de ces événements. Vous trouverez la [liste complète des présentateurs et présentatrices sur la page de l’événement](https://www.eventbrite.ca/e/inclusive-research-advocating-for-underrepresented-users-tickets-123023736307).
 
 Pour tout savoir sur la prochaine rencontre de la communauté de chercheurs en conception du SNC, [abonnez-vous](https://airtable.com/shrK4y5rFSEeO1UKr) à notre bulletin par courriel!
+
