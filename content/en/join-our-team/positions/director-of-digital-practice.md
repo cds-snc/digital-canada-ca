@@ -8,7 +8,7 @@ description: We are looking for a Director of Digital Practice to empower and
   Management, and Software Development) make up the multidisciplinary digital
   product teams in both our Partnership and Platform business units, that
   advance the mission of CDS.
-archived: true
+archived: false
 leverId: c284600b-aa90-4bc9-86b3-ca6aad8f45a7
 translationKey: director-digital-practice
 ---
@@ -20,12 +20,12 @@ This role is classified as an [EX-03](https://www.canada.ca/en/revenue-agency/co
 
 We are looking for someone who will:
 
-* Bring significant experience in line management and leading software delivery teams (i.e. Design, Design Research, Product Management, and/or Software Development);
-* Advise and empower the leaders throughout these teams;
-* Provide hiring support and practice guidance for business units so that they have the people and practices needed to meet their desired outcomes;
-* Ensure performance and scalable growth aligns with CDS’ Diversity, Equity and Inclusion priorities;
-* Facilitate processes and structures that determine the allocation of staff to business units and other work in accordance with CDS priorities;
-* Work with business units, Operations, and the Office of the CEO to inform the CDS mission and strategy;
+* Bring significant experience in line management and leading teams responsible for software delivery (e.g., software development, design, research, product management, SRE);
+* Advise and empower leaders throughout these teams;
+* Provide hiring support and practice guidance for business units;
+* Ensure scalable growth aligned with CDS’ Diversity, Equity and Inclusion priorities;
+* Facilitate allocation of staff to business units and other work in accordance with CDS priorities;
+* Work with business units, Operations, and the Office of the CEO to fulfill CDS’s mission and adapt its strategies accordingly;
 * Lead the development and documentation of digital delivery practices in government;
 * Foster effective work between members of different practices in multi-disciplinary teams;
 * Work with the CDS Talent team to define roles and consistent, explainable promotion criteria and progression frameworks;
@@ -34,13 +34,15 @@ We are looking for someone who will:
 
 A great candidate will demonstrate:
 
-* A track record of success in leading strategies and change management initiatives that impact entire teams or business units;
-* Experience coaching, mentoring and inspiring leaders and line managers in a growth environment;
 * Success delivering software and building nurturing, capable software teams;
+* Success leading initiatives that impact entire teams or business units;
+* Experience coaching, mentoring and inspiring leaders and line managers in a growth environment;
 * Exceptional tact, judgement, diplomacy, collaboration, and interpersonal communication skills;
 * Knowledge and skills in processing, analysing and owning decisions regarding resource and capacity allocation for delivery teams.
 
 We are looking for someone to meet our essential criteria, however we recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
+
+CDS is a fully distributed team. This job can be performed from anywhere in Canada. In the future, occasional travel to Ottawa may be required.
 
 At CDS, we don’t just accept difference - we celebrate it. We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we can recognize and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 
