@@ -202,15 +202,6 @@ team:
     twitter: brazeauanik
     processed: 1605545386394
   - archived: false
-    email: Anne-Marie.Mulumba@tbs-sct.gc.ca
-    image-name: /img/cds/annemarie-mulumba.jpg
-    linkedin: annemariewm
-    name: Anne-Marie Mulumba
-    title:
-      en: Design Research
-      fr: Recherche en conception
-    processed: 1605545386394
-  - archived: false
     email: Antoine.Augusti@tbs-sct.gc.ca
     github: AntoineAugusti
     twitter: AntoineAugusti
@@ -480,14 +471,6 @@ team:
     twitter: lchski
     processed: 1605545386399
   - archived: false
-    email: martha.edwards@tbs-sct.gc.ca
-    image-name: /img/cds/martha-edwards.jpg
-    name: Martha Edwards
-    title:
-      en: Design Research
-      fr: Recherche en conception
-    processed: 1605545386399
-  - archived: false
     github: maxneuvians
     image-name: /img/cds/max-neuvians.jpg
     linkedin: maxneuvians
@@ -515,14 +498,6 @@ team:
       en: Design Research
       fr: Recherche en conception
     twitter: melbanyard
-    processed: 1605545386400
-  - archived: false
-    email: michael.connolly@tbs-sct.gc.ca
-    image-name: /img/cds/michael-connolly.jpg
-    name: Michael Connolly
-    title:
-      en: Policy
-      fr: Politiques
     processed: 1605545386400
   - archived: false
     email: nick.makuch@tbs-sct.gc.ca
@@ -662,14 +637,4 @@ team:
       en: Outreach
       fr: Liaison et diffusion
     twitter: vchanimal
-    processed: 1605545386403
-  - archived: false
-    email: yael.berger@tbs-sct.gc.ca
-    image-name: /img/cds/yael-berger.jpg
-    linkedin: yael-berger-5791a455
-    name: Yael Berger
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-    twitter: yaelberger
     processed: 1605545386403
