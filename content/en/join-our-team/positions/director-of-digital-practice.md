@@ -16,7 +16,7 @@ The Canadian Digital Service (CDS) is changing how the federal government design
 
 To support this important mission, we are looking for a Director of Digital Practice to empower and support our teams and their leaders as CDS enters its next phase of significant growth. CDS’ digital practices (Design, Design Research, Product Management, and Software Development) make up the multidisciplinary digital product teams in our Partnership, Platform, and COVID Alert business units, that advance the mission of CDS. 
 
-This role is classified as an [EX-03](https://www.canada.ca/en/revenue-agency/corporate/careers-cra/information-moved/pay-rates/salary-ranges-1.html) in the Executive group and represents the [EX qualification standards](https://www.canada.ca/en/treasury-board-secretariat/services/staffing/qualification-standards/core.html#ex). 
+This role is classified as an [EX-03](https://www.canada.ca/en/treasury-board-secretariat/services/pay/rates-pay/rates-pay-unrepresented-senior-excluded-employees.html#Toc476385558) in the Executive group and represents the [EX qualification standards](https://www.canada.ca/en/treasury-board-secretariat/services/staffing/qualification-standards/core.html#ex). 
 
 We are looking for someone who will:
 
