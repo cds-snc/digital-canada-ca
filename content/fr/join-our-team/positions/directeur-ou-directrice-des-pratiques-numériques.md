@@ -17,7 +17,7 @@ Le Service numérique canadien (SNC) change la façon dont le gouvernement féd�
 
 Pour mener à bien cette importante mission, nous sommes à la recherche d’un directeur ou d’une directrice des pratiques numériques qui pourra outiller et aider nos équipes et nos chefs d’équipe à l’amorce d’une phase de grande croissance pour le SNC. Les champs de pratiques numériques de l’organisation (conception, recherche en conception, gestion de produits et développement logiciel) servent à former les équipes de produits multidisciplinaires au sein de nos unités opérationnelles (partenariats, plateforme et Alerte COVID) qui font avancer la mission du SNC.
 
-Ce poste est classé [EX-03](https://www.canada.ca/fr/agence-revenu/organisation/carrieres-a-arc/renseignements-ont-deplaces/taux-remuneration/echelles-salariales-groupe-direction.html) au sein du Groupe de la direction, conformément aux [normes de qualification EX](https://www.canada.ca/fr/secretariat-conseil-tresor/services/dotation/normes-qualification/centrale.html#ex).
+Ce poste est classé [EX-03]() au sein du Groupe de la direction, conformément aux [normes de qualification EX](https://www.canada.ca/fr/secretariat-conseil-tresor/services/remuneration/taux-remuneration/taux-remuneration-employes-non-representes-exclus-niveaux-superieurs.html#Toc476467510).
 
 Nous cherchons une personne qui pourra :
 
