@@ -1,22 +1,24 @@
 ---
 layout: blog
 title: Des formulaires gouvernementaux de toute espèce
-description: Les formulaires du gouvernement ont mauvaise réputation, étant
-  donné la difficulté de traduire les processus gouvernementaux par des
-  questions faciles à comprendre. Pour bien concevoir un formulaire, il faut
-  comprendre son objectif. C’est pourquoi l’une de nos équipes s’est mise à
-  étudier les divers types de processus qui sous-tendent les formulaires
-  gouvernementaux, ainsi que les façons de faciliter la tâche aux fonctionnaires
-  qui doivent les créer et les publier en ligne.
-author: Hillary Lorimer, recherche en conception
+description: >-
+  Les formulaires du gouvernement ont mauvaise réputation, étant donné la
+  difficulté de traduire les processus gouvernementaux par des questions faciles
+  à comprendre. Pour bien concevoir un formulaire, il faut comprendre son
+  objectif. C’est pourquoi l’une de nos équipes s’est mise à étudier les divers
+  types de processus qui sous-tendent les formulaires gouvernementaux, ainsi que
+  les façons de faciliter la tâche aux fonctionnaires qui doivent les créer et
+  les publier en ligne.
+author: 'Hillary Lorimer, recherche en conception'
 date: 2021-01-11T23:29:51.376Z
 image: /img/cds/menagerie-banner.jpg
-image-alt: "Quatre différents formulaires gouvernementaux, chacun étant illustré
-  avec une caractéristique animale : une queue, des ailes d’oiseau, un bec
-  d’oiseau et des ailes de papillon."
+image-alt: >-
+  Quatre différents formulaires gouvernementaux, chacun étant illustré avec une
+  caractéristique animale : une queue, des ailes d’oiseau, un bec d’oiseau et
+  des ailes de papillon.
 translationKey: form-use-cases
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/menagerie-banner.jpg
+processed: 1610460097151
 ---
 > Imaginez ce qui suit : vous cherchez sur Internet la marche à suivre pour demander un permis dont vous avez besoin. Vous tombez sur une page Web gouvernementale comprenant sept paragraphes sur les critères d’admissibilité. Après les avoir lus, vous ne savez toujours pas avec certitude si vous répondez aux critères, mais vous décidez quand même de faire votre demande. Le bouton « Faire une demande » vous entraîne alors vers un message vous invitant à télécharger un fichier PDF. Au moment où vous essayez de l’ouvrir, vous apprenez qu’il vous faudrait aussi un éditeur de fichiers PDF, que vous n’avez pas et n’êtes pas prêt à acheter. Vous décidez donc d’imprimer le document pour le remplir à la main. Le formulaire fait 4 pages et contient 37 questions. Ouf, ce sera long à remplir. Vous le mettez donc de côté, préférant y revenir lorsque vous aurez une bonne heure devant vous pour vous y atteler. Lorsque ce moment vient enfin, une semaine plus tard, vous vous rendez compte que seule la moitié des champs à remplir s’appliquent à votre situation. De plus, vous êtes loin de bien saisir l’information demandée dans les questions. Une fois votre formulaire rempli, vous le numérisez et l’envoyez par courriel, puis vous vous croisez les doigts et attendez.
 
@@ -105,3 +107,4 @@ Les renseignements recueillis ne font pas l’objet d’une transaction, c’est
 Ces cas d’utilisation reflètent nos résultats préliminaires et changeront sans doute au fil de nos apprentissages. Mais pour l’instant, nous utilisons ces trois catégories pour orienter notre approche de conception : nous réfléchissons à la façon dont les données des formulaires sont utilisées, aux fonctions nécessaires pour faciliter chaque processus, et aux conséquences qu’ont ces processus sur les meilleures  pratiques en matière de conception de formulaires.
 
 Votre formulaire du gouvernement du Canada rentre-t-il dans l’une de nos catégories? Faites-vous affaire à un processus hybride, c’est-à-dire formé de deux de nos cas d’utilisation ou plus? Ou s’agit-il d’autre chose complètement? Dans tous les cas, [dites-nous en plus](mailto:steven.talbot@cds-snc.ca)!
+
