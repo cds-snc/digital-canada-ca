@@ -233,6 +233,10 @@ collections:
                 fields:
                   - {label: name, name: name, widget: string}
                   - {label: url, name: url, widget: string}
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 exclude:
  - admin/index.js
