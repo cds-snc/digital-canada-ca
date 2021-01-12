@@ -10,4 +10,5 @@ contact:
 status: in-flight
 links:
   - name: Book an appointment with government
+    url: https://cds-snc.github.io/booking-documentation/
 ---
