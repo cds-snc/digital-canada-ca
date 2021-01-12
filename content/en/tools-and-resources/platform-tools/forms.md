@@ -3,7 +3,7 @@ title: Help public servants create and manage forms
 translationKey: forms
 phase: discovery
 description: >-
-   Exploring a simple and efficient way to create forms that are easy for government to use and people to complete.
+   Publishing simple, accessible, and online forms that the public can use to get the services or benefits they need.
 contact:
   - email: steven.talbot@cds-snc.ca
     name: Stevie-Ray Talbot 

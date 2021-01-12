@@ -10,4 +10,5 @@ contact:
 status: in-flight
 links:
   - name: Prendre rendez-vous avec le gouvernement
+    url: https://cds-snc.github.io/booking-documentation/
 ---
