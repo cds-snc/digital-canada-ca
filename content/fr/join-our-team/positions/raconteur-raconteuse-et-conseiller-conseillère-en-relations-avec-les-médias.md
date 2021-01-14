@@ -9,7 +9,7 @@ description: Relevant de la chef de liaison et diffusion, cette personne est
   raconter l’histoire du SNC. Au SNC, nous pensons que notre mission est mieux
   comprise en racontant les histoires des personnes qui utilisent et
   construisent nos produits.
-archived: false
+archived: true
 leverId: acd80e98-0d20-48b0-aca8-cff7a7b2e7a4
 translationKey: storyteller-media-relations
 ---

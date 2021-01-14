@@ -7,7 +7,7 @@ description: Pour nous aider à faire croître l’équipe, nous sommes à la
   organisé(e) et flexible. Les personnes sont au cœur de ce que nous faisons,
   donc nous avons besoin que vous vous surpassiez pour offrir une expérience de
   grande qualité aux employés, aux gestionnaires et aux candidats.
-archived: false
+archived: true
 leverId: e92a84a1-ce01-42d7-b17e-cee23604fef2
 translationKey: people-ops-coordinator
 ---

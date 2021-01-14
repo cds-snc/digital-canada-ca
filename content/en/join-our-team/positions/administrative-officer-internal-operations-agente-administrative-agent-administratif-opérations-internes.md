@@ -8,7 +8,7 @@ description: Do you have a natural inclination toward logistics and planning?
   rapidly changing environment? Are you collaborative and great to work with?
   Are you bilingual and love working in both official languages? Are you looking
   for a job with lots of challenges and room for growth?
-archived: false
+archived: true
 leverId: 7a6a4e02-0c37-4bc3-9e47-2c8181db8d16
 translationKey: administrative-officer
 ---

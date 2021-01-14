@@ -6,7 +6,7 @@ description: To help us grow the team, we’re looking for a highly organized an
   flexible People Operations Coordinator. People are at the centre of what we do
   — we need you to go above and beyond to deliver high-quality experiences for
   employees, managers and candidates.
-archived: false
+archived: true
 leverId: e92a84a1-ce01-42d7-b17e-cee23604fef2
 translationKey: people-ops-coordinator
 ---
