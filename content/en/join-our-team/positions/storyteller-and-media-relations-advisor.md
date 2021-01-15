@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: Storyteller and Media Relations Advisor
 description: "Reporting to the Head of Outreach, this position is responsible for media relations for CDS, liaising with our partners on media needs for our projects and aiding the telling the CDS story. At CDS we believe that our mission is best understood by telling the stories of the people who use and build our products."
-archived: false
+archived: true
 leverId: acd80e98-0d20-48b0-aca8-cff7a7b2e7a4
 translationKey: storyteller-media-relations
 ---

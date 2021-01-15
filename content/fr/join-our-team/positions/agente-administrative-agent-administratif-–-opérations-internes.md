@@ -10,7 +10,7 @@ description: "Avez-vous un intérêt naturel pour la logistique et la
   travailler avec vous? Êtes-vous bilingue et aimez-vous travailler dans les
   deux langues officielles? Êtes-vous à la recherche d’un emploi comportant
   beaucoup de défis et de possibilités de croissance? "
-archived: false
+archived: true
 leverId: 7a6a4e02-0c37-4bc3-9e47-2c8181db8d16
 translationKey: administrative-officer
 ---
