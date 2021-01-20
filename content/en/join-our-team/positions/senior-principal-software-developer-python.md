@@ -17,7 +17,7 @@ These positions are part of the Software Development Community and report to the
 
 Senior Developers are classified as [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260/) and Principal Developers are classified as [CS-05](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260/) in the Computer Systems group.
 
-You’ll need to accomplish the following things:
+**You’ll need to accomplish the following things:**
 
 1. Deliver high quality Python code, published in the cloud, and bring proficiency and a willingness to learn other web application languages and technologies as required.
 2. Shipping full stack web applications (UI to infrastructure). This includes architecting, coding, operating, releasing, testing, and tuning them. You’ll need to do these in the open and collaboratively on cross-functional teams. This may involve rotating on-call duty.
@@ -26,7 +26,7 @@ You’ll need to accomplish the following things:
 5. Listen to, learn from, and help fellow government employees/departments improve how they work and deliver public services. Based on what’s simultaneously feasible and impactful is critical, help with change management, site reliability, securing systems+processes, and human-centered design in places where we don’t have formal authority.
 6. Build prototypes and/or well-crafted, maintainable software based on the context. 
 
-We’ll evaluate you based on:
+**We’ll evaluate you based on:**
 
 * Creating and delivering software
 * Employing site reliability practice and DevOps culture

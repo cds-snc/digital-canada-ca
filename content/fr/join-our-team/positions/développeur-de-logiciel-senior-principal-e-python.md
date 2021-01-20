@@ -18,7 +18,7 @@ Ces postes font partie de la Communauté de développement de logiciels et relè
 
 Les Développeurs senior sont classés [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=1#toc12259212260) et les Développeurs Principal(e) sont classés [CS-05](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=1#toc12259212260) dans le groupe des systèmes d’ordinateur.
 
-Vous devrez accomplir les tâches suivantes :
+**Vous devrez accomplir les tâches suivantes :**
 
 1. Fournir du code Python de haute qualité qui sera publié dans le nuage et faire preuve d’une expertise et d’une volonté d’apprendre de nouveaux langages informatiques et de nouvelles technologies au besoin.
 2. Expédier des applications web complète (de l'interface utilisateur à l'infrastructure). Cela comprend l'architecture, le codage, l'exploitation, la mise en service, les tests et les réglages. Vous devrez les réaliser de manière ouverte et en collaboration avec des équipes interfonctionnelles. Cela peut impliquer une rotation des services sur appel.
@@ -27,7 +27,7 @@ Vous devrez accomplir les tâches suivantes :
 5. Écouter, apprendre et aider les autres employés du gouvernement et des ministères à améliorer leur façon de travailler et de fournir des services publics. En vous basant sur ce qui est à la fois faisable et efficace, vous devez aider à la gestion du changement, à la fiabilité du site, à la sécurisation des systèmes et des processus et à la conception centrée sur les usagers dans les endroits où nous n'avons pas d'autorité officielle.
 6. Construire des prototypes et/ou des logiciels bien conçus et maintenables en fonction du contexte. 
 
-Nous vous évaluerons en fonction de :
+**Nous vous évaluerons en fonction de :**
 
 * Création et livraison de logiciels
 * Utiliser la pratique de la fiabilité des sites et la culture du développement moderne 
