@@ -280,7 +280,7 @@ team:
       fr: Liaison et diffusion
     twitter: Charp90
     processed: 1605545386396
-  - email: ' Clementine.Hahn@tbs-sct.gc.ca'
+  - email: Clementine.Hahn@tbs-sct.gc.ca
     image-name: /img/cds/clementine_hahn.jpg
     name: Clementine Hahn
     title:
@@ -306,6 +306,16 @@ team:
       fr: Développement
     twitter: dsamojlenko
     processed: 1605545386396
+  - archived: false
+    email: eric.pang@tbs-sct.gc.ca
+    image-name: /img/cds/eric-pang.jpg
+    name: Eric Pang
+    linkedin: eric-pang-ux
+    twitter: dekonstructed
+    title:
+      en: Design
+      fr: Conception
+    processed: 1611330094953
   - archived: false
     email: elise.cossette@tbs-sct.gc.ca
     image-name: /img/cds/elise-cossette.jpg
@@ -452,6 +462,15 @@ team:
       fr: Conception
     processed: 1605545386399
   - archived: false
+    email: leah.finkelstein@tbs-sct.gc.ca
+    image-name: /img/cds/leah-finkelstein.jpg
+    linkedin: leah-finkelstein
+    name: Leah Finkelstein
+    title:
+      en: Talent
+      fr: Talent
+    processed: 1611330094958
+  - archived: false
     email: Lesley.Wheldrake@tbs-sct.gc.ca
     image-name: /img/cds/lesley-wheldrake.jpg
     name: Lesley Wheldrake
@@ -509,6 +528,16 @@ team:
       fr: Conception | Développement
     twitter: makuch_nick
     processed: 1605545386401
+  - archived: false
+    email: omar.tehsin@tbs-sct.gc.ca
+    github: omartehsin1
+    linkedin: omar-tehsin
+    image-name: /img/cds/omar-tehsin.jpg
+    name: Omar Tehsin
+    title:
+      en: Development
+      fr: Développement
+    processed: 1611330094958
   - archived: false
     email: paul.craig@tbs-sct.gc.ca
     github: pcraig3
