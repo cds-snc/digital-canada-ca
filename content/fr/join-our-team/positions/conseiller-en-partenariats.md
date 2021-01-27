@@ -20,7 +20,7 @@ Lorsque nous comprenons mieux un ministère et ses services, nous concevons et r
 
 Les conseillers et conseillères en établissement de partenariats, à titre de membres de la communauté d’établissement de partenariats, sont chargé(e)s de faire en sorte que le SNC établit des relations solides avec les responsables de services du gouvernement du Canada et leurs équipes, durant toutes les phases de l’exécution. Ils y parviennent en aidant à fixer les attentes et à rédiger des ententes pour assurer des relations harmonieuses entre le SNC et nos partenaires, en collaborant auprès de leur équipe pour créer et entretenir des relations avec l’organisation partenaire, et en recommandant avec acharnement des approches et des tactiques qui offrira la plus grande valeur publique. Les conseillers en établissement de partenariats sont membres de différents types d’équipes et peuvent aider à effectuer des découvertes, à offrir des conseils et une orientation, à concevoir et à offrir des services en tant que membres intégrés d’une équipe de partenariat ministérielle, et à concevoir, développer et exploiter des services de plateforme destinés aux ministères du gouvernement.
 
-Vous relèverez du chef de l’Établissement de partenariats qui relève à son tour du directeur des Partenariats. Les conseillers en établissement de partenariats sont classés aux groupes et niveaux EC-04, EC-05 ou EC-06, dans le groupe Économique et services de sciences sociales.
+Vous relèverez du chef de l’Établissement de partenariats qui relève à son tour du directeur des Partenariats. Les conseillers en établissement de partenariats sont classés aux groupes et niveaux EC-06.
 
 **Voici ce que vous devrez accomplir :**
 
