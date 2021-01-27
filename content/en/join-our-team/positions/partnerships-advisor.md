@@ -20,7 +20,7 @@ Once we better understand a department and their service(s), we design and deliv
 
 Partnership development advisors are members of the partnership development community, and are responsible for making sure CDS develops strong relationships with Government of Canada service owners and their teams, during all phases of delivery. They do this by helping to set expectations and draft agreements to ensure smooth working relationships between CDS and our partners, by working alongside their team to develop and nurture relationships with the partner organization, and by relentlessly advocating for approaches and tactics that will deliver the greatest public value. Partnership advisors serve as members on a variety of different types of teams and may assist with conducting pre-discoveries, providing advice and guidance, service design and delivery as embedded members of a departmental partnership team, and the design, development and operation of platform services for government departments to use.
 
-You will report to the Head of Partnership Development, who in turn reports to the Director of Partnerships. Partnerships Advisors are classified as an EC-04, EC-05, or EC-06, in the Economics and Social Sciences group. 
+You will report to the Head of Partnership Development, who in turn reports to the Director of Partnerships. The Partnership Advisor role is classified as an EC-06, in the Economics and Social Sciences group. 
 
 **You’ll need to accomplish the following things:**
 
