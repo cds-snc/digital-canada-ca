@@ -7,7 +7,7 @@ description: "Suite au développement de la première version du service et de s
   L’outil est maintenant plus stable, fiable et sécurisé que jamais. "
 author: Bryan Willey et Clémentine Hahn, gestionnaires de produits
 date: 2021-02-01T14:19:40.262Z
-image: /img/cds/EN-Newsletter1.jpg
+image: /img/cds/notify-blog-beta-banner-fr.jpg
 image-alt: "Un ordinateur portatif et un téléphone intelligent qui affichent la
   page d’accueil de GC Notification en version bêta "
 translationKey: " blog-notify-beta"
