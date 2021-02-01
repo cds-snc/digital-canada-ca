@@ -49,7 +49,7 @@ Our move to Beta and plans for continuous improvement of the service (based on u
 * Departments may need to send messages containing sensitive information to those that rely on their services. **You can now use Notify to send messages designated up to and including “Protected A.”**
 * Notify has successfully completed a security penetration test with no vulnerabilities, so you can be **confident your information is protected against third parties.** 
 * Notify can now send **text messages from Canadian numbers and pass replies through to other government systems.**  
-* Notify has been integrated with Canadian telecommunications companies to report the status of text message delivery. 
+* Notify has been integrated with Canadian telecommunications companies to **report the status of text message delivery.** 
 
 Additionally, departments can send up to 10 million emails a year for free, and up to 250,000 text messages —a testament to the service’s capacity to potentially serve as a secure, centralized email notification system for all government services. 
 
