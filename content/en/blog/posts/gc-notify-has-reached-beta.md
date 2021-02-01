@@ -29,10 +29,10 @@ Today, GC Notify has over 81 services sending important updates to the public an
 
 ## Some of GC Notify’s original and existing features include: 
 
-* Default Government of Canada branding in place for emails, in compliance with [Federal Identity Program (FIP)](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/federal-identity-program/manual.html) requirements 
-* Two-factor authentication (2-FA), which sends a unique one-time code to your phone or email after you sign in to GC Notify, in order to keep your account secure. 
-* Emails are sent from a trusted Canada.ca domain, and are in automatic compliance with email sending guidelines, including Domain-based Message Authentication, Reporting, and Conformance (DMARC)
-* A real-time dashboard feature that tracks the different states of sending a message, including how many messages you’ve sent and whether a message was successfully delivered or not. 
+* **Default Government of Canada branding** in place for emails, in compliance with [Federal Identity Program (FIP)](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/federal-identity-program/manual.html) requirements 
+* **Two-factor authentication (2-FA)**, which sends a unique one-time code to your phone or email after you sign in to GC Notify, in order to keep your account secure. 
+* Emails are sent from **a trusted Canada.ca domain**, and are in **automatic compliance with email sending guidelines**, including Domain-based Message Authentication, Reporting, and Conformance (DMARC)
+* **A real-time dashboard feature** that tracks the different states of sending a message, including how many messages you’ve sent and whether a message was successfully delivered or not. 
 
 ## So what does “Beta” mean for GC Notify? 
 
