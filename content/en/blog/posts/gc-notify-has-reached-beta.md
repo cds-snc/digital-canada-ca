@@ -14,7 +14,7 @@ translationKey: blog-notify-beta
 thumb: /img/cds/thumbnails/notify-blog-beta-banner-en.jpg
 processed: 1612203119355
 ---
-Since introducing the GC Notify tool in 2019, we’ve helped government departments send [over 8.8 million notifications in the present day](https://notification.canada.ca/activity). After developing a first version of the service and improving the ways it meets people’s needs, we’d like to announce that GC Notify has officially moved from the Alpha to Beta phase, meaning its more stable, reliable and secure than ever before. 
+Since introducing the GC Notify tool in 2019, we’ve helped government departments send [over 8.8 million notifications](https://notification.canada.ca/activity). After developing a first version of the service and improving the ways it meets people’s needs, we’d like to announce that GC Notify has officially moved from the Alpha to Beta phase, meaning its more stable, reliable and secure than ever before. 
 
 We’re grateful to the government teams that adopted and tested GC Notify to help us improve the service in our journey towards Beta. With their help, we’ve supported departments like [Health Canada in sending COVID-19 related updates to Canadians](https://digital.canada.ca/2020/05/13/get-updates-on-covid-19-email-notification-service/), and [Service Canada in sending email confirmations to improve people’s experiences with Canada.ca](https://digital.canada.ca/2020/03/05/how-we-implemented-notify-on-canada-ca/). Most recently, we had the honour of working with the Government of Nova Scotia, helping their team send text updates to Nova Scotians about their appointment statuses to manage physical distancing during COVID-19. 
 
@@ -49,7 +49,7 @@ Our move to Beta and plans for continuous improvement of the service (based on u
 * Notify now comes with **24/7 Incident support** to ensure the service is always up and running in order to meet your department’s needs.
 * Departments may need to send messages containing sensitive information to those that rely on their services. **You can now use Notify to send messages designated up to and including “Protected A.”**
 * Notify has successfully completed a security penetration test with no vulnerabilities, so you can be **confident your information is protected against third parties.** 
-* Notify can now send **text messages from Canadian numbers and pass replies through to other government systems.**  
+* Notify can now send **text messages from Canadian numbers.**  
 * Notify has been integrated with Canadian telecommunications companies to **report the status of text message delivery.** 
 
 Additionally, departments can send up to 10 million emails a year for free, and up to 250,000 text messages —a testament to the service’s capacity to potentially serve as a secure, centralized email notification system for all government services. 

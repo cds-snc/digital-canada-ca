@@ -39,8 +39,8 @@ Voici certaines des caractéristiques nouvelles et existantes de GC Notification
 
 Qu’est-ce que la phase « bêta » signifie pour GC Notification?
 
-Les origines de GC Notification remontent à l’identification du besoin de créer un service simple et flexible qui aiderait les ministères gouvernementaux à informer le public.\
-\
+Les origines de GC Notification remontent à l’identification du besoin de créer un service simple et flexible qui aiderait les ministères gouvernementaux à informer le public.
+
 L’équipe des plateformes du SNC a d’abord travaillé à adapter et déployer le code source libre de GOV.UK Notify pour créer une version minimum viable de GC Notification. Une version alpha fonctionnelle a ensuite été lancée en novembre 2019. Au cours de la phase alpha, plus de 20 ministères du gouvernement ont intégré GC Notification à leurs services et fourni leurs commentaires à l’équipe. Ces commentaires ont été intégrés aux versions subséquentes en vue d’améliorer l’outil et de l’adapter aux besoins des utilisateurs.
 
 Grâce à cette version bêta et aux améliorations continues que nous prévoyons apporter au service (en fonction des commentaires d’utilisateurs), les ministères peuvent profiter des fonctionnalités et des mesures de sécurité nouvelles et améliorées du GC, en plus des fonctionnalités existantes.
@@ -51,7 +51,7 @@ Grâce à cette version bêta et aux améliorations continues que nous prévoyon
 * GC Notification offre maintenant un **soutien technique 24/7** afin d’assurer la disponibilité du service en tout temps pour répondre aux besoins de votre ministère.
 * Si votre ministère doit envoyer des messages de nature sensible aux utilisateurs de vos services, **vous pouvez maintenant utiliser GC Notification pour envoyer des messages protégés jusqu’au niveau « Protégé A »**.
 * GC Notification a réussi un test d’intrusion qui n’a révélé aucune vulnérabilité dans le service. Vous pouvez donc être **assurés de la sûreté de vos renseignements contre les attaques de tierces parties**. 
-* GC Notification peut maintenant envoyer des **messages texte de numéros canadiens et acheminer les réponses à d’autres systèmes gouvernementaux**.  
+* GC Notification peut maintenant envoyer des **messages texte de numéros canadiens**.  
 * GC Notification a été intégré auprès des sociétés de télécommunications canadiennes afin de **surveiller l’état de livraison des messages texte**.
 
 De plus, les ministères peuvent envoyer gratuitement jusqu’à 10 millions de courriels par année, et jusqu’à 250 000 messages textes, ce qui témoigne de la capacité du service à servir éventuellement de système de notification par courriel centralisé et sécurisé pour tout service gouvernemental.
