@@ -7,7 +7,7 @@ description: "After developing a first version of the service and improving the
   reliable and secure than ever before. "
 author: "Bryan Willey and Clementine Hahn, Product Managers "
 date: 2021-02-01T13:51:01.383Z
-image: /img/cds/balance.jpg
+image: /img/cds/notify-blog-beta-banner-en.jpg
 image-alt: "A laptop and phone showing the GC Notify home page in Beta. "
 translationKey: blog-notify-beta
 thumb: ""
