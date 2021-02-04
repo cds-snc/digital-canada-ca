@@ -8,16 +8,16 @@ description: Considering how different people will use your service can help you
   on for a practical example of accessible design.
 author: "Paul Craig, Development "
 date: 2021-02-04T20:31:27.741Z
-image: /img/cds/EN-Newsletter1.jpg
+image: /img/cds/screenreader-blog-banner.jpg
 image-alt: A person using a screen reader to hear important information from
   their computer.
-translationKey: screenreader-stuff
+translationKey: blog-screenreader-stuff
 thumb: ""
 processed: ""
 ---
 ## COVID Alert and backup codes
 
-Working with Health Canada, our team at the Canadian Digital Service (CDS) builds and runs the COVID Alert service, which includes — yes, the app — but also the [COVID Alert portal] (https://digital.canada.ca/2020/09/03/meeting-the-needs-of-healthcare-authorities-to-roll-out-covid-alert-across-canada/). 
+Working with Health Canada, our team at the Canadian Digital Service (CDS) builds and runs the COVID Alert service, which includes — yes, the app — but also the [COVID Alert portal](https://digital.canada.ca/2020/09/03/meeting-the-needs-of-healthcare-authorities-to-roll-out-covid-alert-across-canada/). 
 
 Up until recently, to access the portal, healthcare workers needed their email address and password to login, but also a cell phone to receive a code for two-factor authentication (2FA). Once logged in, healthcare workers could give out one-time keys to people who tested positive for COVID-19. It’s by entering their key into the app, that users can alert others of potential exposures.
 
@@ -42,22 +42,27 @@ To get a little bit technical, most of what you see on the internet is text in a
 I was interested to see how both Google and Github’s recovery codes looked and how they sounded to a screen reader. 
 
 ### Visually
-[TABLE HERE]
 
 Looking at both, there are strong similarities between them:
+
 * They use structured layouts: tables and lists are announced by screen readers.
 * They use restricted character sets: not all letters are allowed, no special characters. So, it means they won't have problems distinguishing "1" from "L", or "0" from "O", for example.
 * Monospaced fonts: letterforms that are all the same width, so the codes all take up the same amount of space.
+
 ### Audibly
 
 So while they looked pretty good, there were a few noticeable bugs when using VoiceOver on MacOS, which is the screen reader provided by Apple:
 
 #### Unintended spoken codes
+
 An issue that was unique to Google was VoiceOver reads the codes as two whole numbers. For example, for the code “1234 5678”, VoiceOver will read that as “one thousand, two hundred, thirty-four. Five thousand, six hundred, seventy-eight”. Not the biggest problem, but it does reduce the clarity. For example, when you tell someone your phone number, you don’t usually say “four billion, one hundred and thirty five million, etc.” it would be technically correct but hard for the other person to remember.
+
 #### Codes vs words
+
 Our recovery codes for the COVID Alert Portal are 8 random characters, including all numbers and letters. Listening to several randomly-generated codes, they mostly sounded fine, but eventually I noticed something odd: most codes were read out character by character (this is what we want), but not all of them were. Sometimes, VoiceOver would read a code as a word, rendering it all but indecipherable. 
 
 After trying a few more examples, I learned something interesting about VoiceOver. Codes are read as words when they had both: 
+
 * No numbers
 * A vowel
 
@@ -70,6 +75,7 @@ However, if it sees a string “CATS”, it reads “cats”, like the animal. E
 Okay, so now that we know this, what do we do about it? Codes are randomly generated, so we can’t predict what’s going to show up. Essentially, we need to handle the same information in different ways: in a way that’s clear visually, and a different way when it’s being read aloud.
 
 When looking at the codes, we want to group characters in small groups for easy scanning, whereas we always want screen readers to announce them one character at a time. To achieve this, we actually display the code two different ways: 
+
 1. On the screen we show “FETV  BAFR”, but hide this from screen readers.
 2. For screen readers, we show them “F E T V B A F R”, which is hidden visually.
 
@@ -83,6 +89,4 @@ It isn’t possible to test with every single screen reader on every platform/br
 
 Considering accessibility as you build, rather than avoiding it for fear of making a mistake, will lead to better outcomes for everyone. There are always going to be edge cases, but the point is to consider accessibility and test as you go to see if your site reads as well as it looks. As we saw, not even Google or Github are perfect. 
 
-Building services is great. But making sure that those services are accessible and available? That’s why we do this stuff. 
-
-
+Building services is great. But making sure that those services are accessible and available? That’s why we do this stuff.
