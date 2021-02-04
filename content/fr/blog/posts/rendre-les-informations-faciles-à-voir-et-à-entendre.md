@@ -1,21 +1,23 @@
 ---
 layout: blog
 title: Rendre les informations faciles à voir et à entendre
-description: "Prendre en considération les différentes façons dont un service
-  sera utilisé peut nous aider à l’améliorer pour tous les utilisateurs, ce qui
-  est plutôt génial. Sur le portail Alerte COVID, nous avons récemment lancé la
+description: >-
+  Prendre en considération les différentes façons dont un service sera utilisé
+  peut nous aider à l’améliorer pour tous les utilisateurs, ce qui est plutôt
+  génial. Sur le portail Alerte COVID, nous avons récemment lancé la
   fonctionnalité des « codes de récupération » pour les travailleurs du réseau
   de la santé, ce qui a mis en lumière des choses intéressantes sur les lecteurs
   d’écran et l’accessibilité. Lisez la suite pour un exemple pratique de design
-  accessible. "
-author: "Paul Craig, Développement "
+  accessible. 
+author: 'Paul Craig, Développement '
 date: 2021-02-04T14:33:56.437Z
 image: /img/cds/screenreader-blog-banner.jpg
-image-alt: Une personne utilisant un lecteur d’écran pour entendre de
-  l’information importante de son ordinateur.
+image-alt: >-
+  Une personne utilisant un lecteur d’écran pour entendre de l’information
+  importante de son ordinateur.
 translationKey: blog-screenreader-stuff
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/screenreader-blog-banner.jpg
+processed: 1612450944111
 ---
 ## Alerte COVID et codes de sauvegarde
 
@@ -44,6 +46,35 @@ Vous me pardonnerez une tangente un peu technique : la majorité du contenu sur 
 J’étais curieux de savoir comment les lecteurs d’écran interprétaient les codes de récupération de Google et de Github. 
 
 ### Visuellement
+
+<table>
+  <tbody>
+      <tr>
+          <td>
+          <h4 class="bolded">Google</h4>
+           </td>
+          <td>
+          <h4 class="bolded">Github</h4>
+          </td>
+      </tr>
+      <tr>
+          <td>
+          <ul>
+             <li>A list of checkboxes</li>
+             <li>Characters are all numbers</li>
+          </ul>
+          <img src="/img/cds/screenreader-blog-google.jpg" alt="A list of Google’s recovery codes made up of 8 random numbers.">
+           </td>
+         <td>
+          <ul>
+             <li>A list of bullet points</li>
+             <li>Characters are hexadecimal (mix of numbers and the first six letters of the alphabet a,b,c,d,e,f”)</li>
+          </ul>
+          <img src="/img/cds/screenreader-blog-github.jpg" alt="A list of Github’s recovery codes made up of 10 random letters and numbers.">
+           </td>
+      </tr>
+  </tbody>
+  </table>
 
 Dans les deux cas, on observe de fortes similarités :
 * Utilisation de mises en page structurées : les tableaux et les listes sont annoncés par les lecteurs d’écran.

@@ -1,19 +1,21 @@
 ---
 layout: blog
 title: Making information easy to see and hear
-description: "Considering how different people will use your service can help
-  you make it better for everyone, which is pretty rad. On the COVID Alert
-  Portal, we recently released ‘recovery codes’ for healthcare workers, and
-  learned some interesting things about screen readers and accessibility along
-  the way. Read on for a practical example of accessible design. "
-author: "Paul Craig, Development "
+description: >-
+  Considering how different people will use your service can help you make it
+  better for everyone, which is pretty rad. On the COVID Alert Portal, we
+  recently released ‘recovery codes’ for healthcare workers, and learned some
+  interesting things about screen readers and accessibility along the way. Read
+  on for a practical example of accessible design. 
+author: 'Paul Craig, Development '
 date: 2021-02-04T14:51:35.505Z
 image: /img/cds/screenreader-blog-banner.jpg
-image-alt: A person using a screen reader to hear important information from
-  their computer.
+image-alt: >-
+  A person using a screen reader to hear important information from their
+  computer.
 translationKey: blog-screenreader-stuff
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/screenreader-blog-banner.jpg
+processed: 1612450943845
 ---
 ## COVID Alert and backup codes
 
@@ -42,6 +44,35 @@ To get a little bit technical, most of what you see on the internet is text in a
 I was interested to see how both Google and Github’s recovery codes looked and how they sounded to a screen reader. 
 
 ### Visually
+
+<table>
+  <tbody>
+      <tr>
+          <td>
+          <h4 class="bolded">Google</h4>
+           </td>
+          <td>
+          <h4 class="bolded">Github</h4>
+          </td>
+      </tr>
+      <tr>
+          <td>
+          <ul>
+             <li>A list of checkboxes</li>
+             <li>Characters are all numbers</li>
+          </ul>
+          <img src="/img/cds/screenreader-blog-google.jpg" alt="A list of Google’s recovery codes made up of 8 random numbers.">
+           </td>
+         <td>
+          <ul>
+             <li>A list of bullet points</li>
+             <li>Characters are hexadecimal (mix of numbers and the first six letters of the alphabet a,b,c,d,e,f”)</li>
+          </ul>
+          <img src="/img/cds/screenreader-blog-github.jpg" alt="A list of Github’s recovery codes made up of 10 random letters and numbers.">
+           </td>
+      </tr>
+  </tbody>
+  </table>
 
 Looking at both, there are strong similarities between them:
 
@@ -90,3 +121,4 @@ It isn’t possible to test with every single screen reader on every platform/br
 Considering accessibility as you build, rather than avoiding it for fear of making a mistake, will lead to better outcomes for everyone. There are always going to be edge cases, but the point is to consider accessibility and test as you go to see if your site reads as well as it looks. As we saw, not even Google or Github are perfect. 
 
 Building services is great. But making sure that those services are accessible and available? That’s why we do this stuff.
+
