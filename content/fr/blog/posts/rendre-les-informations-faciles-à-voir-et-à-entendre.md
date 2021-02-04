@@ -60,17 +60,17 @@ J’étais curieux de savoir comment les lecteurs d’écran interprétaient les
       <tr>
           <td>
           <ul>
-             <li>A list of checkboxes</li>
-             <li>Characters are all numbers</li>
+             <li>Une liste de cases à cocher</li>
+             <li>Caractères composés de chiffres uniquement</li>
           </ul>
-          <img src="/img/cds/screenreader-blog-google.jpg" alt="A list of Google’s recovery codes made up of 8 random numbers.">
+          <img src="/img/cds/screenreader-blog-google.jpg" alt="Une liste de codes de récupération fournis par Google composés de 8 chiffres aléatoires.">
            </td>
          <td>
           <ul>
-             <li>A list of bullet points</li>
-             <li>Characters are hexadecimal (mix of numbers and the first six letters of the alphabet a,b,c,d,e,f”)</li>
+             <li>Une liste à puces</li>
+             <li>Caractères hexadécimaux (combinaison de chiffres et des six premières lettres de l’alphabet a, b, c, d, e, f)</li>
           </ul>
-          <img src="/img/cds/screenreader-blog-github.jpg" alt="A list of Github’s recovery codes made up of 10 random letters and numbers.">
+          <img src="/img/cds/screenreader-blog-github.jpg" alt="Une liste de codes de récupération fournis par Github composés d’une combinaison de 10 lettres et chiffres aléatoires.">
            </td>
       </tr>
   </tbody>
