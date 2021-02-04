@@ -77,9 +77,11 @@ J’étais curieux de savoir comment les lecteurs d’écran interprétaient les
   </table>
 
 Dans les deux cas, on observe de fortes similarités :
+
 * Utilisation de mises en page structurées : les tableaux et les listes sont annoncés par les lecteurs d’écran.
 * Utilisation de jeux de caractères restreints : toutes les lettres ne sont pas utilisées; aucun caractère spécial n’est utilisé. Cela signifie qu’il n’y aura aucun problème de distinction entre « 1 » et « L » ou « 0 » et « O », par exemple.
 * Utilisation de polices à espacement constant : les caractères ont tous la même largeur, de sorte que les codes occupent tous le même espace.
+
 ### Par voie auditive
 
 Ainsi, bien que les codes s’affichaient plutôt bien, j’ai observé quelques bogues notables lors de l’utilisation de VoiceOver, le lecteur d’écran fourni par Apple sur macOS :
@@ -89,9 +91,11 @@ Un problème propre à Google est que VoiceOver lit les codes sous forme de deux
 #### Codes versus mots
 Les codes de récupération pour le portail Alerte COVID sont composés de 8 caractères aléatoires et peuvent comprendre n’importe quels chiffres et lettres. En écoutant plusieurs codes générés aléatoirement, j’ai pu constater qu’ils sonnaient généralement bien, mais j’ai fini par remarquer quelque chose d’étrange : la plupart des codes se lisaient caractère par caractère (le résultat voulu), mais pas tous. Parfois, VoiceOver lisait un code comme un mot, ce qui le rendait pratiquement indéchiffrable. 
 
-Après quelques essais supplémentaires, j’ai constaté quelque chose d’intéressant sur VoiceOver. Les codes sont lus comme des mots lorsque les deux conditions suivantes surviennent en même temps : 
+Après quelques essais supplémentaires, j’ai constaté quelque chose d’intéressant sur VoiceOver. Les codes sont lus comme des mots lorsque les deux conditions suivantes surviennent en même temps :
+
 * le code ne contient aucun chiffre
 * le code contient une voyelle
+
 Si VoiceOver voit la suite de caractères « C4T5 », il les lit un par un (p. ex., « C », « 4 », « T », « 5 »). S’il voit la suite de caractères « CTTS », il fera de même (p. ex., « C », « T », « T », « S »). 
 
 Cependant, s’il voit la série de caractères « RATS », il lit « rats », comme l’animal. Mais, au lieu d’un mot français (ou anglais), il lit généralement des mots absurdes comme « FETV », « BAFR » ou « YEGT ». 
