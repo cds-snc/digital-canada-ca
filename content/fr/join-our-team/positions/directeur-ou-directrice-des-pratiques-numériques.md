@@ -9,7 +9,7 @@ description: Nous sommes à la recherche d’un directeur ou d’une directrice 
   gestion de produits et développement logiciel) servent à former des équipes de
   produits multidisciplinaires au sein des deux unités opérationnelles
   (partenariats et plateforme) qui font avancer la mission du SNC.
-archived: false
+archived: true
 leverId: c284600b-aa90-4bc9-86b3-ca6aad8f45a7
 translationKey: director-digital-practice
 ---
