@@ -1,18 +1,13 @@
 ---
 layout: blog
 title: GC Notify has reached Beta
-description: >-
-  After developing a first version of the service and improving the ways it
-  meets people’s needs, we’d like to announce that GC Notify has officially
-  moved from the Alpha to Beta phase, meaning its more stable, reliable and
-  secure than ever before. 
+description: After developing a first version of the service and improving the ways it meets people’s needs, we’d like to announce that GC Notify has officially moved from the Alpha to Beta phase, meaning its more stable, reliable and secure than ever before. 
 author: 'Bryan Willey and Clementine Hahn, Product Managers '
-date: 2021-02-01T13:51:01.383Z
-image: /img/cds/notify-blog-beta-banner-en.jpg
-image-alt: 'A laptop and phone showing the GC Notify home page in Beta. '
+date: '2021-02-01T19:00:00.000Z'
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/notify_blog_beta_banner_en_6790c9d2f1.jpg
+image-alt: A laptop and phone showing the GC Notify home page in Beta. 
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_notify_blog_beta_banner_en_6790c9d2f1.jpg
 translationKey: blog-notify-beta
-thumb: /img/cds/thumbnails/notify-blog-beta-banner-en.jpg
-processed: 1612203119355
 ---
 Since introducing the GC Notify tool in 2019, we’ve helped government departments send [over 8.8 million notifications](https://notification.canada.ca/activity). After developing a first version of the service and improving the ways it meets people’s needs, we’d like to announce that GC Notify has officially moved from the Alpha to Beta phase, meaning its more stable, reliable and secure than ever before. 
 
@@ -59,3 +54,4 @@ Additionally, departments can send up to 10 million emails a year for free, and 
 If you’re part of a government team that needs to send important messages to the public, we encourage you to [try GC Notify today](https://notification.canada.ca/). 
 
 Our team is also available to answer any questions about the service - [connect with us directly,](https://notification.canada.ca/contact) or use the Twitter hashtag #GCNotify for more details, queries and assistance. We hope to hear from you.
+
