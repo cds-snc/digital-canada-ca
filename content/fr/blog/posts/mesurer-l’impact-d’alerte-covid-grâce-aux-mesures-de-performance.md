@@ -28,6 +28,7 @@ Comme pour toute modification apportée au service, nous veillons à ce que l’
 
 1. Le service doit bien fonctionner. 
 2. Plus il y a de personnes qui utilisent le service, plus son impact sera grand.
+
 ## Comprendre si le service fonctionne bien 
 
 Le service est accessible aux Canadiennes et Canadiens depuis environ six mois. Nous avons atteint un point où, pour prendre des décisions plus importantes, nous devons approfondir ce premier principe. 
@@ -45,6 +46,7 @@ Nous communiquons régulièrement avec le Conseil consultatif de l’application
 Ils nous ont aidés à aborder la collecte de mesures dans une optique de protection des renseignements personnels. C’est pourquoi la collecte de ces données se fera de façon agrégée. 
 
 Qu’est-ce que cela signifie? Eh bien, pour collecter des mesures de performance de manière agrégée, nous utilisons la méthode du comptage. Chaque fois qu’une des tâches que nous mesurons est terminée, elle est enregistrée en tant qu’événement. (Par exemple, la sélection d’une province ou d’un territoire est un événement, tout comme la réception d’une notification d’exposition.) Chaque fois qu’un de ces « événements » se produit dans l’application, l’application en informe le serveur, et le serveur enregistre le compte. Une fois par jour, les événements sont additionnés et nous obtenons le total pour ce jour-là. Nous n’obtenons aucune autre information avec cette méthode. Les renseignements précis provenant de l’appareil ne sont ni collectés ni conservés par le serveur. Nous n’avons aucun moyen de savoir d’où viennent les données. En fait, nous ne savons rien d’autre que le nombre d’événements. 
+
 ## Quelles mesures de performance l’application collecte-t-elle au juste? 
 
 Pour mieux comprendre **si l’application fonctionne correctement au quotidien**, nous collecterons des mesures qui indiquent combien d’appareils exécutent les tâches qu’une application fonctionnelle devrait réaliser. Ces mesures comprennent notamment le nombre d’appareils qui ont effectué une vérification en arrière-plan chaque jour ou le nombre d’appareils qui ont terminé le processus de configuration.
@@ -56,9 +58,11 @@ Ces renseignements nous permettront de mieux orienter le développement de l’a
 Cette information nous aidera à répondre à des questions plus larges sur l’amélioration du service dans son ensemble, y compris la manière dont les gens reçoivent des clés à usage unique. Nous aurons également une meilleure idée de l’impact de l’application sur la pandémie et des retombées possibles pour la réouverture de l’économie. 
 
 **Pour connaître la liste complète des mesures précises collectées par l’application, consultez la [politique de confidentialité d’Alerte COVID] (https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid/politique-confidentialite.html).**
+
 ## Qu’est-ce que cela signifie pour les personnes qui utilisent l’application? 
 
 Même si nous apportons des modifications dans le but d’améliorer l’application et le service dans son ensemble, les utilisateurs ne verront aucune différence dans son fonctionnement. 
+
 ## Développeurs et utilisateurs de l’application
 
 Dans notre vie professionnelle, nous jouons le rôle de développeur, de concepteur, de spécialiste des politiques, d’expert en communication, de gestionnaire de produit et bien d’autres. Mais en quittant le bureau, nous devenons tout comme vous des utilisateurs de l’application qui veulent retrouver une vie plus normale, y compris les concerts de groupes méconnus dans des petites salles insolites. Pour y arriver, nous voulons donner à nos proches et à nos communautés les meilleurs outils possibles pour rester en sécurité, tout en protégeant leur vie privée. 
