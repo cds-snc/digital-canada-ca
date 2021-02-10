@@ -24,6 +24,7 @@ As with any change that goes into the service, we make sure it aligns with the [
 
 1. The service must work well and 
 2. The more people that use the service, the more impactful it will be.
+
 ## Understanding if the service works well 
 
 The service has been out in the world for about six months. We’re now at a point where, to make bigger decisions about it, we have to dive deeper into that first principle. 
