@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Mesurer l’impact d’Alerte COVID grâce aux mesures de perf
+title: Mesurer l’impact d’Alerte COVID grâce aux mesures de performance
 description: >-
   Pour savoir si le service Alerte COVID fonctionne bien, nous devons comprendre
   s’il fonctionne comme prévu et s’il a un impact sur la pandémie. Il nous faut
