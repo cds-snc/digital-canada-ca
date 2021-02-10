@@ -1,20 +1,24 @@
 ---
 layout: blog
 title: Mesurer l’impact d’Alerte COVID grâce aux mesures de perf
-description: Pour savoir si le service Alerte COVID fonctionne bien, nous devons
-  comprendre s’il fonctionne comme prévu et s’il a un impact sur la pandémie. Il
-  nous faut des données pour y arriver. C’est pourquoi nous lançons la collecte
-  de mesures de performance (tout en veillant à la protection de vos
-  renseignements personnels).
-author: Emily Kuret, directrice – Alerte COVID; Jean-François Gagné et Carole
-  Piovesan – Conseil consultatif de l’application de notification d’exposition à
-  la COVID-19
+description: >-
+  Pour savoir si le service Alerte COVID fonctionne bien, nous devons comprendre
+  s’il fonctionne comme prévu et s’il a un impact sur la pandémie. Il nous faut
+  des données pour y arriver. C’est pourquoi nous lançons la collecte de mesures
+  de performance (tout en veillant à la protection de vos renseignements
+  personnels).
+author: >-
+  Emily Kuret, directrice – Alerte COVID; Jean-François Gagné et Carole Piovesan
+  – Conseil consultatif de l’application de notification d’exposition à la
+  COVID-19
 date: 2021-02-10T18:01:22.799Z
 image: /img/cds/metrics-covid-alert-blog-banner.jpg
-image-alt: Téléphones avec plusieurs regroupements de marques de pointage au-dessus d’eux.
+image-alt: >-
+  Téléphones avec plusieurs regroupements de marques de pointage au-dessus
+  d’eux.
 translationKey: blog-metrics-app
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/metrics-covid-alert-blog-banner.jpg
+processed: 1612981734871
 ---
 Le changement est la seule constante, surtout en cas de pandémie. Comme la plupart des gens, j’ai dû m’habituer à un style de vie différent. Alors qu’autrefois je parcourais le Grand Toronto pour écouter des groupes méconnus dans des salles de spectacle insolites, je m’installe maintenant dans mon salon pour lire des romans de Margaret Atwood. Mes samedis sont très différents. 
 
@@ -60,3 +64,4 @@ Même si nous apportons des modifications dans le but d’améliorer l’applica
 Dans notre vie professionnelle, nous jouons le rôle de développeur, de concepteur, de spécialiste des politiques, d’expert en communication, de gestionnaire de produit et bien d’autres. Mais en quittant le bureau, nous devenons tout comme vous des utilisateurs de l’application qui veulent retrouver une vie plus normale, y compris les concerts de groupes méconnus dans des petites salles insolites. Pour y arriver, nous voulons donner à nos proches et à nos communautés les meilleurs outils possibles pour rester en sécurité, tout en protégeant leur vie privée. 
 
 Le lancement des mesures de performance dans l’application n’y change rien. Nous continuerons à défendre les intérêts de tous nos utilisateurs et à protéger la confidentialité et la sécurité des personnes qui choisissent d’utiliser Alerte COVID comme une couche de protection additionnelle pendant la pandémie.
+
