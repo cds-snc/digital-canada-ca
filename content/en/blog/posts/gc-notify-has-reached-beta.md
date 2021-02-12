@@ -52,7 +52,7 @@ Our move to Beta and plans for continuous improvement of the service (based on u
 * Notify can now send **text messages from Canadian numbers.**  
 * Notify has been integrated with Canadian telecommunications companies to **report the status of text message delivery.** 
 
-Additionally, departments can send up to 10 million emails a year for free, and up to 25,000 text messages — a testament to the service’s capacity to potentially serve as a secure, centralized email notification system for all government services. 
+Additionally, departments can send up to 10 million emails and 250,000 text messages a year for free — a testament to the service’s capacity to potentially serve as a secure, centralized email notification system for all government services. 
 
 ## We’re here to help — during and beyond COVID-19
 
