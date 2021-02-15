@@ -54,7 +54,7 @@ Grâce à cette version bêta et aux améliorations continues que nous prévoyon
 * GC Notification peut maintenant envoyer des **messages texte de numéros canadiens**.  
 * GC Notification a été intégré auprès des sociétés de télécommunications canadiennes afin de **surveiller l’état de livraison des messages texte**.
 
-De plus, les ministères peuvent envoyer gratuitement jusqu’à 10 millions de courriels par année, et jusqu’à 250 000 messages textes, ce qui témoigne de la capacité du service à servir éventuellement de système de notification par courriel centralisé et sécurisé pour tout service gouvernemental.
+De plus, les ministères peuvent envoyer gratuitement jusqu’à 10 millions de courriels et jusqu’à 25,000 messages textes par année, ce qui témoigne de la capacité du service à servir éventuellement de système de notification par courriel centralisé et sécurisé pour tout service gouvernemental.
 
 Nous sommes là pour vous aider — pendant comme après la pandémie 
 
