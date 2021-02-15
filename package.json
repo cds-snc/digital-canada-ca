@@ -26,7 +26,7 @@
   },
   "scripts": {
     "dev": "npm run process:images && webpack && hugo server -D",
-    "process:images": "node util/processBlogImages && node util/processTeamImages",
+    "process:images": "node util/processBlogImages",
     "build": "npm run process:images && webpack && hugo",
     "build_admin": "webpack --config webpack.config.js",
     "build:stage": "webpack && hugo --environment staging",
