@@ -1,18 +1,20 @@
 ---
 layout: blog
 title: Measuring the impact of COVID Alert with metrics
-description: To know if the COVID Alert service works well, we need to
-  understand if it’s functioning as intended and if it’s having an impact on the
-  pandemic. We can’t fully do that without data. This is why we’re introducing
-  metrics (in a way that still protects your privacy.)
-author: Emily Kuret, Director - COVID Alert; Jean-François Gagné and Carole
-  Piovesan - COVID Alert Advisory Council
+description: >-
+  To know if the COVID Alert service works well, we need to understand if it’s
+  functioning as intended and if it’s having an impact on the pandemic. We can’t
+  fully do that without data. This is why we’re introducing metrics (in a way
+  that still protects your privacy.)
+author: >-
+  Emily Kuret, Director - COVID Alert; Jean-François Gagné and Carole Piovesan -
+  COVID Alert Advisory Council
 date: 2021-02-10T17:59:53.769Z
 image: /img/cds/metrics-covid-alert-blog-banner.jpg
 image-alt: Phones with multiple groupings of tally marks above them.
 translationKey: blog-metrics-app
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/metrics-covid-alert-blog-banner.jpg
+processed: 1612981734674
 ---
 Change is the only constant, especially when it comes to a pandemic. Like most are experiencing, I’ve had to get used to a bit of a different lifestyle – going from listening to obscure bands in eclectic spots across the GTA, to settling down with a Margaret Atwood novel. My Saturdays look very different. 
 
@@ -22,6 +24,7 @@ As with any change that goes into the service, we make sure it aligns with the [
 
 1. The service must work well and 
 2. The more people that use the service, the more impactful it will be.
+
 ## Understanding if the service works well 
 
 The service has been out in the world for about six months. We’re now at a point where, to make bigger decisions about it, we have to dive deeper into that first principle. 
@@ -58,3 +61,4 @@ Though we’re adding changes to help us make the app and the overall service be
 At our day job, we’re a team of dedicated developers, designers, policy hackers, communications experts, product managers and many others. But beyond that, we’re also users of the app, who want to see life get back to normal – obscure live music concerts and all. To get there, we want to make sure our loved ones and communities have the best tools possible to stay safe, in a way that protects their privacy. 
 
 The introduction of metrics into the app does not change that. We’ll continue to advocate for all users of the app, and protect the privacy and security of the people who choose to use COVID Alert as another way to stay safe during the pandemic. 
+
