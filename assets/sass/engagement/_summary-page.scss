@@ -52,7 +52,7 @@
     }
 
     .summary-heading-background { 
-        background: url("../img/v2/horizon-v2.jpg") no-repeat center right / cover $primary-color;
+        background: url($image-base-url + "/v2/horizon-v2.jpg") no-repeat center right / cover $primary-color;
         border-color: $primary-color;
         min-height: 200px;  
         margin-top: 1em;
@@ -77,7 +77,7 @@
                 margin-top      : 15px;
                 margin-bottom   : 15px;
                 
-                background      : url(../img/v2/horizon-v2.jpg) no-repeat center right / cover $primary-color;
+                background      : url($image-base-url + "/v2/horizon-v2.jpg") no-repeat center right / cover $primary-color;
 
 
                 @media screen and (min-width: 500px) {

@@ -157,7 +157,7 @@
 
     // Front Cover Header
     &.cover {
-        @include image-header("../img/v2/horizon-v2.jpg", $primary-color);
+        @include image-header($image-base-url + "/v2/horizon-v2.jpg", $primary-color);
         border-bottom: 0;
         border-top: 0;
         margin-top: 0;
@@ -174,7 +174,7 @@
     }
 
     &.section--engagement {
-        @include image-header("../img/v2/pei-startupzone-v2a.jpg", $engagement-color);
+        @include image-header($image-base-url + "/v2/pei-startupzone-v2a.jpg", $engagement-color);
 
         .padded-multiline span.pad, .toplink { 
             background-color: $engagement-color; //rgba($engagement-color, 0.9); 
@@ -182,7 +182,7 @@
     }
 
     &.section--organizing {
-         @include image-header("../img/v2/calgary-v3.jpg", $organizing-color);
+         @include image-header($image-base-url + "/v2/calgary-v3.jpg", $organizing-color);
 
         .padded-multiline span.pad, .toplink { 
             background-color: $organizing-color; //rgba($organizing-color, 0.9); 
@@ -190,7 +190,7 @@
     }
     
     &.section--talent {
-         @include image-header("../img/v2/hub-ottawa-v2.jpg", $talent-color);
+         @include image-header($image-base-url + "/v2/hub-ottawa-v2.jpg", $talent-color);
 
         .padded-multiline span.pad, .toplink { 
             background-color: $talent-color; //rgba($talent-color, 0.9); 
@@ -198,7 +198,7 @@
     }
     
     &.section--design {
-         @include image-header("../img/v2/vancouver-v2a.jpg", $design-color);
+         @include image-header($image-base-url + "/v2/vancouver-v2a.jpg", $design-color);
 
         .padded-multiline span.pad, .toplink { 
             background-color: $design-color; //rgba($design-color, 0.9); 
@@ -206,7 +206,7 @@
     }
     
     &.section--foundations {
-         @include image-header("../img/v2/construction.jpg", $foundations-color);
+         @include image-header($image-base-url + "/v2/construction.jpg", $foundations-color);
 
         .padded-multiline span.pad, .toplink { 
             background-color: $foundations-color; //rgba($foundations-color, 0.9); 
@@ -214,7 +214,7 @@
     }
     
     &.section--yourthoughts {
-         @include image-header("../img/v2/ottawa-v2.jpg", $yourthoughts-color);
+         @include image-header($image-base-url + "/v2/ottawa-v2.jpg", $yourthoughts-color);
 
         .padded-multiline span.pad, .toplink { 
             background-color: $yourthoughts-color; //rgba($yourthoughts-color, 0.9); 
