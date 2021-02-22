@@ -164,6 +164,13 @@ team:
     imagehash: alexa_davidson_4fd32774b7
     email: Alexa.Davidson@tbs-sct.gc.ca
   - archived: false
+    name: Amy Morris
+    title:
+      en: Design
+      fr: Conception
+    imagehash: small_amy_morris_251ee8fa8b
+    linkedin: amy-morris-79248247a
+  - archived: false
     name: Anik Brazeau
     title:
       en: Design
