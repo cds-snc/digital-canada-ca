@@ -146,7 +146,6 @@ exec:
     email: wissam.moussa@tbs-sct.gc.ca
     linkedin: wmoussa
     twitter: wmoussa_cds
-
 team:
   - archived: false
     name: Adrianne Lee
@@ -432,6 +431,13 @@ team:
     github: lchski
     linkedin: lchski
     twitter: lchski
+  - archived: false
+    name: Lyn Elliott
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    imagehash: small_lyn_elliot_6a2dfe52e8
+    email: lyn.elliott@tbs-sct.gc.ca
   - archived: false
     name: Max Neuvians
     title:
