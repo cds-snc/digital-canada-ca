@@ -41,6 +41,7 @@ By reducing a duplication of effort, and creating greater consistencies across o
 ## What we’ve done so far
 
 Looking back on what we’ve done so far to get the ball rolling, I’m proud of these early milestones. We’ve:  
+
 * Conducted workshops with researchers to find out about their needs for research operations.
 * Created a research operations inventory to understand the current state of our operations and see what we could prioritize to tackle in terms of impact and urgency. 
 * Spoke to design research operations managers from across the UX industry to gain a fresh perspective. 
