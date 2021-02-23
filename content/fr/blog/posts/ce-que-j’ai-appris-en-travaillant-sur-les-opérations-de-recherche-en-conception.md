@@ -39,7 +39,7 @@ L’application Dovetail propose une définition des opérations de recherche qu
 
 Notre petite (et puissante) équipe n’y avait aucune expérience. En règle générale, les personnes qui effectuaient la recherche s’occupaient également de toutes ces choses en arrière-plan. Cette approche fonctionnait bien et était même privilégiée, car elle donnait aux chercheurs la flexibilité, l’autonomie et les dispositions nécessaires pour prendre leurs propres décisions et se préparer à la recherche qui répondait aux besoins de leur équipe.
 
-Cependant, à l’été 2020, la pandémie mondiale, le lancement imminent de \[l’application Alerte COVID](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html) et une équipe croissante de chercheurs nous ont poussé à jeter les bases d’une capacité centrale des opérations de recherche au SNC. 
+Cependant, à l’été 2020, la pandémie mondiale, le lancement imminent de [l’application Alerte COVID](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html) et une équipe croissante de chercheurs nous ont poussé à jeter les bases d’une capacité centrale des opérations de recherche au SNC. 
 
 En réduisant le chevauchement des efforts et en assurant une meilleure cohérence dans notre pratique de recherche pour nos utilisateurs, apporter le soutien nécessaire à nos chercheurs avait le potentiel de nous rapprocher de notre objectif organisationnel de changer le gouvernement pour mieux servir les gens. 
 
@@ -59,7 +59,7 @@ En repensant à nos démarches jusqu’à maintenant, je suis fier de nos premi�
 
 * testé de nouveaux processus d’opérations de recherche en appuyant les chercheurs travaillant dans l’équipe de l’application Alerte COVID en mettant l’accent sur le recrutement, la planification et la rémunération des participants; 
 
-* organisé une \[rencontre de la communauté de pratique de la recherche en conception](https://numerique.canada.ca/2021/01/07/comment-les-chercheurs-du-gouvernement-veillent-%C3%A0-linclusivit%C3%A9-dans-leurs-recherches/) pour parler de la manière de mener des recherches inclusives et à distance;
+* organisé une [rencontre de la communauté de pratique de la recherche en conception](https://numerique.canada.ca/2021/01/07/comment-les-chercheurs-du-gouvernement-veillent-%C3%A0-linclusivit%C3%A9-dans-leurs-recherches/) pour parler de la manière de mener des recherches inclusives et à distance;
 
 Je suis fière de mes contributions au lancement de ce projet au SNC et j’ai hâte de voir comment nous continuerons à développer cette discipline. 
 
