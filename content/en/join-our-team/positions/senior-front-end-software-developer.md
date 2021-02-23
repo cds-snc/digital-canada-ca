@@ -17,7 +17,7 @@ We’re a matrixed organization with communities of practice that staff people a
 
 Senior Developers are classified as [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260/) in the Computer Systems group.
 
-### You’ll need to accomplish the following things:
+## You’ll need to accomplish the following things:
 
 1. Listen to, learn from, and help fellow government employees/departments improve how they work and deliver public services. Based on what’s simultaneously feasible and impactful is critical, help with change management, promote the Web Content Accessibility Guideline (WCAG) and human-centered design in places where we don’t have formal authority.
 2. Determining, communicating, and iteratively delivering minimal viable features and processes that will improve things for users right now. Doing this “agile-y” is critical, despite the government being waterfall driven.
@@ -25,7 +25,7 @@ Senior Developers are classified as [CS-04](https://www.tbs-sct.gc.ca/agreements
 4. Leading front-end development for full stack web applications (built from UI to infrastructure). This includes coding, operating, releasing, testing, and tuning them. You’ll need to do these in the open and collaboratively on cross-functional teams. This may involve rotating on-call duty.
 5. Build prototypes and/or well-crafted, maintainable software based on the context. By working in a cross functional team you will need to understand and sometimes act in roles other than your own.
 
-### We’ll evaluate you based on:
+## We’ll evaluate you based on:
 
 * Architecting and coding web-based software systems that are reliable, maintainable, safe, and accessible
 * Competency and skills with JavaScript frameworks (i.e. Angular, React, etc.) and working with shared UI libraries and/or design systems
