@@ -1,18 +1,20 @@
 ---
 layout: blog
-title: "Reflecting on what I learned from working on design research operations "
-description: "COVID-19 brought unexpected change to how people work. This was
-  true for our design research team, who used this change as an opportunity to
-  lay the groundwork for design research operations. One of our researchers
-  reflects on this shift and what she learned from it.  "
-author: Anne-Marie Mulumba, Design Research
+title: 'Reflecting on what I learned from working on design research operations '
+description: >-
+  COVID-19 brought unexpected change to how people work. This was true for our
+  design research team, who used this change as an opportunity to lay the
+  groundwork for design research operations. One of our researchers reflects on
+  this shift and what she learned from it.  
+author: 'Anne-Marie Mulumba, Design Research'
 date: 2021-02-23T16:10:15.833Z
 image: /img/cds/anne-marie-blog-banner.jpg
-image-alt: A person looking at their reflection, seeing their accomplishments
-  and how it’s formed them into the person they are.
+image-alt: >-
+  A person looking at their reflection, seeing their accomplishments and how
+  it’s formed them into the person they are.
 translationKey: blog-design-research-ops
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/anne-marie-blog-banner.jpg
+processed: 1614098644228
 ---
 Most of us know that work often ends up including more than the job description outlined. Our values and personality, the relationships we build, and the way we approach our work  ultimately influence the impact we have and the direction a role can take.
 
@@ -63,3 +65,4 @@ Lastly, I love the challenge of managing multiple priorities, even if it means s
 As I hope these reflections resonate with you, I encourage you to look back at your journey as a researcher or designer: what are the things that you learned and accomplished since you started; things that were not in the job description? 
 
 I am grateful that I was part of a team that supported me to do my best work and invested in my interests and skills. I wish you to gain wisdom, work with many different people and join projects that continue to surprise you beyond that job description.
+

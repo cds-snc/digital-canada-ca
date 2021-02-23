@@ -12,7 +12,7 @@ The Canadian Digital Service (CDS) is changing how the federal government design
 
 To support this important mission, we are looking for an Internal Communications Advisor. Reporting to the Head of Outreach, with a dotted-line to the Head of Talent, this Sr. Internal Communications Advisor will be responsible for setting and executing on an internal communications strategy for our growing organization. We have been a fairly small organization since our inception and as we get bigger, we need help to ensure that we stay connected to our work, values and mission. 
 
-We are looking for someone who will:
+## We are looking for someone who will:
 
 * Develop and implement  a holistic internal communications strategy for CDS
 * Help product teams share information with the larger org
@@ -23,7 +23,7 @@ We are looking for someone who will:
 * Help make CDS a great place to work by reinforcing CDSs diversity, equality and inclusion practices. 
 
 
-An excellent candidate will: 
+## An excellent candidate will: 
 
 * Have experience in an agile software development or startup environment 
 * Have experience with internal communications or stakeholder management

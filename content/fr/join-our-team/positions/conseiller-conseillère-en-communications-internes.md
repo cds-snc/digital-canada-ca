@@ -12,7 +12,7 @@ Le Service numérique canadien (SNC) change la façon dont le gouvernement féd�
 
 Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) conseiller/conseillère en communications internes. Relevant du chef de liaison et diffusion, avec une relation en pointillé avec le chef des talents, le/la conseiller/conseillère en communications internes sera chargé d’établir et d’exécuter une stratégie de communications internes pour notre organisation en croissance. Nous sommes une organisation relativement petite depuis sa création et, à mesure que nous grandissons, nous avons besoin d’aide pour rester alignés sur notre travail, nos valeurs et notre mission.
 
-Nous sommes à la recherche d’une personne qui effectuera ce qui suit :
+## Nous sommes à la recherche d’une personne qui effectuera ce qui suit :
 
 * Élaborer et mettre en œuvre une stratégie globale de communications internes pour le SNC;
 * Aider les équipes responsables des produits à partager l’information avec l’organisation dans son ensemble;
@@ -22,7 +22,7 @@ Nous sommes à la recherche d’une personne qui effectuera ce qui suit :
 * Se servir de ses excellentes compétences en communication pour ravir et inspirer ses collègues du SNC;
 * Aider à faire du SNC un excellent milieu de travail en y renforçant les pratiques en matière de diversité, d’égalité et d’inclusion.
 
-Un(e) excellent(e) candidat(e) aura ce qui suit :
+## Un(e) excellent(e) candidat(e) aura ce qui suit :
 
 * Expérience dans un environnement d’entreprise en démarrage ou de développement de logiciels agiles;
 * Expérience des communications internes ou de la gestion des intervenants;
