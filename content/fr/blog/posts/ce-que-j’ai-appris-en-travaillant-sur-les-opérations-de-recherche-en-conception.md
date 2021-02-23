@@ -1,19 +1,23 @@
 ---
 layout: blog
-title: Ce que j’ai appris en travaillant sur les opérations de recherche en conception
-description: "La COVID-19 a provoqué des changements inattendus dans la façon
-  dont les gens travaillent. Notre équipe de recherche en conception n’y a pas
-  échappé, et a profité de l’occasion pour jeter les bases des opérations de
-  recherche en conception. Une de nos chercheuses réfléchit à ces changements et
-  à ce qu’elle en a appris. "
-author: Anne-Marie Mulumba, recherche en conception
+title: >-
+  Ce que j’ai appris en travaillant sur les opérations de recherche en
+  conception
+description: >-
+  La COVID-19 a provoqué des changements inattendus dans la façon dont les gens
+  travaillent. Notre équipe de recherche en conception n’y a pas échappé, et a
+  profité de l’occasion pour jeter les bases des opérations de recherche en
+  conception. Une de nos chercheuses réfléchit à ces changements et à ce qu’elle
+  en a appris. 
+author: 'Anne-Marie Mulumba, recherche en conception'
 date: 2021-02-23T16:26:22.767Z
 image: /img/cds/anne-marie-blog-banner.jpg
-image-alt: Une personne qui admire son reflet, et qui voit ses accomplissements
-  et l’impact qu’ils ont eu sur la personne qu’elle est aujourd’hui.
+image-alt: >-
+  Une personne qui admire son reflet, et qui voit ses accomplissements et
+  l’impact qu’ils ont eu sur la personne qu’elle est aujourd’hui.
 translationKey: blog-design-research-ops
-thumb: ""
-processed: ""
+thumb: /img/cds/thumbnails/anne-marie-blog-banner.jpg
+processed: 1614098644269
 ---
 Il arrive souvent que les responsabilités d’un poste dépassent la description de poste. Nos valeurs et notre personnalité, les relations que nous construisons et notre approche au travail ont toutes une influence sur l’impact que nous avons et sur la direction qu’un rôle peut prendre.
 
