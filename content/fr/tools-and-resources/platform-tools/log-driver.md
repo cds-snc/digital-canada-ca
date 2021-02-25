@@ -1,5 +1,5 @@
 ---
-title: Camelot du SNC 🇨🇦
+title: Camelot du SNC
 translationKey: log-driver
 description: >-
   Cet outil déplace les journaux (messages de console) hors des consoles de développement et vers des services de suivi comme StackDriver.
