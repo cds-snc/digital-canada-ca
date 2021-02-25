@@ -7,8 +7,8 @@ description: >-
 product-url: 'https://impact.canada.ca/'
 phase: beta
 contact:
-  - email: ross.ferguson@tbs-sct.gc.ca
-    name: Ross Ferguson
+  - email: CDS-SNC@tbs-sct.gc.ca
+    name: CDS-SNC@tbs-sct.gc.ca
 partners:
   - name: Privy Council Office
     url: 'https://www.canada.ca/en/innovation-hub.html'

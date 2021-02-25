@@ -8,8 +8,8 @@ description: >-
 product-url: ''
 phase: beta / bêta
 contact:
-  - email: ross.ferguson@tbs-sct.gc.ca
-    name: Ross Ferguson
+  - email: CDS-SNC@tbs-sct.gc.ca
+    name: CDS-SNC@tbs-sct.gc.ca
 partners:
   - name: 'Immigration, Refugees and Citizenship Canada'
     url: 'https://www.canada.ca/en/immigration-refugees-citizenship.html'
