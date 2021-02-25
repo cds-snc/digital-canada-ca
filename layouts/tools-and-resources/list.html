@@ -6,9 +6,7 @@
       <div class="title-container">
         <div>
           <h4 class='{{ .Params.phase }}{{ if eq (string (.Site.Language)) "fr" }}fr{{end}}'>
-            {{ range .Params.links }}
-              <a class="title-link" href="{{ .url }}">{{.name}}</a>
-            {{ end }}
+            {{ .Params.title }}
           </h4>
         </div>
       </div>
