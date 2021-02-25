@@ -8,8 +8,6 @@ contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
     name: The Platform Team
 status: in-flight
-links:
-  - name: GitHub actions
-    url: 'https://github.com/cds-snc/github-actions'
+product-url: https://github.com/cds-snc/github-actions
 ---
 

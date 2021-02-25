@@ -8,7 +8,5 @@ contact:
   - email: bryan.willey@tbs-sct.gc.ca
     name: Bryan Willey
 status: in-flight
-links:
-  - name: Notify
-    url: "https://notification.alpha.canada.ca/?lang=en"
+product-url: https://notification.alpha.canada.ca/?lang=en
 ---

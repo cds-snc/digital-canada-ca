@@ -8,7 +8,5 @@ contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
     name: The Platform Team
 status: in-flight
-links:
-  - name: Personal identifiable information checking
-    url: "https://github.com/cds-snc/pii-checker"
+product-url: https://github.com/cds-snc/pii-checker
 ---

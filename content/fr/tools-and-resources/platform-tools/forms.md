@@ -8,6 +8,4 @@ contact:
   - email: steven.talbot@cds-snc.ca
     name: Stevie-Ray Talbot 
 status: in-flight
-links:
-  - name: Aider les fonctionnaires à créer et à gérer des formulaires
 ---
