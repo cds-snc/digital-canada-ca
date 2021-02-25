@@ -1,5 +1,5 @@
 ---
-title: CDS log driver 🇨
+title: CDS log driver
 translationKey: log-driver
 description: >-
   A tool to move logs (console messages) out of developer consoles and into tracking services like StackDriver.
