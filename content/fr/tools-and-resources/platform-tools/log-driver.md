@@ -8,8 +8,6 @@ contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
     name: Équipe des plateformes
 status: in-flight
-links:
-  - name: Camelot du SNC 🇨🇦
-    url: 'https://github.com/cds-snc/logDriver'
+product-url: https://github.com/cds-snc/logDriver
 ---
 

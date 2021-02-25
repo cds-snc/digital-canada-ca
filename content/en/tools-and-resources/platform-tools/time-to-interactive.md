@@ -8,7 +8,5 @@ contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
     name: The Platform Team
 status: in-flight
-links:
-  - name: Time to interactive tracking
-    url: "https://github.com/cds-snc/tti-tools-tracker"
+product-url: https://github.com/cds-snc/tti-tools-tracker
 ---

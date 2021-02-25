@@ -9,6 +9,6 @@ contact:
     name: Stevie-Ray Talbot 
 status: in-flight
 links:
-  - name: Prendre rendez-vous avec le gouvernement
+  - name: Documentation
     url: https://cds-snc.github.io/booking-documentation/
 ---

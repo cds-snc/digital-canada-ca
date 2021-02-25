@@ -8,8 +8,6 @@ contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
     name: Équipe des plateformes
 status: in-flight
-links:
-  - name: Examens Kubernetes des branches
-    url: 'https://github.com/cds-snc/kubernetes-branch-review'
+product-url: https://github.com/cds-snc/kubernetes-branch-review
 ---
 

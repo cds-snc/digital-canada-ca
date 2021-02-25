@@ -8,8 +8,6 @@ contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
     name: Équipe des plateformes
 status: in-flight
-links:
-  - name: Objectifs de sécurité
-    url: 'https://github.com/cds-snc/security-goals'
+product-url: https://github.com/cds-snc/security-goals
 ---
 

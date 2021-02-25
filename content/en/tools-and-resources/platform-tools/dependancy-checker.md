@@ -8,7 +8,5 @@ contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
     name: The Platform Team
 status: in-flight
-links:
-  - name: Dependency checker
-    url: "https://github.com/cds-snc/dependency-checker"
+product-url: https://github.com/cds-snc/dependency-checker
 ---

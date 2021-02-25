@@ -8,7 +8,5 @@ contact:
   - email: julie-ann.rowsell@tbs-sct.gc.ca
     name: Julianna Rowsell
 status: in-flight
-links:
-  - name: Outil de suivi a11y
-    url: "https://github.com/cds-snc/a11y-tracker"
+product-url: https://github.com/cds-snc/a11y-tracker
 ---

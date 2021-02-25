@@ -9,6 +9,6 @@ contact:
     name: Stevie-Ray Talbot 
 status: in-flight
 links:
-  - name: Book an appointment with government
+  - name: Documentation
     url: https://cds-snc.github.io/booking-documentation/
 ---

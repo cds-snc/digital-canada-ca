@@ -8,6 +8,4 @@ contact:
   - email: caitlin.tuba@tbs-sct.gc.ca
     name: Caitlin Tuba
 status: in-flight
-links:
-  - name: Continuous Security
 ---

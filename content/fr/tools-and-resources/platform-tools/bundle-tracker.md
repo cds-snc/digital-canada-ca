@@ -8,8 +8,6 @@ contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
     name: Équipe des plateformes
 status: in-flight
-links:
-  - name: Outil de suivi de la taille des paquets
-    url: 'https://github.com/cds-snc/bundle-size-tracker'
+product-url: https://github.com/cds-snc/bundle-size-tracker
 ---
 

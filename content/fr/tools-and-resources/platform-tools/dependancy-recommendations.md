@@ -8,8 +8,6 @@ contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
     name: Équipe des plateformes
 status: in-flight
-links:
-  - name: Vérificateur des dépendances
-    url: 'https://github.com/cds-snc/dependency-checker'
+product-url: https://github.com/cds-snc/dependency-checker
 ---
 

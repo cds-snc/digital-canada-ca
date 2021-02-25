@@ -7,7 +7,7 @@ translationKey: "guidance"
 partners:
     - { name: "Secrétariat du Conseil du Trésor du Canada", url: "https://www.canada.ca/fr/secretariat-conseil-tresor.html"}
 contact:
-    - { name: "Ross Ferguson", email: "ross.ferguson@tbs-sct.gc.ca" }
+    - { name: CDS-SNC@tbs-sct.gc.ca, email: CDS-SNC@tbs-sct.gc.ca }
 status: "past"
 links: []
 ---
