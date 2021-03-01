@@ -15,14 +15,14 @@
     "netlify-cms": "^2.10.90",
     "serialize-javascript": "^3.1.0",
     "set-value": "^3.0.2",
-    "sharp": "^0.25.4",
-    "snyk": "^1.440.5",
+    "sharp": "^0.26.2",
+    "snyk": "^1.445.0",
     "style-loader": "^0.23.1",
-    "webpack": "^4.44.2"
+    "webpack": "^5.1.1"
   },
   "devDependencies": {
     "node-yaml": "^3.2.0",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^4.5.0"
   },
   "scripts": {
     "dev": "npm run process:images && webpack && hugo server -D",
