@@ -7,14 +7,14 @@ module.exports = {
     mode: 'development',
     module: {
         rules: [
-            { test: /\.css$/, loader: "style-loader!css-loader", exclude: /node_modules/ },
+            { test: /\.css$/, use: "style-loader!css-loader", exclude: /node_modules/ },
             {
                 test: /\.(eot|svg|ttf|woff|woff2)$/,
-                loader: 'file-loader?name=public/fonts/[name].[ext]',
+                use: 'file-loader?name=public/fonts/[name].[ext]',
                 exclude: /node_modules/
             },
-            { test: /\.js$/, loaders: ["babel-loader"], exclude: /node_modules/ },
-            { test: /\.jsx$/, loaders: ["babel-loader"], exclude: /node_modules/ }
+            { test: /\.js$/, use: ["babel-loader"], exclude: /node_modules/ },
+            { test: /\.jsx$/, use: ["babel-loader"], exclude: /node_modules/ }
         ]
     },
 };
