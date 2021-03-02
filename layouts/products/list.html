@@ -42,7 +42,7 @@
         <div class="work-in-progress--partners-long">
           <h5>{{ i18n "partner" }}{{ if gt (len .Params.partners) 1 }}s{{end}}:</h5>
           {{ range .Params.partners }}
-            <p><a href='{{ .url }}'>{{ .name }}</a></p>
+            <p><a class="partner-link" href='{{ .url }}'>{{ .name }}</a></p>
           {{ end }}
         </div>
       </div>
