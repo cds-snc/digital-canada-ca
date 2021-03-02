@@ -41,7 +41,7 @@
       <div class="work-in-progress--team">
         <h5>Contact:</h5>
         {{ range .Params.contact }}
-        <p><a href='mailto:{{.email}}'>{{ .name }}</a></p>
+        <p><a class="contact-link" href='mailto:{{.email}}'>{{ .name }}</a></p>
         {{ end }}
       </div>
     </div>
@@ -55,7 +55,7 @@
           {{ if gt (len .) 0 }}
             <h5>{{ i18n "links" }}:</h5>
             {{range .}}
-              <p><a href="{{ .url }}">{{.name}}</a></p>
+              <p><a class="resource-link" href="{{ .url }}">{{.name}}</a></p>
             {{ end }}
           {{ end }}
         {{ end }}
