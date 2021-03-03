@@ -1,19 +1,18 @@
 ---
-title: "Application de breffage électronique"
-description: "Une application pour remplacer les cahiers de breffage papier."
-product-url: ""
+title: Application de breffage électronique
+translationKey: tbs-e-briefing
+description: >-
+  Une application pour remplacer les cahiers de breffage papier.
 phase: alpha
-translationKey: "tbs-e-briefing"
-partners:
-    - {name: "Secrétariat du Conseil du Trésor", url: "https://www.canada.ca/fr/secretariat-conseil-tresor.html"}
+status: past
+onhomepage: false
 contact:
-    - {name: "Mario Garneau", email: "mario.garneau@tbs-sct.gc.ca"}
-status: "past"
+  - email: mario.garneau@tbs-sct.gc.ca
+    name: Mario Garneau
+partners:
+  - name: Secrétariat du Conseil du Trésor
+    url: https://www.canada.ca/fr/secretariat-conseil-tresor.html
 links:
-    - {name: "GitHub", url: "https://github.com/cds-snc/e-briefing-app"}
+  - name: GitHub
+    url: https://github.com/cds-snc/e-briefing-app
 ---
-# Product 1
-
-## Product 1 subsection
-
-Text about product 1.
