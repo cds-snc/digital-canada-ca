@@ -1,21 +1,20 @@
 ---
-title: "Find relevant benefits for Veterans"
-description: "An online tool to make it easier for Veterans and their family members to determine which benefits, programs, and services are relevant to them."
-product-url: https://benefits-avantages.veterans.gc.ca/?lng=en
+title: Find relevant benefits for Veterans
+translationKey: vac-benefits
+description: >-
+  An online tool to make it easier for Veterans and their family members to determine which benefits, programs, and services are relevant to them.
 phase: live
-translationKey: "vac-benefits"
-partners:
-    - { name: "Veterans Affairs Canada", url: "http://www.veterans.gc.ca/eng"}
+status: past
+onhomepage: false
 contact:
-    - { name: "Courtney Claessens", email: "courtney.claessens@tbs-sct.gc.ca"}
-status: "past"
+  - email: courtney.claessens@tbs-sct.gc.ca
+    name: Courtney Claessens
+partners:
+  - name: Veterans Affairs Canada
+    url: http://www.veterans.gc.ca/eng
 links:
-    - {name: "GitHub", url: "https://github.com/veteransaffairscanada/vac-benefits-directory"}
-    - {name: "Documentation", url: "https://cds-snc.github.io/vac-find-benefits-and-services-documentation/"}
-    
+  - name: GitHub
+    url: https://github.com/veteransaffairscanada/vac-benefits-directory
+  - name: Documentation
+    url: https://cds-snc.github.io/vac-find-benefits-and-services-documentation/
 ---
-# Product 1
-
-## Product 1 subsection
-
-Text about product 1.
