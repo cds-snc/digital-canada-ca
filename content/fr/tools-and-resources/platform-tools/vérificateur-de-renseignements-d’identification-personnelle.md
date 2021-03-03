@@ -2,12 +2,12 @@
 title: Vérificateur de renseignements d’identification personnelle
 translationKey: pii-tracker
 description: >-
-   Cet outil vérifie si une application anonymise les adresses IP lorsque des renseignements sont soumis à Google Analytics. 
+  Cet outil vérifie si une application anonymise les adresses IP lorsque des renseignements sont soumis à Google Analytics.
+product-url: https://github.com/cds-snc/pii-checker
 phase: beta
+status: in-flight
+onhomepage: false
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
-    name: Équipe des plateformes
-status: in-flight
-product-url: https://github.com/cds-snc/pii-checker
+    name: The Platform Team
 ---
-
