@@ -1,19 +1,18 @@
 ---
-title: "EnerGuide API"
-description: "A public-facing application programming interface (API) to open up access to EnerGuide Home Energy Ratings data in a transparent and reusable way."
-product-url: ""
+title: EnerGuide API
+translationKey: nrcan-energuide-api
+description: >-
+  A public-facing application programming interface (API) to open up access to EnerGuide Home Energy Ratings data in a transparent and reusable way.
 phase: alpha
-translationKey: "nrcan-energuide-api"
-partners:
-    - {name: "Natural Resources Canada", url: "https://www.nrcan.gc.ca/home"}
+status: past
+onhomepage: false
 contact:
-    - {name: "Jennifer Fletcher", email: "jennifer.fletcher@tbs-sct.gc.ca"}
-status: "past"
+  - email: jennifer.fletcher@tbs-sct.gc.ca
+    name: Jennifer Fletcher
+partners:
+  - name: Natural Resources Canada
+    url: https://www.nrcan.gc.ca/home
 links:
-    - {name: "GitHub", url: "https://github.com/cds-snc/nrcan-energuide-api-poc"}
+  - name: GitHub
+    url: https://github.com/cds-snc/nrcan-energuide-api-poc
 ---
-# Product 1
-
-## Product 1 subsection
-
-Text about product 1.
