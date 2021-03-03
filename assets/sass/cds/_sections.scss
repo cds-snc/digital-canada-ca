@@ -429,6 +429,7 @@ span.livefr {
   h4.alpha::after,
   h4.alphafr::after,
   h4.discovery::after,
+  h4.discoveryfr::after,
   h4.découvertefr::after,
   h4.beta::after,
   h4.betafr::after {
@@ -476,12 +477,16 @@ span.livefr {
   }
 
   h4.discovery::after,
+  h4.discoveryfr::after,
   h4.découvertefr::after {
     background-color: $discovery-color;
   }
 
   h4.discovery::after { content: "Discovery"; }
-  h4.découvertefr::after { content: "Découverte"; }
+  h4.découvertefr::after,
+  h4.discoveryfr::after { 
+    content: "Découverte";
+  }
 
   h4.beta::after,
   h4.betafr::after {
