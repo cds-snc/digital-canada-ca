@@ -1,15 +1,15 @@
 ---
 title: A guide to research interviewing
 translationKey: guide-interviewing
-phase: live
 description: >-
   A 101 on research interviewing.
 phase: live
-contact:
-  - email: colin.macarthur@tbs-sct.gc.ca
-    name: Colin MacArthur
 status: in-flight
+onhomepage: false
+contact:
+  - email: CDS-SNC@tbs-sct.gc.ca
+    name: CDS-SNC@tbs-sct.gc.ca
 links:
   - name: A guide to research interviewing
-    url: "/tools-and-resources/guide-interviewing/"
+    url: /tools-and-resources/guide-interviewing/
 ---
