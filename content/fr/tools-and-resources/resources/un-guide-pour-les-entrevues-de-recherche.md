@@ -1,15 +1,15 @@
 ---
 title: Un guide pour les entrevues de recherche
 translationKey: guide-interviewing
-phase: live
 description: >-
   L’abc des entrevues de recherche.
-contact:
-  - email: colin.macarthur@tbs-sct.gc.ca
-    name: Colin MacArthur
 phase: live
 status: in-flight
+onhomepage: false
+contact:
+  - email: CDS-SNC@tbs-sct.gc.ca
+    name: CDS-SNC@tbs-sct.gc.ca
 links:
   - name: Un guide pour les entrevues de recherche
-    url: "/outils-et-ressources/guide-entrevue/"
+    url: /outils-et-ressources/guide-entrevue/
 ---
