@@ -1,21 +1,22 @@
 ---
-title: "Suivre ou vérifier la confirmité en matière de sécurité Web"
-description: "Un outil en ligne pour aider les gens à comprendre quels sites et quels services Web du gouvernement respectent les bonnes pratiques en matière de sécurité, comme exiger des connexions protégeant la vie privée avec le protocole de transfert hypertexte sécuritaire (HTTPS)."
-product-url: ""
-phase: alpha
-translationKey: "secure-web-tool"
-partners:
-    - { name: "Secrétariat du Conseil du Trésor du Canada", url: "https://www.canada.ca/fr/secretariat-conseil-tresor.html" }
+title: Suivre ou vérifier la confirmité en matière de sécurité Web
+translationKey: secure-web-tool
+description: >-
+  Un outil en ligne pour aider les gens à comprendre quels sites et quels services Web du gouvernement respectent les bonnes pratiques en matière de sécurité, comme exiger des connexions protégeant la vie privée avec le protocole de transfert hypertexte sécuritaire (HTTPS).
+phase: beta
+status: past
+onhomepage: false
 contact:
-    - { name: "Courtney Claessens", email: "courtney.claessens@tbs-sct.gc.ca"}
-status: "past"
+  - email: courtney.claessens@tbs-sct.gc.ca
+    name: Courtney Claessens
+partners:
+  - name: Secrétariat du Conseil du Trésor
+    url: https://www.canada.ca/fr/secretariat-conseil-tresor.html
 links:
-    - {name: "GitHub", url: "https://github.com/cds-snc/track-web"}
-    - {name: "Github - Domain scanner", url: "https://github.com/cds-snc/tracker"}
-    - {name: "Documentation", url: "https://cds-snc.github.io/track-web-security-compliance/accueil/"}
+  - name: GitHub
+    url: https://github.com/cds-snc/track-web
+  - name: Github - Domain scanner
+    url: https://github.com/cds-snc/tracker
+  - name: Documentation
+    url: https://cds-snc.github.io/track-web-security-compliance/accueil/
 ---
-# Product 1
-
-## Product 1 subsection
-
-Text about product 1.
