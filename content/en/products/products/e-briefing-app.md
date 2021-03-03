@@ -1,19 +1,18 @@
 ---
-title: "E-Briefing App"
-description: "An application to replace internal paper-based briefing binders."
-product-url: ""
+title: E-Briefing App
+translationKey: tbs-e-briefing
+description: >-
+  An application to replace internal paper-based briefing binders.
 phase: alpha
-translationKey: "tbs-e-briefing"
-partners:
-    - {name: "Treasury Board Secretariat", url: "https://www.canada.ca/en/treasury-board-secretariat.html"}
+status: past
+onhomepage: false
 contact:
-    - {name: "Mario Garneau", email: "mario.garneau@tbs-sct.gc.ca"}
-status: "past"
+  - email: mario.garneau@tbs-sct.gc.ca
+    name: Mario Garneau
+partners:
+  - name: Treasury Board Secretariat
+    url: https://www.canada.ca/en/treasury-board-secretariat.html
 links:
-    - {name: "GitHub", url: "https://github.com/cds-snc/e-briefing-app"}
+  - name: GitHub
+    url: https://github.com/cds-snc/e-briefing-app
 ---
-# Product 1
-
-## Product 1 subsection
-
-Text about product 1.
