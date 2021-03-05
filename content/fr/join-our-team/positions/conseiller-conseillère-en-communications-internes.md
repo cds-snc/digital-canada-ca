@@ -1,11 +1,11 @@
 ---
 layout: job-posting
 type: section
-title: Conseiller / Conseillère en communications internes 
+title: Conseiller / Conseillère en communications internes
 description: Relevant du chef de liaison et diffusion, avec une relation en pointillé avec le chef des talents, le/la conseiller/conseillère en communications internes sera chargé d’établir et d’exécuter une stratégie de communications internes pour notre organisation en croissance.
 archived: false
-leverId: 588bfcdb-d182-43c5-a5aa-27a23f71b01f
 translationKey: internal-communications-advisor
+leverId: 588bfcdb-d182-43c5-a5aa-27a23f71b01f
 ---
 
 Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Nous sommes ici pour améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des citoyens au premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être sécuritaire, rapide, facile, transparente et accessible. Nous travaillons ouvertement pour aider tout le monde au sein du gouvernement à améliorer la prestation des services. Nous avons besoin de vous.
