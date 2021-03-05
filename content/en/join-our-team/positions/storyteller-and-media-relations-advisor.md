@@ -2,11 +2,12 @@
 layout: job-posting
 type: section
 title: Storyteller and Media Relations Advisor
-description: "Reporting to the Head of Outreach, this position is responsible for media relations for CDS, liaising with our partners on media needs for our projects and aiding the telling the CDS story. At CDS we believe that our mission is best understood by telling the stories of the people who use and build our products."
+description: Reporting to the Head of Outreach, this position is responsible for media relations for CDS, liaising with our partners on media needs for our projects and aiding the telling the CDS story. At CDS we believe that our mission is best understood by telling the stories of the people who use and build our products.
 archived: true
-leverId: acd80e98-0d20-48b0-aca8-cff7a7b2e7a4
 translationKey: storyteller-media-relations
+leverId: acd80e98-0d20-48b0-aca8-cff7a7b2e7a4
 ---
+
 We are looking for a Storyteller and Media Relations Advisor. The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital services. We’re here to improve people’s lives by changing how the government builds technology. We do this by putting people’s needs and concerns front and centre. Every experience Canadians have with their government should be safe, fast, easy, transparent, and accessible. We are working in the open to help everyone across government improve service delivery. We need you.
 
 To support this important mission, we are looking for a Storyteller and Media Relations Advisor. Reporting to the Head of Outreach, this position is responsible for media relations for CDS, liaising with our partners on media needs for our projects and aiding the telling the CDS story. At CDS we believe that our mission is best understood by telling the stories of the people who use and build our products. 
