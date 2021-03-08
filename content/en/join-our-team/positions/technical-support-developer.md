@@ -17,7 +17,7 @@ This position is part of the Software Development Community and reports to the H
 
 Support Developers are classified as [CS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260/) in the Computer Systems group.
 
-You’ll need to accomplish the following things:
+## You’ll need to accomplish the following things:
 
 1. Analyze and troubleshoot complex technical support incidents and problems for our clients across our various platform products
 
@@ -32,7 +32,7 @@ You’ll need to accomplish the following things:
 6. Demonstrate excellent customer service skills through all levels of communication, incident/problem management, escalation, and resolution activities
 7. Provide on-call support for rotations and escalations
 
-We’ll evaluate you based on:
+## We’ll evaluate you based on:
 
 * Ability to work in a customer facing role, with strong written and verbal communication skills, with the ability to listen, show empathy and also be able to converse with both internal and external technical and non-technical stakeholders
 * A deep understanding and hands-on experience of AWS and API technologies
