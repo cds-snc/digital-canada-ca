@@ -22,7 +22,6 @@ Les développeurs de soutien sont classés [CS-04](https://www.tbs-sct.gc.ca/agr
 ## Vous devrez accomplir les tâches suivantes :
 
 1. Analyser et résoudre les incidents et les problèmes de soutien technique complexes relatifs à nos divers produits de plateforme pour nos clients.
-
    * Répondre aux demandes de renseignements reçues par voie de billets, de courriels et d’autres canaux.
    * Répondre aux demandes de renseignements, traiter les problèmes ou les transmettre à un échelon supérieur.
    * Résoudre et diagnostiquer les problèmes, analyser les causes fondamentales et générer des plans d’action en conséquence.
