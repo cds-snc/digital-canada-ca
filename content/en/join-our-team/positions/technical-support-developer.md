@@ -20,7 +20,6 @@ Support Developers are classified as [CS-03](https://www.tbs-sct.gc.ca/agreement
 ## You’ll need to accomplish the following things:
 
 1. Analyze and troubleshoot complex technical support incidents and problems for our clients across our various platform products
-
    * Respond to inquiries via tickets, emails, and other channels
    * Take ownership of responding to inquiries, issues, and escalations
    * Perform problem-solving, diagnosing, root cause analysis, and generate corrective action plans for issues
