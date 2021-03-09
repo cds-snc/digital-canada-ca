@@ -2,14 +2,12 @@
 layout: job-posting
 type: section
 title: Développeur de logiciel senior / principal(e) (Python)
-description: Nous recrutons des Développeurs de logiciel principal(e) et senior.
-  Bien que nous ayons des bureaux à Ottawa, Montréal, Toronto et Kitchener, nous
-  travaillons en grande partie de manière distribuée et nous embauchons
-  également des candidats dans d'autres régions du Canada.
+description: Nous recrutons des Développeurs de logiciel principal(e) et senior. Bien que nous ayons des bureaux à Ottawa, Montréal, Toronto et Kitchener, nous travaillons en grande partie de manière distribuée et nous embauchons également des candidats dans d'autres régions du Canada.
 archived: false
-leverId: 7733ffc7-8df0-4ff2-bef3-f4e97b52e5de
 translationKey: senior-software-developer-python
+leverId: 7733ffc7-8df0-4ff2-bef3-f4e97b52e5de
 ---
+
 Le Service numérique canadien (SNC) est chargé de changer la façon dont le gouvernement fédéral conçoit et fournit les services numériques, afin de réduire les risques d’échec des produits, de réduire les coûts, de garantir la confidentialité des utilisateurs et la sécurité des systèmes, et surtout, d’améliorer la vie des gens en appelant l’attention sur leurs besoins et préoccupations. Selon nous, chaque expérience vécue par les Canadiennes et Canadiens lorsqu’ils interagissent avec le gouvernement devrait répondre ou dépasser leurs attentes modernes et valables voulant que les services numériques soient sûrs, rapides, faciles, transparents et accessibles. Nous travaillons ouvertement, renforçant ainsi les capacités dans tout le gouvernement pour améliorer la prestation de services. Et nous avons besoin de vous.
 
 Nous recrutons des Développeurs de logiciel principal(e) et senior. Bien que nous ayons des bureaux à Ottawa, Montréal, Toronto et Kitchener, nous travaillons en grande partie de manière distribuée et nous embauchons également des candidats dans d'autres régions du Canada.
