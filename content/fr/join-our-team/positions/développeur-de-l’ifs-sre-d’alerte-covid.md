@@ -2,13 +2,12 @@
 layout: job-posting
 type: section
 title: Développeur de l’IFS (SRE) d’Alerte COVID
-description: Nous sommes à la recherche d’un(e) Développeur de l’IFS (SRE en
-  anglais) d’Alerte COVID. Ce poste est dans la classification Systèmes
-  d’Ordinateurs, selon les normes de qualification des CS.
+description: Nous sommes à la recherche d’un(e) Développeur de l’IFS (SRE en anglais) d’Alerte COVID. Ce poste est dans la classification Systèmes d’Ordinateurs, selon les normes de qualification des CS.
 archived: false
-leverId: 9d96ac9e-2dce-4be3-9f31-279f5f26e19a
 translationKey: covid-alert-sre-dev
+leverId: 9d96ac9e-2dce-4be3-9f31-279f5f26e19a
 ---
+
 Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Nous sommes ici pour améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des citoyens au premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être sécuritaire, rapide, facile, transparente et accessible. Nous travaillons ouvertement pour aider tout le monde au sein du gouvernement à améliorer la prestation des services. Nous avons besoin de vous.
 
 Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) Développeur de l’IFS (SRE en anglais) d’Alerte COVID. Ce poste est dans la [classification Systèmes d’Ordinateurs](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=1#toc12259212260), selon les [normes de qualification des CS](https://www.canada.ca/fr/secretariat-conseil-tresor/services/dotation/normes-qualification/centrale.html#cs).
