@@ -2,16 +2,12 @@
 layout: job-posting
 type: section
 title: Director of Digital Practice
-description: We are looking for a Director of Digital Practice to empower and
-  support our teams and their leaders as CDS enters its next phase of
-  significant growth. CDS’ digital communities (Design, Design Research, Product
-  Management, and Software Development) make up the multidisciplinary digital
-  product teams in both our Partnership and Platform business units, that
-  advance the mission of CDS.
+description: We are looking for a Director of Digital Practice to empower and support our teams and their leaders as CDS enters its next phase of significant growth. CDS’ digital communities (Design, Design Research, Product Management, and Software Development) make up the multidisciplinary digital product teams in both our Partnership and Platform business units, that advance the mission of CDS.
 archived: true
-leverId: c284600b-aa90-4bc9-86b3-ca6aad8f45a7
 translationKey: director-digital-practice
+leverId: c284600b-aa90-4bc9-86b3-ca6aad8f45a7
 ---
+
 The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital services. We’re here to improve people’s lives by changing how the government builds technology. We do this by putting people’s needs and concerns front and centre. Every experience Canadians have with their government should be safe, fast, easy, transparent, and accessible. We are working in the open to help everyone across government improve service delivery. We need you.
 
 To support this important mission, we are looking for a Director of Digital Practice to empower and support our teams and their leaders as CDS enters its next phase of significant growth. CDS’ digital practices (Design, Design Research, Product Management, and Software Development) make up the multidisciplinary digital product teams in our Partnership, Platform, and COVID Alert business units, that advance the mission of CDS. 
