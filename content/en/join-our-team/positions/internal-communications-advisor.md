@@ -4,8 +4,8 @@ type: section
 title: Internal Communications Advisor
 description: We are looking for an Internal Communications Advisor. Reporting to the Head of Outreach, with a dotted-line to the Head of Talent, this Sr. Internal Communications Advisor will be responsible for setting and executing on an internal communications strategy for our growing organization.
 archived: false
-leverId: 588bfcdb-d182-43c5-a5aa-27a23f71b01f
 translationKey: internal-communications-advisor
+leverId: 588bfcdb-d182-43c5-a5aa-27a23f71b01f
 ---
 
 The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital services. We’re here to improve people’s lives by changing how the government builds technology. We do this by putting people’s needs and concerns front and centre. Every experience Canadians have with their government should be safe, fast, easy, transparent, and accessible. We are working in the open to help everyone across government improve service delivery. We need you.
