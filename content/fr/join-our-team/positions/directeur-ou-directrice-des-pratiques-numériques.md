@@ -2,17 +2,12 @@
 layout: job-posting
 type: section
 title: Directeur ou directrice des pratiques numériques
-description: Nous sommes à la recherche d’un directeur ou d’une directrice des
-  pratiques numériques qui pourra outiller et aider nos équipes et nos chefs
-  d’équipe à l’amorce d’une phase de grande croissance pour le SNC. Les
-  communautés numériques de l’organisation (conception, recherche en conception,
-  gestion de produits et développement logiciel) servent à former des équipes de
-  produits multidisciplinaires au sein des deux unités opérationnelles
-  (partenariats et plateforme) qui font avancer la mission du SNC.
+description: Nous sommes à la recherche d’un directeur ou d’une directrice des pratiques numériques qui pourra outiller et aider nos équipes et nos chefs d’équipe à l’amorce d’une phase de grande croissance pour le SNC. Les communautés numériques de l’organisation (conception, recherche en conception, gestion de produits et développement logiciel) servent à former des équipes de produits multidisciplinaires au sein des deux unités opérationnelles (partenariats et plateforme) qui font avancer la mission du SNC.
 archived: true
-leverId: c284600b-aa90-4bc9-86b3-ca6aad8f45a7
 translationKey: director-digital-practice
+leverId: c284600b-aa90-4bc9-86b3-ca6aad8f45a7
 ---
+
 Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Notre mission est d’améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des personnes au premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être sécuritaire, rapide, facile, transparente et accessible. Nous travaillons ouvertement dans le but d’aider tout le monde au sein du gouvernement à améliorer la prestation des services. Et nous avons besoin de vous.
 
 Pour mener à bien cette importante mission, nous sommes à la recherche d’un directeur ou d’une directrice des pratiques numériques qui pourra outiller et aider nos équipes et nos chefs d’équipe à l’amorce d’une phase de grande croissance pour le SNC. Les champs de pratiques numériques de l’organisation (conception, recherche en conception, gestion de produits et développement logiciel) servent à former les équipes de produits multidisciplinaires au sein de nos unités opérationnelles (partenariats, plateforme et Alerte COVID) qui font avancer la mission du SNC.
