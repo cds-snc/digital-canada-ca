@@ -2,15 +2,12 @@
 layout: job-posting
 type: section
 title: Développeur de soutien
-description: Pour appuyer cette importante mission, nous sommes à la recherche
-  d’un(e) développeur de soutien. Alors que nos bureaux sont situés à Ottawa, à
-  Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la
-  plupart du temps, et nous prenons les candidatures provenant d’autres régions
-  du Canada au même titre que celles mentionnées.
+description: Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) développeur de soutien. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que celles mentionnées.
 archived: false
-leverId: 2bf581e6-d1cb-4cbf-aca9-6e91c5eb13f1
 translationKey: technical-support-dev
+leverId: 2bf581e6-d1cb-4cbf-aca9-6e91c5eb13f1
 ---
+
 Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Nous sommes ici pour améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des citoyens au premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être sécuritaire, rapide, facile, transparente et accessible. Nous travaillons ouvertement pour aider tout le monde au sein du gouvernement à améliorer la prestation des services. Nous avons besoin de vous.
 
 Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) développeur de soutien. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que celles mentionnées.
