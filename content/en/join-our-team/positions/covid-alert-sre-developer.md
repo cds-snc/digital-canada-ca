@@ -2,13 +2,12 @@
 layout: job-posting
 type: section
 title: Covid Alert SRE Developer
-description: We are hiring a SRE Developer to support the COVID Alert App. This
-  position is in the Computer Systems classification, representing the CS
-  qualification standard.
+description: We are hiring a SRE Developer to support the COVID Alert App. This position is in the Computer Systems classification, representing the CS qualification standard.
 archived: false
-leverId: 9d96ac9e-2dce-4be3-9f31-279f5f26e19a
 translationKey: covid-alert-sre-dev
+leverId: 9d96ac9e-2dce-4be3-9f31-279f5f26e19a
 ---
+
 The Canadian Digital Service (CDS) works to change government so that it can serve people better through digital technology. Our teams work in the open to build software platforms that make it easier for government to deliver services and coach other government departments on how to leverage modern methods and technologies. We need you.
 
 To support this important mission, we are hiring a SRE Developer to support the COVID Alert App. This position is in the [Computer Systems classification](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260), representing the [CS qualification standard](https://www.canada.ca/en/treasury-board-secretariat/services/staffing/qualification-standards/core.html#cs).
