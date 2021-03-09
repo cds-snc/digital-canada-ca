@@ -2,13 +2,12 @@
 layout: job-posting
 type: section
 title: Partnerships Advisor
-description: "As the Partnerships business area, we’re the bridge and capacity
-  builders at CDS. We move at the speed of trust, with willing partners, who
-  fundamentally want to change how they design and deliver public services. "
+description: As the Partnerships business area, we’re the bridge and capacity builders at CDS. We move at the speed of trust, with willing partners, who fundamentally want to change how they design and deliver public services.
 archived: true
-leverId: 68fdb06c-bf01-4151-b997-3bb5dd3f6602
 translationKey: partnerships-advisor
+leverId: 68fdb06c-bf01-4151-b997-3bb5dd3f6602
 ---
+
 ### Our area of operations 
 
 As the Partnerships business area, we’re the bridge and capacity builders at CDS. We move at the speed of trust, with willing partners, who fundamentally want to change how they design and deliver public services. 
