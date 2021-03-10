@@ -26,7 +26,7 @@ A big part of my role on the Partnerships team consisted of assessing potential 
 
 During the meeting, while my expectation was to sit back and quietly take notes, he engaged and recognized me. I was not just a fly on the wall, but rather a person with a seat at the table. After that meeting, I felt confident enough in myself to ask questions, to share my opinion, and go talk to people. Most importantly, I was confident enough in what I had to contribute, and wanted to do more for my team. This all happened because a DG decided to look me in the eye while speaking to me. While it may seem like a small gesture, this was indicative of something larger to me. The fact that I was being treated in the same manner as my colleagues, who were much more senior and knowledgeable than I was, gave me the confidence to trust myself. I had realized that indeed, I had a place in that room. 
 
-![A picture of Ernest Hemingway, American author, journalist and recipient of the Nobel Prize for Literature accompanied by his quote “The best way to find out if you can trust somebody is to trust them.”](/img/cds/hemingway-en.jpg)
+![A picture of Ernest Hemingway, American author, journalist and recipient of the Nobel Prize for Literature accompanied by his quote “The best way to find out if you can trust somebody is to trust them.”](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/hemingway_en_5607aa16d5.jpg)
 
 Upon reflection, that experience taught me two valuable lessons:
 

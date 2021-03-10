@@ -20,7 +20,7 @@ We conducted design research throughout the product build, facilitating multiple
 
 One of the ways we collected live data was through a feedback form with a feedback text box. Canada.ca specifications require a ‘Report a problem or a mistake on this page’ form on every page. A feedback box feature is also available for web pages as part of the Canada.ca design system. We modified the options to more specifically fit our product’s content. We added a feedback text box because we decided as a team that we needed to understand when people report “confusing” or “incorrect information,” what people specifically found confusing or incorrect about the tool. The open text provided informative data for ways we could improve our tool. 
 
-![A screenshot of the feedback box in the Find financial help during COVID-19 tool.](/img/cds/adrianne-blog-screenshot-en.jpg)
+![A screenshot of the feedback box in the Find financial help during COVID-19 tool.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/adrianne_blog_screenshot_en_611b252695.jpg)
 
 Although we didn't intend to, we learned a lot about how we can improve government services in general too.
 
@@ -44,7 +44,7 @@ For our team, we decided the value of the  insights we could capture from a feed
 
 For every piece of feedback, we first consider our product scope and see whether a piece of feedback is relevant to the scope.  In product development, a [layer cake is sometimes used to describe the Agile methodology](https://twitter.com/nkkl/status/1066571295784022016). Expanding on this analogy is helpful to explain how we consider a piece of feedback’s relevance.
 
-![Helpful feedback (represented by a piece of strawberry cake and a strawberry) vs. not helpful feedback (represented by a fish soup and a fish)](/img/cds/adrianne-blog-infographic-en.jpg)
+![Helpful feedback (represented by a piece of strawberry cake and a strawberry) vs. not helpful feedback (represented by a fish soup and a fish)](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/adrianne_blog_infographic_en_187719f594.jpg)
 
 If building the Find financial help tool is like baking a cake, the benefits/programs listed in the tool are kind of like the cake’s ingredients. They play a large part in how the cake tastes and feels, and ultimately whether it’s ‘useful’ or not to the person eating the cake. 
 

@@ -52,7 +52,7 @@ Avoir une idée de la façon dont les gens décrivent la cybercriminalité est u
 Nous savions que le contenu de notre premier concept serait loin d’être parfait. En publiant une version tôt, pour pouvoir la mettre à jour continuellement, nous avons beaucoup appris sur les attentes des gens. Voici un aperçu du changement subi par le premier concept après que les gens l’ont essayé :
 
 
-![Légende: La première image est une capture d’écran d’une page dont le titre est : « Soupçonnez-vous une arnaque, un cybercrime ou une fraude? » La deuxième image est une nouvelle version de la page, qui se lit maintenant comme suit : « Signalez une fraude ».](/img/cds/french-concept-test.png)
+![Légende: La première image est une capture d’écran d’une page dont le titre est : « Soupçonnez-vous une arnaque, un cybercrime ou une fraude? » La deuxième image est une nouvelle version de la page, qui se lit maintenant comme suit : « Signalez une fraude ».](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/french_concept_test_607011a83a.png)
 
 Voici ce que nous avons appris :
 

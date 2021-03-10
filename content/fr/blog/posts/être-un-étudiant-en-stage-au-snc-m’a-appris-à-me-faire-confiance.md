@@ -27,7 +27,7 @@ Une grande partie de mon rôle au sein de l’équipe des partenariats consistai
 
 Pendant la réunion, alors que je m’attendais à prendre des notes sans dire un mot, il a engagé une véritable conversation avec moi. Je n’étais pas qu’une mouche sur le mur, mais bien une personne ayant sa place à la table. Après cette réunion, je me suis senti assez confiant pour poser des questions, exprimer mon opinion et aller parler aux gens. Surtout, j’avais suffisamment confiance en mes moyens et je voulais en faire plus pour mon équipe. Tout cela est arrivé parce qu’un DG a décidé de me regarder dans les yeux pendant qu’il me parlait. Ce geste d’apparence anodine a été très significatif pour moi. Le fait d’être traité de la même façon que mes collègues, qui avaient beaucoup plus d’expérience et de connaissances que moi, m’a donné confiance en moi. Je m’étais rendu compte que j’avais effectivement ma place dans cette réunion. 
 
-![Une photo d’Ernest Hemingway, auteur et journaliste américain et lauréat du prix Nobel de littérature, accompagnée de sa citation : « La meilleure façon de savoir si vous pouvez faire confiance à quelqu’un est de lui faire confiance. »](/img/cds/hemingway-fr.jpg)
+![Une photo d’Ernest Hemingway, auteur et journaliste américain et lauréat du prix Nobel de littérature, accompagnée de sa citation : « La meilleure façon de savoir si vous pouvez faire confiance à quelqu’un est de lui faire confiance. »](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/hemingway_fr_58a9cfd32b.jpg)
 
 Après réflexion, cette expérience m’a appris deux leçons précieuses :
 
