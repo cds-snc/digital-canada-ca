@@ -25,7 +25,7 @@ j’ai préparé un coffre à outils qui comprend 7 astuces afin de vous aider �
 
 Sortir du texte et traduire un récit de façon visuelle, c’est maximiser l’impact de son message. Bref, plus vos messages sont visuels, plus ils seront mémorables! Posez-vous cette question : que préférez-vous? Des données brutes ou une histoire visuellement intéressante?
 
-![Une infographie qui présente trois faits. Fait 1 : Environ 50 % du cerveau est impliqué dans le traitement de l’information visuelle. Fait 2 : Ça prend environ 150 millisecondes au cerveau pour assimiler une image et lui associer une signification. Fait 3 : Selon une étude portant sur la reconnaissance des mots, le cerveau humain traite les images plus vite que les mots.](/img/cds/visual-storyteller-infographic-fr.jpeg)
+![Une infographie qui présente trois faits. Fait 1 : Environ 50 % du cerveau est impliqué dans le traitement de l’information visuelle. Fait 2 : Ça prend environ 150 millisecondes au cerveau pour assimiler une image et lui associer une signification. Fait 3 : Selon une étude portant sur la reconnaissance des mots, le cerveau humain traite les images plus vite que les mots.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/visual_storyteller_infographic_fr_6dbaf2a80c.jpeg)
 
 La recherche a fait d’importantes découvertes dans ce domaine. Par exemple, saviez-vous qu’environ 50 % de votre cerveau est impliqué dans le traitement de l’information visuelle (1)? Ou que le cerveau met environ 150 millisecondes à assimiler une image et à lui associer une signification (2)? OK, ces chiffres sont vraiment cool, mais qu’essaient-ils de nous dire?
 
@@ -35,7 +35,7 @@ Ils nous apprennent que la vue est le sens dominant chez l’être humain. Notre
 
 Nous avons tous un jour été émus, amusés ou choqués à la vue d’une image ou d’une photographie. En élaguant du texte et en utilisant des mots simples, on arrive à laisser davantage de place au potentiel d’empathie des images. La plupart des gens retiennent mieux les informations lorsque celles-ci génèrent en eux des émotions.
 
-![Une photo de Maya Angelou, poétesse, écrivaine, et militante du mouvement américain pour les droits civiques, accompagnée de la citation suivante : « Les gens oublieront ce que vous avez dit, ils oublieront ce que vous avez fait, mais ils n’oublieront jamais ce que vous leur avez fait ressentir. »](/img/cds/maya-angelou-quote-fr.jpeg)
+![Une photo de Maya Angelou, poétesse, écrivaine, et militante du mouvement américain pour les droits civiques, accompagnée de la citation suivante : « Les gens oublieront ce que vous avez dit, ils oublieront ce que vous avez fait, mais ils n’oublieront jamais ce que vous leur avez fait ressentir. »](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/maya_angelou_quote_fr_152aeedc37.jpeg)
 
 Les citations visuelles (comme ci-dessus) donnent de la crédibilité à vos contenus et optimisent leur durée de vie, qu’il s’agisse de réseaux sociaux ou de sites Internet. Lorsqu’elles ne sont pas accompagnées de mots, les images ont tendance à être interprétées de bien différentes façons. L’objectif est donc que les images et les mots se complètent. Mais au fait, une image vaut-elle vraiment mille mots? On dit cela, car une image qui fait parler les gens est une image qui produit un récit. Notre cerveau a besoin d’une structure narrative engageante, avec un début, un milieu et une fin claire, afin de faciliter la rétention des informations.  
 
