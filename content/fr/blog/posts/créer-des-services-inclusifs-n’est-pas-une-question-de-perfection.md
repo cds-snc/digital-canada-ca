@@ -22,7 +22,7 @@ Mon parcours m’a enseigné à ne pas faire de suppositions quant à la façon 
 
 Récemment, le Service numérique canadien (SNC) a organisé un événement interne afin de sensibiliser son personnel à l’accessibilité. Un panel de fonctionnaires ayant un handicap sont venus discuter des barrières et des défis auxquels ils font face lorsqu’ils utilisent les services gouvernementaux. Kevin Shaw, atteint d’un handicap lié à la mobilité, faisait partie de ce groupe. Il nous a expliqué à quel point remplir des questionnaires ou des formulaires en ligne pouvait devenir long et frustrant. Souvent, le temps alloué s’écoule avant qu’il n’ait pu terminer. Et alors, il doit recommencer à zéro. Dans son cas, la solution pour rendre ce service plus accessible serait simplement de pouvoir sauvegarder ses réponses pour y revenir plus tard.
 
-![ Une photo de Kevin Shaw souriant avec le citation "J'aime que mon emploi me permette d'appuyer l'accessibilité et l'inclusion. Je suis fier des efforts déployés par mon équipe au moment où nos visions l'atteinte d'un gouvernement et d'une société sand obstacle."](/img/cds/image004.jpg)
+![ Une photo de Kevin Shaw souriant avec le citation "J'aime que mon emploi me permette d'appuyer l'accessibilité et l'inclusion. Je suis fier des efforts déployés par mon équipe au moment où nos visions l'atteinte d'un gouvernement et d'une société sand obstacle."](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/image004_72dc281eb4.jpg)
 
 ## L’accessibilité n’a pas à être un fardeau
 
