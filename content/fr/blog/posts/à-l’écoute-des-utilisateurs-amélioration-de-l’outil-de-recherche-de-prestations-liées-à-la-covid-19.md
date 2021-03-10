@@ -26,7 +26,7 @@ Tout au long du développement du produit, nous avons mené des recherches sur l
 
 Nous avons notamment recueilli des données en temps réel au moyen d’un formulaire de rétroaction muni d’une zone de commentaires. Les spécifications de Canada.ca exigent qu’il y ait sur chaque page un formulaire intitulé « Signaler un problème ou une erreur sur cette page ». Une fonction de zone de commentaires est aussi possible pour les pages Web dans le cadre du système de conception de Canada.ca. Nous avons modifié les options pour mieux les adapter au contenu de notre produit. Nous avons ajouté une zone de commentaires parce que nous avons décidé, en tant qu’équipe, qu’il nous fallait bien comprendre ce que les gens veulent dire précisément au sujet de l’outil quand ils signalent que des renseignements sont « incorrects » ou « portent à confusion ». Le texte libre a fourni des données informatives sur diverses façons dont nous pouvions améliorer notre outil. Même si cela n’était pas notre but, nous avons beaucoup appris sur la façon d’améliorer les services gouvernementaux en général.
 
-![Capture d’écran de la zone de commentaires dans l’outil « Trouver de l’aide financière pendant la COVID-19 »](/img/cds/adrianne-blog-screenshot-fr.jpg)
+![Capture d’écran de la zone de commentaires dans l’outil « Trouver de l’aide financière pendant la COVID-19 »](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/adrianne_blog_screenshot_fr_8e838e0f18.jpg)
 
 Les commentaires que nous avons reçus en temps réel nous ont aidés à cerner les domaines où l’outil ne répondait pas aux besoins des personnes qui l’utilisaient. Ces commentaires ont aussi éclairé l’équipe sur les questions de recherche qui devraient être abordées à l’avenir.
 
@@ -50,7 +50,7 @@ Pour chaque commentaire, nous examinons d’abord le champ d’application de no
 
 Dans le développement de produits, [on utilise parfois un gâteau étagé pour décrire la méthodologie agile](https://twitter.com/nkkl/status/1066571295784022016). Cette analogie est utile pour expliquer comment nous déterminons la pertinence d’un commentaire.
 
-![Commentaire utile (représenté par des fraises et un morceau de gâteau aux fraises) ou commentaire non utile (représenté par un poisson et une soupe de poisson)](/img/cds/adrianne-blog-infrographic-fr.jpg)
+![Commentaire utile (représenté par des fraises et un morceau de gâteau aux fraises) ou commentaire non utile (représenté par un poisson et une soupe de poisson)](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/adrianne_blog_infrographic_fr_25c0c76b18.jpg)
 
 Si on compare la création de l’outil « Trouver de l’aide financière » à la préparation d’un gâteau, les prestations et les programmes affichés dans l’outil sont un peu comme les ingrédients du gâteau. Ils jouent un rôle important dans le goût et la sensation du gâteau et, en fin de compte, dans son utilité pour la personne qui le mange. 
 
