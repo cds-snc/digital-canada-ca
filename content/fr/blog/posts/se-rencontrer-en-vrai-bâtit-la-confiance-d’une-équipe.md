@@ -20,7 +20,7 @@ Nous avons quitté le bureau d’ACC à Charlottetown en prenant différents vol
 
 Après une visite rapide, nous avons commencé à nous approprier l’espace et à ébaucher un plan pour la semaine sur le merveilleux tableau blanc de la taille d’un mur. Puis, les activités de l'après-midi ont débuté par un dîner dans un restaurant voisin. Deux équipes agiles participant à un projet collaboratif gagnent à passer du temps ensemble : la confiance s’installe.
 
-![Les membres de l'équipe, assis autour d'une grande table dans un restaurant, sourient pour une photo.](/img/cds/lunchvac_cds.jpg)
+![Les membres de l'équipe, assis autour d'une grande table dans un restaurant, sourient pour une photo.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/lunchvac_cds_9e08e55188.jpg)
 
 Les deux jours suivants ont été destinés à une série de séances en petits groupes axées sur l'observation des rôles, au cours desquelles le personnel d'ACC s'est jumelé à ses homologues du SNC. Nos équipes viennent de milieux différents, alors nos rôles ne sont pas tout à fait pareils. Des invitations de dernière minute ont été lancées, des échangent ont eu lieu, tout cela pendant que les deux équipes continuaient à faire connaissance.
 
@@ -32,7 +32,7 @@ Les tests d’utilisabilité ont eu lieu le mercredi et le jeudi après-midi. Je
 
 Tout au long de la semaine, il y a eu beaucoup de discussions et de projets parallèles. Les développeurs ont pu présenter leur travail et répondre aux questions. Le sentiment de cohésion grandissait pendant que nous travaillions ensemble dans cet environnement ouvert et agile. Le vendredi, nous étions une seule équipe.
 
-![Les membres de l'équipe sont rassemblés et sourient pour une photo.](/img/cds/groupvac_cds.jpg)
+![Les membres de l'équipe sont rassemblés et sourient pour une photo.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/groupvac_cds_593fa30b36.jpg)
 
 De retour à Charlottetown, les mêlées quotidiennes de 15 minutes nous semblent maintenant moins distantes. Bien que les membres de l'équipe soient à Toronto, à Ottawa et à Charlottetown, nous avons tous le même objectif : mettre à profit ce que nous avons appris les uns des autres dans l'espoir d'offrir une conception axée sur l'utilisateur au gouvernement du Canada.
 
