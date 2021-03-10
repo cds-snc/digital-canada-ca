@@ -50,7 +50,7 @@ So, I set objectives, measurement methodologies, and some tactics to drive parti
 
 Our Outreach team is very comfortable working in a distributed fashion. We’ve quickly become pros with Slack, Google Sheets, and Hangouts. We set it up so that Yael and Élise would be in our Ottawa office with our CEO, Aaron Snow and Sean Boots from our Policy team. Yael would triage incoming questions, Aaron and Sean would answer in a spreadsheet, then Élise would translate to French and post on our French Twitter account. In Toronto, Charlotte would do the intake of questions and post English answers. I would be in Kingston (where I always am), ready to fight fires or unblock blockers. 
 
-![An image illustrating how the AMA worked with the 4 outreach team members, and the team members answering the questions live, all revolving around a Google spreadsheet.](/img/cds/ama-process.jpg "CDS AMA process")
+![An image illustrating how the AMA worked with the 4 outreach team members, and the team members answering the questions live, all revolving around a Google spreadsheet.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/ama_process_7c8d6af407.jpg "CDS AMA process")
 
 With all of that in place, I passed the baton to Charlotte to start making the AMA happen. 
 
@@ -86,7 +86,7 @@ And this was when I realized this was such a team sport. (I even ran out of brea
 
 Then I fell behind in the race. And that’s a good thing because it means that I had a lot of translations building up. But, because of the team effort, we still finished the race in style. (With a few aches the next day!)
 
-![Photo of team with an “actually us” sign before the AMA.](/img/cds/ama-en.jpg "CDS Twitter AMA team")
+![Photo of team with an “actually us” sign before the AMA.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/ama_en_9589f6ea4d.jpg "CDS Twitter AMA team")
 
 ## Training for the next race
 
