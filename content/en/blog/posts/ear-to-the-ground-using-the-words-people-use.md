@@ -50,7 +50,7 @@ Having an idea of how people describe cybercrime is a good start, but it’s not
 
 We knew the content in our first concept would be far from perfect. By releasing something early, with a goal of continuous iteration, we learned a whole lot about what people expect. Here’s a glimpse of how the first concept changed after people tried it out:
 
-![Caption: The first image is a screenshot of a page that reads: “Do you suspect a scam, cybercrime, or fraud?” The second image is a new version of the page, which now reads, “Report a scam”.](/img/cds/english-concept-test.png)
+![Caption: The first image is a screenshot of a page that reads: “Do you suspect a scam, cybercrime, or fraud?” The second image is a new version of the page, which now reads, “Report a scam”.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/english_concept_test_fd3cafc221.png)
 
 We learned that:
 
