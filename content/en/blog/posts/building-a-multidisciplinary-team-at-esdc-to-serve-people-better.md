@@ -19,7 +19,7 @@ processed: 1561556657860
 ---
 As a manager under the Canada Pension Plan Service Improvement Strategy at Employment and Social Development Canada (ESDC) I helped create the multidisciplinary team at the Canadian Digital Service (CDS) working on improving the Canada Pension Plan (CPP) for people applying for disability benefits. 
 
-![A screenshot of a tweet from the Canadian Digital Service that reads, We're excited to embark on a new partnership! We're working with our friends at STP to discover how we can improve services for Canadians accessing CPP disability benefits. With a photo of the team doing their daily stand up meeting.](/img/cds/esdc-tweet-en.png "esdc-tweet-en")
+![A screenshot of a tweet from the Canadian Digital Service that reads, We're excited to embark on a new partnership! We're working with our friends at STP to discover how we can improve services for Canadians accessing CPP disability benefits. With a photo of the team doing their daily stand up meeting.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/esdc_tweet_en_fe106fd957.png "esdc-tweet-en")
 
 This partnership has been an exciting opportunity since day one. I remember walking away from the initial pitch with my Director General, Megan Kennedy, thinking: “How do we get CDS to work with us?”   
 
@@ -43,7 +43,7 @@ Navigating the tools at CDS, such as Google Drive, has also been a bit overwhelm
 
 That said, this is work I never thought I'd get to do in my career as a public servant. Having started my career processing CPP claims, it’s really neat to see how far we've come and how important that client engagement piece is! 
 
-![A word cloud that shows most commonly words used in this blog post, including ESDC, CDS, different, team, organization and work.](/img/cds/esdc-wordcloud-en.png "esdc-wordcloud-en")
+![A word cloud that shows most commonly words used in this blog post, including ESDC, CDS, different, team, organization and work.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/esdc_wordcloud_en_233efa7064.png "esdc-wordcloud-en")
 
 I look at my mom — my mom's on Old Age Security and CPP — and hearing her say, "I don't understand this stuff!" seeing her interacting with our services drives me to want to do better for our clients.  
 
