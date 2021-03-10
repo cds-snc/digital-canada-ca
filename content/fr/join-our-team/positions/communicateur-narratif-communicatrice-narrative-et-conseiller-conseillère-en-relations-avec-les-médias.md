@@ -1,18 +1,13 @@
 ---
 layout: job-posting
 type: section
-title: Communicateur narratif/Communicatrice narrative et conseiller/conseillère
-  en relations avec les médias
-description: Relevant de la chef de liaison et diffusion, cette personne est
-  responsable des relations avec les médias pour le SNC, d’assurer la liaison
-  avec nos partenaires sur les besoins des médias pour nos projets et d’aider à
-  raconter l’histoire du SNC. Au SNC, nous pensons que notre mission est mieux
-  comprise en racontant les histoires des personnes qui utilisent et
-  construisent nos produits.
+title: Communicateur narratif/Communicatrice narrative et conseiller/conseillère en relations avec les médias
+description: Relevant de la chef de liaison et diffusion, cette personne est responsable des relations avec les médias pour le SNC, d’assurer la liaison avec nos partenaires sur les besoins des médias pour nos projets et d’aider à raconter l’histoire du SNC. Au SNC, nous pensons que notre mission est mieux comprise en racontant les histoires des personnes qui utilisent et construisent nos produits.
 archived: true
-leverId: acd80e98-0d20-48b0-aca8-cff7a7b2e7a4
 translationKey: storyteller-media-relations
+leverId: acd80e98-0d20-48b0-aca8-cff7a7b2e7a4
 ---
+
 Le Service numérique canadien (SNC) modifie la façon dont le gouvernement fédéral conçoit et fournit les services numériques. Nous sommes ici pour améliorer la vie des gens en changeant la façon dont le gouvernement construit la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des citoyens au centre de nos efforts. Chaque expérience des Canadiens avec leur gouvernement doit être sûre, rapide, facile, transparente et accessible. Nous travaillons au grand jour pour aider tout le monde au sein du gouvernement à améliorer la prestation des services. Nous avons besoin de vous.
 
 Pour soutenir cette importante mission, nous sommes à la recherche d’un ou d’une communicateur narratif/communicatrice narrative et conseiller/conseillère en relations avec les médias. Relevant de la chef de liaison et diffusion, cette personne est responsable des relations avec les médias pour le SNC, d’assurer la liaison avec nos partenaires au sujet des besoins des médias pour nos projets et d’aider à raconter l’histoire du SNC. Au SNC, nous pensons que notre mission est mieux comprise en racontant les histoires des personnes qui utilisent et construisent nos produits. 
