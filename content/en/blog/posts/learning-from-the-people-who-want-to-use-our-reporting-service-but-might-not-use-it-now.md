@@ -53,7 +53,7 @@ Instead of building a service that is only built for people who know what cyberc
 
 We took the data from the existing experience of reporting and created design recommendations in the form of a [checklist](https://digital.canada.ca/files/rcmp-design-recommendations-en.docx). This checklist became the standard for a good reporting experience which our designers, developers, and product manager relied on throughout prototyping. 
 
-![A screenshot of the checklist which reads, “Provide a clear definition of what a cybercrime is, or what types of cybercrimes will be accepted and processed within the system. Reassure people that they are in the right place to report a scam, an online fraud, online harassment, etc. Provide examples of what kinds of cybercrimes can be reported.”](/img/cds/checklist-screenshot-en.jpg)
+![A screenshot of the checklist which reads, “Provide a clear definition of what a cybercrime is, or what types of cybercrimes will be accepted and processed within the system. Reassure people that they are in the right place to report a scam, an online fraud, online harassment, etc. Provide examples of what kinds of cybercrimes can be reported.”](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/checklist_screenshot_en_5baddb7299.jpg)
 
 We’re currently conducting validation and usability tests to ensure that we’re helping victims effectively report a cybercrime while also delivering emotional reassurance and guidance. Our next steps include exploring how we can design based on the recommendations we received from interviews and testing.  
 
