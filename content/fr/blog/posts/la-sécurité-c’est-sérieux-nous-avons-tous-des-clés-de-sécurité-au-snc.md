@@ -17,7 +17,7 @@ J’ai peur, très peur! J’ai peur de me réveiller le matin et de constater q
 
 Mais comment une personne peut-elle perdre le contrôle de ses justificatifs d’identité? Eh bien, peut-être quelqu’un a-t-il obtenu vos justificatifs en vous regardant les saisir, ou peut-être utilisez-vous le même mot de passe partout (c’est vous que je regarde!) et celui-ci a été révélé lors d’une atteinte à la protection des données, ou peut-être vous a-t-on simplement hameçonné à l’ancienne. Peu importe comment, tous savent que de telles choses arrivent et que dans un tel cas, votre productivité en souffrira. Ce genre d’atteinte à la sécurité peut entraîner la perte de données, le vol de propriété intellectuelle, ou même une manipulation silencieuse de toutes vos communications entrantes et sortantes par quelqu’un, sans que vous ne le remarquiez. Peut-être, peut-être, peut-être.
 
-![Un homme à la chemise rouge porte un cordon au cou, auquel sont attachées une carte d’identité et une clé de sécurité.](/img/cds/yubikey-1.jpg)
+![Un homme à la chemise rouge porte un cordon au cou, auquel sont attachées une carte d’identité et une clé de sécurité.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/yubikey_1_ae675759bd.jpg)
 
 Selon le [rapport d’enquête sur l’atteinte aux données de 2019 par Verizon](https://enterprise.verizon.com/resources/reports/2019-data-breach-investigations-report.pdf) (en anglais), 29 % de tous les incidents de sécurité signalés avaient trait à l’utilisation de justificatifs d’identité volés. _La grande question est donc : est-ce possible d’éliminer cette menace de façon pratique? Oui, nous le pouvons_.
 
@@ -27,7 +27,7 @@ C’est là que j’interviens. Tout d’abord, notre équipe de sécurité a fa
 
 Donc, en termes plus techniques, lorsque vous appuyez sur le bouton doré, un exercice de questions-réponses est lancé au moyen de la cryptographie à clé publique entre la clé de sécurité et le fournisseur de services. Ce mécanisme a aussi pour effet caché d’éliminer efficacement la menace de prise de contrôle des comptes par hameçonnage et fuites de justificatifs.
 
-![Quatre différentes clés de sécurité côte à côte, l’une d’entre elles étant attachée à un porte-clés.](/img/cds/yubikey-4.jpg)
+![Quatre différentes clés de sécurité côte à côte, l’une d’entre elles étant attachée à un porte-clés.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/yubikey_4_213907f375.jpg)
 
 Nous avons ensuite remis deux clés de sécurité à chaque membre, ce qui permet aux employés de choisir le type de clé qui leur convient le mieux. Nous avons de plus pris le temps d’aider tout le monde à intégrer les clés de sécurité à leur travail et à leur vie personnelle. Ces rencontres individuelles ont aussi servi à avoir des conversations sérieuses sur la [sécurité des mots de passe](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/orientation-sur-mots-passe.html), les [mises à jour logicielles](https://cyber.gc.ca/fr/correctifs-aux-applications-et-aux-se) et d’autres sujets liés à la [cyberhygiène](https://www.pensezcybersecurite.gc.ca/). 
 
