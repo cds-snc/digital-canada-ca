@@ -67,7 +67,7 @@ We created a series of checks that can validate that our infrastructure and code
 2. Jobs are containers written in different programming languages (Go, Rust, JavaScript, Crystal).
 3. Each container writes a JSON file to a shared directory, tagged with the release ID.
 
-![The application uses an ESLint file to do a static code analysis.](/img/cds/compliance-code-en.png)
+![The application uses an ESLint file to do a static code analysis.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/compliance_code_en_692e91ec4c.png)
 
 4. We have a JavaScript app to watch a shared directory and ingest JSON files.
 5. The results get saved into MongoDB grouped by release and control.

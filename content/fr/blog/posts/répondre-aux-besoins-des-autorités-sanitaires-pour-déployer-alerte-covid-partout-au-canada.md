@@ -32,7 +32,7 @@ Les options de l’API ou du portail existent de façon à s’intégrer à des 
 
 Par exemple, certaines régions permettent aux patients de vérifier par eux-mêmes, en ligne, leur résultat au test pour la COVID-19. Dans ces cas, l’API fonctionnerait, car elle permet de générer une clé directement à partir des systèmes en ligne existants. 
 
-![Capture d’écran de la clé à usage unique alphanumérique à 10 caractères « XXA 228 AYYF » suivie des instructions sur la façon de la lire : « Pour lire la clé de façon phonétique : X comme xylophone. X comme xylophone. A comme animal. Deux. Deux. Huit. A comme animal. Y comme yoga. Y comme yoga. F comme famille. »](/img/cds/app-portal-blog-1-fr.jpg)
+![Capture d’écran de la clé à usage unique alphanumérique à 10 caractères « XXA 228 AYYF » suivie des instructions sur la façon de la lire : « Pour lire la clé de façon phonétique : X comme xylophone. X comme xylophone. A comme animal. Deux. Deux. Huit. A comme animal. Y comme yoga. Y comme yoga. F comme famille. »](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/app_portal_blog_1_fr_53fc40f944.jpg)
 
 D’autres régions dépendent du fait que les travailleurs de la santé appellent les patients par téléphone pour communiquer les résultats des tests. Ainsi, l’idéal serait de leur permettre de générer une clé au nom du patient et de la lire par téléphone. Ce serait possible en intégrant l’API directement à leur système existant ou en intégrant le portail à leur flux de travail existant.
 

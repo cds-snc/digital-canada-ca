@@ -45,7 +45,7 @@ Puis, nous avons organisé des journées sur l’accessibilité et entrepris de 
 
 Les concepteurs ont discuté avec des développeurs d’autres organisations de l’importance des tests d’accessibilité et de la façon dont ils pourraient les automatiser. Plus important encore, ils ont aussi parlé de la nécessité de faire des tests manuels. Les concepteurs ont partagé des articles, des outils et des conseils sur la façon de concevoir de façon accessible. Le langage clair et simple est également devenu un élément essentiel de notre vocabulaire. Le fait qu’une personne dans une organisation parle d’accessibilité et d’inclusion tous les jours a donné des résultats inattendus. J’ai rédigé un billet de blogue personnel et je l’ai partagé dans un message informel sur la façon dont les équipes de communications peuvent améliorer l’accessibilité. Des semaines plus tard, j’ai vu notre propre équipe de communications [mettre en œuvre l’accessibilité de nouvelles façons](https://mobile.twitter.com/cube_drone/status/1129094022788599808). 
 
-![Gazouillis publié en mai par le SNC et affichant un GIF d'un oiseau faisant salut de la main, avec le texte de remplacement «Oiseau faisant salut de la main» entre crochets.](/img/cds/accessibility-handbook-post1.jpg)
+![Gazouillis publié en mai par le SNC et affichant un GIF d'un oiseau faisant salut de la main, avec le texte de remplacement «Oiseau faisant salut de la main» entre crochets.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/accessibility_handbook_post1_f5b616206d.jpg)
 
 Nous avons créé une communauté de l’accessibilité en faisant preuve d’empathie, en nous mobilisant et en accordant la priorité à ce domaine.  
 
@@ -58,7 +58,7 @@ Il y a quatre mois, j’ai commencé à offrir des heures de bureau sur l’acce
 * Que dit la loi?
 * Comment puis-je apprendre à évaluer l’accessibilité et à acquérir des compétences comme vous l’avez fait?
 
-![Gazouillis de Julianna Rowsell se lisant comme suit: Saviez-vous que j'ai des heures d'ouverture de bureau? Vous pouvez me joindre les jeudis entre 13h et 15h pour parler d'accessibilité, de conception inclusive, de services, de réflexion conceptuelle, d'éthique, de données ou de recherche. Utilisez Twitter, envoyez-moi un courriel, appelez-moi ou venez prendre un café. #GCNumérique #Collaborer](/img/cds/accessibility-handbook-post2.jpg)
+![Gazouillis de Julianna Rowsell se lisant comme suit: Saviez-vous que j'ai des heures d'ouverture de bureau? Vous pouvez me joindre les jeudis entre 13h et 15h pour parler d'accessibilité, de conception inclusive, de services, de réflexion conceptuelle, d'éthique, de données ou de recherche. Utilisez Twitter, envoyez-moi un courriel, appelez-moi ou venez prendre un café. #GCNumérique #Collaborer](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/accessibility_handbook_post2_3b1bed65aa.jpg)
 
 **Et ensuite?**
 L’objectif est de favoriser le développement de l’inclusion dans l’ensemble du gouvernement.

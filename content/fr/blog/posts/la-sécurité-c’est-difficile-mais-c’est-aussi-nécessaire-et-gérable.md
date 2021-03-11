@@ -69,7 +69,7 @@ Nous avons créé une série de vérifications visant à confirmer que notre inf
 2. Les tâches sont des conteneurs rédigés dans différents langages de programmation (Go, Rust, JavaScript, Crystal).
 3. Chaque conteneur écrit un fichier JSON, étiqueté avec le numéro d’identité, dans un répertoire partagé.
 
-![L’application utilise un fichier ESLint pour faire une analyse statique de programmes.](/img/cds/compliance-code-fr.png)
+![L’application utilise un fichier ESLint pour faire une analyse statique de programmes.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/compliance_code_fr_6baa89cbb7.png)
 
 4. Nous avons une application JavaScript qui surveille un répertoire partagé et ingère les fichiers JSON.
 5. Les résultats sont sauvegardés dans MongoDB et regroupés par version et contrôle.
