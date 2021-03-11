@@ -25,7 +25,7 @@ Mindsets are often used in the private sector to inform design by understanding 
 
 On a practical level, this methodology often uses two variables to map out a set of axes onto which the mindsets sit. The variables are factors that impact a person’s views or needs. There are four mindsets that sit in each quadrant of the axes. 
 
-![A matrix with 4 quadrants. On the “north” and “south” points of the matrix, it reads, “Variable 2”. On the “east” and “west” points, it reads, “Variable 1”. There are 4 circles that read “Mindset” sitting in each quadrant.](/img/cds/blog-mindsets-1-en.jpg)
+![A matrix with 4 quadrants. On the “north” and “south” points of the matrix, it reads, “Variable 2”. On the “east” and “west” points, it reads, “Variable 1”. There are 4 circles that read “Mindset” sitting in each quadrant.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_mindsets_1_en_ad5a462fae.jpg)
 
 ## How we used mindsets for COVID Alert
 
@@ -49,7 +49,7 @@ We used this as the primary y axis.
 
 ## COVID Alert mindsets
 
-![A matrix with 4 quadrants. On the “north” point, it reads “Seeks info” and on the “south” points of the matrix, it reads, “Doesn’t Seek info”. On the “east” point it reads, “Trusting” and “west” point, it reads “Distrusting”. Starting from the top left going clockwise, the four different circles in the quadrants are labelled “Cautious”, “Helpful”, “Cooperative” and “Reluctant”.](/img/cds/blog-mindsets-2-en.jpg)
+![A matrix with 4 quadrants. On the “north” point, it reads “Seeks info” and on the “south” points of the matrix, it reads, “Doesn’t Seek info”. On the “east” point it reads, “Trusting” and “west” point, it reads “Distrusting”. Starting from the top left going clockwise, the four different circles in the quadrants are labelled “Cautious”, “Helpful”, “Cooperative” and “Reluctant”.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_mindsets_2_en_d5426b1777.jpg)
 
 <table>
    <tbody>
