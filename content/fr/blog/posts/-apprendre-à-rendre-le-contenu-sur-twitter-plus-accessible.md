@@ -6,7 +6,7 @@ author: 'Jo Button, Liaison et diffusion'
 date: '2021-03-12T16:00:00.000Z'
 image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/accessibility_tweets_blog_banner_650f003408.jpg
 image-alt: Une personne utilisant un lecteur d’écran sur son téléphone.
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/thumbnail_accessibility_tweets_blog_banner_650f003408.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_accessibility_tweets_blog_banner_650f003408.jpg
 translationKey: blog-accessible-tweets 
 ---
 Personne n’aime être exclu, et personne n’aime voir ses besoins et ses sentiments ignorés. Du moins, certainement pas moi.
