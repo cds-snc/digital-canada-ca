@@ -3,7 +3,8 @@ title: Help public servants create and manage forms
 translationKey: forms
 description: >-
   Publishing simple, accessible, and online forms that the public can use to get the services or benefits they need.
-phase: discovery
+product-url: https://forms-staging.cdssandbox.xyz/20
+phase: alpha
 status: in-flight
 onhomepage: false
 contact:
