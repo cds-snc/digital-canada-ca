@@ -91,7 +91,7 @@ exec:
   - archived: false
     name: Leanne Labelle
     title:
-      en: Head of Procurement
+      en: Head of Platform Growth
       fr: Chef de l’approvisionnement
     imagehash: leane_labelle_54635926a6
     email: leanne.labelle@tbs-sct.gc.ca
@@ -512,6 +512,7 @@ team:
     imagehash: small_philippe_tardif_e8b864fdce
     email: philippe.tardif@cds-snc.ca
     linkedin: philippe-tardif-136695175
+    twitter: philippetardif8
   - archived: false
     name: Priyanka Rahman
     title:
