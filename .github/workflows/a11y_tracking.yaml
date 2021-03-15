@@ -3,7 +3,7 @@ name: "A11y tracking"
 on:
   push:
     branches:
-      - main
+      - master
 
 defaults:
   run:
