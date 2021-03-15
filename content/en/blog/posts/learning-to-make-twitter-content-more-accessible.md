@@ -34,6 +34,7 @@ I decided to share those things more publically, in case people outside of CDS w
 ## My tips for creating more accessible Twitter content
 ### Alt text 
 Add alt text to visuals and include captions or transcripts for videos. It’s super easy to do! 
+
 * First, add the visual to your post (image or GIF), then click “Add description.” 
 
 * This is where you describe what the visual is showing for people using screen readers or other assistive devices. 
