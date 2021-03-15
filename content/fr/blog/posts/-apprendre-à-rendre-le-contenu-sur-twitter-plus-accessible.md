@@ -35,6 +35,7 @@ J’ai décidé de partager mes trouvailles avec le public, au cas où des perso
 ## Mes trucs pour du contenu accessible sur Twitter
 ### Texte de remplacement
 Ajoutez du texte de remplacement aux éléments visuels et ajoutez des sous-titres ou une transcription aux vidéos. C’est très facile à faire!
+
 * D’abord, ajoutez votre image ou votre GIF à votre publication. Cliquez ensuite sur « Ajouter une description ».
 
 * Décrivez l’élément visuel pour les personnes qui utilisent des lecteurs d’écran ou d’autres appareils d’assistance. 
