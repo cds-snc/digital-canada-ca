@@ -30,7 +30,7 @@ The English and French versions will be hosted at [localhost:1313](http://localh
 
 ## Content Management System
 
-Powered by [Strapi](https://strapi.io/). The Strapi instance for this website can be found at [https://github.com/cds-snc/cds-website-cms](https://github.com/cds-snc/cds-website-cms.
+Powered by [Strapi](https://strapi.io/). The Strapi instance for this website can be found at [https://github.com/cds-snc/cds-website-cms](https://github.com/cds-snc/cds-website-cms).
 
 
 
