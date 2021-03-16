@@ -8,9 +8,6 @@
     "minimist": "^1.2.5",
     "snyk": "^1.445.0"
   },
-  "devDependencies": {
-    "node-yaml": "^3.2.0"
-  },
   "scripts": {
     "dev": "hugo server -D",
     "build": "hugo",
