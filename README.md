@@ -28,16 +28,11 @@ Powered by [Hugo](https://gohugo.io/), and the [Web Experience Toolkit](https://
 
 The English and French versions will be hosted at [localhost:1313](http://localhost:1313) and [localhost:1314](http://localhost:1314), respectively.
 
-## To get Netlify CMS up and running
+## Content Management System
 
-1. Pull in dependencies
-    ```
-    npm install
-    ```
-2. Build Netlify CMS
-    ```
-    npm run dev
-    ```
+Powered by [Strapi](https://strapi.io/). The Strapi instance for this website can be found at [https://github.com/cds-snc/cds-website-cms](https://github.com/cds-snc/cds-website-cms.
+
+
 
 ## ---------------------------------------------------------------------
 
