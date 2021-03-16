@@ -8,10 +8,10 @@ description: >-
   to host a government AMA on Twitter in both official languages.
 author: 'Yael Berger, Chelsea Novak, Charlotte Pedersen, Élise Cossette'
 date: 2019-08-20T14:12:38.386Z
-image: /img/cds/ama-banner.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/ama_banner_032dcb83f7.jpg
 image-alt: A bird’s-eye view of 4 relay racers running on a track in 4 parallel lanes.
 translationKey: relay-race-ama
-thumb: /img/cds/thumbnails/ama-banner.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_ama_banner_032dcb83f7.jpg
 processed: 1566597193076
 ---
 Imagine this: you’re the starting runner in a 400m relay race. You get into the starting position, the gun goes off, and you sprint as hard as you can. As you reach that first 100m mark, you notice there’s no one to pass the baton to. Oh no. Now you have to sprint the whole relay race and keep the momentum going by yourself. 

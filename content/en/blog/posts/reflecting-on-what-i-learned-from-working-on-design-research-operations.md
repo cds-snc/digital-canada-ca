@@ -8,12 +8,12 @@ description: >-
   this shift and what she learned from it.  
 author: 'Anne-Marie Mulumba, Design Research'
 date: 2021-02-23T16:10:15.833Z
-image: /img/cds/anne-marie-blog-banner.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/anne_marie_blog_banner_b51d016be3.jpg
 image-alt: >-
   A person looking at their reflection, seeing their accomplishments and how
   it’s formed them into the person they are.
 translationKey: blog-design-research-ops
-thumb: /img/cds/thumbnails/anne-marie-blog-banner.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_anne_marie_blog_banner_b51d016be3.jpg
 processed: 1614098644228
 ---
 Most of us know that work often ends up including more than the job description outlined. Our values and personality, the relationships we build, and the way we approach our work  ultimately influence the impact we have and the direction a role can take.

@@ -6,10 +6,10 @@ description: >-
   Here are some ways to start.
 author: 'Julianna Rowsell, Accessibility and Inclusive Services Lead'
 date: 2019-02-13T14:00:00.000Z
-image: /img/cds/_mg_9837-2.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/mg_9837_2_7bc5f33d0f.jpg
 image-alt: A man uses a split keyboard and other technologies to help use his computer.
 translationKey: not-perfect
-thumb: /img/cds/thumbnails/_mg_9837-2.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_mg_9837_2_7bc5f33d0f.jpg
 processed: 1550672961666
 ---
 Accessibility has a reputation for being hard and sometimes even unobtainable. But building inclusive services that work better for everyone isn’t about perfection. It’s about making an effort and seeing progress. When we bring that type of effort every day, transformation happens. On the flip side, when we don’t, the people who may need our services most can’t access them.

@@ -10,12 +10,12 @@ description: >-
   Twitter.
 author: 'Yael Berger, Chelsea Novak, Charlotte Pedersen, Élise Cossette'
 date: 2019-08-20T14:21:33.298Z
-image: /img/cds/ama-banner.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/ama_banner_032dcb83f7.jpg
 image-alt: >-
   Vue aérienne de 4 coureurs à relais parcourant une piste dotée de 4 voies
   parallèles.
 translationKey: relay-race-ama
-thumb: /img/cds/thumbnails/ama-banner.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_ama_banner_032dcb83f7.jpg
 processed: 1566597193279
 ---
 Imaginez que vous êtes le premier coureur d’une course à relais de 400 m. Vous vous placez en position de départ. On donne le signal, et vous vous lancez aussitôt dans un sprint en ne ménageant aucun effort. En vous approchant de la marque des 100 m, vous vous apercevez que personne n’est prêt à prendre le relais. Oh non! Vous devez maintenant continuer sur la même lancée et poursuivre ce sprint jusqu’à la fin de la course. 

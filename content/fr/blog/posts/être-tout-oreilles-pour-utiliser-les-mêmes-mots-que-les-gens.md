@@ -8,14 +8,14 @@ description: >-
   sont victimes.
 author: 'Anik Brazeau, conceptrice de contenu '
 date: 2019-06-06T15:33:35.834Z
-image: /img/cds/bag-and-hands.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/bag_and_hands_62d7b020be.jpg
 image-alt: >-
   Deux personnes sont assises l’une en face de l’autre à une table de
   pique-nique. Nous ne pouvons voir que leurs mains. L’une des personnes prend
   des notes dans un petit carnet, avec une tasse de café et un téléphone à côté
   d’elle. L’autre a une tablette devant elle et un verre d’eau à sa droite.
 translationKey: using-words-people-use
-thumb: /img/cds/thumbnails/bag-and-hands.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_bag_and_hands_62d7b020be.jpg
 processed: 1560358863965
 
 ---

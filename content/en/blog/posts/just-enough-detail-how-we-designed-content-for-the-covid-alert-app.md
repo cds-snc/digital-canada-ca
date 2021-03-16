@@ -6,12 +6,12 @@ description: >-
   easier to understand.
 author: 'Kate Wilhelm, Content Design'
 date: 2020-11-18T15:14:28.248Z
-image: /img/cds/banner-content-covidalert-blog.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/banner_content_covidalert_blog_198bc0a191.jpg
 image-alt: >-
   Five differently coloured squiggly lines overlapping. After passing through a
   filter, there are 2 lines, now running in a straight line. 
 translationKey: content-covidalert
-thumb: /img/cds/thumbnails/banner-content-covidalert-blog.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_banner_content_covidalert_blog_198bc0a191.jpg
 processed: 1605718866302
 ---
 When we first started work on [COVID Alert](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), [we knew one of the keys to success was trust](https://digital.canada.ca/2020/10/02/building-an-effective-exposure-notification-service-like-covid-alert/). People would not download the app if they didn’t trust it. And we knew that the key to trust was understanding. 

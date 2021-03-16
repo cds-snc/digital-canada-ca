@@ -10,12 +10,12 @@ description: >-
   patients.
 author: 'Brian Hendrick, Service Design'
 date: 2020-09-03T13:29:16.969Z
-image: /img/cds/app-portal-blog-banner.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/app_portal_blog_banner_dddd52ec15.jpg
 image-alt: >-
   A map of Canada showing patients and healthcare workers in different provinces
   and territories. 
 translationKey: healthcare-portal-service-design
-thumb: /img/cds/thumbnails/app-portal-blog-banner.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_app_portal_blog_banner_dddd52ec15.jpg
 processed: 1599143371197
 ---
 [COVID Alert](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), the free Government of Canada exposure notification app for COVID-19, has been downloaded by over 2 million people. While the app itself is the public-facing touchpoint, there are things going on behind the scenes that enable it to do what it’s designed to do. 

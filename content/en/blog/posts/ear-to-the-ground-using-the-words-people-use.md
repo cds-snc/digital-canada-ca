@@ -7,14 +7,14 @@ description: >-
   to victims of cybercrime.
 author: 'Anik Brazeau, Content design'
 date: 2019-06-06T15:26:18.888Z
-image: /img/cds/bag-and-hands.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/bag_and_hands_62d7b020be.jpg
 image-alt: >-
   Two people sitting across from each other at a picnic table. We can only see
   their hands. One is taking notes in a small notebook, with a coffee and phone
   beside her. The other has a tablet in front of him, with a glass of water to
   his right. 
 translationKey: using-words-people-use
-thumb: /img/cds/thumbnails/bag-and-hands.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_bag_and_hands_62d7b020be.jpg
 processed: 1560358863721
 
 ---
