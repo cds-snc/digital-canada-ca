@@ -4,12 +4,12 @@ title: 'Listening to Users: Improving the COVID-19 Benefits Finder Tool'
 description: ' A blog post about building the feedback component on “Find Financial Help During COVID-19” tool using Canada.ca template. It speaks to the type of feedback we’ve been receiving, and how we''re handling private information that may come in.'
 author: 'Adrianne Lee, Researcher'
 date: 2020-07-06T20:31:25.403Z
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/adrianne_blog_en_8f917cc7df.jpg
+image: https://de2an9clyit2x.cloudfront.net/adrianne_blog_en_8f917cc7df.jpg
 image-alt: >-
   An illustration of an online service receiving written feedback on its
   usability from 8 different people.
 translationKey: blog-ffhc19-feedback
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_adrianne_blog_en_8f917cc7df.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_adrianne_blog_en_8f917cc7df.jpg
 processed: 1594214285126
 ---
 On May 7th, we soft launched the *[Find financial help during COVID-19](http://canada.ca/coronavirus-benefits)* online tool in partnership with Service Canada. The purpose of this co-developed tool is to help reduce financial stress that people in Canada are experiencing during the pandemic. By having people answer a few simple questions anonymously, the tool provides them with a tailored list of benefits for their specific situation. We included a feedback text box, which has had a huge impact on our ability to improve the tool with the help of the people using it every day. 
@@ -20,7 +20,7 @@ We conducted design research throughout the product build, facilitating multiple
 
 One of the ways we collected live data was through a feedback form with a feedback text box. Canada.ca specifications require a ‘Report a problem or a mistake on this page’ form on every page. A feedback box feature is also available for web pages as part of the Canada.ca design system. We modified the options to more specifically fit our product’s content. We added a feedback text box because we decided as a team that we needed to understand when people report “confusing” or “incorrect information,” what people specifically found confusing or incorrect about the tool. The open text provided informative data for ways we could improve our tool. 
 
-![A screenshot of the feedback box in the Find financial help during COVID-19 tool.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/adrianne_blog_screenshot_en_611b252695.jpg)
+![A screenshot of the feedback box in the Find financial help during COVID-19 tool.](https://de2an9clyit2x.cloudfront.net/adrianne_blog_screenshot_en_611b252695.jpg)
 
 Although we didn't intend to, we learned a lot about how we can improve government services in general too.
 
@@ -44,7 +44,7 @@ For our team, we decided the value of the  insights we could capture from a feed
 
 For every piece of feedback, we first consider our product scope and see whether a piece of feedback is relevant to the scope.  In product development, a [layer cake is sometimes used to describe the Agile methodology](https://twitter.com/nkkl/status/1066571295784022016). Expanding on this analogy is helpful to explain how we consider a piece of feedback’s relevance.
 
-![Helpful feedback (represented by a piece of strawberry cake and a strawberry) vs. not helpful feedback (represented by a fish soup and a fish)](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/adrianne_blog_infographic_en_187719f594.jpg)
+![Helpful feedback (represented by a piece of strawberry cake and a strawberry) vs. not helpful feedback (represented by a fish soup and a fish)](https://de2an9clyit2x.cloudfront.net/adrianne_blog_infographic_en_187719f594.jpg)
 
 If building the Find financial help tool is like baking a cake, the benefits/programs listed in the tool are kind of like the cake’s ingredients. They play a large part in how the cake tastes and feels, and ultimately whether it’s ‘useful’ or not to the person eating the cake. 
 

@@ -21,7 +21,7 @@ As a growing organization, we onboard new employees almost every week. While thi
 
 Over the past year we’ve onboarded 36 new employees, almost doubling the staff at CDS. We’ve always been excited about adding new people to our team, but we knew that we needed to make improvements to our onboarding experience. How could we apply the techniques and tools we use to build technology to help us create something excellent? Turns out, it takes some research, some discovery, and some testing. 
 
-![A desk in the CDS office is set up with a monitor, a laptop, boxed headphones, sticky notes, pens, and a line of sticky notes that read "Welcome to CDS".](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/onboarding_1_d94d6323dd.jpg)
+![A desk in the CDS office is set up with a monitor, a laptop, boxed headphones, sticky notes, pens, and a line of sticky notes that read "Welcome to CDS".](https://de2an9clyit2x.cloudfront.net/onboarding_1_d94d6323dd.jpg)
 
 ## Onboarding starts before the first day on the job
 
@@ -37,7 +37,7 @@ The other big piece of an onboarding experience is an employee’s first day. We
 
 Multiple team members help make day one successful. Our Internal Operations Team ensure that new employees have their TBS tech on time. (It’s hard to do your job without the tech you need. At CDS, this includes TBS Tablets, phones, and MacBooks.) The Talent Team sets up the new employee’s desk with a personalized notebook, stationery, headphones, and a welcome sign. We ensure new employees are brought to a workstation that has been set up just for them. It’s amazing to see how something that only takes us a few minutes to set up, can have such a great impact. 
 
-![A photo of Kate's work station on her first day, specifically four sticky notes that read KATE, three pens, a notebook with Kate's name, a CDS sticker, and sticky notes.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/onboarding_2_69ceb5a9af.jpg)
+![A photo of Kate's work station on her first day, specifically four sticky notes that read KATE, three pens, a notebook with Kate's name, a CDS sticker, and sticky notes.](https://de2an9clyit2x.cloudfront.net/onboarding_2_69ceb5a9af.jpg)
 
 One very important thing we do is let the rest of CDS know when a new staffer is joining us. We use a coming soon/now playing board on a wall in the head office in Ottawa. This means that everyone is ready to make a new hire feel welcomed. 
 
@@ -49,5 +49,5 @@ We check in with employees and their managers at the two and six month marks. Th
 
 The next issue we plan to tackle head on is the process to sign up for health benefits. Our hope is that by creating clear documentation and being available for troubleshooting, employees will have a significantly better (and faster) process of getting everything they need as a part of the CDS team. There’s always something we can  improve on and since  onboarding is about starting something new, why not make it spectacular?
 
-![Three CDS members who play a role in the integration of new employees are side by side, with open arms and a smile on their faces.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/onboarding_3_12dc00f532.jpg)
+![Three CDS members who play a role in the integration of new employees are side by side, with open arms and a smile on their faces.](https://de2an9clyit2x.cloudfront.net/onboarding_3_12dc00f532.jpg)
 

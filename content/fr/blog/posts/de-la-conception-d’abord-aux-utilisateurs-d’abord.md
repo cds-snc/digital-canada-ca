@@ -45,7 +45,7 @@ Pour ce faire, il faut d’abord parler aux utilisateurs pour connaître leurs b
 
 ## Les détails
 
-![Quatre cercles, avec les titres, Découverte, Alpha, Bêta, et Mis en ligne; chaque cercle se dirige vers la prochaine phase quand le cercle est complète.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/image_1_44757d2d20.png)
+![Quatre cercles, avec les titres, Découverte, Alpha, Bêta, et Mis en ligne; chaque cercle se dirige vers la prochaine phase quand le cercle est complète.](https://de2an9clyit2x.cloudfront.net/image_1_44757d2d20.png)
 
 **Découverte : déceler les besoins des utilisateurs**
 

@@ -11,12 +11,12 @@ description: >-
   en a appris. 
 author: 'Anne-Marie Mulumba, recherche en conception'
 date: 2021-02-23T16:26:22.767Z
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/anne_marie_blog_banner_b51d016be3.jpg
+image: https://de2an9clyit2x.cloudfront.net/anne_marie_blog_banner_b51d016be3.jpg
 image-alt: >-
   Une personne qui admire son reflet, et qui voit ses accomplissements et
   l’impact qu’ils ont eu sur la personne qu’elle est aujourd’hui.
 translationKey: blog-design-research-ops
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_anne_marie_blog_banner_b51d016be3.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_anne_marie_blog_banner_b51d016be3.jpg
 processed: 1614098644269
 ---
 Il arrive souvent que les responsabilités d’un poste dépassent la description de poste. Nos valeurs et notre personnalité, les relations que nous construisons et notre approche au travail ont toutes une influence sur l’impact que nous avons et sur la direction qu’un rôle peut prendre.

@@ -35,7 +35,7 @@ J’ai passé une première journée avec l’équipe de conception, à recueill
 
 C’est ainsi que j’ai commencé à concevoir chaque écran, en montrant mon concept (autrement dit, l’idée et l’histoire visuelle derrière l’illustration) à l’équipe, afin qu’il fasse l’objet d’une critique avant que j’y ajoute des couleurs. Cette étape importante permettait de déterminer si le concept s’agençait bien au message et s’il risquait d’être mal interprété et de conduire à des conséquences indésirables.
 
-![Photo d’une illustration (sans couleurs) affichée sur un iPad et représentant une main tenant un appareil mobile qui se connecte à un autre appareil grâce au Bluetooth.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/covid_alert_illustration1_42b9139b04.jpg)
+![Photo d’une illustration (sans couleurs) affichée sur un iPad et représentant une main tenant un appareil mobile qui se connecte à un autre appareil grâce au Bluetooth.](https://de2an9clyit2x.cloudfront.net/covid_alert_illustration1_42b9139b04.jpg)
 
 Les séances de critique ont parfois mauvaise réputation. Néanmoins, elles ont été essentielles à notre processus de conception, car elles ont permis de savoir comment les illustrations pouvaient être perçues et comprises par les personnes qui allaient utiliser l’application. Je n’ai jamais refusé de retravailler l’ébauche d’un concept, sachant les critiques de mon équipe sincères, ce qui nous a épargné bien du temps et bien des itérations au moment de tester les illustrations.
 
@@ -53,7 +53,7 @@ Pour être honnête, je ne me sentais pas prête à capter de façon adéquate t
 
 J’ai aussi puisé des idées dans mes propres expériences, et je les ai matérialisées dans les personnes et les familles que l’on voit voyager, magasiner, jouer, parler, faire la navette, marcher et sautiller.
 
-![Image d’une foule de personnes se promenant dans un aéroport et transportant des sacs. Un écran de téléphone est à l’avant-plan de l’image.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/covid_alert_illustration2_aa1499dea8.jpg)
+![Image d’une foule de personnes se promenant dans un aéroport et transportant des sacs. Un écran de téléphone est à l’avant-plan de l’image.](https://de2an9clyit2x.cloudfront.net/covid_alert_illustration2_aa1499dea8.jpg)
 
 ### Utiliser une palette de couleurs modeste, mais inclusive
 
@@ -65,7 +65,7 @@ Bon nombre d’illustrations créées à l’aide d’une palette réduite pigme
 
 J’ai donc décidé de ne pas pigmenter les personnages à la peau pâle dans l’application, **afin d’attribuer un contraste et un ton égaux à tous les personnages**. Dans les illustrations tests ci-dessous, vous pouvez voir la différence qu’engendre ce petit choix de conception, où je cherche à représenter de façon plus égalitaire les personnages ayant des teints différents. On aboutit donc à des images plus inclusives.
 
-![Trois illustrations côte à côte. La première montre un groupe de personnes portant un masque, les personnes à la peau pâle ayant une pigmentation. La deuxième illustration montre la même chose, mais les personnes à la peau pâle n’ont aucune pigmentation. La troisième illustration montre les personnes à la peau pâle avec une pigmentation teintée de jaune.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/covid_alert_illustration3_4c71e0d32d.png)
+![Trois illustrations côte à côte. La première montre un groupe de personnes portant un masque, les personnes à la peau pâle ayant une pigmentation. La deuxième illustration montre la même chose, mais les personnes à la peau pâle n’ont aucune pigmentation. La troisième illustration montre les personnes à la peau pâle avec une pigmentation teintée de jaune.](https://de2an9clyit2x.cloudfront.net/covid_alert_illustration3_4c71e0d32d.png)
 
 ***Rappel : C’est possible de montrer la diversité ailleurs que dans les cheveux et le teint.***
 
@@ -75,7 +75,7 @@ Ne pas comprendre l’intention derrière un service peut miner la confiance qu�
 
 Par ailleurs, si certains d’entre nous nous contentons de lire les instructions pour nous assurer le bien les suivre, beaucoup de personnes apprennent grâce aux images plutôt qu’aux mots.  **Pour être inclusif, il est préférable d’utiliser les deux.** 
 
-![Un écran de l’application Alerte COVID dont le titre est « Qu’est-ce qu’une exposition? », et l’illustration accompagnant le texte consistent en deux téléphones à deux mètres de distance, avec un cadran montrant 15 minutes.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/covid_alert_illustration4_fr_cc78c24852.jpg)
+![Un écran de l’application Alerte COVID dont le titre est « Qu’est-ce qu’une exposition? », et l’illustration accompagnant le texte consistent en deux téléphones à deux mètres de distance, avec un cadran montrant 15 minutes.](https://de2an9clyit2x.cloudfront.net/covid_alert_illustration4_fr_cc78c24852.jpg)
 
 Alerte COVID nous a donné la chance de souligner l’importance de l’expérience utilisateur d’un point de vue visuel. Quand nous créons des services, nous essayons toujours de rendre notre message le plus accessible possible au plus grand nombre de personnes possible, aussi bien à l’intérieur qu’à l’extérieur du Canada.
 

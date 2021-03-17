@@ -66,7 +66,7 @@ Tout cela pour dire que si nous avions eu Notification au moment de la conceptio
 
 Ouvrez un compte Notification et consultez la [documentation](https://notification.alpha.canada.ca/documentation) sur l’API. Vous verrez qu’il y a des clients pour de nombreux langages de programmation courants, par exemple Java, Python et JavaScript. Ces clients et cette documentation sont maintenus par le service numérique du gouvernement du Royaume-Uni.
 
-![Une capture d’écran de la page d’intégration de l’API Notification, comprenant une section dans laquelle on demande à un utilisateur de créer une clé API en inscrivant le nom de la clé. Il peut choisir parmi trois types de clés : Live, Équipe et liste de confiance, et Test.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/notify_api_fr_18a3a9b554.jpg)
+![Une capture d’écran de la page d’intégration de l’API Notification, comprenant une section dans laquelle on demande à un utilisateur de créer une clé API en inscrivant le nom de la clé. Il peut choisir parmi trois types de clés : Live, Équipe et liste de confiance, et Test.](https://de2an9clyit2x.cloudfront.net/notify_api_fr_18a3a9b554.jpg)
 
 Notez que nous utilisons ces clients (vive le code source libre!) avec un paramètre URL de base non consigné. Par conséquent, vous devrez le configurer afin qu’il corresponde à notre version de l’API. Pour plus de détails, consultez le document intitulé [Comment changer votre point de terminaison d’API](https://github.com/cds-snc/notification-api/wiki/Comment-changer-votre-point-de-terminaison-d'API%3F).
 

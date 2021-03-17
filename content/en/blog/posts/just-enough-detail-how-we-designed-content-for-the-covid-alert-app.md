@@ -6,12 +6,12 @@ description: >-
   easier to understand.
 author: 'Kate Wilhelm, Content Design'
 date: 2020-11-18T15:14:28.248Z
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/banner_content_covidalert_blog_198bc0a191.jpg
+image: https://de2an9clyit2x.cloudfront.net/banner_content_covidalert_blog_198bc0a191.jpg
 image-alt: >-
   Five differently coloured squiggly lines overlapping. After passing through a
   filter, there are 2 lines, now running in a straight line. 
 translationKey: content-covidalert
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_banner_content_covidalert_blog_198bc0a191.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_banner_content_covidalert_blog_198bc0a191.jpg
 processed: 1605718866302
 ---
 When we first started work on [COVID Alert](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), [we knew one of the keys to success was trust](https://digital.canada.ca/2020/10/02/building-an-effective-exposure-notification-service-like-covid-alert/). People would not download the app if they didn’t trust it. And we knew that the key to trust was understanding. 
@@ -20,7 +20,7 @@ Most people think about virus transmission as tied to the places they’ve been 
 
 The first few screens a person encounters after downloading the app are crucial to building understanding and trust. Most apps have some form of “onboarding” screens – usually just 2 or 3 to introduce key features. But our onboarding needed to do much more than many apps do. We had to change people’s assumptions about how the app works.
 
-![A screenshot of the first onboarding screen for the COVID Alert app. It reads, “COVID Alert helps us break the cycle of infection. The app can let people know of possible exposures before any symptoms appear.”](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/content_covidalert_welcome_onboarding_EN_bc5eef8f55.jpg)
+![A screenshot of the first onboarding screen for the COVID Alert app. It reads, “COVID Alert helps us break the cycle of infection. The app can let people know of possible exposures before any symptoms appear.”](https://de2an9clyit2x.cloudfront.net/content_covidalert_welcome_onboarding_EN_bc5eef8f55.jpg)
 
 ## Avoiding information overload
 
@@ -46,13 +46,13 @@ That’s why our onboarding includes 5 screens plus 4 more optional screens. I e
 
 We also made these kinds of decisions at the level of specific words. Take the word “anonymous”. According to dictionaries, anonymous means not being identified by name. But the risks of technology and the privacy protections of COVID Alert go much deeper than that. So we made a whole screen dedicated to the app’s privacy protections. 
 
-![A screenshot of the second onboarding screen from the COVID Alert app. It reads, “COVID Alert does not use GPS or track your location. It has no way of knowing your location, your name or address, your phone’s contacts, your health information, the health information of anyone you’re near.”](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/content_covidalert_privacy_EN_5ed80e4092.jpg)
+![A screenshot of the second onboarding screen from the COVID Alert app. It reads, “COVID Alert does not use GPS or track your location. It has no way of knowing your location, your name or address, your phone’s contacts, your health information, the health information of anyone you’re near.”](https://de2an9clyit2x.cloudfront.net/content_covidalert_privacy_EN_5ed80e4092.jpg)
 
 Similarly, on the screen that starts the process for people who have tested positive, instead of simply saying something like “Anonymously upload your random codes,” we used a whole sentence just to convey the concept of anonymity: “Nobody will get any information about you or the time you were near them.”
 
 Even a seemingly simpler word like “optional” contains a lot of information in it. So in the [new functionality](https://twitter.com/CDS_GC/status/1322209683399184385) we rolled out just last month, we expanded “optional” to a full sentence: “You can choose not to give any details.”
 
-![](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/content_covidalert_screen_EN_cd8e04645c.jpg)
+![](https://de2an9clyit2x.cloudfront.net/content_covidalert_screen_EN_cd8e04645c.jpg)
 
 Using concrete, everyday words can feel weird — even vulnerable — when we’re so often rewarded for using jargon, abstractions and acronyms. But choosing the right level of detail and density of meaning helps people understand and trust how the app works.
 
