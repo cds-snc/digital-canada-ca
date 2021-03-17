@@ -6,12 +6,12 @@ description: >-
   réaliser. Voici par où commencer.
 author: 'Julianna Rowsell, responsable de l’accessibilité et des services inclusifs'
 date: 2019-02-13T14:00:00.000Z
-image: /img/cds/_mg_9837-2.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/mg_9837_2_7bc5f33d0f.jpg
 image-alt: >-
   Un homme utilise un clavier ajustable et d’autres technologies qui l’aident à
   utiliser son ordinateur.
 translationKey: not-perfect
-thumb: /img/cds/thumbnails/_mg_9837-2.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_mg_9837_2_7bc5f33d0f.jpg
 processed: 1550672961824
 ---
 L'accessibilité a la réputation d'être difficile, et même parfois impossible à réaliser. Pourtant, l’élaboration de services inclusifs qui conviennent à tous n’est pas une question de perfection. C’est une question d’efforts et de progrès. Et lorsqu’on déploie ce genre d’efforts chaque jour, la transformation s’opère. À l’opposé, si l’on ne fait rien, les gens qui ont le plus besoin de nos services ne pourront pas y accéder. 

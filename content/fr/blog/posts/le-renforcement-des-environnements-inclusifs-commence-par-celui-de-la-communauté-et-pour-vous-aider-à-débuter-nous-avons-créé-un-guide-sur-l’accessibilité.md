@@ -12,12 +12,12 @@ description: >-
   plus pour l’inclusion que ce que nous pourrions accomplir seuls.
 author: 'Julianna Rowsell, responsable de l’accessibilité et des services inclusifs'
 date: 2019-12-02T21:28:01.979Z
-image: /img/cds/accessibility-handbook-blog.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/accessibility_handbook_blog_00d02c5777.jpg
 image-alt: >-
   Portrait de la responsable de l’accessibilité et des services inclusifs,
   Julianna Rowsell, posant devant un mur mauve.
 translationKey: accessibility-handbook
-thumb: /img/cds/thumbnails/accessibility-handbook-blog.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_accessibility_handbook_blog_00d02c5777.jpg
 processed: 1581626526529
 ---
 Dix ans! Cela fait 10 ans que je travaille dans le domaine de l’accessibilité au sein de la fonction publique. J’ai vu notre communauté évoluer et changer à mesure que de nouveaux visages sont arrivés et sont repartis. Bon nombre des personnes qui s’occupaient de l’accessibilité dans la fonction publique lorsque j’ai commencé en sont encore aujourd’hui les fers de lance. Notre communauté est petite, mais robuste, et elle travaille à la croisée des ministères et des secteurs afin d’améliorer l’accès aux services pour les gens.

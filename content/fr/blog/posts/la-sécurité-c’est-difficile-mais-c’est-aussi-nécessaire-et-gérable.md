@@ -4,12 +4,12 @@ title: 'La sécurité, c’est difficile. Mais c’est aussi nécessaire et gér
 description: Explication de la sécurité numérique grâce à la sécurité dans les aéroports.
 author: 'Tim Arney, développeur'
 date: 2019-06-20T13:00:11.700Z
-image: /img/cds/airplane.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/airplane_460f30dd8a.jpg
 image-alt: >-
   L’application utilise un fichier ESLint pour faire une analyse statique de
   programmes.
 translationKey: security-hard
-thumb: /img/cds/thumbnails/airplane.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_airplane_460f30dd8a.jpg
 processed: 1561556658198
 ---
 La sécurité numérique, c’est difficile. Même les meilleures équipes d’ingénieurs et de spécialistes des TI sont susceptibles de faire des erreurs à un moment donné. Mais tout comme la sécurité dans les aéroports, les étapes et les processus en place sont là pour votre sûreté.

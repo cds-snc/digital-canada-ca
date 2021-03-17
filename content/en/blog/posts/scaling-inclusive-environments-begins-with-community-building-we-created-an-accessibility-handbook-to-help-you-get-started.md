@@ -10,12 +10,12 @@ description: >-
   so much more for inclusion than we could ever do alone.
 author: 'Julianna Rowsell, Accessibility and Inclusive Services Lead'
 date: 2019-12-02T21:21:24.147Z
-image: /img/cds/accessibility-handbook-blog.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/accessibility_handbook_blog_00d02c5777.jpg
 image-alt: >-
   A headshot of Lead of Accessibility and Inclusion Services, Julianna Rowsell,
   standing in front of a purple wall.
 translationKey: accessibility-handbook
-thumb: /img/cds/thumbnails/accessibility-handbook-blog.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_accessibility_handbook_blog_00d02c5777.jpg
 processed: 1581626526310
 ---
 Ten! Ten years, that’s how long I’ve worked in accessibility within the public service. I’ve watched the community grow and change as new faces have come and gone. Many people involved in accessibility in the public service when I first started out are still spearheading the charge today. We are a small, but mighty community, crossing departments and sectors to help improve access to services for people.

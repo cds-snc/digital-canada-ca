@@ -4,10 +4,10 @@ title: Security is hard. It’s also necessary and manageable.
 description: Digital security explained like airport security.
 author: 'Tim Arney, Developer'
 date: 2019-06-20T13:00:00.000Z
-image: /img/cds/airplane.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/airplane_460f30dd8a.jpg
 image-alt: An airplane taking off on a runway at dusk.
 translationKey: security-hard
-thumb: /img/cds/thumbnails/airplane.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_airplane_460f30dd8a.jpg
 processed: 1561556657992
 ---
 Digital security is hard. Even the best engineering and IT teams are prone to make mistakes at some point. But like airport security, steps and processes along the way keep you safe and secure.

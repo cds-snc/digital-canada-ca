@@ -10,12 +10,12 @@ description: >-
   renseignements personnels qui peuvent s’y faufiler.
 author: 'Adrianne Lee, chercheuse'
 date: 2020-07-06T20:39:16.171Z
-image: /img/cds/adrianne-blog-fr.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/adrianne_blog_fr_bf220fb4f8.jpg
 image-alt: >-
   Illustration d’un service en ligne qui reçoit des commentaires écrits sur son
   utilisabilité de la part de 8 personnes différentes.
 translationKey: blog-ffhc19-feedback
-thumb: /img/cds/thumbnails/adrianne-blog-fr.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_adrianne_blog_fr_bf220fb4f8.jpg
 processed: 1594214285021
 ---
 Le 7 mai, nous avons lancé discrètement l’outil en ligne « [Trouver de l’aide financière pendant la COVID-19](https://covid-prestations.alpha.canada.ca/fr/debut) », en partenariat avec Service Canada. Le but de cet outil codéveloppé est de réduire le stress financier que subissent les Canadiens et les Canadiennes pendant la pandémie. En demandant aux gens de répondre à quelques questions simples de façon anonyme, l’outil leur fournit une liste de prestations adaptée à leur situation. La zone de commentaires que nous y avons incluse a eu une incidence considérable sur notre capacité à améliorer l’outil, grâce aux gens qui l’ont utilisée chaque jour. 
