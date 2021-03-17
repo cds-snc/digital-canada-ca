@@ -13,12 +13,6 @@ jobs:
           name: "Load git submodules"
           command: git submodule sync && git submodule update --init
 
-      - run:
-          name: "Build admin section"
-          command: |
-            npm install
-            npm run build_admin
-
       # Store compiled cache (persisted across jobs)
       - run: echo $CIRCLE_SHA1 > .circle-sha
       - save_cache:
