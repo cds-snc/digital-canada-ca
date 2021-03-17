@@ -41,7 +41,7 @@ Le mot « Yankee », par exemple, peut être offensant, tandis le que le mot « 
 
 **Nous nous sommes demandé si nous pouvions trouver des mots adaptés à notre réalité. Si oui, comment choisir les mots?**
 
-![Une clé alphanumérique (284 FKQ 8889) est lue à voix haute à l’aide de chiffres et de mots : « Deux, huit, quatre, famille, kangourou, question, huit, huit, huit, neuf ».](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_phonetic_fr_aee145e594.jpg)
+![Une clé alphanumérique (284 FKQ 8889) est lue à voix haute à l’aide de chiffres et de mots : « Deux, huit, quatre, famille, kangourou, question, huit, huit, huit, neuf ».](https://de2an9clyit2x.cloudfront.net/blog_phonetic_fr_aee145e594.jpg)
 
 ## Choisir notre alphabet
 

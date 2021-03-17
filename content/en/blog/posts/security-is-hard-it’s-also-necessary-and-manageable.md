@@ -4,10 +4,10 @@ title: Security is hard. It’s also necessary and manageable.
 description: Digital security explained like airport security.
 author: 'Tim Arney, Developer'
 date: 2019-06-20T13:00:00.000Z
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/airplane_460f30dd8a.jpg
+image: https://de2an9clyit2x.cloudfront.net/airplane_460f30dd8a.jpg
 image-alt: An airplane taking off on a runway at dusk.
 translationKey: security-hard
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_airplane_460f30dd8a.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_airplane_460f30dd8a.jpg
 processed: 1561556657992
 ---
 Digital security is hard. Even the best engineering and IT teams are prone to make mistakes at some point. But like airport security, steps and processes along the way keep you safe and secure.
@@ -67,7 +67,7 @@ We created a series of checks that can validate that our infrastructure and code
 2. Jobs are containers written in different programming languages (Go, Rust, JavaScript, Crystal).
 3. Each container writes a JSON file to a shared directory, tagged with the release ID.
 
-![The application uses an ESLint file to do a static code analysis.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/compliance_code_en_692e91ec4c.png)
+![The application uses an ESLint file to do a static code analysis.](https://de2an9clyit2x.cloudfront.net/compliance_code_en_692e91ec4c.png)
 
 4. We have a JavaScript app to watch a shared directory and ingest JSON files.
 5. The results get saved into MongoDB grouped by release and control.

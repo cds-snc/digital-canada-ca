@@ -10,12 +10,12 @@ description: >-
   so much more for inclusion than we could ever do alone.
 author: 'Julianna Rowsell, Accessibility and Inclusive Services Lead'
 date: 2019-12-02T21:21:24.147Z
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/accessibility_handbook_blog_00d02c5777.jpg
+image: https://de2an9clyit2x.cloudfront.net/accessibility_handbook_blog_00d02c5777.jpg
 image-alt: >-
   A headshot of Lead of Accessibility and Inclusion Services, Julianna Rowsell,
   standing in front of a purple wall.
 translationKey: accessibility-handbook
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_accessibility_handbook_blog_00d02c5777.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_accessibility_handbook_blog_00d02c5777.jpg
 processed: 1581626526310
 ---
 Ten! Ten years, that’s how long I’ve worked in accessibility within the public service. I’ve watched the community grow and change as new faces have come and gone. Many people involved in accessibility in the public service when I first started out are still spearheading the charge today. We are a small, but mighty community, crossing departments and sectors to help improve access to services for people.
@@ -43,7 +43,7 @@ We hosted accessibility days and started documenting the changes we were making.
 
 Developers were talking to developers in other organizations about the importance of accessibility testing and how they could automate it. More importantly, they were talking about the need to do manual testing too. Designers were sharing articles, tools and tips on how to design accessibly. Plain language has also become a staple in our vocabulary. The impact of having someone in an organization talking about accessibility and inclusion on a daily basis paid off in unexpected ways. I wrote a personal blog post and shared it in a slack message on how comms teams can improve accessibility. Weeks later, I saw our own comms team was [implementing accessibility in new ways](https://mobile.twitter.com/cube_drone/status/1129094022788599808). 
 
-![Annotated tweet that CDS posted in May of a bird waving "hi", with alt-text in square brackets reading "Bird waving hi".](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/accessibility_handbook_post1_f5b616206d.jpg)
+![Annotated tweet that CDS posted in May of a bird waving "hi", with alt-text in square brackets reading "Bird waving hi".](https://de2an9clyit2x.cloudfront.net/accessibility_handbook_post1_f5b616206d.jpg)
 
 We have developed an accessibility community by using empathy, being engaged and prioritizing it. 
 
@@ -56,7 +56,7 @@ Four months ago I started having open office hours for accessibility across sect
 * What is the law?
 * How do I learn to test for accessibility and build skills like you’ve done?
 
-![Julianna has open office hours on Thursdays between 1-3pm on topics related to accessibility. Use twitter @juliannarowsell or send her an email at julie-ann.rowsell@tbs-sct.gc.ca to connect and collaborate.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/accessibility_handbook_post2_3b1bed65aa.jpg)
+![Julianna has open office hours on Thursdays between 1-3pm on topics related to accessibility. Use twitter @juliannarowsell or send her an email at julie-ann.rowsell@tbs-sct.gc.ca to connect and collaborate.](https://de2an9clyit2x.cloudfront.net/accessibility_handbook_post2_3b1bed65aa.jpg)
 
 **What’s next?**
 The goal is to help scale inclusion across the government.

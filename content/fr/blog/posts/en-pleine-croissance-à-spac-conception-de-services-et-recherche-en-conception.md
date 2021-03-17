@@ -34,7 +34,7 @@ Il est important que nous puissions atteindre un équilibre, celui de s’assure
 
 Trouver des concepteurs de services prêts à s’atteler aux services internes ne fut pas une mince tâche. Mais nous avons désormais une excellente équipe de concepteurs de services et de chercheurs auprès des utilisateurs qui appuient la modernisation de l’approvisionnement, une équipe que nous espérons continuer d’agrandir. Nous avons formé des employés déjà existants, nous avons recruté des talents provenant du gouvernement, et nous attirons des talents externes par l’entremise du [Nuage de talents](https://talent.canada.ca/fr), la nouvelle plateforme expérimentale d’embauche du gouvernement du Canada pour les emplois axés sur des projets.
 
-![Photo de l’équipe de recherche en conception à SPAC.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/pspc_team_2_19f5e7b2f2.jpg)
+![Photo de l’équipe de recherche en conception à SPAC.](https://de2an9clyit2x.cloudfront.net/pspc_team_2_19f5e7b2f2.jpg)
 
 ## Susciter l’empathie
 

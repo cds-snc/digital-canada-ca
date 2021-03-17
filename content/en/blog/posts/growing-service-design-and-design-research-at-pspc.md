@@ -30,7 +30,7 @@ At Public Services and Procurement Canada (PSPC), we serve Canadians by serving 
 
 Finding service design talent willing to work on internal services was tough, but we now have a great team of service designers and user researchers supporting Procurement Modernization, and we’re hoping to grow that team further. We trained existing employees, recruited talent from within government and are pulling in external talent through [TalentCloud](https://talent.canada.ca/en) - the Government of Canada's experimental new hiring platform for project-based or "gig" employment.
 
-![A photo of PSPC’s Design Research team.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/pspc_team_2_19f5e7b2f2.jpg)
+![A photo of PSPC’s Design Research team.](https://de2an9clyit2x.cloudfront.net/pspc_team_2_19f5e7b2f2.jpg)
 
 ## Building empathy
 

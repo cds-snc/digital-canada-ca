@@ -4,9 +4,9 @@ title: Reflecting on what I learned from working on design research operations
 description: COVID-19 brought unexpected change to how people work. This was true for our design research team, who used this change as an opportunity to lay the groundwork for design research operations. One of our researchers reflects on this shift and what she learned from it.
 author: 'Anne-Marie Mulumba, Design Research'
 date: '2021-02-23T23:00:00.000Z'
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/anne_marie_blog_banner_b51d016be3.jpg
+image: https://de2an9clyit2x.cloudfront.net/anne_marie_blog_banner_b51d016be3.jpg
 image-alt: A person looking at their reflection, seeing their accomplishments and how it’s formed them into the person they are.
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_anne_marie_blog_banner_b51d016be3.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_anne_marie_blog_banner_b51d016be3.jpg
 translationKey: blog-design-research-ops
 ---
 Most of us know that work often ends up including more than the job description outlined. Our values and personality, the relationships we build, and the way we approach our work  ultimately influence the impact we have and the direction a role can take.

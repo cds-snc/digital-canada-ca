@@ -41,7 +41,7 @@ For example, “Yankee” can be offensive, and “foxtrot” is tied to specifi
 
 **We wondered if we could find words for our context and reality. If so, how would we identify and select these words?**
 
-![An alphanumeric key (284 FKQ 889) being read out in numbers and words: “two, eight, four, family, kangaroo, question, eight, eight, eight, nine”.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_phonetic_en_7b8f349804.jpg)
+![An alphanumeric key (284 FKQ 889) being read out in numbers and words: “two, eight, four, family, kangaroo, question, eight, eight, eight, nine”.](https://de2an9clyit2x.cloudfront.net/blog_phonetic_en_7b8f349804.jpg)
 
 ## Choosing our alphabet
 

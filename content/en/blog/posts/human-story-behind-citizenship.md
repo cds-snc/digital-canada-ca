@@ -30,7 +30,7 @@ Our partners in the client experience branch at IRCC have been [leading departme
 
 Together we found two major pain points and set out to fix them.
 
-![A Canadian flag with a sign showing where Citizenship Ceremonies and Test Sessions take place.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_human_story_citizenship2_1b4e1c62c9.png)
+![A Canadian flag with a sign showing where Citizenship Ceremonies and Test Sessions take place.](https://de2an9clyit2x.cloudfront.net/blog_human_story_citizenship2_1b4e1c62c9.png)
 
 <p class="translation-caption">Citizenship test centre in Ottawa, Ontario</p>
 
@@ -42,7 +42,7 @@ People applying for citizenship come from 23 different countries and speak 190 l
 
 Towards the end of the citizenship process, you get a letter in the mail notifying you about your test date. Here’s what this letter looked like:
 
-![The original letter is titled “Notice to Appear” and is dense with text.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/notice_to_appear_English_f19f1c3125.png)
+![The original letter is titled “Notice to Appear” and is dense with text.](https://de2an9clyit2x.cloudfront.net/notice_to_appear_English_f19f1c3125.png)
 
 * NOTICE TO APPEAR sets a harsh tone and feels like a summons
 * ‘government speak’ is impersonal and complicated
@@ -74,7 +74,7 @@ We heard first hand how scared people were to ask, fearing their whole citizensh
 
 We set out to make the process smoother for both members of the public and staff. Here’s what we did.
 
-![The newly designed letter is less dense and more personal congratulating the recipient on reaching the next step of the citizenship process. It also provides a checklist with items to bring to the appointment. There is a large button at the bottom to request a new appointment.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/notice_to_appear_English2_bdd93346b2.png)
+![The newly designed letter is less dense and more personal congratulating the recipient on reaching the next step of the citizenship process. It also provides a checklist with items to bring to the appointment. There is a large button at the bottom to request a new appointment.](https://de2an9clyit2x.cloudfront.net/notice_to_appear_English2_bdd93346b2.png)
 
 * Improved tone, removed ‘government speak’ and used positive language
 * Clear, simple, and easy to understand
@@ -84,15 +84,15 @@ Now, when someone needs to reschedule their test, they follow the link in the em
 
 This is particularly helpful because other services can now also work in this way. Having all requests come through the online service also helps local office staff by keeping everything in a single channel — their email inbox.
 
-![Question asking “Why are you rescheduling?” with the options “Travel (business or vacation), Medical, Work or school, Family, and Other”](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_human_story_reason_en_cbe8c42009.png)
+![Question asking “Why are you rescheduling?” with the options “Travel (business or vacation), Medical, Work or school, Family, and Other”](https://de2an9clyit2x.cloudfront.net/blog_human_story_reason_en_cbe8c42009.png)
 
 <p class="translation-caption">The radio button checklist reassures people their needs are valid (travel, study, work)</p>
 
-![A checkbox asks whether you need to reschedule your family too. A text box allows you to enter the full name for each family member you want to reschedule.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_human_story_family_en_665c6cca79.png)
+![A checkbox asks whether you need to reschedule your family too. A text box allows you to enter the full name for each family member you want to reschedule.](https://de2an9clyit2x.cloudfront.net/blog_human_story_family_en_665c6cca79.png)
 
 <p class="translation-caption">The family checkbox keeps family groups together</p>
 
-![The confirmation page shows that the request has been received and indicates next steps and contact information.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_human_story_confirmation_en_d0240bcc3f.png)
+![The confirmation page shows that the request has been received and indicates next steps and contact information.](https://de2an9clyit2x.cloudfront.net/blog_human_story_confirmation_en_d0240bcc3f.png)
 
 <p class="translation-caption">The confirmation page provides immediate acknowledgement of receipt, and clarity on what happens next</p>
 

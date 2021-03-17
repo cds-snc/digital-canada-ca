@@ -4,9 +4,9 @@ title: Learning to make Twitter content more accessible
 description: As one of our co-op students learned when she joined CDS as a content creator for social media, learning isn’t just for students and it’s a continuous process. Here are some easy steps she learned to make our Twitter content more accessible.
 author: 'Jo Button, Outreach'
 date: '2021-03-12T15:00:00.000Z'
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/accessibility_tweets_blog_banner_650f003408.jpg
+image: https://de2an9clyit2x.cloudfront.net/accessibility_tweets_blog_banner_650f003408.jpg
 image-alt: A person using screen reading technology with their phone.
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_accessibility_tweets_blog_banner_650f003408.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_accessibility_tweets_blog_banner_650f003408.jpg
 translationKey: blog-accessible-tweets
 ---
 No one likes to be excluded or have their needs and feelings not considered. At least, I know I sure don’t.
