@@ -1,6 +1,6 @@
 ---
 layout: blog
-title:  Apprendre à rendre le contenu sur Twitter plus accessible 
+title: ' Apprendre à rendre le contenu sur Twitter plus accessible '
 description: >-
   Comme l’a découvert l’une de nos étudiantes coop à son arrivée au SNC en tant que créatrice de contenu pour les médias sociaux, apprendre n’est pas réservé aux étudiants, c’est un processus continu. Voici quelques trucs qu’elle a appris pour rendre notre contenu sur Twitter plus accessible.
 author: 'Jo Button, Liaison et diffusion'
