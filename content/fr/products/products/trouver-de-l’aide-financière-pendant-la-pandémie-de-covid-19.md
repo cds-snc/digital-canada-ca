@@ -1,5 +1,5 @@
 ---
-title: Trouver de l’aide financière pendant la pandémie de COVID-19
+title: 'Trouver de l’aide financière pendant la pandémie de COVID-19'
 translationKey: benefits-finder
 description: >-
   Outil en ligne permettant aux personnes de trouver et de comprendre rapidement à quelle aide financière elles sont admissibles pendant la pandémie de COVID-19.
