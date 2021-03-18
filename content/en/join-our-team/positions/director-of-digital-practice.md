@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Director of Digital Practice
-description: We are looking for a Director of Digital Practice to empower and support our teams and their leaders as CDS enters its next phase of significant growth. CDS’ digital communities (Design, Design Research, Product Management, and Software Development) make up the multidisciplinary digital product teams in both our Partnership and Platform business units, that advance the mission of CDS.
+title: 'Director of Digital Practice'
+description: >-
+  We are looking for a Director of Digital Practice to empower and support our teams and their leaders as CDS enters its next phase of significant growth. CDS’ digital communities (Design, Design Research, Product Management, and Software Development) make up the multidisciplinary digital product teams in both our Partnership and Platform business units, that advance the mission of CDS.
 archived: true
 translationKey: director-digital-practice
 leverId: c284600b-aa90-4bc9-86b3-ca6aad8f45a7
