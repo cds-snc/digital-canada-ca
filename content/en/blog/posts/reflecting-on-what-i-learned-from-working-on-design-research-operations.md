@@ -1,7 +1,8 @@
 ---
 layout: blog
 title: Reflecting on what I learned from working on design research operations
-description: COVID-19 brought unexpected change to how people work. This was true for our design research team, who used this change as an opportunity to lay the groundwork for design research operations. One of our researchers reflects on this shift and what she learned from it.
+description: >-
+  COVID-19 brought unexpected change to how people work. This was true for our design research team, who used this change as an opportunity to lay the groundwork for design research operations. One of our researchers reflects on this shift and what she learned from it.
 author: 'Anne-Marie Mulumba, Design Research'
 date: '2021-02-23T23:00:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/anne_marie_blog_banner_b51d016be3.jpg
