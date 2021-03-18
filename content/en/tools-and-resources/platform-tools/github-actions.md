@@ -1,5 +1,5 @@
 ---
-title: GitHub actions
+title: 'GitHub actions'
 translationKey: github-actions
 description: >-
   A repository that tracks all the GitHub actions anyone at CDS creates.
