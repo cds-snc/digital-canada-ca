@@ -91,8 +91,8 @@ exec:
   - archived: false
     name: Leanne Labelle
     title:
-      en: Head of Procurement
-      fr: Chef de l’approvisionnement
+      en: Head of Platform Growth
+      fr: Chef du Développement Commercial
     imagehash: leane_labelle_54635926a6
     email: leanne.labelle@tbs-sct.gc.ca
     linkedin: leannelabelle
@@ -286,7 +286,7 @@ team:
     name: Emily Kuret
     title:
       en: Design
-      fr: Conceptionemily.kuret@tbs-sct.gc.ca
+      fr: Conception
     imagehash: small_emily_kuret_dcd8f527da
     email: emily.kuret@tbs-sct.gc.ca
   - archived: false
@@ -603,6 +603,5 @@ team:
       fr: Liaison et diffusion
     imagehash: victoria_chan_639fffb1c6
     email: victoria.chan@tbs-sct.gc.ca
-    github: victoriachanimal
     linkedin: victoriakaychan
     twitter: vchanimal
