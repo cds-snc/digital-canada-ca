@@ -1,5 +1,5 @@
 ---
-title: Application de breffage électronique
+title: 'Application de breffage électronique'
 translationKey: tbs-e-briefing
 description: >-
   Une application pour remplacer les cahiers de breffage papier.
