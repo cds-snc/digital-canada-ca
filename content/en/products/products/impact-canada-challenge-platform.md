@@ -1,5 +1,5 @@
 ---
-title: Impact Canada Challenge Platform
+title: 'Impact Canada Challenge Platform'
 translationKey: pco-impact-canada
 description: >-
   A scalable, reusable platform that creates new opportunities for innovators and entrepreneurs to help solve Canada’s biggest challenges.
