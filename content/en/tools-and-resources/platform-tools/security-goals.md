@@ -1,5 +1,5 @@
 ---
-title: Security goals
+title: 'Security goals'
 translationKey: security-goals
 description: >-
   A tool that runs automated security and accessibility compliance checks at every deployment for Kubernetes based applications.
