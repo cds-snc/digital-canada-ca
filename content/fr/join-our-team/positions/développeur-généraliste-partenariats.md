@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Développeur généraliste (partenariats)
-description: Pour appuyer cette importante mission, nous sommes à la recherche de Développeurs généralistes. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que celles mentionnées.
+title: 'Développeur généraliste (partenariats)'
+description: >-
+  Pour appuyer cette importante mission, nous sommes à la recherche de Développeurs généralistes. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que celles mentionnées.
 archived: false
 translationKey: full-stack-dev-partnerships
 leverId: c632acb2-ad72-4de0-b6d6-ae3656071c79

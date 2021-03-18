@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Communicateur narratif/Communicatrice narrative et conseiller/conseillère en relations avec les médias
-description: Relevant de la chef de liaison et diffusion, cette personne est responsable des relations avec les médias pour le SNC, d’assurer la liaison avec nos partenaires sur les besoins des médias pour nos projets et d’aider à raconter l’histoire du SNC. Au SNC, nous pensons que notre mission est mieux comprise en racontant les histoires des personnes qui utilisent et construisent nos produits.
+title: 'Communicateur narratif/Communicatrice narrative et conseiller/conseillère en relations avec les médias'
+description: >-
+  Relevant de la chef de liaison et diffusion, cette personne est responsable des relations avec les médias pour le SNC, d’assurer la liaison avec nos partenaires sur les besoins des médias pour nos projets et d’aider à raconter l’histoire du SNC. Au SNC, nous pensons que notre mission est mieux comprise en racontant les histoires des personnes qui utilisent et construisent nos produits.
 archived: true
 translationKey: storyteller-media-relations
 leverId: acd80e98-0d20-48b0-aca8-cff7a7b2e7a4

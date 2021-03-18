@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Learning to make Twitter content more accessible
+title: 'Learning to make Twitter content more accessible'
 description: >-
   As one of our co-op students learned when she joined CDS as a content creator for social media, learning isn’t just for students and it’s a continuous process. Here are some easy steps she learned to make our Twitter content more accessible.
 author: 'Jo Button, Outreach'

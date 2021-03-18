@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Démystifier les mythes des équipes de talents pour embaucher des équipes multidisciplinaires
+title: 'Démystifier les mythes des équipes de talents pour embaucher des équipes multidisciplinaires'
 description: >-
   Nous avons parlé de la façon dont nous travaillons dans de nouvelles sortes d'équipes, mais nous avons omis une partie importante : comment bâtir ces équipes en premier lieu ? Dans ce billet de blogue, nous avons collaboré avec le Bureau de la dirigeante principale des ressources humaines (BDPRH) pour répondre à certaines des questions les plus courantes qui nous sont posées autour de l'embauche d'équipes multidisciplinaires. 
 author: 'Megan Beretta, SNC; Linda McNamara et Shelina Virani-Potvin, Bureau de la dirigeante principale des ressources humaines'

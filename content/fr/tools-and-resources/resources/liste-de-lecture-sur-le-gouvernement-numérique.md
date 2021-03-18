@@ -1,5 +1,5 @@
 ---
-title: Liste de lecture sur le gouvernement numérique
+title: 'Liste de lecture sur le gouvernement numérique'
 translationKey: reading-list
 description: >-
   Une liste d’articles pour en apprendre davantage sur la prestation de services numériques et la modernisation de la technologie.

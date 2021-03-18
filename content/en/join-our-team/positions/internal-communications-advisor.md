@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Internal Communications Advisor
-description: We are looking for an Internal Communications Advisor. Reporting to the Head of Outreach, with a dotted-line to the Head of Talent, this Sr. Internal Communications Advisor will be responsible for setting and executing on an internal communications strategy for our growing organization.
+title: 'Internal Communications Advisor'
+description: >-
+  We are looking for an Internal Communications Advisor. Reporting to the Head of Outreach, with a dotted-line to the Head of Talent, this Sr. Internal Communications Advisor will be responsible for setting and executing on an internal communications strategy for our growing organization.
 archived: true
 translationKey: internal-communications-advisor
 leverId: 588bfcdb-d182-43c5-a5aa-27a23f71b01f

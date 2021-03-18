@@ -1,5 +1,5 @@
 ---
-title: Help public servants create and manage forms
+title: 'Help public servants create and manage forms'
 translationKey: forms
 description: >-
   Publishing simple, accessible, and online forms that the public can use to get the services or benefits they need.

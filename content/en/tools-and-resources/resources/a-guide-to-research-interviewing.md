@@ -1,5 +1,5 @@
 ---
-title: A guide to research interviewing
+title: 'A guide to research interviewing'
 translationKey: guide-interviewing
 description: >-
   A 101 on research interviewing.

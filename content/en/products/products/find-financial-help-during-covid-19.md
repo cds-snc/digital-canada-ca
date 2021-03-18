@@ -1,5 +1,5 @@
 ---
-title: Find financial help during COVID-19
+title: 'Find financial help during COVID-19'
 translationKey: benefits-finder
 description: >-
   An online tool to help individuals quickly find and understand what financial help is available to them during the COVID-19 pandemic.

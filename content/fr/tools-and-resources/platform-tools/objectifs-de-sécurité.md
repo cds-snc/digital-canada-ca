@@ -1,5 +1,5 @@
 ---
-title: Objectifs de sécurité
+title: 'Objectifs de sécurité'
 translationKey: security-goals
 description: >-
   Cet outil exécute des vérifications de conformité automatisées de sécurité et d’accessibilité à chaque déploiement d’applications basées sur Kubernetes.

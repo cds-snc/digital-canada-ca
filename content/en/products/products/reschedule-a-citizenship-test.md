@@ -1,5 +1,5 @@
 ---
-title: Reschedule a citizenship test
+title: 'Reschedule a citizenship test'
 translationKey: ircc-rescheduler
 description: >-
   A service that allows people to reschedule their citizenship test online, moving away from paper-based processes and providing a simpler, easier and faster user experience for citizenship applicants.

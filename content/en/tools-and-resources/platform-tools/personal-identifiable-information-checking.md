@@ -1,5 +1,5 @@
 ---
-title: Personal identifiable information checking
+title: 'Personal identifiable information checking'
 translationKey: pii-tracker
 description: >-
   A tool that checks if an application is anonymizing IPs when submitting information to Google Analytics.

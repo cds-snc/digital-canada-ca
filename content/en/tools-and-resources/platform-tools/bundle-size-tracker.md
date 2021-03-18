@@ -1,5 +1,5 @@
 ---
-title: Bundle size tracker
+title: 'Bundle size tracker'
 translationKey: bundle-tracker
 description: >-
   A cloud function that records changes in your bundle size over time.

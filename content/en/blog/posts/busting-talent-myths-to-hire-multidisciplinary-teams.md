@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Busting talent myths to hire multidisciplinary teams
+title: 'Busting talent myths to hire multidisciplinary teams'
 description: >-
   We’ve talked about how we work in new kinds of team, but we’ve skipped over an important part: how do you build these teams in the first place? In this blog post, we’ve teamed up with the Office of the Chief Human Resource Officer (OCHRO) to answer some of the most common questions we get around hiring multidisciplinary teams. 
 author: 'Megan Beretta, CDS; Linda McNamara and Shelina Virani-Potvin, Office of the Chief Human Resources Officer'

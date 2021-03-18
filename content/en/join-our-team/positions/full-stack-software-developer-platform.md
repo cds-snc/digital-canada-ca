@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Full Stack Software Developer (Platform)
-description: We’re hiring Full Stack Software Developers. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
+title: 'Full Stack Software Developer (Platform)'
+description: >-
+  We’re hiring Full Stack Software Developers. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
 archived: false
 translationKey: full-stack-dev-platform
 leverId: cd488c0a-cfbf-466b-9d10-1a3c22b1eeeb
