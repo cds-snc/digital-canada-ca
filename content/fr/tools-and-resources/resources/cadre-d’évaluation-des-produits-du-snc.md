@@ -1,5 +1,5 @@
 ---
-title: Cadre d’évaluation des produits du SNC
+title: 'Cadre d’évaluation des produits du SNC'
 translationKey: evaluation-framework
 description: >-
   Un aperçu de la façon dont le SNC évalue les produits et de la façon dont ils sont livrés.
