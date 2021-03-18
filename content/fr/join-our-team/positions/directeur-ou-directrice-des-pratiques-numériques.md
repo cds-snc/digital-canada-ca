@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Directeur ou directrice des pratiques numériques
-description: Nous sommes à la recherche d’un directeur ou d’une directrice des pratiques numériques qui pourra outiller et aider nos équipes et nos chefs d’équipe à l’amorce d’une phase de grande croissance pour le SNC. Les communautés numériques de l’organisation (conception, recherche en conception, gestion de produits et développement logiciel) servent à former des équipes de produits multidisciplinaires au sein des deux unités opérationnelles (partenariats et plateforme) qui font avancer la mission du SNC.
+title: 'Directeur ou directrice des pratiques numériques'
+description: >-
+  Nous sommes à la recherche d’un directeur ou d’une directrice des pratiques numériques qui pourra outiller et aider nos équipes et nos chefs d’équipe à l’amorce d’une phase de grande croissance pour le SNC. Les communautés numériques de l’organisation (conception, recherche en conception, gestion de produits et développement logiciel) servent à former des équipes de produits multidisciplinaires au sein des deux unités opérationnelles (partenariats et plateforme) qui font avancer la mission du SNC.
 archived: true
 translationKey: director-digital-practice
 leverId: c284600b-aa90-4bc9-86b3-ca6aad8f45a7
