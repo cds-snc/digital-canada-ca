@@ -1,5 +1,5 @@
 ---
-title: Application mobile de notification d’exposition du gouvernement du Canada
+title: 'Application mobile de notification d’exposition du gouvernement du Canada'
 translationKey: exposure-notifications
 description: >-
   Application mobile fédérale visant à ralentir la propagation de la COVID-19 au Canada en avisant les Canadiens de leurs expositions tout en protégeant complètement leur vie privée.
