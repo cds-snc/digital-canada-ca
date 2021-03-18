@@ -1,5 +1,5 @@
 ---
-title: Un guide pour les tests d’utilisabilité
+title: 'Un guide pour les tests d’utilisabilité'
 translationKey: usability-testing
 description: >-
   L’abc des tests d’utilisabilité.
