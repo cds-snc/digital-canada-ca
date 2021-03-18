@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Développeur de logiciel senior / principal(e) (Python)
-description: Nous recrutons des Développeurs de logiciel principal(e) et senior. Bien que nous ayons des bureaux à Ottawa, Montréal, Toronto et Kitchener, nous travaillons en grande partie de manière distribuée et nous embauchons également des candidats dans d'autres régions du Canada.
+title: 'Développeur de logiciel senior / principal(e) (Python)'
+description: >-
+  Nous recrutons des Développeurs de logiciel principal(e) et senior. Bien que nous ayons des bureaux à Ottawa, Montréal, Toronto et Kitchener, nous travaillons en grande partie de manière distribuée et nous embauchons également des candidats dans d'autres régions du Canada.
 archived: false
 translationKey: senior-software-developer-python
 leverId: 7733ffc7-8df0-4ff2-bef3-f4e97b52e5de
