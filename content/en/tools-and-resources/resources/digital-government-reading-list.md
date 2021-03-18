@@ -1,5 +1,5 @@
 ---
-title: Digital government reading list
+title: 'Digital government reading list'
 translationKey: reading-list
 description: >-
   A list of articles to learn more about digital service delivery and technology modernization.
