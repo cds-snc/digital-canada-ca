@@ -1,5 +1,5 @@
 ---
-title: Plateforme de défis Impact Canada
+title: 'Plateforme de défis Impact Canada'
 translationKey: pco-impact-canada
 description: >-
   Une plateforme évolutive et réutilisable qui donne aux innovateurs et aux entrepreneurs de nouvelles occasions d’aider à résoudre les plus grands défis du Canada.
