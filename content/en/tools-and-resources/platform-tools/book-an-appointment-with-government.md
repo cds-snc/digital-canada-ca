@@ -1,5 +1,5 @@
 ---
-title: Book an appointment with government
+title: 'Book an appointment with government'
 translationKey: bookings
 description: >-
   Researching a common way of booking appointments with government, to get people the in-person assistance they need.
