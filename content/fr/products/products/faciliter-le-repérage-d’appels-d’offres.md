@@ -1,5 +1,5 @@
 ---
-title: Faciliter le repérage d’appels d’offres
+title: 'Faciliter le repérage d’appels d’offres'
 translationKey: pspc-product
 description: >-
   Exploration d’un service qui permet de créer un point d’accès unique et moderne pour tous les appels d’offres lancés par les gouvernements et par les institutions universitaires, sociales et de santé qui sont financées par les fonds publics.
