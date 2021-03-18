@@ -1,5 +1,5 @@
 ---
-title: Prendre rendez-vous avec le gouvernement
+title: 'Prendre rendez-vous avec le gouvernement'
 translationKey: bookings
 description: >-
   Recherche d’une méthode commune de prise de rendez-vous avec le gouvernement qui permet aux gens d’obtenir l’assistance en personne dont ils ont besoin.
