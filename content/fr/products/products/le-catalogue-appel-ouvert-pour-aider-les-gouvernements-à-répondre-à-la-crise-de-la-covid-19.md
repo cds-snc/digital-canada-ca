@@ -1,5 +1,5 @@
 ---
-title: Le catalogue Appel ouvert, pour aider les gouvernements à répondre à la crise de la COVID-19
+title: 'Le catalogue Appel ouvert, pour aider les gouvernements à répondre à la crise de la COVID-19'
 translationKey: open-call
 description: >-
   Appel ouvert est un catalogue d’outils à code source libre gratuits dont peuvent se servir les administrations publiques pour aider les personnes pendant la pandémie de la COVID-19.
