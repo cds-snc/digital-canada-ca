@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Gestionnaire de livraison agile sénior (Alerte Covid)
-description: Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) Gestionnaire de livraison agile sénior. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que celles mentionnées.
+title: 'Gestionnaire de livraison agile sénior (Alerte Covid)'
+description: >-
+  Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) Gestionnaire de livraison agile sénior. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que celles mentionnées.
 archived: false
 translationKey: sr-agile-delivery-manager
 leverId: 9f8e6fae-63c8-4b9d-86f9-a366b32d4fbe
