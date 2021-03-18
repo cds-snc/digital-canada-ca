@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Conseiller / Conseillère en communications internes
-description: Relevant du chef de liaison et diffusion, avec une relation en pointillé avec le chef des talents, le/la conseiller/conseillère en communications internes sera chargé d’établir et d’exécuter une stratégie de communications internes pour notre organisation en croissance.
+title: 'Conseiller / Conseillère en communications internes'
+description: >-
+  Relevant du chef de liaison et diffusion, avec une relation en pointillé avec le chef des talents, le/la conseiller/conseillère en communications internes sera chargé d’établir et d’exécuter une stratégie de communications internes pour notre organisation en croissance.
 archived: true
 translationKey: internal-communications-advisor
 leverId: 588bfcdb-d182-43c5-a5aa-27a23f71b01f
