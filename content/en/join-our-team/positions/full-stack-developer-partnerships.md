@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Full Stack Developer (Partnerships)
-description: We’re hiring Senior and Principal Software Developers. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
+title: 'Full Stack Developer (Partnerships)'
+description: >-
+  We’re hiring Senior and Principal Software Developers. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
 archived: false
 translationKey: full-stack-dev-partnerships
 leverId: c632acb2-ad72-4de0-b6d6-ae3656071c79
