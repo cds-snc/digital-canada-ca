@@ -7,12 +7,12 @@ description: >-
   phone to patients during a stressful time.
 author: 'Élise Cossette, Outreach and Yedida Zalik, Content Design'
 date: 2020-10-27T12:56:48.422Z
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/banner_phonetic_alphabetic_blog_8f889946bb.jpg
+image: https://de2an9clyit2x.cloudfront.net/banner_phonetic_alphabetic_blog_8f889946bb.jpg
 image-alt: >-
   A healthcare worker successfully communicating a one-time key to a patient
   over the phone.
 translationKey: phonetic-alphabet-blog
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_banner_phonetic_alphabetic_blog_8f889946bb.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_banner_phonetic_alphabetic_blog_8f889946bb.jpg
 processed: 1603809166911
 ---
 Healthcare workers put themselves at risk to keep us safe. They also play a crucial role in the success of the COVID Alert app. 

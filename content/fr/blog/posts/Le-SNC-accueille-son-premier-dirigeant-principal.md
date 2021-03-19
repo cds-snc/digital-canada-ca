@@ -6,10 +6,10 @@ description: >-
   candidats de partout dans le monde.
 author: "Anatole\_Papadopoulos, directeur exécutif"
 date: '2018-03-09 09:00:00 -0400'
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_aaron_snow_eae49285b0.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_aaron_snow_eae49285b0.jpg
 image-alt: Aaron Snow
 translationKey: CDS-gets-its-first-CEO
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_aaron_snow_eae49285b0.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_aaron_snow_eae49285b0.jpg
 processed: 1550672961791
 ---
 

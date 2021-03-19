@@ -8,12 +8,12 @@ description: >-
   order to allow everyone to feel like they were included in the fight. 
 author: 'Sam Sadasivan, Senior Service Designer'
 date: 2020-11-26T14:14:53.427Z
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/banner_covid_alert_illustration_7da49c6dc3.jpg
+image: https://de2an9clyit2x.cloudfront.net/banner_covid_alert_illustration_7da49c6dc3.jpg
 image-alt: >-
   People drawn as simplified stick figures in different types and coloured
   clothing, going about their day. 
 translationKey: blog-illustrating-covid-alert
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_banner_covid_alert_illustration_7da49c6dc3.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_banner_covid_alert_illustration_7da49c6dc3.jpg
 processed: 1606408373962
 ---
 A healthcare app that reminds us of a particularly difficult time is not always going to be a comfortable experience to build - or to use. 

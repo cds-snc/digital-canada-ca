@@ -9,12 +9,12 @@ description: >-
   que tous puissent sentir qu’ils font partie de la lutte.
 author: 'Sam Sadasivan, Conception de services'
 date: 2020-11-26T14:40:26.743Z
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/banner_covid_alert_illustration_7da49c6dc3.jpg
+image: https://de2an9clyit2x.cloudfront.net/banner_covid_alert_illustration_7da49c6dc3.jpg
 image-alt: >-
   Des personnes dessinées en bonhommes allumettes, portant divers types de
   vêtements de différentes couleurs et se promenant.
 translationKey: blog-illustrating-covid-alert
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_banner_covid_alert_illustration_7da49c6dc3.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_banner_covid_alert_illustration_7da49c6dc3.jpg
 processed: 1606408374031
 ---
 Une application mobile sanitaire, qui se concentre sur un moment particulièrement difficile de notre vie, n’est pas toujours ce qu’il y a de plus agréable à construire — ou à utiliser. 

@@ -6,10 +6,10 @@ description: >-
   data.
 author: 'Jason White, Head of data science'
 date: '2018-02-15 09:00:00 -0400'
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_colocating_with_NRCAN_e846097048.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_colocating_with_NRCAN_e846097048.jpg
 image-alt: Jason and Dave standing in front of the building of Natural Resources Canada
 translationKey: colocating-with-NRCan
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_colocating_with_NRCAN_e846097048.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_colocating_with_NRCAN_e846097048.jpg
 processed: 1550672961662
 ---
 

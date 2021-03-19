@@ -3,12 +3,12 @@ title: Réflexions sur le recrutement de notre dirigeant principal
 description: "Nous avons récemment annoncé qu’Aaron\_Snow se joint au Service numérique canadien (SNC) en tant que notre premier dirigeant principal pour faire partie de notre mouvement numérique."
 author: 'Lena Trudeau, conseillère principale'
 date: '2018-04-09 09:00:00 -0400'
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_ceo_recruitment_883dc9d347.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_ceo_recruitment_883dc9d347.jpg
 image-alt: >-
   Le dirigeant principal Aaron Snow discute avec deux autres membres de
   l’équipe.
 translationKey: recruiting-our-ceo
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_ceo_recruitment_883dc9d347.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_ceo_recruitment_883dc9d347.jpg
 processed: 1550672962164
 ---
 

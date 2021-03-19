@@ -5,10 +5,10 @@ title: >-
 description: "Lorsque Ressources naturelles Canada (RNCan) est venu nous voir avec l’idée d’ouvrir l’accès aux données d’ÉnerGuide, la solution semblait assez évidente\_: concevoir une interface de programmation d’applications (API) qui permettrait aux utilisateurs d’interroger les données d’ÉnerGuide. Mais d’abord, il fallait valider la solution proposée. "
 author: Eman El-Fayomi et Jennifer Fletcher
 date: '2018-02-15 09:00:00 -0400'
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_conducting_user_research_with_NRCAN_cb9cb98c0d.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_conducting_user_research_with_NRCAN_cb9cb98c0d.jpg
 image-alt: Eman et Jennifer regardent le canevas de proposition de valeur
 translationKey: conducting-user-research-with-NRCan
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_conducting_user_research_with_NRCAN_cb9cb98c0d.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_conducting_user_research_with_NRCAN_cb9cb98c0d.jpg
 processed: 1550672961792
 ---
 

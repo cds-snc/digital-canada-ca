@@ -10,12 +10,12 @@ description: >-
   équipes multidisciplinaires.
 author: Andrea Gilbrook et Anatole Papadopoulos
 date: 2019-03-18T15:00:00.000Z
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/beetletoy_a7a60363e2.jpg
+image: https://de2an9clyit2x.cloudfront.net/beetletoy_a7a60363e2.jpg
 image-alt: >-
   Un jouet de voiture Volkswagen jaune sur une étagère en bois remplie de
   livres.
 translationKey: help-from-friends-HR
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_beetletoy_a7a60363e2.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_beetletoy_a7a60363e2.jpg
 processed: 1554413470134
 ---
 *[On s’en sort avec l’aide de nos amis] (https://numerique.canada.ca/2019/01/31/on-sen-sort-avec-laide-de-nos-amis/) est une série de billets de blogues mettant en vedette les fonctionnaires extraordinaires qui nous permettent, à nous et à nos partenaires, de concevoir et d’offrir de meilleurs services.*

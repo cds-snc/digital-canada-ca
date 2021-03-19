@@ -8,12 +8,12 @@ description: >-
   high-quality software products.
 author: 'Jason White, Head of data science'
 date: '2018-03-26 09:00:00 -0400'
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_automated_testing_76c2e620d6.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_automated_testing_76c2e620d6.jpg
 image-alt: >-
   Three people are sitting around a table working on laptops. One person is
   pointing at the screen of a person across the table, who gives a thumbs-up.
 translationKey: automated-testing-blog
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_automated_testing_76c2e620d6.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_automated_testing_76c2e620d6.jpg
 processed: 1550672961659
 ---
 

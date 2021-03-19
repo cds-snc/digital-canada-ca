@@ -6,10 +6,10 @@ description: >-
   co-create solutions.  
 author: Mario Garneau and Wendy Luciani
 date: '2017-12-07 09:00:00 -0400'
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_always_a_challenge_2017_dc42cb6789.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_always_a_challenge_2017_dc42cb6789.jpg
 image-alt: The homepage of the Impact Canada Challenge Platform
 translationKey: always-a-challenge
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_always_a_challenge_2017_dc42cb6789.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_always_a_challenge_2017_dc42cb6789.jpg
 processed: 1550672961655
 ---
 During our [engagement sessions](/beginning-the-conversation/full-report/), people told us that the government needed to identify ways to enable non-traditional players to work with government and co-create solutions.  

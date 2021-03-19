@@ -8,10 +8,10 @@ description: >-
   pages de notre site Web, y compris sur notre blogue.
 author: 'Dave Samojlenko, développeur'
 date: '2018-01-16 09:00:00 -0400'
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_accessibility_2018_52c1550c88.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_accessibility_2018_52c1550c88.jpg
 image-alt: Clavier avec des touches représentant des fonctionnalités d'accessibilité
 translationKey: challenging-our-assumption
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_accessibility_2018_52c1550c88.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_accessibility_2018_52c1550c88.jpg
 processed: 1550672962201
 ---
 
