@@ -6,10 +6,10 @@ description: >-
   hopes.
 author: 'Anatole Papadopoulos, Executive Director'
 date: '2017-07-25 10:00:00 -0400'
-image: /img/cds/blog-its-about-people-2017.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_its_about_people_2017_0d56d9b4e9.jpg
 image-alt: Anatole Papadopoulos speaking to some CDS staff
 translationKey: its-about-people
-thumb: /img/cds/thumbnails/blog-its-about-people-2017.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_its_about_people_2017_0d56d9b4e9.jpg
 processed: 1550672961722
 ---
 Putting users first. That’s what CDS is all about. When we talk about “digital government,” it often conjures up websites, APIs, and apps. They’re part of the toolkit. But digital government is about people: their needs, their experiences, their frustrations, even their hopes.

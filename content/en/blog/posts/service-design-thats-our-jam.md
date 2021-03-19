@@ -8,12 +8,12 @@ description: >-
   Canada.
 author: Charlotte Pedersen and Eman El-Fayomi
 date: '2018-07-26 09:00:00 -0400'
-image: /img/cds/blog-jam-header.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_jam_header_123dc590b3.jpg
 image-alt: >-
   Four people talk in front of a black board while coloured clouds swirl above
   their heads.
 translationKey: service-design-thats-our-jam
-thumb: /img/cds/thumbnails/blog-jam-header.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_jam_header_123dc590b3.jpg
 processed: 1550672961756
 ---
 

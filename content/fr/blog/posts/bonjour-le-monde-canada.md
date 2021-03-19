@@ -8,10 +8,10 @@ description: >-
   nous attend.
 author: 'Aaron Snow, Dirigeant principal'
 date: '2018-10-19 09:00:00 -0400'
-image: /img/cds/blog-hello-world-canada.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_hello_world_canada_548cf9565c.jpg
 image-alt: Des feuilles d’érable rouge.
 translationKey: hello-world-canada
-thumb: /img/cds/thumbnails/blog-hello-world-canada.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_hello_world_canada_548cf9565c.jpg
 processed: 1550672961801
 ---
 

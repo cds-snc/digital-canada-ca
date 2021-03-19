@@ -9,12 +9,12 @@ description: >-
   frontline staff. 
 author: Hillary Lorimer and Mithula Naik
 date: '2018-04-13 09:00:00 -0400'
-image: /img/cds/blog-ircc-april.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_ircc_april_9f8d1d0bfb.jpg
 image-alt: >-
   The waiting area at an IRCC client support centre with nine stations at the
   service counter.
 translationKey: reschedule-a-citizenship-appointment
-thumb: /img/cds/thumbnails/blog-ircc-april.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_ircc_april_9f8d1d0bfb.jpg
 processed: 1550672961748
 ---
 

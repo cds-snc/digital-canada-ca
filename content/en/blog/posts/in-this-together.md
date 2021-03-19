@@ -6,10 +6,10 @@ description: >-
   Service (CDS).
 author: 'Hillary Hartley, Chief Digital Officer, Government of Ontario'
 date: '2017-11-20 09:00:00 -0400'
-image: /img/cds/blog-in-this-together-2017.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_in_this_together_2017_082de0960c.jpg
 image-alt: The Ontario Digital Service team
 translationKey: in-this-together
-thumb: /img/cds/thumbnails/blog-in-this-together-2017.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_in_this_together_2017_082de0960c.jpg
 processed: 1550672961719
 ---
 A few weeks ago, I had the chance to participate in the [Connected150 conference](http://www.connected150.ca) and spend some time with our colleagues in the Canadian Digital Service (CDS). 

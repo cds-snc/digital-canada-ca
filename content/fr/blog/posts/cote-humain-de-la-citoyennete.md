@@ -8,12 +8,12 @@ description: >-
   des vies en mieux.
 author: 'Kylie Havelock, Gestionnaire de produits principale'
 date: '2018-10-23 09:00:00 -0400'
-image: /img/cds/blog-human-story-citizenship1.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_human_story_citizenship1_76d5a3f84e.jpg
 image-alt: >-
   Des personnes sont debouts et prononcent le serment de citoyenneté canadienne
   à une cérémonie à Vancouver
 translationKey: human-story-behind-citizenship
-thumb: /img/cds/thumbnails/blog-human-story-citizenship1.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_human_story_citizenship1_76d5a3f84e.jpg
 processed: 1550672961820
 ---
 
