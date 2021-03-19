@@ -71,6 +71,16 @@ exec:
     imagehash: small_emily_kuret_dcd8f527da
     email: emily.kuret@tbs-sct.gc.ca
   - archived: false
+    name: Jeff Maher
+    title:
+      en: Interim Director of Digital Practice
+      fr: Directeur par intérim des pratiques numériques
+    imagehash: jeff_maher_e8b4885317
+    email: jeff.maher@tbs-sct.gc.ca
+    github: jeffmaher
+    linkedin: jeffmaher
+    twitter: plusjeff
+  - archived: false
     name: John Millons
     title:
       en: Head of Policy
@@ -346,16 +356,6 @@ team:
     imagehash: jeana_frost_b05678fb7f
     email: jeana.frost@tbs-sct.gc.ca
     linkedin: jeanafrost
-  - archived: false
-    name: Jeff Maher
-    title:
-      en: Development
-      fr: Développement
-    imagehash: jeff_maher_e8b4885317
-    email: jeff.maher@tbs-sct.gc.ca
-    github: jeffmaher
-    linkedin: jeffmaher
-    twitter: plusjeff
   - archived: false
     name: Jennifer Fletcher
     title:
