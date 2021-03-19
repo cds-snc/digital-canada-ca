@@ -10,16 +10,20 @@ image-alt: A quilt woven together with different patches, designs, and team memb
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_ochro_blog_8f66eccf8f.jpeg
 translationKey: blog-busting-talent-myths
 ---
-Not long ago we talked about how we [get by with a little help from our friends](https://digital.canada.ca/2019/03/18/attracting-and-recruiting-top-talent-with-a-little-help-from-our-friends/). So we wanted to take it a step further, and share some myth busting from the Office of the Chief Human Resource Officer (OCHRO). One of the most common questions we get is around how we hire multidisciplinary teams.
+*Note: A previous version of this blog was posted in error.*
 
-We’ve talked about how we work in [new kinds of teams](https://digital.canada.ca/2018/08/21/productive-collaboration/), but we’ve skipped over an important part: how do you build these teams in the first place? Given the Government's classification system, there are some practices that have crept into our work, that some have adopted as hard and fast rules.
 
-Our friends at OCHRO recently made an important clarification. They stated that like roles aren’t required to report to like. For instance, a content designer who is in an IS role, could report to their manager who is an interaction designer classified as a CS. As long as it makes organizational design sense, *there are no rules against it*.
+We recently talked about how we [get by with a little help from our friends](https://digital.canada.ca/2019/03/18/attracting-and-recruiting-top-talent-with-a-little-help-from-our-friends/). One of the most common questions we get is how we hire multidisciplinary teams. So we reached out to  the Office of the Chief Human Resources Officer (OCHRO) for some answers and a bit of myth busting.
 
-Hiring managers had been sending OCHRO a lot of questions about hiring teams with different skills and needs. The office is showing leadership in removing barriers and enabling public servants.
+We’ve talked about how we work in [new kinds of teams](https://digital.canada.ca/2018/08/21/productive-collaboration/), but we’ve skipped over an important part: how do you build these teams in the first place? Within the Government's classification system, there are policy instruments in place that need to be respected, as well as some practices that have been adopted as hard and fast rules.
 
-It all starts with someone asking the question: *why not hire differently?* We often get entrenched in ways of working to reduce our risks, but sometimes they are based on an over-interpretation of policies.
+Our friends at OCHRO recently made an important clarification. While this is not new, they confirmed that  teams can include positions from different groups, working together on a multidisciplinary team. For instance, a content designer who is in an IS position, could report to their manager who is an interaction designer in a CS position. If it makes organizational design sense, fits within the mandate of the unit, and reflects the work assigned, it may be possible. A discussion with a classification specialist will confirm whether a multidisciplinary team is an option for you.
 
-We know how important it is for the government to enable hiring the right talent for the job. That’s why OCHRO has also clarified that an expert is hired at a senior but -non- executive level, and is paid at a level close to or higher than a manager. For example, a CS-5 security expert can be hired with no direct reports, reporting to their manager who is a CS-4 developer. It is important to have the right balance of technical skills and expertise on your team to do your best work. As long as these choices fit with the principles of organizational design, you can hire the experts you need.
+We know how important it is for the government to enable hiring the right talent for the job. That’s why OCHRO has also clarified that if an expert is hired at a senior but *non*-executive level on a multidisciplinary team, the position could be paid at a level close to or higher than its manager. The evaluation of work is dictated by the applicable job evaluation standard. OCHRO recognizes that it is important to have the right balance of technical skills and expertise on your team to do your best work. If these choices fit with the principles of organizational design, you can hire the experts you need.
 
-If you have more questions about hiring, your human resource teams can help you find the right design. Clarification from OCHRO will help deepen understanding of how multidisciplinary teams can add value to your department, and how to make it happen.
+OCHRO has received many questions from hiring managers about staffing teams with different skills and needs. The Office is showing leadership in enabling public servants by supporting multidisciplinary teams and in promoting innovative classification solutions.
+
+
+We often get entrenched in ways of working to reduce risk, which may in fact, unnecessarily limit flexibility. It all starts with someone asking the question: *why not hire differently?* If you have more questions about hiring, your human resource teams can help. 
+
+
