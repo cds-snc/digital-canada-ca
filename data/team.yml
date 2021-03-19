@@ -64,6 +64,13 @@ exec:
     linkedin: eelfayomi
     twitter: emanelfy
   - archived: false
+    name: Emily Kuret
+    title:
+      en: Director - COVID Alert
+      fr: Directrice - Alerte COVID
+    imagehash: small_emily_kuret_dcd8f527da
+    email: emily.kuret@tbs-sct.gc.ca
+  - archived: false
     name: John Millons
     title:
       en: Head of Policy
@@ -282,13 +289,6 @@ team:
     imagehash: elise_cossette_6140caed96
     email: elise.cossette@tbs-sct.gc.ca
     linkedin: élise-cossette-590b56ab
-  - archived: false
-    name: Emily Kuret
-    title:
-      en: Design
-      fr: Conception
-    imagehash: small_emily_kuret_dcd8f527da
-    email: emily.kuret@tbs-sct.gc.ca
   - archived: false
     name: Emma Wootton
     title:
