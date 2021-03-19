@@ -7,12 +7,12 @@ description: >-
   l’art du possible » avec des outils numériques modernes.
 author: Dave Samojlenko et Sean Boots
 date: '2018-01-29 09:00:00 -0400'
-image: /img/cds/blog-ebriefing-2018.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_ebriefing_2018_e3c77beee0.jpg
 image-alt: >-
   La première équipe de prestation du SNC en train de finaliser et de tester la
   première version de l'application de breffage électronique.
 translationKey: getting-prototypes-out-the-door
-thumb: /img/cds/thumbnails/blog-ebriefing-2018.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_ebriefing_2018_e3c77beee0.jpg
 processed: 1550672962220
 ---
 

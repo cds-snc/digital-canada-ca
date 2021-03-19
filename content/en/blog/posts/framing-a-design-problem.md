@@ -10,10 +10,10 @@ description: >-
   Citizenship Canada (IRCC).
 author: 'Mario Garneau, Mithula Naik and Ryan Androsoff'
 date: '2017-10-24 09:00:00 -0400'
-image: /img/cds/blog-framing-a-design-problem-2017.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_framing_a_design_problem_2017_ed45b772b5.jpg
 image-alt: A room full of empty chairs at a citizenship ceremony
 translationKey: framing-a-design-problem
-thumb: /img/cds/thumbnails/blog-framing-a-design-problem-2017.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_framing_a_design_problem_2017_ed45b772b5.jpg
 processed: 1550672961688
 ---
 It’s an exciting time at the Canadian Digital Service (CDS) as we start rolling up our sleeves and digging into our first service delivery projects, while we are working hard on [choosing our next partnership opportunities](/2017/08/24/picking-our-projects/). One of our partners in these early projects is Immigration, Refugees and Citizenship Canada (IRCC).

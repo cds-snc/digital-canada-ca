@@ -8,13 +8,13 @@ description: >-
   leçons à retenir.
 author: "Jennifer\_Fletcher, partenariats"
 date: '2018-04-25 09:00:00 -0400'
-image: /img/cds/blog-energuide-retro.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_energuide_retro_f4780d2e1d.jpg
 image-alt: >-
   Sept membres de l’équipe sont assis autour d’une table. Ils regardent deux
   personnes debouts devant eux qui regroupent des papiers autocollants («
   post-it ») sur le tableau blanc.
 translationKey: retrospective-on-EnerGuide-api
-thumb: /img/cds/thumbnails/blog-energuide-retro.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_energuide_retro_f4780d2e1d.jpg
 processed: 1550672962208
 ---
 

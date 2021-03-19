@@ -7,12 +7,12 @@ description: >-
   facilitant la vie au personnel de première ligne. 
 author: Hillary Lorimer et Mithula Naik
 date: '2018-04-13 09:00:00 -0400'
-image: /img/cds/blog-ircc-april.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_ircc_april_9f8d1d0bfb.jpg
 image-alt: >-
   La salle d'attente du centre de soutien à la clientèle d'IRCC avec neuf places
   au comptoir de service.
 translationKey: reschedule-a-citizenship-appointment
-thumb: /img/cds/thumbnails/blog-ircc-april.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_ircc_april_9f8d1d0bfb.jpg
 processed: 1550672962203
 ---
 

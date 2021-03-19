@@ -8,12 +8,12 @@ description: >-
   donc ce fossé afin d’offrir des services modernes aux Canadiens?
 author: 'Eva Demers-Brett, développeuse'
 date: '2018-10-03 09:00:00 -0400'
-image: /img/cds/blog-language-gap.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_language_gap_72a7c0e138.jpg
 image-alt: >-
   Un caniche français et un bouledogue anglais assis devant des ordinateurs
   portables.
 translationKey: language-gap
-thumb: /img/cds/thumbnails/blog-language-gap.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_language_gap_72a7c0e138.jpg
 processed: 1550672961841
 ---
 
