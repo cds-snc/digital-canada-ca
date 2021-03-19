@@ -11,10 +11,10 @@ author: >-
   Jeana Frost, recherche en conception, et Brian Hendrick, conception de
   services 
 date: 2020-12-02T15:35:14.762Z
-image: /img/cds/blog-banner-mindsets.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_banner_mindsets_bf393356cd.jpg
 image-alt: 'Quatre personnes affichant diverses expressions, de la réticence à la joie.'
 translationKey: mindsets-covidalert
-thumb: /img/cds/thumbnails/blog-banner-mindsets.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_banner_mindsets_bf393356cd.jpg
 processed: 1606924352001
 ---
 Nous sommes en décembre 2020. Quand nous réfléchissons aux neuf derniers mois de pandémie, nos vies d’avant la COVID-19 semblent bien loin. Les préoccupations que nous avions au début de la crise ressemblent à peine à celles d’aujourd’hui. Que nos peurs et nos craintes concernent le bien-être de nos enfants, la santé de nos aînés, notre stabilité d’emploi, ou le risque de sortir dehors, elles changent chaque jour selon l’état de notre monde.

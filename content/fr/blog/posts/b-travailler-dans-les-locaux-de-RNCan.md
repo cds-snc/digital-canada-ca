@@ -6,10 +6,10 @@ description: >-
   données ÉnerGuide sur la consommation d’énergie résidentielle.
 author: 'Jason White, chef, sciences des données'
 date: '2018-02-15 09:00:00 -0400'
-image: /img/cds/blog-colocating-with-NRCAN.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_colocating_with_NRCAN_e846097048.jpg
 image-alt: Jason et Dave debouts devant l'édifice de Ressources naturelles Canada
 translationKey: colocating-with-NRCan
-thumb: /img/cds/thumbnails/blog-colocating-with-NRCAN.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_colocating_with_NRCAN_e846097048.jpg
 processed: 1550672961800
 ---
 

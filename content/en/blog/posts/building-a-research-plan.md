@@ -6,12 +6,12 @@ description: >-
   understanding.
 author: 'Mithula Naik, Senior design researcher'
 date: '2018-10-26 09:00:00 -0400'
-image: /img/cds/blog-building-a-research-plan.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_building_a_research_plan_54517b04ce.jpg
 image-alt: >-
   Female hands unwrap brown paper with coffee to the left and purple flowers to
   the right.
 translationKey: building-a-research-plan
-thumb: /img/cds/thumbnails/blog-building-a-research-plan.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_building_a_research_plan_54517b04ce.jpg
 processed: 1550672961664
 ---
 

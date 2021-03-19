@@ -10,12 +10,12 @@ description: >-
   offered to them.
 author: 'Daniel Tse, Product manager'
 date: '2018-07-20 09:00:00 -0400'
-image: /img/cds/blog-discovery.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_discovery_16d2f21c99.jpg
 image-alt: >-
   Two people sit at a table with papers, using hand gestures as though
   discussing their work.
 translationKey: discovery-phase-understanding-the-problem
-thumb: /img/cds/thumbnails/blog-discovery.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_discovery_16d2f21c99.jpg
 processed: 1550672961676
 ---
 

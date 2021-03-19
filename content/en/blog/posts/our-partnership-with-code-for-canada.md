@@ -6,12 +6,12 @@ description: >-
   This post outlines how to make the most out of a potential partnership!
 author: 'John Millons, Policy and engagement'
 date: '2018-04-19 09:00:00 -0400'
-image: /img/cds/blog-c4c.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_c4c_26d807bbf1.jpg
 image-alt: >-
   The six members of the first cohort of Code for Canada fellows outside the
   provincial parliament building in Toronto.
 translationKey: our-partnership-with-code-for-canada
-thumb: /img/cds/thumbnails/blog-c4c.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_c4c_26d807bbf1.jpg
 processed: 1550672961733
 ---
 

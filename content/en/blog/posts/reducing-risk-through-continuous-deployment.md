@@ -5,10 +5,10 @@ description: >-
   available to everyone today, and it’s cheap.
 author: 'Jason White, Head of Data Science'
 date: '2018-05-16 09:00:00 -0400'
-image: /img/cds/blog-continuous-deployment.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_continuous_deployment_69684377ec.jpg
 image-alt: A man works at his desk working on code.
 translationKey: reducing-risk-through-continuous-deployment
-thumb: /img/cds/thumbnails/blog-continuous-deployment.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_continuous_deployment_69684377ec.jpg
 processed: 1550672961744
 ---
 

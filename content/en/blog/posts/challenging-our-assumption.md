@@ -3,10 +3,10 @@ title: 'Accessibility at CDS: Challenging our assumptions about ambient imagery'
 description: "We recently received some feedback through our\_Github repository regarding the accessibility of the hero images we use on some pages of our website, including the blog posts."
 author: 'Dave Samojlenko, Developer'
 date: '2018-01-16 09:00:00 -0400'
-image: /img/cds/blog-accessibility-2018.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_accessibility_2018_52c1550c88.jpg
 image-alt: Keyboard with keys representing accessibility features
 translationKey: challenging-our-assumption
-thumb: /img/cds/thumbnails/blog-accessibility-2018.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_accessibility_2018_52c1550c88.jpg
 processed: 1550672961668
 ---
 

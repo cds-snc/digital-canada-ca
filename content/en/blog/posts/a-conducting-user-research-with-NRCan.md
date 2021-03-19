@@ -8,10 +8,10 @@ description: >-
   was the way to go.
 author: Eman El-Fayomi and Jennifer Fletcher
 date: '2018-02-15 09:00:00 -0400'
-image: /img/cds/blog-conducting-user-research-with-NRCAN.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_conducting_user_research_with_NRCAN_cb9cb98c0d.jpg
 image-alt: Eman and Jennifer looking at the Value Proposition Canvas
 translationKey: conducting-user-research-with-NRCan
-thumb: /img/cds/thumbnails/blog-conducting-user-research-with-NRCAN.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_conducting_user_research_with_NRCAN_cb9cb98c0d.jpg
 processed: 1550687994416
 ---
 

@@ -10,10 +10,10 @@ description: >-
   peuvent contribuer à la qualité d’un projet.
 author: 'Amir Abou-Jawde, développeur, Immigration, Réfugiés et Citoyenneté Canada'
 date: '2018-09-11 09:00:00 -0400'
-image: /img/cds/blog-amir.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_amir_7d10074bf1.jpg
 image-alt: Amir dans l'espace de travail du SNC.
 translationKey: ircc-to-cds
-thumb: /img/cds/thumbnails/blog-amir.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_blog_amir_7d10074bf1.jpg
 processed: 1550672961831
 ---
 

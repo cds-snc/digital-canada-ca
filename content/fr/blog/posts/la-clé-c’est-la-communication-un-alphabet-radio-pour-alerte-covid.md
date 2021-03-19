@@ -7,12 +7,12 @@ description: >-
   téléphone des clés à usage unique aux patients en période de stress.
 author: 'Élise Cossette et Yedida Zalik, conception de contenu'
 date: 2020-10-27T13:00:33.817Z
-image: /img/cds/banner-phonetic-alphabetic-blog.jpg
+image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/banner_phonetic_alphabetic_blog_8f889946bb.jpg
 image-alt: >-
   Un travailleur de la santé communiquant avec succès une clé à usage unique à
   un patient au téléphone.
 translationKey: phonetic-alphabet-blog
-thumb: /img/cds/thumbnails/banner-phonetic-alphabetic-blog.jpg
+thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/small_banner_phonetic_alphabetic_blog_8f889946bb.jpg
 processed: 1603809167065
 ---
 Le personnel du milieu de la santé ainsi que bien des agents administratifs jouent un rôle crucial dans la réussite de l’application Alerte COVID. 
