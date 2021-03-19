@@ -6,10 +6,10 @@ description: >-
   serve Canadians.
 author: 'Anatole Papadopoulos, Executive director'
 date: '2018-03-09 09:00:00 -0400'
-image: /img/cds/blog-aaron-snow.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_aaron_snow_eae49285b0.jpg
 image-alt: Aaron Snow
 translationKey: CDS-gets-its-first-CEO
-thumb: /img/cds/thumbnails/blog-aaron-snow.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_aaron_snow_eae49285b0.jpg
 processed: 1550672961644
 ---
 

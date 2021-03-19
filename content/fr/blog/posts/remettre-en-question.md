@@ -8,10 +8,10 @@ description: >-
   pages de notre site Web, y compris sur notre blogue.
 author: 'Dave Samojlenko, développeur'
 date: '2018-01-16 09:00:00 -0400'
-image: /img/cds/blog-accessibility-2018.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_accessibility_2018_52c1550c88.jpg
 image-alt: Clavier avec des touches représentant des fonctionnalités d'accessibilité
 translationKey: challenging-our-assumption
-thumb: /img/cds/thumbnails/blog-accessibility-2018.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_accessibility_2018_52c1550c88.jpg
 processed: 1550672962201
 ---
 
@@ -31,7 +31,7 @@ On pourrait débattre de la nécessité d'un texte alternatif dans ce genre de s
 
 Souvent, les décisions liées à l'accessibilité peuvent être matière à interprétation. Quelle est la distinction exacte entre une image décorative, une image d’ambiance ou une image informative? Aucun processus ou test automatisé ne fera cette distinction à votre place. Vous devez être prêt à en discuter, à remettre en question vos hypothèses et à changer d'avis, au besoin.
 
-Bien que nous préférions réussir du premier coup, au SNC, nous croyons que **l’accessibilité doit faire l’objet d’un processus qui consiste à écouter, à évaluer, à itérer et à apprendre.**   Toute l'équipe doit participer, élargir ses connaissances et ses compétences avec le temps ainsi que partager et apprendre de ses erreurs.
+Bien que nous préférions réussir du premier coup, au SNC, nous croyons que **l’accessibilité doit faire l’objet d’un processus qui consiste à écouter, à évaluer, à itérer et à apprendre.** Toute l'équipe doit participer, élargir ses connaissances et ses compétences avec le temps ainsi que partager et apprendre de ses erreurs.
 
 Il existe plusieurs excellentes ressources pour en savoir davantage sur l'accessibilité. La question dont nous venons de discuter peut sembler banale pour certains. Puisque nous avons beaucoup appris des autres lors de notre recherche de la meilleure solution, nous croyons qu'il est utile d'avoir cette discussion, même si la solution peut paraître évidente. Voici quelques ressources formidables que nous avons trouvées en cours de route&nbsp;:
 

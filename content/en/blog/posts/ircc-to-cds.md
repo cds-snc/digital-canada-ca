@@ -9,10 +9,10 @@ description: >-
   for the quality of a project.
 author: 'Amir Abou-Jawde, Developer, Immigration, Refugees and Citizenship Canada'
 date: '2018-09-11 09:00:00 -0400'
-image: /img/cds/blog-amir.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_amir_7d10074bf1.jpg
 image-alt: Amir in the CDS workspace.
 translationKey: ircc-to-cds
-thumb: /img/cds/thumbnails/blog-amir.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_amir_7d10074bf1.jpg
 processed: 1550672961720
 ---
 

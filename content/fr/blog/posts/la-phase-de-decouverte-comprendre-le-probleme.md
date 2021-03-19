@@ -11,12 +11,12 @@ description: >-
   services qui leur sont offerts, et à y accéder.
 author: 'Daniel Tse, gestionnaire de produits'
 date: '2018-07-20 09:00:00 -0400'
-image: /img/cds/blog-discovery.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_discovery_16d2f21c99.jpg
 image-alt: >-
   Deux personnes sont assises à une table et utilisent des gestes de la main en
   discutant de leur travail.
 translationKey: discovery-phase-understanding-the-problem
-thumb: /img/cds/thumbnails/blog-discovery.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_discovery_16d2f21c99.jpg
 processed: 1550672961839
 ---
 

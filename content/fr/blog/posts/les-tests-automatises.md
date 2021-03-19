@@ -11,13 +11,13 @@ description: >-
   logiciels de haute qualité.
 author: 'Jason White, chef, sciences des données'
 date: '2018-03-26 09:00:00 -0400'
-image: /img/cds/blog-automated-testing.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_automated_testing_76c2e620d6.jpg
 image-alt: >-
   Trois personnes sont assises autour d’une table tout en travaillant sur des
   ordinateurs portables. Une personne montre du doigt l’écran de la personne en
   face d’elle qui montre un signe d’accord.
 translationKey: automated-testing-blog
-thumb: /img/cds/thumbnails/blog-automated-testing.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_automated_testing_76c2e620d6.jpg
 processed: 1550672962167
 ---
 

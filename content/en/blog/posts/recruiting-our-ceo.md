@@ -6,10 +6,10 @@ description: >-
   digital movement.
 author: 'Lena Trudeau, Senior advisor'
 date: '2018-04-09 09:00:00 -0400'
-image: /img/cds/blog-ceo-recruitment.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_ceo_recruitment_883dc9d347.jpg
 image-alt: Chief Executive Officer Aaron Snow chatting with two other team members.
 translationKey: recruiting-our-ceo
-thumb: /img/cds/thumbnails/blog-ceo-recruitment.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_ceo_recruitment_883dc9d347.jpg
 processed: 1550672961742
 ---
 
