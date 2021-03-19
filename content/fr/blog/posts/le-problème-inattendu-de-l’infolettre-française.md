@@ -8,12 +8,12 @@ description: >-
   fait de supposer que nous connaissons le problème.
 author: 'Élise Cossette et Charlotte Pedersen, Liaison et diffusion'
 date: 2020-02-28T16:21:59.373Z
-image: /img/cds/blog-newsletter-testing.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_newsletter_testing_a152e66ccb.jpg
 image-alt: >-
   Plusieurs crayonnages dont une balance, une ampoule, un carnet de note avec le
   mot « sondage », un sablier et une bulle de texte avec un bonhomme sourire.
 translationKey: french-newsletter-surveys
-thumb: /img/cds/thumbnails/blog-newsletter-testing.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_newsletter_testing_a152e66ccb.jpg
 processed: 1583159548752
 ---
 <div class="blog-diary">

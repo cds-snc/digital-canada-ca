@@ -8,10 +8,10 @@ description: >-
   the meaning.
 author: 'Annie Leblond, Communications'
 date: '2018-08-17 09:00:00 -0400'
-image: /img/cds/blog-lexicon.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_lexicon_8af48d9cd5.jpg
 image-alt: Illustration a front-loading washer-dryer combo.
 translationKey: lexicon
-thumb: /img/cds/thumbnails/blog-lexicon.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_lexicon_8af48d9cd5.jpg
 processed: 1550672961730
 ---
 

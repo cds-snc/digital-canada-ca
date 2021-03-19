@@ -17,12 +17,12 @@ description: >-
   rapidement dépassé.
 author: 'Eman El-Fayomi, chef de la conception'
 date: '2018-08-21 09:00:00 -0400'
-image: /img/cds/blog-productive-collaboration.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_productive_collaboration_b08bf045d4.jpg
 image-alt: >-
   L'équipe de produit se réunit autour du tableau de print lors d'une réunion
   quotidienne.
 translationKey: productive-collaboration
-thumb: /img/cds/thumbnails/blog-productive-collaboration.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_productive_collaboration_b08bf045d4.jpg
 processed: 1550672961816
 ---
 
@@ -45,13 +45,13 @@ Nous avons travaillé ensemble à l’élaboration de notre propre approche mult
 
 Au cours de notre première séance d’orientation en équipe, nous avons utilisé un outil appelé [A User Manual for Me](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694) (Manuel de l’utilisateur pour moi) créé par Cassie Robinson.
 
-<img width="100%" alt="L'outil Manuel de l'utilisateur pour moi qui offre huit cases où les préférences de travail peuvent être indiquées dont les heures auxquels j'aime travailler et les meilleures façons de communiquer avec moi." src="/img/cds/blog-manual-fr.png">
+<img width="100%" alt="L'outil Manuel de l'utilisateur pour moi qui offre huit cases où les préférences de travail peuvent être indiquées dont les heures auxquels j'aime travailler et les meilleures façons de communiquer avec moi." src="https://de2an9clyit2x.cloudfront.net/blog_manual_fr_bb5d6e0e5d.png">
 
 Chaque personne devait remplir cet outil, puis le partager avec l’équipe. Cela nous a permis de discuter de nos styles de travail, un sujet qui ne ressort pas toujours naturellement dans nos conversations. Depuis, nous avons utilisé des variantes de cet outil parmi d’autres équipes de produits du SNC et avons créé une [version numérique bilingue](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit#slide=id.g3fd0daa6c4_0_0) pour que les membres de nos équipes élargies puissent la mettre à jour fréquemment.
 
 Nous avons également utilisé un outil du guide de travail d’équipe d’Atlassian appelé [Roles and Responsibilities](https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities) (Rôles et responsabilités) pour définir et préciser les compétences, les contributions et les besoins de chaque personne.
 
-<img width="100%" alt="L'outil des Rôles et responsabilités pour mieux comprendre les contributions de tous les membres de l'équipe." src="/img/cds/blog-roles-fr.png">
+<img width="100%" alt="L'outil des Rôles et responsabilités pour mieux comprendre les contributions de tous les membres de l'équipe." src="https://de2an9clyit2x.cloudfront.net/blog_roles_fr_7198d2f3ec.png">
 
 Télécharger une copie de l’outil [Rôles et responsabilités](https://drive.google.com/a/cds-snc.ca/file/d/1DKI3I9_pTFAjRnVK_tlCYsGJ_jVQub0q/view?usp=sharing) en français.
 

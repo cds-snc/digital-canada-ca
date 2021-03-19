@@ -7,13 +7,13 @@ description: >-
   experience designer. While this may be a good start, it misses the mark.
 author: 'Eman El-Fayomi, Senior designer'
 date: '2018-06-14 09:00:00 -0400'
-image: /img/cds/blog-user-experience.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_user_experience_ab66691a2a.jpg
 image-alt: >-
   Three members of the CDS team workshop ideas with IRCC staff in Vancouver.
   They are writing ideas on post-it notes and placing those on quadrants posted
   on the wall.
 translationKey: lets-talk-user-experience
-thumb: /img/cds/thumbnails/blog-user-experience.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_user_experience_ab66691a2a.jpg
 processed: 1550672961729
 ---
 

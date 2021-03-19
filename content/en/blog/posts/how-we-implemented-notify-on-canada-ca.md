@@ -6,10 +6,10 @@ description: >-
   Canada.ca to send auto-replies from their questions and comments form. 
 author: 'Kelly Galbraith and Pierre Dubois, Service Canada'
 date: 2020-03-05T15:28:44.137Z
-image: /img/cds/blog-service-canada-notify.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_service_canada_notify_227a13a007.jpg
 image-alt: Rainbow parachute in the sky.
 translationKey: blog-service-canada-notify
-thumb: /img/cds/thumbnails/blog-service-canada-notify.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_service_canada_notify_227a13a007.jpg
 processed: 1583432511600
 ---
 [Canada.ca](https://www.canada.ca/en.html), the Government of Canada’s centralized website, is now using Notify for sending auto-reply emails for its [questions and comments form](https://www.canada.ca/en/contact/questions.html). These notifications reassure users that their form was successfully submitted to a trusted Canada.ca domain. 

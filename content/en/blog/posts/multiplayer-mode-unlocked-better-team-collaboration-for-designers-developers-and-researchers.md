@@ -10,12 +10,12 @@ description: >-
   place. Here’s how we did that using a tool called Figma.
 author: 'Philippe Caron, Design'
 date: 2020-10-22T14:07:23.319Z
-image: /img/cds/blog-multiplayer-figma.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_multiplayer_figma_4b3304945a.jpg
 image-alt: >-
   An illustration of a basketball court with four different team members on the
   court together.
 translationKey: multiplayer-figma
-thumb: /img/cds/thumbnails/blog-multiplayer-figma.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_multiplayer_figma_4b3304945a.jpg
 processed: 1603376638397
 ---
 Many games are more fun to play in multiplayer mode than in single player. Can you imagine playing a game of basketball by yourself? Boring.

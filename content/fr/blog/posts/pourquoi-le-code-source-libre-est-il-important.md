@@ -8,12 +8,12 @@ description: >-
   questions que nous posent parfois nos amis du gouvernement.
 author: 'Sean Boots, conseiller en politiques et Josh Ruihley, conseiller technique'
 date: 2020-02-24T15:12:35.353Z
-image: /img/cds/blog-open-source.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_open_source_b720f5ece8.jpg
 image-alt: >-
   Groupe de personnes qui assemblent un casse-tête alors que d’autres bâtissent
   une maison au moyen de différents blocs.
 translationKey: why-open-source-matters
-thumb: /img/cds/thumbnails/blog-open-source.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_open_source_b720f5ece8.jpg
 processed: 1582641005760
 ---
 Il y a quelques semaines, nous avons publié un [fil Twitter](https://twitter.com/SNC_GC/status/1227970738017251335) sur ce qu’est le code source libre et sur la façon dont il améliore les services en ligne. Nous avons reçu beaucoup de questions à ce sujet de partout au gouvernement. Utiliser du code source libre — et publier le code logiciel que nous écrivons — constitue l’un des principes les plus importants au Service numérique canadien. Si vous êtes curieux de savoir pourquoi, poursuivez votre lecture! 

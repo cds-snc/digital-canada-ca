@@ -4,10 +4,10 @@ title: Comment nous avons installé Notification sur Canada.ca
 description: ' L’équipe de Service Canada explique comment elle a implanté Notification sur Canada.ca pour envoyer des réponses automatiques aux utilisateurs de son formulaire de questions et commentaires.'
 author: 'Kelly Galbraith et Pierre Dubois, Service Canada'
 date: 2020-03-05T15:49:02.842Z
-image: /img/cds/blog-service-canada-notify.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_service_canada_notify_227a13a007.jpg
 image-alt: ' Montgolfière aux couleurs arc-en-ciel dans le ciel.'
 translationKey: blog-service-canada-notify
-thumb: /img/cds/thumbnails/blog-service-canada-notify.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_service_canada_notify_227a13a007.jpg
 processed: 1583432511366
 ---
 [Canada.ca](https://www.canada.ca/fr.html), le site Web centralisé du gouvernement du Canada, utilise maintenant Notification pour envoyer des courriels de réponse automatique aux personnes ayant utilisé son [formulaire de questions et commentaires](https://www.canada.ca/fr/contact/questions.html). Ces notifications leur confirment que leur formulaire a été soumis avec succès à un domaine Canada.ca de confiance.

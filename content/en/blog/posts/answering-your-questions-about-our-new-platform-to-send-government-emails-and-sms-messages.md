@@ -11,14 +11,14 @@ description: >-
   services onto Notify. 
 author: 'Max Neuvians and Tim Arney, Developers'
 date: 2020-02-18T17:04:57.318Z
-image: /img/cds/blog-notify2.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_notify2_89a385e31d.jpg
 image-alt: >-
   Three people talking with one another, with a person on the left side holding
   a laptop talking about the Notify API’s code. A person on the right side holds
   a laptop, while talking about the emails and text messages that result from
   using the Notify service. 
 translationKey: notify-blog2
-thumb: /img/cds/thumbnails/blog-notify2.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_notify2_89a385e31d.jpg
 processed: 1582120424308
 ---
 Since we introduced our [Notify platform](https://digital.canada.ca/2019/11/26/introducing-notify/), we’ve received many questions about how it works, who can use it, and most frequently, whether or not it's free. With such great interest around the platform, we wanted to take the time to answer your questions and encourage more organizations to bring their live services onto Notify.  
