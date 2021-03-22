@@ -49,7 +49,7 @@ processed: 1583159548752
        <tbody>
            <tr>
                <td class="diary-img">
-                   <img src="/img/cds/direction.jpg" alt="Deux flèches pointant dans des directions opposées, avec une ampoule sur le dessus.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/direction_d59346007c.jpg" alt="Deux flèches pointant dans des directions opposées, avec une ampoule sur le dessus.">
                </td>
                <td>
                    <p>Après une excellente conversation avec Adrianne, nous corrigeons quelque peu le tir. Elle a suggéré de vérifier que c’est bel et bien le contenu qui pose problème avant que nous nous engagions à le retravailler. Elle nous a conseillé d’obtenir plus de données sur le problème auprès des abonnés. Nous pourrons alors choisir la meilleure façon de nous y attaquer. Elle a dit que ce pouvait très bien être le contenu, le problème, mais que nous ferions mieux de laisser les utilisateurs nous le dire, question de ne pas essayer de régler un problème qui n’en est pas un.</p>

@@ -10,10 +10,10 @@ description: >-
   améliorées par d’autres personnes en dehors du SNC.
 author: 'Ross Ferguson, chef de la prestation des services'
 date: 2019-06-13T17:20:00.000Z
-image: /img/cds/four-frames.jpg
+image: https://de2an9clyit2x.cloudfront.net/four_frames_f2c06871f1.jpg
 image-alt: Quatre cadres noirs et sans photo sont accrochés côte à côte sur un mur blanc.
 translationKey: evaluation-framework
-thumb: /img/cds/thumbnails/four-frames.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_four_frames_f2c06871f1.jpg
 processed: 1560520010502
 
 ---

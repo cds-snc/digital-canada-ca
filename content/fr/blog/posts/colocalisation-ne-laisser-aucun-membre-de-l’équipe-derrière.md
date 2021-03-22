@@ -6,10 +6,10 @@ description: >-
   les uns des autres tout en comprenant parfaitement ce qui doit être fait.
 author: 'Nancy McKenna, responsable du service'
 date: 2019-04-10T13:57:43.293Z
-image: /img/cds/colourful-umbrellas.jpg
+image: https://de2an9clyit2x.cloudfront.net/colourful_umbrellas_da3560310b.jpg
 image-alt: Des parapluies colorés flottant côte à côte dans le ciel.
 translationKey: cra-colocation
-thumb: /img/cds/thumbnails/colourful-umbrellas.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_colourful_umbrellas_da3560310b.jpg
 processed: 1555070084965
 
 ---

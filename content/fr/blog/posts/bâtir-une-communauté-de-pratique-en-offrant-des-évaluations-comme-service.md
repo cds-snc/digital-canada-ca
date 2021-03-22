@@ -10,12 +10,12 @@ description: >-
   services indépendantes et sans reproches.
 author: 'Ross Ferguson, chef de la prestation des services'
 date: 2019-08-06T15:44:47.646Z
-image: /img/cds/checklist.jpg
+image: https://de2an9clyit2x.cloudfront.net/checklist_bf2f5e5013.jpg
 image-alt: >-
   Photo d’une main tenant un crayon et écrivant une liste avec des cases à
   cocher dans un calepin.
 translationKey: service-assessments
-thumb: /img/cds/thumbnails/checklist.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_checklist_bf2f5e5013.jpg
 processed: 1565980652928
 ---
 Il faut une communauté de pratique pour transformer les services gouvernementaux. L’an dernier, le gouvernement du Canada a présenté ses [normes numériques](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/normes-numeriques-gouvernement-canada.html). Il s’agit d’un ensemble de principes visant à aider les équipes à offrir des services numériques de meilleure qualité aux Canadiens. Depuis leur publication, le Service numérique canadien (SNC) examine comment les ministères peuvent s’évaluer en fonction des normes.

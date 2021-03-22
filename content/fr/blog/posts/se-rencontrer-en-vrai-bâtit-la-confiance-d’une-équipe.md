@@ -6,10 +6,10 @@ description: >-
   voici ce qu’un peu de temps ensemble a apporté à nos équipes.
 author: 'Allison Rothmel, consultante à Anciens Combattants Canada'
 date: 2019-01-10T14:00:00.000Z
-image: /img/cds/groupvac_cds.jpg
+image: https://de2an9clyit2x.cloudfront.net/groupvac_cds_593fa30b36.jpg
 image-alt: Les membres de l’équipe sont rassemblés et sourient pour une photo.
 translationKey: VAC-CDS-visit
-thumb: /img/cds/thumbnails/groupvac_cds.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_groupvac_cds_593fa30b36.jpg
 processed: 1550672962212
 ---
 En tant qu’analyste d’entreprise consultante à Anciens Combattants Canada (ACC) à Charlottetown, en partenariat avec le Service numérique canadien (SNC), il est difficile de participer à un projet en cours alors que les équipes sont situées dans différentes villes. Malgré nos mêlées quotidiennes à distance, nous ne faisons pas connaissance avec tout le monde, et il est difficile d’associer une voix à un nom sans s’être jamais rencontrés. 

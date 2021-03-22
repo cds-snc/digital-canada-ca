@@ -7,12 +7,12 @@ description: >-
   has adapted his management approach to lead his team from another city. 
 author: 'Bryan Willey, Product Management'
 date: 2019-10-23T12:48:29.677Z
-image: /img/cds/distributed-pm-blog.jpg
+image: https://de2an9clyit2x.cloudfront.net/distributed_pm_blog_c8f11db928.jpg
 image-alt: >-
   Five members of a team communicating to each other using different devices,
   and in different locations.
 translationKey: distributed-pm
-thumb: /img/cds/thumbnails/distributed-pm-blog.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_distributed_pm_blog_c8f11db928.jpg
 processed: 1575304320615
 ---
 It was a cold January day when I first started at The Canadian Digital Service (CDS). I went to the Ottawa office for a two-week onboarding session, after which I’d go back home to a *slightly warmer* Kitchener-Waterloo, to work full-time. 

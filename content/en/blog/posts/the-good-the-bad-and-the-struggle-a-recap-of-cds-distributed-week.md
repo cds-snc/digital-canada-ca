@@ -6,12 +6,12 @@ description: >-
   reality.
 author: 'Lynn Chalati and Charlotte Pedersen '
 date: 2019-04-15T17:02:49.676Z
-image: /img/cds/google-hangout.jpg
+image: https://de2an9clyit2x.cloudfront.net/google_hangout_9039889404.jpg
 image-alt: >-
   Picture of Lynn on GoogleHangouts from the perspective of Charlotte’s office
   at home.
 translationKey: CDS-distributed
-thumb: /img/cds/thumbnails/google-hangout.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_google_hangout_9039889404.jpg
 processed: 1555352343007
 ---
 Over the past year, the Canadian Digital Service (CDS) has grown considerably with colleagues in Ottawa, Toronto, Montreal, and Kitchener-Waterloo. Though our Ottawa office has the most amount of people, we’re a distributed organization. That means we work in an environment where everyone, regardless of geographic location, is able to fully contribute to team goals the same way that a team all working out of the same office can.
