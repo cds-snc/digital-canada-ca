@@ -7,10 +7,10 @@ description: >-
   learned a lot about assuming you know the problem.  
 author: 'Élise Cossette and Charlotte Pedersen, Outreach'
 date: 2020-02-28T16:14:40.025Z
-image: /img/cds/blog-newsletter-testing.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_newsletter_testing_a152e66ccb.jpg
 image-alt: 'Doodles in a notebook about planning, iterating, and testing ideas.'
 translationKey: french-newsletter-surveys
-thumb: /img/cds/thumbnails/blog-newsletter-testing.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_newsletter_testing_a152e66ccb.jpg
 processed: 1583159548621
 ---
 

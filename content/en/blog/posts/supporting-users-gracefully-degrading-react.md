@@ -9,12 +9,12 @@ description: >-
   service delivery forward without leaving users behind.
 author: 'Paul Craig, Developer'
 date: '2018-08-08 09:00:00 -0400'
-image: /img/cds/blog-noJS.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_no_JS_16ec4cec0b.jpg
 image-alt: >-
   A person navigating through a range of devices, including a rotary dial phone,
   a flip phone, a laptop and a computer tower.
 translationKey: supporting-users-gracefully-degrading-react
-thumb: /img/cds/thumbnails/blog-noJS.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_no_JS_16ec4cec0b.jpg
 processed: 1550672961766
 ---
 

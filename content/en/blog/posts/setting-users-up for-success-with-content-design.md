@@ -2,7 +2,7 @@
 title: Setting up users for success with content design
 author: 'Cayce Fischer, Content designer'
 date: '2018-06-12 09:00:00 -0400'
-image: /img/cds/blog-setting-up-users-for-success.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_setting_up_users_for_success_0ab67b7ff1.jpg
 image-alt: >-
   Paper prototypes of an early version of the IRCC Reschedule a Citizenship Test
   service. Four pages are laid out on a table. They  include a web form, a
@@ -13,7 +13,7 @@ description: >-
   appointment as convenient and stress-free as possible for applicants, while
   empowering office staff.
 translationKey: setting-users-up-for-success-with-content-design
-thumb: /img/cds/thumbnails/blog-setting-up-users-for-success.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_setting_up_users_for_success_0ab67b7ff1.jpg
 processed: 1550672961760
 ---
 

@@ -2,7 +2,7 @@
 title: Donner aux utilisateurs les moyens de réussir grâce à la conception de contenu
 author: 'Cayce Fischer, concepteur de contenu'
 date: '2018-06-12 09:00:00 -0400'
-image: /img/cds/blog-setting-up-users-for-success.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_setting_up_users_for_success_0ab67b7ff1.jpg
 image-alt: >-
   Des prototypes en format papier d’une version précédente du service pour
   reporter un rendez-vous de citoyenneté. Quatre pages sont présentées sur une
@@ -15,7 +15,7 @@ description: >-
   demandeurs, tout en facilitant la vie du personnel administratif.
 image-translation: null
 translationKey: setting-users-up-for-success-with-content-design
-thumb: /img/cds/thumbnails/blog-setting-up-users-for-success.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_setting_up_users_for_success_0ab67b7ff1.jpg
 processed: 1550672961832
 ---
 

@@ -5,10 +5,10 @@ description: >-
   saying that they wanted to participate, but just didn’t know how.”
 author: 'Lynn Chalati, Communications friend'
 date: '2018-10-30 09:00:00 -0400'
-image: /img/cds/blog-striving-for-diversity.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_striving_for_diversity_7cb58475fa.jpg
 image-alt: A blue ribbon banner with the words “a mari usque ad mare” in yellow.
 translationKey: striving-for-diversity
-thumb: /img/cds/thumbnails/blog-striving-for-diversity.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_striving_for_diversity_7cb58475fa.jpg
 processed: 1550672961764
 ---
 

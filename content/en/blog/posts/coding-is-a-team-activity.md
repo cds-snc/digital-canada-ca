@@ -6,10 +6,10 @@ description: >-
   rather, the team as a whole is responsible for each line of code.
 author: 'Jason White, Head of data science'
 date: '2018-04-24 09:00:00 -0400'
-image: /img/cds/blog-team-coding.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_team_coding_3f3236a73b.jpg
 image-alt: A computer screen displays 200 lines of JavaScript code in Sublime Text.
 translationKey: coding-is-a-team-activity
-thumb: /img/cds/thumbnails/blog-team-coding.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_team_coding_3f3236a73b.jpg
 processed: 1550672961670
 ---
 

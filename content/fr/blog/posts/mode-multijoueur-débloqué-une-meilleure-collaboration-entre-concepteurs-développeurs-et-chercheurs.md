@@ -11,12 +11,12 @@ description: >-
   comment nous avons fait cela en utilisant un outil appelé Figma.
 author: 'Philippe Caron, conception'
 date: 2020-10-22T13:53:58.534Z
-image: /img/cds/blog-multiplayer-figma.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_multiplayer_figma_4b3304945a.jpg
 image-alt: >-
   Une illustration d’un terrain de basketball avec un ballon et quatre dossards
   à l’effigie du SNC.
 translationKey: multiplayer-figma
-thumb: /img/cds/thumbnails/blog-multiplayer-figma.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_multiplayer_figma_4b3304945a.jpg
 processed: 1603376638536
 ---
 Bon nombre de jeux sont plus amusants à jouer en mode multijoueur qu’en solo. Vous verriez-vous jouer au basketball tout seul? Plutôt ennuyeux, n’est-ce pas?

@@ -6,10 +6,10 @@ description: >-
   sans causer trop de frictions ni de ralentissements au sein de l’équipe.
 author: 'Tim Arney, développeur'
 date: '2018-10-16 09:00:00 -0400'
-image: /img/cds/blog-up-to-speed.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_up_to_speed_030a3f5cc5.jpg
 image-alt: Le tableau de bord d’une voiture avec l’indicateur de vitesse.
 translationKey: getting-up-to-speed
-thumb: /img/cds/thumbnails/blog-up-to-speed.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_up_to_speed_030a3f5cc5.jpg
 processed: 1550672962210
 ---
 

@@ -14,10 +14,10 @@ description: >-
   variables, it’s easy for things to quickly get overwhelming.
 author: 'Eman El-Fayomi, Head of Design'
 date: '2018-08-21 09:00:00 -0400'
-image: /img/cds/blog-productive-collaboration.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_productive_collaboration_b08bf045d4.jpg
 image-alt: The product team gathers around the sprint board at a daily standup meeting.
 translationKey: productive-collaboration
-thumb: /img/cds/thumbnails/blog-productive-collaboration.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_productive_collaboration_b08bf045d4.jpg
 processed: 1550672961741
 ---
 
@@ -40,13 +40,13 @@ We’ve been working together to build our own unique multidisciplinary approach
 
 During our initial orientation as a team, we used a tool called “[***A User Manual for Me***](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694)” created by Cassie Robinson.
 
-<img width="100%" alt="The User Manual for Me tool with eight boxes where you can indicate work style preferences, such as times I like to work or the best way to communicate with me." src="/img/cds/blog-manual.png">
+<img width="100%" alt="The User Manual for Me tool with eight boxes where you can indicate work style preferences, such as times I like to work or the best way to communicate with me." src="https://de2an9clyit2x.cloudfront.net/blog_manual_739a88cc6e.png">
 
 Each person had to fill this in, and then share it with the team. This enabled us to talk through our work styles that don’t always come up organically in conversation. We’ve since used variations of this tool across other product teams at CDS, and created a [bilingual digital version](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit?usp=sharing) for everyone on our wider teams to update frequently. 
 
 We also used a tool from the Atlassian Team Playbook called “[***Roles and Responsibilities***](https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities)” to define and chart each person's skills, contributions, and needs.
 
-<img width="100%" alt="The Roles and Responsibilities tool to better understand team members contributions." src="/img/cds/blog-roles.png">
+<img width="100%" alt="The Roles and Responsibilities tool to better understand team members contributions." src="https://de2an9clyit2x.cloudfront.net/blog_roles_b89fa1cf91.png">
 
 Download a copy of the [Roles and Responsibilities tool](https://drive.google.com/a/cds-snc.ca/file/d/1rsMtjSrh3TCVvtnezR5TQC1hBR67Y1Tq/view?usp=sharing).
 
