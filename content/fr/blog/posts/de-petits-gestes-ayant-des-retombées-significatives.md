@@ -6,12 +6,12 @@ description: >-
   mois dernier et les gestes qu’elle nous a inspirés à poser.
 author: 'Charlotte Pedersen, Liaison et diffusion'
 date: 2019-04-01T17:34:47.577Z
-image: /img/cds/diversity-day-banner-image.jpg
+image: https://de2an9clyit2x.cloudfront.net/diversity_day_banner_image_74eb3779fb.jpg
 image-alt: >-
   Un groupe d’intervenants discute devant les participants de l’événement alors
   que des interprètes gestuels se trouvent derrière eux.
 translationKey: small-acts-big-impact
-thumb: /img/cds/thumbnails/diversity-day-banner-image.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_diversity_day_banner_image_74eb3779fb.jpg
 processed: 1554413470255
 ---
 Des équipes diversifiées et inclusives offrent des services qui le sont tout autant. C’est pourquoi le vendredi 8 février, le Service numérique canadien a tenu l’événement [Diversité au sein des services numériques](https://www.eventbrite.ca/e/diversity-in-digital-services-diversite-au-sein-des-services-numeriques-registration-51465629082), une journée destinée à échanger des idées à propos de la diversité et de l’inclusion des équipes, ainsi que de leur incidence sur la prestation de meilleurs services.

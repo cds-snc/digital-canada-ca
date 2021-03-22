@@ -47,7 +47,7 @@ processed: 1583159548621
        <tbody>
            <tr>
                <td class="diary-img">
-                   <img src="/img/cds/direction.jpg" alt="Two arrows pointing in opposite directions with a lightbulb on top.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/direction_d59346007c.jpg" alt="Two arrows pointing in opposite directions with a lightbulb on top.">
                </td>
                <td>
                    <p>We’re pivoting a little after a great chat with Adrianne. She suggested we may want to test our assumption that content is the problem before we leap into fixing it. Her advice was to get more data on what the problem is from actual subscribers. Then we can choose what the best way is to tackle that problem. She said it could very well be content, but let’s let actual people using the service tell us that so we’re not trying to solve a problem that might not be a problem.</p>

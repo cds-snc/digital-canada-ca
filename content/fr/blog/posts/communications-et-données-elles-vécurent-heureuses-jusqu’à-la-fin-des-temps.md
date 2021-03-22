@@ -7,10 +7,10 @@ description: >-
   public.
 author: 'Charlotte Pedersen, Liaison et diffusion'
 date: 2019-11-28T14:09:20.985Z
-image: /img/cds/dreaming-of-words.jpg
+image: https://de2an9clyit2x.cloudfront.net/dreaming_of_words_7126bfb389.jpg
 image-alt: 'Illustration d''une fille rêvant d''écriture et de livres. '
 translationKey: Data-driven-comms
-thumb: /img/cds/thumbnails/dreaming-of-words.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_dreaming_of_words_7126bfb389.jpg
 processed: 1575304320725
 ---
 ## Il était une fois...

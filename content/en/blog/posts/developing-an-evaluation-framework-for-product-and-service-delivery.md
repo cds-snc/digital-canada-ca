@@ -9,10 +9,10 @@ description: >-
   others beyond CDS.
 author: 'Ross Ferguson, Head of Delivery'
 date: 2019-06-13T17:20:00.000Z
-image: /img/cds/four-frames.jpg
+image: https://de2an9clyit2x.cloudfront.net/four_frames_f2c06871f1.jpg
 image-alt: Four black empty picture frames hanging side by side on a white wall.
 translationKey: evaluation-framework
-thumb: /img/cds/thumbnails/four-frames.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_four_frames_f2c06871f1.jpg
 processed: 1560520010223
 
 ---

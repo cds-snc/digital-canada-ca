@@ -10,10 +10,10 @@ author: >-
   Adrianne Lee, Researcher with Help Canadians access the CPP Disability Benefit
   (CPP-D) partnership
 date: 2020-01-28T20:37:47.522Z
-image: /img/cds/field-note-train.jpg
+image: https://de2an9clyit2x.cloudfront.net/field_note_train_0fc028062b.jpg
 image-alt: 'A picture of the front of a train in an orange tinted background. '
 translationKey: field-note-1
-thumb: /img/cds/thumbnails/field-note-train.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_field_note_train_0fc028062b.jpg
 processed: 1581626757493
 ---
 <p>Field Notes are a new content format for the Canadian Digital Service. Shorter than a blog post, a Field Note allows delivery teams to give more regular updates, share smaller insights and continue working in the open on a continuous basis.</p>
@@ -66,8 +66,8 @@ processed: 1581626757493
                 <h3>Observations:</h3>
                 <h5>Intercept in Montreal Day 1 - Dec/02/2019</h5>
                 <p>We set up our table that morning. We had a sign that read, “Hate government benefits paperwork? Help us make it easier,” hoping it would offer an additional incentive on top of our small compensation for their time.</p>
-                <img class="field-note-img" src="/img/cds/field-note-1-ad.jpg" alt="Hate government benefits paper-work? Help us make it easier. The Canadian Digital Service would love your feedback.">
-                <img class="field-note-img" src="/img/cds/cppd-team-research.jpg" alt="Researchers from the CPP-D team sitting at a table with Canadian Digital Service banners and posters recruiting physicians for research">
+                <img class="field-note-img" src="https://de2an9clyit2x.cloudfront.net/field_note_1_ad_d6b0760c29.jpg" alt="Hate government benefits paper-work? Help us make it easier. The Canadian Digital Service would love your feedback.">
+                <img class="field-note-img" src="https://de2an9clyit2x.cloudfront.net/cppd_team_research_fd076489f2.jpg" alt="Researchers from the CPP-D team sitting at a table with Canadian Digital Service banners and posters recruiting physicians for research">
                 <p>Physicians were interested in participating in our research,  but said they couldn’t spare 15 minutes to sit down with us. </p>
                 <h5>Intercept in Montreal Day 2 - Dec/03/2019</h5>
                 <p>By the end of the second day, we had a total of five participants sit down with us.</p>

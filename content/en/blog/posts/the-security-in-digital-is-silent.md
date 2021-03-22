@@ -36,7 +36,7 @@ CDS is currently partnering with TBS to extend and deploy this product to assist
 
 The benefit to this product? When you’re building the “thing” you get to be the first to test it. We tested our own domain names and were dismayed to realize that in our excitement to deploy our website last year, we chose a setting in our AWS Cloudfront configuration that prioritized backwards compatibility over the use of secure ciphers and protocols.
 
-<img width="100%" style="float:left;" alt="Initial testing of the Pulse platform seeded with canada.ca domains." src="/img/cds/https-en.png">
+<img width="100%" style="float:left;" alt="Initial testing of the Pulse platform seeded with canada.ca domains." src="https://de2an9clyit2x.cloudfront.net/https_en_a7fea19133.png">
 
 Suffice it to say, we failed our own compliance checks, but were able to fix one of the issues in less time than it took to write this last paragraph. We’ll be cracking away at implementing HSTS soon, but that will likely be the topic of a future post. 
 

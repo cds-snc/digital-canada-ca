@@ -9,12 +9,12 @@ description: >-
   terme.
 author: 'Hillary Lorimer, chercheuse en conception'
 date: 2019-07-31T20:09:21.155Z
-image: /img/cds/colourful-cactuses.jpg
+image: https://de2an9clyit2x.cloudfront.net/colourful_cactuses_34eab63a4d.jpg
 image-alt: >-
   Cinq cactus de couleur différente (orange, rouge, vert, rose et jaune) placés
   côte à côte dans des pots blancs et devant un fond blanc.
 translationKey: validation-testing-cra
-thumb: /img/cds/thumbnails/colourful-cactuses.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_colourful_cactuses_34eab63a4d.jpg
 processed: 1564689903502
 ---
 Placer les gens au centre de notre travail, c’est aussi avoir confiance qu’ils sont les experts de leur contexte et de leurs besoins. 

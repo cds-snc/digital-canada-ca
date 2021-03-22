@@ -7,12 +7,12 @@ description: >-
   ultimately limiting risks, while saving time and cost in the long run.
 author: 'Hillary Lorimer, Design Researcher'
 date: 2019-07-31T20:06:44.658Z
-image: /img/cds/colourful-cactuses.jpg
+image: https://de2an9clyit2x.cloudfront.net/colourful_cactuses_34eab63a4d.jpg
 image-alt: >-
   Five different-coloured cactuses (orange, red, green, pink and yellow)
   arranged side by side in white pots, in front of a white background.
 translationKey: validation-testing-cra
-thumb: /img/cds/thumbnails/colourful-cactuses.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_colourful_cactuses_34eab63a4d.jpg
 processed: 1564689903407
 ---
 Putting people at the centre of our work means trusting that they’re the experts of their own contexts and needs. 

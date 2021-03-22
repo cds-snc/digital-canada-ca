@@ -9,12 +9,12 @@ description: >-
   blameless assessments with them.
 author: 'Ross Ferguson, Head of Delivery'
 date: 2019-08-06T15:12:19.774Z
-image: /img/cds/checklist.jpg
+image: https://de2an9clyit2x.cloudfront.net/checklist_bf2f5e5013.jpg
 image-alt: >-
   A hand holding a pen and writing a checklist of empty black squares on a
   notebook.
 translationKey: service-assessments
-thumb: /img/cds/thumbnails/checklist.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_checklist_bf2f5e5013.jpg
 processed: 1565980652710
 ---
 It takes a community of practice to transform government services. Last year, the Government of Canada introduced its [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html). These are a set of principles to help teams deliver better quality digital services for Canadians. Since their release, CDS has been exploring how departments can assess themselves against the Standards.

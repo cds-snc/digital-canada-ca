@@ -7,12 +7,12 @@ description: >-
   rapidement l’information entre les mains de la population canadienne.
 author: 'Marcel Saulnier, sous-ministre adjoint à Santé Canada'
 date: 2020-05-13T17:36:56.069Z
-image: /img/cds/financial-help-covid-19-fr.jpg
+image: https://de2an9clyit2x.cloudfront.net/financial_help_covid_19_fr_d69ae8d21c.jpg
 image-alt: >-
   Photo d’une personne parcourant le service de notification par courriel
   «Obtenir les nouvelles sur la COVID-19» sur son téléphone.
 translationKey: blog-get-covid-updates
-thumb: /img/cds/thumbnails/financial-help-covid-19-fr.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_financial_help_covid_19_fr_d69ae8d21c.jpg
 processed: 1589465188180
 ---
 **« Le numérique consiste à appliquer la culture, les processus, les modèles d’affaires et les technologies de l’ère de l’Internet pour répondre aux attentes élevées des personnes. » – Tom Loosemore**

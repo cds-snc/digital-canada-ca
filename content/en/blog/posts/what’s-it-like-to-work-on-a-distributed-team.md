@@ -6,12 +6,12 @@ description: >-
   experience working distributedly. 
 author: 'Emily Coffin, UX Design and Phil Smith, UX Design'
 date: 2019-04-15T14:46:56.823Z
-image: /img/cds/google-hangout2.jpg
+image: https://de2an9clyit2x.cloudfront.net/google_hangout2_a9a1bb9b37.jpg
 image-alt: >-
   Phil and Emily having a coffee chat with a colleague who is in a Google
   Hangout
 translationKey: VAC-distributed-interview
-thumb: /img/cds/thumbnails/google-hangout2.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_google_hangout2_a9a1bb9b37.jpg
 processed: 1555352343026
 ---
 Meet Phil and Emily, distributed team members from Veterans Affairs Canada (VAC) who have been working on the Benefits Finder partnership with us. 

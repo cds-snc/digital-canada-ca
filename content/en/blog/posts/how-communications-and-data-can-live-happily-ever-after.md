@@ -6,10 +6,10 @@ description: >-
   strategies and tell stories that resonate with our audience. 
 author: 'Charlotte Pedersen, Outreach'
 date: 2019-11-28T13:46:22.820Z
-image: /img/cds/dreaming-of-words.jpg
+image: https://de2an9clyit2x.cloudfront.net/dreaming_of_words_7126bfb389.jpg
 image-alt: Illustration of a girl daydreaming about writing and books.
 translationKey: Data-driven-comms
-thumb: /img/cds/thumbnails/dreaming-of-words.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_dreaming_of_words_7126bfb389.jpg
 processed: 1581626757485
 ---
 ## Once upon a time...
