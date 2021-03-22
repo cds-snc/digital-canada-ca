@@ -66,7 +66,7 @@ processed: 1581626757493
                 <h3>Observations:</h3>
                 <h5>Intercept in Montreal Day 1 - Dec/02/2019</h5>
                 <p>We set up our table that morning. We had a sign that read, “Hate government benefits paperwork? Help us make it easier,” hoping it would offer an additional incentive on top of our small compensation for their time.</p>
-                <img class="field-note-img" src="/img/cds/https://de2an9clyit2x.cloudfront.net/field_note_1_ad_d6b0760c29.jpg" alt="Hate government benefits paper-work? Help us make it easier. The Canadian Digital Service would love your feedback.">
+                <img class="field-note-img" src="https://de2an9clyit2x.cloudfront.net/field_note_1_ad_d6b0760c29.jpg" alt="Hate government benefits paper-work? Help us make it easier. The Canadian Digital Service would love your feedback.">
                 <img class="field-note-img" src="https://de2an9clyit2x.cloudfront.net/cppd_team_research_fd076489f2.jpg" alt="Researchers from the CPP-D team sitting at a table with Canadian Digital Service banners and posters recruiting physicians for research">
                 <p>Physicians were interested in participating in our research,  but said they couldn’t spare 15 minutes to sit down with us. </p>
                 <h5>Intercept in Montreal Day 2 - Dec/03/2019</h5>
