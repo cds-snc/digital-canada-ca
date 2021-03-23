@@ -30,13 +30,17 @@ Les gestionnaires de livraison agile sénior sont classés comme [CS-04](https:/
 
 ## Vous serez évalué en fonction de ce qui suit :
 
-- Connaissance et expérience des pratiques de gestion de la livraison agile, en particulier dans des environnements complexes impliquant plusieurs parties prenantes.
-- Capacité de coordonner et de motiver plus d’une équipe de développeurs, de concepteurs et de chercheurs, et expérience préalable de travail dans des rôles et des équipes similaires.
-- Créativité et passion pour la résolution de problèmes et l’atténuation des risques afin d’optimiser l’efficacité des équipes.
-- Avoir dirigé les efforts multidisciplinaires d'équipes visant à la conception, au développement, à la mise en production et à l'amélioration continue de services numériques à différentes étapes du cycle de vie d’un service.
-- Capacité d’établir des relations de confiance avec les parties prenantes et les équipes multidisciplinaires et d’adapter votre approche à chacun d’eux.
-- Sens de l’initiative, être organisé, apprendre par l’action et aider les autres à se réaliser et à atteindre leurs objectifs.
-- Promouvoir une prestation et livraison de service inclusives, axées sur l'impact, l'ouverture, l'intégrité et l'équité.
+1. Connaissance et expérience des pratiques de gestion de la livraison agile, en particulier dans des environnements complexes impliquant plusieurs parties prenantes.
+2. Capacité de coordonner et de motiver plus d’une équipe de développeurs, de concepteurs et de chercheurs, et expérience préalable de travail dans des rôles et des équipes similaires.
+3. Créativité et passion pour la résolution de problèmes et l’atténuation des risques afin d’optimiser l’efficacité des équipes.
+4. Avoir dirigé les efforts multidisciplinaires d'équipes visant à la conception, au développement, à la mise en production et à l'amélioration continue de services numériques à différentes étapes du cycle de vie d’un service.
+5. Capacité d’établir des relations de confiance avec les parties prenantes et les équipes multidisciplinaires et d’adapter votre approche à chacun d’eux.
+6. Sens de l’initiative, être organisé, apprendre par l’action et aider les autres à se réaliser et à atteindre leurs objectifs.
+7. Promouvoir une prestation et livraison de service inclusives, axées sur l'impact, l'ouverture, l'intégrité et l'équité.
+
+## Alerte Covid
+Vous vous joindrez à l’Unité opérationnelle d’Alerte Covid du Service numérique canadien (SNC), dont l’objectif est de fournir aux résidents canadiens des notifications lorsqu’ils peuvent avoir été exposés à une personne atteinte de la COVID-19. L’Unité dispose de différentes équipes multidisciplinaires composées de passionnés du numérique. Le travail est réparti en plusieurs domaines, notamment l’application mobile, le portail Web pour les systèmes de santé et les entreprises afin de faciliter l’envoi de notifications et le système dorsal qui permet la collecte de données anonymes et le suivi des mesures. Votre travail constitue une mesure d’urgence qui sera utilisée par des millions de personnes dans le but de réduire les effets négatifs de la pandémie.
+En raison de son importance et de sa visibilité, le projet Alerte Covid comprend un réseau complexe d’intervenants qui influent sur son orientation. L’équipe s’efforce de travailler autant que possible comme une équipe de livraison agile typique, mais elle est fortement influencée par les méthodes de travail de ses partenaires, ce qui implique parfois des changements de priorités. Pour participer à ce projet, vous devrez être prêt à donner suite à des changements de direction soudains et à des décisions de priorisation qui pourraient changer vos plans sans grand préavis.
 
 Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons. C’est avec fierté et passion que nous nous efforçons activement de rendre le SNC plus représentatif et plus inclusif de la société que nous servons. Notre capacité à fournir des services publics améliorés — des services accessibles et inclusifs — ne peut être réalisée que si nous pouvons reconnaître et exploiter l’éventail le plus diversifié de pensées, d’expériences et de compétences. Nous travaillons fort pour créer un environnement où les différentes perspectives et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à s’épanouir.
 
