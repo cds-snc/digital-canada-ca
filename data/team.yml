@@ -88,7 +88,7 @@ exec:
     imagehash: john_millons_64f6b29b6e
     email: John.Millons@tbs-sct.gc.ca
     twitter: JohnMillons
-  - archived: false
+  - archived: true
     name: John O'Brien
     title:
       en: Head of Security
