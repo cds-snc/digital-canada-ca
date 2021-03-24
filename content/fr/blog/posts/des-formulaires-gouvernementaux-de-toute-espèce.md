@@ -11,13 +11,13 @@ description: >-
   les publier en ligne.
 author: 'Hillary Lorimer, recherche en conception'
 date: 2021-01-11T23:29:51.376Z
-image: /img/cds/menagerie-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/menagerie_banner_3376fc1155.jpg
 image-alt: >-
   Quatre différents formulaires gouvernementaux, chacun étant illustré avec une
   caractéristique animale : une queue, des ailes d’oiseau, un bec d’oiseau et
   des ailes de papillon.
 translationKey: form-use-cases
-thumb: /img/cds/thumbnails/menagerie-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_menagerie_banner_3376fc1155.jpg
 processed: 1610460097151
 ---
 > Imaginez ce qui suit : vous cherchez sur Internet la marche à suivre pour demander un permis dont vous avez besoin. Vous tombez sur une page Web gouvernementale comprenant sept paragraphes sur les critères d’admissibilité. Après les avoir lus, vous ne savez toujours pas avec certitude si vous répondez aux critères, mais vous décidez quand même de faire votre demande. Le bouton « Faire une demande » vous entraîne alors vers un message vous invitant à télécharger un fichier PDF. Au moment où vous essayez de l’ouvrir, vous apprenez qu’il vous faudrait aussi un éditeur de fichiers PDF, que vous n’avez pas et n’êtes pas prêt à acheter. Vous décidez donc d’imprimer le document pour le remplir à la main. Le formulaire fait 4 pages et contient 37 questions. Ouf, ce sera long à remplir. Vous le mettez donc de côté, préférant y revenir lorsque vous aurez une bonne heure devant vous pour vous y atteler. Lorsque ce moment vient enfin, une semaine plus tard, vous vous rendez compte que seule la moitié des champs à remplir s’appliquent à votre situation. De plus, vous êtes loin de bien saisir l’information demandée dans les questions. Une fois votre formulaire rempli, vous le numérisez et l’envoyez par courriel, puis vous vous croisez les doigts et attendez.

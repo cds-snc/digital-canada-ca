@@ -7,12 +7,12 @@ description: >-
   connaissances permet de prendre de meilleures décisions.
 author: 'Clémentine Hahn, Gestion de produits'
 date: 2019-11-21T15:22:49.215Z
-image: /img/cds/montreal-library.jpg
+image: https://de2an9clyit2x.cloudfront.net/montreal_library_ec52e16559.jpg
 image-alt: >-
   Une image des rayons de la bibliothèque de Montréal où j’ai eu une crise de
   panique.
 translationKey: best-panic-attack
-thumb: /img/cds/thumbnails/montreal-library.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_montreal_library_ec52e16559.jpg
 processed: 1575304320916
 ---
 Il y a exactement un an, j’ai eu une crise de panique dans les toilettes de la Grande Bibliothèque à Montréal.
