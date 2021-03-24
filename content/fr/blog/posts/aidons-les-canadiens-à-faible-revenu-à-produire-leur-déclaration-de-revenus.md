@@ -10,12 +10,12 @@ author: >-
   Nancy McKenna (Agence du revenu du Canada) et Kylie Havelock (Service
   numérique canadien)
 date: 2018-11-07T16:00:00.000Z
-image: /img/cds/img_0880.jpg
+image: https://de2an9clyit2x.cloudfront.net/img_0880_26a9215f41.jpg
 image-alt: >-
   Quelqu'un produit sa déclaration de revenus sur papier avec une tasse en
   main. 
 translationKey: Canadians-complete-taxes
-thumb: /img/cds/thumbnails/img_0880.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_img_0880_26a9215f41.jpg
 processed: 1550672961798
 ---
 Tous les jours, les Canadiens utilisent les services gouvernementaux. En tant que fonctionnaires, nous assurons la conception et la prestation de ces services. Bon nombre de ces services sont cruciaux pour les gens qui en ont besoin. Cela veut dire que lorsque les gens ont besoin de services gouvernementaux, ils sont souvent confrontés à de sérieuses difficultés. 

@@ -7,12 +7,12 @@ description: >-
   make better decisions.
 author: 'Clémentine Hahn, Product Management'
 date: 2019-11-21T13:52:34.867Z
-image: /img/cds/montreal-library.jpg
+image: https://de2an9clyit2x.cloudfront.net/montreal_library_ec52e16559.jpg
 image-alt: >-
   An image of book stacks inside the Montreal library where I had my panic
   attack.
 translationKey: best-panic-attack
-thumb: /img/cds/thumbnails/montreal-library.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_montreal_library_ec52e16559.jpg
 processed: 1575304320698
 ---
 Exactly one year ago, I was having a panic attack in the restroom of a public library in Montreal.

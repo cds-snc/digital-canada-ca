@@ -10,10 +10,10 @@ description: >-
   services numériques.
 author: 'L''honorable Scott Brison, Président du Conseil du Trésor'
 date: '2017-07-18 09:00:00 -0400'
-image: /img/cds/launch-post-2017.jpg
+image: https://de2an9clyit2x.cloudfront.net/launch_post_2017_f32b0ac0bf.jpg
 image-alt: 'L''honorable Scott Brison, Président du Conseil du Trésor'
 translationKey: launch-of-the-canadian-digital-service
-thumb: /img/cds/thumbnails/launch-post-2017.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_launch_post_2017_f32b0ac0bf.jpg
 processed: 1550672961842
 ---
 Les Canadiens méritent des services gouvernementaux accessibles et faciles à utiliser. Ils s’attendent à ce que leur gouvernement fournisse des services axés sur les citoyens. Dans ce monde hyper connecté du 21<sup>e</sup> siècle, un service de qualité entend la prestation numérique, qu’il s’agisse de commander un mets à emporter, de renouveler son hypothèque, de gérer ses ordonnances ou d’accéder à des programmes et services gouvernementaux.

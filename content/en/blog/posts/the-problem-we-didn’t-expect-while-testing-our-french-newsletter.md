@@ -120,7 +120,7 @@ processed: 1583159548621
                    </ul>
                </td>
                <td class="diary-img">
-                   <img src="/img/cds/morale.jpg" alt="Word bubble with a smiley face inside of it.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/morale_08cb28f7c0.jpg" alt="Word bubble with a smiley face inside of it.">
                </td>
            </tr>
        </tbody>

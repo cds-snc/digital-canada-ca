@@ -8,10 +8,10 @@ description: >-
   et des exceptions.
 author: 'Anatole Papadopoulos, directeur de l’exploitation'
 date: 2019-01-31T14:00:00.000Z
-image: /img/cds/katka-pavlickova-131100-unsplash-min.jpg
+image: https://de2an9clyit2x.cloudfront.net/katka_pavlickova_131100_unsplash_min_3c6c37adef.jpg
 image-alt: Deux vieux Volkswagen Beetles se font face dans un champ sous un ciel bleu.
 translationKey: help-from-friends
-thumb: /img/cds/thumbnails/katka-pavlickova-131100-unsplash-min.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_katka_pavlickova_131100_unsplash_min_3c6c37adef.jpg
 processed: 1550672962186
 ---
 Des collègues fonctionnaires me demandent souvent « Quelles autorisations le Service numérique canadien (SNC) a-t-il obtenues pour fonctionner comme il le fait ? » J’ai donc pensé vous faire part des autorisations que nous avons reçues du gouvernement quand le SNC a été fondé en 2017:

@@ -122,7 +122,7 @@ processed: 1583159548752
                    </ul>
                </td>
                <td class="diary-img">
-                   <img src="/img/cds/morale.jpg" alt="Bulle de texte ayant un visage souriant à l’intérieur.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/morale_08cb28f7c0.jpg" alt="Bulle de texte ayant un visage souriant à l’intérieur.">
                </td>
            </tr>
        </tbody>

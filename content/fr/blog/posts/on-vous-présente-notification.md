@@ -7,13 +7,13 @@ description: >-
   services, et ce, à faible coût et sans tracas.
 author: 'Bryan Willey, gestionnaire de produit'
 date: 2019-11-26T15:32:39.711Z
-image: /img/cds/introducing-notify.jpg
+image: https://de2an9clyit2x.cloudfront.net/introducing_notify_d264bc51ad.jpg
 image-alt: >-
   Un téléphone et un ordinateur portable sont sur une table blanche, et chacun
   des écrans affiche la page d’accueil du service Notification, l’un en anglais,
   l’autre en français. 
 translationKey: introducing-notify
-thumb: /img/cds/thumbnails/introducing-notify.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_introducing_notify_d264bc51ad.jpg
 processed: 1575304320958
 ---
 Imaginez un scénario où chaque fois que vous utilisez un service gouvernemental, toute l’information nécessaire est acheminée au bon destinataire, au bon moment, et vous en avez l’assurance du début à la fin. Ces derniers mois, nous avons consacré notre temps à élaborer une solution qui aiderait le gouvernement du Canada à atteindre cet objectif.

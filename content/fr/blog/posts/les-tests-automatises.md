@@ -42,12 +42,12 @@ Elle diffère du modèle plus courant de « branche distincte », où les dével
 
 Nous avons choisi CircleCI pour automatiser nos tests. Il exécute toute notre suite de tests sur chaque poussée (*push*) vers Github. L’exécution de la suite de tests prend environ 2 minutes après la poussée, de sorte que les développeurs obtiennent une rétroaction très rapide et automatisée sur les changements proposés. Il n’est pas permis de fusionner les branches lorsque l’IC a échoué.
 
-<img width="80%" alt="Journaux de sortie qui montrent des tests réussis sur CircleCI" src="/img/cds/nrcan3-img1.png">
+<img width="80%" alt="Journaux de sortie qui montrent des tests réussis sur CircleCI" src="https://de2an9clyit2x.cloudfront.net/nrcan3_img1_2c562f811f.png">
 
 Réussite de l’exécution de l’IC
 
-<img width="80%" alt="Journaux de sortie qui montrent trois tests réussis et un test échoué sur CircleCI" src="/img/cds/nrcan3-img2.png">
-<img width="80%" alt="Journaux de sortie qui montrent un test échoué" src="/img/cds/nrcan3-img3.png">
+<img width="80%" alt="Journaux de sortie qui montrent trois tests réussis et un test échoué sur CircleCI" src="https://de2an9clyit2x.cloudfront.net/nrcan3_img2_3874be6ce8.png">
+<img width="80%" alt="Journaux de sortie qui montrent un test échoué" src="https://de2an9clyit2x.cloudfront.net/nrcan3_img3_473f846ada.png">
 
 Échec de l’exécution de l’IC
 

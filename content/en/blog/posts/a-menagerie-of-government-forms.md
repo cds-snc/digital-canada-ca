@@ -10,12 +10,12 @@ description: >-
   make them easier for public servants to build and publish online.
 author: 'Hillary Lorimer, Design Research'
 date: 2021-01-11T23:27:37.170Z
-image: /img/cds/menagerie-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/menagerie_banner_3376fc1155.jpg
 image-alt: >-
   Four different government forms illustrated with different animal features:
   one with a tail, one with wings, one with a beak, and one as a butterfly.
 translationKey: form-use-cases
-thumb: /img/cds/thumbnails/menagerie-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_menagerie_banner_3376fc1155.jpg
 processed: 1610460096890
 ---
 > Imagine this: You search the internet for information on how to apply for a permit that you need. It leads you to a government website with seven paragraphs about eligibility. You read it and are still a little unsure if you meet some of the criteria, but decide to apply anyway. The apply button leads you to a prompt to download a PDF document. When you try to open it, it says that you need to download PDF editing software, which you don’t have and don’t want to pay for. You decide to print it off and fill it out by hand. The form is four pages, and 37 questions long. Yikes, this is going to take a while. You decide to leave it until you have a good hour to sit down and tackle it properly. When you finally do a week later, it turns out that only half of the fields apply to you, and for those that do, you’re not even so sure exactly what information you’re being asked to provide. You scan and email the completed form, cross your fingers, and wait.

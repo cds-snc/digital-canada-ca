@@ -8,10 +8,10 @@ description: >-
   underrepresented users. 
 author: 'Martha Edwards and Anne-Marie Mulumba, Design Research'
 date: 2021-01-07T00:42:36.844Z
-image: /img/cds/inclusive-research-event.jpg
+image: https://de2an9clyit2x.cloudfront.net/inclusive_research_event_4cb5105cda.jpg
 image-alt: People connecting over a virtual meeting to discuss work and new ideas.
 translationKey: inclusive-research-event
-thumb: /img/cds/thumbnails/inclusive-research-event.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_inclusive_research_event_4cb5105cda.jpg
 processed: 1610031215315
 ---
 Design researchers are responsible for advocating for people using government services. One of the biggest challenges we face is doing research that we feel represents the needs of *all* users - not just those who we think might fit neatly in the mainstream. Factors like race, ability, age, physical location, gender or digital literacy can put people at a distinct disadvantage when it comes to accessing government services. 
