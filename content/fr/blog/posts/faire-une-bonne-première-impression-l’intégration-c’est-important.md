@@ -9,13 +9,13 @@ description: >-
   Il s’avère que ça prenait de la recherche, des découvertes et des tests.
 author: Jessica Loadenthal et Alexa Davidson
 date: 2019-07-29T13:00:00.000Z
-image: /img/cds/onboarding-banner-fitted.jpg
+image: https://de2an9clyit2x.cloudfront.net/onboarding_banner_fitted_12c3d9a91b.jpg
 image-alt: >-
   Une photo du bureau d'Eman lors de sa première journée, des papillons adhésifs
   étant collés sur les moniteurs de façon à écrire «Bienvenue Eman», et le
   bureau étant recouvert d'autocollants, de chocolats et de confettis.
 translationKey: onboarding-matters
-thumb: /img/cds/thumbnails/onboarding-banner-fitted.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_onboarding_banner_fitted_12c3d9a91b.jpg
 processed: 1564420750598
 ---
 En tant qu’organisme en pleine expansion, nous accueillons de nouveaux employés quasiment toutes les semaines. S’il s’agit de routine pour nous, c’est un événement unique pour les employés qui commencent. Un nouvel emploi peut être stressant, et la décision de garder son poste ou de passer à autre chose se prend souvent lors des premiers jours. Il est donc essentiel que nous créions une excellente expérience d’intégration. Après tout, les personnes sont au cœur de notre travail — il ne faut pas l’oublier. 

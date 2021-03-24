@@ -8,13 +8,13 @@ description: >-
   faire confiance.
 author: 'Jose Jimenez, étudiant en stage (Partenariats)'
 date: 2020-01-07T19:32:47.771Z
-image: /img/cds/jose-blog-header.jpg
+image: https://de2an9clyit2x.cloudfront.net/jose_blog_header_8527c435f6.jpg
 image-alt: >-
   Une table blanche sur laquelle sont posés les articles suivants, de gauche à
   droite: une pile de livres, une règle décorée d’une rangée de blocs Lego, un
   stylo blanc, une pomme et un haut-parleur portatif.
 translationKey: cds-student-trust
-thumb: /img/cds/thumbnails/jose-blog-header.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_jose_blog_header_8527c435f6.jpg
 processed: 1581626526621
 ---
 _En repensant aux huit mois que j’ai passés comme étudiant en stage au Service numérique canadien (SNC), j’ai appris que le renforcement de l’autonomie est une question de confiance : la confiance de la part de ses gestionnaires et, surtout, la confiance en soi._

@@ -12,12 +12,12 @@ author: >-
   Josh Ruihley, Emily Kuret, Stephen Yates, Courtney Claessens et Sean Boots,
   Service numérique canadien (SNC) 
 date: 2020-07-31T13:56:55.670Z
-image: /img/cds/improving-covid-alert-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/improving_covid_alert_banner_6e181f5c51.jpg
 image-alt: >-
   Trois personnes qui travaillent à l’amélioration de l’application Alerte
   COVID.
 translationKey: covid-alert-blog
-thumb: /img/cds/thumbnails/improving-covid-alert-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_improving_covid_alert_banner_6e181f5c51.jpg
 processed: 1596212014875
 ---
 <section class="page--outer-container-padding">
@@ -171,7 +171,7 @@ processed: 1596212014875
                        exemple. </p>
                </div>
  
-               <img class="flex-image" src="/img/cds/improving-covid-alert1-fr.jpg"
+               <img class="flex-image" src="https://de2an9clyit2x.cloudfront.net/improving_covid_alert1_fr_44bc58d45a.jpg"
                    alt="Capture de l’écran d’introduction d’Alerte COVID, disant : Votre vie privée est protégée. Alerte COVID n’utilise pas le GPS et ne suit pas votre emplacement. L’application n’a aucun moyen de connaître : votre emplacement, votre nom ou votre adresse, les contacts de votre téléphone, vos informations de santé, et les informations de santé des personnes à proximité.">
            </div>
  

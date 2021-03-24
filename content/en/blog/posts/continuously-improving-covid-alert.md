@@ -11,10 +11,10 @@ author: >-
   Josh Ruihley, Emily Kuret, Stephen Yates, Courtney Claessens, and Sean Boots,
   CDS
 date: 2020-07-31T13:44:03.404Z
-image: /img/cds/improving-covid-alert-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/improving_covid_alert_banner_6e181f5c51.jpg
 image-alt: Three people working to improve the COVID Alert application.
 translationKey: covid-alert-blog
-thumb: /img/cds/thumbnails/improving-covid-alert-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_improving_covid_alert_banner_6e181f5c51.jpg
 processed: 1596212015012
 ---
 <section class="page--outer-container-padding">
@@ -126,7 +126,7 @@ processed: 1596212015012
                        other people could theoretically be identified by their neighbours if they received exposure
                        notification alerts, for example.</p>
                </div>
-                <img class="flex-image" src="/img/cds/improving-covid-alert1-en.jpg"
+                <img class="flex-image" src="https://de2an9clyit2x.cloudfront.net/improving_covid_alert1_en_02a500d93a.jpg"
                    alt="A screenshot from COVID Alert’s introduction screen, saying: Your privacy is safe. COVID Alert does not use GPS or location services. It has no way of knowing: Your location. Your name or address. Your phone’s contacts. Your health information. The health information of anyone you’re near.">
            </div>
             <!-- <p> Based on the OPC’s feedback, we removed the word “anonymous” from the app and replaced it with more specific text

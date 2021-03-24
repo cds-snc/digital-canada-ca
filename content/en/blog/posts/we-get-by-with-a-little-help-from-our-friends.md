@@ -7,12 +7,12 @@ description: >-
   would share the full list of authorities and exemptions.
 author: 'Anatole Papadopoulos, Chief Operating Officer'
 date: 2019-01-31T14:00:00.000Z
-image: /img/cds/katka-pavlickova-131100-unsplash-min.jpg
+image: https://de2an9clyit2x.cloudfront.net/katka_pavlickova_131100_unsplash_min_3c6c37adef.jpg
 image-alt: >-
   Two vintage Volkswagen Beetles face each other in a green grass field with a
   blue sky.
 translationKey: help-from-friends
-thumb: /img/cds/thumbnails/katka-pavlickova-131100-unsplash-min.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_katka_pavlickova_131100_unsplash_min_3c6c37adef.jpg
 processed: 1550672961787
 ---
 I often get asked by fellow public servants “What authorities did the Canadian Digital Service (CDS) get to operate the way it does?” So I thought I would share the authorities we received from government when CDS was established in 2017:

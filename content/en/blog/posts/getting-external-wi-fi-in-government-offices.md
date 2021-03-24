@@ -7,10 +7,10 @@ description: >-
   external Wi-Fi for your team.
 author: 'Sean Boots, Policy'
 date: 2019-02-06T14:00:31.390Z
-image: /img/cds/img_20190206_121320.jpg
+image: https://de2an9clyit2x.cloudfront.net/img_20190206_121320_bceaa8ad84.jpg
 image-alt: A person connecting their MacBook to a handheld MiFi device.
 translationKey: external-wifi
-thumb: /img/cds/thumbnails/img_20190206_121320.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_img_20190206_121320_bceaa8ad84.jpg
 processed: 1550672961697
 ---
 Having access to modern tools is a prerequisite for delivering modern digital services. We’ve written previously about [the importance of modern tools](https://digital.canada.ca/2018/06/27/tools-to-do-good-work/), like MacBooks and Linux-based laptops, for design and software development work.

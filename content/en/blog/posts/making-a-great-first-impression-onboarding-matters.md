@@ -9,12 +9,12 @@ description: >-
   some testing.
 author: Jessica Loadenthal and Alexa Davidson
 date: 2019-07-29T13:00:00.000Z
-image: /img/cds/onboarding-banner-fitted.jpg
+image: https://de2an9clyit2x.cloudfront.net/onboarding_banner_fitted_12c3d9a91b.jpg
 image-alt: >-
   A photo of Eman's desk on her first day that says "Bienvenue Eman" in sticky
   notes. The desk is covered in stickers, chocolates and confetti.
 translationKey: onboarding-matters
-thumb: /img/cds/thumbnails/onboarding-banner-fitted.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_onboarding_banner_fitted_12c3d9a91b.jpg
 processed: 1564420750507
 ---
 As a growing organization, we onboard new employees almost every week. While this is something we do regularly, it’s a once in a lifetime experience for the employee starting. A new job can be stressful, and the decision to stick with a job or move on is often made within the first few days. It’s vital that we create a great onboarding experience. We never want to lose sight of the fact that people are at the heart of what we do.
