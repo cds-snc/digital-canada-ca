@@ -52,7 +52,7 @@ We added an introductory page to the service, that prepares users for what they 
 
 <p style="clear: both;"> We also revised the calendar page:</p>
 
-<img width="50%" alt="Screenshot of an updated calendar interface, showing the month of June. There is less text above the date picker. The instructions read: “Citizenship tests are scheduled on Tuesdays and Fridays. Select three (3) days you are available in June and/or July.” The date picker now has areas highlighting which dates have been picked, in this case dates selected are Tuesday June 1, 2018, Friday June 11, 2018 and Tuesday July 5, 2018." src="s-website-assets-prod.s3.ca-central-1.amazonaws.com/ircc_chosen_days_calendar_e35e41b5f3.png">
+<img width="50%" alt="Screenshot of an updated calendar interface, showing the month of June. There is less text above the date picker. The instructions read: “Citizenship tests are scheduled on Tuesdays and Fridays. Select three (3) days you are available in June and/or July.” The date picker now has areas highlighting which dates have been picked, in this case dates selected are Tuesday June 1, 2018, Friday June 11, 2018 and Tuesday July 5, 2018." src="https://de2an9clyit2x.cloudfront.net/ircc_chosen_days_calendar_e35e41b5f3.png">
 
 ### Takeaways:
 * Reduce the amount of descriptive copy on pages where there is an important task for users to complete.
