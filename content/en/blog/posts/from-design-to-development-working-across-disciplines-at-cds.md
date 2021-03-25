@@ -6,12 +6,12 @@ description: >-
   and collaborate to build better products. 
 author: 'Nick Makuch, Interaction designer/Front-end developer'
 date: 2019-01-08T14:00:00.000Z
-image: /img/cds/yoel-j-gonzalez-304137-unsplash.jpg
+image: https://de2an9clyit2x.cloudfront.net/yoel_j_gonzalez_304137_unsplash_64d7101ca1.jpeg
 image-alt: >-
   An aerial view of an intersection where cars are stopped and people are
   waiting to cross the street.
 translationKey: working-across-disciplines
-thumb: /img/cds/thumbnails/yoel-j-gonzalez-304137-unsplash.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_yoel_j_gonzalez_304137_unsplash_64d7101ca1.jpeg
 processed: 1550672961692
 ---
 I took Interactive Multimedia and Design in school, where I learned a solid foundation in both design and development. Professors said we’d likely end up working between these two disciplines, as a bridge. Towards the end of my program, I chose to focus primarily on design. I didn’t realize that, some short years later, I’d be learning how to code again.

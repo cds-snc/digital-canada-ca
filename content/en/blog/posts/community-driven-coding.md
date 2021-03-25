@@ -32,11 +32,11 @@ The cooperation went both ways. We gave back a small set of improvements, such a
 And the cooperation continues. While testing our system last week, we uncovered a bug. Values in one of the columns were not being sorted correctly. After tracing it back to the original Pulse repository and verifying that the bug was present on their version too, we worked with Eric to figure out what was going on. Eric noticed that the values were being sorted as if they were text (ie. 33% 33% 33% 33% 3% 29% 28% …)
 
 <div class="col-sm-6">
-    <img width="100%" style="max-width:190px;" alt="A values table with seven bars, each displaying a different percentage. In this table, the percentage values are sorted by text order (33%, 33%, 33%, 33%, 3%, 29%, and 28%)." src="/img/cds/blog-david-https-en_1.png">
+    <img width="100%" style="max-width:190px;" alt="A values table with seven bars, each displaying a different percentage. In this table, the percentage values are sorted by text order (33%, 33%, 33%, 33%, 3%, 29%, and 28%)." src="https://de2an9clyit2x.cloudfront.net/blog_david_https_en_1_11d2735e08.png">
 </div>
 
 <div class="col-sm-6">
-    <img width="100%" style="max-width:200px;" alt="A values table with seven bars, each displaying a different percentage. In this table, the percentage values are sorted by numeric order (33%, 33%, 33%, 33%, 29%, 28%, and 26%)." src="/img/cds/blog-david-https-en_2.png">
+    <img width="100%" style="max-width:200px;" alt="A values table with seven bars, each displaying a different percentage. In this table, the percentage values are sorted by numeric order (33%, 33%, 33%, 33%, 29%, 28%, and 26%)." src="https://de2an9clyit2x.cloudfront.net/blog_david_https_en_2_866f1b6318.png">
 </div>
 
 Once that realization was made, it was a fairly simple thing to enforce numeric sorting on the column, resolving the issue.

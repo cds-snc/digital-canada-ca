@@ -9,13 +9,13 @@ description: >-
   turned that research into actionable items to improve our service.
 author: 'Mel Banyard, Design Research and Charlotte Pedersen, Outreach'
 date: 2019-08-29T13:51:20.452Z
-image: /img/cds/rcmp-prototype-en.jpg
+image: https://de2an9clyit2x.cloudfront.net/rcmp_prototype_en_7440cea621.jpg
 image-alt: >-
   First person perspective of someone holding a mobile phone, with the reporting
   tool prototype pulled displayed. The title reads, “Report a scam or an online
   crime”.
 translationKey: reporting-service-checklist
-thumb: /img/cds/thumbnails/rcmp-prototype-en.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_rcmp_prototype_en_7440cea621.jpg
 processed: 1567091591113
 
 ---

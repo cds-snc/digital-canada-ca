@@ -14,13 +14,13 @@ description: >-
   consulter les fonctionnaires.
 author: 'Megan Beretta, conseillère en politiques'
 date: 2019-08-30T15:30:37.498Z
-image: /img/cds/tna-image.jpg
+image: https://de2an9clyit2x.cloudfront.net/tna_image_cfa9a36c02.jpg
 image-alt: >-
   Une vingtaine de participants à un événement « Diversité au sein des services
   numériques » sont assis autour de grandes tables rondes, avec des ordinateurs
   portables et des papillons adhésifs, à l’occasion d’un atelier.
 translationKey: assessing-training-needs
-thumb: /img/cds/thumbnails/tna-image.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_tna_image_cfa9a36c02.jpg
 processed: 1567559156581
 ---
 Alors que le gouvernement du Canada (GC) s’efforce d’améliorer sa façon de concevoir et d’offrir des services, il est possible d’envisager de nouveaux outils, méthodes et pratiques pour renforcer notre capacité à y parvenir. Mais les gens — les fonctionnaires — demeurent au cœur de ces efforts. Ainsi, lorsque nous avons [fait équipe](/2018/11/01/chers-collègues-quelle-est-la-formation-numérique-dont-vous-avez-besoin/) avec la Faculté de gestion de l’Université Dalhousie, à la fin de l’année dernière, pour mieux comprendre et évaluer les besoins actuels en formation dans les disciplines numériques à l’échelle du GC, nous avons commencé par consulter les fonctionnaires. Communiquer directement avec eux nous a permis de mieux comprendre leurs besoins et la façon dont nous pouvons y répondre. Le rapport complet se trouve sur [le site Web de l’Université Dalhousie](https://bit.ly/2NHBVyG).

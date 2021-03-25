@@ -6,12 +6,12 @@ description: >-
   valuable service for the public to report a cybercrime. 
 author: 'Lucas Cherkewski, Policy'
 date: 2019-07-11T16:39:10.164Z
-image: /img/cds/rcmp-data-blog.jpg
+image: https://de2an9clyit2x.cloudfront.net/rcmp_data_blog_97a57c658d.jpg
 image-alt: >-
   Photo of six members of the RCMP team around a table. They are smiling and
   reviewing a service diagram made up of different coloured sticky notes.
 translationKey: data-driven-service
-thumb: /img/cds/thumbnails/rcmp-data-blog.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_rcmp_data_blog_97a57c658d.jpg
 processed: 1563384025336
 ---
 

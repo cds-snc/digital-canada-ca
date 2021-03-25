@@ -9,12 +9,12 @@ description: >-
   on for a practical example of accessible design. 
 author: 'Paul Craig, Development '
 date: 2021-02-04T14:51:35.505Z
-image: /img/cds/screenreader-blog-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/screenreader_blog_banner_5e9a928d1d.jpg
 image-alt: >-
   A person using a screen reader to hear important information from their
   computer.
 translationKey: blog-screenreader-stuff
-thumb: /img/cds/thumbnails/screenreader-blog-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_screenreader_blog_banner_5e9a928d1d.jpg
 processed: 1612450943845
 ---
 ## COVID Alert and backup codes
@@ -61,14 +61,14 @@ I was interested to see how both Google and Github’s recovery codes looked and
              <li>A list of checkboxes</li>
              <li>Characters are all numbers</li>
           </ul>
-          <img src="/img/cds/screenreader-blog-google.jpg" alt="A list of Google’s recovery codes made up of 8 random numbers.">
+          <img src="https://de2an9clyit2x.cloudfront.net/screenreader_blog_google_9d054056bb.jpg" alt="A list of Google’s recovery codes made up of 8 random numbers.">
            </td>
          <td>
           <ul>
              <li>A list of bullet points</li>
              <li>Characters are hexadecimal (mix of numbers and the first six letters of the alphabet a,b,c,d,e,f”)</li>
           </ul>
-          <img src="/img/cds/screenreader-blog-github.jpg" alt="A list of Github’s recovery codes made up of 10 random letters and numbers.">
+          <img src="https://de2an9clyit2x.cloudfront.net/screenreader_blog_github_03bcadc8b6.jpg" alt="A list of Github’s recovery codes made up of 10 random letters and numbers.">
            </td>
       </tr>
   </tbody>

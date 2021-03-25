@@ -7,10 +7,10 @@ description: >-
   providing training to strengthen the government's digital capacity.
 author: 'Stevie-Ray Talbot, Policy'
 date: '2018-08-31 09:00:00 -0400'
-image: /img/cds/rfp_eng.jpg
+image: https://de2an9clyit2x.cloudfront.net/rfp_eng_f9ec7032b9.jpg
 image-alt: 'A maple leaf sticker with the words, Strong and Free.'
 translationKey: rfp
-thumb: /img/cds/thumbnails/rfp_eng.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_rfp_eng_f9ec7032b9.jpg
 processed: 1550672961754
 ---
 

@@ -12,13 +12,13 @@ author: >-
   Mel Banyard, Recherche en conception et Charlotte Pedersen, Liaison et
   diffusion
 date: 2019-08-29T14:02:49.122Z
-image: /img/cds/rcmp-prototype-fr.jpg
+image: https://de2an9clyit2x.cloudfront.net/rcmp_prototype_fr_e12e5f1872.jpg
 image-alt: >-
   Vue à la première personne d’une main tenant un cellulaire dont l’écran
   affiche une page du prototype de signalement. Le titre de la page est «
   Signalez une fraude ou un crime informatique »
 translationKey: reporting-service-checklist
-thumb: /img/cds/thumbnails/rcmp-prototype-fr.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_rcmp_prototype_fr_e12e5f1872.jpg
 processed: 1567091591211
 
 ---
