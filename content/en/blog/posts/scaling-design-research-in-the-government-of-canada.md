@@ -9,12 +9,12 @@ description: >-
   conflated with public opinion research (POR).
 author: 'Colin MacArthur, Head of Design Research, John Millons, Head of Policy'
 date: 2019-06-26T13:00:00.000Z
-image: /img/cds/puzzle.jpg
+image: https://de2an9clyit2x.cloudfront.net/puzzle_f193470c2c.jpg
 image-alt: >-
   A photo showing a table covered by white puzzle pieces, with a focus on an
   individual’s hand holding a unique red puzzle piece.
 translationKey: design-research
-thumb: /img/cds/thumbnails/puzzle.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_puzzle_f193470c2c.jpg
 processed: 1562852147851
 ---
 Design research (or user research) helps us understand the people who use our services. If we understand them, we can better meet their needs. We’ve seen how important design research is to delivering people-centered digital services in our work with partners. We’ve also seen how easily it can become mistaken for public opinion research (POR.) 

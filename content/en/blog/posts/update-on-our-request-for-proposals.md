@@ -4,10 +4,10 @@ title: UPDATE on our Request for Proposals
 description: Here’s an update with our best estimates on timelines.
 author: 'Stevie-Ray Talbot, Policy'
 date: 2019-01-22T14:00:00.000Z
-image: /img/cds/rfp_eng.jpg
+image: https://de2an9clyit2x.cloudfront.net/rfp_eng_f9ec7032b9.jpg
 image-alt: 'A maple leaf sticker with the words, Strong and Free.'
 translationKey: update-rfp
-thumb: /img/cds/thumbnails/rfp_eng.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_rfp_eng_f9ec7032b9.jpg
 processed: 1550672961783
 ---
 Thank you to all of the bidders that took the time and effort to respond to our [Request for Proposals](https://buyandsell.gc.ca/procurement-data/tender-notice/PW-18-00841347). Since bidding closed we have been working hard to evaluate the bids, but it’s taking us longer than we would have liked. We know you and your teams need to make plans so here’s an update with our best estimates on timelines and a few reminders. 

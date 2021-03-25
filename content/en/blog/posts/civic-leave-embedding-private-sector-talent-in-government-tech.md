@@ -6,10 +6,10 @@ description: >-
   expertise by taking a tour of service with the public sector or civil society.
 author: 'Andrea Gilbrook, Head of Talent'
 date: 2019-07-26T13:00:00.000Z
-image: /img/cds/small-maple-leafs.jpg
+image: https://de2an9clyit2x.cloudfront.net/small_maple_leafs_652f66ae34.jpg
 image-alt: 'Photo of people side by side, each holding a maple leaf in their hand.'
 translationKey: civic-leave
-thumb: /img/cds/thumbnails/small-maple-leafs.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_small_maple_leafs_652f66ae34.jpg
 processed: 1564408446303
 ---
 It takes a variety of skilled people to create and deliver quality government digital services. Here at CDS, we use multi-disciplinary teams to build simple and effective services for Canadians. This requires a team with diverse skills and backgrounds and expertise from different sectors or even  countries. 

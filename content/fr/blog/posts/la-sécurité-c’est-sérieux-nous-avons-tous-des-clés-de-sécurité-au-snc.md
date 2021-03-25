@@ -7,10 +7,10 @@ description: >-
   contrôle des comptes par hameçonnage ou vol de justificatifs d’identité.
 author: 'Damien Trudel, Sécurité'
 date: 2019-08-15T13:00:00.000Z
-image: /img/cds/yubikey-3.jpg
+image: https://de2an9clyit2x.cloudfront.net/yubikey_3_f8e7460aeb.jpg
 image-alt: Une main qui appuie sur sa clé yubikey.
 translationKey: yubikey-post
-thumb: /img/cds/thumbnails/yubikey-3.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_yubikey_3_f8e7460aeb.jpg
 processed: 1565980653077
 ---
 J’ai peur, très peur! J’ai peur de me réveiller le matin et de constater que les ressources infonuagiques du Service numérique canadien (SNC) ont été vandalisées ou détruites parce qu’une personne mal intentionnée a mis la main sur les justificatifs d’identité de quelqu’un et a décidé de tout bousiller. Cette peur est réelle, et même les plus consciencieux d’entre nous sont vulnérables.

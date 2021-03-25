@@ -33,7 +33,7 @@ processed: 1583159548752
                <p>J’ai rencontré Élise aujourd’hui pour discuter de la façon dont nous pouvons améliorer l’intérêt envers notre infolettre française. <span class="bold">Nous supposons que le lectorat est faible parce que notre contenu rate sa cible et qu’il n’est pas adapté au lectorat francophone.</span> Après tout, le contenu est roi, non?</p>
                </td>
                <td class="diary-img">
-                   <img src="/img/cds/balance.jpg" alt="Deux plateaux de balance équilibrés.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/balance_1b79bd89c9.jpg" alt="Deux plateaux de balance équilibrés.">
                </td>
            </tr>
        </tbody>
@@ -73,7 +73,7 @@ processed: 1583159548752
                    <p>Le public cible dans les deux cas est le lectorat francophone. On veut vraiment savoir ce qui cloche avec notre infolettre française.</p>
                </td>
                <td class="diary-img">
-                   <img src="/img/cds/sondage.jpg" alt="Un carnet de note avec des cases à cocher et le mot « sondage ».">
+                   <img src="https://de2an9clyit2x.cloudfront.net/sondage_339eee14ea.jpg" alt="Un carnet de note avec des cases à cocher et le mot « sondage ».">
                </td>
            </tr>
        </tbody>
@@ -90,7 +90,7 @@ processed: 1583159548752
        <tbody>
            <tr>
                <td class="diary-img">
-                   <img src="/img/cds/attente.jpg" alt="Sablier.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/attente_568f18f673.jpg" alt="Sablier.">
                </td>
                <td class="diary-text">
                    <p>Il y a cinq jours, nous avons envoyé le courriel ciblé et le sondage aux abonnés francophones faiblement engagés. Jusqu’à maintenant, nous avons reçu 16 réponses d’un groupe de personnes qui, d’après les données, ne réagissent normalement pas à nos courriels. Pas mal.</p>

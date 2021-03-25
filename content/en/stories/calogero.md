@@ -4,7 +4,7 @@ description: "Calogero’s experience protecting Canada’s interest across Euro
 archived: false
 layout: story
 type: section
-image: /img/cds/stories-calogero.jpg
+image: https://de2an9clyit2x.cloudfront.net/stories_calogero_d37d0f24dd.jpg
 imagealt: Calogero, a veteran, laughing and smiling standing in front of a decorative screen in the living room of his home.
 translationKey: calogero
 

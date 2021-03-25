@@ -6,10 +6,10 @@ description: >-
   you enhance your messages.
 author: 'Philippe Tardif, Visual Storyteller'
 date: 2020-01-28T15:02:30.012Z
-image: /img/cds/visual-storyteller.jpg
+image: https://de2an9clyit2x.cloudfront.net/visual_storyteller_533f467c76.jpg
 image-alt: A picture of a man at a computer designing a visual story about outer space.
 translationKey: visual-storyteller-blog
-thumb: /img/cds/thumbnails/visual-storyteller.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_visual_storyteller_533f467c76.jpg
 processed: 1581626586748
 ---
 Are you looking to make your communications more effective? Let images help you enhance your messages.

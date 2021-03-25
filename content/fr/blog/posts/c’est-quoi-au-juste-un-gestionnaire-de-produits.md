@@ -8,7 +8,7 @@ description: >-
   gestion des produits diffère de la gestion de projet.
 author: 'Bryan Willey, Clémentine Hahn, Courtney Claessens, Dan Tse, Stevie-Ray Talbot'
 date: 2019-07-23T13:00:00.000Z
-image: /img/cds/pm-banner-fix.jpg
+image: https://de2an9clyit2x.cloudfront.net/pm_banner_fix_646dadacee.jpg
 image-alt: >-
   Une équipe souriante de cinq gestionnaires de produits dispersés du SNC :
   quatre gestionnaires en vidéoconférence et un gestionnaire en personne qui se
@@ -16,7 +16,7 @@ image-alt: >-
   dispersés de l’équipe de gestion de produits qui travaillent de Montréal,
   Waterloo, Toronto et Ottawa.
 translationKey: product-manager-QA
-thumb: /img/cds/thumbnails/pm-banner-fix.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_pm_banner_fix_646dadacee.jpg
 processed: 1563904136241
 ---
 
