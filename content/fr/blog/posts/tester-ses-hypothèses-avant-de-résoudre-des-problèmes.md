@@ -25,12 +25,15 @@ Il existe [une définition officielle de l’autorisation d’exploiter](https:/
 L'équipe de la cybersécurité savait que quelque chose ne fonctionnait pas avec ce processus. Les équipes cherchant à obtenir une autorisation d’exploiter achevaient l’évaluation très tard dans le processus de développement de leur service — presque comme une arrière-pensée. 
 
 L'équipe de la cybersécurité savait que la communauté était frustrée par l’évaluation et l’autorisation de sécurité et cherchait à comprendre comment la rendre plus conviviale. L'objectif était d'encourager les équipes à y travailler plus tôt dans leur processus de développement afin qu'elles puissent lancer leurs produits au moment prévu, en prenant en compte tous les enjeux de sécurité, plutôt que de voir ça comme un élément d’une liste de contrôle en fin de projet. Tout le monde y gagne! 
+
 ## Comprendre le problème
 Dès le début du partenariat, nous avions quelques intuitions quant à l'origine des frustrations. Mais avant de passer directement à la résolution des problèmes supposés, nous voulions valider nos hypothèses pour nous assurer que nos décisions et nos efforts de résolution de problème étaient fondés sur des faits.
+
 #### 1. Réfléchir et classer les hypothèses par ordre de priorité
 Nous avons d’abord mené un remue-méninges d’équipe sur les sources possibles du problème. Ensuite, les hypothèses ont été classées selon l’incidence qu’elles auraient si elles étaient erronées. Ainsi, nous avons pu concentrer nos efforts sur la validation des hypothèses les plus percutantes.
 
 Les voici :
+
 * Les processus de sécurité du gouvernement ralentissent les cycles de développement itératifs.
 * La réalisation d’une évaluation de sécurité prend de 60 à 90 jours.
 * Les équipes de sécurité et d'application se renvoient constamment la balle plutôt que de travailler en collaboration, ce qui ralentit les échéances. 
@@ -38,6 +41,7 @@ Les voici :
 * Il devrait y avoir un moyen plus itératif d'effectuer les activités d'évaluation de la sécurité.
 * Les chefs d’activités évaluent leur risque de sécurité en fonction du rapport issu du processus d’évaluation de la sécurité.
 * Il est possible d'être à la fois itératif et sécurisé.
+
 #### 2. Approfondir chaque hypothèse
 Avec notre liste d'hypothèses hiérarchisées en main, nous avons choisi une méthode de recherche qui nous aiderait à mieux comprendre chacune d'elles. 
 
@@ -59,7 +63,8 @@ Tout au long de ce processus, bon nombre de nos hypothèses ont été validées.
 Par exemple, nous avions supposé que les équipes mettaient en œuvre l’ensemble des contrôles de sécurité compris dans l’ITSG-33, et plus particulièrement les contrôles du [profil 1 - Protégé B/Intégrité moyenne/Disponibilité moyenne](https://cyber.gc.ca/sites/default/files/publications/itsg33-ann4a-1-fra.pdf) du CCCS, parce qu’ils sont obligatoires. 
 Grâce à nos recherches, nous avons appris que les équipes utilisaient le profil tel quel, sans l’adapter à leurs besoins opérationnels. Pour aider à résoudre la situation, l'équipe de cybersécurité a publié le [Guide de sécurité pour les solutions de systèmes d'information](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/innovations-gouvernementales-numeriques/services-informatique-nuage/guide-securite-solutions-systeme-information-nuage.html) afin de préciser les contrôles de base requis pour un système conformément à la [Politique sur la sécurité du gouvernement](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=16578). 
 C'est un exemple parmi plusieurs que nous ne pouvons malheureusement pas inclure dans un seul billet de blogue. Mais si vous avez des questions sur l'approche de sécurité continue et les autres travaux qu’effectue le bureau du DPI pour aider à améliorer le processus d’évaluation de la sécurité, [écrivez-leur](mailto:zztbscybers@tbs-sct.gc.ca)!
- ## Nouveaux contextes, nouvelles hypothèses à valider
+
+## Nouveaux contextes, nouvelles hypothèses à valider
 
 L'exercice de validation des hypothèses a été un rappel utile que nos expériences et nos hypothèses ne révèlent qu'une petite partie de l'histoire. Pour résoudre des problèmes de façon efficace, et dans notre cas, rendre les processus plus conviviaux, il fallait comprendre toutes les pièces du casse-tête afin de résoudre les problèmes selon la réalité des gens et non seulement nos hypothèses.
 
