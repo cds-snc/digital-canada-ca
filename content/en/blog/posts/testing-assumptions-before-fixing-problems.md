@@ -25,12 +25,16 @@ There’s [an official definition of an ATO](https://cyber.gc.ca/en/guidance/it-
 The Cyber Security team knew something wasn’t working with the SA&A. They noticed that teams looking to get an ATO would complete the SA&A very late in the process of building their service – almost as an afterthought. 
 
 The Cyber Security team knew the community was frustrated with the SA&A and wanted to understand what they could do to make it more user-friendly. The goal was to encourage teams to start working on it earlier in their building process – rather than seeing it as a checklist item to save for the end – so they could launch when they wanted to launch, with all security risks accounted for. Win-win! 
+
 ## Understanding the problem
+
 When we started the partnership, we had a few hunches as to where the frustrations were coming from. However, instead of jumping right in and starting to fix these assumed issues, we wanted to validate our assumptions to ensure our decisions and problem-solving efforts were based in fact.
+
 ### 1. Brainstorm and prioritize assumptions
 As a team we brainstormed our assumptions of what the problem might be. We then prioritized our assumptions based on the impact it would have if the assumption was wrong. This helped us focus on validating the most impactful assumptions first.
 
 These were:
+
 * Security processes within government are slowing down iterative development cycles;
 * Security assessments take 60-90 days to complete;
 * Long timelines are due to back and forth between security teams and application teams (throwing over the fence vs. working collaboratively); 
@@ -38,7 +42,9 @@ These were:
 * There should be more of an iterative way to perform security assessment activities;
 * Business leaders evaluate their security risk based on the report that comes out of the SA&A process, and;
 * It is possible to be both iterative and secure.
+
 ### 2. Research each assumption
+
 With a list of prioritized assumptions, we picked a research methodology that would help us better understand each one. 
 
 * First, we went broad: reading documentation of how application security assessments are done by other organizations. 
@@ -52,6 +58,7 @@ By the end of the research, we had a lot of helpful information around both chal
 First, we gained a better understanding of the **specific challenges people in the Government of Canada were facing** when they tried to get an ATO using the current process (outlined in the Canadian Centre for Cyber Security’s IT Security Risk Management Framework, otherwise known as ITSG-33). For example, we heard that the current process could unintentionally increase risk because of how siloed delivery and security teams are, making security more of a compliance audit rather than an ongoing risk-based cooperative effort. 
 
 We also heard how **other organizations implemented a continuous security approach** to address some of the problems we had validated. This included embedding security expertise into all teams and all roles.
+
 ## Validating assumptions
 
 Throughout this process, many of our assumptions were validated. But we also learned some nuance about the challenges we might not have known if we hadn’t done the additional research. 
