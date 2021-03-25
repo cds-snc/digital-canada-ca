@@ -9,12 +9,12 @@ description: >-
   leaders who are in a position to empower this kind of departmental change.
 author: 'Jeff Adam (RCMP), Charlotte Pedersen (CDS)'
 date: 2020-03-09T13:40:27.736Z
-image: /img/cds/jeff-adam.jpg
+image: https://de2an9clyit2x.cloudfront.net/jeff_adam_9fda86899c.jpg
 image-alt: >-
   A quote from Jeff Adam, RCMP Assistant Commissioner: “It’s not about cutting
   corners. It’s about taking a different path.”
 translationKey: jeff-adam-interview
-thumb: /img/cds/thumbnails/jeff-adam.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_jeff_adam_9fda86899c.jpg
 processed: 1583853528683
 ---
 In 1987, Jeff Adam joined the Royal Canadian Mounted Police (RCMP) because he wanted to help the vulnerable and catch the bad guys. Thirty-three years later, he’s still striving to do that, now as the Assistant Commissioner in charge of Technical Operations. 

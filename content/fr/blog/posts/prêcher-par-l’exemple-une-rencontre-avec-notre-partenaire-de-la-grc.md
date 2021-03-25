@@ -10,12 +10,12 @@ description: >-
   sont en mesure de favoriser ce type de changement ministériel.
 author: 'Jeff Adam (GRC), Charlotte Pedersen (SNC)'
 date: 2020-03-09T13:55:41.495Z
-image: /img/cds/jeff-adam.jpg
+image: https://de2an9clyit2x.cloudfront.net/jeff_adam_9fda86899c.jpg
 image-alt: >-
   Une citation de Jeff Adam, commissaire adjoint de la GRC : « Il ne s’agit pas
   de tourner les coins ronds. Il s’agit d’emprunter un chemin différent. »
 translationKey: jeff-adam-interview
-thumb: /img/cds/thumbnails/jeff-adam.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_jeff_adam_9fda86899c.jpg
 processed: 1583853817542
 ---
 En 1987, Jeff Adam s’est joint à la Gendarmerie royale du Canada (GRC) parce qu’il voulait aider les personnes vulnérables et attraper les méchants. Trente-trois ans plus tard, il s’efforce toujours de le faire, maintenant en tant que commissaire adjoint chargé des opérations techniques.
