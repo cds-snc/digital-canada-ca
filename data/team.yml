@@ -233,6 +233,16 @@ team:
     linkedin: brockhiggins
     twitter: brockhigg10
   - archived: false
+    name: Bryan Robitaille
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_bryan_robitaille_d61fc88f5a
+    email: bryan.robitaille@tbs-sct.gc.ca
+    github: bryan-robitaille
+    linkedin: bryan-robitaille
+    twitter: RobitailleBryan
+  - archived: false
     name: Bryan Willey
     title:
       en: Product Management
@@ -413,6 +423,14 @@ team:
     imagehash: kate_wilhelm_dd0f381acd
     email: kate.wilhelm@tbs-sct.gc.ca
   - archived: false
+    name: Kelsey Harris
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    imagehash: kelsey_harris_0566b91b37
+    email: kelsey.harris@tbs-sct.gc.ca
+    linkedin: kelsey-harris-39373b139
+  - archived: false
     name: Leah Finkelstein
     title:
       en: Talent
@@ -521,6 +539,14 @@ team:
     imagehash: priyanka_rahman_c3c9d64df6
     email: Priyanka.Rahman@tbs-sct.gc.ca
     linkedin: priyanka-rahman-5b91a8145
+  - archived: false
+    name: Sabine Runciman
+    title:
+      en: Design Research
+      fr: Recherche en conception
+    imagehash: small_sabine_runciman_b694c89e37
+    email: sabine.runciman@tbs-sct.gc.ca
+    linkedin: sabinerunciman
   - archived: false
     name: Samantha Sadasivan
     title:
