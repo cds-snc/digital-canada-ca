@@ -35,11 +35,11 @@ La coopération s’est établie dans les deux sens. De notre côté, nous avons
 Et la coopération continue. La semaine passée, lors d’un test nous avons découvert un bogue. Les valeurs d’une des colonnes n’étaient pas correctement triées. Après avoir remonté la chaîne jusqu’au référentiel original de Pulse et vérifié que le bogue se trouvait également dans cette version, nous avons travaillé avec Eric pour tenter de comprendre ce qui se passait. Eric a remarqué que les valeurs étaient triées comme s’il s’agissait d’un texte (c.-à-d. 33 % 33 % 33 % 33 % 3 % 29 % 28 %…)
 
 <div class="col-sm-6">
-    <img width="100%" style="max-width:190px;" alt="Un tableau de valeurs avec sept barres, chacune affichant un pourcentage différent. Dans ce tableau, les pourcentages sont triés par ordre textuel (33 %, 33 %, 33 %, 33 %, 3 %, 29 % et 28 %)." src="/img/cds/blog-david-https-fr_1.png">
+    <img width="100%" style="max-width:190px;" alt="Un tableau de valeurs avec sept barres, chacune affichant un pourcentage différent. Dans ce tableau, les pourcentages sont triés par ordre textuel (33 %, 33 %, 33 %, 33 %, 3 %, 29 % et 28 %)." src="https://de2an9clyit2x.cloudfront.net/blog_david_https_fr_1_9f68323a44.png">
 </div>
 
 <div class="col-sm-6">
-    <img width="100%" style="max-width:200px;" alt="Un tableau de valeurs avec sept barres, chacune affichant un pourcentage différent. Dans ce tableau, les pourcentages sont triés par ordre numérique (33 %, 33 %, 33 %, 33 %, 29 %, 28 % et 26 %)." src="/img/cds/blog-david-https-fr_2.png">
+    <img width="100%" style="max-width:200px;" alt="Un tableau de valeurs avec sept barres, chacune affichant un pourcentage différent. Dans ce tableau, les pourcentages sont triés par ordre numérique (33 %, 33 %, 33 %, 33 %, 29 %, 28 % et 26 %)." src="https://de2an9clyit2x.cloudfront.net/blog_david_https_fr_2_78871bb15e.png">
 </div>
 
 Une fois que nous avons compris, il a été assez simple d’appliquer un tri numérique sur la colonne, ce qui a réglé le problème.

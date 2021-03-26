@@ -14,12 +14,12 @@ author: >-
   Jeana Frost, Mel Banyard (chercheuses en conception, SNC), Chris Lynam
   (directeur général, GRC)
 date: 2020-01-16T13:49:12.223Z
-image: /img/cds/mixed-methods-rcmp.jpg
+image: https://de2an9clyit2x.cloudfront.net/mixed_methods_rcmp_9491d5f5b1.jpg
 image-alt: >-
   Deux personnes examinent des graphiques pour les aider à prendre des décisions
   éclairées.
 translationKey: rcmp-mixed-method
-thumb: /img/cds/thumbnails/mixed-methods-rcmp.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_mixed_methods_rcmp_9491d5f5b1.jpg
 processed: 1581626526412
 ---
 Dans toute industrie, la nouveauté vient avec des risques. Nous comprenons donc la prudence, voire l’hésitation, de nos partenaires de la fonction publique face aux nouvelles méthodes que nous proposons afin de fournir des services numériques gouvernementaux.  

@@ -6,12 +6,12 @@ description: >-
   vous aider à mettre en valeur vos messages.
 author: 'Philippe Tardif, narrateur visuel'
 date: 2020-01-28T15:12:51.138Z
-image: /img/cds/visual-storyteller.jpg
+image: https://de2an9clyit2x.cloudfront.net/visual_storyteller_533f467c76.jpg
 image-alt: >-
   Illustration d’un homme assis à un ordinateur et concevant un récit visuel sur
   le cosmos.
 translationKey: visual-storyteller-blog
-thumb: /img/cds/thumbnails/visual-storyteller.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_visual_storyteller_533f467c76.jpg
 processed: 1581626526398
 ---
 Vous cherchez à rendre vos communications plus efficaces? Laissez les images vous aider à mettre en valeur vos messages.

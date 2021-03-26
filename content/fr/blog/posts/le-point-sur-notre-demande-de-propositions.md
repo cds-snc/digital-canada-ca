@@ -4,10 +4,10 @@ title: Le POINT sur notre demande de propositions
 description: Voici une mise à jour sur le calendrier le plus plausible.
 author: 'Stevie-Ray Talbot, politiques'
 date: 2019-01-22T14:00:00.000Z
-image: /img/cds/rfp_fr.jpg
+image: https://de2an9clyit2x.cloudfront.net/rfp_fr_3ac06f0e03.jpg
 image-alt: 'Des autocollants en forme de feuilles d''érables avec les mots, fort et libre.'
 translationKey: update-rfp
-thumb: /img/cds/thumbnails/rfp_fr.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_rfp_fr_3ac06f0e03.jpg
 processed: 1550858572535
 ---
 Nous tenons à remercier tous les soumissionnaires qui ont consacré le temps et les efforts nécessaires pour répondre à notre [demande de propositions](https://achatsetventes.gc.ca/donnees-sur-l-approvisionnement/appels-d-offres/PW-18-00841347). Depuis que le processus de demande de propositions a pris fin, nous travaillons sans relâche à l’évaluation des soumissions, mais cela prend plus de temps que nous l’aurions souhaité. Nous savons que vous et vos équipes devez établir des plans. Cela dit, voici une mise à jour sur le calendrier le plus plausible et quelques rappels :

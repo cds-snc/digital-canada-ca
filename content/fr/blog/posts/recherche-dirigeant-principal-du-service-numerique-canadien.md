@@ -10,10 +10,10 @@ description: >-
   longtemps.
 author: 'Yaprak Baltacıoğlu, Secrétaire du Conseil du Trésor'
 date: '2017-09-12 09:00:00 -0400'
-image: /img/cds/wanted-ceo-cds-2017.jpg
+image: https://de2an9clyit2x.cloudfront.net/wanted_ceo_cds_2017_992dcbf98e.jpg
 image-alt: 'Yaprak Baltacıoğlu, Secrétaire du Conseil du Trésor'
 translationKey: wanted-ceo-cds/
-thumb: /img/cds/thumbnails/wanted-ceo-cds-2017.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_wanted_ceo_cds_2017_992dcbf98e.jpg
 processed: 1550672962199
 ---
  Les services fournis par notre gouvernement jouent un rôle important dans la vie de millions de gens. 

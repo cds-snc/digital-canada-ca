@@ -10,12 +10,12 @@ description: >-
   défense des populations sous-représentées.
 author: 'Martha Edwards et Anne-Marie Mulumba, recherche en conception'
 date: 2021-01-07T00:45:37.372Z
-image: /img/cds/inclusive-research-event.jpg
+image: https://de2an9clyit2x.cloudfront.net/inclusive_research_event_4cb5105cda.jpg
 image-alt: >-
   Des personnes qui participent à une réunion virtuelle pour discuter de leur
   travail et de nouvelles idées.
 translationKey: inclusive-research-event
-thumb: /img/cds/thumbnails/inclusive-research-event.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_inclusive_research_event_4cb5105cda.jpg
 processed: 1610031181666
 ---
 À titre de chercheuses en conception, nous sommes responsables de faire valoir les besoins de chaque personne qui utilise les services du gouvernement. L’une de nos principales préoccupations consiste à mener des recherches qui représentent les besoins de *tous* les utilisateurs — pas seulement les utilisateurs conventionnels. Des facteurs comme la race, les incapacités, l’âge, l’emplacement géographique, le sexe ou l’inhabileté numérique peuvent poser des difficultés pour l’accès aux services gouvernementaux.

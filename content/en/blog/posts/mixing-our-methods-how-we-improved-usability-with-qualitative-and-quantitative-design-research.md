@@ -13,10 +13,10 @@ author: >-
   Jeana Frost, Mel Banyard (Design Researchers, CDS), Chris Lynam (Director
   General, RCMP)
 date: 2020-01-09T14:00:00.000Z
-image: /img/cds/mixed-methods-rcmp.jpg
+image: https://de2an9clyit2x.cloudfront.net/mixed_methods_rcmp_9491d5f5b1.jpg
 image-alt: Two people consulting charts and graphs to help them make informed decisions.
 translationKey: rcmp-mixed-method
-thumb: /img/cds/thumbnails/mixed-methods-rcmp.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_mixed_methods_rcmp_9491d5f5b1.jpg
 processed: 1581626676898
 ---
 

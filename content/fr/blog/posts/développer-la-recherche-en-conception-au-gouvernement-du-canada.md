@@ -13,13 +13,13 @@ author: >-
   Colin MacArthur, chef de la recherche en conception, John Millons, chef des
   politiques
 date: 2019-06-26T13:00:00.000Z
-image: /img/cds/puzzle.jpg
+image: https://de2an9clyit2x.cloudfront.net/puzzle_f193470c2c.jpg
 image-alt: >-
   Photo montrant une table recouverte de pièces de casse-tête blanches, l'accent
   étant mis sur la main d'un individu tenant une unique pièce de casse-tête
   rouge.
 translationKey: design-research
-thumb: /img/cds/thumbnails/puzzle.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_puzzle_f193470c2c.jpg
 processed: 1562852147949
 ---
 La recherche en conception (ou la recherche sur les utilisateurs) nous aide à comprendre les gens qui utilisent nos services. Si nous les comprenons, nous pouvons mieux répondre à leurs besoins. Nous avons vu à quel point la recherche en conception est importante pour assurer la prestation de services numériques axés sur les personnes dans le cadre de notre travail avec nos partenaires. Nous avons également vu à quel point elle peut facilement être confondue avec la recherche sur l’opinion publique (ROP). 

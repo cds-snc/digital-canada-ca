@@ -12,12 +12,12 @@ author: >-
   – Conseil consultatif de l’application de notification d’exposition à la
   COVID-19
 date: 2021-02-10T18:01:22.799Z
-image: /img/cds/metrics-covid-alert-blog-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/metrics_covid_alert_blog_banner_d83e1f15da.jpg
 image-alt: >-
   Téléphones avec plusieurs regroupements de marques de pointage au-dessus
   d’eux.
 translationKey: blog-metrics-app
-thumb: /img/cds/thumbnails/metrics-covid-alert-blog-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_metrics_covid_alert_blog_banner_d83e1f15da.jpg
 processed: 1612981734871
 ---
 Le changement est la seule constante, surtout en cas de pandémie. Comme la plupart des gens, j’ai dû m’habituer à un style de vie différent. Alors qu’autrefois je parcourais le Grand Toronto pour écouter des groupes méconnus dans des salles de spectacle insolites, je m’installe maintenant dans mon salon pour lire des romans de Margaret Atwood. Mes samedis sont très différents. 

@@ -31,7 +31,7 @@ processed: 1583159548621
                <p>I met with Élise today to talk about how we can figure out a way to improve the uptake of our French newsletter.  <span class="bold">We’re assuming the reason readership is low is because we’re missing the mark with our content and how we’re presenting it in French.</span> Afterall, content is king, right?</p>
                </td>
                <td class="diary-img">
-                   <img src="/img/cds/balance.jpg" alt="Balanced scales.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/balance_1b79bd89c9.jpg" alt="Balanced scales.">
                </td>
            </tr>
        </tbody>
@@ -71,7 +71,7 @@ processed: 1583159548621
                    <p>The target audience in both cases is Francophone readers to help us understand what’s wrong with our French newsletter.</p>
                </td>
                <td class="diary-img">
-                   <img src="/img/cds/sondage.jpg" alt="A notebook with checkboxes labelled “survey”.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/sondage_339eee14ea.jpg" alt="A notebook with checkboxes labelled “survey”.">
                </td>
            </tr>
        </tbody>
@@ -88,7 +88,7 @@ processed: 1583159548621
        <tbody>
            <tr>
                <td class="diary-img">
-                   <img src="/img/cds/attente.jpg" alt="Hourglass.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/attente_568f18f673.jpg" alt="Hourglass.">
                </td>
                <td class="diary-text">
                    <p>Five days ago we sent out the eblast with our survey to the less engaged French subscribers. We got 16 responses so far from a group of people who, data tells us, don’t typically engage with our emails. Not too shabby.</p>
@@ -120,7 +120,7 @@ processed: 1583159548621
                    </ul>
                </td>
                <td class="diary-img">
-                   <img src="/img/cds/morale.jpg" alt="Word bubble with a smiley face inside of it.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/morale_08cb28f7c0.jpg" alt="Word bubble with a smiley face inside of it.">
                </td>
            </tr>
        </tbody>

@@ -9,12 +9,12 @@ description: >-
   dans la société civile.
 author: 'Andrea Gilbrook, chef du talent'
 date: 2019-07-26T13:00:00.000Z
-image: /img/cds/small-maple-leafs.jpg
+image: https://de2an9clyit2x.cloudfront.net/small_maple_leafs_652f66ae34.jpg
 image-alt: >-
   Photo de personnes côte à côte, chacune tenant une feuille d'érable dans sa
   main.
 translationKey: civic-leave
-thumb: /img/cds/thumbnails/small-maple-leafs.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_small_maple_leafs_652f66ae34.jpg
 processed: 1564408446497
 ---
 Il faut une variété de personnes qualifiées pour créer et offrir des services numériques gouvernementaux de qualité. Ici, au Service numérique canadien (SNC), nous avons recours à des équipes multidisciplinaires pour concevoir des services simples et efficaces pour les Canadiens. Ces équipes possèdent des compétences et des expériences variées, ainsi qu’une expertise provenant de divers secteurs et même de différents pays. 

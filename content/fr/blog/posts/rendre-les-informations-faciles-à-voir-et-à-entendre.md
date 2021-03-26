@@ -11,12 +11,12 @@ description: >-
   accessible. 
 author: 'Paul Craig, Développement '
 date: 2021-02-04T14:33:56.437Z
-image: /img/cds/screenreader-blog-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/screenreader_blog_banner_5e9a928d1d.jpg
 image-alt: >-
   Une personne utilisant un lecteur d’écran pour entendre de l’information
   importante de son ordinateur.
 translationKey: blog-screenreader-stuff
-thumb: /img/cds/thumbnails/screenreader-blog-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_screenreader_blog_banner_5e9a928d1d.jpg
 processed: 1612450944111
 ---
 ## Alerte COVID et codes de sauvegarde
@@ -63,14 +63,14 @@ J’étais curieux de savoir comment les lecteurs d’écran interprétaient les
              <li>Une liste de cases à cocher</li>
              <li>Caractères composés de chiffres uniquement</li>
           </ul>
-          <img src="/img/cds/screenreader-blog-google.jpg" alt="Une liste de codes de récupération fournis par Google composés de 8 chiffres aléatoires.">
+          <img src="https://de2an9clyit2x.cloudfront.net/screenreader_blog_google_9d054056bb.jpg" alt="Une liste de codes de récupération fournis par Google composés de 8 chiffres aléatoires.">
            </td>
          <td>
           <ul>
              <li>Une liste à puces</li>
              <li>Caractères hexadécimaux (combinaison de chiffres et des six premières lettres de l’alphabet a, b, c, d, e, f)</li>
           </ul>
-          <img src="/img/cds/screenreader-blog-github.jpg" alt="Une liste de codes de récupération fournis par Github composés d’une combinaison de 10 lettres et chiffres aléatoires.">
+          <img src="https://de2an9clyit2x.cloudfront.net/screenreader_blog_github_03bcadc8b6.jpg" alt="Une liste de codes de récupération fournis par Github composés d’une combinaison de 10 lettres et chiffres aléatoires.">
            </td>
       </tr>
   </tbody>

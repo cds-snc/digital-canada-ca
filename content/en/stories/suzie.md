@@ -4,7 +4,7 @@ description: "Suzie Bouchard’s expertise was the perfect fit for our work with
 archived: false
 layout: story
 type: section
-image: /img/cds/stories-suzie.jpg
+image: https://de2an9clyit2x.cloudfront.net/stories_suzie_78318363a2.jpg
 imagealt: Suzie Bouchard, a veteran, stands with her arms behind her back in front of flags of the Canadian armed forces.
 translationKey: suzie
 
