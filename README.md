@@ -62,13 +62,6 @@ Les sites [numerique.canada.ca](https://numerique.canada.ca) et [digital.canada.
 
 Les versions française et anglaise seront hébergées à [localhost:1314](http://localhost:1314) et à [localhost:1313](http://localhost:1313), respectivement.
 
-## Opérationnalisation du gestionnaire de contenu Netlify
+## Système de gestion de contenu
 
-1. Ajoutez les dépendances.
-    ```
-    npm install
-    ```
-2. Lancez la compilation du gestionnaire de contenu Netlify.
-    ```
-    npm run dev
-    ```
+Développé par [Strapi](https://strapi.io/). Le code d’instance Strapi utilisé par ce site Web peut être consulté à [https://github.com/cds-snc/cds-website-cms](https://github.com/cds-snc/cds-website-cms).
