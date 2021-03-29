@@ -10,12 +10,12 @@ description: >-
   patients.
 author: 'Brian Hendrick, Service Design'
 date: 2020-09-03T13:29:16.969Z
-image: /img/cds/app-portal-blog-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/app_portal_blog_banner_dddd52ec15.jpg
 image-alt: >-
   A map of Canada showing patients and healthcare workers in different provinces
   and territories. 
 translationKey: healthcare-portal-service-design
-thumb: /img/cds/thumbnails/app-portal-blog-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_app_portal_blog_banner_dddd52ec15.jpg
 processed: 1599143371197
 ---
 [COVID Alert](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html), the free Government of Canada exposure notification app for COVID-19, has been downloaded by over 2 million people. While the app itself is the public-facing touchpoint, there are things going on behind the scenes that enable it to do what it’s designed to do. 
@@ -71,7 +71,7 @@ To further reduce cognitive load of healthcare workers and alleviate the anxieti
 
 For example, we created a phonetic alphabet that could be provided alongside the generated key. This makes it easier for the healthcare worker to read out the one-time key over the phone, and also makes it easier for the patient to enter the correct key into the app. 
 
-![Screenshot of the 10 digit alphanumeric one-time key 284 FKQ 8889. Underneath are instructions on how to read it out. “To read this phonetically: Two. eight. Four. F as in family. K as in kangaroo. Q as in question. Eight. Eight. Eight. Nine](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/app_portal_blog_1_en_9220f61127.jpg)
+![Screenshot of the 10 digit alphanumeric one-time key 284 FKQ 8889. Underneath are instructions on how to read it out. “To read this phonetically: Two. eight. Four. F as in family. K as in kangaroo. Q as in question. Eight. Eight. Eight. Nine](https://de2an9clyit2x.cloudfront.net/app_portal_blog_1_en_9220f61127.jpg)
 
 ## Help us continuously improve
 

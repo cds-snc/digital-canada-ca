@@ -7,10 +7,10 @@ description: >-
   responsable de chaque ligne de code.
 author: 'Jason White, chef, sciences des données'
 date: '2018-04-24 09:00:00 -0400'
-image: /img/cds/blog-team-coding.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_team_coding_3f3236a73b.jpg
 image-alt: Un écran d'ordinateur affiche 200 lignes de code JavaScript dans Sublime Text.
 translationKey: coding-is-a-team-activity
-thumb: /img/cds/thumbnails/blog-team-coding.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_team_coding_3f3236a73b.jpg
 processed: 1550672961815
 ---
 

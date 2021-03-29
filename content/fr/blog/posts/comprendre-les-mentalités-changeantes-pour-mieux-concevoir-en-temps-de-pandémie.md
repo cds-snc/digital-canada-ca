@@ -11,10 +11,10 @@ author: >-
   Jeana Frost, recherche en conception, et Brian Hendrick, conception de
   services 
 date: 2020-12-02T15:35:14.762Z
-image: /img/cds/blog-banner-mindsets.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_banner_mindsets_bf393356cd.jpg
 image-alt: 'Quatre personnes affichant diverses expressions, de la réticence à la joie.'
 translationKey: mindsets-covidalert
-thumb: /img/cds/thumbnails/blog-banner-mindsets.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_banner_mindsets_bf393356cd.jpg
 processed: 1606924352001
 ---
 Nous sommes en décembre 2020. Quand nous réfléchissons aux neuf derniers mois de pandémie, nos vies d’avant la COVID-19 semblent bien loin. Les préoccupations que nous avions au début de la crise ressemblent à peine à celles d’aujourd’hui. Que nos peurs et nos craintes concernent le bien-être de nos enfants, la santé de nos aînés, notre stabilité d’emploi, ou le risque de sortir dehors, elles changent chaque jour selon l’état de notre monde.
@@ -29,7 +29,7 @@ Le recours aux mentalités est fréquent dans le secteur privé pour éclairer l
 
 En pratique, cette méthode utilise souvent deux variables représentées par deux axes perpendiculaires pour illustrer les mentalités. Les variables sont des facteurs qui influencent les perceptions et les besoins d’une personne. Il y a quatre mentalités, une dans chacun des quadrants créés par les axes.
 
-![Un schéma à 4 quadrants. L’axe horizontal correspond à la variable 1, et l’axe vertical correspond à la variable 2. Chacun des quadrants comprend un cercle où il est écrit « Mentalité ».](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_mindsets_1_fr_df46769b48.jpg)
+![Un schéma à 4 quadrants. L’axe horizontal correspond à la variable 1, et l’axe vertical correspond à la variable 2. Chacun des quadrants comprend un cercle où il est écrit « Mentalité ».](https://de2an9clyit2x.cloudfront.net/blog_mindsets_1_fr_df46769b48.jpg)
 
 ## Comment nous avons utilisé les mentalités avec Alerte COVID
 
@@ -55,7 +55,7 @@ Nous avons utilisé cette variable comme axe Y.
 
 Après avoir schématisé les axes, nous y avons ajouté les mentalités. Nous avons perfectionné ces mentalités grâce à l’analyse de données de sondage supplémentaires et à des discussions avec des concepteurs de contenu, jusqu’à ce que nous ayons quatre mentalités pour les personnes utilisant Alerte COVID.
 
-![Un schéma à 4 quadrants. Le nord de l’axe vertical correspond à « En quête d’information », et le sud de l’axe vertical correspond à « Pas en quête d’information ». L’est de l’axe horizontal correspond à « Confiant », et l’ouest de l’axe horizontal correspond à « Méfiant ». À partir du quadrant supérieur gauche, et en sens horaire, les quatre cercles dans les quadrants sont étiquetés « Prudent », « Serviable », « Coopératif » et « Réticent ».](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_mindsets_2_fr_11f67a3b6a.jpg)
+![Un schéma à 4 quadrants. Le nord de l’axe vertical correspond à « En quête d’information », et le sud de l’axe vertical correspond à « Pas en quête d’information ». L’est de l’axe horizontal correspond à « Confiant », et l’ouest de l’axe horizontal correspond à « Méfiant ». À partir du quadrant supérieur gauche, et en sens horaire, les quatre cercles dans les quadrants sont étiquetés « Prudent », « Serviable », « Coopératif » et « Réticent ».](https://de2an9clyit2x.cloudfront.net/blog_mindsets_2_fr_11f67a3b6a.jpg)
 
 <table>
    <tbody>

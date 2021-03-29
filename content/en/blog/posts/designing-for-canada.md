@@ -6,10 +6,10 @@ description: >-
   Service, a new initiative by the Government of Canada.
 author: 'Chris Govias, Design'
 date: '2017-09-21 09:00:00 -0400'
-image: /img/cds/blog-designing-for-canada-2017.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_designing_for_canada_2017_a6cf251b7c.jpg
 image-alt: 'Chris Govias, Chief of Design at CDS'
 translationKey: designing-for-canada
-thumb: /img/cds/thumbnails/blog-designing-for-canada-2017.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_designing_for_canada_2017_a6cf251b7c.jpg
 processed: 1550672961674
 ---
 After a short sabbatical and a decade in the U.K., I'm delighted to announce that I'm going to be the first Chief of Design with the Canadian Digital Service, a new initiative by the Government of Canada.

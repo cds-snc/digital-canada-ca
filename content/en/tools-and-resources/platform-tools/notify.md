@@ -1,5 +1,5 @@
 ---
-title: Notify
+title: 'Notify'
 translationKey: notify-product
 description: >-
   Providing a simple and efficient way for government to send email and text notifications to keep people updated as they use government services.

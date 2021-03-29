@@ -1,5 +1,5 @@
 ---
-title: A guide to usability testing
+title: 'A guide to usability testing'
 translationKey: usability-testing
 description: >-
   A 101 on usability testing.

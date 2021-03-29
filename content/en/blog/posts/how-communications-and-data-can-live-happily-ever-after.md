@@ -6,10 +6,10 @@ description: >-
   strategies and tell stories that resonate with our audience. 
 author: 'Charlotte Pedersen, Outreach'
 date: 2019-11-28T13:46:22.820Z
-image: /img/cds/dreaming-of-words.jpg
+image: https://de2an9clyit2x.cloudfront.net/dreaming_of_words_7126bfb389.jpg
 image-alt: Illustration of a girl daydreaming about writing and books.
 translationKey: Data-driven-comms
-thumb: /img/cds/thumbnails/dreaming-of-words.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_dreaming_of_words_7126bfb389.jpg
 processed: 1581626757485
 ---
 ## Once upon a time...
@@ -85,7 +85,7 @@ Some people also didn’t realize that our black “subscribe” button was a cl
 
 ✨✨✨
 
-![A before and after of the two web pages.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/EN_Newsletter1_a589c99bb4.jpg)
+![A before and after of the two web pages.](https://de2an9clyit2x.cloudfront.net/EN_Newsletter1_a589c99bb4.jpg)
 
 We used [Google Trends](https://trends.google.com/trends/?geo=CA) to discover that more people in Canada use the word “subscribe” than “sign up”, so we made a decision to only ever use the word “subscribe”.  
 
@@ -104,7 +104,7 @@ If they clicked “manage your preferences”, they’d be taken to a page where
 
 ✨✨✨
 
-![A before and after of the two web pages.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/EN_Newsletter2_71fbbb6e6f.jpg)
+![A before and after of the two web pages.](https://de2an9clyit2x.cloudfront.net/EN_Newsletter2_71fbbb6e6f.jpg)
 
 Ultimately, we learned that we should prompt people to go where they instinctively were going anyway: their inbox.
 

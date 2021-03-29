@@ -1,5 +1,5 @@
 ---
-title: CDS Product Evaluation Framework
+title: 'CDS Product Evaluation Framework'
 translationKey: evaluation-framework
 description: >-
   An outline of how CDS evaluates products and how they are delivered.

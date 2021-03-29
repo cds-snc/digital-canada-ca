@@ -64,6 +64,23 @@ exec:
     linkedin: eelfayomi
     twitter: emanelfy
   - archived: false
+    name: Emily Kuret
+    title:
+      en: Director - COVID Alert
+      fr: Directrice - Alerte COVID
+    imagehash: small_emily_kuret_dcd8f527da
+    email: emily.kuret@tbs-sct.gc.ca
+  - archived: false
+    name: Jeff Maher
+    title:
+      en: Interim Director of Digital Practice
+      fr: Directeur par intérim des pratiques numériques
+    imagehash: jeff_maher_e8b4885317
+    email: jeff.maher@tbs-sct.gc.ca
+    github: jeffmaher
+    linkedin: jeffmaher
+    twitter: plusjeff
+  - archived: false
     name: John Millons
     title:
       en: Head of Policy
@@ -71,7 +88,7 @@ exec:
     imagehash: john_millons_64f6b29b6e
     email: John.Millons@tbs-sct.gc.ca
     twitter: JohnMillons
-  - archived: false
+  - archived: true
     name: John O'Brien
     title:
       en: Head of Security
@@ -91,8 +108,8 @@ exec:
   - archived: false
     name: Leanne Labelle
     title:
-      en: Head of Procurement
-      fr: Chef de l’approvisionnement
+      en: Head of Platform Growth
+      fr: Chef du Développement Commercial
     imagehash: leane_labelle_54635926a6
     email: leanne.labelle@tbs-sct.gc.ca
     linkedin: leannelabelle
@@ -216,6 +233,16 @@ team:
     linkedin: brockhiggins
     twitter: brockhigg10
   - archived: false
+    name: Bryan Robitaille
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_bryan_robitaille_d61fc88f5a
+    email: bryan.robitaille@tbs-sct.gc.ca
+    github: bryan-robitaille
+    linkedin: bryan-robitaille
+    twitter: RobitailleBryan
+  - archived: false
     name: Bryan Willey
     title:
       en: Product Management
@@ -283,13 +310,6 @@ team:
     email: elise.cossette@tbs-sct.gc.ca
     linkedin: élise-cossette-590b56ab
   - archived: false
-    name: Emily Kuret
-    title:
-      en: Design
-      fr: Conceptionemily.kuret@tbs-sct.gc.ca
-    imagehash: small_emily_kuret_dcd8f527da
-    email: emily.kuret@tbs-sct.gc.ca
-  - archived: false
     name: Emma Wootton
     title:
       en: Design
@@ -347,16 +367,6 @@ team:
     email: jeana.frost@tbs-sct.gc.ca
     linkedin: jeanafrost
   - archived: false
-    name: Jeff Maher
-    title:
-      en: Development
-      fr: Développement
-    imagehash: jeff_maher_e8b4885317
-    email: jeff.maher@tbs-sct.gc.ca
-    github: jeffmaher
-    linkedin: jeffmaher
-    twitter: plusjeff
-  - archived: false
     name: Jennifer Fletcher
     title:
       en: Partnerships
@@ -412,6 +422,14 @@ team:
       fr: Conception
     imagehash: kate_wilhelm_dd0f381acd
     email: kate.wilhelm@tbs-sct.gc.ca
+  - archived: false
+    name: Kelsey Harris
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    imagehash: kelsey_harris_0566b91b37
+    email: kelsey.harris@tbs-sct.gc.ca
+    linkedin: kelsey-harris-39373b139
   - archived: false
     name: Leah Finkelstein
     title:
@@ -522,6 +540,14 @@ team:
     email: Priyanka.Rahman@tbs-sct.gc.ca
     linkedin: priyanka-rahman-5b91a8145
   - archived: false
+    name: Sabine Runciman
+    title:
+      en: Design Research
+      fr: Recherche en conception
+    imagehash: small_sabine_runciman_b694c89e37
+    email: sabine.runciman@tbs-sct.gc.ca
+    linkedin: sabinerunciman
+  - archived: false
     name: Samantha Sadasivan
     title:
       en: Design
@@ -603,6 +629,5 @@ team:
       fr: Liaison et diffusion
     imagehash: victoria_chan_639fffb1c6
     email: victoria.chan@tbs-sct.gc.ca
-    github: victoriachanimal
     linkedin: victoriakaychan
     twitter: vchanimal

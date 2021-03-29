@@ -7,12 +7,12 @@ description: >-
   put real people’s needs at the centre of how we design government services.
 author: 'Pascale Elvas, Director'
 date: '2017-08-03 10:00:00 -0400'
-image: /img/cds/why-canada-needs-a-digital-service-2017.jpg
+image: https://de2an9clyit2x.cloudfront.net/why_canada_needs_a_digital_service_2017_83f1ff7d59.jpg
 image-alt: >-
   Ryan Androsoff, Lena Trudeau, Anatole Papadopoulos, Olivia Neal, and Pascale
   Elvas
 translationKey: why-canada-needs-a-digital-service
-thumb: /img/cds/thumbnails/why-canada-needs-a-digital-service-2017.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_why_canada_needs_a_digital_service_2017_83f1ff7d59.jpg
 processed: 1550672961788
 ---
 For months, I’ve been working behind the scenes to stand up the Canadian Digital Service. Through this process, I’ve done a lot of thinking about why Canada needs a digital service organization and the potential it has to change how we design government services.

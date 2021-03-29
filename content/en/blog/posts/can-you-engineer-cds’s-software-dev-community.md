@@ -9,12 +9,12 @@ description: >-
   even better at what they do.
 author: 'Jeff Maher, Principal Engineer'
 date: 2020-02-25T13:03:14.568Z
-image: /img/cds/blog-head-software-dev.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_head_software_dev_4d582ff210.jpg
 image-alt: >-
   A picture of the CDS team standing in front of a wall of post-it notes at a
   Meeting.
 translationKey: blog-head-software-dev
-thumb: /img/cds/thumbnails/blog-head-software-dev.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_head_software_dev_4d582ff210.jpg
 processed: 1582641005596
 ---
 The digital government and civic tech communities talk a lot about how to make government more effective at delivering life-changing services. Things like agile practices, design thinking, and using modern technology are commonplace. At the Canadian Digital Service (CDS), we believe in the value of putting “people first,” which is why hiring the right person is critical, and more important than these processes and tools.

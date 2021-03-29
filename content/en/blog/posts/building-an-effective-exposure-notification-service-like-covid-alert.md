@@ -8,10 +8,10 @@ description: >-
   to work while getting the app into as many hands as possible.
 author: 'Josh Ruihley, Service Owner, and Emily Kuret, Product Manager - COVID Alert'
 date: 2020-10-02T15:04:18.149Z
-image: /img/cds/covid-alert-vision-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/covid_alert_vision_banner_5a8a8a87f1.jpg
 image-alt: 'A scale, balancing people using the COVID Alert app in the middle. '
 translationKey: covid-alert-utility-scale
-thumb: /img/cds/thumbnails/covid-alert-vision-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_covid_alert_vision_banner_5a8a8a87f1.jpg
 processed: 1601655413377
 ---
 *On July 31, 2020, we released COVID Alert, Canada’s COVID-19 exposure notification service.

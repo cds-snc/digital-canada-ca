@@ -6,12 +6,12 @@ description: >-
   l’harmonisation, la transparence et une compréhension commune.
 author: 'Mithula Naik, chercheuse principale en conception'
 date: '2018-10-26 09:00:00 -0400'
-image: /img/cds/blog-building-a-research-plan.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_building_a_research_plan_54517b04ce.jpg
 image-alt: >-
   Les mains d’une femme déballent du papier brun. Il y a un café à la gauche et
   des fleurs violettes à la droite.
 translationKey: building-a-research-plan
-thumb: /img/cds/thumbnails/blog-building-a-research-plan.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_building_a_research_plan_54517b04ce.jpg
 processed: 1550672961836
 ---
 

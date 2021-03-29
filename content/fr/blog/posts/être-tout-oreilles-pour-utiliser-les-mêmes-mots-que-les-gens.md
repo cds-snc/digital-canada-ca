@@ -8,14 +8,14 @@ description: >-
   sont victimes.
 author: 'Anik Brazeau, conceptrice de contenu '
 date: 2019-06-06T15:33:35.834Z
-image: /img/cds/bag-and-hands.jpg
+image: https://de2an9clyit2x.cloudfront.net/bag_and_hands_62d7b020be.jpg
 image-alt: >-
   Deux personnes sont assises l’une en face de l’autre à une table de
   pique-nique. Nous ne pouvons voir que leurs mains. L’une des personnes prend
   des notes dans un petit carnet, avec une tasse de café et un téléphone à côté
   d’elle. L’autre a une tablette devant elle et un verre d’eau à sa droite.
 translationKey: using-words-people-use
-thumb: /img/cds/thumbnails/bag-and-hands.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_bag_and_hands_62d7b020be.jpg
 processed: 1560358863965
 
 ---
@@ -52,7 +52,7 @@ Avoir une idée de la façon dont les gens décrivent la cybercriminalité est u
 Nous savions que le contenu de notre premier concept serait loin d’être parfait. En publiant une version tôt, pour pouvoir la mettre à jour continuellement, nous avons beaucoup appris sur les attentes des gens. Voici un aperçu du changement subi par le premier concept après que les gens l’ont essayé :
 
 
-![Légende: La première image est une capture d’écran d’une page dont le titre est : « Soupçonnez-vous une arnaque, un cybercrime ou une fraude? » La deuxième image est une nouvelle version de la page, qui se lit maintenant comme suit : « Signalez une fraude ».](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/french_concept_test_607011a83a.png)
+![Légende: La première image est une capture d’écran d’une page dont le titre est : « Soupçonnez-vous une arnaque, un cybercrime ou une fraude? » La deuxième image est une nouvelle version de la page, qui se lit maintenant comme suit : « Signalez une fraude ».](https://de2an9clyit2x.cloudfront.net/french_concept_test_607011a83a.png)
 
 Voici ce que nous avons appris :
 

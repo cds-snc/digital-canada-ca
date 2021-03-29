@@ -7,13 +7,13 @@ description: >-
   learn to trust themselves.
 author: 'Jose Jimenez, student (Partnerships)'
 date: 2020-01-07T19:19:43.887Z
-image: /img/cds/jose-blog-header.jpg
+image: https://de2an9clyit2x.cloudfront.net/jose_blog_header_8527c435f6.jpg
 image-alt: >-
   A white desk with the following items from the left, to right: A pile of
   textbooks, a ruler connected to a row of legos, a white pen, an apple and a
   speaker.
 translationKey: cds-student-trust
-thumb: /img/cds/thumbnails/jose-blog-header.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_jose_blog_header_8527c435f6.jpg
 processed: 1581626526260
 ---
 _Thinking back on my eight months as a student at the Canadian Digital Service (CDS), I have come to learn that empowerment is about trust; trust from your leaders and most importantly trust in yourself._
@@ -26,7 +26,7 @@ A big part of my role on the Partnerships team consisted of assessing potential 
 
 During the meeting, while my expectation was to sit back and quietly take notes, he engaged and recognized me. I was not just a fly on the wall, but rather a person with a seat at the table. After that meeting, I felt confident enough in myself to ask questions, to share my opinion, and go talk to people. Most importantly, I was confident enough in what I had to contribute, and wanted to do more for my team. This all happened because a DG decided to look me in the eye while speaking to me. While it may seem like a small gesture, this was indicative of something larger to me. The fact that I was being treated in the same manner as my colleagues, who were much more senior and knowledgeable than I was, gave me the confidence to trust myself. I had realized that indeed, I had a place in that room. 
 
-![A picture of Ernest Hemingway, American author, journalist and recipient of the Nobel Prize for Literature accompanied by his quote “The best way to find out if you can trust somebody is to trust them.”](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/hemingway_en_5607aa16d5.jpg)
+![A picture of Ernest Hemingway, American author, journalist and recipient of the Nobel Prize for Literature accompanied by his quote “The best way to find out if you can trust somebody is to trust them.”](https://de2an9clyit2x.cloudfront.net/hemingway_en_5607aa16d5.jpg)
 
 Upon reflection, that experience taught me two valuable lessons:
 

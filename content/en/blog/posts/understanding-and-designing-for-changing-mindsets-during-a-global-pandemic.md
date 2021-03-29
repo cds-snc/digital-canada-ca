@@ -7,10 +7,10 @@ description: >-
   we design for needs that are constantly changing?
 author: 'Jeana Frost, Design Research and Brian Hendrick, Service Design '
 date: 2020-12-02T15:05:58.424Z
-image: /img/cds/blog-banner-mindsets.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_banner_mindsets_bf393356cd.jpg
 image-alt: 'Four people ranging in emotions from happiness to reluctance.  '
 translationKey: mindsets-covidalert
-thumb: /img/cds/thumbnails/blog-banner-mindsets.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_banner_mindsets_bf393356cd.jpg
 processed: 1606924351789
 ---
 It’s December 2020. When thinking about the last nine months of the pandemic, our lives before COVID-19 feel distant. Our concerns at the beginning of the crisis barely resemble how we’re feeling now. Our fears and anxieties about the well-being of our children, the health of our older relatives, the security of our livelihoods, or whether just going outside is worth the risk, change day-to-day depending on the state of the world. 
@@ -25,7 +25,7 @@ Mindsets are often used in the private sector to inform design by understanding 
 
 On a practical level, this methodology often uses two variables to map out a set of axes onto which the mindsets sit. The variables are factors that impact a person’s views or needs. There are four mindsets that sit in each quadrant of the axes. 
 
-![A matrix with 4 quadrants. On the “north” and “south” points of the matrix, it reads, “Variable 2”. On the “east” and “west” points, it reads, “Variable 1”. There are 4 circles that read “Mindset” sitting in each quadrant.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_mindsets_1_en_ad5a462fae.jpg)
+![A matrix with 4 quadrants. On the “north” and “south” points of the matrix, it reads, “Variable 2”. On the “east” and “west” points, it reads, “Variable 1”. There are 4 circles that read “Mindset” sitting in each quadrant.](https://de2an9clyit2x.cloudfront.net/blog_mindsets_1_en_ad5a462fae.jpg)
 
 ## How we used mindsets for COVID Alert
 
@@ -49,7 +49,7 @@ We used this as the primary y axis.
 
 ## COVID Alert mindsets
 
-![A matrix with 4 quadrants. On the “north” point, it reads “Seeks info” and on the “south” points of the matrix, it reads, “Doesn’t Seek info”. On the “east” point it reads, “Trusting” and “west” point, it reads “Distrusting”. Starting from the top left going clockwise, the four different circles in the quadrants are labelled “Cautious”, “Helpful”, “Cooperative” and “Reluctant”.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_mindsets_2_en_d5426b1777.jpg)
+![A matrix with 4 quadrants. On the “north” point, it reads “Seeks info” and on the “south” points of the matrix, it reads, “Doesn’t Seek info”. On the “east” point it reads, “Trusting” and “west” point, it reads “Distrusting”. Starting from the top left going clockwise, the four different circles in the quadrants are labelled “Cautious”, “Helpful”, “Cooperative” and “Reluctant”.](https://de2an9clyit2x.cloudfront.net/blog_mindsets_2_en_d5426b1777.jpg)
 
 <table>
    <tbody>

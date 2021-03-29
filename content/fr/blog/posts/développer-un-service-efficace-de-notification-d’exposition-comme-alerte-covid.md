@@ -12,13 +12,13 @@ author: >-
   Josh Ruihley, responsable de service, et Emily Kuret, chef de produit – Alerte
   COVID
 date: 2020-10-02T15:07:00.987Z
-image: /img/cds/covid-alert-vision-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/covid_alert_vision_banner_5a8a8a87f1.jpg
 image-alt: >-
   Illustration d’un plateau de balance sur lequel des personnes munies de
   l’application Alerte COVID se tiennent de façon à maintenir le plateau en
   équilibre.
 translationKey: covid-alert-utility-scale
-thumb: /img/cds/thumbnails/covid-alert-vision-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_covid_alert_vision_banner_5a8a8a87f1.jpg
 processed: 1601655413486
 ---
 *Le 31 juillet 2020, nous avons lancé Alerte COVID, le service canadien de notification d’exposition à la COVID-19. L’application mobile a été développée ouvertement. Pour poursuivre dans la même veine, nous publierons une série de billets de blogue qui expliquent les choix que nous faisons à mesure que nous continuons de mettre à jour, de tester et d’itérer ce service.* 

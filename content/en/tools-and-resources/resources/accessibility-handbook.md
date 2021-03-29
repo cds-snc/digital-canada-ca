@@ -1,5 +1,5 @@
 ---
-title: Accessibility Handbook
+title: 'Accessibility Handbook'
 translationKey: accessibility-tool
 description: >-
   A set of guidelines for creating accessible and inclusive content for people with disabilities.

@@ -6,10 +6,10 @@ author: >-
   Adrianne Lee, chercheuse au sein du partenariat «Aider les Canadiennes et
   Canadiens à recevoir des prestations d’invalidité du RPC»
 date: 2020-01-29T14:47:59.514Z
-image: /img/cds/field-note-train.jpg
+image: https://de2an9clyit2x.cloudfront.net/field_note_train_0fc028062b.jpg
 image-alt: Photo en teinte orangée d’une locomotive.
 translationKey: field-note-1
-thumb: /img/cds/thumbnails/field-note-train.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_field_note_train_0fc028062b.jpg
 processed: 1581626526559
 ---
 <p>Les notes de terrain sont un nouveau format de contenu du Service numérique canadien. Plus courtes qu’un billet de blogue, elles permettent aux équipes de livraison de donner des mises à jour plus régulières, de partager des observations plus modestes et de travailler ouvertement de façon continue.</p>
@@ -62,8 +62,8 @@ processed: 1581626526559
                 <h3>Observations :</h3>
                 <h5>Jour 1 du recrutement par interception à Montréal – 2 décembre 2019</h5>
                 <p>Le matin, nous avons préparé notre table. Nous avions une affiche sur laquelle on pouvait lire : « Vous détestez toute la paperasse pour les prestations gouvernementales? Aidez-nous à la simplifier », en espérant que ça inciterait davantage les gens à participer, en plus de notre modeste rémunération pour leur temps.</p>
-                <img class="field-note-img" src="/img/cds/field-note-1-ad-fr.jpg" alt="Vous detestez toute la paperasse pour les presentations gouvernementales? Aidez-nous a la simplifier. Le Service numerique canadien aimerait connaitre votre avis.">
-                <img class="field-note-img" src="/img/cds/cppd-team-research.jpg" alt="Des membres de l’équipe PI-RPC sont assis à une table avec des bannières du Service numérique canadien et des affiches visant à recruter des médecins pour leur recherche.">
+                <img class="field-note-img" src="https://de2an9clyit2x.cloudfront.net/field_note_1_ad_fr_634341de27.jpg" alt="Vous detestez toute la paperasse pour les presentations gouvernementales? Aidez-nous a la simplifier. Le Service numerique canadien aimerait connaitre votre avis.">
+                <img class="field-note-img" src="https://de2an9clyit2x.cloudfront.net/cppd_team_research_fd076489f2.jpg" alt="Des membres de l’équipe PI-RPC sont assis à une table avec des bannières du Service numérique canadien et des affiches visant à recruter des médecins pour leur recherche.">
                 <p>Les médecins étaient intéressés à participer à notre recherche, mais nous ont dit qu’ils ne pouvaient pas prendre 15 minutes pour s’asseoir avec nous.</p>
                 <h5>Jour 2 du recrutement par interception à Montréal – 3 décembre 2019</h5>
                 <p>À la fin de la deuxième journée, un total de cinq personnes se sont assises avec nous.</p>

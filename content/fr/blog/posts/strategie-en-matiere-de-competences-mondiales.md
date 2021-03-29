@@ -13,10 +13,10 @@ description: >-
   mondiales pour embaucher notre premier membre de l’équipe à l’international.
 author: 'Meera Makim Cunningham, Opérations'
 date: '2018-10-12 09:00:00 -0400'
-image: /img/cds/blog-global-skills-strategy.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_global_skills_strategy_42ab3dc4c1.jpg
 image-alt: Une femme porte des chaussures argentées sur une plate-forme de métro.
 translationKey: global-skills-strategy
-thumb: /img/cds/thumbnails/blog-global-skills-strategy.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_global_skills_strategy_42ab3dc4c1.jpg
 processed: 1550672962324
 ---
 
@@ -30,7 +30,7 @@ En juin 2017, IRCC a lancé la [Stratégie en matière de compétences mondiales
 
 Le programme est entre autres ouvert aux personnes dont le métier figure dans les [Codes de la Classification nationale des professions](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/entree-express/admissibilite/trouver-classification-nationale-professions.html) (Codes de la CNP) «&nbsp;0&nbsp;» et «&nbsp;A&nbsp;»&nbsp;: professions techniques et de la gestion et qui sont dispensé d’une [étude d’impact sur le marché du travail](http://www.cic.gc.ca/francais/centre-aide/reponse.asp?qnum=163&top=17) (EIMT).
 
-<img width="100%" alt="L’aileron d’un avion qui vole au-dessus du Canada enneigé." src="/img/cds/blog-global-skills-strategy-1.jpg">
+<img width="100%" alt="L’aileron d’un avion qui vole au-dessus du Canada enneigé." src="https://de2an9clyit2x.cloudfront.net/blog_global_skills_strategy_1_167d155c4d.jpg">
 
 Le cas de Kylie nous a permis d’essayer pour la première fois la Stratégie en matière de compétences mondiales. Notre objectif était que Kylie se joigne à l’équipe en janvier 2018. Voici ce qui a été fait :
 

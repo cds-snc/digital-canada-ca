@@ -7,12 +7,12 @@ description: >-
   meilleur parti d’un partenariat potentiel!
 author: 'John Millons, politiques et mobilisation'
 date: '2018-04-19 09:00:00 -0400'
-image: /img/cds/blog-c4c.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_c4c_26d807bbf1.jpg
 image-alt: >-
   Les six membres de la première cohorte d’associés de Code for Canada à
   l’extérieur de l’édifice du parlement provincial à Toronto.
 translationKey: our-partnership-with-code-for-canada
-thumb: /img/cds/thumbnails/blog-c4c.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_c4c_26d807bbf1.jpg
 processed: 1550672962173
 ---
 

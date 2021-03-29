@@ -17,12 +17,12 @@ description: >-
   rapidement dépassé.
 author: 'Eman El-Fayomi, chef de la conception'
 date: '2018-08-21 09:00:00 -0400'
-image: /img/cds/blog-productive-collaboration.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_productive_collaboration_b08bf045d4.jpg
 image-alt: >-
   L'équipe de produit se réunit autour du tableau de print lors d'une réunion
   quotidienne.
 translationKey: productive-collaboration
-thumb: /img/cds/thumbnails/blog-productive-collaboration.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_productive_collaboration_b08bf045d4.jpg
 processed: 1550672961816
 ---
 
@@ -45,13 +45,13 @@ Nous avons travaillé ensemble à l’élaboration de notre propre approche mult
 
 Au cours de notre première séance d’orientation en équipe, nous avons utilisé un outil appelé [A User Manual for Me](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694) (Manuel de l’utilisateur pour moi) créé par Cassie Robinson.
 
-<img width="100%" alt="L'outil Manuel de l'utilisateur pour moi qui offre huit cases où les préférences de travail peuvent être indiquées dont les heures auxquels j'aime travailler et les meilleures façons de communiquer avec moi." src="/img/cds/blog-manual-fr.png">
+<img width="100%" alt="L'outil Manuel de l'utilisateur pour moi qui offre huit cases où les préférences de travail peuvent être indiquées dont les heures auxquels j'aime travailler et les meilleures façons de communiquer avec moi." src="https://de2an9clyit2x.cloudfront.net/blog_manual_fr_bb5d6e0e5d.png">
 
 Chaque personne devait remplir cet outil, puis le partager avec l’équipe. Cela nous a permis de discuter de nos styles de travail, un sujet qui ne ressort pas toujours naturellement dans nos conversations. Depuis, nous avons utilisé des variantes de cet outil parmi d’autres équipes de produits du SNC et avons créé une [version numérique bilingue](https://docs.google.com/presentation/d/1KNNLKtFYoLOdTZ5Ez0ZBXwDGcZNB7AcfKr-4iMNF5L0/edit#slide=id.g3fd0daa6c4_0_0) pour que les membres de nos équipes élargies puissent la mettre à jour fréquemment.
 
 Nous avons également utilisé un outil du guide de travail d’équipe d’Atlassian appelé [Roles and Responsibilities](https://www.atlassian.com/team-playbook/plays/roles-and-responsibilities) (Rôles et responsabilités) pour définir et préciser les compétences, les contributions et les besoins de chaque personne.
 
-<img width="100%" alt="L'outil des Rôles et responsabilités pour mieux comprendre les contributions de tous les membres de l'équipe." src="/img/cds/blog-roles-fr.png">
+<img width="100%" alt="L'outil des Rôles et responsabilités pour mieux comprendre les contributions de tous les membres de l'équipe." src="https://de2an9clyit2x.cloudfront.net/blog_roles_fr_7198d2f3ec.png">
 
 Télécharger une copie de l’outil [Rôles et responsabilités](https://drive.google.com/a/cds-snc.ca/file/d/1DKI3I9_pTFAjRnVK_tlCYsGJ_jVQub0q/view?usp=sharing) en français.
 
@@ -67,11 +67,11 @@ Comme notre équipe de produits travaillait de façon itérative, en effectuant 
 
 En tant qu’équipe, nous avons utilisé [Trello](https://trello.com/) pour gérer notre backlog de produit et pour savoir qui travaillait sur quoi pendant chaque sprint. De plus, nous avons créé un tableau de bord secondaire, appelé notre tableau de bord décisionnel, qui nous a permis de documenter les problèmes vécus par les utilisateurs lors de chaque série de tests. En tant qu’équipe, nous avons examiné ces problèmes et examiné la façon dont nous pouvions les aborder au moyen de diverses interventions de conception et de développement. Nous avons créé des cartes détaillées qui décrivaient les changements nécessaires et nous y avons joint les cartes de « problème » originales auxquelles elles se rapportaient. De cette façon, nous pouvons retracer chaque décision à une connaissance obtenue grâce à la recherche. Une fois qu’une carte est prête à être ramassée par un développeur, nous la transférons à notre colonne « en cours » et la reproduisons à notre tableau général de Trello pour l’intégrer officiellement dans un sprint.
 
-<img width="100%" alt="Le tableau de bord décisionnel comprend cinq listes dont les problèmes, les recommandations pour le service, les interventions de conception, le travail en cours et le travail complété." src="/img/cds/blog-ircc-dashboard.png">
+<img width="100%" alt="Le tableau de bord décisionnel comprend cinq listes dont les problèmes, les recommandations pour le service, les interventions de conception, le travail en cours et le travail complété." src="https://de2an9clyit2x.cloudfront.net/blog_ircc_dashboard_59646e2a14.png">
 
 Les développeurs participent tout au long du processus de conception aux réunions, aux activités de recherche et au tableau de bord décisionnel. Afin d’aider l’ensemble de notre équipe à suivre tous les changements nécessaires, nous ouvrons aussi des problèmes directement dans GitHub en décrivant tous les détails que les développeurs doivent connaître. [GitHub](https://github.com/cds-snc/ircc-rescheduler) nous permet de communiquer avec les développeurs d’une manière qui est familière et productive compte tenu de leur flux de travail existant. GitHub permet également aux membres du public de soulever des questions et des problèmes qu’ils vivent lorsqu’ils vérifient les itérations des services que nous créons. Cette approche a été particulièrement utile pour notre travail sur les produits d’IRCC, à mesure que nous avons approfondi nos connaissances.
 
-<img width="100%" alt="L'interface de GitHub montre les changements apportés avec les problèmes maintenant fermés." src="/img/cds/blog-eman-screenshot.png">
+<img width="100%" alt="L'interface de GitHub montre les changements apportés avec les problèmes maintenant fermés." src="https://de2an9clyit2x.cloudfront.net/blog_eman_screenshot_9d84036f04.png">
 
 Alors que nous nous efforçons de travailler ouvertement, il ne s’agit pas seulement de la façon dont nous fonctionnons à l’externe avec le public. C’est un cadre que nous pouvons appliquer à l’interne à toutes les équipes de produits. Grâce à ces méthodes de travail, il est plus facile pour les membres de notre équipe de produits de communiquer et de suivre ce que les autres font. À mesure que le SNC prend de l’expansion et forme des équipes plus importantes qui comprennent des membres des ministères partenaires, il est plus important que jamais de créer des processus partagés qui répondent aux besoins uniques des équipes multidisciplinaires et de leurs membres. **Il n’est pas nécessaire que les grandes équipes soient synonymes de défis plus importants.**
 

@@ -7,12 +7,12 @@ description: >-
   quickly.
 author: 'Marcel Saulnier, Assistant Deputy Minister at Health Canada'
 date: 2020-05-13T17:26:05.709Z
-image: /img/cds/financial-help-covid-19-en.jpg
+image: https://de2an9clyit2x.cloudfront.net/financial_help_covid_19_en_135802d892.jpg
 image-alt: >-
   Someone navigating the “Get updates on COVID-19” email notification service on
   their phone.
 translationKey: blog-get-covid-updates
-thumb: /img/cds/thumbnails/financial-help-covid-19-en.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_financial_help_covid_19_en_135802d892.jpg
 processed: 1589465188277
 ---
 **"Digital is about applying the culture, processes, business models and technologies of the internet era to respond to people's raised expectations." – Tom Loosemore**

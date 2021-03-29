@@ -7,13 +7,13 @@ description: >-
   aventure passionnante dans le secteur privé [cry emoji]
 author: Yael Berger et Eva Demers-Brett
 date: 2019-05-30T15:00:00.000Z
-image: /img/cds/eva-blog.jpg
+image: https://de2an9clyit2x.cloudfront.net/eva_blog_6027e5f0f8.jpg
 image-alt: >-
   Une série de portraits d’Eva Demers-Brett, allant de sérieux à de plus en plus
   loufoques, ainsi qu’un portrait de sa mascotte, M. Pinchey, un crabe en
   peluche orange portant un chapeau de requin.
 translationKey: take-a-walk-on-the-private-side
-thumb: /img/cds/thumbnails/eva-blog.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_eva_blog_6027e5f0f8.jpg
 processed: 1559833507130
 ---
 L’une de nos développeuses bien-aimées, Eva Demers-Brett, membre de l’équipe du gouvernement ouvert (GO), nous quitte ce mois-ci pour entreprendre une aventure passionnante dans le secteur privé 😢. Ce sera la première fois de sa carrière de développeuse qu’elle travaillera à l’extérieur de la fonction publique; c’est pourquoi nous voulions connaître ses réflexions et les leçons qu’elle gardera en tête tandis qu’elle découvre le secteur privé.

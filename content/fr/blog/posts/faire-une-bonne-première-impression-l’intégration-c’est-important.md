@@ -9,20 +9,20 @@ description: >-
   Il s’avère que ça prenait de la recherche, des découvertes et des tests.
 author: Jessica Loadenthal et Alexa Davidson
 date: 2019-07-29T13:00:00.000Z
-image: /img/cds/onboarding-banner-fitted.jpg
+image: https://de2an9clyit2x.cloudfront.net/onboarding_banner_fitted_12c3d9a91b.jpg
 image-alt: >-
   Une photo du bureau d'Eman lors de sa première journée, des papillons adhésifs
   étant collés sur les moniteurs de façon à écrire «Bienvenue Eman», et le
   bureau étant recouvert d'autocollants, de chocolats et de confettis.
 translationKey: onboarding-matters
-thumb: /img/cds/thumbnails/onboarding-banner-fitted.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_onboarding_banner_fitted_12c3d9a91b.jpg
 processed: 1564420750598
 ---
 En tant qu’organisme en pleine expansion, nous accueillons de nouveaux employés quasiment toutes les semaines. S’il s’agit de routine pour nous, c’est un événement unique pour les employés qui commencent. Un nouvel emploi peut être stressant, et la décision de garder son poste ou de passer à autre chose se prend souvent lors des premiers jours. Il est donc essentiel que nous créions une excellente expérience d’intégration. Après tout, les personnes sont au cœur de notre travail — il ne faut pas l’oublier. 
 
 L’année dernière, nous avons accueilli 36 nouveaux employés, ce qui a presque doublé le personnel du SNC. Bien que nous ayons toujours été emballés d’ajouter des gens à notre équipe, nous savions que leur intégration méritait quelques améliorations. Alors, comment les techniques et les outils que le SNC utilise pour bâtir des technologies pouvaient-ils bien nous aider à créer quelque chose d’excellent? Il s’avère que ça prenait de la recherche, des découvertes et des tests.
 
-![Un poste de travail au bureau du SNC est aménagé avec un moniteur, un ordinateur portable, de nouveaux écouteurs, des blocs de papillons adhésifs, des stylos et une rangée de papillons adhésifs où l'on peut lire: «Welcome to CDS».](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/onboarding_1_d94d6323dd.jpg)
+![Un poste de travail au bureau du SNC est aménagé avec un moniteur, un ordinateur portable, de nouveaux écouteurs, des blocs de papillons adhésifs, des stylos et une rangée de papillons adhésifs où l'on peut lire: «Welcome to CDS».](https://de2an9clyit2x.cloudfront.net/onboarding_1_d94d6323dd.jpg)
 
 ## L’intégration commence avant le premier jour de travail
 
@@ -38,7 +38,7 @@ Autre morceau important de l’intégration d’un employé : le premier jour. N
 
 Plusieurs employés aident à faire en sorte que le Jour 1 soit une réussite. Notre équipe des opérations internes veille à ce que les nouveaux employés reçoivent leur matériel du SCT à temps. (Difficile de travailler sans le nécessaire. Au SNC, ce matériel inclut une tablette du SCT, un cellulaire et un MacBook.) L’équipe des talents met en place le bureau du nouvel employé avec un carnet personnalisé, de la papeterie, des écouteurs et un écriteau de bienvenue. Nous nous assurons que les nouveaux employés arrivent à un poste de travail qui a été aménagé juste pour eux. C’est incroyable de voir à quel point un geste qui nous prend quelques minutes seulement peut avoir un si grand effet.
 
-![Une photo du poste de travail de Kate lors de sa première journée, notamment quatre papillons adhésifs épelant «KATE», trois stylos, un carnet au nom de Kate, un autocollant du SNC et des blocs de papillons adhésifs.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/onboarding_2_69ceb5a9af.jpg)
+![Une photo du poste de travail de Kate lors de sa première journée, notamment quatre papillons adhésifs épelant «KATE», trois stylos, un carnet au nom de Kate, un autocollant du SNC et des blocs de papillons adhésifs.](https://de2an9clyit2x.cloudfront.net/onboarding_2_69ceb5a9af.jpg)
 
 Nous faisons aussi une chose très importante : nous informons le reste du SNC de l’arrivée d’un nouveau membre du personnel. Sur l’un des murs du bureau principal à Ottawa, nous avons des sections « Bientôt en poste » et « Maintenant en poste ». Ainsi, tout le monde est prêt à accueillir un nouvel employé.
 
@@ -50,5 +50,5 @@ Nous faisons le point avec les employés et leur gestionnaire au bout de deux et
 
 Le prochain enjeu auquel nous planifions nous attaquer, c’est l’inscription aux avantages sociaux. Nous espérons qu’en créant une documentation claire et qu’en étant présents pour dépanner, nous mettrons en œuvre un processus amélioré (et plus rapide) permettant aux employés d’obtenir tout ce dont ils ont besoin au SNC. Il existe toujours quelque chose que nous pouvons améliorer. Et puisque l’accueil des employés est synonyme de nouveauté, pourquoi ne pas tenter quelque chose de spectaculaire?
 
-![Trois membres du SNC jouant un rôle lors de l'intégration de nouveaux employés sont côte à côte, les bras ouverts et le sourire au visage.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/onboarding_3_12dc00f532.jpg)
+![Trois membres du SNC jouant un rôle lors de l'intégration de nouveaux employés sont côte à côte, les bras ouverts et le sourire au visage.](https://de2an9clyit2x.cloudfront.net/onboarding_3_12dc00f532.jpg)
 

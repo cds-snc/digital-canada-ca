@@ -8,12 +8,12 @@ description: >-
   ouvert de nouveaux horizons. Découvrez son parcours.
 author: 'Keith Colbourne, Gendarmerie royale du Canada (GRC)'
 date: 2019-12-13T17:49:37.321Z
-image: /img/cds/keith-rcmp-blog.jpg
+image: https://de2an9clyit2x.cloudfront.net/keith_rcmp_blog_66ebe05132.jpg
 image-alt: >-
   Photo de Keith souriant alors qu’il se trouve dehors, au centre-ville
   d’Ottawa.
 translationKey: keith-rcmp-blog
-thumb: /img/cds/thumbnails/keith-rcmp-blog.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_keith_rcmp_blog_66ebe05132.jpg
 processed: 1581626526600
 ---
 Oh là là. Je suis en réunion, à répondre aux questions du dirigeant principal de l’information (DPI) de la GRC. **Le D-P-I.** Au cours de ma carrière de presque 20 ans dans la fonction publique, cette situation ne s’est jamais produite. Cependant me voici, moi, un développeur de la Gendarmerie royale du Canada (GRC), en colocalisation au Service numérique canadien (SNC) pour travailler sur un outil de signalement public destiné aux victimes de cybercrimes, plaidant pour des changements directement au DPI. Il y a 14 mois, cette situation aurait été tout à fait inconcevable.

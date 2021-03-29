@@ -8,10 +8,10 @@ description: >-
   votre équipe.
 author: 'Sean Boots, Politiques'
 date: 2019-02-06T14:00:58.492Z
-image: /img/cds/img_20190206_121320.jpg
+image: https://de2an9clyit2x.cloudfront.net/img_20190206_121320_bceaa8ad84.jpg
 image-alt: Une personne raccorde son Macbook à un appareil MiFi portatif.
 translationKey: external-wifi
-thumb: /img/cds/thumbnails/img_20190206_121320.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_img_20190206_121320_bceaa8ad84.jpg
 processed: 1550672962184
 ---
 Le fait d’avoir accès à des outils modernes est une condition préalable pour la prestation de services numériques modernes. Nous avons écrit auparavant au sujet de [l’importance des outils modernes](https://numerique.canada.ca/2018/06/27/outils-pour-faire-du-bon-travail/), tels que des MacBook et des ordinateurs portables basés sur Linux, pour la conception et le développement de logiciels.

@@ -6,13 +6,13 @@ description: >-
   us this month to embark on an exciting opportunity in the private sector.
 author: Yael Berger and Eva Demers-Brett
 date: 2019-05-30T15:00:00.000Z
-image: /img/cds/eva-blog.jpg
+image: https://de2an9clyit2x.cloudfront.net/eva_blog_6027e5f0f8.jpg
 image-alt: >-
   A series of portraits of Eva Demers-Brett, going from serious to progressively
   more silly, including a portrait of her mascot, Mr. Pinchey, an orange stuffed
   animal crab wearing a shark hat.
 translationKey: take-a-walk-on-the-private-side
-thumb: /img/cds/thumbnails/eva-blog.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_eva_blog_6027e5f0f8.jpg
 processed: 1559833506993
 ---
 One of our beloved developers and OG team member Eva Demers-Brett is leaving us this month to embark on an exciting opportunity in the private sector 😢. It’ll be her first time working outside the public service during her career as a developer, so we wanted to capture her insights and find out what lessons she’ll bring with her as she takes a walk on the private side.

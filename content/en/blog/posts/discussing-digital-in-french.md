@@ -10,10 +10,10 @@ description: >-
   eyebrows.
 author: 'Annie Leblond, Communications'
 date: '2017-09-29 09:00:00 -0400'
-image: /img/cds/blog-discussing-digital-in-french-2017.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_discussing_digital_in_french_2017_0d1d34a4de.jpg
 image-alt: Computer keyboard with the flag of France on a key
 translationKey: discussing-digital-in-french
-thumb: /img/cds/thumbnails/blog-discussing-digital-in-french-2017.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_discussing_digital_in_french_2017_0d1d34a4de.jpg
 processed: 1550672961678
 ---
 Tomorrow, September 30, is International Translation Day. For me, talking about digital in French is a challenge: properly naming new technologies and *especially* - especially - not losing sight of the fact that we are addressing "real people". **Thinking of users first, making them central to our work - that also comes into play with the words that we choose**.

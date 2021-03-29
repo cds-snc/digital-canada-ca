@@ -10,12 +10,12 @@ description: >-
   Twitter.
 author: 'Yael Berger, Chelsea Novak, Charlotte Pedersen, Élise Cossette'
 date: 2019-08-20T14:21:33.298Z
-image: /img/cds/ama-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/ama_banner_032dcb83f7.jpg
 image-alt: >-
   Vue aérienne de 4 coureurs à relais parcourant une piste dotée de 4 voies
   parallèles.
 translationKey: relay-race-ama
-thumb: /img/cds/thumbnails/ama-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_ama_banner_032dcb83f7.jpg
 processed: 1566597193279
 ---
 Imaginez que vous êtes le premier coureur d’une course à relais de 400 m. Vous vous placez en position de départ. On donne le signal, et vous vous lancez aussitôt dans un sprint en ne ménageant aucun effort. En vous approchant de la marque des 100 m, vous vous apercevez que personne n’est prêt à prendre le relais. Oh non! Vous devez maintenant continuer sur la même lancée et poursuivre ce sprint jusqu’à la fin de la course. 
@@ -54,7 +54,7 @@ J’ai donc établi des objectifs, des méthodes de mesure et quelques tactiques
 
 Notre équipe de liaison et diffusion est très à l’aise avec le travail décentralisé. Nous sommes rapidement devenues des expertes de Slack, Google Sheets et Hangouts. Nous avons mis en œuvre le projet pour que Yael et Élise soient dans notre bureau d’Ottawa avec notre PDG, Aaron Snow, ainsi qu’avec Sean Boots de notre équipe des politiques. Yael était chargée de trier les questions, alors qu’Aaron et Sean devaient répondre à ces dernières sur une feuille de calcul et qu’Élise devait traduire leurs réponses en français avant de publier ses traductions sur notre compte Twitter français. À Toronto, Charlotte était responsable de recueillir les questions et de publier les réponses anglaises. J’étais à Kingston (comme d’habitude) pour m’occuper des urgences et éteindre tout feu possible. 
 
-![Image illustrant le fonctionnement de l’AMA avec les 4 membres de l’équipe de sensibilisation. Les membres de l’équipe répondent aux questions en direct et travaillent au moyen d’une feuille de calcul Google](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/ama_process_7c8d6af407.jpg "SNC AMA")
+![Image illustrant le fonctionnement de l’AMA avec les 4 membres de l’équipe de sensibilisation. Les membres de l’équipe répondent aux questions en direct et travaillent au moyen d’une feuille de calcul Google](https://de2an9clyit2x.cloudfront.net/ama_process_7c8d6af407.jpg "SNC AMA")
 
 Après avoir tout organisé, j’ai passé le relais à Charlotte qui a commencé la mise en œuvre de l’AMA. 
 
@@ -90,7 +90,7 @@ Voilà pourquoi ce fut tout un sport d’équipe. J’ai même manqué de souffl
 
 Puis, j’ai pris du retard dans la course. Et c’est une bonne chose, car ça veut dire que les gens ont fortement participé et que j’avais un gros volume à traduire. Mais le travail de mes coéquipières avait été si bien fait que nous avons tout de même terminé la course en beauté. (Avec quelques courbatures le lendemain!)
 
-![Photo de l’équipe avec une affiche indiquant « Nous voici! » avant le début de l’AMA.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/ama_fr_6b9b14382a.jpg "SNC AMA")
+![Photo de l’équipe avec une affiche indiquant « Nous voici! » avant le début de l’AMA.](https://de2an9clyit2x.cloudfront.net/ama_fr_6b9b14382a.jpg "SNC AMA")
 
 ## Entraînement en vue de la prochaine course
 

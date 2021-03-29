@@ -7,12 +7,12 @@ description: >-
   téléphone des clés à usage unique aux patients en période de stress.
 author: 'Élise Cossette et Yedida Zalik, conception de contenu'
 date: 2020-10-27T13:00:33.817Z
-image: /img/cds/banner-phonetic-alphabetic-blog.jpg
+image: https://de2an9clyit2x.cloudfront.net/banner_phonetic_alphabetic_blog_8f889946bb.jpg
 image-alt: >-
   Un travailleur de la santé communiquant avec succès une clé à usage unique à
   un patient au téléphone.
 translationKey: phonetic-alphabet-blog
-thumb: /img/cds/thumbnails/banner-phonetic-alphabetic-blog.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_banner_phonetic_alphabetic_blog_8f889946bb.jpg
 processed: 1603809167065
 ---
 Le personnel du milieu de la santé ainsi que bien des agents administratifs jouent un rôle crucial dans la réussite de l’application Alerte COVID. 
@@ -41,7 +41,7 @@ Le mot « Yankee », par exemple, peut être offensant, tandis le que le mot « 
 
 **Nous nous sommes demandé si nous pouvions trouver des mots adaptés à notre réalité. Si oui, comment choisir les mots?**
 
-![Une clé alphanumérique (284 FKQ 8889) est lue à voix haute à l’aide de chiffres et de mots : « Deux, huit, quatre, famille, kangourou, question, huit, huit, huit, neuf ».](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_phonetic_fr_aee145e594.jpg)
+![Une clé alphanumérique (284 FKQ 8889) est lue à voix haute à l’aide de chiffres et de mots : « Deux, huit, quatre, famille, kangourou, question, huit, huit, huit, neuf ».](https://de2an9clyit2x.cloudfront.net/blog_phonetic_fr_aee145e594.jpg)
 
 ## Choisir notre alphabet
 

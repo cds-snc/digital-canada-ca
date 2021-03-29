@@ -11,13 +11,13 @@ description: >-
   logiciels de haute qualité.
 author: 'Jason White, chef, sciences des données'
 date: '2018-03-26 09:00:00 -0400'
-image: /img/cds/blog-automated-testing.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_automated_testing_76c2e620d6.jpg
 image-alt: >-
   Trois personnes sont assises autour d’une table tout en travaillant sur des
   ordinateurs portables. Une personne montre du doigt l’écran de la personne en
   face d’elle qui montre un signe d’accord.
 translationKey: automated-testing-blog
-thumb: /img/cds/thumbnails/blog-automated-testing.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_automated_testing_76c2e620d6.jpg
 processed: 1550672962167
 ---
 
@@ -42,12 +42,12 @@ Elle diffère du modèle plus courant de « branche distincte », où les dével
 
 Nous avons choisi CircleCI pour automatiser nos tests. Il exécute toute notre suite de tests sur chaque poussée (*push*) vers Github. L’exécution de la suite de tests prend environ 2 minutes après la poussée, de sorte que les développeurs obtiennent une rétroaction très rapide et automatisée sur les changements proposés. Il n’est pas permis de fusionner les branches lorsque l’IC a échoué.
 
-<img width="80%" alt="Journaux de sortie qui montrent des tests réussis sur CircleCI" src="/img/cds/nrcan3-img1.png">
+<img width="80%" alt="Journaux de sortie qui montrent des tests réussis sur CircleCI" src="https://de2an9clyit2x.cloudfront.net/nrcan3_img1_2c562f811f.png">
 
 Réussite de l’exécution de l’IC
 
-<img width="80%" alt="Journaux de sortie qui montrent trois tests réussis et un test échoué sur CircleCI" src="/img/cds/nrcan3-img2.png">
-<img width="80%" alt="Journaux de sortie qui montrent un test échoué" src="/img/cds/nrcan3-img3.png">
+<img width="80%" alt="Journaux de sortie qui montrent trois tests réussis et un test échoué sur CircleCI" src="https://de2an9clyit2x.cloudfront.net/nrcan3_img2_3874be6ce8.png">
+<img width="80%" alt="Journaux de sortie qui montrent un test échoué" src="https://de2an9clyit2x.cloudfront.net/nrcan3_img3_473f846ada.png">
 
 Échec de l’exécution de l’IC
 

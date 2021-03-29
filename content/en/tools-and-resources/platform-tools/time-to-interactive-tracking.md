@@ -1,5 +1,5 @@
 ---
-title: Time to interactive tracking
+title: 'Time to interactive tracking'
 translationKey: time-to-interactive
 description: >-
   A tool that checks how long an application takes to completely load.

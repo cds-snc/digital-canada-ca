@@ -1,5 +1,5 @@
 ---
-title: Open Call catalogue to help governments respond to COVID-19
+title: 'Open Call catalogue to help governments respond to COVID-19'
 translationKey: open-call
 description: >-
   Open Call is a curated catalogue of free, open-source tools that governments can use to support people during COVID-19.

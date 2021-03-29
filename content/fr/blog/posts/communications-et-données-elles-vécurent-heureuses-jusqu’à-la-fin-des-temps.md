@@ -7,10 +7,10 @@ description: >-
   public.
 author: 'Charlotte Pedersen, Liaison et diffusion'
 date: 2019-11-28T14:09:20.985Z
-image: /img/cds/dreaming-of-words.jpg
+image: https://de2an9clyit2x.cloudfront.net/dreaming_of_words_7126bfb389.jpg
 image-alt: 'Illustration d''une fille rêvant d''écriture et de livres. '
 translationKey: Data-driven-comms
-thumb: /img/cds/thumbnails/dreaming-of-words.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_dreaming_of_words_7126bfb389.jpg
 processed: 1575304320725
 ---
 ## Il était une fois...
@@ -85,7 +85,7 @@ Certaines personnes ne savaient pas non plus que notre bouton noir « s’inscri
 
 ✨✨✨
 
-![Avant et après les images des pages web.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/FR_Newsletter1_080a0d0938.jpg)
+![Avant et après les images des pages web.](https://de2an9clyit2x.cloudfront.net/FR_Newsletter1_080a0d0938.jpg)
 
 Nous avons utilisé [Google Trends](https://trends.google.com/trends/?geo=CA) pour découvrir que les gens anglophones au Canada utilisent davantage le mot « subscribe » que « sign up », alors nous avons pris la décision de n’utiliser que le mot « subscribe ». 
 
@@ -103,7 +103,7 @@ S’ils cliquaient sur « Gérer vos préférences », ils étaient dirigés ver
 
 ✨✨✨
 
-![Avant et après les images des pages web.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/FR_Newsletter2_a20f92044e.jpg)
+![Avant et après les images des pages web.](https://de2an9clyit2x.cloudfront.net/FR_Newsletter2_a20f92044e.jpg)
 
 En fin de compte, nous avons appris qu’il fallait inciter les gens à se rendre où ils allaient instinctivement de toute façon : dans leur boîte de réception.
 

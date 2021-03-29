@@ -8,12 +8,12 @@ description: >-
   Canadiens s’attendent et qu’ils méritent.
 author: 'Charlotte Pedersen, renforcement des capacités'
 date: '2018-07-31 09:00:00 -0400'
-image: /img/cds/blog-iceberg-header.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_iceberg_header_9690f17788.jpg
 image-alt: >-
   Une personne debout derrière un podium fait signe vers un iceberg qui flotte
   dans un aquarium, alors qu’un petit chien observe.
 translationKey: showing-the-whole-iceberg
-thumb: /img/cds/thumbnails/blog-iceberg-header.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_iceberg_header_9690f17788.jpg
 processed: 1550672962171
 ---
 

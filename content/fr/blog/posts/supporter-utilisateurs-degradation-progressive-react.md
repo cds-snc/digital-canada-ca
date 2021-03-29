@@ -3,13 +3,13 @@ title: "Un service qui fonctionne mieux pour tout le monde\_: supporter plus d�
 description: "Utiliser les technologies modernes peut rendre le développement plus rapide, mais, ultimement, nous devons livrer des solutions fonctionnelles sans sacrifier la robustesse et l’accessibilité. Nous avons créé le service pour «\_reporter un examen de citoyenneté\_» de sorte à repousser les limites de la prestation de services sans toutefois laisser les utilisateurs au dépourvu."
 author: 'Paul Craig, développeur'
 date: '2018-08-08 09:00:00 -0400'
-image: /img/cds/blog-noJS.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_no_JS_16ec4cec0b.jpg
 image-alt: >-
   Une personne en train de naviguer à travers une gamme d’appareils
   électroniques, y compris un téléphone à cadran, un téléphone à clapet, un
   ordinateur portable et une tour d’ordinateur de bureau.
 translationKey: supporting-users-gracefully-degrading-react
-thumb: /img/cds/thumbnails/blog-noJS.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_no_JS_16ec4cec0b.jpg
 processed: 1550672962326
 ---
 

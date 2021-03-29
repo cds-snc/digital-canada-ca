@@ -6,10 +6,10 @@ description: >-
   you enhance your messages.
 author: 'Philippe Tardif, Visual Storyteller'
 date: 2020-01-28T15:02:30.012Z
-image: /img/cds/visual-storyteller.jpg
+image: https://de2an9clyit2x.cloudfront.net/visual_storyteller_533f467c76.jpg
 image-alt: A picture of a man at a computer designing a visual story about outer space.
 translationKey: visual-storyteller-blog
-thumb: /img/cds/thumbnails/visual-storyteller.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_visual_storyteller_533f467c76.jpg
 processed: 1581626586748
 ---
 Are you looking to make your communications more effective? Let images help you enhance your messages.
@@ -22,7 +22,7 @@ Drawing from my past experiences, as well as those learned at CDS, I’ve put to
 
 Stepping outside of the text and translating a story visually maximizes the impact of your message. In short, the more visual your messages are, the more memorable they will be! Ask yourself this question: Which do you prefer? Raw data, or an interesting graphical story?
 
-![An infographic that states three facts. Fact 1 : Almost 50 % of your brain is involved in visual processing. Fact 2: 150 milliseconds is the approximate time that a brain takes to assimilate an image and to associate a meaning to it. Fact 3: According to a study on word recognition, the human brain processes images faster than words.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/visual_storyteller_infographic_6b3259fbc5.jpeg)
+![An infographic that states three facts. Fact 1 : Almost 50 % of your brain is involved in visual processing. Fact 2: 150 milliseconds is the approximate time that a brain takes to assimilate an image and to associate a meaning to it. Fact 3: According to a study on word recognition, the human brain processes images faster than words.](https://de2an9clyit2x.cloudfront.net/visual_storyteller_infographic_6b3259fbc5.jpeg)
 
 Research in this field has yielded some interesting findings like, for example, did you know that almost 50 percent of your brain is involved in visual processing?(1) Or that it takes our brains about 150 milliseconds to process an image and give it meaning?(2). These numbers are really cool, but what are they really trying to tell us?
 
@@ -32,7 +32,7 @@ They teach us that vision is the dominant sense in human beings. Our brains seem
 
 We’ve all been moved, amused or shocked by an image or a photograph at some point in our lives… By using less text and using simple words, we create an opportunity for empathetic imagery. Most people remember information better when it conjures an emotional responses.
 
-![A photo of Maya angelou, an American poet, singer, memoirist, and civil rights activist, quoting her saying : “people will forget what you said, people will forget what you did, but people will never forget how you made them feel.”](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/maya_angelou_quote_b720ba2d4b.jpeg)
+![A photo of Maya angelou, an American poet, singer, memoirist, and civil rights activist, quoting her saying : “people will forget what you said, people will forget what you did, but people will never forget how you made them feel.”](https://de2an9clyit2x.cloudfront.net/maya_angelou_quote_b720ba2d4b.jpeg)
 
 Visual quotes (such as the one above) give credibility to your content and maximize its lifespan, whether on social media or on a website. When unaccompanied by words, images tend to be interpreted in very different ways. The objective is therefore for images and words to complement each other. Now think to yourself,  is a picture really worth a thousand words? We say this because an image that makes people talk is an image that produces a story. Our brain needs an engaging narrative structure, with a clear beginning, middle and end, to facilitate the retention of information. 
 

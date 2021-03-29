@@ -6,10 +6,10 @@ description: >-
   what getting some face time did for our teams.
 author: 'Allison Rothmel, Consultant at Veterans Affairs Canada'
 date: 2019-01-10T14:00:00.000Z
-image: /img/cds/groupvac_cds.jpg
+image: https://de2an9clyit2x.cloudfront.net/groupvac_cds_593fa30b36.jpg
 image-alt: The team members all stand together and smile for a photo.
 translationKey: VAC-CDS-visit
-thumb: /img/cds/thumbnails/groupvac_cds.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_groupvac_cds_593fa30b36.jpg
 processed: 1550672961717
 ---
 As a business analyst consulting at Veterans Affairs Canada (VAC) in Charlottetown partnered with the Canadian Digital Service, it’s been challenging to join an in-progress project when teams are located in different cities. Even with a daily remote standup, you don’t get to know who everybody is, and it’s hard to match a voice to a name when you’ve never met.
@@ -20,7 +20,7 @@ We all left the Charlottetown VAC office on different flights but arrived at CDS
 
 After a quick tour, we started utilizing the space and got to work sketching out a plan for the week on the wondrous wall-sized whiteboard. The afternoon activities kicked off with a team lunch at a nearby restaurant. Two agile teams on a collaborative project benefit from face time. It builds on trust.
 
-![Team members smile for a photo while sitting at a large table in a restaurant.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/lunchvac_cds_9e08e55188.jpg)
+![Team members smile for a photo while sitting at a large table in a restaurant.](https://de2an9clyit2x.cloudfront.net/lunchvac_cds_9e08e55188.jpg)
 
 The next two days were spent with a series of breakout sessions based on role shadowing, where VAC personnel paired with their related counterparts in CDS. Our teams both come from different backgrounds and as such our roles don’t mirror perfectly. There were some last minute invites and plenty of cross-sharing as the two teams continued to feel each other out.
 
@@ -32,7 +32,7 @@ Usability testing took place on Wednesday and Thursday afternoon and I have to s
 
 Throughout the week there were plenty of side chats and side projects. Developers were able to present their work and answer questions. There was a growing sense of cohesion as we worked together in this open agile environment. By Friday we were a team.
 
-![The team members all stand together and smile for a photo.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/groupvac_cds_593fa30b36.jpg)
+![The team members all stand together and smile for a photo.](https://de2an9clyit2x.cloudfront.net/groupvac_cds_593fa30b36.jpg)
 
 Back in Charlottetown, the 15-minute standups don’t seem so remote anymore. Though team members are in Toronto, Ottawa, and Charlottetown, we all have the same goal to build on what we learned from each other in hopes of providing user-centred design in the Government of Canada.
 

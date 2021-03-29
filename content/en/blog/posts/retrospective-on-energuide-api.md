@@ -6,13 +6,13 @@ description: >-
   lessons learned. 
 author: 'Jennifer Fletcher, Partnerships'
 date: '2018-04-25 09:00:00 -0400'
-image: /img/cds/blog-energuide-retro.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_energuide_retro_f4780d2e1d.jpg
 image-alt: >-
   Seven members of the team are seated around a table. They are looking at two
   people standing at the front of the room grouping post-it notes on on the
   whiteboard.
 translationKey: retrospective-on-energuide-api
-thumb: /img/cds/thumbnails/blog-energuide-retro.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_energuide_retro_f4780d2e1d.jpg
 processed: 1550672961750
 ---
 

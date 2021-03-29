@@ -7,17 +7,17 @@ description: >-
   experience designer. While this may be a good start, it misses the mark.
 author: 'Eman El-Fayomi, Senior designer'
 date: '2018-06-14 09:00:00 -0400'
-image: /img/cds/blog-user-experience.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_user_experience_ab66691a2a.jpg
 image-alt: >-
   Three members of the CDS team workshop ideas with IRCC staff in Vancouver.
   They are writing ideas on post-it notes and placing those on quadrants posted
   on the wall.
 translationKey: lets-talk-user-experience
-thumb: /img/cds/thumbnails/blog-user-experience.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_user_experience_ab66691a2a.jpg
 processed: 1550672961729
 ---
 
-<img width="100%" alt="Pixel evolving into a person — There are five shapes, starting with a square (pixel) on the left-hand side, eventually morphing into a full human figure on the right-hand side." src="/img/cds/ux-drawing.jpg">
+<img width="100%" alt="Pixel evolving into a person — There are five shapes, starting with a square (pixel) on the left-hand side, eventually morphing into a full human figure on the right-hand side." src="https://de2an9clyit2x.cloudfront.net/ux_drawing_f80da5fb67.jpg">
 
 Many organizations and departments recognize the need to include user experience in their process. But in what capacity? And how? This can often manifest itself as simply hiring someone who acts as the team’s dedicated user experience designer. While this may be a good start, it misses the mark.
 

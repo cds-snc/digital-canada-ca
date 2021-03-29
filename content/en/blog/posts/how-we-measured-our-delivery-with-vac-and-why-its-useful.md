@@ -7,10 +7,10 @@ description: >-
   with RCMP, ESDC and others on products and tools.
 author: Stevie-Ray Talbot and Courtney Claessens
 date: 2019-04-24T13:00:00.000Z
-image: /img/cds/VACBenchmarkBlogENG.jpg
+image: https://de2an9clyit2x.cloudfront.net/VAC_Benchmark_Blog_ENG_e80e8464a0.jpg
 image-alt: A screenshot of the tool *Find Benefits and services’* landing page.
 translationKey: by-the-numbers
-thumb: /img/cds/thumbnails/VACBenchmarkBlogENG.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_VAC_Benchmark_Blog_ENG_e80e8464a0.jpg
 processed: 1555597567075
 ---
 If you measure it, you know if you're making it better. That's why at the Canadian Digital Service we like to have a measure of where we are before we start iterating. That way, we know how far we've come after improving a product or service.

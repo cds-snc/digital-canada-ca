@@ -12,15 +12,15 @@ author: >-
   Nancy Byrne, gestionnaire, Stratégie d’amélioration des services du Régime de
   pensions du Canada, Emploi et Développement social Canada
 date: 2019-06-19T13:00:00.000Z
-image: /img/cds/mic.jpg
+image: https://de2an9clyit2x.cloudfront.net/mic_6347afc292.jpg
 image-alt: microphone à condensateur sur fond noir
 translationKey: building-a-multidisciplinary-team-at-ESDC-to-serve-people-better
-thumb: /img/cds/thumbnails/mic.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_mic_6347afc292.jpg
 processed: 1561556658181
 ---
 À titre de gestionnaire de la Stratégie d’amélioration des services du Régime de pensions du Canada à Emploi et Développement social Canada (EDSC), j’ai contribué à la constitution de l’équipe multidisciplinaire au Service numérique canadien (SNC) qui travaille à l’amélioration du Régime de pensions du Canada (RPC) pour les personnes qui demandent des prestations d’invalidité. 
 
-![Une capture d'écran d'un gazouillis du Service numérique canadien qui se lit comme suit: «Nous sommes ravis de nous lancer dans un nouveau partenariat! Nous collaborons avec nos collègues de PTS afin de découvrir comment améliorer les services pour les Canadiennes et Canadiens recevant des prestations d'invalidité du RPC.»](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/esdc_tweet_fr_5fe32efe61.png "esdc-tweet-fr")
+![Une capture d'écran d'un gazouillis du Service numérique canadien qui se lit comme suit: «Nous sommes ravis de nous lancer dans un nouveau partenariat! Nous collaborons avec nos collègues de PTS afin de découvrir comment améliorer les services pour les Canadiennes et Canadiens recevant des prestations d'invalidité du RPC.»](https://de2an9clyit2x.cloudfront.net/esdc_tweet_fr_5fe32efe61.png "esdc-tweet-fr")
 
 Ce partenariat est une excellente occasion depuis le tout début. Je me souviens d’être sortie de la présentation initiale avec ma directrice générale, Megan Kennedy, en pensant: «Comment pouvons-nous amener le SNC à travailler avec nous?» 
 
@@ -44,7 +44,7 @@ La navigation dans les outils du SNC, comme Google Drive, a également été un 
 
 Cela dit, c’est un travail que je n’aurais jamais pensé faire dans ma carrière de fonctionnaire. Au tout début de celle-ci, je traitais les demandes de prestations du RPC. C’est vraiment génial de voir tout le chemin que nous avons parcouru et l’importance de la mobilisation des clients! 
 
-![Un nuage de mots qui montre les mots les plus utilisés dans ce billet de blogue, dont : RPC, SNC, prestations, invalidité, équipe, EDSC.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/esdc_wordcloud_fr_9884adad0a.png "esdc-wordcloud-fr")
+![Un nuage de mots qui montre les mots les plus utilisés dans ce billet de blogue, dont : RPC, SNC, prestations, invalidité, équipe, EDSC.](https://de2an9clyit2x.cloudfront.net/esdc_wordcloud_fr_9884adad0a.png "esdc-wordcloud-fr")
 
 Je regarde ma mère (qui touche des prestations de la Sécurité de la vieillesse et du RPC), et quand je l’entends dire «Je ne comprends pas ce genre de choses!» lorsqu’elle interagit avec nos services, ça me motive à faire mieux pour nos clients.  
 

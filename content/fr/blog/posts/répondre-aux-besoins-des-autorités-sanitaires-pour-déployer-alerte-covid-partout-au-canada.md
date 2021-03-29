@@ -10,12 +10,12 @@ description: >-
   à ceux de leurs patients.
 author: ' Brian Hendrick, Conception des services'
 date: 2020-09-03T13:39:00.473Z
-image: /img/cds/app-portal-blog-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/app_portal_blog_banner_dddd52ec15.jpg
 image-alt: >-
   Illustration d’une carte du Canada avec des patients et des travailleurs de la
   santé dans diverses provinces et territoires.
 translationKey: healthcare-portal-service-design
-thumb: /img/cds/thumbnails/app-portal-blog-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_app_portal_blog_banner_dddd52ec15.jpg
 processed: 1599143371099
 ---
 [Alerte COVID](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html), l’application gratuite de notification d’exposition à la COVID-19 du gouvernement du Canada, a été téléchargée par plus de 2 millions de personnes. Bien que l’application elle-même soit le point de contact avec le public, il se passe des choses en coulisses sans quoi elle ne fonctionnerait pas.
@@ -32,7 +32,7 @@ Les options de l’API ou du portail existent de façon à s’intégrer à des 
 
 Par exemple, certaines régions permettent aux patients de vérifier par eux-mêmes, en ligne, leur résultat au test pour la COVID-19. Dans ces cas, l’API fonctionnerait, car elle permet de générer une clé directement à partir des systèmes en ligne existants. 
 
-![Capture d’écran de la clé à usage unique alphanumérique à 10 caractères « XXA 228 AYYF » suivie des instructions sur la façon de la lire : « Pour lire la clé de façon phonétique : X comme xylophone. X comme xylophone. A comme animal. Deux. Deux. Huit. A comme animal. Y comme yoga. Y comme yoga. F comme famille. »](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/app_portal_blog_1_fr_53fc40f944.jpg)
+![Capture d’écran de la clé à usage unique alphanumérique à 10 caractères « XXA 228 AYYF » suivie des instructions sur la façon de la lire : « Pour lire la clé de façon phonétique : X comme xylophone. X comme xylophone. A comme animal. Deux. Deux. Huit. A comme animal. Y comme yoga. Y comme yoga. F comme famille. »](https://de2an9clyit2x.cloudfront.net/app_portal_blog_1_fr_53fc40f944.jpg)
 
 D’autres régions dépendent du fait que les travailleurs de la santé appellent les patients par téléphone pour communiquer les résultats des tests. Ainsi, l’idéal serait de leur permettre de générer une clé au nom du patient et de la lire par téléphone. Ce serait possible en intégrant l’API directement à leur système existant ou en intégrant le portail à leur flux de travail existant.
 

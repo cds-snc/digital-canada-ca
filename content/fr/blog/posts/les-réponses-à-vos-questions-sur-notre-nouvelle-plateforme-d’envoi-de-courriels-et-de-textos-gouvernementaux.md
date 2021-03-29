@@ -12,14 +12,14 @@ description: >-
   pour leurs services.
 author: 'Max Neuvians et Tim Arney, développeurs'
 date: 2020-02-18T17:27:31.267Z
-image: /img/cds/blog-notify2.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_notify2_89a385e31d.jpg
 image-alt: >-
   Trois personnes discutent ensemble; la personne de gauche tient un ordinateur
   portable et parle du code de l’API Notification, et l’une des personnes de
   droite tient un ordinateur portable et parle des courriels et des messages
   texte envoyés grâce au service Notification.
 translationKey: notify-blog2
-thumb: /img/cds/thumbnails/blog-notify2.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_notify2_89a385e31d.jpg
 processed: 1582120424419
 ---
 Depuis le lancement de notre [plateforme Notification](https://numerique.canada.ca/2019/11/26/on-vous-pr%C3%A9sente-notification/), nous avons reçu plusieurs questions de personnes qui souhaitent savoir comment elle fonctionne, qui peut l’utiliser et, surtout, si elle est gratuite. En raison de cet immense intérêt, nous avons décidé de prendre le temps de répondre à ces questions et d’encourager d’autres organisations à utiliser Notification pour leurs services.
@@ -66,7 +66,7 @@ Tout cela pour dire que si nous avions eu Notification au moment de la conceptio
 
 Ouvrez un compte Notification et consultez la [documentation](https://notification.alpha.canada.ca/documentation) sur l’API. Vous verrez qu’il y a des clients pour de nombreux langages de programmation courants, par exemple Java, Python et JavaScript. Ces clients et cette documentation sont maintenus par le service numérique du gouvernement du Royaume-Uni.
 
-![Une capture d’écran de la page d’intégration de l’API Notification, comprenant une section dans laquelle on demande à un utilisateur de créer une clé API en inscrivant le nom de la clé. Il peut choisir parmi trois types de clés : Live, Équipe et liste de confiance, et Test.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/notify_api_fr_18a3a9b554.jpg)
+![Une capture d’écran de la page d’intégration de l’API Notification, comprenant une section dans laquelle on demande à un utilisateur de créer une clé API en inscrivant le nom de la clé. Il peut choisir parmi trois types de clés : Live, Équipe et liste de confiance, et Test.](https://de2an9clyit2x.cloudfront.net/notify_api_fr_18a3a9b554.jpg)
 
 Notez que nous utilisons ces clients (vive le code source libre!) avec un paramètre URL de base non consigné. Par conséquent, vous devrez le configurer afin qu’il corresponde à notre version de l’API. Pour plus de détails, consultez le document intitulé [Comment changer votre point de terminaison d’API](https://github.com/cds-snc/notification-api/wiki/Comment-changer-votre-point-de-terminaison-d'API%3F).
 

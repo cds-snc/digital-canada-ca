@@ -10,12 +10,12 @@ description: >-
   devenir encore meilleure.
 author: 'Jeff Maher, développeur principal'
 date: 2020-02-25T13:19:14.211Z
-image: /img/cds/blog-head-software-dev.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_head_software_dev_4d582ff210.jpg
 image-alt: >-
   Une photo de l’équipe du SNC devant un mur de notes autocollantes lors d’une
   réunion
 translationKey: blog-head-software-dev
-thumb: /img/cds/thumbnails/blog-head-software-dev.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/blog_head_software_dev_4d582ff210.jpg
 processed: 1582641005761
 ---
 Le gouvernement numérique et les associations de technologie civique parlent beaucoup de la façon d’habiliter le gouvernement à fournir des services révolutionnaires. Des éléments comme les pratiques agiles, la réflexion conceptuelle et l’utilisation des technologies modernes sont monnaie courante. Au Service numérique canadien (SNC), nous croyons à l’importance de « donner la priorité aux personnes ». C’est pourquoi embaucher la bonne personne est important, voire plus important que ces processus et outils.

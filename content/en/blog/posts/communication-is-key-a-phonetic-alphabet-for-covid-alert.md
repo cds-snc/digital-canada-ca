@@ -7,12 +7,12 @@ description: >-
   phone to patients during a stressful time.
 author: 'Élise Cossette, Outreach and Yedida Zalik, Content Design'
 date: 2020-10-27T12:56:48.422Z
-image: /img/cds/banner-phonetic-alphabetic-blog.jpg
+image: https://de2an9clyit2x.cloudfront.net/banner_phonetic_alphabetic_blog_8f889946bb.jpg
 image-alt: >-
   A healthcare worker successfully communicating a one-time key to a patient
   over the phone.
 translationKey: phonetic-alphabet-blog
-thumb: /img/cds/thumbnails/banner-phonetic-alphabetic-blog.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_banner_phonetic_alphabetic_blog_8f889946bb.jpg
 processed: 1603809166911
 ---
 Healthcare workers put themselves at risk to keep us safe. They also play a crucial role in the success of the COVID Alert app. 
@@ -41,7 +41,7 @@ For example, “Yankee” can be offensive, and “foxtrot” is tied to specifi
 
 **We wondered if we could find words for our context and reality. If so, how would we identify and select these words?**
 
-![An alphanumeric key (284 FKQ 889) being read out in numbers and words: “two, eight, four, family, kangaroo, question, eight, eight, eight, nine”.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_phonetic_en_7b8f349804.jpg)
+![An alphanumeric key (284 FKQ 889) being read out in numbers and words: “two, eight, four, family, kangaroo, question, eight, eight, eight, nine”.](https://de2an9clyit2x.cloudfront.net/blog_phonetic_en_7b8f349804.jpg)
 
 ## Choosing our alphabet
 

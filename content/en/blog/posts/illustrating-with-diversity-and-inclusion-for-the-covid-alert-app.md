@@ -8,12 +8,12 @@ description: >-
   order to allow everyone to feel like they were included in the fight. 
 author: 'Sam Sadasivan, Senior Service Designer'
 date: 2020-11-26T14:14:53.427Z
-image: /img/cds/banner-covid-alert-illustration.jpg
+image: https://de2an9clyit2x.cloudfront.net/banner_covid_alert_illustration_7da49c6dc3.jpg
 image-alt: >-
   People drawn as simplified stick figures in different types and coloured
   clothing, going about their day. 
 translationKey: blog-illustrating-covid-alert
-thumb: /img/cds/thumbnails/banner-covid-alert-illustration.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_banner_covid_alert_illustration_7da49c6dc3.jpg
 processed: 1606408373962
 ---
 A healthcare app that reminds us of a particularly difficult time is not always going to be a comfortable experience to build - or to use. 
@@ -34,7 +34,7 @@ I spent the first day working with the design team to get their feedback on the 
 
 As I began the process of designing each screen, I would first show the team its concept (otherwise known as the visual idea and story behind a screen's illustration) and allow for critique, before adding colour. This was important in gauging whether the concept connects to the message, or if it could be interpreted in other ways that lead to misunderstandings and unintended consequences.
 
-![Image of an illustration (without colour) featured on an iPad, which shows a hand holding a mobile device using bluetooth to connect to another mobile device.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/covid_alert_illustration1_42b9139b04.jpg)
+![Image of an illustration (without colour) featured on an iPad, which shows a hand holding a mobile device using bluetooth to connect to another mobile device.](https://de2an9clyit2x.cloudfront.net/covid_alert_illustration1_42b9139b04.jpg)
 
 While critique sometimes gets a bad rap, it was crucial to this design process, providing insight into how these illustrations could be seen and understood by those who would use the app. I never said no to reworking a rough draft of a concept because I relied on my team’s honest critique, which ultimately saved us a lot of time and iterations when the visuals later went through rounds of testing.
 
@@ -52,7 +52,7 @@ I honestly did not feel prepared to properly capture the deep cultural, social a
 
 I also explored material for diversity in my own experiences and reflected that in the people and families we see traveling, shopping, playing, talking, commuting, walking, and skipping.
 
-![Image of a crowd of people walking around in an airport. People are carrying bags and moving behind a larger phone screen.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/covid_alert_illustration2_aa1499dea8.jpg)
+![Image of a crowd of people walking around in an airport. People are carrying bags and moving behind a larger phone screen.](https://de2an9clyit2x.cloudfront.net/covid_alert_illustration2_aa1499dea8.jpg)
 
 ### Use a minimal colour palette - but make it inclusive
 
@@ -66,7 +66,7 @@ A lot of illustrations of people with minimal colour palettes pigment those with
 
 I decided not to give lighter skin characters in the app pigmentation in order to give **equal contrast and tone to all characters** featured on a screen. In the following examples of side by side tests, you can see the difference that a small design choice makes in allowing characters with different skin tones to be seen and represented more equally, resulting in a more inclusive design. 
 
-![Three images side by side. The first image is an illustration of a group of people standing together with masks on, where light-skinned pink toned characters are given pigmentation. The second image is the same illustration, but with light-skinned characters without pigmentation. The third is illustration with light-skinned characters with yellow toned pigmentation.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/covid_alert_illustration3_4c71e0d32d.png)
+![Three images side by side. The first image is an illustration of a group of people standing together with masks on, where light-skinned pink toned characters are given pigmentation. The second image is the same illustration, but with light-skinned characters without pigmentation. The third is illustration with light-skinned characters with yellow toned pigmentation.](https://de2an9clyit2x.cloudfront.net/covid_alert_illustration3_4c71e0d32d.png)
 ***Reminder: You can show diversity beyond colour and hair.*** 
 
 ## Promote more visual storytelling in government services
@@ -75,7 +75,7 @@ When we don't understand the intention of a service, this could lead to mistrust
 
 Meanwhile, while some of us rely on the act of reading to ensure we follow instructions properly, a lot of people learn through visuals, and not language.  **To be inclusive, it's helpful to use both.** 
 
-![The COVID Alert app, depicting a screen that explains what an “exposure” is and how it is measured by the app. The text is presented with an illustration of two phones that are 2 metres apart, for more than 15 minutes.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/covid_alert_illustration4_en_86cfb6fad1.jpg)
+![The COVID Alert app, depicting a screen that explains what an “exposure” is and how it is measured by the app. The text is presented with an illustration of two phones that are 2 metres apart, for more than 15 minutes.](https://de2an9clyit2x.cloudfront.net/covid_alert_illustration4_en_86cfb6fad1.jpg)
 
 COVID Alert was an opportunity to show how important user experience in visual design is. When we’re building services, we’re still trying to make our message and story as accessible as we possibly can to as many people, in and outside of Canada.
 

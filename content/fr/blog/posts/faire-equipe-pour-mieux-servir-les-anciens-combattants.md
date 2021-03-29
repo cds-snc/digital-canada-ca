@@ -8,10 +8,10 @@ description: >-
   anciens combattants.
 author: 'Ross Ferguson, chef de produit'
 date: 2018-07-24T13:00:00.000Z
-image: /img/cds/blog-pei-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_pei_banner_b2696e820b.jpg
 image-alt: Falaise rouge bordée d’herbe surplombant la mer.
 translationKey: teaming-up-to-deliver-better-outcomes-for-veterans
-thumb: /img/cds/thumbnails/blog-pei-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_pei_banner_b2696e820b.jpg
 processed: 1550672961838
 ---
 
@@ -19,7 +19,7 @@ Une petite équipe du Service numérique canadien (SNC) a récemment eu la chanc
 
 Notre visite visait à présenter les conclusions de notre recherche utilisateurs et de faire une démonstration de l’application que nous avons développée, en fonction des résultats de recherche, pour le personnel d’ACC.
 
-<img width="100%" alt="Les membres de l’équipe du SNC à l’entrée de l’édifice d’Anciens Combattants Canada, à Charlottetown." src="/img/cds/blog-pei-1.jpg">
+<img width="100%" alt="Les membres de l’équipe du SNC à l’entrée de l’édifice d’Anciens Combattants Canada, à Charlottetown." src="https://de2an9clyit2x.cloudfront.net/blog_pei_1_cf88e45ccc.jpg">
 
 Tout au long du partenariat, l’équipe du SNC implique les collègues d’ACC dans les séances de planification de sprint et de retour sur le travail, et les tient au courant grâce à un carnet de production partagé ainsi que des voies de communication conventionnelles, comme le courriel. Cet aperçu de la recherche et la démonstration du produit ont permis d’impliquer un groupe d’employés plus grand d’ACC, autres que ceux avec qui nous collaborons habituellement. En tout, nous avons fait la présentation et la démonstration trois fois en deux jours, devant une cinquantaine d’employés.
 
@@ -29,11 +29,11 @@ Notre chercheuse sur les utilisateurs, [Mithula](https://twitter.com/mithulanaik
 
 Elle a ensuite fait part de ce qui est ressorti de la découverte initiale; il était évident que même le personnel d’ACC ayant plusieurs dizaines d’années d’expérience était fasciné par ces conclusions. La principale découverte a révélé que les anciens combattants avaient de la difficulté à trouver et à comprendre toutes les prestations disponibles et à déterminer lesquelles s’appliquent à leur situation. Ainsi, trop peu d’entre eux tirent avantage de l’éventail de prestations disponibles.
 
-<img width="100%" alt="Membres de l’équipe du SNC en train d’analyser la rétroaction issue de la recherche utilisateurs avec des anciens combattants." src="/img/cds/blog-pei-2.jpg">
+<img width="100%" alt="Membres de l’équipe du SNC en train d’analyser la rétroaction issue de la recherche utilisateurs avec des anciens combattants." src="https://de2an9clyit2x.cloudfront.net/blog_pei_2_9ad6f39379.jpg">
 
 [Stevie-Ray](https://twitter.com/stevieraytalbot) a ensuite effectué une démonstration du prototype l’application, ainsi que ses fonctions. Il a montré comment l’application permet de trouver facilement un éventail de prestations disponibles grâce à de simples filtres de recherche et comment on peut sauvegarder, partager ou imprimer les résultats. Il a expliqué comment les renseignements sur les prestations ont été structurés, comment la conception du contenu a rendu ces renseignements faciles à lire et à comprendre en anglais et en français, et comment ceux-ci pourraient être mis à jour en temps réel, au moyen d’un simple système de gestion du contenu. À partir des conclusions de recherche quant au moment et à l’endroit où les anciens combattants veulent accéder à l’information sur les prestations, on s’est assuré que l’application fonctionne sur n’importe quel appareil et n’importe où, même si l’accès internet est intermittent.
 
-<img width="100%" alt="Les anciens combattants peuvent utiliser l’application pour examiner les prestations disponibles." src="/img/cds/blog-pei-3-fr.png">
+<img width="100%" alt="Les anciens combattants peuvent utiliser l’application pour examiner les prestations disponibles." src="https://de2an9clyit2x.cloudfront.net/blog_pei_3_fr_f0281eee20.png">
 
 À deux, Mithula et Stevie-Ray ont démontré la façon dont leur équipe avait utilisé la recherche utilisateurs pour façonner la conception itérative et le développement d’une application Web qui répond aux besoins des anciens combattants de manière directe. Grâce à une telle conception, l’équipe de livraison est capable d’adapter le produit rapidement et à bon marché, à mesure qu’elle acquiert des connaissances sur les utilisateurs et leurs besoins au fil du temps.
 

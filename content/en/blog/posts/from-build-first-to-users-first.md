@@ -6,7 +6,7 @@ description: >-
   point for understanding service design and user-centred design in government.
 author: 'Charlotte Pedersen, Capacity building'
 date: 2018-11-29T14:30:00.000Z
-image: /img/cds/fullsizeoutput_55.jpg
+image: https://de2an9clyit2x.cloudfront.net/fullsizeoutput_55_43eb2f1cba.jpg
 image-alt: >-
   a sketch of one block, beside two stacked blocks, beside three stacked blocks
   with a person who is at the bottom, unable to reach the top; an arrow pointing
@@ -14,7 +14,7 @@ image-alt: >-
   stacked blocks with a ladder and two people on top, beside three stacked
   blocks with a ladder and a group of people on top.
 translationKey: from-build-first-to-users-first
-thumb: /img/cds/thumbnails/fullsizeoutput_55.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_fullsizeoutput_55_43eb2f1cba.jpg
 processed: 1550672961690
 ---
 At the Canadian Digital Service (CDS), we are excited to be working with government departments to build better [services](https://digital.canada.ca/products/). We are also keen to share lessons we learn from these experiences to hopefully help folks with their own work.
@@ -43,7 +43,7 @@ This is done first by talking to users to find out their needs, then testing ide
 
 ## The details
 
-![Four circles, labelled Discovery, Alpha, Beta, and Live; each pointing towards the next phase once the circle is closed.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/workflowenglish_14eb8ee03f.png)
+![Four circles, labelled Discovery, Alpha, Beta, and Live; each pointing towards the next phase once the circle is closed.](https://de2an9clyit2x.cloudfront.net/workflowenglish_14eb8ee03f.png)
 
 **Discovery: uncover user needs** 
 

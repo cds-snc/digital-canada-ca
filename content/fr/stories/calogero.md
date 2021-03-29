@@ -4,7 +4,7 @@ description: "Calogero a protégé les intérêts canadiens dans toute l’Europ
 archived: false
 layout: story
 type: section
-image: /img/cds/stories-calogero.jpg
+image: https://de2an9clyit2x.cloudfront.net/stories_calogero_d37d0f24dd.jpg
 imagealt: Calogero, un vétéran, rit et sourit debout devant un écran décoratif dans son salon.
 translationKey: calogero
 url: /histoires/calogero

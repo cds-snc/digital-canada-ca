@@ -5,10 +5,10 @@ description: >-
   voulaient participer, mais qu’ils ne savaient simplement pas comment. »
 author: 'Lynn Chalati, amie en communications'
 date: '2018-10-30 09:00:00 -0400'
-image: /img/cds/blog-striving-for-diversity.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_striving_for_diversity_7cb58475fa.jpg
 image-alt: Une bannière de ruban bleu avec les mots « a mari usque ad mare » en jaune.
 translationKey: striving-for-diversity
-thumb: /img/cds/thumbnails/blog-striving-for-diversity.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_striving_for_diversity_7cb58475fa.jpg
 processed: 1550672961794
 ---
 
@@ -16,7 +16,7 @@ L’un des principaux avantages de travailler pour le Service numérique canadie
 
 Au SNC, non seulement nous acceptons nos différences, mais nous les célébrons. Cela dit, nous ne pouvons pas, en toute conscience, dire que nous y sommes à cent pour cent, mais nous y travaillons. Nous avons des collègues ici au SNC qui travaillent fort à l’extérieur de leur bureau pour avoir une incidence importante – des collègues comme [James](https://twitter.com/james_mickle). 
 
-![Un groupe de fonctionnaires du Secrétariat du Conseil du Trésor et de Transports Canada au défilé de la fierté gaie d’Ottawa, y compris James, tenant des bannières et des drapeaux de la fierté.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_striving_for_diversity2_0776f89436.jpg)
+![Un groupe de fonctionnaires du Secrétariat du Conseil du Trésor et de Transports Canada au défilé de la fierté gaie d’Ottawa, y compris James, tenant des bannières et des drapeaux de la fierté.](https://de2an9clyit2x.cloudfront.net/blog_striving_for_diversity2_0776f89436.jpg)
 
 James Mickle est analyste des politiques et de la recherche au SNC. Nous l’avons interviewé sur ce que représentait l’organisation d’une participation de la fonction publique fédérale au défilé de la fierté gaie d’Ottawa 2018. C’était la première fois que des fonctionnaires assistaient au défilé sous les bannières de leur ministère respectif plutôt que par l’entremise du syndicat. Lorsqu’on lui a demandé ce qui l’avait motivé à organiser cela, il a simplement répondu : « C’était simplement la bonne chose à faire. Tant de gens nous ont dit qu’ils voulaient participer, mais qu’ils ne savaient simplement pas comment. »
 
@@ -28,7 +28,7 @@ Ce n’est pas la fin de l’épreuve pour James. Il espère entreprendre une ap
 
 C’est ce que nous essayons de faire au SNC, et nous avons besoin de votre aide. Nous cherchons à apprendre ce que la diversité signifie pour vous et comment nous pouvons rendre nos équipes plus diversifiées. Si vous avez des suggestions ou des commentaires, veuillez envoyer un courriel à Charlotte à : [Charlotte.Pedersen@tbs-sct.gc.ca] (mailto:Charlotte.Pedersen@tbs-sct.gc.ca). Vous pouvez également surveiller la tenue d’une rencontre communautaire sur la diversité et l’inclusion organisée par le SNC, qui aura lieu bientôt!
 
-![Les employés du SNC, y compris un collègue à distance sur un écran, prennent une photo de la fierté en tenant des drapeaux de la fierté.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_striving_for_diversity_7cb58475fa.jpg)
+![Les employés du SNC, y compris un collègue à distance sur un écran, prennent une photo de la fierté en tenant des drapeaux de la fierté.](https://de2an9clyit2x.cloudfront.net/blog_striving_for_diversity_7cb58475fa.jpg)
 
 Des félicitations spéciales à tous les ministères participants qui ont pris part au défilé de la fierté gaie et aux fonctionnaires dévoués qui travaillent jour après jour pour appuyer la diversité au sein du gouvernement du Canada, tout comme James.
 

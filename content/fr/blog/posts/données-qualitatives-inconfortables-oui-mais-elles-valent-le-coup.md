@@ -7,13 +7,13 @@ description: >-
   cybercrime. 
 author: 'Lucas Cherkewski, Politiques'
 date: 2019-07-11T16:43:12.022Z
-image: /img/cds/rcmp-data-blog.jpg
+image: https://de2an9clyit2x.cloudfront.net/rcmp_data_blog_97a57c658d.jpg
 image-alt: >-
   Photo de six membres de l’équipe collaborant avec la GRC rassemblés autour
   d’une table. Ils sourient et examinent un diagramme de service composé de
   papillons adhésifs de différentes couleurs.
 translationKey: data-driven-service
-thumb: /img/cds/thumbnails/rcmp-data-blog.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_rcmp_data_blog_97a57c658d.jpg
 processed: 1563384025449
 ---
 Je suis un grand lecteur. J’adore les livres. Mais j’ai parfois du mal à en choisir un. 

@@ -10,10 +10,10 @@ author: >-
   Emily Kuret, Director - COVID Alert; Jean-François Gagné and Carole Piovesan -
   COVID Alert Advisory Council
 date: 2021-02-10T17:59:53.769Z
-image: /img/cds/metrics-covid-alert-blog-banner.jpg
+image: https://de2an9clyit2x.cloudfront.net/metrics_covid_alert_blog_banner_d83e1f15da.jpg
 image-alt: Phones with multiple groupings of tally marks above them.
 translationKey: blog-metrics-app
-thumb: /img/cds/thumbnails/metrics-covid-alert-blog-banner.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_metrics_covid_alert_blog_banner_d83e1f15da.jpg
 processed: 1612981734674
 ---
 Change is the only constant, especially when it comes to a pandemic. Like most are experiencing, I’ve had to get used to a bit of a different lifestyle – going from listening to obscure bands in eclectic spots across the GTA, to settling down with a Margaret Atwood novel. My Saturdays look very different. 

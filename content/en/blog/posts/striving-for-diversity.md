@@ -5,10 +5,10 @@ description: >-
   saying that they wanted to participate, but just didn’t know how.”
 author: 'Lynn Chalati, Communications friend'
 date: '2018-10-30 09:00:00 -0400'
-image: /img/cds/blog-striving-for-diversity.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_striving_for_diversity_7cb58475fa.jpg
 image-alt: A blue ribbon banner with the words “a mari usque ad mare” in yellow.
 translationKey: striving-for-diversity
-thumb: /img/cds/thumbnails/blog-striving-for-diversity.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_striving_for_diversity_7cb58475fa.jpg
 processed: 1550672961764
 ---
 
@@ -16,7 +16,7 @@ One of the biggest perks of working for the Canadian Digital Service (CDS) is th
 
 At CDS, we not only accept our differences, we celebrate them. That being said, we can’t, in good conscience, say we’re 100% there yet, but we're working towards it. We have colleagues here at CDS working hard off the corner of their desks to make big impacts - colleagues like [James](https://twitter.com/james_mickle). 
 
-![A group of public servants from Treasury Board Secretariat and Transport Canada at Ottawa Pride Parade, including James, holding banners and pride flags.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_striving_for_diversity2_0776f89436.jpg)
+![A group of public servants from Treasury Board Secretariat and Transport Canada at Ottawa Pride Parade, including James, holding banners and pride flags.](https://de2an9clyit2x.cloudfront.net/blog_striving_for_diversity2_0776f89436.jpg)
 
 James Mickle is a policy and research analyst at CDS. We interviewed him about what it was like to organize the Federal Public Service’s participation in the 2018 Ottawa Pride Parade. This was the first time public servants attended the parade under their respective government department banners rather than through the union. When asked what motivated him to organize this, he simply answered: “It just felt like the right thing to do. And we heard from so many people saying that they wanted to participate, but just didn’t know how.”
 
@@ -28,7 +28,7 @@ This isn’t the end of the journey for James. He hopes to tackle a more governm
 
 That’s what we’re trying to do at CDS, and we need your help. We’re looking to learn what being diverse means to you and how we can make our teams more diverse. If you have any suggestions or comments, please email Charlotte at [Charlotte.Pedersen@tbs-sct.gc.ca](mailto:Charlotte.Pedersen@tbs-sct.gc.ca). You can also keep an eye out for a CDS-hosted community gathering on diversity and inclusion, coming soon!
 
-![Employees at CDS, including a remote colleague on a screen, taking a photo for Pride while holding Pride flags.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/blog_striving_for_diversity_7cb58475fa.jpg)
+![Employees at CDS, including a remote colleague on a screen, taking a photo for Pride while holding Pride flags.](https://de2an9clyit2x.cloudfront.net/blog_striving_for_diversity_7cb58475fa.jpg)
 
 A special kudos to all the participating departments who took part in the Pride Parade and the dedicated public servants who work day in and day out to support diversity within the Government of Canada, just like James.
 

@@ -7,17 +7,17 @@ description: >-
   leaked credentials.
 author: 'Damien Trudel, Security'
 date: 2019-08-15T13:00:00.000Z
-image: /img/cds/yubikey-3.jpg
+image: https://de2an9clyit2x.cloudfront.net/yubikey_3_f8e7460aeb.jpg
 image-alt: A hand pushing their yubikey.
 translationKey: yubikey-post
-thumb: /img/cds/thumbnails/yubikey-3.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_yubikey_3_f8e7460aeb.jpg
 processed: 1565980652891
 ---
 I have fears; big, big fears. Fears of waking up in the morning and seeing the Canadian Digital Service’s cloud assets vandalized or destroyed because some bad actor got a hold of someone's credentials and decided to muck around. Hey, this fear is real and even the most conscientious of us are vulnerable.
 
 But how does someone lose control of their credentials? Well, maybe somebody got your credentials because they watched you type them in, or maybe you’re guilty of reusing the same password everywhere (looking at you!) and that password was exposed in a data breach, or perhaps you just got good old fashioned phished. Either way, it’s known to happen and when it does it will be a big-time suck on your productivity. When this happens it can lead to data loss, or intellectual property theft, or maybe someone just silently manipulates all your incoming and outgoing communications, without you noticing. Maybe; maybe; maybe.
 
-![A man in a red shirt with a lanyard on. Hanging from the lanyard is his ID and a security key.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/yubikey_1_ae675759bd.jpg)
+![A man in a red shirt with a lanyard on. Hanging from the lanyard is his ID and a security key.](https://de2an9clyit2x.cloudfront.net/yubikey_1_ae675759bd.jpg)
 
 And according to the [2019 Verizon Data Breach Investigation Report](https://enterprise.verizon.com/resources/reports/2019-data-breach-investigations-report.pdf), 29 per cent of all reported security incidents involved the use of stolen credentials. _So the big question; can we eliminate this threat in a pragmatic way? Yes we can._
 
@@ -27,7 +27,7 @@ This is where I come in. First, our team did some research and quickly realized 
 
 So in more technical terms, when that gold button gets pressed, a challenge-response exercise is initiated using public-key cryptography between the security key and the service provider. Behind the scenes, this effectively eliminates the threat of account takeover from phishing and leaked credentials.
 
-![Three four different security keys lined up, one of which is on a set of keys.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/yubikey_4_213907f375.jpg)
+![Three four different security keys lined up, one of which is on a set of keys.](https://de2an9clyit2x.cloudfront.net/yubikey_4_213907f375.jpg)
 
 We then rolled out two security keys to every employee allowing everyone to pick two types of keys that worked best for them. We also took the time to guide everyone through the process of integrating the security keys into their work and personal life. This one-on-one time was also used to have serious conversations about [password safety](https://www.canada.ca/en/government/system/digital-government/password-guidance.html), [software updates](https://cyber.gc.ca/en/patch-os-and-applications), and other [cyber hygiene](https://www.getcybersafe.gc.ca/) topics.
 

@@ -11,14 +11,14 @@ description: >-
   services onto Notify. 
 author: 'Max Neuvians and Tim Arney, Developers'
 date: 2020-02-18T17:04:57.318Z
-image: /img/cds/blog-notify2.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_notify2_89a385e31d.jpg
 image-alt: >-
   Three people talking with one another, with a person on the left side holding
   a laptop talking about the Notify API’s code. A person on the right side holds
   a laptop, while talking about the emails and text messages that result from
   using the Notify service. 
 translationKey: notify-blog2
-thumb: /img/cds/thumbnails/blog-notify2.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_notify2_89a385e31d.jpg
 processed: 1582120424308
 ---
 Since we introduced our [Notify platform](https://digital.canada.ca/2019/11/26/introducing-notify/), we’ve received many questions about how it works, who can use it, and most frequently, whether or not it's free. With such great interest around the platform, we wanted to take the time to answer your questions and encourage more organizations to bring their live services onto Notify.  
@@ -65,7 +65,7 @@ All of that to say, if we had Notify when building the service for rescheduling 
 
 Sign up for a Notify account and visit the API [documentation](https://notification.alpha.canada.ca/documentation). You’ll see there are clients for many common programming languages, such as Java, Python, and JavaScript. These clients and documentation are maintained by GDS.
 
-![A screenshot of the Notify API integration page, which includes a section asking a user to create an API key by filling in the name for the key. There are three types of keys they can select - live, team and safelist, and test. ](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/notify_api_en_61ddd3729d.jpg)
+![A screenshot of the Notify API integration page, which includes a section asking a user to create an API key by filling in the name for the key. There are three types of keys they can select - live, team and safelist, and test. ](https://de2an9clyit2x.cloudfront.net/notify_api_en_61ddd3729d.jpg)
 
 Take note, we’re utilizing those clients (hurray open source!) with an undocumented parameter **BASE URL**, so you’ll need to set that to point to our version of the API. For more details, see [how to change your API endpoint](https://github.com/cds-snc/notification-api/wiki/How-to-change-your-API-endpoint%3F).
 

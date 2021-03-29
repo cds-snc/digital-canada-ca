@@ -7,12 +7,12 @@ description: >-
   deserve.
 author: 'Charlotte Pedersen, Capacity building'
 date: '2018-07-31 09:00:00 -0400'
-image: /img/cds/blog-iceberg-header.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_iceberg_header_9690f17788.jpg
 image-alt: >-
   A person standing behind a podium gestures towards an iceberg floating in an
   aquarium while a small dog watches.
 translationKey: showing-the-whole-iceberg
-thumb: /img/cds/thumbnails/blog-iceberg-header.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_iceberg_header_9690f17788.jpg
 processed: 1550672961762
 ---
 

@@ -9,13 +9,13 @@ description: >-
   turned that research into actionable items to improve our service.
 author: 'Mel Banyard, Design Research and Charlotte Pedersen, Outreach'
 date: 2019-08-29T13:51:20.452Z
-image: /img/cds/rcmp-prototype-en.jpg
+image: https://de2an9clyit2x.cloudfront.net/rcmp_prototype_en_7440cea621.jpg
 image-alt: >-
   First person perspective of someone holding a mobile phone, with the reporting
   tool prototype pulled displayed. The title reads, “Report a scam or an online
   crime”.
 translationKey: reporting-service-checklist
-thumb: /img/cds/thumbnails/rcmp-prototype-en.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_rcmp_prototype_en_7440cea621.jpg
 processed: 1567091591113
 
 ---
@@ -53,7 +53,7 @@ Instead of building a service that is only built for people who know what cyberc
 
 We took the data from the existing experience of reporting and created design recommendations in the form of a [checklist](https://digital.canada.ca/files/rcmp-design-recommendations-en.docx). This checklist became the standard for a good reporting experience which our designers, developers, and product manager relied on throughout prototyping. 
 
-![A screenshot of the checklist which reads, “Provide a clear definition of what a cybercrime is, or what types of cybercrimes will be accepted and processed within the system. Reassure people that they are in the right place to report a scam, an online fraud, online harassment, etc. Provide examples of what kinds of cybercrimes can be reported.”](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/checklist_screenshot_en_5baddb7299.jpg)
+![A screenshot of the checklist which reads, “Provide a clear definition of what a cybercrime is, or what types of cybercrimes will be accepted and processed within the system. Reassure people that they are in the right place to report a scam, an online fraud, online harassment, etc. Provide examples of what kinds of cybercrimes can be reported.”](https://de2an9clyit2x.cloudfront.net/checklist_screenshot_en_5baddb7299.jpg)
 
 We’re currently conducting validation and usability tests to ensure that we’re helping victims effectively report a cybercrime while also delivering emotional reassurance and guidance. Our next steps include exploring how we can design based on the recommendations we received from interviews and testing.  
 

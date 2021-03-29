@@ -7,10 +7,10 @@ description: >-
   learned a lot about assuming you know the problem.  
 author: 'Élise Cossette and Charlotte Pedersen, Outreach'
 date: 2020-02-28T16:14:40.025Z
-image: /img/cds/blog-newsletter-testing.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_newsletter_testing_a152e66ccb.jpg
 image-alt: 'Doodles in a notebook about planning, iterating, and testing ideas.'
 translationKey: french-newsletter-surveys
-thumb: /img/cds/thumbnails/blog-newsletter-testing.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_newsletter_testing_a152e66ccb.jpg
 processed: 1583159548621
 ---
 
@@ -31,7 +31,7 @@ processed: 1583159548621
                <p>I met with Élise today to talk about how we can figure out a way to improve the uptake of our French newsletter.  <span class="bold">We’re assuming the reason readership is low is because we’re missing the mark with our content and how we’re presenting it in French.</span> Afterall, content is king, right?</p>
                </td>
                <td class="diary-img">
-                   <img src="/img/cds/balance.jpg" alt="Balanced scales.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/balance_1b79bd89c9.jpg" alt="Balanced scales.">
                </td>
            </tr>
        </tbody>
@@ -47,7 +47,7 @@ processed: 1583159548621
        <tbody>
            <tr>
                <td class="diary-img">
-                   <img src="/img/cds/direction.jpg" alt="Two arrows pointing in opposite directions with a lightbulb on top.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/direction_d59346007c.jpg" alt="Two arrows pointing in opposite directions with a lightbulb on top.">
                </td>
                <td>
                    <p>We’re pivoting a little after a great chat with Adrianne. She suggested we may want to test our assumption that content is the problem before we leap into fixing it. Her advice was to get more data on what the problem is from actual subscribers. Then we can choose what the best way is to tackle that problem. She said it could very well be content, but let’s let actual people using the service tell us that so we’re not trying to solve a problem that might not be a problem.</p>
@@ -71,7 +71,7 @@ processed: 1583159548621
                    <p>The target audience in both cases is Francophone readers to help us understand what’s wrong with our French newsletter.</p>
                </td>
                <td class="diary-img">
-                   <img src="/img/cds/sondage.jpg" alt="A notebook with checkboxes labelled “survey”.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/sondage_339eee14ea.jpg" alt="A notebook with checkboxes labelled “survey”.">
                </td>
            </tr>
        </tbody>
@@ -88,7 +88,7 @@ processed: 1583159548621
        <tbody>
            <tr>
                <td class="diary-img">
-                   <img src="/img/cds/attente.jpg" alt="Hourglass.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/attente_568f18f673.jpg" alt="Hourglass.">
                </td>
                <td class="diary-text">
                    <p>Five days ago we sent out the eblast with our survey to the less engaged French subscribers. We got 16 responses so far from a group of people who, data tells us, don’t typically engage with our emails. Not too shabby.</p>
@@ -120,7 +120,7 @@ processed: 1583159548621
                    </ul>
                </td>
                <td class="diary-img">
-                   <img src="/img/cds/morale.jpg" alt="Word bubble with a smiley face inside of it.">
+                   <img src="https://de2an9clyit2x.cloudfront.net/morale_08cb28f7c0.jpg" alt="Word bubble with a smiley face inside of it.">
                </td>
            </tr>
        </tbody>

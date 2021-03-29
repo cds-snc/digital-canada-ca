@@ -7,14 +7,14 @@ description: >-
   to victims of cybercrime.
 author: 'Anik Brazeau, Content design'
 date: 2019-06-06T15:26:18.888Z
-image: /img/cds/bag-and-hands.jpg
+image: https://de2an9clyit2x.cloudfront.net/bag_and_hands_62d7b020be.jpg
 image-alt: >-
   Two people sitting across from each other at a picnic table. We can only see
   their hands. One is taking notes in a small notebook, with a coffee and phone
   beside her. The other has a tablet in front of him, with a glass of water to
   his right. 
 translationKey: using-words-people-use
-thumb: /img/cds/thumbnails/bag-and-hands.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_bag_and_hands_62d7b020be.jpg
 processed: 1560358863721
 
 ---
@@ -50,7 +50,7 @@ Having an idea of how people describe cybercrime is a good start, but it’s not
 
 We knew the content in our first concept would be far from perfect. By releasing something early, with a goal of continuous iteration, we learned a whole lot about what people expect. Here’s a glimpse of how the first concept changed after people tried it out:
 
-![Caption: The first image is a screenshot of a page that reads: “Do you suspect a scam, cybercrime, or fraud?” The second image is a new version of the page, which now reads, “Report a scam”.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/english_concept_test_fd3cafc221.png)
+![Caption: The first image is a screenshot of a page that reads: “Do you suspect a scam, cybercrime, or fraud?” The second image is a new version of the page, which now reads, “Report a scam”.](https://de2an9clyit2x.cloudfront.net/english_concept_test_fd3cafc221.png)
 
 We learned that:
 

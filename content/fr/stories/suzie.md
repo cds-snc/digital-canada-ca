@@ -4,7 +4,7 @@ description: "L’expertise de Suzie Bouchard est exactement ce dont nous avions
 archived: false
 layout: story
 type: section
-image: /img/cds/stories-suzie.jpg
+image: https://de2an9clyit2x.cloudfront.net/stories_suzie_78318363a2.jpg
 imagealt: Suzie Bouchard, une vétérane, est debout devant des drapeaux des forces armées, avec ses bras derrière son dos.
 translationKey: suzie
 url: /histoires/suzie

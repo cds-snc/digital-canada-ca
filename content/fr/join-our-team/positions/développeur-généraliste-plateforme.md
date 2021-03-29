@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Développeur généraliste (plateforme)
-description: Pour appuyer cette importante mission, nous sommes à la recherche de Développeurs généralistes. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que celles mentionnées.
+title: 'Développeur généraliste (plateforme)'
+description: >-
+  Pour appuyer cette importante mission, nous sommes à la recherche de Développeurs généralistes. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que celles mentionnées.
 archived: false
 translationKey: full-stack-dev-platform
 leverId: http://cd488c0a-cfbf-466b-9d10-1a3c22b1eeeb

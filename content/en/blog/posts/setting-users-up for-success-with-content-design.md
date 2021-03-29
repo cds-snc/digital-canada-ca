@@ -2,7 +2,7 @@
 title: Setting up users for success with content design
 author: 'Cayce Fischer, Content designer'
 date: '2018-06-12 09:00:00 -0400'
-image: /img/cds/blog-setting-up-users-for-success.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_setting_up_users_for_success_0ab67b7ff1.jpg
 image-alt: >-
   Paper prototypes of an early version of the IRCC Reschedule a Citizenship Test
   service. Four pages are laid out on a table. They  include a web form, a
@@ -13,7 +13,7 @@ description: >-
   appointment as convenient and stress-free as possible for applicants, while
   empowering office staff.
 translationKey: setting-users-up-for-success-with-content-design
-thumb: /img/cds/thumbnails/blog-setting-up-users-for-success.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_setting_up_users_for_success_0ab67b7ff1.jpg
 processed: 1550672961760
 ---
 
@@ -32,7 +32,7 @@ A common design pattern in digital products is “just-in-time” information or
 
 When designing an IRCC tool to facilitate rescheduling a test appointment, we tried a similar approach:
 
-<img width="50%" style="float:left;" alt="Screenshot of a calendar interface, showing the month of May, with text instructions above the date picker that say “If your request is approved, we’ll send you a new appointment. Use the calendar to select all the days you’ll be AVAILABLE between April and July 2018, so we can schedule your new appointment. There is a reminder below the calendar that says “Remember: make sure you stay available on all the days you selected.”" src="/img/cds/ircc-calendar.png">
+<img width="50%" style="float:left;" alt="Screenshot of a calendar interface, showing the month of May, with text instructions above the date picker that say “If your request is approved, we’ll send you a new appointment. Use the calendar to select all the days you’ll be AVAILABLE between April and July 2018, so we can schedule your new appointment. There is a reminder below the calendar that says “Remember: make sure you stay available on all the days you selected.”" src="https://de2an9clyit2x.cloudfront.net/ircc_calendar_a7dc6ac29e.png">
 
 <p class="translation-caption"><strong>Version 5 of the Alpha “Calendar” page wireframes</strong></p>
 
@@ -48,11 +48,11 @@ To address the issue with “just-in-time” instructions, we reduced how much t
 
 We added an introductory page to the service, that prepares users for what they should expect:
 
-<img width="50%" style="float:left;" alt="Screenshot of text explaining the service: “After verifying your personal information, you will select three (3) alternative days when you are able to take the Citizenship test”. A warning box below reminds the user of critical information: “By sending this request to reschedule, you will be cancelling your current test. After you complete this process it could take up to 6 weeks for IRCC to contact you with a new test date.There is also a button below the warning box that says “Start now”." src="/img/cds/ircc-rescheduler-start.png" />
+<img width="50%" style="float:left;" alt="Screenshot of text explaining the service: “After verifying your personal information, you will select three (3) alternative days when you are able to take the Citizenship test”. A warning box below reminds the user of critical information: “By sending this request to reschedule, you will be cancelling your current test. After you complete this process it could take up to 6 weeks for IRCC to contact you with a new test date.There is also a button below the warning box that says “Start now”." src="https://de2an9clyit2x.cloudfront.net/ircc_rescheduler_start_84d2dd94ed.png" />
 
 <p style="clear: both;"> We also revised the calendar page:</p>
 
-<img width="50%" alt="Screenshot of an updated calendar interface, showing the month of June. There is less text above the date picker. The instructions read: “Citizenship tests are scheduled on Tuesdays and Fridays. Select three (3) days you are available in June and/or July.” The date picker now has areas highlighting which dates have been picked, in this case dates selected are Tuesday June 1, 2018, Friday June 11, 2018 and Tuesday July 5, 2018." src="/img/cds/ircc-chosen-days-calendar.png">
+<img width="50%" alt="Screenshot of an updated calendar interface, showing the month of June. There is less text above the date picker. The instructions read: “Citizenship tests are scheduled on Tuesdays and Fridays. Select three (3) days you are available in June and/or July.” The date picker now has areas highlighting which dates have been picked, in this case dates selected are Tuesday June 1, 2018, Friday June 11, 2018 and Tuesday July 5, 2018." src="https://de2an9clyit2x.cloudfront.net/ircc_chosen_days_calendar_e35e41b5f3.png">
 
 ### Takeaways:
 * Reduce the amount of descriptive copy on pages where there is an important task for users to complete.
@@ -64,7 +64,7 @@ Similar to the notion of “just-in-time” information is the concept of “aff
 
 For the IRCC “Reschedule a citizenship test” service, we designed a page that asked applicants for their identification details and the reason they need to reschedule their test. In effect, this page is asking them “why are you using this service?” An early version that went through usability testing looked like this:
 
-<img width="50%" alt="Screenshot of a page titled “Request a new Canadian Citizenship test date” with four form fields. The first is “Full name” and indicates “This is the full name you used on your Citizenship application”.The second asks for a “UCI number for example A123456 -- this number is at the top of the email we sent you”. The third field invites the user to “Select a reason” in a dropdown menu for “Reasons for rescheduling”. The last form field includes a large text area for further explanation. The text above the open text field reads “Tell us why you can’t attend your test. If you’re not sure if you can reschedule, read the guidelines for rescheduling.”" src="/img/cds/ircc-rescheduler-form.png">
+<img width="50%" alt="Screenshot of a page titled “Request a new Canadian Citizenship test date” with four form fields. The first is “Full name” and indicates “This is the full name you used on your Citizenship application”.The second asks for a “UCI number for example A123456 -- this number is at the top of the email we sent you”. The third field invites the user to “Select a reason” in a dropdown menu for “Reasons for rescheduling”. The last form field includes a large text area for further explanation. The text above the open text field reads “Tell us why you can’t attend your test. If you’re not sure if you can reschedule, read the guidelines for rescheduling.”" src="https://de2an9clyit2x.cloudfront.net/ircc_rescheduler_form_bd5decc934.png">
 
 We knew from discovery research that applicants experience a lot of anxiety when waiting to hear back about their new appointment. After testing two versions of an early prototype, it was clear that applicants wanted to provide dates of availability. Doing so made them feel more in control, both in terms of the process and their own schedules.
 
@@ -79,11 +79,11 @@ To fix this issue, we added a big “spoiler” for users: an introductory page 
 
 Revised introductory page:
 
-<img width="50%" alt="Screenshot of a page titled “Request a new Canadian Citizenship appointment” with introductory text that says “Use this service to notify Immigration Refugees and Citizenship Canada that you cannot attend your Citizenship test, and for a new appointment.” A  bulleted list of requirements users must provide to successfully use the service follows: “You will need: Your paper file number (this is found at the top of your test notice email). You will need: Your full name (as it appears on your application). You will need: To describe your reason for rescheduling (for more information on rescheduling, read the guidelines).” Below the list it says: “After verifying your personal information, you will select three (3) alternative days when you are able to take the Citizenship test”." src="/img/cds/ircc-rescheduler-instructions.png">
+<img width="50%" alt="Screenshot of a page titled “Request a new Canadian Citizenship appointment” with introductory text that says “Use this service to notify Immigration Refugees and Citizenship Canada that you cannot attend your Citizenship test, and for a new appointment.” A  bulleted list of requirements users must provide to successfully use the service follows: “You will need: Your paper file number (this is found at the top of your test notice email). You will need: Your full name (as it appears on your application). You will need: To describe your reason for rescheduling (for more information on rescheduling, read the guidelines).” Below the list it says: “After verifying your personal information, you will select three (3) alternative days when you are able to take the Citizenship test”." src="https://de2an9clyit2x.cloudfront.net/ircc_rescheduler_instructions_25eb966100.png">
 
 Revised form page:
 
-<img width="50%" alt="Screenshot of part of the form page, with a radio button picker replacing the earlier dropdown picker. Above the radio buttons, it says “Reason for rescheduling, if you’re not sure if you can reschedule, read the guidelines for rescheduling.” The radio buttons available for selection include: “Travel, Medical, Work or School, Family, Other”.  There is now different text above the large text area that reads “Describe why you cannot attend your test. Provide enough detail so that staff can understand your situation.”" src="/img/cds/ircc-rescheduler-reason.png">
+<img width="50%" alt="Screenshot of part of the form page, with a radio button picker replacing the earlier dropdown picker. Above the radio buttons, it says “Reason for rescheduling, if you’re not sure if you can reschedule, read the guidelines for rescheduling.” The radio buttons available for selection include: “Travel, Medical, Work or School, Family, Other”.  There is now different text above the large text area that reads “Describe why you cannot attend your test. Provide enough detail so that staff can understand your situation.”" src="https://de2an9clyit2x.cloudfront.net/ircc_rescheduler_reason_71280850a8.png">
 
 This addressed user anxieties around scheduling, and helped them complete the form in a way that was more usable for office staff. Sometimes, spoilers are a good thing!
 

@@ -1,9 +1,10 @@
 ---
 layout: job-posting
 type: section
-title: Développeur de l’IFS (SRE) d’Alerte COVID
-description: Nous sommes à la recherche d’un(e) Développeur de l’IFS (SRE en anglais) d’Alerte COVID. Ce poste est dans la classification Systèmes d’Ordinateurs, selon les normes de qualification des CS.
-archived: false
+title: 'Développeur de l’IFS (SRE) d’Alerte COVID'
+description: >-
+  Nous sommes à la recherche d’un(e) Développeur de l’IFS (SRE en anglais) d’Alerte COVID. Ce poste est dans la classification Systèmes d’Ordinateurs, selon les normes de qualification des CS.
+archived: true
 translationKey: covid-alert-sre-dev
 leverId: 9d96ac9e-2dce-4be3-9f31-279f5f26e19a
 ---

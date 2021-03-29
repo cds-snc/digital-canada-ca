@@ -8,12 +8,12 @@ description: >-
   high-quality software products.
 author: 'Jason White, Head of data science'
 date: '2018-03-26 09:00:00 -0400'
-image: /img/cds/blog-automated-testing.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_automated_testing_76c2e620d6.jpg
 image-alt: >-
   Three people are sitting around a table working on laptops. One person is
   pointing at the screen of a person across the table, who gives a thumbs-up.
 translationKey: automated-testing-blog
-thumb: /img/cds/thumbnails/blog-automated-testing.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_automated_testing_76c2e620d6.jpg
 processed: 1550672961659
 ---
 
@@ -38,12 +38,12 @@ It differs from the more common “feature branch” pattern, where developers w
 
 We chose CircleCI to automate our test processes. It runs our entire test suite on every push to Github. Running the test suite takes approximately two minutes after pushing, so developers get very rapid, automated feedback on their proposed changes. Branches with a failed CI run are not permitted to be merged.
 
-<img width="80%" alt="Output logs showing CircleCI passing test results" src="/img/cds/nrcan3-img1.png">
+<img width="80%" alt="Output logs showing CircleCI passing test results" src="https://de2an9clyit2x.cloudfront.net/nrcan3_img1_2c562f811f.png">
 
 Successful CI run
 
-<img width="80%" alt="Output logs showing three passing CircleCI test results and one failed" src="/img/cds/nrcan3-img2.png">
-<img width="80%" alt="Output logs showing a failed test result" src="/img/cds/nrcan3-img3.png">
+<img width="80%" alt="Output logs showing three passing CircleCI test results and one failed" src="https://de2an9clyit2x.cloudfront.net/nrcan3_img2_3874be6ce8.png">
+<img width="80%" alt="Output logs showing a failed test result" src="https://de2an9clyit2x.cloudfront.net/nrcan3_img3_473f846ada.png">
 
 Failed CI run
 

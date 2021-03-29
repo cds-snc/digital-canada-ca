@@ -4,12 +4,12 @@ title: 'La sécurité, c’est difficile. Mais c’est aussi nécessaire et gér
 description: Explication de la sécurité numérique grâce à la sécurité dans les aéroports.
 author: 'Tim Arney, développeur'
 date: 2019-06-20T13:00:11.700Z
-image: /img/cds/airplane.jpg
+image: https://de2an9clyit2x.cloudfront.net/airplane_460f30dd8a.jpg
 image-alt: >-
   L’application utilise un fichier ESLint pour faire une analyse statique de
   programmes.
 translationKey: security-hard
-thumb: /img/cds/thumbnails/airplane.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_airplane_460f30dd8a.jpg
 processed: 1561556658198
 ---
 La sécurité numérique, c’est difficile. Même les meilleures équipes d’ingénieurs et de spécialistes des TI sont susceptibles de faire des erreurs à un moment donné. Mais tout comme la sécurité dans les aéroports, les étapes et les processus en place sont là pour votre sûreté.
@@ -69,7 +69,7 @@ Nous avons créé une série de vérifications visant à confirmer que notre inf
 2. Les tâches sont des conteneurs rédigés dans différents langages de programmation (Go, Rust, JavaScript, Crystal).
 3. Chaque conteneur écrit un fichier JSON, étiqueté avec le numéro d’identité, dans un répertoire partagé.
 
-![L’application utilise un fichier ESLint pour faire une analyse statique de programmes.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/compliance_code_fr_6baa89cbb7.png)
+![L’application utilise un fichier ESLint pour faire une analyse statique de programmes.](https://de2an9clyit2x.cloudfront.net/compliance_code_fr_6baa89cbb7.png)
 
 4. Nous avons une application JavaScript qui surveille un répertoire partagé et ingère les fichiers JSON.
 5. Les résultats sont sauvegardés dans MongoDB et regroupés par version et contrôle.

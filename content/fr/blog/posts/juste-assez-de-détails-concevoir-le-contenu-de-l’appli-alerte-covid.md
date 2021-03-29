@@ -6,12 +6,12 @@ description: >-
   faciliter la compréhension de l’application Alerte COVID.
 author: 'Kate Wilhelm, Conception du contenu'
 date: 2020-11-18T15:48:06.854Z
-image: /img/cds/banner-content-covidalert-blog.jpg
+image: https://de2an9clyit2x.cloudfront.net/banner_content_covidalert_blog_198bc0a191.jpg
 image-alt: >-
   Cinq lignes sinueuses et entremêlées de couleur différente qui, après être
   passées dans un filtre, se transforment en deux lignes droites.
 translationKey: content-covidalert
-thumb: /img/cds/thumbnails/banner-content-covidalert-blog.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_banner_content_covidalert_blog_198bc0a191.jpg
 processed: 1605718866202
 ---
 Lorsque nous avons commencé à travailler sur [Alerte COVID](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html), nous savions [que l’une des clés du succès était la confiance](https://numerique.canada.ca/2020/10/02/d%C3%A9velopper-un-service-efficace-de-notification-dexposition-comme-alerte-covid/). Les gens n’allaient pas télécharger l’application s’ils n’y faisaient pas confiance. Et nous savions que la clé de la confiance était la compréhension. 
@@ -20,7 +20,7 @@ La plupart des gens pensent que la transmission du virus est liée aux endroits 
 
 Les premiers écrans qu’une personne voit après avoir téléchargé l’application sont essentiels pour favoriser la compréhension et bâtir la confiance. La plupart des applications mobiles ont des écrans d’introduction — habituellement deux ou trois seulement pour présenter leurs caractéristiques principales. Mais notre introduction devait accomplir bien plus que ce qu’accomplissent de nombreuses applications. Il fallait changer les hypothèses des gens quant au fonctionnement de l’application.
 
-![Capture d’écran du premier écran d’introduction de l’application Alerte COVID. On peut y lire « Alerte COVID nous aide à briser le cycle d’infection. L’application permet d’aviser les personnes en cas d’exposition potentielle avant même que des symptômes apparaissent. »](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/content_covidalert_welcome_onboarding_FR_8f7e7ea667.jpg)
+![Capture d’écran du premier écran d’introduction de l’application Alerte COVID. On peut y lire « Alerte COVID nous aide à briser le cycle d’infection. L’application permet d’aviser les personnes en cas d’exposition potentielle avant même que des symptômes apparaissent. »](https://de2an9clyit2x.cloudfront.net/content_covidalert_welcome_onboarding_FR_8f7e7ea667.jpg)
 
 ## Éviter la surcharge d’information
 
@@ -46,11 +46,11 @@ C’est pourquoi notre introduction comprend cinq écrans plus quatre autres éc
 
 Nous avons également pris ce genre de décisions en utilisant des mots précis. Prenez le mot « anonyme ». Selon les dictionnaires, « anonyme » signifie qu’on ne peut pas être identifié par son nom. Mais les risques technologiques et les mesures de protection de la vie privée d’Alerte COVID vont beaucoup plus loin. Nous avons donc dédié tout un écran aux protections de la vie privée de l’application. 
 
-![Capture du deuxième écran d’introduction de l’application Alerte COVID. « Alerte COVID n’utilise pas le GPS et ne suit pas votre emplacement. Il n’y a aucun moyen de connaître votre emplacement, votre nom ou votre adresse, les contacts de votre téléphone, vos renseignements de santé, les renseignements de santé des personnes à proximité. » ](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/content_covidalert_privacy_FR_02b970fabe.jpg)
+![Capture du deuxième écran d’introduction de l’application Alerte COVID. « Alerte COVID n’utilise pas le GPS et ne suit pas votre emplacement. Il n’y a aucun moyen de connaître votre emplacement, votre nom ou votre adresse, les contacts de votre téléphone, vos renseignements de santé, les renseignements de santé des personnes à proximité. » ](https://de2an9clyit2x.cloudfront.net/content_covidalert_privacy_FR_02b970fabe.jpg)
 
 De même, à l’écran qui lance le processus pour les personnes qui ont obtenu un résultat positif, au lieu de simplement dire quelque chose comme « Téléversez vos codes aléatoires de façon anonyme », nous avons utilisé une phrase complète pour transmettre le concept d’anonymat : « Personne n’obtiendra de renseignements sur vous ni sur le moment de votre contact. »
 
-![Un écran de l’application Alerte COVID qui explique les trois étapes à suivre pour aviser les personnes exposées. La deuxième étape se lit comme suit : « Vous fournissez quelques précisions qui aideront l’application à déterminer la période où vous étiez probablement le plus contagieux. Vous n’êtes pas obligé de le faire. » Le dernier paragraphe se lit comme suit : « Personne n’obtiendra de renseignements sur vous ni sur le moment de votre contact. Les personnes recevront uniquement une notification disant qu’elles ont récemment été exposées. » ](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/content_covidalert_screen_083026eebd.jpg)
+![Un écran de l’application Alerte COVID qui explique les trois étapes à suivre pour aviser les personnes exposées. La deuxième étape se lit comme suit : « Vous fournissez quelques précisions qui aideront l’application à déterminer la période où vous étiez probablement le plus contagieux. Vous n’êtes pas obligé de le faire. » Le dernier paragraphe se lit comme suit : « Personne n’obtiendra de renseignements sur vous ni sur le moment de votre contact. Les personnes recevront uniquement une notification disant qu’elles ont récemment été exposées. » ](https://de2an9clyit2x.cloudfront.net/content_covidalert_screen_083026eebd.jpg)
 
 Même un mot apparemment simple comme « facultatif » contient beaucoup d'informations. Donc, dans la [nouvelle fonctionnalité](https://twitter.com/CDS_GC/status/1322209683399184385) que nous avons déployée le mois dernier, nous avons changé « facultatif » pour une phrase complète : « Vous n’êtes pas obligé de le faire. »
 

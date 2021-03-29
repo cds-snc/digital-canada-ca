@@ -1,8 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: Conseiller en partenariats
-description: En tant que secteur d’activités des Partenariats, nous assurons la liaison et le renforcement des capacités au SNC. Nous avançons au rythme de la confiance, avec des partenaires disposés qui veulent, à la base, changer la façon de concevoir et d’offrir des services publics.
+title: 'Conseiller en partenariats'
+description: >-
+  En tant que secteur d’activités des Partenariats, nous assurons la liaison et le renforcement des capacités au SNC. Nous avançons au rythme de la confiance, avec des partenaires disposés qui veulent, à la base, changer la façon de concevoir et d’offrir des services publics.
 archived: true
 translationKey: partnerships-advisor
 leverId: 68fdb06c-bf01-4151-b997-3bb5dd3f6602

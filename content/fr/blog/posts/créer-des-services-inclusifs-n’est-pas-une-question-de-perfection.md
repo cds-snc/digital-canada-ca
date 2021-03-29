@@ -6,12 +6,12 @@ description: >-
   réaliser. Voici par où commencer.
 author: 'Julianna Rowsell, responsable de l’accessibilité et des services inclusifs'
 date: 2019-02-13T14:00:00.000Z
-image: /img/cds/_mg_9837-2.jpg
+image: https://de2an9clyit2x.cloudfront.net/mg_9837_2_7bc5f33d0f.jpg
 image-alt: >-
   Un homme utilise un clavier ajustable et d’autres technologies qui l’aident à
   utiliser son ordinateur.
 translationKey: not-perfect
-thumb: /img/cds/thumbnails/_mg_9837-2.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_mg_9837_2_7bc5f33d0f.jpg
 processed: 1550672961824
 ---
 L'accessibilité a la réputation d'être difficile, et même parfois impossible à réaliser. Pourtant, l’élaboration de services inclusifs qui conviennent à tous n’est pas une question de perfection. C’est une question d’efforts et de progrès. Et lorsqu’on déploie ce genre d’efforts chaque jour, la transformation s’opère. À l’opposé, si l’on ne fait rien, les gens qui ont le plus besoin de nos services ne pourront pas y accéder. 
@@ -22,7 +22,7 @@ Mon parcours m’a enseigné à ne pas faire de suppositions quant à la façon 
 
 Récemment, le Service numérique canadien (SNC) a organisé un événement interne afin de sensibiliser son personnel à l’accessibilité. Un panel de fonctionnaires ayant un handicap sont venus discuter des barrières et des défis auxquels ils font face lorsqu’ils utilisent les services gouvernementaux. Kevin Shaw, atteint d’un handicap lié à la mobilité, faisait partie de ce groupe. Il nous a expliqué à quel point remplir des questionnaires ou des formulaires en ligne pouvait devenir long et frustrant. Souvent, le temps alloué s’écoule avant qu’il n’ait pu terminer. Et alors, il doit recommencer à zéro. Dans son cas, la solution pour rendre ce service plus accessible serait simplement de pouvoir sauvegarder ses réponses pour y revenir plus tard.
 
-![ Une photo de Kevin Shaw souriant avec le citation "J'aime que mon emploi me permette d'appuyer l'accessibilité et l'inclusion. Je suis fier des efforts déployés par mon équipe au moment où nos visions l'atteinte d'un gouvernement et d'une société sand obstacle."](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/image004_72dc281eb4.jpg)
+![ Une photo de Kevin Shaw souriant avec le citation "J'aime que mon emploi me permette d'appuyer l'accessibilité et l'inclusion. Je suis fier des efforts déployés par mon équipe au moment où nos visions l'atteinte d'un gouvernement et d'une société sand obstacle."](https://de2an9clyit2x.cloudfront.net/image004_72dc281eb4.jpg)
 
 ## L’accessibilité n’a pas à être un fardeau
 

@@ -8,10 +8,10 @@ description: >-
   dire plus, ça pourrait devenir intéressant.
 author: 'John O''Brien, responsable de la sécurité'
 date: '2018-07-11 09:00:00 -0400'
-image: /img/cds/the-security-in-digital-is-silent.jpg
+image: https://de2an9clyit2x.cloudfront.net/the_security_in_digital_is_silent_5747f1b463.png
 image-alt: Un cadenas ouvert
 translationKey: the-security-in-digital-is-silent
-thumb: /img/cds/thumbnails/the-security-in-digital-is-silent.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_the_security_in_digital_is_silent_5747f1b463.png
 processed: 1550672961825
 ---
 
@@ -37,7 +37,7 @@ SNC collabore actuellement avec le SCT pour faire connaître ce produit et le d�
 
 L’avantage de ce produit? Lorsque vous créez le nouveau « truc », vous êtes alors le premier à le tester. Ainsi, nous avons testé nos propres noms de domaines, et nous étions consternés de nous rendre compte que, dans notre enthousiasme à mettre en service notre site Web l’an dernier, nous avions choisi un réglage dans notre configuration Cloudfront d’AWS qui privilégiait la rétrocompatibilité au détriment de l’utilisation de chiffres et de protocoles sécurisés.
 
-<img width="100%" style="float:left;" alt="Initial testing of the Pulse platform seeded with canada.ca domains." src="/img/cds/https-fr.png">
+<img width="100%" style="float:left;" alt="Initial testing of the Pulse platform seeded with canada.ca domains." src="https://de2an9clyit2x.cloudfront.net/https_fr_1af6bac91e.png">
 
 Il va sans dire que nous avons échoué à nos propres vérifications de conformité, mais nous avons pu réparer un des problèmes en moins de temps que j’ai pris pour écrire ce dernier paragraphe. Nous nous pencherons bientôt sur la mise en œuvre du protocole HTTP Strict Transport Security, mais ce projet sera probablement le sujet d’un prochain billet.
 

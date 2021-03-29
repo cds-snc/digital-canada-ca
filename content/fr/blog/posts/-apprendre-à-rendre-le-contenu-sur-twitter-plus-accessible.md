@@ -1,12 +1,13 @@
 ---
 layout: blog
-title:  Apprendre à rendre le contenu sur Twitter plus accessible 
-description: Comme l’a découvert l’une de nos étudiantes coop à son arrivée au SNC en tant que créatrice de contenu pour les médias sociaux, apprendre n’est pas réservé aux étudiants, c’est un processus continu. Voici quelques trucs qu’elle a appris pour rendre notre contenu sur Twitter plus accessible.
+title: ' Apprendre à rendre le contenu sur Twitter plus accessible '
+description: >-
+  Comme l’a découvert l’une de nos étudiantes coop à son arrivée au SNC en tant que créatrice de contenu pour les médias sociaux, apprendre n’est pas réservé aux étudiants, c’est un processus continu. Voici quelques trucs qu’elle a appris pour rendre notre contenu sur Twitter plus accessible.
 author: 'Jo Button, Liaison et diffusion'
 date: '2021-03-12T16:00:00.000Z'
-image: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/accessibility_tweets_blog_banner_650f003408.jpg
+image: https://de2an9clyit2x.cloudfront.net/accessibility_tweets_blog_banner_650f003408.jpg
 image-alt: Une personne utilisant un lecteur d’écran sur son téléphone.
-thumb: https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/thumbnail_accessibility_tweets_blog_banner_650f003408.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_accessibility_tweets_blog_banner_650f003408.jpg
 translationKey: blog-accessible-tweets 
 ---
 Personne n’aime être exclu, et personne n’aime voir ses besoins et ses sentiments ignorés. Du moins, certainement pas moi.

@@ -10,10 +10,10 @@ author: >-
   Emilio Franco, directeur principal, Modernisation des activités
   d’approvisionnement, SPAC
 date: 2019-07-30T13:00:00.000Z
-image: /img/cds/pspc-team-1.jpg
+image: https://de2an9clyit2x.cloudfront.net/pspc_team_1_d45ef92076.jpg
 image-alt: Photo de l’équipe de recherche en conception à SPAC.
 translationKey: emilio-pspc
-thumb: /img/cds/thumbnails/pspc-team-1.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_pspc_team_1_d45ef92076.jpg
 processed: 1564604600053
 ---
 Lorsqu’on parle de la conception de services au gouvernement, il est surtout question de la création de services hors pair offerts aux citoyens. Cela est conforme à notre but principal : nous travaillons pour servir les citoyens. Nous devons par conséquent faire en sorte que les citoyens soient placés au cœur des services.
@@ -34,7 +34,7 @@ Il est important que nous puissions atteindre un équilibre, celui de s’assure
 
 Trouver des concepteurs de services prêts à s’atteler aux services internes ne fut pas une mince tâche. Mais nous avons désormais une excellente équipe de concepteurs de services et de chercheurs auprès des utilisateurs qui appuient la modernisation de l’approvisionnement, une équipe que nous espérons continuer d’agrandir. Nous avons formé des employés déjà existants, nous avons recruté des talents provenant du gouvernement, et nous attirons des talents externes par l’entremise du [Nuage de talents](https://talent.canada.ca/fr), la nouvelle plateforme expérimentale d’embauche du gouvernement du Canada pour les emplois axés sur des projets.
 
-![Photo de l’équipe de recherche en conception à SPAC.](https://cds-website-assets-prod.s3.ca-central-1.amazonaws.com/pspc_team_2_19f5e7b2f2.jpg)
+![Photo de l’équipe de recherche en conception à SPAC.](https://de2an9clyit2x.cloudfront.net/pspc_team_2_19f5e7b2f2.jpg)
 
 ## Susciter l’empathie
 

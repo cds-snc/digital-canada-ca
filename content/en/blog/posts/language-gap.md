@@ -7,10 +7,10 @@ description: >-
   do we bridge this gap to deliver modern services to Canadians?
 author: 'Eva Demers-Brett, Developer'
 date: '2018-10-03 09:00:00 -0400'
-image: /img/cds/blog-language-gap.jpg
+image: https://de2an9clyit2x.cloudfront.net/blog_language_gap_72a7c0e138.jpg
 image-alt: A French Poodle and an English Bulldog sitting in front of laptops.
 translationKey: language-gap
-thumb: /img/cds/thumbnails/blog-language-gap.jpg
+thumb: https://de2an9clyit2x.cloudfront.net/small_blog_language_gap_72a7c0e138.jpg
 processed: 1550672961723
 ---
 
