@@ -233,16 +233,6 @@ team:
     linkedin: brockhiggins
     twitter: brockhigg10
   - archived: false
-    name: Bryan Robitaille
-    title:
-      en: Development
-      fr: Développement
-    imagehash: small_bryan_robitaille_d61fc88f5a
-    email: bryan.robitaille@tbs-sct.gc.ca
-    github: bryan-robitaille
-    linkedin: bryan-robitaille
-    twitter: RobitailleBryan
-  - archived: false
     name: Bryan Willey
     title:
       en: Product Management
