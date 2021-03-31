@@ -28,16 +28,11 @@ Powered by [Hugo](https://gohugo.io/), and the [Web Experience Toolkit](https://
 
 The English and French versions will be hosted at [localhost:1313](http://localhost:1313) and [localhost:1314](http://localhost:1314), respectively.
 
-## To get Netlify CMS up and running
+## Content Management System
 
-1. Pull in dependencies
-    ```
-    npm install
-    ```
-2. Build Netlify CMS
-    ```
-    npm run dev
-    ```
+Powered by [Strapi](https://strapi.io/). The Strapi instance for this website can be found at [https://github.com/cds-snc/cds-website-cms](https://github.com/cds-snc/cds-website-cms).
+
+
 
 ## ---------------------------------------------------------------------
 
@@ -67,13 +62,6 @@ Les sites [numerique.canada.ca](https://numerique.canada.ca) et [digital.canada.
 
 Les versions française et anglaise seront hébergées à [localhost:1314](http://localhost:1314) et à [localhost:1313](http://localhost:1313), respectivement.
 
-## Opérationnalisation du gestionnaire de contenu Netlify
+## Système de gestion de contenu
 
-1. Ajoutez les dépendances.
-    ```
-    npm install
-    ```
-2. Lancez la compilation du gestionnaire de contenu Netlify.
-    ```
-    npm run dev
-    ```
+Développé par [Strapi](https://strapi.io/). Le code d’instance Strapi utilisé par ce site Web peut être consulté à [https://github.com/cds-snc/cds-website-cms](https://github.com/cds-snc/cds-website-cms).
