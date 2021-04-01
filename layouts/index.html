@@ -11,7 +11,7 @@
           <p>{{ i18n "how-we-work" }}</p>
         </div>
         <div class='col-xs-12 col-md-4 title-align'>
-          <a href="{{ with $.Site.GetPage "partnerships" }}{{.URL}}{{ end }}#partnership-products" class='title-link'>
+          <a href="{{ with $.Site.GetPage "partnerships" }}{{.Permalink}}{{ end }}#partnership-products" class='title-link'>
             {{ i18n "more-posts" }} <i class='fas fa-arrow-circle-right'></i>
           </a>
         </div>
@@ -42,7 +42,7 @@
           <p>{{ i18n "say-hello" }}</p>
         </div>
         <div class="col-md-4 col-xs-12 btn">
-          <a href="{{ with $.Site.GetPage "meet-the-team" }}{{.URL}}{{ end }}">
+          <a href="{{ with $.Site.GetPage "meet-the-team" }}{{.Permalink}}{{ end }}">
             {{ i18n "meet-the-team" }}
             <i class='fas fa-arrow-circle-right'></i>
           </a>
@@ -63,7 +63,7 @@
           <p>{{ i18n "product-impact" }}</p>
         </div>
         <div class="col-md-4 col-xs-12 btn">
-          <a href="{{ with $.Site.GetPage "join-our-team" }}{{.URL}}{{ end }}"
+          <a href="{{ with $.Site.GetPage "join-our-team" }}{{.Permalink}}{{ end }}"
              class='apply-now'>{{ i18n "apply-now" }}
              <i class='fas fa-arrow-circle-right'></i>
           </a>
@@ -79,7 +79,7 @@
           <h2>{{i18n "featured-post" }}</h2>
         </div>
         <div class="read-blogs">
-          <a href="{{ with $.Site.GetPage "blog" }}{{.URL}}{{ end }}"
+          <a href="{{ with $.Site.GetPage "blog" }}{{.Permalink}}{{ end }}"
              class='title-link'>
             {{i18n "read-all-blogs" }}
           </a>
@@ -96,12 +96,12 @@
               <div class="text">
                 <h3>{{ .Params.title }}</h3>
                 <div class="date">
-                    {{ if eq .Lang "en" }}                
+                    {{ if eq .Lang "en" }}
                       {{ .Date.Format "Jan 2, 2006" }}
-                    {{ end }}     
-                    {{ if eq .Lang "fr" }}                
-                      {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
-                   {{ end }}  
+                    {{ end }}
+                    {{ if eq .Lang "fr" }}
+                      {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                   {{ end }}
                   </div>
               </div>
               <a href="{{ .RelPermalink }}">
