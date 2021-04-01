@@ -12,7 +12,7 @@
 {{ define "main" }}
 <div class="container">
     <section>
-     
+
         <!-- PLATFORM TOOLS LIST -->
         <div class="section tools-and-resources--platform">
           <div class="col-xs-12">
@@ -22,8 +22,8 @@
             <p>{{ i18n "tools-and-resources-platform-description-3rd" | safeHTML }}</p>
           </div>
         </div>
-     
-      {{ $products := where .Site.Pages ".Dir" "==" "tools-and-resources/platform-tools/" }}
+
+      {{ $products := where .Site.Pages ".File.Dir" "==" "tools-and-resources/platform-tools/" }}
       <div class='row equal'>
         {{ $inflight := where .Site.Pages ".Params.status" "==" "in-flight" }}
         {{ range $elem_index, $elem_val := $inflight | intersect $products }}
@@ -45,7 +45,7 @@
             <h2>{{ i18n "tools-and-resources-resources-title" | safeHTML }}</h2>
             <p>{{ i18n "tools-and-resources-resources-description" | safeHTML }}</p>
           </div>
-          {{ $products := where .Site.Pages ".Dir" "==" "tools-and-resources/resources/" }}
+          {{ $products := where .Site.Pages ".File.Dir" "==" "tools-and-resources/resources/" }}
           <div class='row equal'>
             {{ $inflight := where .Site.Pages ".Params.status" "==" "in-flight" }}
             {{ range $elem_index, $elem_val := $inflight | intersect $products }}
@@ -58,7 +58,7 @@
             </div>
             {{ end }}
           </div>
-      </div> 
+      </div>
   </section>
 </div>
 
