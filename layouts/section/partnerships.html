@@ -74,7 +74,7 @@
           {{ if eq $.Site.Language.Lang "fr" }}
           {{ $blog_url = "choisir-nos-projets" }}
           {{ end }}
-          <a href="{{with $.Site.GetPage $blog_url}}{{.URL}}{{ end }}">
+          <a href="{{with $.Site.GetPage $blog_url}}{{.Permalink}}{{ end }}">
             {{ i18n "blog-post" }}.
           </a>
         </p>
@@ -83,7 +83,7 @@
   </div>
 
   <!-- In-flight partnerships -->
-  {{ $products := where .Site.Pages ".Dir" "==" "products/products/" }}
+  {{ $products := where .Site.Pages ".File.Dir" "==" "products/products/" }}
   <div class='container'>
     <div class='row'>
       <div class='col-xs-12'>
