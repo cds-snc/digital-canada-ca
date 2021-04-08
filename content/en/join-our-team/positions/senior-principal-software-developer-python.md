@@ -4,7 +4,7 @@ type: section
 title: 'Senior / Principal Software Developer (Python)'
 description: >-
   We’re hiring Senior and Principal Software Developers. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
-archived: false
+archived: true
 translationKey: senior-software-developer-python
 leverId: 7733ffc7-8df0-4ff2-bef3-f4e97b52e5de
 ---
