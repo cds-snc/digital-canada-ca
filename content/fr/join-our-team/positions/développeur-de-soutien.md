@@ -15,7 +15,7 @@ Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) dé
 
 Nous sommes une organisation matricielle comptant des communautés de pratique qui engagent des gens dans toutes nos unités opérationnelles. Ces unités comprennent les partenariats, pour faire des consultations sur le terrain avec d’autres ministères, et les plateformes, servant à créer et à exploiter des services de logiciels réutilisables. Ce poste fait partie de la collectivité du développement de logiciels et relève du Chef du développement de logiciels, qui affecte des personnes aux projets en fonction des besoins organisationnels et des plans de croissance personnelle. Vos activités quotidiennes vont varier en fonction de l’unité opérationnelle à laquelle vous êtes affecté et, au fil du temps, de la nature évolutive de votre travail au SNC. Par exemple, certains jours nécessiteront un encadrement plus stratégique plutôt qu’un codage pratique.
 
-Les développeurs de soutien sont classés [CS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=1#toc12259212260/) dans le groupe des Systèmes d’ordinateurs.
+Les développeurs de soutien sont classés [CD-02 ou CS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=1#toc12259212260/) dans le groupe des Systèmes d’ordinateurs.
 
 ## Vous devrez accomplir les tâches suivantes :
 
