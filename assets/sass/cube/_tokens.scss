@@ -1,0 +1,37 @@
+/// This is auto-generated Sass from ../design-tokens.json
+$gorko-colors: (
+  "dark": #000000,
+  "light": #f8f8f8,
+  "primary": #ffcc33,
+  "secondary": #004986,
+  "tools": #066169,
+  "blog": #ff88aa,
+  "career": #6b3c18,
+  "career-shade": #492910,
+  "team": #62466b,
+  "newsletter": #115740,
+  "newsletter-shade": #0d402f,
+  "gray-light": #e1e4e7,
+  "gray-medium": #848c8d,
+  "gray-dark": #232323,
+  "white": #fff,
+  "error": #e83a22,
+);
+$gorko-fonts: (
+  "base": "'Source Sans Pro', sans-serif",
+  "serif": "serif",
+);
+
+//1rem is 10px with our current setup
+$gorko-base-size: 1rem;
+$gorko-size-scale: (
+  "100": $gorko-base-size * 0.64,
+  "200": $gorko-base-size * 0.8,
+  "300": $gorko-base-size,
+  "400": $gorko-base-size * 1.25,
+  "500": $gorko-base-size * 1.953,
+  "600": $gorko-base-size * 2.441,
+  "700": $gorko-base-size * 3.052,
+  "800": $gorko-base-size * 3.815,
+  "900": $gorko-base-size * 4.768,
+);

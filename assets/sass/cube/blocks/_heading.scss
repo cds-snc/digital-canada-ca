@@ -1,0 +1,36 @@
+.heading {
+  font-size: get-size('800');
+  line-height: 1;
+
+  &[data-type='secondary'] {
+    font-size: get-size('700');
+  }
+
+  &[data-type='tertiary'] {
+    font-size: get-size('600');
+  }
+
+  // If we want to be able to override font weight with utility classes
+  &:not([class*='weight-']) {
+    @include apply-utility('weight', 'regular');
+
+    &[data-type='secondary'] {
+      @include apply-utility('weight', 'semibold');
+    }
+
+    &[data-type='tertiary'] {
+      @include apply-utility('weight', 'bold');
+    }
+  }
+  
+  @include media-query('lg') {
+    font-size: get-size('900');
+
+    &[data-type='secondary'] {
+      font-size: get-size('800');
+    }
+    &[data-type='tertiary'] {
+      font-size: get-size('700');
+    }
+  }
+}

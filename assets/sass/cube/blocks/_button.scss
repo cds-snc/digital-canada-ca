@@ -1,0 +1,61 @@
+.button {
+
+  display: flex;
+  height: 3rem;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 0.1rem;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: get-size('500');
+
+  svg {
+    margin-left: 0.5rem;
+    margin-top: 0.1rem;
+  }
+
+  // I like this because If someone forgets the aria-label, their button will look funky. ALWAYS HAVE AN ARIA-LABEL for icon only!
+  &[aria-label] {
+    padding: 0;
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    svg {
+      margin-left: 0; 
+    }
+  }
+  
+  &:not([class*='bg-']) {
+    background: var(--theme-bg, get-color('dark'));
+  }
+  &:not([class*='color-']) {
+    color: var(--theme-color, get-color('light'));
+  }
+
+  &:hover {
+    background: get-color('light');
+    color: get-color('dark');
+    box-shadow: inset 0 0 0 $stroke-width / 2 get-color('dark'), inset 0 (-$stroke-width) get-color('dark');
+  }
+
+  &:focus:not(:hover) {
+    background-color: get-color('primary');
+    color: get-color('dark');
+    outline: $stroke-width solid get-color('primary');
+    outline-offset: -#{$stroke-width * 2};
+    box-shadow: inset 0 (-$stroke-width) 0 get-color('dark');
+  }
+
+  &:hover:focus {
+    background-color: get-color('primary');
+    color: get-color('dark');
+    outline-offset: -$stroke-width;
+    box-shadow: none;
+  }
+
+}

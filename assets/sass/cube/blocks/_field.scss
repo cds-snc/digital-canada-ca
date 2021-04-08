@@ -1,0 +1,56 @@
+.field {
+    --flow-space: #{get-size('100')};
+
+    label {
+        font: inherit;
+        font-size: get-size('500');
+        @include apply-utility('weight', 'bold');
+        line-height: 1;
+
+        // Hack to make sure you can't click outside of the label and focus the field
+        &::after {
+            content: '\A';
+            white-space: pre;
+        }
+    }
+    input, textarea {
+        border-width: $stroke-width/2;
+        border-style: solid;
+        padding: 0 1rem; // Let the text vertically center itself
+        height: 3rem;
+        min-width: 15rem;
+        display: inline-block;
+        font: inherit;
+        font-size: get-size('500');
+        line-height: 1;
+
+        &:focus {
+            outline: $stroke-width solid get-color('primary');
+            outline-offset: 0;
+            border-color: get-color('dark');
+            background-color: get-color('white');
+            color: get-color('dark');
+        }
+
+        &:invalid {
+            box-shadow: 0 0 0 $stroke-width get-color('error');
+        }
+
+        &:not([class*="bg-"]) {
+            background-color: get-color('white');
+        }
+        &:not([class*="border-"]) {
+            border-color: get-color('dark');
+        }
+    }
+
+    textarea {
+    width: 100%;
+    max-width: 40rem;
+    padding: 0.75rem 1rem;
+
+    &:not([rows]) {
+      min-height: 10rem;
+    }
+  }
+}

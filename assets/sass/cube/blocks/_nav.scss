@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  font-size: get-size('500');
+  gap: 1em;
+  a {
+    color: get-color('light');
+    text-decoration: none;
+    margin-right: 0.5rem;
+    padding-bottom: 0.5rem;
+    &:hover {
+      border-bottom: 3px solid get-color('primary');
+    }
+  }
+}

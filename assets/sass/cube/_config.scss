@@ -1,0 +1,86 @@
+/// IMPORT TOKENS
+/// The $gorko-colors, $gorko-fonts and $gorko-size-scale are auto-generated with
+/// JSON and saved as ./tokens.scss
+@import "tokens";
+
+/// SHARED METRICS
+/// This powers everything from utility class generation to breakpoints
+/// to enabling/disabling pre-built components/utilities.
+///
+$stroke-width: 4px;
+
+/// CORE CONFIG
+/// This powers everything from utility class generation to breakpoints
+/// to enabling/disabling pre-built components/utilities.
+///
+$gorko-config: (
+  "bg": (
+    "items": $gorko-colors,
+    "output": "standard",
+    "property": "background",
+  ),
+  "color": (
+    "items": $gorko-colors,
+    "output": "standard",
+    "property": "color",
+  ),
+  "border": (
+    "items": $gorko-colors,
+    "output": "standard",
+    "property": "border-color",
+  ),
+  "flow-space": (
+    "items": $gorko-size-scale,
+    "output": "responsive",
+    "property": "--flow-space",
+  ),
+  "font": (
+    "items": $gorko-fonts,
+    "output": "standard",
+    "property": "font-family",
+  ),
+  "gap-top": (
+    "items": $gorko-size-scale,
+    "output": "standard",
+    "property": "margin-top",
+  ),
+  "pad-top": (
+    "items": $gorko-size-scale,
+    "output": "standard",
+    "property": "padding-top",
+  ),
+  "pad-bottom": (
+    "items": $gorko-size-scale,
+    "output": "standard",
+    "property": "padding-bottom",
+  ),
+  "ta": (
+    "items": (
+      "left": "left",
+      "center": "center",
+      "right": "right",
+    ),
+    "output": "standard",
+    "property": "text-align",
+  ),
+  "text": (
+    "items": $gorko-size-scale,
+    "output": "responsive",
+    "property": "font-size",
+  ),
+  "weight": (
+    "items": (
+      "thin": 100,
+      "regular": 400,
+      "semibold": 600,
+      "bold": 700,
+      "black": 900,
+    ),
+    "output": "standard",
+    "property": "font-weight",
+  ),
+  "breakpoints": (
+    "md": "(min-width: 48em)",
+    "lg": "(min-width: 60em)",
+  ),
+);

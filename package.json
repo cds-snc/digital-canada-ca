@@ -5,6 +5,7 @@
   "main": "webpack.config.js",
   "dependencies": {
     "express": "^4.17.1",
+    "gorko": "^0.3.0",
     "minimist": "^1.2.5",
     "snyk": "^1.478.0"
   },

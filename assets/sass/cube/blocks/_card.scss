@@ -1,0 +1,73 @@
+.listing {
+    --flow-space: #{get-size('200')};
+
+    .listing__image {
+        max-height: 125px;
+        margin-block-end: get-size('600');
+    }
+}
+
+.team {
+    background: get-color("gray-light");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1.25rem;
+    border-bottom: $stroke-width solid get-color('team');
+
+    p {
+        --flow-space: #{get-size('100')};
+    }
+
+    .headshot {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        border: $stroke-width solid get-color('dark')
+    }
+
+}
+
+.blog {
+    a {
+        text-decoration: none;
+        color: get-color('dark');
+    }
+    .blog__content {
+        padding: 1rem;
+        > * {
+            --flow-space: #{get-size('200')};
+        }
+    }
+}
+
+.listing, .blog {
+    position: relative;
+
+    &:hover {
+        background: get-color('gray-light');
+        box-shadow: 0 0 0 $stroke-width * 1.5 get-color('gray-light'), 0 0 0 $stroke-width * 2 get-color('gray-medium');
+    }
+
+    .link {
+        display: block;
+        &::before {
+            content: "";
+            display: block;
+            position: absolute;
+            width: calc(100% + (#{$stroke-width} * 4));
+            height: calc(100% + (#{$stroke-width} * 4));
+            top: $stroke-width * -2;
+            left: $stroke-width * -2;
+        }
+        &:focus {
+            outline: none;
+        }
+        &:focus::before {
+        outline: $stroke-width solid get-color('gray-medium');
+        outline-offset: -$stroke-width;
+        }
+    }
+    
+}

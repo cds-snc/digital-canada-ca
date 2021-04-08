@@ -1,0 +1,12 @@
+.split-pair {
+  $gap: var(--split-pair-space, #{get-size('500')});
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  .split-half {
+    flex-basis: calc(50% - (#{$gap} / 2));
+    min-width: 16rem;
+    flex-grow: 0;
+  }
+}

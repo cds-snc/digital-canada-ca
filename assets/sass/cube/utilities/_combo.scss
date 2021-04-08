@@ -1,0 +1,6 @@
+.combo {
+    display: flex;
+    > :first-child {
+        flex-grow: 1;
+    }
+}

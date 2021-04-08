@@ -1,0 +1,10 @@
+.listings {
+    display: flex;
+    flex-wrap: wrap;
+    gap: get-size('400');
+    > * {
+        //margin-right: get-size('400');
+        //margin-bottom: get-size('400');
+        flex: 1 0 calc(50% - #{get-size('400')});
+    }
+}

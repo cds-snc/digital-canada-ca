@@ -1,0 +1,6 @@
+.site-head {
+    hr {
+        border: inherit;
+        border-top: $stroke-width / 2 solid get-color('primary')
+    }
+}

@@ -1,5 +1,7 @@
 @charset "utf-8";
 
+@import "../../static/lib-cds/gcweb-dist/GCWeb/css/theme";
+
 @import "cds/mixins";
 @import "cds/variables";
 @import "cds/base";
@@ -8,3 +10,7 @@
 @import "cds/components";
 @import "cds/sections";
 @import "cds/social-font";
+
+[data-system] {
+  @import "cube/global";
+}

@@ -1,0 +1,34 @@
+.site-foot {
+  //This is not normal:
+  margin-bottom: -23px;
+
+  .site-foot__links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .site-foot__list {
+    --flow-space: #{get-size("200")};
+    margin-top: #{get-size("600")};
+    border-top: $stroke-width / 2 solid
+      var(--theme-bg-dark-mode, var(--theme-bg, get-color("gray-medium")));
+    flex-basis: calc(33% - #{get-size("500")});
+    flex-grow: 0;
+    padding-bottom: #{get-size("500")};
+    padding-top: #{get-size("500")};
+  }
+
+  .site-foot__fip {
+    padding-top: #{get-size("500")};
+    padding-bottom: #{get-size("500")};
+    border-top: $stroke-width / 2 solid get-color("gray-medium");
+  }
+  .wmms-nav {
+    display: flex;
+    gap: 1em;
+    a {
+      color: get-color("light");
+      margin-right: 0.5rem;
+    }
+  }
+}

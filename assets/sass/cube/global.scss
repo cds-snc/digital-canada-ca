@@ -1,0 +1,121 @@
+@import "reset";
+@import "config";
+
+@import "../../../node_modules/gorko/gorko.scss";
+
+//Global
+
+body {
+  background: get-color("primary");
+  @include apply-utility("font", "base");
+}
+
+:focus {
+  outline: $stroke-width / 2 solid currentColor;
+  outline-offset: $stroke-width;
+}
+
+a {
+  color: currentColor;
+  text-underline-offset: $stroke-width / 2;
+  @include apply-utility("weight", "thin");
+  &:not([class*="color-"]) {
+    color: get-color("secondary");
+  }
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+svg {
+  // em will match the font size. compared to rem
+  width: 1em;
+  height: 1em;
+}
+
+h1,
+h2,
+h3,
+.heading {
+  line-height: 1.1;
+  max-width: 30ch;
+}
+
+p,
+li,
+blockquote,
+dl,
+table {
+  max-width: 60ch;
+}
+
+[role="list"] {
+  padding-inline-start: 0;
+  margin: 0;
+  li {
+    list-style: none;
+    margin-inline-start: 0;
+  }
+}
+
+.theme-blog {
+  --theme-color: #{get-color("dark")};
+  --theme-bg: #{get-color("blog")};
+}
+
+.theme-primary {
+  --theme-color: #{get-color("dark")};
+  --theme-bg: #{get-color("primary")};
+}
+
+.theme-secondary {
+  --theme-color: #{get-color("light")};
+  --theme-bg: #{get-color("secondary")};
+}
+
+.theme-tools {
+  --theme-color: #{get-color("light")};
+  --theme-bg: #{get-color("tools")};
+  --theme-bg-dark-mode: #329574;
+}
+.theme-career {
+  --theme-color: #{get-color("light")};
+  --theme-bg: #{get-color("career")};
+  --theme-bg-dark-mode: #af7d57;
+}
+
+.visually-hidden {
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: 0;
+  overflow: hidden;
+  position: absolute;
+  width: 1px;
+}
+
+// Import utilities
+@import "utilities/flow";
+@import "utilities/split-pair";
+@import "utilities/combo";
+@import "utilities/region";
+@import "utilities/wrapper";
+
+// Import blocks
+@import "blocks/brand";
+@import "blocks/media";
+@import "blocks/nav";
+@import "blocks/heading";
+@import "blocks/button";
+@import "blocks/icon";
+@import "blocks/field";
+@import "blocks/card";
+
+// Import compositions
+@import "compositions/hero";
+@import "compositions/cta";
+@import "compositions/intro";
+@import "compositions/listings";
+@import "compositions/site-head";
+@import "compositions/site-foot";
+@import "compositions/sign-up";

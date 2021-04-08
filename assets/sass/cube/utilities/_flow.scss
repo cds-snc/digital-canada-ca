@@ -1,0 +1,11 @@
+.flow {
+  &:not([data-flow]) > * + * {
+    margin-top: var(--flow-space, #{get-size('500')});
+  }
+
+  &[data-flow="inline"] > * + * {
+    display: inline-block;
+    margin-left: var(--flow-space, #{get-size('500')});
+  }
+  
+}
