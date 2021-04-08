@@ -15,7 +15,7 @@ We’re hiring a Technical Support Developer. While we have locations in Ottawa,
 
 This position is part of the Software Development Community and reports to the Head of Software Development. This role in our Platform team is at the centre of the customer experience for CDS. We strive in providing the highest quality support and service to our valued customers. The role will require a mix of technical excellence, strong communication, customer service skills and IT service management process knowledge.
 
-Support Developers are classified as [CS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260/) in the Computer Systems group.
+Support Developers are classified as [CS-02 or CS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260/) in the Computer Systems group.
 
 ## You’ll need to accomplish the following things:
 
