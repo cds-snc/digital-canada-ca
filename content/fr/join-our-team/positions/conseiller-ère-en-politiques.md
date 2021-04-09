@@ -4,7 +4,7 @@ type: section
 title: 'Conseiller (ère) en politiques'
 description: >-
   Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) conseiller (ère) en politiques. Bien que nous ayons des bureaux à Ottawa, Montréal, Toronto et Kitchener, nous travaillons en grande partie de manière distribuée et nous embauchons également des candidats dans d’autres régions du Canada.
-archived: false
+archived: true
 translationKey: policy-advisor
 leverId: 3461782f-f182-41f5-8bcc-a1f46c09dd9c
 ---
