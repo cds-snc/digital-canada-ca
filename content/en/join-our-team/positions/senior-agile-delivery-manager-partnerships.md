@@ -52,5 +52,3 @@ CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orie
 
 *Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future.
 
-
-
