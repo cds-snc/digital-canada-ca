@@ -4,7 +4,7 @@ type: section
 title: 'Policy Advisor'
 description: >-
   We’re hiring for a Policy Advisor. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
-archived: false
+archived: true
 translationKey: policy-advisor
 leverId: 3461782f-f182-41f5-8bcc-a1f46c09dd9c
 ---
