@@ -1,40 +1,52 @@
 ---
 layout: job-posting
 type: section
-title: Executive Assistant
+title: 'Executive Assistant '
 description: >-
-  CDS is looking for an executive assistant to work alongside members of our
-  executive team. Do you have a natural inclination toward logistics and
-  planning? Are you the type of person who jumps in with both feet when it comes
-  to taking on new tasks and projects? Do you thrive at handling multiple
-  demands in a rapidly changing environment? Are you collaborative and great to
-  work with? Are you bilingual and love working in both official languages? Are
-  you looking for a job with lots of challenges and room for growth? Can you
-  separate the wheat from the chaff when it comes to a busy schedule and inbox?
+  We’re hiring an Executive Assistant to provide administrative and operational support to senior leaders, classified as AS-02 in the Administrative Services group. This position will report to the Chief of Staff to the CEO.
 archived: true
-translationKey: executive-assistant
+translationKey: executive-assistant-cos
+leverId: de6ae5bc-d267-4539-89b4-c4d1497ccbf0
 ---
-The Canadian Digital Service (CDS) works with federal departments to make the services people depend on simple and easy-to-use. We’re a small but mighty team that is rethinking service design and delivery, engaging users every step of the way. By working in the open, and connecting partners with tools, talent, and training grounded in practice, we’re building capacity across the government for better service delivery. And we need you.
 
-CDS is looking for an executive assistant to work alongside members of our executive team. Do you have a natural inclination toward logistics and planning? Are you the type of person who jumps in with both feet when it comes to taking on new tasks and projects? Do you thrive at handling multiple demands in a rapidly changing environment? Are you collaborative and great to work with? Are you bilingual and love working in both official languages? Are you looking for a job with lots of challenges and room for growth? Can you separate the wheat from the chaff when it comes to a busy schedule and inbox?
+The Canadian Digital Service (CDS) is tasked with changing how the federal government designs and delivers digital services, to reduce the risk of product failure, lower costs, ensure user privacy and system security, and, above all, improves people’s lives by putting their needs and concerns front and center. We believe every experience Canadians have with their government should meet or exceed their reasonable modern expectations that digital services be safe, fast, easy, transparent, and accessible. Working in the open, we’re building capacity across the government for better service delivery. And we need you.
 
-## In this role, you will:
-* Provide strategic administrative and project management
-* Manage calendars and travel planning for internal and external meetings
-* Plan and execute team events, meetings, off-sites, and other special functions
-* Track, organize and prioritize various internal documents from staff 
-* Draft and manage correspondence and communications on behalf of an executive, as appropriate
-* Act as a liaison both internally and externally, maintaining a sense of professionalism and collaboration at all times list
+We’re hiring an Executive Assistant to provide administrative and operational support to senior leaders, classified as AS-02 in the Administrative Services group. This position will report to the Chief of Staff to the CEO.
 
-## You are an excellent candidate if you’re:
-* Responsive to the ever-changing needs of a fast-growing technology team
-* Highly proficient in Google Apps, particularly Google Calendar and Google Docs
-* Highly proficient in Microsoft Office products including Outlook
-* A positive “can-do” spirit
-* A bureaucracy hacker who finds ways to get things done 
-* Able to prioritize multiple tasks in a dynamic environment
-* Trustworthy with sensitive organizational, partner, and personal information
+We are looking for an Executive Assistant who will thrive at managing multiple priorities in a rapidly changing environment, as they work alongside our community of practice Directors and their teams. This is a multi-faceted role that goes beyond traditional administration and correspondence and will provide the opportunity to grow skills in strategy, stakeholder engagement, work management, and policy. CDS uses modern tools to help you get the job done, provides mentorship, coaching and professional development opportunities as well as experience seeing how modern software and digital services are built. If you’re ready to work and learn as part of a caring, mission-driven, fast-paced team; help CDS continuously fine-tune their operations; and play a part in improving services for Canadians, this is the role for you.
 
-At CDS, we don’t just accept difference - we celebrate it. We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
+## We’re looking for someone who will:
+- Manage calendars and logistics for internal and external meetings, as well as future travel.
+- Draft and manage correspondence and communications on behalf of Directors.
+- Plan and execute team events, meetings, off-sites, and other special functions.
+- Track, organize, and prioritize a range of action items, approval requests, and internal documents from staff.
+- Ensure that all meetings have clear agendas and materials are provided in advance
+- Interact with stakeholders and help connect them with the right people at CDS
+- Act as a liaison both internally and externally, maintaining a sense of professionalism and collaboration at all times.
+- Create clarity and structure while working with senior leaders, helping them operationalize their strategic priorities.
+- Be responsible for occasional note-taking and follow up on actions
+- Remain calm under pressure, know how to prioritize, and work as part of a team.
+- Work closely with Business Unit directors, and the offices of operational partners across the Treasury Board Secretariat.
+- Populate Client Relationship management (CRM) systems
 
-CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments.
+## An excellent candidate will be able to:
+- Keep Directors on track to meet commitments and support accountability for results across the team.
+- Create and improve processes and systems for prioritization and tracking.
+- Think on their feet, providing interpretation and advice for Directors as they engage partners and stakeholders inside and outside government.
+- Find creative solutions to problems and make sound judgement calls when faced with uncertainty or incomplete information. 
+- Collaborate and co-create with partners and stakeholders.
+- Be proficient in Microsoft Office, Google Apps (particularly GMail, Calendar, and Docs), and Trello. 
+- Understand how government works and the systems used to run it — with an ability to manage and navigate bureaucracy with ease.
+- Communicate fluently in French and English (in government speak, this role is CBC).
+- Ability to draft correspondence in both official languages and to review translations would be an asset.
+
+We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
+
+At CDS, we don’t just accept difference - we celebrate it. We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we can recognize and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
+
+CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments. We are committed to providing an inclusive and barrier-free work environment, starting with the hiring process. If you need to be accommodated during any phase of the evaluation process, please use the Contact information below to request specialized accommodation. All information received in relation to accommodation will be kept confidential.
+
+[Assessment accommodation](https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html)
+
+Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future. If you have any questions about this, please reach out to cdsrecruitment.recrutementSNC@tbs-sct.gc.ca.
+
