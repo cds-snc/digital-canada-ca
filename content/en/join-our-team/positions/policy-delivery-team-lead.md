@@ -32,7 +32,7 @@ In this role, you’ll have the opportunity to work alongside members of CDS man
 - Manage a team of policy advisors, including to manage assignments and workload, provide coaching and mentoring in their day-to-day work, and to help with career planning and development  
 - Guide policy team members serving on CDS delivery teams, including to help them set goals and priorities, work through problems, identify common themes or challenges across delivery teams and develop solutions, and publish documentation, blog posts and other material in the open to help others across government facing similar situations.
 - Work with the Head of Policy, CDS’s business unit directors and heads of communities to set and deliver on organizational priorities, work through delivery and policy issues, and contribute to cross-community initiatives, delivery practices and processes. 
-- - Help measure the impact CDS is having, with a focus on working alongside other communities at CDS to set and measure product and service improvement 
+  - Help measure the impact CDS is having, with a focus on working alongside other communities at CDS to set and measure product and service improvement 
 - Take practical delivery lessons and contribute to policy team efforts to drive changes to rules, practices and governance to help scale iterative software development and human-centred design across government
 - Support policy team efforts to research and connect the dots between government services and other areas of digital policy, such as access to broadband Internet, data management and policy, or technology and sustainability
 - Lead and present policy and service delivery proposals to senior officials in government to advance CDS’s mandate and mission  
