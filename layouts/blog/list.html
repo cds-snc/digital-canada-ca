@@ -20,7 +20,7 @@
                     {{ end }}                 
                 </div>
                 <div class="author">{{ .Params.author }}</div>
-                <div class="summary">{{ .Params.description | truncate 300 | markdownify }}</div>
+                <div class="summary">{{ .Params.description | truncate 250 | markdownify }}</div>
                 <div class="readmore">
                     <a href="{{ .Permalink }}" aria-label="Lire la suite de {{ .Params.title }}">{{ i18n "read-more" }}
                         <i class='fas fa-arrow-circle-right'></i>
