@@ -5,7 +5,7 @@ title: 'Conseiller (ère) principal (e) en politiques'
 description: >-
   Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) conseiller (ère) principal (e) en politiques. Bien que nous ayons des bureaux à Ottawa, Montréal, Toronto et Kitchener, nous travaillons en grande partie de manière distribuée et nous embauchons également des candidats dans d’autres régions du Canada.
 
-archived: false
+archived: true
 translationKey: senior-policy-advisor
 leverId: 10fdc4df-8417-482c-bce4-12e464b9ab8c
 ---
