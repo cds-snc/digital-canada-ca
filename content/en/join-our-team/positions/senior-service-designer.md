@@ -5,7 +5,7 @@ title: 'Senior Service Designer'
 description: >-
   This role is 2 Year Term and is classified as a CS-04 in the Computer Systems group.
 
-archived: true
+archived: false
 translationKey: sr-service-designer
 leverId: 4d2fb273-8688-47fe-b4db-57e0cc91202d
 ---
@@ -15,8 +15,6 @@ The Canadian Digital Service (CDS) is changing how the federal government design
 To support this important mission, we are looking for a Senior Service Designer. Service designers create and refine end-to-end services to help users complete their goals. Their work delves into crafting design considerations for all the touch-points different people might encounter while using and managing government services. This may involve the creation of—or change to—transactions, products, and systems, and may stretch across digital and non-digital channels provided by different parts of government. 
 
 This role is 2 Year Term and is classified as a [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260) in the Computer Systems group.
-
-**Closing date:** March 31st, 2021
 
 ## In this role, you will: 
 - Be assigned to our partnership business unit, where you would be a member of our consulting or embedded service design and delivery teams, which partner with government departments to improve how they design and deliver their services. 
