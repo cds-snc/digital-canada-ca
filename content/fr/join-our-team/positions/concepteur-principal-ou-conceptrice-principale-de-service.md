@@ -16,8 +16,6 @@ Pour soutenir cette importante mission, nous sommes à la recherche d'un concept
 
 Ce rôle est un poste de durée déterminée de 2 ans et est classé au groupe et niveau [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260).
 
-**Date de clôture :** 31 mars 2021
-
 ## Dans ce rôle, vous allez : 
 - Travailler au sein de notre unité opérationnelle de partenariat, où vous ferez partie de nos équipes de conseil ou de conception et de prestation de services intégrés, qui collaborent avec les ministères gouvernementaux pour améliorer la façon dont ils conçoivent et fournissent leurs services. 
 - Orienter et aider les ministères à concevoir des services qui améliorent l'expérience du personnel interne et des utilisateurs finaux et, par conséquent, améliorent le rendement opérationnel et les résultats en matière de services.
