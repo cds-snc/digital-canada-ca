@@ -5,7 +5,7 @@ title: 'Concepteur principal ou conceptrice principale de service'
 description: >-
   Ce rôle est un poste de durée déterminée de 2 ans et est classé au groupe et niveau CS-04.
 
-archived: true
+archived: false
 translationKey: sr-service-designer
 leverId: 4d2fb273-8688-47fe-b4db-57e0cc91202d
 ---
@@ -15,8 +15,6 @@ Le Service numérique canadien (SNC) change la façon dont le gouvernement féd�
 Pour soutenir cette importante mission, nous sommes à la recherche d'un concepteur principal ou d’une conceptrice principale de service. Les concepteurs et les conceptrices de services créent et affinent des services de bout en bout pour aider les utilisateurs à atteindre leurs objectifs. Leur travail se penche sur l'élaboration de considérations de conception pour tous les points de contact que différentes personnes peuvent rencontrer lors de l'utilisation et de la gestion des services gouvernementaux. Cela peut impliquer la création ou la modification de transactions, de produits et de systèmes, et peut s'étendre sur les voies numériques et non numériques fournies par différentes parties du gouvernement. 
 
 Ce rôle est un poste de durée déterminée de 2 ans et est classé au groupe et niveau [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260).
-
-**Date de clôture :** 31 mars 2021
 
 ## Dans ce rôle, vous allez : 
 - Travailler au sein de notre unité opérationnelle de partenariat, où vous ferez partie de nos équipes de conseil ou de conception et de prestation de services intégrés, qui collaborent avec les ministères gouvernementaux pour améliorer la façon dont ils conçoivent et fournissent leurs services. 
