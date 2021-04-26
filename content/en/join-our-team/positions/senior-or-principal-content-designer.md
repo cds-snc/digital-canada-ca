@@ -4,7 +4,7 @@ type: section
 title: 'Senior or Principal Content Designer'
 description: >-
   This role is classified as a CS-04 or CS-05 in the Computer Systems group.
-archived: false
+archived: true
 translationKey: sr-content-designer
 leverId: 191b5e60-a9d8-4c60-89e5-263aa4347771
 ---
