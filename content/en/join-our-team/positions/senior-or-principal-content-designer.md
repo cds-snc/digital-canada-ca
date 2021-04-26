@@ -4,7 +4,7 @@ type: section
 title: 'Senior or Principal Content Designer'
 description: >-
   This role is classified as a CS-04 or CS-05 in the Computer Systems group.
-archived: true
+archived: false
 translationKey: sr-content-designer
 leverId: 191b5e60-a9d8-4c60-89e5-263aa4347771
 ---
@@ -14,8 +14,6 @@ The Canadian Digital Service (CDS) is changing how the federal government design
 Content design is a UX practice focused on meeting the information needs of users, and how to best organize and present that information in English and French. Content design helps people find what they need, understand what they find, and use it to meet their needs. Content designers help make an experience easy for users by researching their vocabulary and mental models and creating the least amount of content for users to do what they need to do. 
 
 Content designers are in constant collaboration with the multidisciplinary teams, working very closely with researchers, interaction designers, service designers, developers and product managers. This role is classified as a [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260) or [CS-05 ](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260)in the Computer Systems group.
-
-**Closing date:** March 31, 2021
 
 ## In this role, you will:
 - Be assigned to our consulting team, which partners with departments to provide feedback and support to departments as peers, in the form of advice or time-boxed hands-on help, to improve the outcomes of priority federal public services. 
