@@ -5,7 +5,7 @@ title: 'Concepteur principal ou conceptrice principale de service'
 description: >-
   Ce rôle est un poste de durée déterminée de 2 ans et est classé au groupe et niveau CS-04.
 
-archived: false
+archived: true
 translationKey: sr-service-designer
 leverId: 4d2fb273-8688-47fe-b4db-57e0cc91202d
 ---
