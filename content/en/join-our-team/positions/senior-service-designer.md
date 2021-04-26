@@ -16,8 +16,6 @@ To support this important mission, we are looking for a Senior Service Designer.
 
 This role is 2 Year Term and is classified as a [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260) in the Computer Systems group.
 
-**Closing date:** March 31st, 2021
-
 ## In this role, you will: 
 - Be assigned to our partnership business unit, where you would be a member of our consulting or embedded service design and delivery teams, which partner with government departments to improve how they design and deliver their services. 
 - Guide and assist government departments to design services that improve the experiences of internal staff and end users, and as a result improve operational performance and service outcomes.
