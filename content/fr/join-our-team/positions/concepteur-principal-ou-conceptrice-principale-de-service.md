@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: 'Concepteur principal ou conceptrice principale de service'
 description: >-
-  Ce rôle est un poste de durée déterminée de 2 ans et est classé au groupe et niveau CS-04.
+  Nous sommes à la recherche d’un concepteur principal ou d’une conceptrice principale de service. Les concepteurs et les conceptrices de services créent et affinent des services de bout en bout pour aider les utilisateurs à atteindre leurs objectifs.
 
 archived: false
 translationKey: sr-service-designer
