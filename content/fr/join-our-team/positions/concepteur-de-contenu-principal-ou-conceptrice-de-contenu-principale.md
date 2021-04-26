@@ -15,8 +15,6 @@ Le Service numérique canadien (SNC) change la façon dont le gouvernement féd�
 La conception de contenu est une pratique de l’expérience utilisateur (UX) axée sur la satisfaction des besoins d'information des utilisateurs et sur la meilleure façon d'organiser et de présenter ces informations en anglais et en français. La conception de contenu aide les gens à trouver ce dont ils ont besoin, à comprendre ce qu'ils trouvent et à l'utiliser pour répondre à leurs besoins. Les concepteurs et conceptrices de contenu aident à rendre l'expérience conviviale pour les utilisateurs en faisant de la recherche sur le vocabulaire utilisé et sur leurs modèles cognitifs et en créant le moins de contenu possible pour que les utilisateurs puissent faire ce qu’ils ont à faire.
  
 Les concepteurs et conceptrices de contenu sont en collaboration constante avec des équipes multidisciplinaires, travaillant très étroitement avec les chercheurs et chercheuses, les concepteurs et conceptrices d'interactions, les concepteurs et conceptrices de services, les développeurs et développeuses et les chefs de produits. Ce rôle est classé au groupe et niveau [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260) ou [CS-05](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260).
- 
-**Date de clôture :** Le 31 mars 2021
 
 ## Dans ce rôle, vous allez :
 - Travailler en partenariat avec les ministères pour fournir des rétroactions et du soutien en tant qu’intervenants, sous forme de conseils ou d'aide pratique ponctuelle, afin d'améliorer les résultats de services publics fédéraux prioritaires.
