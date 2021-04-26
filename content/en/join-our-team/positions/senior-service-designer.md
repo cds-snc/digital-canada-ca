@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: 'Senior Service Designer'
 description: >-
-  This role is 2 Year Term and is classified as a CS-04 in the Computer Systems group.
+  We are looking for a Senior Service Designer. Service designers create and refine end-to-end services to help users complete their goals. Their work delves into crafting design considerations for all the touch-points different people might encounter while using and managing government services. 
 
 archived: false
 translationKey: sr-service-designer
