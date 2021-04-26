@@ -1,10 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: 'Concepteur de contenu  principal ou conceptrice de contenu principale'
+title: 'Concepteur de contenu principal ou conceptrice de contenu principale'
 description: >-
-  Ce rôle est classé au groupe et niveau CS-04 ou CS-05.
-
+  La conception de contenu est une pratique de l’expérience utilisateur (UX) axée sur la satisfaction des besoins d’information des utilisateurs et sur la meilleure façon d’organiser et de présenter ces informations en anglais et en français. La conception de contenu aide les gens à trouver ce dont ils ont besoin, à comprendre ce qu’ils trouvent et à l’utiliser pour répondre à leurs besoins.
 archived: false
 translationKey: sr-content-designer
 leverId: 191b5e60-a9d8-4c60-89e5-263aa4347771
