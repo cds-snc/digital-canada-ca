@@ -15,8 +15,6 @@ Content design is a UX practice focused on meeting the information needs of user
 
 Content designers are in constant collaboration with the multidisciplinary teams, working very closely with researchers, interaction designers, service designers, developers and product managers. This role is classified as a [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260) or [CS-05 ](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260)in the Computer Systems group.
 
-**Closing date:** March 31, 2021
-
 ## In this role, you will:
 - Be assigned to our consulting team, which partners with departments to provide feedback and support to departments as peers, in the form of advice or time-boxed hands-on help, to improve the outcomes of priority federal public services. 
 - When you see trends or common pain points, you'll work with your teammates to create and publish products (e.g. workshops, tools, or guides) to help better meet the information needs of the government and extend their reach to serve more departments.
