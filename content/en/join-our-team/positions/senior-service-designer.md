@@ -5,7 +5,7 @@ title: 'Senior Service Designer'
 description: >-
   This role is 2 Year Term and is classified as a CS-04 in the Computer Systems group.
 
-archived: false
+archived: true
 translationKey: sr-service-designer
 leverId: 4d2fb273-8688-47fe-b4db-57e0cc91202d
 ---

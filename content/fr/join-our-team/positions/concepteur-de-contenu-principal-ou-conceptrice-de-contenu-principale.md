@@ -5,7 +5,7 @@ title: 'Concepteur de contenu  principal ou conceptrice de contenu principale'
 description: >-
   Ce rôle est classé au groupe et niveau CS-04 ou CS-05.
 
-archived: false
+archived: true
 translationKey: sr-content-designer
 leverId: 191b5e60-a9d8-4c60-89e5-263aa4347771
 ---
