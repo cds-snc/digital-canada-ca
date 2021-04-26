@@ -4,7 +4,7 @@ type: section
 title: 'Senior Policy Advisor'
 description: >-
   We’re hiring for a Senior Policy Advisor. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
-archived: false
+archived: true
 translationKey: senior-policy-advisor
 leverId: 10fdc4df-8417-482c-bce4-12e464b9ab8c
 ---
