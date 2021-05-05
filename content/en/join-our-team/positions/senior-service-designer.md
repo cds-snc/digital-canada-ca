@@ -14,7 +14,7 @@ The Canadian Digital Service (CDS) is changing how the federal government design
 
 To support this important mission, we are looking for a Senior Service Designer. Service designers create and refine end-to-end services to help users complete their goals. Their work delves into crafting design considerations for all the touch-points different people might encounter while using and managing government services. This may involve the creation of—or change to—transactions, products, and systems, and may stretch across digital and non-digital channels provided by different parts of government. 
 
-This role is 2 Year Term and is classified as a [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260) in the Computer Systems group. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
+This role is 2 Year Term and is classified as a [CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260) in the Computer Systems group. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada. There are two (2) openings for the Senior Service Designer opportunities: one (1) is Bilingual Imperative (in government terms CBC); and one (1) is English Essential**.
 
 ## In this role, you will: 
 - Be assigned to our partnership business unit, where you would be a member of our consulting or embedded service design and delivery teams, which partner with government departments to improve how they design and deliver their services. 
@@ -34,6 +34,12 @@ This role is 2 Year Term and is classified as a [CS-04](https://www.tbs-sct.gc.c
 - You are confident in navigating the complexities of public services and/or government departments, understanding the systems they’re part of in order to affect change.
 - You are comfortable dealing with ambiguity and working within constraints, facilitating decisions and assessing risks through evidence-based design. 
 
+You'll join the Partnerships business unit, which grows our relationships with other government departments and helps them improve how they design and deliver digital services.  
+
+Our Business Development team searches for opportunities and helps us prioritize the engagements we take on by their impact and feasibility. When we begin to partner, our Consulting Team helps us meet the department where they are, take stock, and deliver the specific help they need by providing guidance or hands-on assistance to change how they serve people using technology. Where a partner wants more help to change how they’re working and show what's possible, we'll provide an Embedded Team to work side-by-side and help them build high fidelity prototypes while sharing our methods hands-on. 
+
+In all of our engagements, we work with public service leadership, service owners, and our colleagues to make the case for change, introduce new ways of working, and deliver the greatest public value. This means that regardless of your title and position, you'll need to be outcome focused, able to wear multiple hats, and ready to navigate government bureaucracy to get things done. Common themes for engagements include: change management, procurement (i.e. buying software or services), human centred design, and leveraging commodity solutions (i.e. cloud, etc.).
+
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
 
 At CDS, we don’t just accept difference - we celebrate it. We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we can recognize and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
@@ -43,4 +49,6 @@ CDS invites all applicants regardless of race, ethnicity, religion, sexual orien
 [Assessment accommodation](https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html)
 
 *Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future.
+
+**A pool of qualified persons resulting from this process MAY be created and MAY be used to fill similar position with linguistic profiles (english essential, bilingual imperative BBB/BBB, bilingual imperative CBC/CBC, as well as tenures (indeterminate, deployment, acting, assignment, secondment, specified period) which may vary according to the position being staffed.
 
