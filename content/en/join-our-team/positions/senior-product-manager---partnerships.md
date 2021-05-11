@@ -32,6 +32,7 @@ In all of our engagements, we work with public service leadership, service owner
 5. Define measurable outcomes and goals and reporting against them to demonstrate progress and challenges
 6. Communicate the benefits of your products and share the experience of delivery to get organizational buy in, build the capability of others and contribute to create change 
 7. Coach and mentor colleagues in CDS and partner departments to improve the practice of product management and be a catalyst for inclusive and outcome-oriented change management processes.  
+8. Manage product managers to support them in their growth and evaluate their performance. 
 
 ## We’ll evaluate you based on your: 
 1. Experience and approach for leading multidisciplinary teams in the design, development, release and continuous improvement of digital products through the different lifecycle stages 
