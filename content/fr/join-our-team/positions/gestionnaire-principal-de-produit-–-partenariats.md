@@ -32,6 +32,7 @@ Dans le cadre de tous nos engagements, nous travaillons avec des dirigeants de l
 5. Définir des résultats et des objectifs mesurables et rendre compte de ceux-ci pour démontrer les progrès et les défis
 6. Communiquer les avantages de vos produits et partager l'expérience de la livraison pour mobiliser l'organisation, renforcer les capacités des autres et contribuer au changement 
 7. Encadrer des collègues au SNC et dans d’autres ministères partenaires pour améliorer la pratique de gestion des produits et promouvoir des processus de gestion du changement inclusifs et axés sur les résultats.  
+8. Superviser des gestionnaires de produit en les accompagnant dans leur développement professionnel et en évaluant leur performance.
 
 ## Vous serez évalué en fonction de votre : 
 1. Expérience et approche de gestion d’équipes multidisciplinaires chargées de la conception, du développement, de la livraison et de l'amélioration continue de produits numériques dans les différentes étapes du cycle de vie 
