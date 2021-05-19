@@ -39,6 +39,7 @@ Nous avons recueilli plus de 30 histoires de changement à l’aide de cet exerc
 Plus nous écoutions les histoires de nos collègues, plus nous nous sommes rendus à l’évidence que cet exercice était attendu depuis longtemps. Les changements intangibles qu’on nous a communiqués étaient très encourageants. Certains n’ont même pas été remarqués jusqu’à ce que nous prenions un peu de recul pour réfléchir. Au fil de chaque entrevue, nos collègues eux-mêmes commençaient à s’en rendre compte. 
 
 Dans un des cas, après réflexion, la personne interrogée s’est rendu compte à quel point l’exposition aux méthodes agiles avait donné à la direction une nouvelle perspective et un nouveau sentiment de confiance dans l’équipe :
+
 > « Dans l’ensemble, la GRC disposait déjà d’un solide jeu de compétences. La clé, c’était de trouver une autre façon de fonctionner au sein de la GRC. 
 Lorsque la direction s’est rendu compte qu’en travaillant de façon agile, un projet n’est jamais terminé, elle a été en mesure de prendre du recul pour mieux comprendre la situation. Ainsi, la direction a pu adopter une approche plus passive en donnant à ses employés plus d’autonomie et de contrôle sur le travail qu’ils réalisaient. »     
 
