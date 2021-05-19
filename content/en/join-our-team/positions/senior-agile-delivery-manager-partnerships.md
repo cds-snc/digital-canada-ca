@@ -4,7 +4,7 @@ type: section
 title: 'Senior Agile Delivery Manager (Partnerships)'
 description: >-
   We’re hiring for a Senior Agile Delivery Manager. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
-archived: false
+archived: true
 translationKey: sr-agile-delivery-manager-partnerships
 leverId: 9f8e6fae-63c8-4b9d-86f9-a366b32d4fbe
 ---

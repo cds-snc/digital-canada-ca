@@ -6,7 +6,7 @@ description: >-
 author: 'Megan Beretta, CDS; Linda McNamara and Shelina Virani-Potvin, Office of the Chief Human Resources Officer'
 date: '2021-03-18T13:30:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/banner_ochro_blog_8f66eccf8f.jpeg
-image-alt: A quilt woven together with different patches, designs, and team members.
+image-alt: A quilt woven together with different patches, designs and team members.
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_ochro_blog_8f66eccf8f.jpeg
 translationKey: blog-busting-talent-myths
 ---
