@@ -38,6 +38,7 @@ We collected more than 30 stories of change from this exercise. Some were as sma
 As we collected people’s stories, it became clear that this exercise was long overdue. The intangible changes shared were very encouraging. Some weren’t even noticed until we took a step back to reflect. As we progressed through each interview, the interviewees themselves began to realize this. 
 
 For example, after reflection, one person realized how exposure to agile methods gave management a new perspective and sense of trust in the team:
+
 > “Overall, the RCMP already had a strong skillset in place. The key was to have a different approach to how the RCMP was operating. 
 Once management began to realize, when working in agile, the project is never finished, they were able to step back and gain a greater perspective. This allowed management to take a hands-off approach on projects, and gave employees more autonomy and control over the work they were currently doing.“     
 
