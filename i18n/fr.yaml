@@ -1,5 +1,7 @@
 not-found:
   other: "Oups, désolé!"
+all-newsletter-link:
+  other: "Lire l'infolettre"
 about-this-site:
   other: "À propos du site"
 aria-canada-website:
@@ -199,9 +201,9 @@ rcmp-research:
 notify-research:
   other: "Participez à notre recherche"
 subscribe-title:
-  other: "Abonnez-vous à notre infolettre!"
+  other: "Abonnez-vous à notre infolettre"
 subscribe-note:
-  other: "Inscrivez-vous à notre liste d’envoi pour recevoir de l’information sur les postes disponibles, les nouvelles de nos projets et les nouveaux billets de blogue du SNC."
+  other: "Inscrivez-vous à l’infolettre pour tout savoir sur nos postes à pourvoir, nos possibilités d’apprentissage et nos derniers projets."
 subscribe-id:
   other: "//canada.us15.list-manage.com/subscribe/post?u=729a207773f7324e217a1d945&amp;id=5fe89f4d28"
 email-address:

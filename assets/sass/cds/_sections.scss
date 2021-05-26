@@ -1252,8 +1252,8 @@ article.post {
   }
 
   #mc-embedded-subscribe {
-    background-color: $dark-grey;
-    color: $white;
+    background-color: transparent;
+    color: $dark-grey;
     border-radius: 0;
     border: 2px solid $dark-grey;
     margin: 23px 0;
@@ -1268,6 +1268,11 @@ article.post {
       background-color: $black;
     }
   }
+}
+
+.button-arrow {
+  display: inline-block;
+  color: white;
 }
 
 .newsletter-subscribe {
