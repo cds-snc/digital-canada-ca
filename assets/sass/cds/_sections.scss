@@ -1262,16 +1262,20 @@ article.post {
     padding-bottom: 8px;
     padding-left: 3rem;
     padding-right: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
     &:hover {
       border: 2px solid $black;
-      background-color: $black;
+      background-color: darken($primary-color, 20);
     }
   }
 }
 
 .button-arrow {
   display: inline-block;
+  padding-left: 1rem;
   color: white;
 }
 

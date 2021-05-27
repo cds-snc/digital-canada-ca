@@ -1,14 +1,14 @@
-$primary-color: #1d344b;
+$primary-color: #1d344b !global;
 
 $active-nav-background-colour: #110b0a;
 
 // Colours
-$engagement-color   : $primary-color !default;
-$organizing-color   : $primary-color !default;
-$talent-color       : $primary-color !default;
-$design-color       : $primary-color !default;
-$foundations-color  : $primary-color !default;
-$yourthoughts-color : $primary-color !default;
+$engagement-color   : $primary-color !global !default;
+$organizing-color   : $primary-color !global !default;
+$talent-color       : $primary-color !global !default;
+$design-color       : $primary-color !global !default;
+$foundations-color  : $primary-color !global !default;
+$yourthoughts-color : $primary-color !global !default;
 
 // Image hosting
 $image-base-url: "https://de2an9clyit2x.cloudfront.net";
