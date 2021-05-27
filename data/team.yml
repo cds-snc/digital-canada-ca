@@ -286,6 +286,16 @@ team:
     email: Clementine.Hahn@tbs-sct.gc.ca
     twitter: ClementineHahn
   - archived: false
+    name: Clément Janin
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_clement_janin_fd65fe4d6d
+    email: Clement.Janin@tbs-sct.gc.ca
+    github: craigzour
+    linkedin: janinclement
+    twitter: craigzour
+  - archived: false
     name: Courtney Claessens
     title:
       en: Product Management
@@ -294,6 +304,14 @@ team:
     email: Courtney.Claessens@tbs-sct.gc.ca
     linkedin: courtneyclaessens
   - archived: false
+    name: Dan Sinclair
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_dan_sinclair_bafa7f2297
+    email: dan.sinclair@tbs-sct.gc.ca
+    github: dj2
+  - archived: false
     name: Dave Samojlenko
     title:
       en: Development
@@ -301,6 +319,22 @@ team:
     imagehash: dave_samojlenko_fe93f1044d
     github: dsamojlenko
     twitter: dsamojlenko
+  - archived: false
+    name: Dee Nguyen
+    title:
+      en: Internal Operations
+      fr: Opérations internes
+    imagehash: dee_nguyen_4dd02d00c6
+    email: dee.nguyen@tbs-sct.gc.ca
+    github: dnngyn 
+    linkedin: dnguyen420
+  - archived: false
+    name: Edwin Imidy
+    title:
+      en: Talent
+      fr: Talent
+    imagehash: edwin_imidy_2172440310
+    email: edwin.imidy@tbs-sct.gc.ca
   - archived: false
     name: Élise Cossette
     title:
@@ -359,6 +393,13 @@ team:
     imagehash: small_ioana_contu_f8973b676d
     email: ioana.contu@tbs-sct.gc.ca
   - archived: false
+    name: Janet Davidson
+    title:
+      en: Talent
+      fr: Talent
+    imagehash: small_janet_davidson_8b400066d0
+    email: janet.davidson@tbs-sct.gc.ca
+  - archived: false
     name: Jeana Frost
     title:
       en: Design Research
@@ -380,6 +421,15 @@ team:
       fr: Liaison et diffusion
     imagehash: jessica_loadenthal_eeb5d01c0e
     email: Jessica.Loadenthal@tbs-sct.gc.ca
+  - archived: false
+    name: Jimmy Royer
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_jimmy_royer_373cd9b071
+    github: jimleroyer
+    linkedin: jimleroyer
+    twitter: jimleroyer
   - archived: false
     name: Johanna Button
     title:
@@ -422,6 +472,13 @@ team:
       fr: Conception
     imagehash: kate_wilhelm_dd0f381acd
     email: kate.wilhelm@tbs-sct.gc.ca
+  - archived: false
+    name: Keenan Wong
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    imagehash: keenan_wong_3e28ac5855
+    linkedin: akeenanwong
   - archived: false
     name: Kelsey Harris
     title:
