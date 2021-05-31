@@ -4,7 +4,7 @@ type: section
 title: 'Senior Product Manager - Partnerships '
 description: >-
   We’re hiring for a Senior Product Manager. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
-archived: false
+archived: true
 translationKey: sr-product-manager-partnerships
 leverId: ca495bda-8647-4f07-9e3c-5065751c0840
 ---

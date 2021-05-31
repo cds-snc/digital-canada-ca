@@ -14,11 +14,9 @@ Powered by [Hugo](https://gohugo.io/), and the [Web Experience Toolkit](https://
     git clone https://github.com/cds-snc/digital-canada-ca.git
     ```
 
-2. If you do not have Hugo installed on your machine, install it:
+2. If you do not have Hugo installed on your machine, you will need to install it. We are running on an older version of Hugo ([v0.55.6](https://github.com/gohugoio/hugo/releases/tag/v0.55.6)). You can grab the appropriate [tar file here](https://github.com/gohugoio/hugo/releases/tag/v0.55.6), making sure to select the extended version. Then, [follow these instructions for installing it](https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/installing-on-mac/#from-tarball). If you run into permissions issues, [here is a handy article to help fix the permissions](https://codewithhugo.com/catalina-permission-command-line-fix/).
 
-    ```
-    brew install hugo
-    ```
+We'd love to upgrage to the newer version, however it results in some breaking changes (including hot builds not working reliably). [Would you like to help us?](https://github.com/cds-snc/digital-canada-ca/issues/2052)
 
 3. Serve:
 
