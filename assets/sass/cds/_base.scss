@@ -14,6 +14,12 @@
 @include font-face("HKGrotesk", " ../fonts/HKGrotesk-Light",100);
 @include font-face("HKGrotesk", " ../fonts/HKGrotesk-LightItalic",100, italic);
 
+
+// TODO: SourceSansPro is our new font and we need to phase out HKGrotesk and replace with SourceSans. 
+// For now, I'm just including the bare minimum needed for the newsletter component
+@include font-face("SourceSansPro", "../fonts/SourceSansPro-SemiBold",500);
+@include font-face("SourceSansPro", "../fonts/SourceSansPro-Regular",300);
+
 @import "font-awesome/fontawesome";
 @import "font-awesome/solid.scss";
 @import "font-awesome/brands.scss";
@@ -232,4 +238,24 @@ ol ul, ol ol, ul ul, ul ol {
 
 .italic {
 	font-style: italic;
+}
+
+@mixin major {
+	font-family	: "SourceSansPro", sans-serif !important;
+	font-size: 4.5rem !important;
+	font-weight: 300;
+	line-height: 1.08;
+}
+
+@mixin paragraph {
+	font-family	: "SourceSansPro", sans-serif !important;
+	font-size: 2.2rem !important;
+	line-height: 1.59;
+}
+
+@mixin label {
+	font-family	: "SourceSansPro", sans-serif !important;
+	font-size: 2.25rem !important;
+	font-weight: 600;
+	line-height: 1.244;
 }

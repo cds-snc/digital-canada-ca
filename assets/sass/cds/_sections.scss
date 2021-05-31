@@ -1195,7 +1195,7 @@ article.post {
   .email {
     border-radius: 0;
     border: 2px solid $dark-grey;
-    height: 42px;
+    height: 48px;
     font-weight: 100;
     font-size: 2rem;
     width: 100%;
@@ -1210,6 +1210,7 @@ article.post {
     padding: 0; 
     display: flex;
     flex-direction: row;
+    margin-bottom: 25px;
 
     @include mobile_only {
       display: block;
@@ -1219,9 +1220,9 @@ article.post {
   label[for="mce-EMAIL"] {
     display: block !important;
     padding-bottom: 0.5rem;
-    font-size: 2rem;
+    margin: 0;
     color: $dark-grey;
-    font-weight: 100;
+    @include label;
 
     @include mobile_only {
       font-size: 1.75rem;
@@ -1237,6 +1238,7 @@ article.post {
     text-align: left;
     margin-top: 1rem;
     padding-left: 0;
+    display: flex;
 
     @include mobile_only {
       width: 100%;
@@ -1248,7 +1250,10 @@ article.post {
     margin-top: 0;
     padding-left: 0;
 
-    a { font-size: 1.5rem; }
+    a { 
+      @include label; 
+      &:first-child { margin-right: 23px; }
+    }
   }
 
   #mc-embedded-subscribe {
@@ -1256,15 +1261,15 @@ article.post {
     color: $dark-grey;
     border-radius: 0;
     border: 2px solid $dark-grey;
-    margin: 23px 0;
-    margin-bottom: 0;
-    padding-top: 7px;
-    padding-bottom: 8px;
+    margin: 0;
+    align-self: flex-end;
+    height: 48px;
     padding-left: 3rem;
     padding-right: 3rem;
     display: flex;
     align-items: center;
     justify-content: center;
+    @include label;
 
     &:hover {
       border: 2px solid $black;
@@ -1280,19 +1285,25 @@ article.post {
 }
 
 .newsletter-subscribe {
+  margin: 0 5rem;
   padding-top: 4rem;
   padding-bottom: 4rem;
   background-color: $primary-color;
 
+  .newsletter-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
   h2 {
+    @include major;
     text-align: left;
-    font-size: 3.5rem;
     margin-bottom: 2rem;
   }
 
   p {
-   font-size: 2rem;
-   line-height: 1.1em;
+    @include paragraph;
   }
 
   a {
