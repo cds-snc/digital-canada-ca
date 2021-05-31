@@ -1291,6 +1291,8 @@ article.post {
   background-color: $primary-color;
 
   .newsletter-container {
+    //negative margin to counteract the padding on container above
+    margin: 0 -15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
