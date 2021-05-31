@@ -5,6 +5,7 @@ description: >-
   A 101 on research interviewing.
 phase: live
 status: in-flight
+productkind: resource
 onhomepage: false
 contact:
   - email: CDS-SNC@tbs-sct.gc.ca

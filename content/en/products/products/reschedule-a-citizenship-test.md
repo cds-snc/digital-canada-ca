@@ -5,6 +5,7 @@ description: >-
   A service that allows people to reschedule their citizenship test online, moving away from paper-based processes and providing a simpler, easier and faster user experience for citizenship applicants.
 phase: beta
 status: past
+productkind: partnership
 onhomepage: false
 contact:
   - email: CDS-SNC@tbs-sct.gc.ca

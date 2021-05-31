@@ -5,6 +5,7 @@ description: >-
   An online tool to check which government sites and web services are meeting good security practices, such as requiring privacy-protecting Hypertext Transfer Protocol Secure (HTTPS) connections.
 phase: beta
 status: past
+productkind: partnership
 onhomepage: false
 contact:
   - email: courtney.claessens@tbs-sct.gc.ca

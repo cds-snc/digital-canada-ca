@@ -5,6 +5,7 @@ description: >-
   An application to replace internal paper-based briefing binders.
 phase: alpha
 status: past
+productkind: partnership
 onhomepage: false
 contact:
   - email: mario.garneau@tbs-sct.gc.ca

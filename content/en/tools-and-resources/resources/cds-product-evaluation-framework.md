@@ -5,6 +5,7 @@ description: >-
   An outline of how CDS evaluates products and how they are delivered.
 phase: live
 status: in-flight
+productkind: resource
 onhomepage: false
 contact:
   - email: CDS-SNC@tbs-sct.gc.ca

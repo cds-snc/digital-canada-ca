@@ -5,6 +5,7 @@ description: >-
   Exploring how to improve service delivery for Canadians with disabilities and their children who apply for Canada Pension Plan (CPP) benefits.
 phase: alpha
 status: in-flight
+productkind: partnership
 onhomepage: true
 contact:
   - email: courtney.claessens@tbs-sct.gc.ca

@@ -72,7 +72,7 @@
 
           {{ $blog_url := "picking-our-projects" }}
           {{ if eq $.Site.Language.Lang "fr" }}
-          {{ $blog_url = "choisir-nos-projets" }}
+            {{ $blog_url = "choisir-nos-projets" }}
           {{ end }}
           <a href="{{with $.Site.GetPage $blog_url}}{{.Permalink}}{{ end }}">
             {{ i18n "blog-post" }}.
@@ -83,7 +83,7 @@
   </div>
 
   <!-- In-flight partnerships -->
-  {{ $products := where .Site.Pages ".File.Dir" "==" "products/products/" }}
+  {{ $products := where .Site.Pages ".Params.productkind" "==" "partnership" }}
   <div class='container'>
     <div class='row'>
       <div class='col-xs-12'>
@@ -93,13 +93,13 @@
     <div class='row equal'>
       {{ $inflight := where .Site.Pages ".Params.status" "==" "in-flight" }}
       {{ range $elem_index, $elem_val := $inflight | intersect $products }}
-      {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
-    </div>
-    <div class='row equal'>
-      {{ end }}
-      <div class='col-md-6 col-xs-12'>
-        {{ .Render "list"}}
-      </div>
+        {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+          </div>
+          <div class='row equal'>
+        {{ end }}
+        <div class='col-md-6 col-xs-12'>
+          {{ .Render "list"}}
+        </div>
       {{ end }}
     </div>
   </div>
@@ -114,13 +114,13 @@
     <div class='row equal'>
       {{ $past := where .Site.Pages ".Params.status" "==" "past" }}
       {{ range $elem_index, $elem_val := $past | intersect $products }}
-      {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
-    </div>
-    <div class='row equal'>
-      {{ end }}
-      <div class='col-md-6 col-xs-12'>
-        {{ .Render "list"}}
-      </div>
+        {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+          </div>
+          <div class='row equal'>
+        {{ end }}
+        <div class='col-md-6 col-xs-12'>
+          {{ .Render "list"}}
+        </div>
       {{ end }}
     </div>
   </div>

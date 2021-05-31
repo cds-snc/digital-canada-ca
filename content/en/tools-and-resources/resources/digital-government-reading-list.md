@@ -5,6 +5,7 @@ description: >-
   A list of articles to learn more about digital service delivery and technology modernization.
 phase: live
 status: in-flight
+productkind: resource
 onhomepage: false
 contact:
   - email: sean.boots@tbs-sct.gc.ca

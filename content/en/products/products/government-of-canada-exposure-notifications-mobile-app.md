@@ -6,6 +6,7 @@ description: >-
 product-url: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html
 phase: live
 status: in-flight
+productkind: partnership
 onhomepage: true
 contact:
   - email: CDS-SNC@tbs-sct.gc.ca

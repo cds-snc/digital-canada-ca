@@ -6,6 +6,7 @@ description: >-
 product-url: https://github.com/cds-snc/bundle-size-tracker
 phase: beta
 status: in-flight
+productkind: platform-tool
 onhomepage: false
 contact:
   - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca

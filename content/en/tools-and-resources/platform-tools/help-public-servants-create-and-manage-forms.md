@@ -6,6 +6,7 @@ description: >-
 product-url: https://forms-formulaires.alpha.canada.ca/id/20
 phase: alpha
 status: in-flight
+productkind: platform-tool
 onhomepage: false
 contact:
   - email: steven.talbot@cds-snc.ca

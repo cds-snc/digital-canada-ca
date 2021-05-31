@@ -6,6 +6,7 @@ description: >-
 product-url: https://impact.canada.ca/
 phase: beta
 status: past
+productkind: partnership
 onhomepage: false
 contact:
   - email: CDS-SNC@tbs-sct.gc.ca

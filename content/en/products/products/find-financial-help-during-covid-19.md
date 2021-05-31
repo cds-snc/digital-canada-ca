@@ -6,6 +6,7 @@ description: >-
 product-url: https://covid-benefits.alpha.canada.ca/en/start
 phase: alpha
 status: past
+productkind: partnership
 onhomepage: false
 contact:
   - email: CDS-SNC@tbs-sct.gc.ca

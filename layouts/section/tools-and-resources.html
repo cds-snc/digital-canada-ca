@@ -23,7 +23,7 @@
           </div>
         </div>
 
-      {{ $products := where .Site.Pages ".File.Dir" "==" "tools-and-resources/platform-tools/" }}
+      {{ $products := where .Site.Pages ".Params.productkind" "==" "platform-tool" }}
       <div class='row equal'>
         {{ $inflight := where .Site.Pages ".Params.status" "==" "in-flight" }}
         {{ range $elem_index, $elem_val := $inflight | intersect $products }}
@@ -40,24 +40,23 @@
 
         <!-- RESOURCES LIST -->
       <div class="section tools-and-resources--resources">
-
-          <div class="col-xs-12">
-            <h2>{{ i18n "tools-and-resources-resources-title" | safeHTML }}</h2>
-            <p>{{ i18n "tools-and-resources-resources-description" | safeHTML }}</p>
+        <div class="col-xs-12">
+          <h2>{{ i18n "tools-and-resources-resources-title" | safeHTML }}</h2>
+          <p>{{ i18n "tools-and-resources-resources-description" | safeHTML }}</p>
+        </div>
+        {{ $products := where .Site.Pages ".Params.productkind" "==" "resource" }}
+        <div class='row equal'>
+          {{ $inflight := where .Site.Pages ".Params.status" "==" "in-flight" }}
+          {{ range $elem_index, $elem_val := $inflight | intersect $products }}
+          {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+        </div>
+        <div class='row equal'>
+          {{ end }}
+          <div class='col-md-6 col-xs-12'>
+            {{ .Render "list"}}
           </div>
-          {{ $products := where .Site.Pages ".File.Dir" "==" "tools-and-resources/resources/" }}
-          <div class='row equal'>
-            {{ $inflight := where .Site.Pages ".Params.status" "==" "in-flight" }}
-            {{ range $elem_index, $elem_val := $inflight | intersect $products }}
-            {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
-          </div>
-          <div class='row equal'>
-            {{ end }}
-            <div class='col-md-6 col-xs-12'>
-              {{ .Render "list"}}
-            </div>
-            {{ end }}
-          </div>
+          {{ end }}
+        </div>
       </div>
   </section>
 </div>

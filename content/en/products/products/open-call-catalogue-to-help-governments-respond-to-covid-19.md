@@ -6,6 +6,7 @@ description: >-
 product-url: https://opencall-appelouvert.alpha.canada.ca/#/
 phase: alpha
 status: in-flight
+productkind: partnership
 onhomepage: true
 contact:
   - email: honey.dacanay@da-an.ca

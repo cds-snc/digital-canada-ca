@@ -6,6 +6,7 @@ description: >-
 product-url: https://github.com/cds-snc/a11y-tracker
 phase: alpha
 status: in-flight
+productkind: platform-tool
 onhomepage: false
 contact:
   - email: julie-ann.rowsell@tbs-sct.gc.ca

@@ -5,6 +5,7 @@ description: >-
   Exploring a service to create a modern, single point of access to all tenders across governments, including publicly funded academic, social, and health institutions.
 phase: discovery
 status: past
+productkind: partnership
 onhomepage: false
 contact:
   - email: steven.talbot@cds-snc.ca

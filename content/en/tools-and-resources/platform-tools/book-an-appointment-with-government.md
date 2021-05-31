@@ -5,6 +5,7 @@ description: >-
   Researching a common way of booking appointments with government, to get people the in-person assistance they need.
 phase: discovery
 status: in-flight
+productkind: platform-tool
 onhomepage: false
 contact:
   - email: steven.talbot@cds-snc.ca

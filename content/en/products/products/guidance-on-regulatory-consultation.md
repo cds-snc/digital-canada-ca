@@ -5,6 +5,7 @@ description: >-
   Providing guidance on efforts to engage Canadians on regulations by identifying and validating user and business needs, conducting a market analysis of existing digital products, and presenting recommendations concerning procuring a product vs. building and maintaining a custom product.
 phase: discovery
 status: past
+productkind: partnership
 onhomepage: false
 contact:
   - email: CDS-SNC@tbs-sct.gc.ca

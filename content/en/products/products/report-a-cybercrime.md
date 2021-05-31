@@ -5,6 +5,7 @@ description: >-
   Iterating on a service that makes it easier for victims of cybercrime to report an incident and get guidance on what they can do to protect themselves.
 phase: beta
 status: in-flight
+productkind: partnership
 onhomepage: true
 contact:
   - email: emily.kuret@tbs-sct.gc.ca

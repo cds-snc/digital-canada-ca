@@ -6,6 +6,7 @@ description: >-
 product-url: https://claim-tax-benefits.herokuapp.com/start
 phase: beta
 status: past
+productkind: partnership
 onhomepage: false
 contact:
   - email: clementine.hahn@tbs-sct.gc.ca

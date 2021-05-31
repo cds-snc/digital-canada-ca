@@ -5,6 +5,7 @@ description: >-
   An online tool to make it easier for Veterans and their family members to determine which benefits, programs, and services are relevant to them.
 phase: live
 status: past
+productkind: partnership
 onhomepage: false
 contact:
   - email: courtney.claessens@tbs-sct.gc.ca
