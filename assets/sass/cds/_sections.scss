@@ -1238,6 +1238,7 @@ article.post {
     text-align: left;
     margin-top: 1rem;
     padding-left: 0;
+    padding-right: 0;
     display: flex;
 
     @include mobile_only {
@@ -1257,6 +1258,9 @@ article.post {
   }
 
   #mc-embedded-subscribe {
+    @include mobile_only {
+      width: 100%;
+    }
     background-color: transparent;
     color: $dark-grey;
     border-radius: 0;
@@ -1285,6 +1289,9 @@ article.post {
 }
 
 .newsletter-subscribe {
+  @include mobile_only {
+    margin: 0 3rem;
+  }
   margin: 0 5rem;
   padding-top: 4rem;
   padding-bottom: 4rem;
@@ -1294,6 +1301,7 @@ article.post {
     //negative margin to counteract the padding on container above
     margin: 0 -15px;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
   }
