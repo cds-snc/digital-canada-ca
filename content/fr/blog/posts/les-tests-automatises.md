@@ -18,7 +18,6 @@ image-alt: >-
   face d’elle qui montre un signe d’accord.
 translationKey: automated-testing-blog
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_automated_testing_76c2e620d6.jpg
-processed: 1550672962167
 ---
 
 Dans le cadre de l’interface de programmation d’applications (API) développée avec Ressources naturelles Canada (RNCan), nous suivons un processus commun d’intégration continue (IC), qui comprend l’utilisation intensive de tests automatisés. À notre avis, les tests d’IC et les tests automatisés constituent une condition fondamentale à la production et au maintien de produits logiciels de haute qualité.

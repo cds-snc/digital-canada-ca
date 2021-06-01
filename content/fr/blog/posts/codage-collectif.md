@@ -14,7 +14,6 @@ image-alt: >-
   web.
 translationKey: community-driven-coding
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_david_https_header_b2045a7bfc.jpg
-processed: 1550672961814
 ---
 
 Si vous cherchez un peu, vous pouvez trouver de la solidarité autour de vous. Le développement de logiciels ouverts n’y fait pas exception. De par sa nature, le développement ouvert trouve sa source dans la collectivité. Grâce au partage, les gens peuvent tirer parti du travail de chacun, ce qui facilite la tâche de tout le monde.
@@ -30,7 +29,7 @@ En prime, nous avons pu profiter de l’expérience d’Eric, qui nous a aidés 
 * du type de volume de trafic observé sur Pulse
 * de qui étaient les utilisateurs.
 
-La coopération s’est établie dans les deux sens. De notre côté, nous avons offert quelques améliorations : éléments de convivialité de base, connexion plus formelle et éléments de raffinement. L’ajout le plus important a été la fonction de test automatisé. Pendant le développement, nous effectuons des tests pour vérifier que le système fonctionne bien; notre ajout signifie que chaque fois qu’un changement est apporté, un test est exécuté automatiquement pour s’assurer que ce changement n’a rien cassé. 
+La coopération s’est établie dans les deux sens. De notre côté, nous avons offert quelques améliorations : éléments de convivialité de base, connexion plus formelle et éléments de raffinement. L’ajout le plus important a été la fonction de test automatisé. Pendant le développement, nous effectuons des tests pour vérifier que le système fonctionne bien; notre ajout signifie que chaque fois qu’un changement est apporté, un test est exécuté automatiquement pour s’assurer que ce changement n’a rien cassé.
 
 Et la coopération continue. La semaine passée, lors d’un test nous avons découvert un bogue. Les valeurs d’une des colonnes n’étaient pas correctement triées. Après avoir remonté la chaîne jusqu’au référentiel original de Pulse et vérifié que le bogue se trouvait également dans cette version, nous avons travaillé avec Eric pour tenter de comprendre ce qui se passait. Eric a remarqué que les valeurs étaient triées comme s’il s’agissait d’un texte (c.-à-d. 33 % 33 % 33 % 33 % 3 % 29 % 28 %…)
 

@@ -10,7 +10,6 @@ image: https://de2an9clyit2x.cloudfront.net/tim_swaan_45717_unsplash_e218e3ac92.
 image-alt: Une passerelle qui mène vers une forêt.
 translationKey: user-interview-policy
 thumb: https://de2an9clyit2x.cloudfront.net/small_tim_swaan_45717_unsplash_e218e3ac92.jpg
-processed: 1552050695071
 ---
 Si vous êtes un fonctionnaire et que vous souhaitez mener des entrevues auprès des gens qui utilisent votre service, ce billet est pour vous. Dans tout secteur, il peut déjà être difficile de recruter des personnes à des fins de recherche en conception de services. Le gouvernement, toutefois, a des exigences supplémentaires. Bien que certaines d’entre elles soient justifiées par sa position en tant qu’autorité, [d’autres peuvent découler d’une culture ou d’habitudes](https://numerique.canada.ca/2018/09/07/politiques/). Dans ce billet, nous vous montrons comment nous avons fait pour recruter des anciens combattants et mener notre recherche.
 
@@ -25,10 +24,10 @@ D’abord, nous avons sollicité des gens de nos réseaux professionnels et de n
 En plus d’établir un contact avec des participants pertinents pour notre étude, ce processus avait trois avantages :
 
 1. Les anciens combattants ainsi que les militaires toujours en service ont communiqué avec nous sur une base volontaire, ce qui a permis de [réduire la pression à participer](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf#page=34) qui peut exister si la demande vient directement du gouvernement du Canada.
-2. Nous avons fait savoir aux participants que l’ami ou le collègue les ayant recrutés ne serait pas informé de leur choix de participer ou non. Cette mesure permet de [réduire le sentiment de coercition et de pression sociale](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf#page=34) découlant du « recruteur ». 
-3. Nous n’avons recueilli aucun renseignement personnel sur les participants avant d’avoir l’assurance qu’ils avaient compris l’objet et le déroulement de la recherche ainsi que leur rôle en tant que participants. 
+2. Nous avons fait savoir aux participants que l’ami ou le collègue les ayant recrutés ne serait pas informé de leur choix de participer ou non. Cette mesure permet de [réduire le sentiment de coercition et de pression sociale](http://www.ger.ethique.gc.ca/pdf/fra/eptc2-2014/EPTC_2_FINALE_Web.pdf#page=34) découlant du « recruteur ».
+3. Nous n’avons recueilli aucun renseignement personnel sur les participants avant d’avoir l’assurance qu’ils avaient compris l’objet et le déroulement de la recherche ainsi que leur rôle en tant que participants.
 
-Après que les clients potentiels ont eu communiqué avec nous, nous avons été en mesure de : 
+Après que les clients potentiels ont eu communiqué avec nous, nous avons été en mesure de :
 
 * confirmer leur intérêt en leur fournissant plus d’informations relatives à la recherche (voir l’énoncé de confidentialité et l’avis de consentement plus bas)
 * établir le profil des participants

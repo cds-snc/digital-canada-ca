@@ -16,7 +16,6 @@ image: https://de2an9clyit2x.cloudfront.net/picking_our_projects_2017_b3fdfe5d6f
 image-alt: Affiches dans les locaux du SNC.
 translationKey: picking-our-projects/
 thumb: https://de2an9clyit2x.cloudfront.net/small_picking_our_projects_2017_b3fdfe5d6f.jpg
-processed: 1550672961807
 ---
 J’ai grandi sur une ferme. Mon enfance a été marquée par la sensation du gravier sous mes pieds, la terre sur mes mains et le bonheur de choisir des fruits et des légumes directement du champ. J’aimerais pouvoir vous dire que choisir des projets est semblable, mais je n’ai toujours pas vu de gravier, de terre, de fruits ou de légumes pendant une discussion portant sur un partenariat (points bonis si vous y arrivez!)
 
@@ -30,13 +29,13 @@ Nos premiers projets sont de courts sprints de deux ou trois mois chacun. Parall
 
 Pendant que ces travaux se mettent en marche, nous sommes également à l’affût d’autres problèmes de conception et de prestation de services susceptibles de devenir des projets. Les occasions ne manquent pas, et parce que nous développons aussi la capacité de notre équipe, nous devons choisir nos projets judicieusement, surtout au début.
 
-## Prioriser les projets  
+## Prioriser les projets
 
 Comment prioriser? Nous mettons l’accent sur les services externes, en particulier sur ceux qui ont une portée étendue (c.-à-d. les services utilisés par un grand nombre). Nous recherchons aussi les occasions d’être impliqués dès le départ, de manière à pouvoir collaborer avec vous et votre clientèle aux étapes de la découverte et de la conception, avant de définir la meilleure façon d’implanter la solution numérique appropriée. Si vous avez simplement besoin d’un soutien technologique pour respecter les échéances d’un produit livrable promis, nous ne sommes pas l’interlocuteur qu’il vous faut.
 
 Nous utilisons [une liste de questions pratiques](/partnerships/), au fil d’une série de conversations, pour évaluer les projets en fonction de trois concepts&nbsp;: Préparation, Portée et Reproductibilité. Lorsque nous évaluons un projet, nous tenons également compte de notre capacité, de notre disponibilité et de notre expertise du moment.
 
-## À quoi pouvez-vous vous attendre?  
+## À quoi pouvez-vous vous attendre?
 
 Parce que votre temps est précieux, notre processus demeure simple. À mesure que notre capacité augmentera et que l’intérêt pour nos services grandira, nous reverrons notre processus afin de nous assurer que nous obtenons les meilleurs résultats possible pour les Canadiens. Lorsque vous nous contactez pour la première fois, rappelez-vous que ce qui nous intéresse, c’est le problème que vous devez résoudre. Nous communiquerons avec vous dans un délai d’une semaine environ pour planifier une première discussion visant à recueillir de l’information générale.
 

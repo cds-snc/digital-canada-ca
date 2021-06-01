@@ -4,7 +4,7 @@ title: 'Données qualitatives : inconfortables, oui, mais elles valent le coup'
 description: >-
   Reconnaissons la valeur des données qualitatives afin de concevoir un service
   facile à comprendre et utile permettant aux membres du public de signaler un
-  cybercrime. 
+  cybercrime.
 author: 'Lucas Cherkewski, Politiques'
 date: 2019-07-11T16:43:12.022Z
 image: https://de2an9clyit2x.cloudfront.net/rcmp_data_blog_97a57c658d.jpg
@@ -14,9 +14,8 @@ image-alt: >-
   papillons adhésifs de différentes couleurs.
 translationKey: data-driven-service
 thumb: https://de2an9clyit2x.cloudfront.net/small_rcmp_data_blog_97a57c658d.jpg
-processed: 1563384025449
 ---
-Je suis un grand lecteur. J’adore les livres. Mais j’ai parfois du mal à en choisir un. 
+Je suis un grand lecteur. J’adore les livres. Mais j’ai parfois du mal à en choisir un.
 
 Mon premier réflexe est d’examiner les chiffres : les notes attribuées, le nombre de pages, etc. Mais si ces chiffres m’aident à faire des comparaisons, ils ne m’aident pas à comprendre *pourquoi* un livre a de « meilleurs » chiffres qu’un autre. Je lis donc les critiques. La combinaison des chiffres et des récits m’aide à prendre de meilleures décisions.
 
@@ -103,7 +102,7 @@ Lorsque nous avons mis à l’essai le nouveau prototype, la clarté était plus
 
 ### Inconfortables, oui, mais elles valent le coup
 
-En tant qu’amateur de données structurées, j’ai d’abord eu du mal à m’habituer aux données qualitatives. Mon esprit arrive facilement à saisir le caractère noir sur blanc des chiffres; mais les récits, eux, sont un peu plus nuancés. 
+En tant qu’amateur de données structurées, j’ai d’abord eu du mal à m’habituer aux données qualitatives. Mon esprit arrive facilement à saisir le caractère noir sur blanc des chiffres; mais les récits, eux, sont un peu plus nuancés.
 
 En participant à ces séances approfondies, j’ai constaté les avantages d’inclure une approche qualitative à nos démarches. Même si nos évaluations de la clarté et de l’utilité étaient moins comparables du point de vue quantitatif, nous avons pu expliquer avec assurance le *pourquoi* sous-tendant l’expérience de chacun des participants.
 

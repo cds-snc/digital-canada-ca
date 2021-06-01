@@ -18,15 +18,14 @@ image-alt: >-
   des ailes de papillon.
 translationKey: form-use-cases
 thumb: https://de2an9clyit2x.cloudfront.net/small_menagerie_banner_3376fc1155.jpg
-processed: 1610460097151
 ---
 > Imaginez ce qui suit : vous cherchez sur Internet la marche à suivre pour demander un permis dont vous avez besoin. Vous tombez sur une page Web gouvernementale comprenant sept paragraphes sur les critères d’admissibilité. Après les avoir lus, vous ne savez toujours pas avec certitude si vous répondez aux critères, mais vous décidez quand même de faire votre demande. Le bouton « Faire une demande » vous entraîne alors vers un message vous invitant à télécharger un fichier PDF. Au moment où vous essayez de l’ouvrir, vous apprenez qu’il vous faudrait aussi un éditeur de fichiers PDF, que vous n’avez pas et n’êtes pas prêt à acheter. Vous décidez donc d’imprimer le document pour le remplir à la main. Le formulaire fait 4 pages et contient 37 questions. Ouf, ce sera long à remplir. Vous le mettez donc de côté, préférant y revenir lorsque vous aurez une bonne heure devant vous pour vous y atteler. Lorsque ce moment vient enfin, une semaine plus tard, vous vous rendez compte que seule la moitié des champs à remplir s’appliquent à votre situation. De plus, vous êtes loin de bien saisir l’information demandée dans les questions. Une fois votre formulaire rempli, vous le numérisez et l’envoyez par courriel, puis vous vous croisez les doigts et attendez.
 
-Vous n’avez probablement pas besoin de faire de grands efforts pour imaginer cette situation, car elle est plutôt courante. 
+Vous n’avez probablement pas besoin de faire de grands efforts pour imaginer cette situation, car elle est plutôt courante.
 
 Les formulaires gouvernementaux ont la réputation d’être pénibles et compliqués à remplir. Ils sont toutefois utilisés pour de très bonnes raisons. De fait, ils sont conçus pour réduire les erreurs de communication entre les répondants et les personnes qui collectent les données. Ils constituent aussi un moyen efficace, uniforme et modulable d’assurer la prestation de services pour un grand nombre de personnes.
 
-## Divers formats pour diverses fonctions 
+## Divers formats pour diverses fonctions
 
 Les formulaires existent principalement sous trois formats : papier, document téléchargeable ou formulaire interactif en ligne. Bien que les formulaires papier puissent être préférables pour les personnes sans accès Internet, ils peuvent présenter des problèmes d’accessibilité et certaines limitations si on les compare aux formulaires en ligne. En effet, un formulaire papier ne peut pas s’ajuster à l’utilisateur; impossible de réduire le nombre de questions en fonction des nouveaux renseignements entrés sur la situation de la personne. De plus, il doit être numérisé puis envoyé par courriel, ou bien envoyé par la poste, ce qui demande un certain temps.
 
@@ -34,7 +33,7 @@ Les formulaires existent principalement sous trois formats : papier, document t�
 
 ## Rendre service aux personnes servant la population
 
-De l’autre côté se trouvent les fonctionnaires, c’est-à-dire ceux et celles qui utilisent les formulaires dans le but d’assurer la prestation efficace de leurs services. La conception d’un formulaire peut grandement influencer l’efficacité de leur travail. Mais même si les formulaires en ligne bien conçus facilitent le travail, leur publication sur Internet est loin d’être simple. Plusieurs fonctionnaires ont mentionné à notre équipe vouloir mettre en ligne un formulaire papier ou PDF fait sur mesure, et devoir attendre des mois, voire une année, avant la publication. 
+De l’autre côté se trouvent les fonctionnaires, c’est-à-dire ceux et celles qui utilisent les formulaires dans le but d’assurer la prestation efficace de leurs services. La conception d’un formulaire peut grandement influencer l’efficacité de leur travail. Mais même si les formulaires en ligne bien conçus facilitent le travail, leur publication sur Internet est loin d’être simple. Plusieurs fonctionnaires ont mentionné à notre équipe vouloir mettre en ligne un formulaire papier ou PDF fait sur mesure, et devoir attendre des mois, voire une année, avant la publication.
 
 Nous avons donc entrevu la possibilité d’aider les fonctionnaires qui utilisent les données recueillies à l’aide de formulaires dans le cadre de la prestation de services publics. C’est pourquoi nous avons commencé à travailler sur un nouveau produit qui **répond au besoin de concevoir une plateforme de création et de publication de formulaires simple à utiliser pour le gouvernement du Canada**.
 
@@ -85,7 +84,7 @@ Certains formulaires sont utilisés pour recueillir des renseignements sur des p
 * Une candidature pour une subvention
 * Une mise en candidature pour un prix
 
-Ces formulaires se livrent davantage à la collecte de données non structurées, procurant aux répondants la liberté de fournir les informations qu’ils croient pertinentes. Ici, les fonctionnaires recueillant les données cherchent principalement à obtenir un portrait complet pour chacune des candidatures et à dégager des éventualités qui n’auraient pas émergé autrement. 
+Ces formulaires se livrent davantage à la collecte de données non structurées, procurant aux répondants la liberté de fournir les informations qu’ils croient pertinentes. Ici, les fonctionnaires recueillant les données cherchent principalement à obtenir un portrait complet pour chacune des candidatures et à dégager des éventualités qui n’auraient pas émergé autrement.
 
 En effet, les personnes chargées de la sélection d’une candidature ne connaissent souvent pas toutes les options possibles, jusqu’à ce qu’un candidat fournisse plus d’informations. C’est pourquoi il est difficile de créer des questions à choix multiples : il est impossible d’anticiper les informations pertinentes que pourraient fournir les répondants. Les questions ouvertes offrent donc aux candidats une meilleure flexibilité pour décrire leur proposition.
 

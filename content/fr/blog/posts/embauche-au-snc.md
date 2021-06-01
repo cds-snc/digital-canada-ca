@@ -12,7 +12,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_hiring_2018_0d71687f48.jpg
 image-alt: Membres de l’équipe du SNC
 translationKey: hiring-at-cds
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_hiring_2018_0d71687f48.jpg
-processed: 1550672961837
 ---
 Notre manière de faire du recrutement et de renforcer l’effectif d’une équipe de services numériques qui se met immédiatement au travail et qui aide à relever les défis liés aux services dans l’ensemble du gouvernement suscite beaucoup d’intérêt. Voilà pourquoi je suis ravie de bloguer sur les pratiques d’embauche au SNC.
 

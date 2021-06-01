@@ -16,9 +16,8 @@ image-alt: >-
   bureau étant recouvert d'autocollants, de chocolats et de confettis.
 translationKey: onboarding-matters
 thumb: https://de2an9clyit2x.cloudfront.net/small_onboarding_banner_fitted_12c3d9a91b.jpg
-processed: 1564420750598
 ---
-En tant qu’organisme en pleine expansion, nous accueillons de nouveaux employés quasiment toutes les semaines. S’il s’agit de routine pour nous, c’est un événement unique pour les employés qui commencent. Un nouvel emploi peut être stressant, et la décision de garder son poste ou de passer à autre chose se prend souvent lors des premiers jours. Il est donc essentiel que nous créions une excellente expérience d’intégration. Après tout, les personnes sont au cœur de notre travail — il ne faut pas l’oublier. 
+En tant qu’organisme en pleine expansion, nous accueillons de nouveaux employés quasiment toutes les semaines. S’il s’agit de routine pour nous, c’est un événement unique pour les employés qui commencent. Un nouvel emploi peut être stressant, et la décision de garder son poste ou de passer à autre chose se prend souvent lors des premiers jours. Il est donc essentiel que nous créions une excellente expérience d’intégration. Après tout, les personnes sont au cœur de notre travail — il ne faut pas l’oublier.
 
 L’année dernière, nous avons accueilli 36 nouveaux employés, ce qui a presque doublé le personnel du SNC. Bien que nous ayons toujours été emballés d’ajouter des gens à notre équipe, nous savions que leur intégration méritait quelques améliorations. Alors, comment les techniques et les outils que le SNC utilise pour bâtir des technologies pouvaient-ils bien nous aider à créer quelque chose d’excellent? Il s’avère que ça prenait de la recherche, des découvertes et des tests.
 

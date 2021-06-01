@@ -19,13 +19,12 @@ image-alt: >-
   équilibre.
 translationKey: covid-alert-utility-scale
 thumb: https://de2an9clyit2x.cloudfront.net/small_covid_alert_vision_banner_5a8a8a87f1.jpg
-processed: 1601655413486
 ---
-*Le 31 juillet 2020, nous avons lancé Alerte COVID, le service canadien de notification d’exposition à la COVID-19. L’application mobile a été développée ouvertement. Pour poursuivre dans la même veine, nous publierons une série de billets de blogue qui expliquent les choix que nous faisons à mesure que nous continuons de mettre à jour, de tester et d’itérer ce service.* 
+*Le 31 juillet 2020, nous avons lancé Alerte COVID, le service canadien de notification d’exposition à la COVID-19. L’application mobile a été développée ouvertement. Pour poursuivre dans la même veine, nous publierons une série de billets de blogue qui expliquent les choix que nous faisons à mesure que nous continuons de mettre à jour, de tester et d’itérer ce service.*
 
 *Dans ce premier billet, nous parlons de ce qu’il faut à la base pour qu’un service de notification d’exposition fonctionne bien et soit utilisé par le plus grand nombre de personnes possible.*
 ## Trouver le juste milieu entre utilité et portée
-Notre mission avec Alerte COVID est de réduire la propagation de la COVID-19 au pays grâce à un service de notification d’exposition qui respecte la vie privée et qui prévient autant que possible les obstacles à son adoption. 
+Notre mission avec Alerte COVID est de réduire la propagation de la COVID-19 au pays grâce à un service de notification d’exposition qui respecte la vie privée et qui prévient autant que possible les obstacles à son adoption.
 
 Quand nous parlons du « service » Alerte COVID, l’application mobile publique joue bien sûr un grand rôle. Mais le service comprend également des portails provinciaux qui permettent aux travailleurs de la santé de générer des clés à usage unique, ainsi qu’un soutien technique à la fois pour le public et les travailleurs de la santé. Ainsi, les obstacles à l’adoption du service peuvent s’appliquer aussi bien à l’une comme à l’autre de ces facettes.
 
@@ -38,7 +37,7 @@ Au fur et à mesure que nous continuons de développer et d’améliorer Alerte 
 
 ## Un service qui fonctionne bien
 
-Un service de notification d’exposition qui fonctionne bien pourra d’abord **détecter** le moment où une personne a de fortes chances d’être entrée en contact avec un individu qui a la COVID-19. Puis, il pourra **orienter** la personne vers les mesures appropriées, soient les consignes de santé publique. 
+Un service de notification d’exposition qui fonctionne bien pourra d’abord **détecter** le moment où une personne a de fortes chances d’être entrée en contact avec un individu qui a la COVID-19. Puis, il pourra **orienter** la personne vers les mesures appropriées, soient les consignes de santé publique.
 ### Détection
 En principe, une détection se produit lorsque :
 
@@ -48,7 +47,7 @@ En principe, une détection se produit lorsque :
 * L’individu diagnostiqué était contagieux quand le contact a eu lieu.
 
 ### Orientation
-Quand les critères de détection sont satisfaits et qu’une exposition potentielle à la COVID-19 est déterminée avec certitude, Alerte COVID doit alors orienter l’utilisateur ou l’utilisatrice vers les prochaines étapes pour prévenir la transmission du virus. Cette orientation est établie par les autorités sanitaires de la province ou du territoire sélectionné dans l’application. 
+Quand les critères de détection sont satisfaits et qu’une exposition potentielle à la COVID-19 est déterminée avec certitude, Alerte COVID doit alors orienter l’utilisateur ou l’utilisatrice vers les prochaines étapes pour prévenir la transmission du virus. Cette orientation est établie par les autorités sanitaires de la province ou du territoire sélectionné dans l’application.
 
 Ici, au Canada, chaque province ou territoire a des consignes différentes en fonction de sa situation. Nous collaborons étroitement avec ces partenaires de soins de santé partout au Canada pour nous assurer que, lorsqu’une personne reçoit une notification d’exposition, on lui fournit une orientation spécifique à sa situation et à sa région.
 
@@ -59,7 +58,7 @@ L’objectif d’orientation est rempli lorsque :
 * La personne suit ces mesures.
 
 ## Accroître l’utilisation de l’application
-Plus il y aura de gens qui utilisent Alerte COVID, plus ce service aura une incidence importante sur le ralentissement de la propagation de la COVID-19 au Canada. Et pour mettre l’application à la disposition du plus grand nombre de personnes possible, nous nous penchons sur 5 facteurs principaux qui peuvent influer sur son adoption : 
+Plus il y aura de gens qui utilisent Alerte COVID, plus ce service aura une incidence importante sur le ralentissement de la propagation de la COVID-19 au Canada. Et pour mettre l’application à la disposition du plus grand nombre de personnes possible, nous nous penchons sur 5 facteurs principaux qui peuvent influer sur son adoption :
 
 * Disponibilité : Le service doit être offert au plus grand nombre de personnes possible.
 * Accessibilité : Le service doit être utilisable par le plus grand nombre de personnes possible.

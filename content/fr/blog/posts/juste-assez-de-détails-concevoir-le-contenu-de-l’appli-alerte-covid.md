@@ -12,9 +12,8 @@ image-alt: >-
   passées dans un filtre, se transforment en deux lignes droites.
 translationKey: content-covidalert
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_content_covidalert_blog_198bc0a191.jpg
-processed: 1605718866202
 ---
-Lorsque nous avons commencé à travailler sur [Alerte COVID](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html), nous savions [que l’une des clés du succès était la confiance](https://numerique.canada.ca/2020/10/02/d%C3%A9velopper-un-service-efficace-de-notification-dexposition-comme-alerte-covid/). Les gens n’allaient pas télécharger l’application s’ils n’y faisaient pas confiance. Et nous savions que la clé de la confiance était la compréhension. 
+Lorsque nous avons commencé à travailler sur [Alerte COVID](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html), nous savions [que l’une des clés du succès était la confiance](https://numerique.canada.ca/2020/10/02/d%C3%A9velopper-un-service-efficace-de-notification-dexposition-comme-alerte-covid/). Les gens n’allaient pas télécharger l’application s’ils n’y faisaient pas confiance. Et nous savions que la clé de la confiance était la compréhension.
 
 La plupart des gens pensent que la transmission du virus est liée aux endroits qu’ils ont visités et aux personnes avec qui ils étaient. Donc, pour que les gens aient l’assurance de ne pas être géolocalisés par l’application, il fallait leur montrer comment l’application peut détecter des expositions potentielles sans suivre leurs mouvements. Autrement dit, il fallait changer leur façon de penser.
 
@@ -24,13 +23,13 @@ Les premiers écrans qu’une personne voit après avoir téléchargé l’appli
 
 ## Éviter la surcharge d’information
 
-Nous savions que le fait d’aider les gens à comprendre le fonctionnement d’Alerte COVID présenterait un énorme risque de surcharge d’information. Si vous avez essayé de lire n’importe quelle partie de la documentation sur le cadriciel Apple-Google utilisé par l’application, vous le savez aussi. Il fallait donc faire très attention. 
+Nous savions que le fait d’aider les gens à comprendre le fonctionnement d’Alerte COVID présenterait un énorme risque de surcharge d’information. Si vous avez essayé de lire n’importe quelle partie de la documentation sur le cadriciel Apple-Google utilisé par l’application, vous le savez aussi. Il fallait donc faire très attention.
 
-La solution pour éviter une surcharge d’information et assurer une longueur raisonnable aux écrans d’introduction était de donner juste assez de détails. C’est tellement tentant, quand on essaie d’expliquer quelque chose, d’expliquer TOUT. Mais c’est en fait contre-productif. 
+La solution pour éviter une surcharge d’information et assurer une longueur raisonnable aux écrans d’introduction était de donner juste assez de détails. C’est tellement tentant, quand on essaie d’expliquer quelque chose, d’expliquer TOUT. Mais c’est en fait contre-productif.
 
-À titre de comparaison, pensons à une carte. Certaines cartes montrent le monde entier et d’autres ne montrent que le métro dans votre ville. 
+À titre de comparaison, pensons à une carte. Certaines cartes montrent le monde entier et d’autres ne montrent que le métro dans votre ville.
 
-Les cartes du métro ont un but très précis et sont très peu détaillées. Elles ne montrent pas ce qu’il y a au-dessus ou en dessous du sol, ni la topographie de la ville. Elles ne montrent même pas toutes les rues que croise le métro. Elles vous disent simplement combien d’arrêts il reste jusqu’à votre destination. Ou à quel endroit vous pouvez descendre pour changer de ligne. 
+Les cartes du métro ont un but très précis et sont très peu détaillées. Elles ne montrent pas ce qu’il y a au-dessus ou en dessous du sol, ni la topographie de la ville. Elles ne montrent même pas toutes les rues que croise le métro. Elles vous disent simplement combien d’arrêts il reste jusqu’à votre destination. Ou à quel endroit vous pouvez descendre pour changer de ligne.
 
 **Chaque fois que vous ajoutez des détails, il devient plus difficile pour les gens d’extraire ce qui est pertinent.** Parfois, le plus grand atout d’un concepteur de contenu est de trouver comment éviter d’ajouter du contenu.
 
@@ -38,13 +37,13 @@ Dans le cas d’Alerte COVID, nous avions besoin de l’échelle équivalente d�
 
 ## Répartir la densité du sens
 
-Chez les concepteurs de contenu, l’un des principes clés consiste à utiliser le moins de mots possible. Mais ce qu’on oublie souvent, surtout lorsqu’il s’agit de concepts complexes, c’est la densité du sens. Parfois, pour clarifier l’information, il faut ajouter des mots. C’était certainement le cas avec Alerte COVID. 
+Chez les concepteurs de contenu, l’un des principes clés consiste à utiliser le moins de mots possible. Mais ce qu’on oublie souvent, surtout lorsqu’il s’agit de concepts complexes, c’est la densité du sens. Parfois, pour clarifier l’information, il faut ajouter des mots. C’était certainement le cas avec Alerte COVID.
 
-Bien qu’il soit vrai que chaque mot doit mériter sa place, il arrive parfois qu’un mot fasse trop de travail, d’une façon qui, en fait, cache le sens et rend la compréhension plus difficile. Cela peut se produire souvent avec des abstractions, des acronymes et du jargon. 
+Bien qu’il soit vrai que chaque mot doit mériter sa place, il arrive parfois qu’un mot fasse trop de travail, d’une façon qui, en fait, cache le sens et rend la compréhension plus difficile. Cela peut se produire souvent avec des abstractions, des acronymes et du jargon.
 
 C’est pourquoi notre introduction comprend cinq écrans plus quatre autres écrans facultatifs. Je suppose que la plupart des fabricants d’applications diraient que c’est trop, mais le besoin de compréhension était trop important pour risquer d’avoir trop de densité.
 
-Nous avons également pris ce genre de décisions en utilisant des mots précis. Prenez le mot « anonyme ». Selon les dictionnaires, « anonyme » signifie qu’on ne peut pas être identifié par son nom. Mais les risques technologiques et les mesures de protection de la vie privée d’Alerte COVID vont beaucoup plus loin. Nous avons donc dédié tout un écran aux protections de la vie privée de l’application. 
+Nous avons également pris ce genre de décisions en utilisant des mots précis. Prenez le mot « anonyme ». Selon les dictionnaires, « anonyme » signifie qu’on ne peut pas être identifié par son nom. Mais les risques technologiques et les mesures de protection de la vie privée d’Alerte COVID vont beaucoup plus loin. Nous avons donc dédié tout un écran aux protections de la vie privée de l’application.
 
 ![Capture du deuxième écran d’introduction de l’application Alerte COVID. « Alerte COVID n’utilise pas le GPS et ne suit pas votre emplacement. Il n’y a aucun moyen de connaître votre emplacement, votre nom ou votre adresse, les contacts de votre téléphone, vos renseignements de santé, les renseignements de santé des personnes à proximité. » ](https://de2an9clyit2x.cloudfront.net/content_covidalert_privacy_FR_02b970fabe.jpg)
 

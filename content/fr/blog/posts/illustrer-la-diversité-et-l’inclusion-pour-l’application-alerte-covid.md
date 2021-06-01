@@ -15,11 +15,10 @@ image-alt: >-
   vêtements de différentes couleurs et se promenant.
 translationKey: blog-illustrating-covid-alert
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_covid_alert_illustration_7da49c6dc3.jpg
-processed: 1606408374031
 ---
-Une application mobile sanitaire, qui se concentre sur un moment particulièrement difficile de notre vie, n’est pas toujours ce qu’il y a de plus agréable à construire — ou à utiliser. 
+Une application mobile sanitaire, qui se concentre sur un moment particulièrement difficile de notre vie, n’est pas toujours ce qu’il y a de plus agréable à construire — ou à utiliser.
 
-Notre équipe au Service numérique canadien (SNC) travaille fort pour créer des services accessibles au [plus grand nombre de personnes possible](https://numerique.canada.ca/2020/10/02/d%C3%A9velopper-un-service-efficace-de-notification-dexposition-comme-alerte-covid/). Elle sait aussi que le gros du travail consiste à capter la confiance des gens et à améliorer la façon dont les personnes interagissent avec les services gouvernementaux. 
+Notre équipe au Service numérique canadien (SNC) travaille fort pour créer des services accessibles au [plus grand nombre de personnes possible](https://numerique.canada.ca/2020/10/02/d%C3%A9velopper-un-service-efficace-de-notification-dexposition-comme-alerte-covid/). Elle sait aussi que le gros du travail consiste à capter la confiance des gens et à améliorer la façon dont les personnes interagissent avec les services gouvernementaux.
 
 Quand on m’a demandé d’illustrer [Alerte COVID](https://www.canada.ca/fr/sante-publique/services/maladies/maladie-coronavirus-covid-19/alerte-covid.html), une application nationale de notification d’exposition destinée à aider les Canadiens et Canadiennes à ralentir la propagation de la COVID-19, mon but ultime a été de créer des images représentatives de la diversité humaine, afin que tous puissent sentir qu’ils font partie de la lutte.
 
@@ -31,7 +30,7 @@ J’ai donc travaillé auprès de l’équipe Alerte COVID, et nous avons cherch
 
 ## Créer — en collaboration — des concepts clairs sur version mobile
 
-J’ai passé une première journée avec l’équipe de conception, à recueillir leurs points de vue sur le style de dessin de l’application. Nous avons décidé ensemble que la « largeur de trait » (c’est-à-dire l’épaisseur des lignes dans les dessins) devait être assez grande pour pouvoir représenter des concepts sur de petits écrans, tout en permettant l’ajout de détails importants. 
+J’ai passé une première journée avec l’équipe de conception, à recueillir leurs points de vue sur le style de dessin de l’application. Nous avons décidé ensemble que la « largeur de trait » (c’est-à-dire l’épaisseur des lignes dans les dessins) devait être assez grande pour pouvoir représenter des concepts sur de petits écrans, tout en permettant l’ajout de détails importants.
 
 C’est ainsi que j’ai commencé à concevoir chaque écran, en montrant mon concept (autrement dit, l’idée et l’histoire visuelle derrière l’illustration) à l’équipe, afin qu’il fasse l’objet d’une critique avant que j’y ajoute des couleurs. Cette étape importante permettait de déterminer si le concept s’agençait bien au message et s’il risquait d’être mal interprété et de conduire à des conséquences indésirables.
 
@@ -47,7 +46,7 @@ Je savais que faire des illustrations qui montrent la diversité et l’inclusio
 
 ### Montrer la diversité au-delà des cheveux
 
-Les cheveux sont l’une des caractéristiques qui témoignent le plus — et à merveille — de notre diversité, mais ils sont aussi l’une de celles qui sont le plus faciles à juger. 
+Les cheveux sont l’une des caractéristiques qui témoignent le plus — et à merveille — de notre diversité, mais ils sont aussi l’une de celles qui sont le plus faciles à juger.
 
 Pour être honnête, je ne me sentais pas prête à capter de façon adéquate toute l’importance culturelle, sociale et personnelle des cheveux dans les illustrations d’Alerte COVID. Je m’en suis donc remise aux vêtements, aux articles, aux mouvements et aux accessoires pour illustrer la diversité.
 
@@ -73,7 +72,7 @@ J’ai donc décidé de ne pas pigmenter les personnages à la peau pâle dans l
 
 Ne pas comprendre l’intention derrière un service peut miner la confiance qu’on lui porte. Beaucoup de personnes comptent sur les services gouvernementaux; si elles ne comprennent pas ou ne suivent pas les règles d’un service, cela peut mener à des conséquences négatives et les empêcher de remplir leurs objectifs.
 
-Par ailleurs, si certains d’entre nous nous contentons de lire les instructions pour nous assurer le bien les suivre, beaucoup de personnes apprennent grâce aux images plutôt qu’aux mots.  **Pour être inclusif, il est préférable d’utiliser les deux.** 
+Par ailleurs, si certains d’entre nous nous contentons de lire les instructions pour nous assurer le bien les suivre, beaucoup de personnes apprennent grâce aux images plutôt qu’aux mots.  **Pour être inclusif, il est préférable d’utiliser les deux.**
 
 ![Un écran de l’application Alerte COVID dont le titre est « Qu’est-ce qu’une exposition? », et l’illustration accompagnant le texte consistent en deux téléphones à deux mètres de distance, avec un cadran montrant 15 minutes.](https://de2an9clyit2x.cloudfront.net/covid_alert_illustration4_fr_cc78c24852.jpg)
 

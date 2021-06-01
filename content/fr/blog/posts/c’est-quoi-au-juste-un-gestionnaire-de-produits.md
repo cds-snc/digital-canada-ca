@@ -17,20 +17,19 @@ image-alt: >-
   Waterloo, Toronto et Ottawa.
 translationKey: product-manager-QA
 thumb: https://de2an9clyit2x.cloudfront.net/small_pm_banner_fix_646dadacee.jpg
-processed: 1563904136241
 ---
 
 Si vous tombez sur quelqu’un de très organisé, curieux, adaptatif, communicatif, empathique et passionné par l’élimination d’obstacles pour faire avancer les choses, vous venez de rencontrer soit un surhumain, soit un gestionnaire de produits.
 
-  
+
 
 Parfois confondus avec les gestionnaires de *projets*, les gestionnaires de produits sont une pièce importante du casse-tête lorsqu’il s’agit de prestation de services avec des équipes multidisciplinaires. Au SNC, nous sommes chanceux d’avoir une équipe de cinq gestionnaires de produits qui dirigent des équipes de chercheurs, de concepteurs et de développeurs pour créer des services gouvernementaux faciles à utiliser.
 
-  
+
 
 Pour mieux comprendre le rôle d’un gestionnaire de produits (GP) au gouvernement, nous nous sommes réunis avec eux et nous leur avons posé quelques questions.
 
-  
+
 
 ## En rafale : que fait un gestionnaire de produits, en une phrase?
 
@@ -40,7 +39,7 @@ Pour mieux comprendre le rôle d’un gestionnaire de produits (GP) au gouvernem
 
 **Stevie-Ray :** Un gestionnaire de produits s’assure que l’équipe de prestation est habilitée pour faire de son mieux, et il crée un espace de conflits constructifs tout en maintenant une vision unifiée du produit dans laquelle les personnes qui l’utilisent ou qui l’utiliseront sont valorisées.
 
-  
+
 
 ## Incroyable. Ce n’est pas une mince tâche. Que faites-vous quotidiennement pour arriver à tout accomplir?
 
@@ -48,10 +47,10 @@ Pour mieux comprendre le rôle d’un gestionnaire de produits (GP) au gouvernem
 
 Certaines de ces tâches consistent à :
 
-* passer quelques jours à préparer le backlog pour la planification du prochain sprint;  
-* se préparer à la rétrospective, puis organiser et effectuer les mesures à prendre établies lors de la rétrospective;  
-* rechercher les solutions existantes et découvrir comment nous nous y comparons;  
-* effectuer des recherches pour comprendre les besoins des utilisateurs et s’assurer que nous sommes encore alignés avec ceux-ci;  
+* passer quelques jours à préparer le backlog pour la planification du prochain sprint;
+* se préparer à la rétrospective, puis organiser et effectuer les mesures à prendre établies lors de la rétrospective;
+* rechercher les solutions existantes et découvrir comment nous nous y comparons;
+* effectuer des recherches pour comprendre les besoins des utilisateurs et s’assurer que nous sommes encore alignés avec ceux-ci;
 * s’assurer que notre feuille de route et nos personas sont à jour avec les nouveaux renseignements que nous obtenons au fur et à mesure que nous créons et recueillons plus de données.
 
 Puis le reste de mon temps est rempli par des communications et des réunions avec les parties prenantes!
@@ -67,7 +66,7 @@ Habituellement, tous les matins avant de commencer, j’essaie de me synchronise
 
 Par ailleurs, il faut aussi penser beaucoup plus loin et être stratégique pour s’assurer de créer un environnement sécuritaire où l’équipe peut travailler, où les partenaires peuvent collaborer et où le produit peut fonctionner et évoluer.
 
-  
+
 
 ## Sur quoi les personnes pourraient-elles se tromper en ce qui concerne la gestion de produits?
 
@@ -83,7 +82,7 @@ Une autre chose est qu’on n’est pas le chef d’une équipe. Je ne suis pas 
 
 J’ai l’impression que les gens pensent souvent que les gestionnaires de produits discutent beaucoup et prennent beaucoup de décisions, alors qu’en fait ils écoutent, font de la recherche, répètent ce qui a été entendu, puis obtiennent un alignement.
 
-  
+
 
 ## Quelle est la meilleure partie de votre travail?
 
@@ -95,7 +94,7 @@ Aussi, être capable de travailler dans un environnement positif! Accepter la po
 
 **Stevie-Ray :** Entendre que ce qu’on a créé a aidé quelqu’un, voir d’autres membres de l’équipe faire un travail très précieux (dans les bonnes conditions) et avoir une vue d’ensemble des pièces en mouvement d’un produit qui nous amène de A à B.
 
-  
+
 
 ## OK, maintenant une question difficile. Quelle est la partie la plus difficile de votre travail?
 
@@ -109,11 +108,11 @@ J’aime aider les personnes, mais certains jours j’ai l’impression qu’il 
 
 Le gouvernement a un effet significatif sur la vie des gens, et la possibilité que nous puissions causer du tort par nos interventions existe toujours. Cela fait du gouvernement un endroit où nous pouvons avoir un grand impact, mais aussi un endroit peu enclin aux risques. Nous avons besoin de faire preuve de prudence, mais les bonnes intentions politiques peuvent souvent agir comme obstacle aux travaux de petites envergures ou à « la bonne chose ». Cette couche de plus fait que créer un environnement favorable pour l’équipe est une tâche supplémentaire, laquelle est à la fois stimulante et vraiment gratifiante (quand on passe à travers).
 
-  
+
 
 Quel conseil donneriez-vous aux personnes qui font actuellement ce type de travail ou qui voudraient faire ce type de travail?
 
-**Bryan :** Agissez comme facilitateur pour aider l’équipe à travailler à leur plein potentiel. Chaque équipe travaille différemment, vous devez donc découvrir ce que vous pouvez offrir afin que votre équipe en profite le plus. Cela varie et change au fil du temps, au fur et à mesure que l’équipe évolue. 
+**Bryan :** Agissez comme facilitateur pour aider l’équipe à travailler à leur plein potentiel. Chaque équipe travaille différemment, vous devez donc découvrir ce que vous pouvez offrir afin que votre équipe en profite le plus. Cela varie et change au fil du temps, au fur et à mesure que l’équipe évolue.
 
 Si vous priorisez les besoins de votre équipe, vous accomplirez quelque chose de grand.
 

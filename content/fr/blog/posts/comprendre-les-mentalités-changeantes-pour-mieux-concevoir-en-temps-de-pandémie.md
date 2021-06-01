@@ -9,13 +9,12 @@ description: >-
   d’incertitude, comment concevoir pour des besoins qui changent constamment?
 author: >-
   Jeana Frost, recherche en conception, et Brian Hendrick, conception de
-  services 
+  services
 date: 2020-12-02T15:35:14.762Z
 image: https://de2an9clyit2x.cloudfront.net/blog_banner_mindsets_bf393356cd.jpg
 image-alt: 'Quatre personnes affichant diverses expressions, de la réticence à la joie.'
 translationKey: mindsets-covidalert
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_banner_mindsets_bf393356cd.jpg
-processed: 1606924352001
 ---
 Nous sommes en décembre 2020. Quand nous réfléchissons aux neuf derniers mois de pandémie, nos vies d’avant la COVID-19 semblent bien loin. Les préoccupations que nous avions au début de la crise ressemblent à peine à celles d’aujourd’hui. Que nos peurs et nos craintes concernent le bien-être de nos enfants, la santé de nos aînés, notre stabilité d’emploi, ou le risque de sortir dehors, elles changent chaque jour selon l’état de notre monde.
 
@@ -37,7 +36,7 @@ Nous avons élaboré les mentalités liées à Alerte COVID en nous fondant sur 
 
 ## Facteurs influençant les mentalités
 
-Pendant notre étude, nous avons relevé plusieurs facteurs qui pouvaient influencer l’expérience des gens par rapport à Alerte COVID. Mais nous avons dégagé les deux principaux qui jouent sur la disposition des personnes à télécharger Alerte COVID: le **degré de confiance** et le **degré de quête d’information**. 
+Pendant notre étude, nous avons relevé plusieurs facteurs qui pouvaient influencer l’expérience des gens par rapport à Alerte COVID. Mais nous avons dégagé les deux principaux qui jouent sur la disposition des personnes à télécharger Alerte COVID: le **degré de confiance** et le **degré de quête d’information**.
 
 ### Variable 1 : Confiance versus méfiance
 
