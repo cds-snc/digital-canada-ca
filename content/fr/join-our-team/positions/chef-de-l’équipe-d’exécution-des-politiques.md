@@ -5,7 +5,7 @@ title: 'Chef de l’équipe d’exécution des politiques '
 description: >-
   Nous sommes à la recherche d’un(e) chef d’équipe pour l’exécution des politiques. Bien que nous ayons des bureaux à Ottawa, Montréal, Toronto et Kitchener, nous travaillons en grande partie de manière distribuée et nous embauchons également des candidats dans d’autres régions du Canada.
 
-archived: false
+archived: true
 translationKey: policy-delivery-lead
 leverId: a6640473-5cab-4460-a81c-0e479cb537b3
 ---
