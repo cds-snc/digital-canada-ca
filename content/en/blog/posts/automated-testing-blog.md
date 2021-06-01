@@ -14,7 +14,6 @@ image-alt: >-
   pointing at the screen of a person across the table, who gives a thumbs-up.
 translationKey: automated-testing-blog
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_automated_testing_76c2e620d6.jpg
-processed: 1550672961659
 ---
 
 On the Natural Resources Canada (NRCan) application programming interface (API) product, we follow a common continuous integration (CI) process, including extensive use of automated testing. In our opinion, CI and automated testing is a fundamental requirement for producing and maintaining high-quality software products.

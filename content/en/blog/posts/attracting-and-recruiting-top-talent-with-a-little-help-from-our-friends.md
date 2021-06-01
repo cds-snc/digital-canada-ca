@@ -11,13 +11,12 @@ image: https://de2an9clyit2x.cloudfront.net/beetletoy_a7a60363e2.jpg
 image-alt: A yellow Volkswagen beetle toy on wooden shelf filled with books.
 translationKey: help-from-friends-HR
 thumb: https://de2an9clyit2x.cloudfront.net/small_beetletoy_a7a60363e2.jpg
-processed: 1554413469898
 ---
 *[We get by with a little help from our friends](https://digital.canada.ca/2019/01/31/we-get-by-with-a-little-help-from-our-friends/) is a blog series profiling the amazing public servants who enable us and our partners to design and deliver better services.*
 
-Passionate, skilled people are the foundation of the Canadian Digital Service (CDS). It’s a not-so-secret sauce of diverse top external and internal talent, working together in small, multidisciplinary teams. 
+Passionate, skilled people are the foundation of the Canadian Digital Service (CDS). It’s a not-so-secret sauce of diverse top external and internal talent, working together in small, multidisciplinary teams.
 
-One key ingredient is people who might not normally have considered working for government. We were confident there were developers, designers, researchers, and product managers who would sign up for a “tour of service” to help people at the scale of country. But to attract and recruit them, we would have to do things differently. 
+One key ingredient is people who might not normally have considered working for government. We were confident there were developers, designers, researchers, and product managers who would sign up for a “tour of service” to help people at the scale of country. But to attract and recruit them, we would have to do things differently.
 
 And, there was a catch: we had to do it within the existing rule system. We have no special staffing authorities.
 
@@ -35,7 +34,7 @@ Almost every hire we make is different and covers new staffing terrain in one wa
 
 Today, our relationship is closer than ever. Émilie Payant co-locates with our team two days a week, and we have a shared Slack channel for (unclassified!) status checks and questions.
 
-The Human Resources Directorate here at TBS has helped us assemble the kind of team we were mandated to build. 
+The Human Resources Directorate here at TBS has helped us assemble the kind of team we were mandated to build.
 
 To Émilie, Caroline, and the whole team — thank you for meeting the needs of your users so well. Talent is the engine that drives CDS, and we couldn’t do it without you.
 

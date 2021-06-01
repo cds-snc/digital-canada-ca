@@ -11,7 +11,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_think_big_start_small_2017_2764
 image-alt: Some members of the CDS team celebrating the website launch with a thumbs up
 translationKey: think-big-start-small
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_think_big_start_small_2017_2764703473.jpg
-processed: 1550672961771
 ---
 The UK’s Government Digital Service has a brilliant list of [ten design principles](https://www.gov.uk/design-principles). I still remember the first time I saw it. “Start with user needs”, it read, “not government needs.” Oh my goodness, I thought: this is a real UK government website! That’s …amazing!
 

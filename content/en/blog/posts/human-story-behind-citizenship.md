@@ -13,7 +13,6 @@ image-alt: >-
   Vancouver.
 translationKey: human-story-behind-citizenship
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_human_story_citizenship1_76d5a3f84e.jpg
-processed: 1550672961718
 ---
 
 In government, we deliver services that meet fundamental human needs: for belonging, for safety, and for human connection. Becoming a citizen of a new country is one of the most emotional life experiences a person will go through and marks the completion of a long journey.
@@ -26,7 +25,7 @@ Immigrants arriving in Canada face many economic, linguistic, and social barrier
 
 Given the disproportionate barriers immigrants already face, how might we design a compassionate service that helps redress this inequity and provide a fair chance to succeed?
 
-Our partners in the client experience branch at IRCC have been [leading departmental efforts](https://www.thestar.com/news/immigration/2017/09/10/customer-service-a-new-concept-for-canadas-immigration-department.html) to bring a user-centred approach to the delivery of services. We wanted to build on this expertise, so we set out to understand more about people’s experiences of the citizenship application process through an extensive research process. 
+Our partners in the client experience branch at IRCC have been [leading departmental efforts](https://www.thestar.com/news/immigration/2017/09/10/customer-service-a-new-concept-for-canadas-immigration-department.html) to bring a user-centred approach to the delivery of services. We wanted to build on this expertise, so we set out to understand more about people’s experiences of the citizenship application process through an extensive research process.
 
 Together we found two major pain points and set out to fix them.
 
@@ -38,7 +37,7 @@ Together we found two major pain points and set out to fix them.
 
 One of the milestones in the citizenship process is a [language test](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/citizenship-test.html). This is an in-person interview with an immigration officer who will assess your knowledge of Canada and whether you have an adequate level of fluency in English or French. The [minimum threshold](http://www.cic.gc.ca/English/helpcentre/answer.asp?qnum=567&top=5) for speaking and listening ability is Level 4, as set by the [Canadian Citizenship Act](http://laws-lois.justice.gc.ca/eng/acts/C-29/FullText.html). This policy is designed to make sure new citizens can integrate with Canadian society.
 
-People applying for citizenship come from 23 different countries and speak 190 languages. Non-native speakers sign up for language classes to help improve their skills and spend months fitting studies around their existing life commitments. Given how invested people are in passing the test, you can see why they’d be anxious. 
+People applying for citizenship come from 23 different countries and speak 190 languages. Non-native speakers sign up for language classes to help improve their skills and spend months fitting studies around their existing life commitments. Given how invested people are in passing the test, you can see why they’d be anxious.
 
 Towards the end of the citizenship process, you get a letter in the mail notifying you about your test date. Here’s what this letter looked like:
 
@@ -58,17 +57,17 @@ As an immigrant to Canada, you’re more likely to have time-bound commitments t
 2. Trips to visit family back home
 3. University classes and exams
 
-Being summoned to a date you haven’t chosen can be stressful. What if your language test clashes with a pre-booked business trip or your final exams? 
+Being summoned to a date you haven’t chosen can be stressful. What if your language test clashes with a pre-booked business trip or your final exams?
 
 Before we built our service, here’s what the rescheduling process looked like:
 
 You had to write a letter to your local citizenship office. You would explain your reasons and hope to be accommodated. Once you wrote your letter to ask for a different date, it could be months before you heard back. As a result, IRCC received hundreds of calls to their call centre asking for updates and reassurance.
 
-As part of our research, we read hundreds of these letters, many containing highly emotive stories. 
+As part of our research, we read hundreds of these letters, many containing highly emotive stories.
 
-> *“I really want to attend my test, but it happens to be my daughter’s graduation that day. Would it be possible, to switch to another date?”* 
+> *“I really want to attend my test, but it happens to be my daughter’s graduation that day. Would it be possible, to switch to another date?”*
 
-We heard first hand how scared people were to ask, fearing their whole citizenship application would be thrown out. Some would forego important life events altogether — missing medical appointments or family weddings. 
+We heard first hand how scared people were to ask, fearing their whole citizenship application would be thrown out. Some would forego important life events altogether — missing medical appointments or family weddings.
 
 ## The new service
 

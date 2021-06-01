@@ -16,7 +16,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_technology_choices_at_cds_2017_
 image-alt: A computer screen showing results from a test suite
 translationKey: technology-choices-at-cds
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_technology_choices_at_cds_2017_7fc41ef768.jpg
-processed: 1550672961768
 ---
 A few weeks ago, we opened our [public recruitment campaign](/join-our-team/), looking for designers, developers, data scientists, product managers, and engagement experts. On the developer stream, a number of people have reached out to ask which technology platforms and programming languages we work in. It’s a great question! One of the exciting parts of joining CDS at such an early stage in our existence is that you’ll have a chance to shape how our technology choices evolve. With that in mind – none of these are set in stone – I thought I’d share the current thinking of our developer team, and the two (competing) goals that influence the technologies we choose.
 
@@ -34,13 +33,13 @@ CDS’ mandate is to [build prototypes and digital solutions](/partnerships/) fo
 
 [Laravel](https://laravel.com/) is a PHP framework that is highly-flexible, and has a wide-ranging community of open-source packages that easily handle anything from complex user roles and permissions to integrations with other systems. For developers that are used to .NET and Java, Laravel projects are easy to understand, learn from, and build on, which makes Laravel a really useful framework for the projects that we’ll be co-developing with other government IT teams.
 
-We’re also building one of our first major projects with [DrupalWXT](https://github.com/drupalwxt/wxt), a specialized version of Drupal that includes all of the accessibility features of the [Web Experience Toolkit](http://wet-boew.github.io/wet-boew/index-en.html). DrupalWXT provides a great foundation for this project in particular, since the project could involve a lot of customization work in the years beyond CDS’ involvement. The Ottawa region has a talented Drupal community that could help support this, both inside and outside of the federal government. 
+We’re also building one of our first major projects with [DrupalWXT](https://github.com/drupalwxt/wxt), a specialized version of Drupal that includes all of the accessibility features of the [Web Experience Toolkit](http://wet-boew.github.io/wet-boew/index-en.html). DrupalWXT provides a great foundation for this project in particular, since the project could involve a lot of customization work in the years beyond CDS’ involvement. The Ottawa region has a talented Drupal community that could help support this, both inside and outside of the federal government.
 
 ## Goal 2: Optimizing for technology pathfinding
 
 On the other hand, [React](https://reactjs.org/) (and full-stack JavaScript more broadly) has taken the web development community by storm, since Node.js was created a few years ago. React (and competing JavaScript frameworks) have enthusiastic open-source communities around them, and technologies like GraphQL introduce entirely new ways of building APIs and integrations with other services. The overall model is, building larger systems by creating small, composable parts or micro-services that fit together. React makes this easy, and new cloud services (particularly serverless or lambda systems) work really well with this approach.
 
-As Mike would say, though, the skills used to build React projects are almost completely different from the skills used to build with more traditional MVC frameworks. It’s fascinating to watch him build components and projects in React – the final products are stunning, but the learning curve is steep. 
+As Mike would say, though, the skills used to build React projects are almost completely different from the skills used to build with more traditional MVC frameworks. It’s fascinating to watch him build components and projects in React – the final products are stunning, but the learning curve is steep.
 
 ## The road ahead
 

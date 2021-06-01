@@ -14,13 +14,12 @@ image: https://de2an9clyit2x.cloudfront.net/picking_our_projects_2017_b3fdfe5d6f
 image-alt: Posters in the CDS office
 translationKey: picking-our-projects
 thumb: https://de2an9clyit2x.cloudfront.net/small_picking_our_projects_2017_b3fdfe5d6f.jpg
-processed: 1550672961739
 ---
 I grew up on a farm. It was a childhood marked by the feeling of gravel beneath my feet, dirt on my hands, and the joy of picking produce right from the field. I wish I could tell you that picking projects is the same but I have yet to encounter gravel, dirt or produce during a partnership chat (bonus points if you make this happen!)
 
 For nearly two decades I’ve worked hard to make government services better, and in doing so, I have met many public servants committed to the same. While using the latest technology may get more buzz, at CDS we’re starting with the basics of good service, because that’s what matters most. When you engage your government, (1) what you need to know and do should be clear, and (2) it should be as easy as possible to actually do that thing. This isn’t about website redesign; modern tech and methods gives us a real opportunity to meet user needs as we transform our services and, in many cases, move them online.
 
-## Humble beginnings 
+## Humble beginnings
 
 We’ve hit the ground running with our first delivery team, focused on a few summer projects. We’re exploring how to open access to home energy efficiency data, how to improve the user experience during parts of the citizenship process, and how to help government crowdsource solutions with entrepreneurs and experts outside of government. We start by doing our homework, so we’re spending time with people behind the scenes, learning about current processes and observing service users.
 

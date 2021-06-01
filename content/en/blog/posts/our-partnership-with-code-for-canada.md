@@ -12,7 +12,6 @@ image-alt: >-
   provincial parliament building in Toronto.
 translationKey: our-partnership-with-code-for-canada
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_c4c_26d807bbf1.jpg
-processed: 1550672961733
 ---
 
 This past fall, we brought on one of the first two cohorts of [Code for Canada](https://codefor.ca/) (C4C) fellows, the other joining our colleagues in the Government of Ontario. This post outlines how to make the most out of a potential partnership!

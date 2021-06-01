@@ -12,10 +12,9 @@ image: https://de2an9clyit2x.cloudfront.net/blog_conducting_user_research_with_N
 image-alt: Eman and Jennifer looking at the Value Proposition Canvas
 translationKey: conducting-user-research-with-NRCan
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_conducting_user_research_with_NRCAN_cb9cb98c0d.jpg
-processed: 1550687994416
 ---
 
-When Natural Resources Canada (NRCan) came to us with the idea of opening up access to [EnerGuide](https://www.nrcan.gc.ca/energy/efficiency/housing/home-improvements/5005) data, the solution seemed pretty obvious — build an ‘Application Programming Interface’ (API) that would allow users to query the EnerGuide data; but first, we had to validate whether this proposed solution was the way to go.  
+When Natural Resources Canada (NRCan) came to us with the idea of opening up access to [EnerGuide](https://www.nrcan.gc.ca/energy/efficiency/housing/home-improvements/5005) data, the solution seemed pretty obvious — build an ‘Application Programming Interface’ (API) that would allow users to query the EnerGuide data; but first, we had to validate whether this proposed solution was the way to go.
 
 ## Defining users and their needs
 

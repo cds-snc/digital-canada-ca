@@ -11,7 +11,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_banner_mindsets_bf393356cd.jpg
 image-alt: 'Four people ranging in emotions from happiness to reluctance.  '
 translationKey: mindsets-covidalert
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_banner_mindsets_bf393356cd.jpg
-processed: 1606924351789
 ---
 It’s December 2020. When thinking about the last nine months of the pandemic, our lives before COVID-19 feel distant. Our concerns at the beginning of the crisis barely resemble how we’re feeling now. Our fears and anxieties about the well-being of our children, the health of our older relatives, the security of our livelihoods, or whether just going outside is worth the risk, change day-to-day depending on the state of the world. 
 

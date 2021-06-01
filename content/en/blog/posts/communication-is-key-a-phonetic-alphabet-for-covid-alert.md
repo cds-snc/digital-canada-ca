@@ -13,9 +13,8 @@ image-alt: >-
   over the phone.
 translationKey: phonetic-alphabet-blog
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_phonetic_alphabetic_blog_8f889946bb.jpg
-processed: 1603809166911
 ---
-Healthcare workers put themselves at risk to keep us safe. They also play a crucial role in the success of the COVID Alert app. 
+Healthcare workers put themselves at risk to keep us safe. They also play a crucial role in the success of the COVID Alert app.
 
 When someone in a participating province tests positive for COVID-19, healthcare workers distribute an alphanumeric one-time key that can be entered in the app to send exposure notifications.
 
@@ -23,21 +22,21 @@ That interaction is central to letting people know that they may have been expos
 
 ## Communicating the key
 
-But it isn’t just a simple transaction. We have to remember the human side and the very real emotions that come into play during these conversations. Healthcare workers are relaying this alphanumeric key to people who just learned that they have COVID-19. These people are stressed and worried. Healthcare workers also experience pressure related to pandemic challenges. 
+But it isn’t just a simple transaction. We have to remember the human side and the very real emotions that come into play during these conversations. Healthcare workers are relaying this alphanumeric key to people who just learned that they have COVID-19. These people are stressed and worried. Healthcare workers also experience pressure related to pandemic challenges.
 
-These interactions will often take place by phone rather than in person, making communication even more challenging. The phone is another barrier between the healthcare worker reading out the key, and the patient hearing the correct letters and numbers, then recording and entering them into the app. And for many people, this could be further complicated if English or French is their second, third, or fourth language. 
+These interactions will often take place by phone rather than in person, making communication even more challenging. The phone is another barrier between the healthcare worker reading out the key, and the patient hearing the correct letters and numbers, then recording and entering them into the app. And for many people, this could be further complicated if English or French is their second, third, or fourth language.
 
-[In a previous blog post](https://digital.canada.ca/2020/10/02/building-an-effective-exposure-notification-service-like-covid-alert/), COVID Alert’s service owner outlined the two main considerations prioritized in the initial build of the service, as well as what we continue to prioritize as we improve it. One of those was “getting it into as many hands as possible.” One way to do that is to make it as accessible as possible. 
+[In a previous blog post](https://digital.canada.ca/2020/10/02/building-an-effective-exposure-notification-service-like-covid-alert/), COVID Alert’s service owner outlined the two main considerations prioritized in the initial build of the service, as well as what we continue to prioritize as we improve it. One of those was “getting it into as many hands as possible.” One way to do that is to make it as accessible as possible.
 
-That’s why we’re considering how communicating the alphanumeric key to patients could flow more smoothly during a stressful time, to increase accessibility for everyone who needs it. 
+That’s why we’re considering how communicating the alphanumeric key to patients could flow more smoothly during a stressful time, to increase accessibility for everyone who needs it.
 
 ## Matching words to sounds
 
-[Bryan Robitaille](https://twitter.com/RobitailleBryan) on our development team thought of using a phonetic alphabet to simplify the process and help the healthcare worker and the app user overcome communication problems. Rather than the phonetic alphabet used in linguistics (which matches conventional symbols to pronunciations), this would be an alphabet that matches words to the sound of their first letter. It’s also called a spelling alphabet or radio alphabet. (Our researchers also learned that without being prompted, users of the Dutch COVID app often used words to confirm letters in the Dutch key.)  
+[Bryan Robitaille](https://twitter.com/RobitailleBryan) on our development team thought of using a phonetic alphabet to simplify the process and help the healthcare worker and the app user overcome communication problems. Rather than the phonetic alphabet used in linguistics (which matches conventional symbols to pronunciations), this would be an alphabet that matches words to the sound of their first letter. It’s also called a spelling alphabet or radio alphabet. (Our researchers also learned that without being prompted, users of the Dutch COVID app often used words to confirm letters in the Dutch key.)
 
-The most common phonetic alphabets come from NATO and Western Union (Alpha, Bravo, Charlie…), but many of these alphabets were intended for use between people working in shared environments with a shared vocabulary. In the context of COVID Alert, some of these words may not be understood across cultures and by all members of the public in Canada. 
+The most common phonetic alphabets come from NATO and Western Union (Alpha, Bravo, Charlie…), but many of these alphabets were intended for use between people working in shared environments with a shared vocabulary. In the context of COVID Alert, some of these words may not be understood across cultures and by all members of the public in Canada.
 
-For example, “Yankee” can be offensive, and “foxtrot” is tied to specific cultures and generations. 
+For example, “Yankee” can be offensive, and “foxtrot” is tied to specific cultures and generations.
 
 **We wondered if we could find words for our context and reality. If so, how would we identify and select these words?**
 
@@ -51,13 +50,13 @@ We started by thinking about criteria for words that work well to communicate th
 * Cross-cultural nouns
 * At least 2 syllables
 * Evocative spoken sounds
-* No negative connotations 
+* No negative connotations
 
 In what follows, we use italics for French words.
 
 ### Similar in English and French
 
-We wanted words that are similar in both English and French so it would be easier for healthcare workers who work with a bilingual population. For example, for the letter “a” we use “animal”, which has the same meaning in both English and French. 
+We wanted words that are similar in both English and French so it would be easier for healthcare workers who work with a bilingual population. For example, for the letter “a” we use “animal”, which has the same meaning in both English and French.
 
 The exception to this was the letter “x”, since very few words that start with “x” are similar in both languages and also commonly used. We use “X-ray” in English, but not in French since the word *rayon X* doesn’t start with an “x”, therefore breaking the implicit rule of the phonetic alphabet (and the listener’s expectations). We chose *xylophone* in French, but didn’t use it in English because the “x” has a “z” sound, which could cause confusion.
 
@@ -81,7 +80,7 @@ This is also why we decided not to use “hotel” from the NATO alphabet. Thoug
 
 ### No negative connotations
 
-We wanted to avoid words with negative connotations so as not to subconsciously add negative thoughts to an already stressful situation. That’s why we removed the connection to alcohol that came with the NATO word “whisky” for “w” and replaced it with “Wi-Fi”. 
+We wanted to avoid words with negative connotations so as not to subconsciously add negative thoughts to an already stressful situation. That’s why we removed the connection to alcohol that came with the NATO word “whisky” for “w” and replaced it with “Wi-Fi”.
 
 ## Moving forward
 

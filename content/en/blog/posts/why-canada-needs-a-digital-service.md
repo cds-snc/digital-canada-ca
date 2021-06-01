@@ -13,7 +13,6 @@ image-alt: >-
   Elvas
 translationKey: why-canada-needs-a-digital-service
 thumb: https://de2an9clyit2x.cloudfront.net/small_why_canada_needs_a_digital_service_2017_83f1ff7d59.jpg
-processed: 1550672961788
 ---
 For months, I’ve been working behind the scenes to stand up the Canadian Digital Service. Through this process, I’ve done a lot of thinking about why Canada needs a digital service organization and the potential it has to change how we design government services.
 

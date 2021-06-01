@@ -10,7 +10,6 @@ image: https://de2an9clyit2x.cloudfront.net/magnificent_cloud_ac2e627c55.jpg
 image-alt: A magnificent cloud rises above the trees.
 translationKey: from-code-to-cloud
 thumb: https://de2an9clyit2x.cloudfront.net/small_magnificent_cloud_ac2e627c55.jpg
-processed: 1550672961732
 ---
 At CDS, we’re currently working on a [web app](https://github.com/cds-snc/vac-benefits-directory) with Veterans Affairs Canada (VAC). The app will help Veterans and their families find benefits and programs that are relevant to them. That means it needs to keep track of a lot of content: the user interface (UI) text, titles and one-line descriptions of the benefits, multiple choice questions, tags associated with the benefits, VAC office addresses, and more, none of which was personal data or information. And, of course, all this text is in English and French.
 

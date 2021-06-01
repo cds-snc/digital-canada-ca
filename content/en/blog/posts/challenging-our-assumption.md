@@ -7,7 +7,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_accessibility_2018_52c1550c88.j
 image-alt: Keyboard with keys representing accessibility features
 translationKey: challenging-our-assumption
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_accessibility_2018_52c1550c88.jpg
-processed: 1550672961668
 ---
 
 We recently received some feedback through our [Github repository](https://github.com/cds-snc/digital-canada-ca) regarding the accessibility of the "hero" images we use on some pages of our website, including the blog posts.

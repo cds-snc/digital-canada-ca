@@ -15,7 +15,6 @@ image-alt: >-
   Meeting.
 translationKey: blog-head-software-dev
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_head_software_dev_4d582ff210.jpg
-processed: 1582641005596
 ---
 The digital government and civic tech communities talk a lot about how to make government more effective at delivering life-changing services. Things like agile practices, design thinking, and using modern technology are commonplace. At the Canadian Digital Service (CDS), we believe in the value of putting “people first,” which is why hiring the right person is critical, and more important than these processes and tools.
 
@@ -28,7 +27,7 @@ The [job posting](https://digital.canada.ca/join-our-team/positions/head-of-soft
 * Curating best practices for software developers to accomplish CDS’s mission and build cloud-native web applications; and,
 * Providing software development advice and moderating decisions using their experience
 
-As someone working here, I can say that this is not going to be an easy job. CDS has wide-ranging challenges that sometimes include whiplash-y startup culture and large amounts of government change resistance. To boot, we need someone who is an excellent manager, not just a great engineer. The Dev Community carries a lot of our organization’s weight, and mentoring this community is vital to our success.  
+As someone working here, I can say that this is not going to be an easy job. CDS has wide-ranging challenges that sometimes include whiplash-y startup culture and large amounts of government change resistance. To boot, we need someone who is an excellent manager, not just a great engineer. The Dev Community carries a lot of our organization’s weight, and mentoring this community is vital to our success.
 
 This is an organization that has the potential to help deliver critical services that millions of Canadians use and need every day. While there is a lot of challenging work ahead of us, it’s also deeply fulfilling to create teams and products that help people in need.
 

@@ -11,7 +11,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_pei_banner_b2696e820b.jpg
 image-alt: A red sanded clif overlooking the sea in Prince Edward Island.
 translationKey: teaming-up-to-deliver-better-outcomes-for-veterans
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_pei_banner_b2696e820b.jpg
-processed: 1550672961767
 ---
 
 Recently a small contingent from CDS was lucky enough to visit Prince Edward Island off Canada’s Maritime coast. We were there at the invitation of [Veterans Affairs Canada](http://www.veterans.gc.ca/) (VAC), who we're working with to improve how Veterans find benefits online.

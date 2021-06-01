@@ -10,7 +10,6 @@ image: https://de2an9clyit2x.cloudfront.net/visual_storyteller_533f467c76.jpg
 image-alt: A picture of a man at a computer designing a visual story about outer space.
 translationKey: visual-storyteller-blog
 thumb: https://de2an9clyit2x.cloudfront.net/small_visual_storyteller_533f467c76.jpg
-processed: 1581626586748
 ---
 Are you looking to make your communications more effective? Let images help you enhance your messages.
 
@@ -34,7 +33,7 @@ We’ve all been moved, amused or shocked by an image or a photograph at some po
 
 ![A photo of Maya angelou, an American poet, singer, memoirist, and civil rights activist, quoting her saying : “people will forget what you said, people will forget what you did, but people will never forget how you made them feel.”](https://de2an9clyit2x.cloudfront.net/maya_angelou_quote_b720ba2d4b.jpeg)
 
-Visual quotes (such as the one above) give credibility to your content and maximize its lifespan, whether on social media or on a website. When unaccompanied by words, images tend to be interpreted in very different ways. The objective is therefore for images and words to complement each other. Now think to yourself,  is a picture really worth a thousand words? We say this because an image that makes people talk is an image that produces a story. Our brain needs an engaging narrative structure, with a clear beginning, middle and end, to facilitate the retention of information. 
+Visual quotes (such as the one above) give credibility to your content and maximize its lifespan, whether on social media or on a website. When unaccompanied by words, images tend to be interpreted in very different ways. The objective is therefore for images and words to complement each other. Now think to yourself,  is a picture really worth a thousand words? We say this because an image that makes people talk is an image that produces a story. Our brain needs an engaging narrative structure, with a clear beginning, middle and end, to facilitate the retention of information.
 
 ## The weight of words
 
@@ -42,7 +41,7 @@ Of course, being clear and concise is not always easy. And communicating in both
 
 While the length of words often varies greatly from one language to another, so does the colour and meaning of words. For example, the French expression "Des yeux de lynx" is translated into English as: “Eagle eyes.” And what about ”la goutte qui fait déborder le vase”? The English equivalent would be: “The straw that broke the camel’s back”. It’s starting to become quite a menagerie! Fortunately, images can help communicate these ideas more easily/clearly.
 
-Of course, not everything is black or white. The important thing to know is how to get out 
+Of course, not everything is black or white. The important thing to know is how to get out
 of one’s own cultural context temporarily in order to get into someone else’s. This is very important. Working in both official languages means we have to make sure that the concept is as attractive in one language, as in the other. Building bridges and being able to thrive while respecting one's own cultural identity are values that we take to heart at the Canadian Digital Service.
 
 ## 7 steps to great visual storytelling
@@ -52,7 +51,7 @@ Napoleon liked to say that “a good sketch is better than a long speech.” In 
 **1. Simplify.**
 Find the essence of your message. If you could only say one thing, what would it be? What is the core of your message? Make sure you translate your ideas into simple language. Be clear and concise. Avoid jargon.
 
-**2. Remain authentic.** 
+**2. Remain authentic.**
 Using real photos helps communicate who you really are. Feel free to make personal choices. A touching photograph will evoke more empathy from your target audience. Make sure you know what you are trying to convey when selecting an image.
 
 **3. You won’t always have the ideal image to illustrate what you’re saying. Accept it.**

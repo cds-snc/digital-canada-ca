@@ -13,7 +13,6 @@ image-alt: >-
   attack.
 translationKey: best-panic-attack
 thumb: https://de2an9clyit2x.cloudfront.net/small_montreal_library_ec52e16559.jpg
-processed: 1575304320698
 ---
 Exactly one year ago, I was having a panic attack in the restroom of a public library in Montreal.
 
