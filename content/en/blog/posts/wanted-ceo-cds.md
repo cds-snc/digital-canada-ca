@@ -12,17 +12,16 @@ image: https://de2an9clyit2x.cloudfront.net/wanted_ceo_cds_2017_992dcbf98e.jpg
 image-alt: 'Yaprak Baltacıoğlu, Secretary of the Treasury Board'
 translationKey: wanted-ceo-cds
 thumb: https://de2an9clyit2x.cloudfront.net/small_wanted_ceo_cds_2017_992dcbf98e.jpg
-processed: 1550672961786
 ---
-The services our government provides play an important role in the lives of millions of people. 
+The services our government provides play an important role in the lives of millions of people.
 
 That is why we’ve launched the Canadian Digital Service, a team focused on redesigning services from the user’s perspective. We are recruiting an experienced and inspiring Chief Executive to lead the team in executing a bold agenda with a lasting impact.
 
 The CEO of CDS will have a broad mandate to fundamentally improve federal service delivery across the enterprise, with partner departments. This person will have the strongest support from the top to put users back at the center of everything we do.
 
-In the past few months, I’ve spoken with digital service leaders around the world about what works and what they’ve learned. I’ve come away with a strong belief that the right leader for this role has a track record of shipping digital products and services that make a difference in people’s lives. They are an exceptional team-builder and creative partner, with a laser-like focus on implementation – and the ability to execute on their vision. 
+In the past few months, I’ve spoken with digital service leaders around the world about what works and what they’ve learned. I’ve come away with a strong belief that the right leader for this role has a track record of shipping digital products and services that make a difference in people’s lives. They are an exceptional team-builder and creative partner, with a laser-like focus on implementation – and the ability to execute on their vision.
 
-The right candidate is also inclusive, committed to the principles of openness, integrity, and fairness, and understands the connection between service delivery and public trust in government. 
+The right candidate is also inclusive, committed to the principles of openness, integrity, and fairness, and understands the connection between service delivery and public trust in government.
 
 The CEO of CDS will have a seat at the senior management table of the Treasury Board Secretariat, the central agency which houses CDS and sets policies for all departments and agencies. As a peer and partner to the Government of Canada CIO, the CEO will be able to scale service innovation through standards that raise the bar for the entire government.
 

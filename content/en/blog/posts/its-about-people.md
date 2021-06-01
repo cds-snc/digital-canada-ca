@@ -10,7 +10,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_its_about_people_2017_0d56d9b4e
 image-alt: Anatole Papadopoulos speaking to some CDS staff
 translationKey: its-about-people
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_its_about_people_2017_0d56d9b4e9.jpg
-processed: 1550672961722
 ---
 Putting users first. That’s what CDS is all about. When we talk about “digital government,” it often conjures up websites, APIs, and apps. They’re part of the toolkit. But digital government is about people: their needs, their experiences, their frustrations, even their hopes.
 
@@ -20,7 +19,7 @@ The mission? Design services based on user needs, not government’s. And go whe
 
 From citizenship to taxes, from veterans’ benefits to employment insurance, government figures prominently in some of the most important decisions, events, and stages of our lives. Those experiences don’t need to be bureaucratic and frustrating. We can make it simple and easy for people to access the government services and benefits they need.
 
-The key ingredient to doing that well is also people. People who combine empathy, curiosity, and proven methods to gain real insights into users – and who have the skills and tools to bring digital solutions to life quickly based on those insights. People excited about collaborating with like-minded departmental partners and external organizations - and about working in the open. People who want to solve problems with their users, not for their users. That’s the team we’re building. 
+The key ingredient to doing that well is also people. People who combine empathy, curiosity, and proven methods to gain real insights into users – and who have the skills and tools to bring digital solutions to life quickly based on those insights. People excited about collaborating with like-minded departmental partners and external organizations - and about working in the open. People who want to solve problems with their users, not for their users. That’s the team we’re building.
 
 At an all-staff meeting a few weeks ago, a team member brought up entrepreneur Uri Levene’s advice: “Fall in love with the problem, not the solution.” It’s a reminder to us to focus on the right thing – and to bring humility to our work. That’s our mission. To fall in love with our users’ problems again. We couldn’t be more excited.
 

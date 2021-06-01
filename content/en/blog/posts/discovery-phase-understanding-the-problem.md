@@ -16,7 +16,6 @@ image-alt: >-
   discussing their work.
 translationKey: discovery-phase-understanding-the-problem
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_discovery_16d2f21c99.jpg
-processed: 1550672961676
 ---
 
 Veterans have dedicated their lives to serving Canada. Whether it’s RCMP or Canadian Armed Forces, leaving the service is like leaving a family and a job all at once. Veterans face many different challenges in this new phase of their life that are very different from the physical and psychological stresses they faced every day while wearing the uniform. One of the many major challenges is understanding and accessing the 20-plus benefits and services offered to them.
@@ -47,7 +46,7 @@ One of our biggest realizations was that the discovery scope needed to be shifte
 
 This also falls directly in line with the [Ministerial Letter](https://pm.gc.ca/eng/minister-veterans-affairs-and-associate-minister-national-defence-mandate-letter-october-4-2017) to “make it easier for Veterans to access services… and do more to support”. This change intentionally focused the team’s efforts on understanding the journey of a Veteran. This meant the team needed to understand what a Veteran went through from still-serving, to release, to life after the uniform.
 
-Understanding the Veteran’s journey was absolutely necessary, but not easy by any stretch. The team learned a lot from the volumes of research at VAC and other organizations but interactions with Veterans was very limited. By the end of 8 weeks (early January) the team still didn't have an understanding of the veteran's journey from pre-release to life after service. Plans to do simple interviews at VAC offices grew increasingly complex and so the team pivoted many times. 
+Understanding the Veteran’s journey was absolutely necessary, but not easy by any stretch. The team learned a lot from the volumes of research at VAC and other organizations but interactions with Veterans was very limited. By the end of 8 weeks (early January) the team still didn't have an understanding of the veteran's journey from pre-release to life after service. Plans to do simple interviews at VAC offices grew increasingly complex and so the team pivoted many times.
 
 The importance of doing user research was so high that the team had to extend the discovery phase. Only after analyzing the Veteran’s journey to see their life, their needs, and their goals would the team be able to build a user-centric product.
 

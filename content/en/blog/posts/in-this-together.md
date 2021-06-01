@@ -10,9 +10,8 @@ image: https://de2an9clyit2x.cloudfront.net/blog_in_this_together_2017_082de0960
 image-alt: The Ontario Digital Service team
 translationKey: in-this-together
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_in_this_together_2017_082de0960c.jpg
-processed: 1550672961719
 ---
-A few weeks ago, I had the chance to participate in the [Connected150 conference](http://www.connected150.ca) and spend some time with our colleagues in the Canadian Digital Service (CDS). 
+A few weeks ago, I had the chance to participate in the [Connected150 conference](http://www.connected150.ca) and spend some time with our colleagues in the Canadian Digital Service (CDS).
 
 As someone new to the country, I have been heartened and excited to learn more about the work happening in public sector transformation and democratic renewal in Canada. My time spent in Ottawa helped shine light on many exciting initiatives and endeavours that are happening across the country, and helped identify ways for us all to work together.
 

@@ -3,7 +3,7 @@ layout: blog
 title: 'Qualitative data: uncomfortable, but worth it.'
 description: >-
   Opening ourselves to the value of qualitative data by building a clear and
-  valuable service for the public to report a cybercrime. 
+  valuable service for the public to report a cybercrime.
 author: 'Lucas Cherkewski, Policy'
 date: 2019-07-11T16:39:10.164Z
 image: https://de2an9clyit2x.cloudfront.net/rcmp_data_blog_97a57c658d.jpg
@@ -12,10 +12,9 @@ image-alt: >-
   reviewing a service diagram made up of different coloured sticky notes.
 translationKey: data-driven-service
 thumb: https://de2an9clyit2x.cloudfront.net/small_rcmp_data_blog_97a57c658d.jpg
-processed: 1563384025336
 ---
 
-I’m an avid reader. I love books. But sometimes I struggle to choose which ones to read. 
+I’m an avid reader. I love books. But sometimes I struggle to choose which ones to read.
 
 My first instinct is to look at the numbers: star ratings, page numbers, and so on. But while these help me compare data, they don’t help me understand _why_ one book has “better” numbers than others. For that, I read reviews. Combining numbers with stories helps me make better decisions.
 
@@ -102,7 +101,7 @@ When we tested the new prototype, clarity was higher, so we could assess value. 
 
 ### Uncomfortable, but worth it
 
-As a structured data fan, diving into qualitative data was uncomfortable at first. My head understands the black and whiteness of numbers well, but stories are a little more grey. 
+As a structured data fan, diving into qualitative data was uncomfortable at first. My head understands the black and whiteness of numbers well, but stories are a little more grey.
 
 By participating in these in-depth sessions, I saw the benefits of including a qualitative approach. While our evaluations of clarity and value were less quantitatively comparable, we could more confidently explain the _why_ behind each participant’s experience.
 

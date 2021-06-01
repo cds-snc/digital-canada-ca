@@ -10,7 +10,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_aaron_snow_eae49285b0.jpg
 image-alt: Aaron Snow
 translationKey: CDS-gets-its-first-CEO
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_aaron_snow_eae49285b0.jpg
-processed: 1550672961644
 ---
 
 In September, Yaprak Baltacıoğlu, Secretary of the Treasury Board, [launched the search for CDS's first CEO.](https://digital.canada.ca/2017/09/12/wanted-ceo-cds/) The global search attracted candidates from all over the world.
@@ -19,9 +18,9 @@ In September, Yaprak Baltacıoğlu, Secretary of the Treasury Board, [launched t
 
 [Aaron Snow](https://www.linkedin.com/in/aaronsnow/), announced today as our first CEO, is just that person and brings a wealth of experience in shaping government digital services.
 
-We are thrilled to have Aaron join us at CDS, where he will play a pivotal role helping departments make better use of digital technology, agile methods, and user-centred design to better serve everyone who uses federal services. 
+We are thrilled to have Aaron join us at CDS, where he will play a pivotal role helping departments make better use of digital technology, agile methods, and user-centred design to better serve everyone who uses federal services.
 
-Aaron was a co-founder, Director of Delivery, and ultimately Executive Director of [18F](https://18f.gsa.gov/), the United States Government’s 200-person digital services team. He also served as a Presidential Innovation Fellow under President Barack Obama, focusing on technology procurement. 
+Aaron was a co-founder, Director of Delivery, and ultimately Executive Director of [18F](https://18f.gsa.gov/), the United States Government’s 200-person digital services team. He also served as a Presidential Innovation Fellow under President Barack Obama, focusing on technology procurement.
 
 Aaron also held the roles of Deputy Commissioner and Senior Advisor at the U.S. Government’s [Technology Transformation Service (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services). TTS is a $100M collection of cutting edge programs improving the U.S. government's use of technology to better serve the public.
 

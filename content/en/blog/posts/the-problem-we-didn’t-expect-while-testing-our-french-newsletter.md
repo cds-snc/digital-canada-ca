@@ -4,21 +4,20 @@ title: The problem we didn’t expect while testing our French newsletter
 description: >-
   We assumed we needed to do French content testing to improve our French
   newsletter subscription numbers. We sent out a survey to our users first. We
-  learned a lot about assuming you know the problem.  
+  learned a lot about assuming you know the problem.
 author: 'Élise Cossette and Charlotte Pedersen, Outreach'
 date: 2020-02-28T16:14:40.025Z
 image: https://de2an9clyit2x.cloudfront.net/blog_newsletter_testing_a152e66ccb.jpg
 image-alt: 'Doodles in a notebook about planning, iterating, and testing ideas.'
 translationKey: french-newsletter-surveys
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_newsletter_testing_a152e66ccb.jpg
-processed: 1583159548621
 ---
 
 <div class="blog-diary">
- 
+
 <p>Hi! Charlotte and Élise here!</p>
 <p>We recently learned an interesting lesson about assuming we know the problems of our users, just because we’re so close to our products. Turns out, that isn’t necessarily the case. Here are some diary entries about that helpful learning experience.</p>
- 
+
 <div class="diary-entry">
    <h3>November 18, 2019</h3>
    <p>I’ve been noticing a problem with one of our newsletters.</p>
@@ -40,7 +39,7 @@ processed: 1583159548621
    <p>We set up a meeting with one of our design researchers, Adrianne, to help us flesh out this plan. More to come!</p>
    <p>- Charlotte</p>
 </div>
- 
+
 <div class="diary-entry">
    <h3>November 26, 2019</h3>
    <table>
@@ -59,7 +58,7 @@ processed: 1583159548621
    <p>We’re pretty confident we know what the responses will be (hello, content!), and that it will lead us to come up with a content testing plan. But Adrianne’s totally right: better to have the data to point to!</p>
    <p>- Charlotte</p>
 </div>
- 
+
 <div class="diary-entry">
    <h3>November 29, 2019</h3>
    <p>Charlotte and I took advantage of the last few days to do prep work. I finalized the survey questions, and Charlotte created the outline of the next newsletter. I think we have all the puzzle pieces lined up now!</p>
@@ -80,7 +79,7 @@ processed: 1583159548621
    <p>I can’t wait to see what we learn.</p>
    <p>- Élise</p>
 </div>
- 
+
 <div class="diary-entry">
    <h3>December 10, 2019 </h3>
    <p>The “We miss you” eblast and subsequent newsletters have been built and sent out!</p>
@@ -100,7 +99,7 @@ processed: 1583159548621
        </tbody>
    </table>
 </div>
- 
+
 <div class="diary-entry">
    <h3>December 20, 2019</h3>
    <p>Today was a day of surprises.</p>

@@ -9,14 +9,13 @@ image: https://de2an9clyit2x.cloudfront.net/blog_continuous_deployment_69684377e
 image-alt: A man works at his desk working on code.
 translationKey: reducing-risk-through-continuous-deployment
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_continuous_deployment_69684377ec.jpg
-processed: 1550672961744
 ---
 
 Most of the departments we work with are deploying new versions of their code quarterly, semi-annually, or annually. This fits well with the standard [waterfall software development](https://en.wikipedia.org/wiki/Waterfall_model) process, but it comes with some serious risks.
 
 ## Big Bang deployments are risky
 
-What are [Big Bang deployments](https://en.wikipedia.org/wiki/Big_bang_adoption)? It’s the simplest kind of system changeover or release deployment. One system is turned off while another is turned on. 
+What are [Big Bang deployments](https://en.wikipedia.org/wiki/Big_bang_adoption)? It’s the simplest kind of system changeover or release deployment. One system is turned off while another is turned on.
 
 We’ve all seen these. They can manifest in several ways:
 
@@ -54,9 +53,9 @@ Deploying each change, every day, has many benefits:
 
 ## Deploy != Release
 
-This approach can seem very foreign to those used to the waterfall software development model. One might find it irresponsible to release a new feature this way, and one would be right. But, that’s not what this is proposing. 
+This approach can seem very foreign to those used to the waterfall software development model. One might find it irresponsible to release a new feature this way, and one would be right. But, that’s not what this is proposing.
 
-“**Deploying**” is just the mechanism we use to get updated code running in production.  
+“**Deploying**” is just the mechanism we use to get updated code running in production.
 “**Releasing**” is marketing - enabling a feature for general use and encouraging people to use it.
 
 ## Both are important; but they can be quite different.

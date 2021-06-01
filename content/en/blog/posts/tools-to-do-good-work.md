@@ -9,7 +9,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_tools_for_work_2018_15b0dcce32.
 image-alt: Several MacBook computers covered in stickers laid out on a table.
 translationKey: tools-to-do-good-work
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_tools_for_work_2018_15b0dcce32.jpg
-processed: 1550672961772
 ---
 
 We’ve previously blogged about the importance of [automated testing](https://digital.canada.ca/2018/03/26/automated-testing-blog/), [continuous integration](https://digital.canada.ca/2018/05/16/reducing-risk-through-continuous-deployment/), and some of our early [technology platform choices](https://digital.canada.ca/2017/11/06/technology-choices-at-cds/). In order to adopt modern digital practices, it’s also important to have the tools – both devices and software – that make this possible.

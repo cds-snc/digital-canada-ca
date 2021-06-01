@@ -8,7 +8,6 @@ image: https://de2an9clyit2x.cloudfront.net/airplane_460f30dd8a.jpg
 image-alt: An airplane taking off on a runway at dusk.
 translationKey: security-hard
 thumb: https://de2an9clyit2x.cloudfront.net/small_airplane_460f30dd8a.jpg
-processed: 1561556657992
 ---
 Digital security is hard. Even the best engineering and IT teams are prone to make mistakes at some point. But like airport security, steps and processes along the way keep you safe and secure.
 
@@ -22,7 +21,7 @@ As far as security in your code goes, there are some basic assumptions we can ma
 
 ## Change is constant
 
-Agile or waterfall, at some point, you’re going to have to make changes to your code. When you introduce new features or update packages, the surface area of what we're building changes. Bits of your code may be true at one point in time but may not necessarily be true later. We call this "decay". Decay can happen in many ways. There's clearly a vulnerability there. 
+Agile or waterfall, at some point, you’re going to have to make changes to your code. When you introduce new features or update packages, the surface area of what we're building changes. Bits of your code may be true at one point in time but may not necessarily be true later. We call this "decay". Decay can happen in many ways. There's clearly a vulnerability there.
 
 For example, the contents of your luggage are going to change over time. At the beginning of your trip, your luggage was mostly empty, on the way back you have a lot of souvenirs. Security in the airport cannot ensure that those new contents are safe simply because they’ve seen your suitcase before.
 
@@ -32,7 +31,7 @@ In an airport, you're going through a series of checkpoints to validate that you
 
 When it comes to code, we follow the same type of patterns. We can run our code through a series of checks and tests to prove it does what it says does. Ensuring that all your code performs the way it should protects us from wonky code being deployed.
 
-But what if we could automate these security checks? 
+But what if we could automate these security checks?
 
 ## Automatic reporting
 
@@ -53,8 +52,8 @@ To keep our deploys secure and to avoid manually creating these large documents,
 ### Goals
 
 * Build security reviews into continuous integration pipeline. As code is deployed, security checks happen automatically, and trigger at every release.
-* Leverage existing features and use common APIs to complete checks. Why reinvent the wheel when there are great fully functioning wheels available? 
-* Decouple checks from the reporting tool. That means that regardless of what language you chose to write you code, the reporting tool can still do checks. 
+* Leverage existing features and use common APIs to complete checks. Why reinvent the wheel when there are great fully functioning wheels available?
+* Decouple checks from the reporting tool. That means that regardless of what language you chose to write you code, the reporting tool can still do checks.
 * Make reports available through multiple channels in real time (GraphQL, PDF, web). If we still need to print documents to prove our work is secure, at least we don’t have to do so manually anymore.
 
 ### What we came up with

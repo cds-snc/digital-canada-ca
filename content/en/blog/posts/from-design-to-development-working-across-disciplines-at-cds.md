@@ -3,7 +3,7 @@ layout: blog
 title: 'From design to development: working across disciplines at CDS'
 description: >-
   By taking an interdisciplinary approach, I’ve been able to broaden my skills
-  and collaborate to build better products. 
+  and collaborate to build better products.
 author: 'Nick Makuch, Interaction designer/Front-end developer'
 date: 2019-01-08T14:00:00.000Z
 image: https://de2an9clyit2x.cloudfront.net/yoel_j_gonzalez_304137_unsplash_64d7101ca1.jpeg
@@ -12,7 +12,6 @@ image-alt: >-
   waiting to cross the street.
 translationKey: working-across-disciplines
 thumb: https://de2an9clyit2x.cloudfront.net/small_yoel_j_gonzalez_304137_unsplash_64d7101ca1.jpeg
-processed: 1550672961692
 ---
 I took Interactive Multimedia and Design in school, where I learned a solid foundation in both design and development. Professors said we’d likely end up working between these two disciplines, as a bridge. Towards the end of my program, I chose to focus primarily on design. I didn’t realize that, some short years later, I’d be learning how to code again.
 
@@ -30,9 +29,9 @@ One of the most annoying things you can do is underestimate a task, for example,
 
 **3. Being able to create functional prototypes**
 
-Prototyping is essential for testing usability and revealing parts of a design that might need improvement. While some software allows designers to create prototypes fast, development often can’t continue seamlessly. Starting with a basic HTML/CSS prototype provides a base that can be built upon without having to convert static visual mockups into functioning code. It helps the team by laying a solid foundation for future iterations of the project. 
+Prototyping is essential for testing usability and revealing parts of a design that might need improvement. While some software allows designers to create prototypes fast, development often can’t continue seamlessly. Starting with a basic HTML/CSS prototype provides a base that can be built upon without having to convert static visual mockups into functioning code. It helps the team by laying a solid foundation for future iterations of the project.
 
-By taking an interdisciplinary approach, I’ve been able to broaden my skills and collaborate to build better products. 
+By taking an interdisciplinary approach, I’ve been able to broaden my skills and collaborate to build better products.
 
-Interested in joining our team? We’re hiring [interaction designers](https://digital.canada.ca/interaction-designers/), [content designers](https://digital.canada.ca/content-designers/), [service designers](https://digital.canada.ca/service-designers/), and [visual designers](https://digital.canada.ca/visual-designers/). 
+Interested in joining our team? We’re hiring [interaction designers](https://digital.canada.ca/interaction-designers/), [content designers](https://digital.canada.ca/content-designers/), [service designers](https://digital.canada.ca/service-designers/), and [visual designers](https://digital.canada.ca/visual-designers/).
 

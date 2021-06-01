@@ -14,7 +14,6 @@ image-alt: >-
   on the wall.
 translationKey: lets-talk-user-experience
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_user_experience_ab66691a2a.jpg
-processed: 1550672961729
 ---
 
 <img width="100%" alt="Pixel evolving into a person — There are five shapes, starting with a square (pixel) on the left-hand side, eventually morphing into a full human figure on the right-hand side." src="https://de2an9clyit2x.cloudfront.net/ux_drawing_f80da5fb67.jpg">
