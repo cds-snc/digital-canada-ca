@@ -4,7 +4,7 @@ type: section
 title: 'Policy Delivery Team Lead'
 description: >-
   We’re hiring for a Policy Delivery Team Lead. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
-archived: false
+archived: true
 translationKey: policy-delivery-lead
 leverId: a6640473-5cab-4460-a81c-0e479cb537b3
 ---
