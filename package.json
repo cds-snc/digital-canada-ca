@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "minimist": "^1.2.5",
-    "snyk": "^1.584.0"
+    "snyk": "^1.586.0"
   },
   "scripts": {
     "dev": "hugo server -D",
