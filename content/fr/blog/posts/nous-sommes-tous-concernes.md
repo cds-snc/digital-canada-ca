@@ -7,9 +7,8 @@ image: https://de2an9clyit2x.cloudfront.net/blog_in_this_together_2017_082de0960
 image-alt: L’équipe des Services numériques de l’Ontario.
 translationKey: n-this-together
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_in_this_together_2017_082de0960c.jpg
-processed: 1550672962174
 ---
-Il y a environ un mois, j’ai eu la chance de participer à la [conférence Connected150](http://www.connected150.ca) et de passer un peu de temps avec nos collègues du Service numérique canadien (SNC). 
+Il y a environ un mois, j’ai eu la chance de participer à la [conférence Connected150](http://www.connected150.ca) et de passer un peu de temps avec nos collègues du Service numérique canadien (SNC).
 
 Étant nouvelle au pays, je trouve encourageant et excitant de constater le travail accompli dans le domaine de la transformation du secteur public et du renouvellement démocratique au Canada. Mon séjour à Ottawa m’a permis de découvrir un grand nombre d’initiatives intéressantes qui se déroulent dans l’ensemble du pays, ainsi que des moyens pour nous tous de travailler ensemble.
 

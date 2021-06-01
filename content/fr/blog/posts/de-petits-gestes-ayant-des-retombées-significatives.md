@@ -12,7 +12,6 @@ image-alt: >-
   que des interprètes gestuels se trouvent derrière eux.
 translationKey: small-acts-big-impact
 thumb: https://de2an9clyit2x.cloudfront.net/small_diversity_day_banner_image_74eb3779fb.jpg
-processed: 1554413470255
 ---
 Des équipes diversifiées et inclusives offrent des services qui le sont tout autant. C’est pourquoi le vendredi 8 février, le Service numérique canadien a tenu l’événement [Diversité au sein des services numériques](https://www.eventbrite.ca/e/diversity-in-digital-services-diversite-au-sein-des-services-numeriques-registration-51465629082), une journée destinée à échanger des idées à propos de la diversité et de l’inclusion des équipes, ainsi que de leur incidence sur la prestation de meilleurs services.
 
@@ -31,7 +30,7 @@ Au total, plus de 50 personnes provenant des secteurs public et privé, du milie
 ## 1. Les contraires ne s’attirent pas
 Mais... les semblables s’attirent. Si nous voulons recruter des gens de divers milieux et de points de vue uniques, nous devons leur offrir un environnement où ils peuvent s’imaginer en train de s’épanouir.
 
-Pour être inclusif, il faut créer des espaces qui incitent les personnes à donner le meilleur d’elles-mêmes, sans discrimination fondée sur la race, l’origine nationale ou ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, la déficience, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse, la situation familiale, l’emplacement géographique... 
+Pour être inclusif, il faut créer des espaces qui incitent les personnes à donner le meilleur d’elles-mêmes, sans discrimination fondée sur la race, l’origine nationale ou ethnique, la religion, l’orientation sexuelle, l’identité ou l’expression de genre, la déficience, l’âge, le statut d’ancien combattant, l’état matrimonial, la grossesse, la situation familiale, l’emplacement géographique...
 
 Pour y arriver, nous devons inspirer la confiance. La confiance, c’est ce qui fait la différence entre une équipe qui collabore à l’atteinte d’un objectif commun tout en faisant preuve de créativité et un groupe de personnes qui travaillent sur un même projet. Et comme nous l’avons constaté lors de l’événement, c’est nous qui devons faire les premiers pas.
 
@@ -41,8 +40,8 @@ Les participants ont proposé quelques pistes afin de favoriser une meilleure in
 
 * Commencer à petite échelle. Nul n’est tenu de gravir la montagne d’un seul pas de géant. De petits gestes entraînent de grands changements.
 * Créer une source fiable, comme une charte d’équipe, qui définit expressément les choses importantes à la culture d’équipe.
-* Exprimer régulièrement sa gratitude et reconnaître la valeur et les compétences de ses coéquipiers. 
-* Offrir des possibilités de leadership et attribuer le travail en fonction des intérêts de chaque équipe. 
+* Exprimer régulièrement sa gratitude et reconnaître la valeur et les compétences de ses coéquipiers.
+* Offrir des possibilités de leadership et attribuer le travail en fonction des intérêts de chaque équipe.
 * Tirer parti de la technologie pour permettre aux gens de travailler de la façon qui correspond le mieux à leur mode de vie.
 
 Puis, une fois que nous avons appliqué ces propositions à notre façon de faire, nous devons:
@@ -75,7 +74,7 @@ Pour remédier aux angles morts dans la conception de services s’adressant à 
 Voici quelques ressources suggérées afin de remédier aux angles morts:
 
 * [Hemingway App](http://www.hemingwayapp.com/) (outil disponible en anglais seulement)
-* [WCAG 2.0](https://www.w3.org/Translations/WCAG20-fr/) 
+* [WCAG 2.0](https://www.w3.org/Translations/WCAG20-fr/)
 * [Squiggle Bird game](https://gamestorming.com/squiggle-birds/) (contenu en anglais seulement)
 
 ## 3. Faire figure de leader

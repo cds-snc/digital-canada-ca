@@ -9,7 +9,6 @@ image-alt: >-
   l’équipe.
 translationKey: recruiting-our-ceo
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_ceo_recruitment_883dc9d347.jpg
-processed: 1550672962164
 ---
 
 Nous avons récemment [annoncé](https://numerique.canada.ca/2018/03/09/le-snc-accueille-son-premier-dirigeant-principal/) qu’Aaron Snow se joignait au Service numérique canadien (SNC) en tant que premier dirigeant principal pour faire partie de notre mouvement numérique.

@@ -10,7 +10,6 @@ image-alt: >-
   programmes.
 translationKey: security-hard
 thumb: https://de2an9clyit2x.cloudfront.net/small_airplane_460f30dd8a.jpg
-processed: 1561556658198
 ---
 La sécurité numérique, c’est difficile. Même les meilleures équipes d’ingénieurs et de spécialistes des TI sont susceptibles de faire des erreurs à un moment donné. Mais tout comme la sécurité dans les aéroports, les étapes et les processus en place sont là pour votre sûreté.
 
@@ -24,7 +23,7 @@ En ce qui concerne la sécurité de votre code, nous pouvons émettre certaines 
 
 ## Le changement est constant
 
-Que vous adoptiez une méthode agile ou en cascade, à un certain moment, vous allez devoir apporter des changements à votre code. Lorsque vous introduisez de nouvelles fonctionnalités ou faites des mises à jour, la surface d’exposition de ce que vous construisez change. Certaines parties de votre code peuvent être justes à un moment donné, mais pas nécessairement plus tard. C’est ce que nous appelons la « détérioration ». La détérioration peut se produire de bien des façons. Manifestement, il y a une vulnérabilité à cet égard. 
+Que vous adoptiez une méthode agile ou en cascade, à un certain moment, vous allez devoir apporter des changements à votre code. Lorsque vous introduisez de nouvelles fonctionnalités ou faites des mises à jour, la surface d’exposition de ce que vous construisez change. Certaines parties de votre code peuvent être justes à un moment donné, mais pas nécessairement plus tard. C’est ce que nous appelons la « détérioration ». La détérioration peut se produire de bien des façons. Manifestement, il y a une vulnérabilité à cet égard.
 
 Par exemple, le contenu de vos bagages va changer avec le temps. Au début de votre voyage, vos bagages sont à peu près vides; au retour, vous rapportez beaucoup de souvenirs. Mais les agents de sécurité de l’aéroport ne croiront pas que le nouveau contenu est sûr simplement parce qu’ils ont déjà vu votre valise.
 
@@ -34,7 +33,7 @@ Dans un aéroport, vous passez par une série de points de contrôle pour confir
 
 Pour ce qui est du code, nous suivons le même type de démarche. Nous pouvons soumettre notre code à une série de vérifications et de tests pour prouver qu’il fonctionne comme prévu. Veiller ainsi à ce que tous nos codes fonctionnent prévient le déploiement de codes douteux.
 
-Et si nous pouvions automatiser ces vérifications de sécurité? 
+Et si nous pouvions automatiser ces vérifications de sécurité?
 
 ## Rapports automatiques
 
@@ -55,8 +54,8 @@ Pour assurer la sécurité de nos déploiements et éviter de créer manuellemen
 ## Objectifs
 
 * Incorporer les examens de sécurité dans un pipeline d’intégration continue. À mesure que le code est déployé, les vérifications de sécurité se font automatiquement et sont déclenchées à chaque version.
-* Tirer parti des fonctions existantes et utiliser des API communes pour effectuer des vérifications. Pourquoi réinventer la roue s’il existe déjà quelque chose qui fonctionne très bien? 
-* Dissocier les vérifications de l’outil de production de rapports. Cela veut dire que peu importe le langage que vous choisissez pour écrire votre code, l’outil de rapports peut quand même faire des vérifications. 
+* Tirer parti des fonctions existantes et utiliser des API communes pour effectuer des vérifications. Pourquoi réinventer la roue s’il existe déjà quelque chose qui fonctionne très bien?
+* Dissocier les vérifications de l’outil de production de rapports. Cela veut dire que peu importe le langage que vous choisissez pour écrire votre code, l’outil de rapports peut quand même faire des vérifications.
 * Publier les rapports au moyen de plusieurs canaux en temps réel (GraphQL, PDF, Web). Si nous devons encore imprimer des documents pour prouver que notre travail est sécuritaire, au moins, nous n’avons plus à le faire manuellement.
 
 ### Notre solution

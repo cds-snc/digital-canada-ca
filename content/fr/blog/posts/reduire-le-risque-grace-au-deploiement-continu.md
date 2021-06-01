@@ -9,13 +9,12 @@ image: https://de2an9clyit2x.cloudfront.net/blog_continuous_deployment_69684377e
 image-alt: Un homme travaille à un bureau sur le code.
 translationKey: reducing-risk-through-continuous-deployment
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_continuous_deployment_69684377ec.jpg
-processed: 1550672962200
 ---
-La plupart des ministères avec qui nous travaillons déploient de nouvelles versions de leur code tous les 4, 6 ou 12 mois. Cette façon de faire cadre bien avec le processus de [développement de logiciel en cascade](https://cyclededeveloppementdunlogiciel.wordpress.com/le-modele-en-cascade/), souvent accompagné de sérieux risques. 
+La plupart des ministères avec qui nous travaillons déploient de nouvelles versions de leur code tous les 4, 6 ou 12 mois. Cette façon de faire cadre bien avec le processus de [développement de logiciel en cascade](https://cyclededeveloppementdunlogiciel.wordpress.com/le-modele-en-cascade/), souvent accompagné de sérieux risques.
 
 ## Les déploiements de type *big bang* sont risqués
 
-Qu’entend-on par [«&nbsp;déploiement de type *big bang*&nbsp;»](https://www.akuiteo.com/blog/les-strategies-de-deploiement-dun-logiciel-erp)? Il s’agit de la plus simple sorte de transfert de système ou de déploiement de versions. Un système est éteint lorsqu’un autre est mis en fonction. 
+Qu’entend-on par [«&nbsp;déploiement de type *big bang*&nbsp;»](https://www.akuiteo.com/blog/les-strategies-de-deploiement-dun-logiciel-erp)? Il s’agit de la plus simple sorte de transfert de système ou de déploiement de versions. Un système est éteint lorsqu’un autre est mis en fonction.
 
 Nous en avons tous vu. Ils peuvent se manifester de plusieurs façons :
 
@@ -55,7 +54,7 @@ Déployer un changement à la fois, tous les jours, a de nombreux avantages&nbsp
 
 Cette approche peut sembler très étrange pour ceux qui ont utilisé le modèle de développement de logiciel en cascade. On peut trouver cela irresponsable de lancer une nouvelle fonctionnalité de cette façon, avec raison. Toutefois, ce n’est pas ce qu’on propose.
 
-Le **déploiement** est le mécanisme que nous utilisons pour que le code à jour soit exécuté dans la production.  
+Le **déploiement** est le mécanisme que nous utilisons pour que le code à jour soit exécuté dans la production.
 Le **lancement** représente le marketing – mettre en service une fonctionnalité à utilisation générale et encourager les gens à l’utiliser.
 
 Les deux sont importants, mais ils peuvent être assez différents.

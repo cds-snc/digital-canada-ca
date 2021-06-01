@@ -19,7 +19,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_technology_choices_at_cds_2017_
 image-alt: Un écran d'ordinateur montrant les résultats d'une série de tests.
 translationKey: technology-choices-at-cds
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_technology_choices_at_cds_2017_7fc41ef768.jpg
-processed: 1550672962165
 ---
 Il y a quelques semaines, nous avons lancé notre [campagne de recrutement publique](/rejoindre-notre-equipe/) dans le but d’embaucher des concepteurs, des développeurs, des scientifiques de données, des gestionnaires de produits et des experts en mobilisation. S’informant au sujet du volet des développeurs, certains nous ont demandé avec quelles plateformes technologiques et quels langages de programmation nous travaillons. Excellente question! L’un des aspects excitants de vous joindre au Service numérique canadien (SNC) si tôt dans notre existence est que vous aurez la chance de modeler la façon dont nos choix technologiques évoluent. Dans cet esprit, c’est-à-dire qu’aucune de ces technologies n’est définitive, j’ai pensé faire le point sur le raisonnement de notre équipe de développement à ce jour ainsi que sur les deux objectifs (en opposition) qui influencent nos choix technologiques.
 

@@ -12,7 +12,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_pei_banner_b2696e820b.jpg
 image-alt: Falaise rouge bordée d’herbe surplombant la mer.
 translationKey: teaming-up-to-deliver-better-outcomes-for-veterans
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_pei_banner_b2696e820b.jpg
-processed: 1550672961838
 ---
 
 Une petite équipe du Service numérique canadien (SNC) a récemment eu la chance de visiter l’Île-du-Prince-Édouard, située au large des côtes maritimes du Canada. Nous y étions invités par [Anciens Combattants Canada](http://www.veterans.gc.ca/fra) (ACC) avec qui nous collaborons pour améliorer la recherche en ligne de prestations pour les anciens combattants.

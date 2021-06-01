@@ -16,7 +16,6 @@ image-alt: >-
   bois.
 translationKey: innovating-esdc
 thumb: https://de2an9clyit2x.cloudfront.net/small_esdc_innovation_fr_c84ca9e64a.jpg
-processed: 1563891110033
 ---
 À Emploi et Développement social Canada, nous avons vraiment commencé à embrasser l’idée d’être novateurs dans la façon dont nous fournissons des services et des informations à nos clients. Ce qui parfois nous semble plus difficile, c’est de nous ouvrir à de nouvelles façons de faire notre travail quotidien *à l’interne*.
 
@@ -26,7 +25,7 @@ Actuellement, Services Canada déploie des efforts concertés pour améliorer la
 
 L’adoption de nouveaux outils et processus, c’est un peu comme une crise de croissance, particulièrement dans un ministère comme EDSC où il y a près de 25 000 employés. Ici, la plupart du temps, nous utilisons Skype pour communiquer rapidement avec quelqu’un. Nous utilisons le courriel si nous avons besoin d’une décision et d’une « trace écrite » formelle. Nous utilisons SharePoint si nous devons partager des documents. L’uniformité est nécessaire dans notre emploi d’outils. Toutefois, il y a des avantages à explorer de nouveaux outils qui nous permettent de mieux travailler.
 
-Mais soudainement, nous avons été catapultés dans un monde de [Trello](https://trello.com), [Slack](https://slack.com/intl/fr-ca/) et [FunRetro](https://funretro.io/). Très peu de courriels, et aucun SharePoint à l’horizon. **Ces outils nous ont permis d’organiser notre travail de façon très intéressante et d’avoir une conversation continue avec toute l’équipe travaillant sur le projet : une boucle de rétroaction constante avec questions, documents et discussions.** Vous avez manqué un jour de travail? Il suffit de défiler vers le haut dans Slack pour découvrir ce qui a été discuté. Vous ne vous souvenez plus de la tâche que vous avez priorisée? Il suffit de consulter les fiches Trello dans lesquelles vous êtes identifié. 
+Mais soudainement, nous avons été catapultés dans un monde de [Trello](https://trello.com), [Slack](https://slack.com/intl/fr-ca/) et [FunRetro](https://funretro.io/). Très peu de courriels, et aucun SharePoint à l’horizon. **Ces outils nous ont permis d’organiser notre travail de façon très intéressante et d’avoir une conversation continue avec toute l’équipe travaillant sur le projet : une boucle de rétroaction constante avec questions, documents et discussions.** Vous avez manqué un jour de travail? Il suffit de défiler vers le haut dans Slack pour découvrir ce qui a été discuté. Vous ne vous souvenez plus de la tâche que vous avez priorisée? Il suffit de consulter les fiches Trello dans lesquelles vous êtes identifié.
 
 Bien que j’aie été hésitante au début (et pour être honnête, j’ai aussi été frustrée et j’ai eu envie de revenir à des outils auxquels j’étais plus habituée), j’ai réalisé avec d’autres collègues que ces outils pouvaient nous être utiles dans notre vie de tous les jours. Tout comme une crise de croissance, ça fait mal au début, mais tout va mieux ensuite.
 

@@ -5,16 +5,15 @@ description: >-
   Suite au développement de la première version du service et de son
   amélioration en fonction des besoins des utilisateurs, nous nous faisons un
   grand plaisir d’annoncer que GC Notification passe de la phase alpha à bêta.
-  L’outil est maintenant plus stable, fiable et sécurisé que jamais. 
+  L’outil est maintenant plus stable, fiable et sécurisé que jamais.
 author: 'Bryan Willey et Clémentine Hahn, gestionnaires de produits'
 date: 2021-02-01T14:19:40.262Z
 image: https://de2an9clyit2x.cloudfront.net/notify_blog_beta_banner_fr_56dffd2eb1.jpg
 image-alt: >-
   Un ordinateur portatif et un téléphone intelligent qui affichent la page
-  d’accueil de GC Notification en version bêta 
+  d’accueil de GC Notification en version bêta
 translationKey: blog-notify-beta
 thumb: https://de2an9clyit2x.cloudfront.net/small_notify_blog_beta_banner_fr_56dffd2eb1.jpg
-processed: 1612203119517
 ---
 Depuis le lancement de l’outil GC Notification en 2019, nous avons aidé des équipes gouvernementales à envoyer [plus de 8,8 millions de notifications](https://notification.canada.ca/activity). Suite au développement de la première version du service et de son amélioration en fonction des besoins des utilisateurs, nous nous faisons un grand plaisir d’annoncer que GC Notification passe de la phase alpha à bêta. L’outil est maintenant plus stable, fiable et sécurisé que jamais.
 

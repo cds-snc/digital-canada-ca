@@ -15,9 +15,8 @@ image-alt: >-
   Elvas
 translationKey: why-canada-needs-a-digital-service/
 thumb: https://de2an9clyit2x.cloudfront.net/small_why_canada_needs_a_digital_service_2017_83f1ff7d59.jpg
-processed: 1550672962193
 ---
-Pendant plusieurs mois, j’ai travaillé en coulisses pour défendre cette cause qu’est le Service numérique canadien (SNC). J’ai beaucoup réfléchi à la raison d’être d’une organisation dédiée aux services numériques au Canada, ainsi qu’au potentiel de cette organisation de changer la façon de concevoir les services gouvernementaux. 
+Pendant plusieurs mois, j’ai travaillé en coulisses pour défendre cette cause qu’est le Service numérique canadien (SNC). J’ai beaucoup réfléchi à la raison d’être d’une organisation dédiée aux services numériques au Canada, ainsi qu’au potentiel de cette organisation de changer la façon de concevoir les services gouvernementaux.
 
 Je veux changer notre façon de concevoir la prestation des services. Je travaille au gouvernement depuis plus de dix ans, et j’ai eu la chance d’être aux premières loges lors de réformes majeures. J’ai vu ce qui marche, et ce qui ne marche pas.
 
@@ -25,7 +24,7 @@ Trop souvent, nous utilisons des dossiers d’analyse détaillés, des recettes 
 
 Nous sommes pris au piège dans des processus rigides qui aboutissent inévitablement à des solutions déjà dépassées au moment de leur mise en œuvre. D’un autre côté, nous hésitons à livrer des produits minimums viables imparfaits. Nous parlons d’expérimentation, mais aussi «&nbsp;d’échec rapide&nbsp;». Je pense que nous devons accepter les itérations comme faisant partie du processus et redéfinir notre notion d’échec.
 
-C’est pourquoi nous avons créé le SNC. Il nous faut une équipe qui peut démontrer l’art du possible dans le domaine du numérique. Une équipe qui peut fournir rapidement un prototype opérationnel pour voir comment il fonctionne et l’améliorer en fonction des commentaires des utilisateurs. Nous devons mettre les besoins réels des gens au cœur des efforts déployés pour concevoir les services gouvernementaux. 
+C’est pourquoi nous avons créé le SNC. Il nous faut une équipe qui peut démontrer l’art du possible dans le domaine du numérique. Une équipe qui peut fournir rapidement un prototype opérationnel pour voir comment il fonctionne et l’améliorer en fonction des commentaires des utilisateurs. Nous devons mettre les besoins réels des gens au cœur des efforts déployés pour concevoir les services gouvernementaux.
 
 On dit que la seule façon de marquer l’histoire est de le faire avec soin. Le Canada a pris ce virage du numérique relativement tard, mais cela nous permet de travailler et d’apprendre avec des gens de la trempe de [Mike Bracken](https://twitter.com/MTBracken) et [Olivia Neal](https://twitter.com/LivNeal) du Government Digital Service du Royaume-Uni ainsi que [Lena Trudeau](https://twitter.com/ltrudeau) de 18F des États-Unis, parmi tant d’autres.
 

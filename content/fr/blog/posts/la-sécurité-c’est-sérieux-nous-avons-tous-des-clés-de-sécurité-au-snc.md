@@ -11,7 +11,6 @@ image: https://de2an9clyit2x.cloudfront.net/yubikey_3_f8e7460aeb.jpg
 image-alt: Une main qui appuie sur sa clé yubikey.
 translationKey: yubikey-post
 thumb: https://de2an9clyit2x.cloudfront.net/small_yubikey_3_f8e7460aeb.jpg
-processed: 1565980653077
 ---
 J’ai peur, très peur! J’ai peur de me réveiller le matin et de constater que les ressources infonuagiques du Service numérique canadien (SNC) ont été vandalisées ou détruites parce qu’une personne mal intentionnée a mis la main sur les justificatifs d’identité de quelqu’un et a décidé de tout bousiller. Cette peur est réelle, et même les plus consciencieux d’entre nous sont vulnérables.
 
@@ -29,7 +28,7 @@ Donc, en termes plus techniques, lorsque vous appuyez sur le bouton doré, un ex
 
 ![Quatre différentes clés de sécurité côte à côte, l’une d’entre elles étant attachée à un porte-clés.](https://de2an9clyit2x.cloudfront.net/yubikey_4_213907f375.jpg)
 
-Nous avons ensuite remis deux clés de sécurité à chaque membre, ce qui permet aux employés de choisir le type de clé qui leur convient le mieux. Nous avons de plus pris le temps d’aider tout le monde à intégrer les clés de sécurité à leur travail et à leur vie personnelle. Ces rencontres individuelles ont aussi servi à avoir des conversations sérieuses sur la [sécurité des mots de passe](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/orientation-sur-mots-passe.html), les [mises à jour logicielles](https://cyber.gc.ca/fr/correctifs-aux-applications-et-aux-se) et d’autres sujets liés à la [cyberhygiène](https://www.pensezcybersecurite.gc.ca/). 
+Nous avons ensuite remis deux clés de sécurité à chaque membre, ce qui permet aux employés de choisir le type de clé qui leur convient le mieux. Nous avons de plus pris le temps d’aider tout le monde à intégrer les clés de sécurité à leur travail et à leur vie personnelle. Ces rencontres individuelles ont aussi servi à avoir des conversations sérieuses sur la [sécurité des mots de passe](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/orientation-sur-mots-passe.html), les [mises à jour logicielles](https://cyber.gc.ca/fr/correctifs-aux-applications-et-aux-se) et d’autres sujets liés à la [cyberhygiène](https://www.pensezcybersecurite.gc.ca/).
 
 Je suis heureux de vous annoncer qu’aucune prise de contrôle de comptes n’a été signalée au SNC, et l’utilisation des clés de sécurité y est pour quelque chose. Restez à l’affût des autres moyens que nous pourrions adopter pour tirer parti de nos clés de sécurité et éliminer de façon pratique certains types de menaces.
 

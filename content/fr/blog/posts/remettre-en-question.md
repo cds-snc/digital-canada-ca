@@ -1,7 +1,7 @@
 ---
 title: >-
   L’accessibilité au SNC – Remettre en question nos hypothèses de départ
-  concernant les images d’ambiance 
+  concernant les images d’ambiance
 description: >-
   Nous avons récemment reçu des commentaires sur notre référentiel Github
   concernant l'accessibilité des images de premier plan utilisées sur certaines
@@ -12,7 +12,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_accessibility_2018_52c1550c88.j
 image-alt: Clavier avec des touches représentant des fonctionnalités d'accessibilité
 translationKey: challenging-our-assumption
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_accessibility_2018_52c1550c88.jpg
-processed: 1550672962201
 ---
 
 Nous avons récemment reçu des commentaires sur notre [référentiel Github](https://github.com/cds-snc/digital-canada-ca) concernant l'accessibilité des images de premier plan utilisées sur certaines pages de notre site Web, y compris sur notre blogue.
@@ -37,12 +36,12 @@ Il existe plusieurs excellentes ressources pour en savoir davantage sur l'access
 
 
 * [24 Accessibility](https://www.24a11y.com/) [En anglais]
-* [Bien utiliser le texte alternatif](http://www.pompage.net/traduction/Bien-utiliser-le-texte-alternatif#contexte) – Tout est dans le contexte 
+* [Bien utiliser le texte alternatif](http://www.pompage.net/traduction/Bien-utiliser-le-texte-alternatif#contexte) – Tout est dans le contexte
 * Blogue de David MacDonald, membre de l’équipe du Web Content Accessibility Guidelines, sur le site Web [CanAdapt](http://www.davidmacd.com/index.html#blog), en particulier [Alternate text for CSS background images](http://www.davidmacd.com/blog/alternate-text-for-css-background-images.html) et [When can a web author use null alt text?](http://www.davidmacd.com/blog/what-is-pure-decoration-alt-text-in-wcag.html) [En anglais]
 * [Blogue sur l’accessibilité du GDS](https://accessibility.blog.gov.uk/) [En anglais]
-* [Des images accessibles](https://openweb.eu.org/articles/accessibilite_images) 
+* [Des images accessibles](https://openweb.eu.org/articles/accessibilite_images)
 * [Guide sur l’accessibilité de 18F](https://accessibility.18f.gov/) [En anglais]
 
 
-Nous continuerons de bloguer sur l'accessibilité et nous aimerions que vous nous [fassiez part](mailto:cds-snc@tbs-sct.gc.ca) de vos commentaires, de vos suggestions de thèmes ou de façons d'améliorer l'accessibilité de tous nos projets. 
+Nous continuerons de bloguer sur l'accessibilité et nous aimerions que vous nous [fassiez part](mailto:cds-snc@tbs-sct.gc.ca) de vos commentaires, de vos suggestions de thèmes ou de façons d'améliorer l'accessibilité de tous nos projets.
 

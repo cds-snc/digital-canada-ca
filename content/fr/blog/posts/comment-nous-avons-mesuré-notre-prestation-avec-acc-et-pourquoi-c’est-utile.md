@@ -14,7 +14,6 @@ image-alt: >-
   et des services.
 translationKey: by-the-numbers
 thumb: https://de2an9clyit2x.cloudfront.net/small_VAC_Benchmark_Blog_F_Rgood_e716f70b28.jpg
-processed: 1556121236018
 ---
 Si nous mesurons une prestation, nous pouvons savoir si nous l’améliorons. C’est pourquoi au Service numérique canadien, nous aimons savoir où nous en sommes avant de commencer à itérer. De cette façon, nous pouvons constater tout le chemin parcouru après avoir perfectionné un produit ou un service.
 
@@ -73,7 +72,7 @@ Pour veiller à ce que le produit respecte les normes établies par les [Normes 
 
 **Description :** Les services devraient respecter ou dépasser les normes d’accessibilité. Communiquer dès le départ avec les utilisateurs ayant des besoins particuliers, pour s’assurer que le résultat conviendra à tout le monde.
 
-**Note :** Le produit était conforme à 89 % par rapport aux Règles pour l’accessibilité des contenus Web (WCAG) 2.1 AA. 
+**Note :** Le produit était conforme à 89 % par rapport aux Règles pour l’accessibilité des contenus Web (WCAG) 2.1 AA.
 
 ### Collaborer largement
 
@@ -83,7 +82,7 @@ Pour veiller à ce que le produit respecte les normes établies par les [Normes 
 
 ## Passer le flambeau
 
-Maintenant que le produit est entre les mains d’ACC, on se prépare à le rendre public d’ici la fin d’avril et à poursuivre la phase bêta. Jusqu’à maintenant, nos essais se sont déroulés dans un cadre modéré, et bien que nous ayons de très bonnes données pour nous dire que l’application _Rechercher des avantages et des services_ fonctionne pour les anciens combattants, nous ne le saurons pas avec certitude jusqu’à ce que l’outil soit mis en ligne. Mais c’est la valeur d’une approche itérative : on reçoit de la rétroaction tôt et souvent pour limiter le risque. 
+Maintenant que le produit est entre les mains d’ACC, on se prépare à le rendre public d’ici la fin d’avril et à poursuivre la phase bêta. Jusqu’à maintenant, nos essais se sont déroulés dans un cadre modéré, et bien que nous ayons de très bonnes données pour nous dire que l’application _Rechercher des avantages et des services_ fonctionne pour les anciens combattants, nous ne le saurons pas avec certitude jusqu’à ce que l’outil soit mis en ligne. Mais c’est la valeur d’une approche itérative : on reçoit de la rétroaction tôt et souvent pour limiter le risque.
 
 Nous sommes honorés d’avoir pu travailler avec ACC et participer à une meilleure prestation de services aux anciens combattants. Nous sommes impatients de découvrir la réaction de l’équipe d’ACC face aux commentaires des anciens combattants sur l’outil, lorsque celui-ci sera « dans la nature » et qu’il sera utilisé par des milliers de personnes. Nous avons adoré travailler avec l’équipe de prestation. Nous sommes heureux qu’elle continue d’explorer et d’améliorer le service en plaçant les anciens combattants et leurs familles au cœur du projet.
 

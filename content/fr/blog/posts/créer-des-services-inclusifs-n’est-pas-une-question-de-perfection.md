@@ -12,11 +12,10 @@ image-alt: >-
   utiliser son ordinateur.
 translationKey: not-perfect
 thumb: https://de2an9clyit2x.cloudfront.net/small_mg_9837_2_7bc5f33d0f.jpg
-processed: 1550672961824
 ---
-L'accessibilité a la réputation d'être difficile, et même parfois impossible à réaliser. Pourtant, l’élaboration de services inclusifs qui conviennent à tous n’est pas une question de perfection. C’est une question d’efforts et de progrès. Et lorsqu’on déploie ce genre d’efforts chaque jour, la transformation s’opère. À l’opposé, si l’on ne fait rien, les gens qui ont le plus besoin de nos services ne pourront pas y accéder. 
+L'accessibilité a la réputation d'être difficile, et même parfois impossible à réaliser. Pourtant, l’élaboration de services inclusifs qui conviennent à tous n’est pas une question de perfection. C’est une question d’efforts et de progrès. Et lorsqu’on déploie ce genre d’efforts chaque jour, la transformation s’opère. À l’opposé, si l’on ne fait rien, les gens qui ont le plus besoin de nos services ne pourront pas y accéder.
 
-Tout au long de ma vie, j’ai été exposée à divers handicaps, blessures et déficiences temporaires. Par exemple, j’utilise rarement une souris, et lorsque je le fais, j’utilise une souris ergonomique verticale qui cause le moins de pression possible sur mes articulations. Pour naviguer et interagir en ligne, j’utilise à la fois un clavier et la reconnaissance vocale. Ces expériences, c’est ce qui nourrit ma passion pour l’amélioration de l’accessibilité. 
+Tout au long de ma vie, j’ai été exposée à divers handicaps, blessures et déficiences temporaires. Par exemple, j’utilise rarement une souris, et lorsque je le fais, j’utilise une souris ergonomique verticale qui cause le moins de pression possible sur mes articulations. Pour naviguer et interagir en ligne, j’utilise à la fois un clavier et la reconnaissance vocale. Ces expériences, c’est ce qui nourrit ma passion pour l’amélioration de l’accessibilité.
 
 Mon parcours m’a enseigné à ne pas faire de suppositions quant à la façon dont les gens utilisent des services. Chaque personne utilise divers moyens qui lui permettent de mieux répondre à ses besoins. L’utilisateur moyen ou « normal » n’existe pas.
 

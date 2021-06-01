@@ -15,7 +15,6 @@ image-alt: >-
   post-it ») sur le tableau blanc.
 translationKey: retrospective-on-EnerGuide-api
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_energuide_retro_f4780d2e1d.jpg
-processed: 1550672962208
 ---
 
 Alors que notre partenariat avec Ressources naturelles Canada (RNCan) pour l’API (interface de programmation d’applications) d’ÉnerGuide tire à sa fin, l’équipe de produit du Service numérique canadien (SNC) a tenu une rétrospective pour réfléchir à son expérience, à ses réalisations et aux leçons à retenir.

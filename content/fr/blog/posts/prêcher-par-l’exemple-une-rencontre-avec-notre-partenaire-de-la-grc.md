@@ -16,7 +16,6 @@ image-alt: >-
   de tourner les coins ronds. Il s’agit d’emprunter un chemin différent. »
 translationKey: jeff-adam-interview
 thumb: https://de2an9clyit2x.cloudfront.net/small_jeff_adam_9fda86899c.jpg
-processed: 1583853817542
 ---
 En 1987, Jeff Adam s’est joint à la Gendarmerie royale du Canada (GRC) parce qu’il voulait aider les personnes vulnérables et attraper les méchants. Trente-trois ans plus tard, il s’efforce toujours de le faire, maintenant en tant que commissaire adjoint chargé des opérations techniques.
 
@@ -60,13 +59,13 @@ Je n’ai pas de bonne réponse pour ça. À part la nécessité pour les cadres
 
 ## Dans ce cas, quel conseil donneriez-vous aux cadres qui peuvent donner cette autorisation?
 
-Examinez la politique et demandez-vous : pourrait-il y avoir une nouvelle façon de faire qui soit morale, légale et éthique? 
+Examinez la politique et demandez-vous : pourrait-il y avoir une nouvelle façon de faire qui soit morale, légale et éthique?
 Si la réponse est oui, alors pourquoi la politique vous empêche-t-elle de le faire?
 
 Le développement itératif que le SNC a apporté n’est pas contraire aux politiques, mais plutôt à la façon dont nous avons fait les choses auparavant. Est-ce que cela fait du tort? Non, essayons-le.
 
 
-Sources : (1) [Le cybercrime au Canada, Statistique Canada] (https://www150.statcan.gc.ca/n1/pub/89-28-0001/2018001/article/00015-fra.htm) 
+Sources : (1) [Le cybercrime au Canada, Statistique Canada] (https://www150.statcan.gc.ca/n1/pub/89-28-0001/2018001/article/00015-fra.htm)
 
 
 

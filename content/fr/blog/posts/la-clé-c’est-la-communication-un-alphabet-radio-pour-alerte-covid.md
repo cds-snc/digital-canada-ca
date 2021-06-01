@@ -13,9 +13,8 @@ image-alt: >-
   un patient au téléphone.
 translationKey: phonetic-alphabet-blog
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_phonetic_alphabetic_blog_8f889946bb.jpg
-processed: 1603809167065
 ---
-Le personnel du milieu de la santé ainsi que bien des agents administratifs jouent un rôle crucial dans la réussite de l’application Alerte COVID. 
+Le personnel du milieu de la santé ainsi que bien des agents administratifs jouent un rôle crucial dans la réussite de l’application Alerte COVID.
 
 Lorsqu’une personne d’une province participante reçoit un résultat positif au test de dépistage de la COVID-19, un agent ou une agente lui fournit une clé à usage unique alphanumérique. La personne peut ensuite entrer cette clé dans l’application pour pouvoir envoyer des notifications d’exposition.
 
@@ -23,9 +22,9 @@ Cet échange est la pierre angulaire du processus de notification des personnes 
 
 ## Communiquer la clé à usage unique
 
-Cet échange, cependant, est loin d’être simple. Il faut garder à l’esprit l’aspect humain et les émotions bien réelles qui entrent en jeu lors de telles conversations. Les agents et agentes transmettent les clés alphanumériques à des personnes qui viennent tout juste d’apprendre qu’elles ont la COVID-19. Ces personnes sont anxieuses et inquiètes. Les employés impliqués subissent également la pression des défis posés par la pandémie. 
+Cet échange, cependant, est loin d’être simple. Il faut garder à l’esprit l’aspect humain et les émotions bien réelles qui entrent en jeu lors de telles conversations. Les agents et agentes transmettent les clés alphanumériques à des personnes qui viennent tout juste d’apprendre qu’elles ont la COVID-19. Ces personnes sont anxieuses et inquiètes. Les employés impliqués subissent également la pression des défis posés par la pandémie.
 
-De plus, la transmission des clés se fait souvent par téléphone plutôt qu’en personne, compliquant d’autant plus la communication. Le téléphone est un obstacle entre les agents qui lisent la clé et les patients qui doivent noter les bonnes lettres et les bons chiffres à entrer dans l’application. Pour les personnes dont l’anglais ou le français est la deuxième, la troisième, voire la quatrième langue, ce problème devient encore plus épineux. 
+De plus, la transmission des clés se fait souvent par téléphone plutôt qu’en personne, compliquant d’autant plus la communication. Le téléphone est un obstacle entre les agents qui lisent la clé et les patients qui doivent noter les bonnes lettres et les bons chiffres à entrer dans l’application. Pour les personnes dont l’anglais ou le français est la deuxième, la troisième, voire la quatrième langue, ce problème devient encore plus épineux.
 
 [Dans un récent billet de blogue](https://numerique.canada.ca/2020/10/02/d%C3%A9velopper-un-service-efficace-de-notification-dexposition-comme-alerte-covid/), le responsable du service Alerte COVID décrit les deux principaux aspects qui ont orienté et qui continuent d’orienter le développement du service. L’un de ces aspects est de faire en sorte que le plus de personnes possible utilisent l’application. Pour y arriver, il faut rendre le service le plus accessible possible.
 
@@ -37,7 +36,7 @@ C’est pourquoi nous avons exploré comment la communication de la clé alphanu
 
 Les alphabets radio les plus connus viennent de l’OTAN et de Western Union (Alpha, Bravo, Charlie...). À l’époque, ces alphabets étaient surtout utilisés par des personnes travaillant dans des environnements communs et partageant un même vocabulaire. Dans le contexte d’Alerte COVID, toutefois, les mots de ces alphabets pourraient ne pas être compris dans toutes les cultures, ni par toutes les personnes du Canada.
 
-Le mot « Yankee », par exemple, peut être offensant, tandis le que le mot « foxtrot » est rattaché à des générations et une culture précises. 
+Le mot « Yankee », par exemple, peut être offensant, tandis le que le mot « foxtrot » est rattaché à des générations et une culture précises.
 
 **Nous nous sommes demandé si nous pouvions trouver des mots adaptés à notre réalité. Si oui, comment choisir les mots?**
 
@@ -51,7 +50,7 @@ Nous avons commencé par réfléchir aux critères sur lesquels nous évaluerion
 * Usage courant dans diverses cultures
 * Au moins 2 syllabes
 * Sons évocateurs
-* Pas de connotation négative 
+* Pas de connotation négative
 
 Dans les exemples qui suivent, l’italique sert à indiquer les mots anglais.
 
@@ -67,9 +66,9 @@ Nous avons voulu que les mots de l’alphabet soient susceptibles d’être conn
 
 ### Au moins 2 syllabes
 
-Nous avons décidé de choisir des mots ayant minimalement 2 syllabes. En effet, on craignait que les mots d’une syllabe risquent davantage d’être confondus avec d’autres sons. La personne qui écoute pourrait par exemple combiner une syllabe avec le mot qui vient d’être dit ou celui qui suit. 
+Nous avons décidé de choisir des mots ayant minimalement 2 syllabes. En effet, on craignait que les mots d’une syllabe risquent davantage d’être confondus avec d’autres sons. La personne qui écoute pourrait par exemple combiner une syllabe avec le mot qui vient d’être dit ou celui qui suit.
 
-Étant donné que la deuxième syllabe repose sur la première, nous avons pensé qu’elle pourrait aider les patients à confirmer qu’ils ont entendu le bon mot. « Famille » et « radio » sont de bons exemples de mots d’au moins 2 syllabes. 
+Étant donné que la deuxième syllabe repose sur la première, nous avons pensé qu’elle pourrait aider les patients à confirmer qu’ils ont entendu le bon mot. « Famille » et « radio » sont de bons exemples de mots d’au moins 2 syllabes.
 
 ### Sons évocateurs
 
@@ -81,7 +80,7 @@ Ce critère explique aussi pourquoi nous n’avons pas conservé le mot « hôte
 
 ### Pas de connotation négative
 
-Nous avons voulu éviter les mots ayant une connotation négative afin de ne pas inconsciemment ajouter de mauvaises pensées à une situation déjà assez éprouvante. Pour cette raison, nous avons retiré l’allusion à l’alcool qui venait avec la lettre W de l’alphabet de l’OTAN (le mot étant « whisky »). Nous avons plutôt choisi « Wi-Fi ». 
+Nous avons voulu éviter les mots ayant une connotation négative afin de ne pas inconsciemment ajouter de mauvaises pensées à une situation déjà assez éprouvante. Pour cette raison, nous avons retiré l’allusion à l’alcool qui venait avec la lettre W de l’alphabet de l’OTAN (le mot étant « whisky »). Nous avons plutôt choisi « Wi-Fi ».
 
 ## Continuer à améliorer l’alphabet
 

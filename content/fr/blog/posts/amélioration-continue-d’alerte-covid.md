@@ -10,7 +10,7 @@ description: >-
   travers le pays.**
 author: >-
   Josh Ruihley, Emily Kuret, Stephen Yates, Courtney Claessens et Sean Boots,
-  Service numérique canadien (SNC) 
+  Service numérique canadien (SNC)
 date: 2020-07-31T13:56:55.670Z
 image: https://de2an9clyit2x.cloudfront.net/improving_covid_alert_banner_6e181f5c51.jpg
 image-alt: >-
@@ -18,7 +18,6 @@ image-alt: >-
   COVID.
 translationKey: covid-alert-blog
 thumb: https://de2an9clyit2x.cloudfront.net/small_improving_covid_alert_banner_6e181f5c51.jpg
-processed: 1596212014875
 ---
 <section class="page--outer-container-padding">
    <div class="row">
@@ -43,7 +42,7 @@ processed: 1596212014875
                    l’Ontario</a>, ainsi qu’avec un certain nombre d’autres équipes et experts au sein du gouvernement
                et à
                l’extérieur de celui-ci. </p>
- 
+
            <p>Un large éventail de changements a été apporté à ce code source libre pour améliorer l’accessibilité et
                la fiabilité de l’application, et pour assurer le bon fonctionnement de celle-ci avec les systèmes
                sous-jacents d’Apple et de Google. Nous avons également effectué des tests d’utilisabilité, des <a
@@ -62,7 +61,7 @@ processed: 1596212014875
                clés à usage unique. </p>
            <p>Pour toutes les personnes qui sont curieuses, voici quelques-uns des changements qui ont récemment été
                apportés à l’application.</p>
- 
+
            <h2>Améliorations de l’accessibilité</h2>
            <p>L’un de nos principaux objectifs au gouvernement du Canada est de nous assurer que les services
                fonctionnent pour tous. Notre <a href="https://numerique.canada.ca/a11y/">guide sur l’accessibilité</a>
@@ -70,7 +69,7 @@ processed: 1596212014875
                objectif, bien que la grande partie de notre travail soit normalement axée sur les services en ligne.
                Pour Alerte COVID, travailler sur l’accessibilité des applications mobiles a été une bonne pratique pour
                notre équipe. Nous avons utilisé d’excellentes ressources en cours de route :</p>
- 
+
            <ul>
                <li><a href="https://developer.mozilla.org/fr/docs/Accessibilit%C3%A9/Checklist_accessibilite_mobile">La
                        <span class="italic">check-list</span> pour l’accessibilité mobile</a> de Mozilla</li>
@@ -80,7 +79,7 @@ processed: 1596212014875
                        l’accessibilité pendant la pandémie de la COVID-19</a>, par le Bureau de la transformation
                    numérique</li>
            </ul>
- 
+
            <p>Parmi les améliorations issues des tests d’accessibilité que nous avons apportées à Alerte COVID, il y a
                : les fonctionnalités des lecteurs d’écran VoiceOver et TalkBack, des options de commande vocale, une
                prise en charge améliorée pour l’agrandissement de la taille du texte et de l’écran, des ajustements à
@@ -97,7 +96,7 @@ processed: 1596212014875
                    d’accessibilité</a> de l’application et consulter le
                <a href="https://github.com/cds-snc/covid-alert-documentation/blob/main/RapportAccessibilite.md">Rapport
                    sur l’accessibilité</a>, activement mis à jour, pour plus de détails.</p>
- 
+
            <h2>Clés à usage unique robustes</h2>
            <p>Les clés à usage unique utilisées pour confirmer un diagnostic de COVID-19 dans l’application sont l’une
                des parties « clés » du système de notification d’exposition. Elles sont fournies par les autorités
@@ -125,9 +124,9 @@ processed: 1596212014875
                Pourquoi ceux-ci? Ils permettent d’éviter des chiffres et des lettres pouvant créer de la confusion
                lorsqu’ils sont lus à l’écran ou communiqués par téléphone (par exemple, la lettre O par rapport au
                chiffre 0) avant que les gens ne les saisissent dans Alerte COVID.</p>
- 
+
            <h2>Langage précis au sujet de la confidentialité</h2>
- 
+
            <div class="flex-blog">
                <div class="flex-text">
                    <p>L’application Alerte COVID et la technologie Bluetooth sous-jacente d’Apple et de Google ont été
@@ -170,11 +169,11 @@ processed: 1596212014875
                        par
                        exemple. </p>
                </div>
- 
+
                <img class="flex-image" src="https://de2an9clyit2x.cloudfront.net/improving_covid_alert1_fr_44bc58d45a.jpg"
                    alt="Capture de l’écran d’introduction d’Alerte COVID, disant : Votre vie privée est protégée. Alerte COVID n’utilise pas le GPS et ne suit pas votre emplacement. L’application n’a aucun moyen de connaître : votre emplacement, votre nom ou votre adresse, les contacts de votre téléphone, vos informations de santé, et les informations de santé des personnes à proximité.">
            </div>
- 
+
            <p>En nous basant sur les commentaires du CPVP, nous avons
                supprimé le mot « anonyme » de l’application et l’avons remplacé par un texte précis expliquant comment
                la vie privée des gens est protégée.</p>

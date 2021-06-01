@@ -14,9 +14,8 @@ image-alt: >-
   une maison au moyen de différents blocs.
 translationKey: why-open-source-matters
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_open_source_b720f5ece8.jpg
-processed: 1582641005760
 ---
-Il y a quelques semaines, nous avons publié un [fil Twitter](https://twitter.com/SNC_GC/status/1227970738017251335) sur ce qu’est le code source libre et sur la façon dont il améliore les services en ligne. Nous avons reçu beaucoup de questions à ce sujet de partout au gouvernement. Utiliser du code source libre — et publier le code logiciel que nous écrivons — constitue l’un des principes les plus importants au Service numérique canadien. Si vous êtes curieux de savoir pourquoi, poursuivez votre lecture! 
+Il y a quelques semaines, nous avons publié un [fil Twitter](https://twitter.com/SNC_GC/status/1227970738017251335) sur ce qu’est le code source libre et sur la façon dont il améliore les services en ligne. Nous avons reçu beaucoup de questions à ce sujet de partout au gouvernement. Utiliser du code source libre — et publier le code logiciel que nous écrivons — constitue l’un des principes les plus importants au Service numérique canadien. Si vous êtes curieux de savoir pourquoi, poursuivez votre lecture!
 
 ## Les avantages du code source libre
 
@@ -41,7 +40,7 @@ La conception de logiciels dans un environnement ouvert fait ressortir le meille
 
 Nous avons été inspirés par d’autres pays (particulièrement le R.-U., la France et les États-Unis) ayant adopté le code source libre. Nous savions que le travail ouvert et la publication de code source libre joueraient un rôle clé dans l’approche du Service numérique canada, [avant même que celui-ci ne soit lancé](https://numerique.canada.ca/2017/07/28/voir-grand-commencer-modestement/).
 
-L’ensemble du code logiciel que nous avons développé a été publié à titre de code source libre [sur notre plateforme GitHub](https://github.com/cds-snc). Notre code a été publié en vertu de la licence MIT, afin d’en maximiser la réutilisabilité, emboîtant ainsi le pas à d’autres projets à code source libre du gouvernement du Canada, tels que [la boîte à outils de l’expérience Web](https://github.com/wet-boew/wet-boew). Le fait de publier notre code à titre de logiciel libre [fait partie de toutes les ententes de partenariats](https://numerique.canada.ca/partenariats/) conclues avec les ministères travaillant avec nous. 
+L’ensemble du code logiciel que nous avons développé a été publié à titre de code source libre [sur notre plateforme GitHub](https://github.com/cds-snc). Notre code a été publié en vertu de la licence MIT, afin d’en maximiser la réutilisabilité, emboîtant ainsi le pas à d’autres projets à code source libre du gouvernement du Canada, tels que [la boîte à outils de l’expérience Web](https://github.com/wet-boew/wet-boew). Le fait de publier notre code à titre de logiciel libre [fait partie de toutes les ententes de partenariats](https://numerique.canada.ca/partenariats/) conclues avec les ministères travaillant avec nous.
 
 Il est important que ce code source reste libre, car il permet à nos partenaires de l’adopter et de l’utiliser plus facilement. Il devient aussi plus facile pour les autres ministères de l’adapter et d’en tirer des leçons. Travailler dans un environnement ouvert (sur une plateforme mature comme GitHub) nous permet aussi d’utiliser une grande variété d’outils modernes de développement logiciel (comme [des systèmes d’intégration continue](https://numerique.canada.ca/2018/03/26/les-tests-automatises/)).
 

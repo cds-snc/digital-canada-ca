@@ -10,7 +10,6 @@ image-alt: >-
   ordinateur portable et une tour d’ordinateur de bureau.
 translationKey: supporting-users-gracefully-degrading-react
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_no_JS_16ec4cec0b.jpg
-processed: 1550672962326
 ---
 
 Utiliser les technologies modernes peut rendre le développement plus rapide, mais, ultimement, nous devons livrer des solutions fonctionnelles sans sacrifier la robustesse et l’accessibilité. Nous avons créé le service pour « [reporter un examen de citoyenneté](https://vancouver.rescheduler-dev.cds-snc.ca/?language=fr) » de sorte à repousser les limites de la prestation de services sans toutefois laisser les utilisateurs au dépourvu.
@@ -37,7 +36,7 @@ Quand nous avons commencé à développer le service, nous avons décidé de nou
 
 Utiliser JavaScript pour concevoir un service qui fonctionne sans JavaScript n’était pas le problème le plus facile à régler. C’est pourquoi nous ne l’avons pas abordé au départ.
 
-Avant même que nous ayons de véritables utilisateurs, nous avons priorisé afin de développer le service rapidement, de le tester et de l’améliorer. Dans les premiers stades de développement, alors que le code base était encore assez volatile, il aurait été encore trop tôt pour essayer de tout régler. Comme aimait bien le rappeler [Jason White, l’ancien chef de la gestion des données](https://github.com/cds-snc/digital-canada-ca/commit/cd835e4c730bf247a5a85b323c63b9d5defb378d#diff-cae0f3940920ef2bda0b377bf60f9650L20-L27) : [Traduction] « l’optimisation prématurée est [source de tous les maux](http://wiki.c2.com/?PrematureOptimization) ». 
+Avant même que nous ayons de véritables utilisateurs, nous avons priorisé afin de développer le service rapidement, de le tester et de l’améliorer. Dans les premiers stades de développement, alors que le code base était encore assez volatile, il aurait été encore trop tôt pour essayer de tout régler. Comme aimait bien le rappeler [Jason White, l’ancien chef de la gestion des données](https://github.com/cds-snc/digital-canada-ca/commit/cd835e4c730bf247a5a85b323c63b9d5defb378d#diff-cae0f3940920ef2bda0b377bf60f9650L20-L27) : [Traduction] « l’optimisation prématurée est [source de tous les maux](http://wiki.c2.com/?PrematureOptimization) ».
 
 Nous avons commencé le développement dans [un environnement de développement basé sur React](https://github.com/jaredpalmer/after.js/blob/master/README.md) qui envoie le code HTML en premier puis exécute ensuite le code JavaScript sur l’appareil de l’utilisateur, lorsque possible. Il s’agit ici d’une amélioration assez directe : les utilisateurs accèdent au contenu du site même si le code JavaScript ne s’exécute pas.
 

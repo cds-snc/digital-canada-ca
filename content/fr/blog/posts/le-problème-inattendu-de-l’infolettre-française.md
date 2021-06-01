@@ -14,13 +14,12 @@ image-alt: >-
   mot « sondage », un sablier et une bulle de texte avec un bonhomme sourire.
 translationKey: french-newsletter-surveys
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_newsletter_testing_a152e66ccb.jpg
-processed: 1583159548752
 ---
 <div class="blog-diary">
- 
+
 <p>Bonjour! Ici Charlotte et Élise! </p>
 <p>Récemment, nous avons appris une leçon intéressante sur le fait de présumer que nous connaissons les problèmes de nos utilisateurs tout simplement parce que nous sommes proches de nos produits. Eh bien, il s’avère ce n’est pas nécessairement le cas. Voici notre journal sur cette expérience fort utile.</p>
- 
+
 <div class="diary-entry">
    <h3>Le 18 novembre 2019</h3>
    <p>J’ai remarqué un problème au sujet de l’une de nos infolettres.</p>
@@ -42,7 +41,7 @@ processed: 1583159548752
    <p>Nous avons organisé une réunion avec l’une de nos chercheuses en conception, Adrianne, pour nous aider à étoffer ce plan. À suivre!</p>
    <p>- Charlotte</p>
 </div>
- 
+
 <div class="diary-entry">
    <h3>Le 26 novembre 2019</h3>
    <table>
@@ -61,7 +60,7 @@ processed: 1583159548752
    <p>Nous sommes plutôt sûres de savoir quelles seront les réponses (le contenu...), et qu’elles nous amèneront à élaborer un plan pour tester le contenu. Mais Adrianne a tout à fait raison : ça prend des données à l’appui!</p>
    <p>- Charlotte</p>
 </div>
- 
+
 <div class="diary-entry">
    <h3>Le 29 novembre 2019</h3>
    <p>Charlotte et moi avons profité des derniers jours pour faire un peu de travail d’arrière-plan. J’ai finalisé les questions de sondage, et Charlotte a créé le squelette de la prochaine infolettre. Je pense que toutes les pièces sont en place!</p>
@@ -82,7 +81,7 @@ processed: 1583159548752
    <p>J’ai vraiment hâte de voir ce qu’on va apprendre.</p>
    <p>- Élise</p>
 </div>
- 
+
 <div class="diary-entry">
    <h3>Le 10 décembre 2019 </h3>
    <p>Le courriel «&nbsp;On s’ennuie de vous&nbsp;» et les infolettres subséquentes ont été créés et envoyés!</p>
@@ -102,7 +101,7 @@ processed: 1583159548752
        </tbody>
    </table>
 </div>
- 
+
 <div class="diary-entry">
    <h3>Le 20 décembre 2019</h3>
    <p>Aujourd’hui, c’était le jour de la surprise.</p>

@@ -16,12 +16,11 @@ image-alt: >-
   livres.
 translationKey: help-from-friends-HR
 thumb: https://de2an9clyit2x.cloudfront.net/small_beetletoy_a7a60363e2.jpg
-processed: 1554413470134
 ---
 *[On s’en sort avec l’aide de nos amis] (https://numerique.canada.ca/2019/01/31/on-sen-sort-avec-laide-de-nos-amis/) est une série de billets de blogues mettant en vedette les fonctionnaires extraordinaires qui nous permettent, à nous et à nos partenaires, de concevoir et d’offrir de meilleurs services.*
 
-L’efficacité du SNC repose sur le talent de personnes passionnées et compétentes. Il s’agit d’une recette pas si secrète combinant des talents externes et internes de haut niveau qui travaillent ensemble dans de petites équipes multidisciplinaires. 
-L’un des ingrédients clés de ce succès est le fait d’avoir recruté des personnes qui n’auraient peut-être pas envisagé de travailler pour le gouvernement. Nous avions la certitude qu’il existait des développeurs, des concepteurs, des chercheurs et des chefs de produits qui seraient prêts à mettre la main à la pâte pour aider les gens à l’échelle du pays. Mais pour les attirer et les recruter, il fallait agir différemment. 
+L’efficacité du SNC repose sur le talent de personnes passionnées et compétentes. Il s’agit d’une recette pas si secrète combinant des talents externes et internes de haut niveau qui travaillent ensemble dans de petites équipes multidisciplinaires.
+L’un des ingrédients clés de ce succès est le fait d’avoir recruté des personnes qui n’auraient peut-être pas envisagé de travailler pour le gouvernement. Nous avions la certitude qu’il existait des développeurs, des concepteurs, des chercheurs et des chefs de produits qui seraient prêts à mettre la main à la pâte pour aider les gens à l’échelle du pays. Mais pour les attirer et les recruter, il fallait agir différemment.
 
 Et pour couronner le tout, il nous fallait procéder en respectant le cadre du système de règles existant. En effet, nous n’avons pas de pouvoirs de dotation spéciaux.
 
@@ -39,7 +38,7 @@ Chaque recrutement est différent de l’autre et nous permet à chaque fois d�
 
 Aujourd’hui, nous sommes plus proches que jamais. Émilie Payant partage un espace de travail avec notre équipe deux jours par semaine, et nous disposons d’un canal Slack commun pour les vérifications d’état et les questions (non classifiées!).
 
-La Direction des ressources humaines du SCT nous a aidés à mettre sur pied le genre d’équipe que nous étions supposés bâtir. 
+La Direction des ressources humaines du SCT nous a aidés à mettre sur pied le genre d’équipe que nous étions supposés bâtir.
 
 Je remercie Émilie, Caroline et toute l’équipe d’avoir si bien répondu aux besoins de leurs utilisateurs. Le talent est le moteur du SNC, et sans vous, rien de tout cela ne serait possible.
 

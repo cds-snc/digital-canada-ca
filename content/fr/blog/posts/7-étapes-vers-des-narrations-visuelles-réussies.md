@@ -12,15 +12,15 @@ image-alt: >-
   le cosmos.
 translationKey: visual-storyteller-blog
 thumb: https://de2an9clyit2x.cloudfront.net/small_visual_storyteller_533f467c76.jpg
-processed: 1581626526398
+
 ---
 Vous cherchez à rendre vos communications plus efficaces? Laissez les images vous aider à mettre en valeur vos messages.
 
 ## Narration visuelle et visions narratives
 
-Au Service numérique canadien, nous travaillons constamment à améliorer la façon dont nous communiquons nos messages aux gens. Mon nom est Philippe Tardif, je travaille au SNC en tant que narrateur visuel où j’aide mes collègues à communiquer en images pour qu’ils partagent leurs idées plus efficacement, et ce, afin de créer des expériences engageantes sur toutes nos plateformes. 
+Au Service numérique canadien, nous travaillons constamment à améliorer la façon dont nous communiquons nos messages aux gens. Mon nom est Philippe Tardif, je travaille au SNC en tant que narrateur visuel où j’aide mes collègues à communiquer en images pour qu’ils partagent leurs idées plus efficacement, et ce, afin de créer des expériences engageantes sur toutes nos plateformes.
 
-Puisant à même mes expériences passées, de même que celles acquises au SNC, 
+Puisant à même mes expériences passées, de même que celles acquises au SNC,
 j’ai préparé un coffre à outils qui comprend 7 astuces afin de vous aider à concevoir des narrations visuelles réussies et à découvrir l’impact émotionnel des images. Vous améliorerez ainsi vos qualités de communicateur. Après tout, la narration visuelle n’est pas une science. Elle est à la portée de tous.
 
 Sortir du texte et traduire un récit de façon visuelle, c’est maximiser l’impact de son message. Bref, plus vos messages sont visuels, plus ils seront mémorables! Posez-vous cette question : que préférez-vous? Des données brutes ou une histoire visuellement intéressante?
@@ -37,7 +37,7 @@ Nous avons tous un jour été émus, amusés ou choqués à la vue d’une image
 
 ![Une photo de Maya Angelou, poétesse, écrivaine, et militante du mouvement américain pour les droits civiques, accompagnée de la citation suivante : « Les gens oublieront ce que vous avez dit, ils oublieront ce que vous avez fait, mais ils n’oublieront jamais ce que vous leur avez fait ressentir. »](https://de2an9clyit2x.cloudfront.net/maya_angelou_quote_fr_152aeedc37.jpeg)
 
-Les citations visuelles (comme ci-dessus) donnent de la crédibilité à vos contenus et optimisent leur durée de vie, qu’il s’agisse de réseaux sociaux ou de sites Internet. Lorsqu’elles ne sont pas accompagnées de mots, les images ont tendance à être interprétées de bien différentes façons. L’objectif est donc que les images et les mots se complètent. Mais au fait, une image vaut-elle vraiment mille mots? On dit cela, car une image qui fait parler les gens est une image qui produit un récit. Notre cerveau a besoin d’une structure narrative engageante, avec un début, un milieu et une fin claire, afin de faciliter la rétention des informations.  
+Les citations visuelles (comme ci-dessus) donnent de la crédibilité à vos contenus et optimisent leur durée de vie, qu’il s’agisse de réseaux sociaux ou de sites Internet. Lorsqu’elles ne sont pas accompagnées de mots, les images ont tendance à être interprétées de bien différentes façons. L’objectif est donc que les images et les mots se complètent. Mais au fait, une image vaut-elle vraiment mille mots? On dit cela, car une image qui fait parler les gens est une image qui produit un récit. Notre cerveau a besoin d’une structure narrative engageante, avec un début, un milieu et une fin claire, afin de faciliter la rétention des informations.
 
 ## Le poids des mots
 
@@ -49,12 +49,12 @@ Bien sûr, tout n’est pas blanc ou noir. L’important, c’est de savoir comm
 
 ## 7 étapes vers des narrations visuelles réussies
 
-Napoléon se plaisait à dire qu’un bon croquis vaut mieux qu’un long discours. À l’ère du numérique, ces mots sont toujours d’actualité. La création d’images n’est en rien exclusive aux designers graphiques qui usent de logiciels d’imagerie spécialisés. Une simple capture d’écran peut être un excellent moyen d’illustrer clairement son message. Voici 7 astuces pour améliorer vos compétences en communication visuelle sans nécessairement être un spécialiste : 
+Napoléon se plaisait à dire qu’un bon croquis vaut mieux qu’un long discours. À l’ère du numérique, ces mots sont toujours d’actualité. La création d’images n’est en rien exclusive aux designers graphiques qui usent de logiciels d’imagerie spécialisés. Une simple capture d’écran peut être un excellent moyen d’illustrer clairement son message. Voici 7 astuces pour améliorer vos compétences en communication visuelle sans nécessairement être un spécialiste :
 
 **1. Simplifiez**
 Déterminez l’essentiel de votre message. Si vous n’aviez le droit de dire qu’une seule chose, ce serait quoi? Quel est le cœur de votre message? Faites en sorte de traduire vos idées dans un langage simple. Soyez clair et concis. Évitez le jargon.
 
-**2. Demeurez authentique** 
+**2. Demeurez authentique**
 Utiliser de vraies photos, c’est communiquer qui l’on est réellement. N’hésitez pas à faire des choix personnels. Des photographies touchantes susciteront davantage d’empathie de la part de votre public cible. Assurez-vous de savoir ce que vous souhaitez transmettre au moment de choisir une image.
 
 **3. Vous n’aurez pas toujours l’image idéale pour illustrer vos propos. Acceptez-le.**
@@ -74,7 +74,7 @@ Transmettez vos informations sous forme de récit. Les gens se souviennent mieux
 
 ## En conclusion
 
-La communication visuelle, c’est l’art de transmettre un message par l’utilisation de visuels évocateurs. Stimulantes et merveilleuses, sociales, artistiques, pratiques ou documentaires, les images restent un outil privilégié pour transmettre de l’information et susciter des émotions qui nous aident à mieux se souvenir des contenus. 
+La communication visuelle, c’est l’art de transmettre un message par l’utilisation de visuels évocateurs. Stimulantes et merveilleuses, sociales, artistiques, pratiques ou documentaires, les images restent un outil privilégié pour transmettre de l’information et susciter des émotions qui nous aident à mieux se souvenir des contenus.
 
 Vous n’êtes pas obligé d’être un professionnel de la communication visuelle pour faire en sorte que vos communications aient un impact positif et durable. Bref, les images ont un pouvoir bien plus puissant que vous ne pourriez l’imaginer.
 
