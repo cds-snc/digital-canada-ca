@@ -12,6 +12,7 @@ image-alt: >-
   le cosmos.
 translationKey: visual-storyteller-blog
 thumb: https://de2an9clyit2x.cloudfront.net/small_visual_storyteller_533f467c76.jpg
+
 ---
 Vous cherchez à rendre vos communications plus efficaces? Laissez les images vous aider à mettre en valeur vos messages.
 
