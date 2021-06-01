@@ -1,5 +1,7 @@
 not-found:
   other: "Sorry, eh?"
+all-newsletter-link:
+  other: "Read the newsletter"
 aria-canada-website:
   other: "Government of Canada"
 aria-cds-website:
@@ -197,9 +199,9 @@ rcmp-research:
 notify-research: 
   other: "Take part in our research"
 subscribe-title:
-  other: "Subscribe to our newsletter!"
+  other: "Subscribe to our newsletter"
 subscribe-note:
-  other: "Sign up to our mailing list for information on recruitment, project updates, and new posts from the CDS blog."
+  other: "Join our mailing list to get information on job openings, learning opportunities, and updates on our work."
 subscribe-id:
   other: "//canada.us15.list-manage.com/subscribe/post?u=729a207773f7324e217a1d945&amp;id=eb357181d2"
 email-address:
