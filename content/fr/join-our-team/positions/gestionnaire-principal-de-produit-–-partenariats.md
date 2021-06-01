@@ -4,7 +4,7 @@ type: section
 title: 'Gestionnaire principal de produit – Partenariats'
 description: >-
   Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) gestionnaire de produit principal. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait à distance la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que les régions mentionnées.
-archived: false
+archived: true
 translationKey: sr-product-manager-partnerships
 leverId: ca495bda-8647-4f07-9e3c-5065751c0840
 ---
