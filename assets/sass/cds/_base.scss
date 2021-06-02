@@ -83,7 +83,7 @@ p, main ul, main ol {
 		font-size 	: 2rem;
 	}
 
-	@include tv {
+	@include desktop {
 		font-size 	: 2.25rem;
 		line-height: 3.5rem;
 		margin-bottom: 2.75rem;
@@ -126,7 +126,6 @@ h2 {
 
 	@include desktop {
 		font-size: 2.75rem;
-		// margin: 4.75rem 0 0.5rem 0;
 	}
 }
 

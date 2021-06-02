@@ -107,12 +107,6 @@
   @include mobile_only {
     border-top: 15px solid $black;
   }
-  @include tablet { 
-    // height: 20rem; 
-  }
-  @include desktop {
-    //  height: 25rem; 
-    }
 
   .page-blogpost & {
     height: 25rem;
@@ -125,97 +119,10 @@
       height: 40rem;
     }
   }
-
-  // Page Banner for Front Page
-  .home &, .accueil & {
-    background  : $dark-grey;
-    clear       : both;
-    display     : block;
-    height      : 47rem;
-    position    : relative;
-    width       : 100%;
-    z-index     : 1;
-
-    @include tablet  {
-      height: 30rem;
-    }
-
-    @include desktop {
-      height: 36rem;
-    }
-    @include tv {
-      height: 36rem;
-    }
-  }
-}
-
-.page-banner--tag-line {
-  position: absolute;
-  text-align: center;
-  width: 100%;
-  margin-top: 9rem;
-
-  @include mobile_only {
-    margin-top: 3.5rem;
-  }
-
-  @include tablet {
-    text-align: left;
-    top: 10%;
-  }
-
-  @include desktop {
-    left: 50%;
-    transform: translateX(-50%);
-  }
-
-  .h1 {
-    border-bottom: none !important;
-    line-height: 1.25em;
-
-    @include tablet {
-      font-size: 3rem;
-    }
-
-    @include desktop {
-      font-size: 3.75rem;
-      line-height: 1.35; }
-  }
-}
-
-.page-banner--tag-line--logo {
-  height: 12rem;
-  width: 100%;
-
-  @include tv {
-    height: 14rem;
-  }
-
-  @include desktop {
-    height: 16rem;
-  }
-}
-
-.page-banner--container {
-  width: 70%;
-  margin: 0 auto;
-
-  @include mobile_only {
-    width: 100%;
-  }
 }
 
 .h1 {
   width: calc(70% - (15px / 2));
-
-  @include mobile_only {
-    width: 100%;
-  }
-}
-
-.page-banner--tag-line--logo-container {
-  width: calc(30% - (15px / 2));
-  margin-right: 15px;
 
   @include mobile_only {
     width: 100%;
@@ -311,7 +218,7 @@ td {
 		font-size: 2rem;
 	}
 
-	@include tv {
+	@include desktop {
 		font-size: 2.25rem;
 		line-height: 3.5rem;
 		margin-bottom: 2.75rem;

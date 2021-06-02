@@ -536,47 +536,6 @@ span.livefr {
   }
 }
 
-.bottom-container {
-  padding-top: 10px;
-  justify-content: space-between;
-
-  @include mobile_only {
-    display: block;
-  }
-
-  @include tablet {
-    display: block;
-  }
-
-  @include tv {
-    display: flex;
-  }
-
-  @include desktop {
-    display: flex;
-  }
-}
-
-.bottom-container-nolinks {
-  padding-top: 10px;
-
-  @include mobile_only {
-    display: block;
-  }
-
-  @include tablet {
-    display: block;
-  }
-
-  @include tv {
-    display: flex;
-  }
-
-  @include desktop {
-    display: flex;
-  }
-}
-
 .title-container {
   display: flex;
 }
@@ -765,97 +724,6 @@ span.livefr {
   .img-fluid {
     max-width: 100%;
     height: auto;
-  }
-    
-  .section-smallcaps-title {
-    font-weight: 500;
-    font-size: 1.75rem;
-
-    @include tablet {
-      font-size: 2rem;
-    }
-
-    @include tv {
-      font-size: 2.25rem;
-    }
-  }
-}
-
-.work-with-us--looking-for {
-  background-color: #262a2d;
-  color: $white;
-
-
-  h3{
-    color:$primary-color;
-  }
-
-  li {
-    color:#fff;
-    margin: 0 0 11.5px;
-
-    @include tablet {
-      font-size: 2rem;
-    }
-
-    @include tv {
-      font-size: 2.25rem;
-      line-height: 3.5rem;
-      margin-bottom: 2.75rem;
-    }
-
-    span {
-      color: $white;
-    }
-  }
-
-  .dark-background {
-    background: #034;
-    border-radius: 20px;
-    padding-left: 3rem;
-    padding-right: 4rem;
-    padding-top: 1rem;
-
-    @include mobile_only {
-      padding-top: 1rem;
-      padding-bottom: 2rem;
-    }
-  }
-}
-
-.work-with-us--streams {
-  .mrgn-bttm-lg {
-    margin-bottom: 15px;
-
-    @include tv {
-      margin-bottom: 30px;
-    }
-  }
-
-  li {
-    margin: 0 0 11.5px;
-
-    @include tablet {
-      font-size: 2rem;
-    }
-
-    @include tv {
-      font-size: 2.25rem;
-      line-height: 3.5rem;
-      margin-bottom: 2.75rem;
-    }
-  }
-
-  h4 {
-    font-size: 1.75rem;
-
-    @include tablet {
-      font-size: 2rem;
-    }
-
-    @include tv {
-      font-size: 2.25rem;
-    }
   }
 }
 
@@ -1140,10 +1008,6 @@ article.post {
 
   a.large-link {
     @include tablet {
-      font-size: 2.25rem;
-    }
-
-    @include tv {
       font-size: 2.25rem;
     }
   }
