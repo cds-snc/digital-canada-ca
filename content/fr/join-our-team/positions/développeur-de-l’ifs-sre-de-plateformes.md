@@ -5,7 +5,7 @@ title: 'Développeur de l’IFS (SRE) de plateformes'
 description: >-
   Nous sommes à la recherche d’un(e) Développeur de l’IFS (SRE en anglais) de plateformes. Selon le niveau d’expérience, les Développeurs de l’IFS sont classifiés CS-04 ou CS-05 au sein du groupe Systèmes d’ordinateurs. 
 
-archived: false
+archived: true
 translationKey: platform-sre-dev
 leverId: b732c1c5-2ba7-431b-b4cb-b05ae9e4d1fb
 ---
