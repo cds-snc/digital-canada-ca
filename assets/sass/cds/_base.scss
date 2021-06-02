@@ -17,8 +17,8 @@
 
 // TODO: SourceSansPro is our new font and we need to phase out HKGrotesk and replace with SourceSans. 
 // For now, I'm just including the bare minimum needed for the newsletter component
-@include font-face("SourceSansPro", "../fonts/SourceSansPro-SemiBold",500);
-@include font-face("SourceSansPro", "../fonts/SourceSansPro-Regular",300);
+@include font-face("SourceSansPro", "../fonts/SourceSansPro-SemiBold",500, null, ttf);
+@include font-face("SourceSansPro", "../fonts/SourceSansPro-Regular",300, null, ttf);
 
 @import "font-awesome/fontawesome";
 @import "font-awesome/solid.scss";
