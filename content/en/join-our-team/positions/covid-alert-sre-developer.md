@@ -4,7 +4,7 @@ type: section
 title: 'Covid Alert SRE Developer'
 description: >-
   We are hiring a SRE Developer to support the COVID Alert App. This position is in the Computer Systems classification, representing the CS qualification standard.
-archived: true
+archived: false
 translationKey: covid-alert-sre-dev
 leverId: 9d96ac9e-2dce-4be3-9f31-279f5f26e19a
 ---
