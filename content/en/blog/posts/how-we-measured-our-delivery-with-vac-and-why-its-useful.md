@@ -11,7 +11,6 @@ image: https://de2an9clyit2x.cloudfront.net/VAC_Benchmark_Blog_ENG_e80e8464a0.jp
 image-alt: A screenshot of the tool *Find Benefits and services’* landing page.
 translationKey: by-the-numbers
 thumb: https://de2an9clyit2x.cloudfront.net/small_VAC_Benchmark_Blog_ENG_e80e8464a0.jpg
-processed: 1555597567075
 ---
 If you measure it, you know if you're making it better. That's why at the Canadian Digital Service we like to have a measure of where we are before we start iterating. That way, we know how far we've come after improving a product or service.
 
@@ -27,9 +26,9 @@ The following metrics are taken from our final usability test with 31 participan
 
 ### Completion rate
 
-**Why:** Veterans reported they needed guidance while searching for benefits. Completion rate lets us understand if Veterans can find benefits and are taking their next steps to learn more or apply. 
+**Why:** Veterans reported they needed guidance while searching for benefits. Completion rate lets us understand if Veterans can find benefits and are taking their next steps to learn more or apply.
 
-**Score:** 79.3% of participants identified that they found benefits that were relevant to their needs. 
+**Score:** 79.3% of participants identified that they found benefits that were relevant to their needs.
 
 ### Confidence ranking
 

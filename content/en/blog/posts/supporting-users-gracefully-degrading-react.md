@@ -15,7 +15,6 @@ image-alt: >-
   a flip phone, a laptop and a computer tower.
 translationKey: supporting-users-gracefully-degrading-react
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_no_JS_16ec4cec0b.jpg
-processed: 1550672961766
 ---
 
 Using modern technologies can make development faster, but ultimately we need to deliver working solutions without sacrificing robustness or accessibility. We’ve built the “[Reschedule a citizenship test](https://vancouver.rescheduler-dev.cds-snc.ca/)” service in a way that pushes service delivery forward without leaving users behind.
@@ -38,7 +37,7 @@ While modern tools and newer syntax can greatly improve the experience for web d
 
 When starting development on our service, we decided to use [React](https://reactjs.org/): a modern Javascript library which is [extremely popular amongst web developers](https://insights.stackoverflow.com/survey/2018/#technology-most-loved-dreaded-and-wanted-frameworks-libraries-and-tools).
 
-React offers a number of advantages: it keeps related code together, it reduces the need to learn multiple languages, and it has a vibrant ecosystem of open-source libraries and tutorials. But, using React to build a service that would degrade gracefully was not a straightforward problem. Nevertheless, we were determined to serve the largest range of devices, which meant supporting users without JavaScript. 
+React offers a number of advantages: it keeps related code together, it reduces the need to learn multiple languages, and it has a vibrant ecosystem of open-source libraries and tutorials. But, using React to build a service that would degrade gracefully was not a straightforward problem. Nevertheless, we were determined to serve the largest range of devices, which meant supporting users without JavaScript.
 
 ## The benefits of a no-JavaScript user journey
 

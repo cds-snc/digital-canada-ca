@@ -10,7 +10,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_ceo_recruitment_883dc9d347.jpg
 image-alt: Chief Executive Officer Aaron Snow chatting with two other team members.
 translationKey: recruiting-our-ceo
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_ceo_recruitment_883dc9d347.jpg
-processed: 1550672961742
 ---
 
 We recently [announced](https://digital.canada.ca/2018/03/09/cds-gets-its-first-ceo/) that Aaron Snow is joining CDS as our first CEO. I’m delighted that Aaron is taking the leap to move to Ottawa and be part of our digital movement.

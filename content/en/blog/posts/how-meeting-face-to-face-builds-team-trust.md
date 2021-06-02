@@ -10,7 +10,6 @@ image: https://de2an9clyit2x.cloudfront.net/groupvac_cds_593fa30b36.jpg
 image-alt: The team members all stand together and smile for a photo.
 translationKey: VAC-CDS-visit
 thumb: https://de2an9clyit2x.cloudfront.net/small_groupvac_cds_593fa30b36.jpg
-processed: 1550672961717
 ---
 As a business analyst consulting at Veterans Affairs Canada (VAC) in Charlottetown partnered with the Canadian Digital Service, it’s been challenging to join an in-progress project when teams are located in different cities. Even with a daily remote standup, you don’t get to know who everybody is, and it’s hard to match a voice to a name when you’ve never met.
 

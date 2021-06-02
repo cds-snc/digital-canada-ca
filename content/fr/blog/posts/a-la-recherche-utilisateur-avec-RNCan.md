@@ -9,12 +9,11 @@ image: https://de2an9clyit2x.cloudfront.net/blog_conducting_user_research_with_N
 image-alt: Eman et Jennifer regardent le canevas de proposition de valeur
 translationKey: conducting-user-research-with-NRCan
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_conducting_user_research_with_NRCAN_cb9cb98c0d.jpg
-processed: 1550672961792
 ---
 
 Lorsque Ressources naturelles Canada (RNCan) est venu nous voir avec l’idée d’ouvrir l’accès aux données d’[ÉnerGuide](https://www.rncan.gc.ca/energie/efficacite/habitations/maisons-ameliorees/5006), la solution semblait assez évidente: concevoir une interface de programmation d’applications (API) qui permettrait aux utilisateurs d’interroger les données d’ÉnerGuide. Mais d’abord, il fallait valider la solution proposée.
 
-## Définir les utilisateurs et leurs besoins 
+## Définir les utilisateurs et leurs besoins
 
 Pour commencer, nous avons rencontré des représentants de RNCan pour savoir qui sont leurs utilisateurs: des employés fédéraux, provinciaux, territoriaux et municipaux qui gèrent des programmes et des politiques en matière de logement, des universitaires, des chercheurs et des propriétaires.
 

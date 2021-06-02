@@ -15,7 +15,6 @@ image-alt: >-
   tirées au-dessus de leur tête.
 translationKey: brainstorming-ideation-week
 thumb: https://de2an9clyit2x.cloudfront.net/small_ideas_7f6ab400e5.jpg
-processed: 1566844000861
 ---
 Imaginez-vous au travail, debout devant votre équipe, en train de dire la pire idée que vous ayez jamais eue. Cela vous rend-il mal à l’aise? Nous avons été conditionnés à ne présenter que nos meilleures idées. Mais dire les pires idées possible est exactement ce que j’ai demandé à mon équipe au cours de notre dernière Semaine d’idéation. Permettez-moi d’expliquer pourquoi cet exercice « farfelu » était en fait une très bonne idée.
 
@@ -34,7 +33,7 @@ Voici le plan de la semaine :
 * **Jour 4 : Collaborer en équipe sur des idées**
   Nous nous sommes tous réunis pour présenter nos idées et nous avons commencé à en discuter et à collaborer.
 
-Il était important de bien organiser la semaine. Je voulais que toute l’équipe en arrive à un consensus sur ce qu’elle jugeait être une bonne approche pour la phase alpha — ce qui est difficile à faire lorsqu’il y a 15 personnes dans l’équipe. Une façon d’y parvenir était d’encourager tous les membres de l’équipe à participer et à se sentir à l’aise de poser des questions difficiles et d’exprimer leurs idées. Je suis tombée sur ce jeu brise-glace intitulé « La pire idée possible » et j’ai décidé de l’essayer avec l’équipe. 
+Il était important de bien organiser la semaine. Je voulais que toute l’équipe en arrive à un consensus sur ce qu’elle jugeait être une bonne approche pour la phase alpha — ce qui est difficile à faire lorsqu’il y a 15 personnes dans l’équipe. Une façon d’y parvenir était d’encourager tous les membres de l’équipe à participer et à se sentir à l’aise de poser des questions difficiles et d’exprimer leurs idées. Je suis tombée sur ce jeu brise-glace intitulé « La pire idée possible » et j’ai décidé de l’essayer avec l’équipe.
 
 ## Fonctionnement
 

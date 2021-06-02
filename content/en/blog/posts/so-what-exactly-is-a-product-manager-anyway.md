@@ -15,19 +15,18 @@ image-alt: >-
   Montreal, Waterloo, Toronto, and Ottawa.
 translationKey: product-manager-QA
 thumb: https://de2an9clyit2x.cloudfront.net/small_pm_banner_fix_646dadacee.jpg
-processed: 1563904136175
 ---
 If you find yourself speaking to someone who is highly organized, curious, adaptive, communicative, empathetic, and passionate about removing barriers in order to get stuff done, chances are you’re either talking to a superhuman or a product manager.
 
-  
+
 
 Sometimes mistaken for a *project* manager, product managers are a key piece of the puzzle when it comes to service delivery with multidisciplinary teams. At CDS, we’re lucky to have a team of five product managers who lead teams of researchers, designers, and developers to build easy to use government services.
 
-  
+
 
 To better understand the role of a product manager (PM) in government, we sat down with them and asked a few questions:
 
-  
+
 
 ## Rapidfire: in one sentence, what does a product manager do?
 
@@ -37,7 +36,7 @@ To better understand the role of a product manager (PM) in government, we sat do
 
 **Stevie-Ray:** A product manager makes sure that a delivery team is empowered to get their best work done, creates space for healthy conflict while maintaining a unified product vision that delivers value to the people that will or are using it.
 
-  
+
 
 ## Wow. Not a small task. What does your day-to-day look like to get all of that done?
 
@@ -45,10 +44,10 @@ To better understand the role of a product manager (PM) in government, we sat do
 
 Some of those could include:
 
-* a couple of days of preparing the backlog for the next sprint planning  
-* preparing for the retrospective, organizing, and completing the action items that come from that  
-* researching existing solutions and figuring out how we stack up  
-* conducting research to understand the users' needs and make sure we are still aligned with them  
+* a couple of days of preparing the backlog for the next sprint planning
+* preparing for the retrospective, organizing, and completing the action items that come from that
+* researching existing solutions and figuring out how we stack up
+* conducting research to understand the users' needs and make sure we are still aligned with them
 * making sure our plans are up to date with any new information we come across as we build and collect more data
 
 Then the rest of my time is filled up with stakeholder communications and meetings!
@@ -63,7 +62,7 @@ Usually, every morning before stand up I try to sync with the service owner to a
 
 Adding on that there’s also thinking ahead and being strategic to be sure we create a safe environment for the team to work, the partners to collaborate, and the product to live and evolve.
 
-  
+
 
 ## What is something people might get wrong about product management?
 
@@ -79,7 +78,7 @@ Another thing is you’re not the boss of a team. I’m not a people manager. I�
 
 I feel like people often think Product Managers do a lot of talking and decision making when in fact it's way more listening, researching and then repeating back what was heard, and then getting alignment.
 
-  
+
 
 ## What’s the best part of your job?
 
@@ -91,7 +90,7 @@ Also being able to work in a positive environment! Accepting the possibility of 
 
 **Stevie-Ray:** Hearing that what you’ve built has helped someone, seeing other team members produce incredibly valuable work (given the right conditions), and having a full(er) picture of the moving pieces of a product that gets us from A to B.
 
-  
+
 
 ## Okay, now the tough one. What’s the hardest part of your job?
 
@@ -105,7 +104,7 @@ I love helping people but some days I feel like there isn't enough time to prope
 
 Government impacts people’s lives in a meaningful way, and there is always the possibility that we could be doing harm in our interventions. This makes it a place where we can have great impact, but also one that can be very risk averse. We need to proceed with care, but good policy intentions can often act as a roadblock to doing small scale work or “the right thing.” This layer makes creating an enabling environment for the team an additional duty that is both challenging and really rewarding (when you break through).
 
-  
+
 
 ## What advice would you give people who are currently doing this kind of work, or want to do this kind of work?
 

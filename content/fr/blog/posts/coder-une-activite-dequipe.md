@@ -11,7 +11,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_team_coding_3f3236a73b.jpg
 image-alt: Un écran d'ordinateur affiche 200 lignes de code JavaScript dans Sublime Text.
 translationKey: coding-is-a-team-activity
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_team_coding_3f3236a73b.jpg
-processed: 1550672961815
 ---
 
 D’après notre expérience, le développement de logiciels doit être un effort d’équipe. Cela ne veut pas dire que plusieurs développeurs contribuent individuellement à une seule base de code; au contraire, toute l’équipe est responsable de chaque ligne de code. Pour tout système de production, on s’attend à ce que tous les codes soient approuvés par au moins un autre développeur, avant qu’il ne soit accepté.
@@ -67,8 +66,8 @@ Quiconque approuve une demande de tirage est tout aussi responsable du code que 
 
 Il est important d’établir des normes d’équipe en ce qui concerne les demandes de tirage, plus particulièrement la taille et les délais d’exécution.
 
-> 10 lignes de code = 10 problèmes  
-> 500 lignes de code = « ça a l’air bien beau »  
+> 10 lignes de code = 10 problèmes
+> 500 lignes de code = « ça a l’air bien beau »
 > Examens de code
 
 > Traduction de [@iamdevloper](https://twitter.com/iamdevloper/status/397664295875805184)

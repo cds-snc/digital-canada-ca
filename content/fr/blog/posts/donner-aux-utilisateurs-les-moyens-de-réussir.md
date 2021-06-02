@@ -16,7 +16,6 @@ description: >-
 image-translation: null
 translationKey: setting-users-up-for-success-with-content-design
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_setting_up_users_for_success_0ab67b7ff1.jpg
-processed: 1550672961832
 ---
 
 Vous avez peut-être déjà lu que le SNC travaille avec [Immigration, Réfugiés et Citoyenneté Canada (IRCC)](https://numerique.canada.ca/2017/10/24/circonscrire-un-probleme-de-conception/) pour rendre le processus de [report d’un rendez-vous d’examen de citoyenneté](https://numerique.canada.ca/2018/04/13/reporter-un-rendez-vous-dexamen/) aussi pratique et facile que possible pour les demandeurs, tout en facilitant la vie du personnel administratif.
@@ -25,7 +24,7 @@ Voici deux observations tirées de nos recherches et des tests d’utilisabilit�
 
 ## Qu’est-ce que la conception du contenu?
 
-Au SNC, les concepteurs de contenu partagent la responsabilité des décisions en matière d’expérience utilisateur avec les concepteurs et les chercheurs. Alors que les concepteurs visuels travaillent à la mise en page et à d’autres détails d’une interface, les concepteurs de contenu travaillent à l’architecture de l’information, aux messages et à la microcopie dans cette interface. Pour en savoir plus sur la conception du contenu, consultez [cette courte entrevue avec Sarah Richards](https://gds.blog.gov.uk/2014/03/14/what-we-mean-when-we-talk-about-content-design/). 
+Au SNC, les concepteurs de contenu partagent la responsabilité des décisions en matière d’expérience utilisateur avec les concepteurs et les chercheurs. Alors que les concepteurs visuels travaillent à la mise en page et à d’autres détails d’une interface, les concepteurs de contenu travaillent à l’architecture de l’information, aux messages et à la microcopie dans cette interface. Pour en savoir plus sur la conception du contenu, consultez [cette courte entrevue avec Sarah Richards](https://gds.blog.gov.uk/2014/03/14/what-we-mean-when-we-talk-about-content-design/).
 
 ## 1. Fournir la bonne information au bon moment
 
@@ -102,10 +101,10 @@ Page révisée du formulaire&nbsp;:
 
 <img width="50%" alt="Capture d’écran d’une partie de la page de formulaire, avec un bouton radio remplaçant la liste déroulante précédente. Au-dessus des boutons radio, on peut lire:»Raison du report. Si vous n’êtes pas certain de pouvoir le reporter, lisez les lignes directrices à ce sujet.» Les boutons radio présents sont les suivants:»Voyage, Soins médicaux, Travail ou études, Famille, Autre». Un texte différent se trouve maintenant au-dessus de la zone de texte qui indique:»Décrivez pourquoi vous ne pouvez pas vous présenter à votre examen. Donnez suffisamment de détails pour que le personnel puisse comprendre votre situation.»" src="https://de2an9clyit2x.cloudfront.net/ircc_rescheduler_reason_71280850a8.png">
 
-<p class="translation-caption"><strong>Traduction&nbsp;:&nbsp;</strong>Capture d’écran d’une partie de la page de formulaire, avec un bouton radio remplaçant la liste déroulante précédente. Au-dessus des boutons radio, on peut lire&nbps;:&nbsp;»&nbsp;Raison du report. Si vous n’êtes pas certain de pouvoir le reporter, lisez les lignes directrices à ce sujet.&nbsp;» Les boutons radio présents sont les suivants&nbps;:&nbsp;»&nbsp;Voyage, Soins médicaux, Travail ou études, Famille, Autre&nbsp;». Un texte différent se trouve maintenant au-dessus de la zone de texte qui indique&nbps;:&nbsp;»&nbsp;Décrivez pourquoi vous ne pouvez pas vous présenter à votre examen. Donnez suffisamment de détails pour que le personnel puisse comprendre votre situation.&nbsp;» 
+<p class="translation-caption"><strong>Traduction&nbsp;:&nbsp;</strong>Capture d’écran d’une partie de la page de formulaire, avec un bouton radio remplaçant la liste déroulante précédente. Au-dessus des boutons radio, on peut lire&nbps;:&nbsp;»&nbsp;Raison du report. Si vous n’êtes pas certain de pouvoir le reporter, lisez les lignes directrices à ce sujet.&nbsp;» Les boutons radio présents sont les suivants&nbps;:&nbsp;»&nbsp;Voyage, Soins médicaux, Travail ou études, Famille, Autre&nbsp;». Un texte différent se trouve maintenant au-dessus de la zone de texte qui indique&nbps;:&nbsp;»&nbsp;Décrivez pourquoi vous ne pouvez pas vous présenter à votre examen. Donnez suffisamment de détails pour que le personnel puisse comprendre votre situation.&nbsp;»
 </p>
 
-Ce texte a apaisé les inquiétudes des utilisateurs au sujet du report et les a aidés à remplir le formulaire d’une façon plus utile pour le personnel administratif. 
+Ce texte a apaisé les inquiétudes des utilisateurs au sujet du report et les a aidés à remplir le formulaire d’une façon plus utile pour le personnel administratif.
 
 ### À retenir
 * Établissez les attentes relatives aux tâches des utilisateurs avant qu’ils n’entament le processus.

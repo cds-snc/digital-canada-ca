@@ -10,7 +10,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_team_coding_3f3236a73b.jpg
 image-alt: A computer screen displays 200 lines of JavaScript code in Sublime Text.
 translationKey: coding-is-a-team-activity
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_team_coding_3f3236a73b.jpg
-processed: 1550672961670
 ---
 
 In our experience, software development should be a team effort. This doesn’t mean multiple developers individually contributing code to a single code base; rather, the team as a whole is responsible for each line of code. For any production system, we have an expectation that all code will be approved by at least one other developer, before it is accepted.
@@ -66,8 +65,8 @@ Anyone who approves a pull request is equally responsible for the code as the au
 
 It’s important to set some team norms with respect to pull requests, specifically around size and turnaround times.
 
-> 10 lines of code = 10 issues.  
-> 500 lines of code = looks fine.  
+> 10 lines of code = 10 issues.
+> 500 lines of code = looks fine.
 > Code reviews.
 
 > Author: [@iamdevloper](https://twitter.com/iamdevloper/status/397664295875805184)

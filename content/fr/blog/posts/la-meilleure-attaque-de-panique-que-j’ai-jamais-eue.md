@@ -13,7 +13,6 @@ image-alt: >-
   panique.
 translationKey: best-panic-attack
 thumb: https://de2an9clyit2x.cloudfront.net/small_montreal_library_ec52e16559.jpg
-processed: 1575304320916
 ---
 Il y a exactement un an, j’ai eu une crise de panique dans les toilettes de la Grande Bibliothèque à Montréal.
 

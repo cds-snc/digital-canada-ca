@@ -10,7 +10,6 @@ image: https://de2an9clyit2x.cloudfront.net/tim_swaan_45717_unsplash_e218e3ac92.
 image-alt: footbridge-leading-towards-forest
 translationKey: user-interview-policy
 thumb: https://de2an9clyit2x.cloudfront.net/small_tim_swaan_45717_unsplash_e218e3ac92.jpg
-processed: 1552050695046
 ---
 Public servants who want to conduct interviews with the people that use your service, this post is for you. Recruiting people for service design research can be difficult in any sector, but government has some additional requirements. Though many are warranted due to the government’s position of authority, [others may be due to culture or habit](https://digital.canada.ca/2018/09/07/policy). In this post, we’ll talk about how we recruited Veterans and conducted research.
 
@@ -22,11 +21,11 @@ We understood “what” the problem for Veterans was - low uptake and awareness
 
 We began by asking people from our personal and professional networks to reach out to Veterans they knew. We asked them to pass along a request for volunteers to participate in our study to individuals that fit our screening criteria -  modern-day Veterans. Recruiters were given a privacy statement to pass along to potential participants as well as information on our research objectives. Potential participants were asked to contact the primary researcher to volunteer if they were interested in participating.
 
-In addition to contacting participants relevant to our research goals, this process had three advantages: 
+In addition to contacting participants relevant to our research goals, this process had three advantages:
 
 1. Veterans and still serving military members reached out to us on a voluntary basis, [reducing pressure to participate](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf#page=34) that may be associated with the Government of Canada asking them directly.
 2. We let participants know that the friend or colleague who contacted them would not be told if they chose to participate. Doing so [reduces a feeling of coercion and social pressure](http://www.pre.ethics.gc.ca/pdf/eng/tcps2-2014/TCPS_2_FINAL_Web.pdf#page=34) from the individual who contacted them.
-3. We did not collect any personal information from the participants until we knew for certain they understood the purpose and process of the research and their role in participating. 
+3. We did not collect any personal information from the participants until we knew for certain they understood the purpose and process of the research and their role in participating.
 
 Once potential participants had reached out to us we were able to:
 

@@ -14,7 +14,6 @@ image-alt: >-
   à une cérémonie à Vancouver
 translationKey: human-story-behind-citizenship
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_human_story_citizenship1_76d5a3f84e.jpg
-processed: 1550672961820
 ---
 
 Au gouvernement, nous offrons des services qui répondent aux besoins humains fondamentaux, c’est-à-dire l’appartenance, la sécurité et les relations humaines. Devenir citoyen d’un nouveau pays est l’une des expériences de vie les plus émouvantes qu’une personne vivra et marque la fin d’un long cheminement.
@@ -29,7 +28,7 @@ Les immigrants qui arrivent au Canada font face à de nombreux obstacles économ
 
 Compte tenu des obstacles disproportionnés auxquels les immigrants sont déjà confrontés, comment pourrions-nous concevoir un service attentif qui aide à corriger cette injustice et qui offre une chance équitable de réussir?
 
-Nos partenaires de la Direction générale de l’expérience client à IRCC ont été [à la tête des efforts du Ministère](https://www.thestar.com/news/immigration/2017/09/10/customer-service-a-new-concept-for-canadas-immigration-department.html) visant à mettre en place une approche centrée sur l’utilisateur pour la prestation des services. Nous voulions tirer parti de cette expertise et nous avons donc entrepris de mieux comprendre l’expérience des gens dans le processus de demande de citoyenneté au moyen d’un processus de recherche approfondi. 
+Nos partenaires de la Direction générale de l’expérience client à IRCC ont été [à la tête des efforts du Ministère](https://www.thestar.com/news/immigration/2017/09/10/customer-service-a-new-concept-for-canadas-immigration-department.html) visant à mettre en place une approche centrée sur l’utilisateur pour la prestation des services. Nous voulions tirer parti de cette expertise et nous avons donc entrepris de mieux comprendre l’expérience des gens dans le processus de demande de citoyenneté au moyen d’un processus de recherche approfondi.
 
 Ensemble, nous avons trouvé deux points sensibles et nous avons entrepris de les régler.
 
@@ -41,7 +40,7 @@ Ensemble, nous avons trouvé deux points sensibles et nous avons entrepris de le
 
 L’une des étapes du processus de citoyenneté est un [examen des compétences linguistiques](https://www.canada.ca/fr/immigration-refugies-citoyennete/services/citoyennete-canadienne/devenir-citoyen-canadien/passer-examen-citoyennete.html). Il s’agit d’une entrevue en personne avec un agent d’immigration qui évaluera vos connaissances du Canada et si vous maîtrisez suffisamment l’anglais ou le français. Le [seuil minimum](http://www.cic.gc.ca/francais/centre-aide/reponse.asp?qnum=567&top=5) pour la capacité d’expression et de compréhension orales est le niveau 4, établi par la [Loi sur la citoyenneté canadienne Citizenship Act](http://laws-lois.justice.gc.ca/fra/lois/C-29/TexteComplet.html). Cette politique vise à faire en sorte que les nouveaux citoyens puissent s’intégrer à la société canadienne.
 
-Les gens qui demandent la citoyenneté viennent de 23 pays différents et parlent 190 langues. Les personnes dont la langue maternelle n’est ni le français ni l’anglais s’inscrivent à des cours de langue pour améliorer leurs compétences et passent des mois à concilier les études et leurs responsabilités personnelles actuelles. Étant donné les efforts que les gens investissent dans la réussite de l’examen, on peut comprendre pourquoi ils sont anxieux. 
+Les gens qui demandent la citoyenneté viennent de 23 pays différents et parlent 190 langues. Les personnes dont la langue maternelle n’est ni le français ni l’anglais s’inscrivent à des cours de langue pour améliorer leurs compétences et passent des mois à concilier les études et leurs responsabilités personnelles actuelles. Étant donné les efforts que les gens investissent dans la réussite de l’examen, on peut comprendre pourquoi ils sont anxieux.
 
 Vers la fin du processus de citoyenneté, vous recevez une lettre vous avisant de la date de votre examen. Voici à quoi ressemblait cette lettre :
 
@@ -61,17 +60,17 @@ En tant qu’immigrant au Canada, vous êtes plus susceptible d’avoir des enga
 2. Voyages pour rendre visite à la famille à la maison
 3. Cours et examens universitaires
 
-Être convoqué à une date que vous n’avez pas choisie peut être stressant. Que se passe-t-il si votre examen des compétences linguistiques entre en conflit avec un voyage d’affaires réservé ou vos examens finaux? 
+Être convoqué à une date que vous n’avez pas choisie peut être stressant. Que se passe-t-il si votre examen des compétences linguistiques entre en conflit avec un voyage d’affaires réservé ou vos examens finaux?
 
 Avant d’établir notre service, voici à quoi ressemblait le processus de report :
 
 Vous deviez écrire une lettre à votre bureau de la citoyenneté local. Vous expliquiez vos raisons et espériez que des mesures d’accommodement soient prises. Après avoir écrit votre lettre pour demander une date différente, vous pouviez attendre une réponse pendant des mois. Par conséquent, le centre d’appels d’IRCC recevait des centaines d’appels de personnes souhaitant obtenir des mises à jour et être rassurées.
 
-Dans le cadre de nos recherches, nous avons lu des centaines de ces lettres, dont plusieurs contenaient des histoires très émouvantes. 
+Dans le cadre de nos recherches, nous avons lu des centaines de ces lettres, dont plusieurs contenaient des histoires très émouvantes.
 
-> *« Je veux vraiment passer mon examen, mais il se trouve que c’est la cérémonie de remise des diplômes de ma fille ce jour-là. Serait-il possible de reporter à une autre date? »* 
+> *« Je veux vraiment passer mon examen, mais il se trouve que c’est la cérémonie de remise des diplômes de ma fille ce jour-là. Serait-il possible de reporter à une autre date? »*
 
-Nous avons pu nous rendre compte à quel point les gens avaient peur de demander un report, craignant que toute leur demande de citoyenneté soit rejetée. Certains renonçaient à des événements importants de la vie, ratant un rendez-vous médical ou le mariage d’un membre de leur famille. 
+Nous avons pu nous rendre compte à quel point les gens avaient peur de demander un report, craignant que toute leur demande de citoyenneté soit rejetée. Certains renonçaient à des événements importants de la vie, ratant un rendez-vous médical ou le mariage d’un membre de leur famille.
 
 ## Le nouveau service
 

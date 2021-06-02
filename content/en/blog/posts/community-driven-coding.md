@@ -11,7 +11,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_david_https_header_b2045a7bfc.j
 image-alt: 'Illustration of two people painting a giant, physical web page.'
 translationKey: community-driven-coding
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_david_https_header_b2045a7bfc.jpg
-processed: 1550672961671
 ---
 
 If you're looking, you can find community all around you. Open source software development is no exception. By its nature, open source development is community-driven. People share and build on each other's work, making it better for all.
@@ -27,7 +26,7 @@ As a bonus, we got Eric's experience with it. Eric helped us know what to expect
 * what kind of traffic volume Pulse got, and
 * who their users were.
 
-The cooperation went both ways. We gave back a small set of improvements, such as some basic packaging, more formalized logging, and a bit of general cleanup. The most important addition was automated testing. During development we write tests to verify the system is correct, our addition means that every time a change is proposed those tests will be run automatically verifying that nothing has been broken by the changes. 
+The cooperation went both ways. We gave back a small set of improvements, such as some basic packaging, more formalized logging, and a bit of general cleanup. The most important addition was automated testing. During development we write tests to verify the system is correct, our addition means that every time a change is proposed those tests will be run automatically verifying that nothing has been broken by the changes.
 
 And the cooperation continues. While testing our system last week, we uncovered a bug. Values in one of the columns were not being sorted correctly. After tracing it back to the original Pulse repository and verifying that the bug was present on their version too, we worked with Eric to figure out what was going on. Eric noticed that the values were being sorted as if they were text (ie. 33% 33% 33% 33% 3% 29% 28% …)
 

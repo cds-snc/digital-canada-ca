@@ -11,7 +11,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_hello_world_canada_548cf9565c.j
 image-alt: Red maple leaves.
 translationKey: hello-world-canada
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_hello_world_canada_548cf9565c.jpg
-processed: 1550672961708
 ---
 
 Hello! CDS is just over one year old, and having had the ~~honor~~ honour of serving with this team for six months now, I’m well overdue to write a few words here.

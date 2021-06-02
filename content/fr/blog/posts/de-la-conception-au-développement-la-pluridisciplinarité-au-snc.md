@@ -12,7 +12,6 @@ image-alt: >-
   personnes attendent pour traverser la rue.
 translationKey: working-across-disciplines
 thumb: https://de2an9clyit2x.cloudfront.net/small_yoel_j_gonzalez_304137_unsplash_64d7101ca1.jpeg
-processed: 1550672961828
 ---
 J’ai suivi le programme Interactive Multimedia and Design (Conception et multimédias interactifs) à l’université, et j’y ai acquis une solide base à la fois en conception et en développement. Les professeurs nous disaient qu’on travaillerait probablement à la croisée de ces deux disciplines, assurant le lien entre elles. Vers la fin de mon programme, j’ai décidé de me concentrer sur la conception. J’étais loin de savoir que, quelques années plus tard, j’apprendrais à nouveau à coder.
 

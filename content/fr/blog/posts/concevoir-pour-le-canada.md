@@ -10,7 +10,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_designing_for_canada_2017_a6cf2
 image-alt: 'Chris Govias, Design'
 translationKey: designing-for-canada/
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_designing_for_canada_2017_a6cf251b7c.jpg
-processed: 1550672961819
 ---
 Après un bref congé sabbatique et une décennie passée au Royaume-Uni, je suis fier d’annoncer que je serai le premier chef de la conception au Service numérique canadien (SNC), une nouvelle initiative du gouvernement du Canada.
 

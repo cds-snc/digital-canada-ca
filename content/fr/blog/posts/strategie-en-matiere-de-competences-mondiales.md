@@ -17,7 +17,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_global_skills_strategy_42ab3dc4
 image-alt: Une femme porte des chaussures argentées sur une plate-forme de métro.
 translationKey: global-skills-strategy
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_global_skills_strategy_42ab3dc4c1.jpg
-processed: 1550672962324
 ---
 
 À mes débuts au Service numérique canadien (SNC), je pensais défis et possibilités, mais je n’avais jamais vraiment songé aux nouvelles routes que nous allions emprunter pour embaucher les meilleurs employés. Dans ce billet de blogue, je vais vous faire part de notre expérience de travail avec Immigration, Réfugiés et Citoyenneté Canada (IRCC) pour attirer des spécialistes du monde entier au SNC. J’aborderai plus particulièrement la façon dont nous avons utilisé la nouvelle Stratégie en matière de compétences mondiales pour embaucher notre premier membre de l’équipe à l’international.
@@ -60,7 +59,7 @@ Janvier 2018
 
 Ça a été un grand succès!
 
-Il y a un nombre assez important de documents à remplir et il est nécessaire de prévoir les choses longtemps à l’avance pour parvenir à ses fins. Mais cela permet de bénéficier d’un processus rapide qui favorise la mobilité des travailleurs hautement qualifiés. 
+Il y a un nombre assez important de documents à remplir et il est nécessaire de prévoir les choses longtemps à l’avance pour parvenir à ses fins. Mais cela permet de bénéficier d’un processus rapide qui favorise la mobilité des travailleurs hautement qualifiés.
 
 Nous sommes en train d’embaucher notre cinquième membre de l’équipe à l’international et nous prévoyons en recruter d’autres par la suite. Le caractère international de notre équipe nous enrichit et nous aide à tirer des leçons des expériences d’autres pays et services numériques. La Stratégie en matière de compétences mondiales nous aide à recruter les personnes d’expérience dont nous avons besoin pour notre mission.
 

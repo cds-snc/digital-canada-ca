@@ -11,7 +11,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_language_gap_72a7c0e138.jpg
 image-alt: A French Poodle and an English Bulldog sitting in front of laptops.
 translationKey: language-gap
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_language_gap_72a7c0e138.jpg
-processed: 1550672961723
 ---
 
 When choosing open source tools, one of the biggest obstacles we run into is language, or rather, a lack of the French language. Adapting an application to the local language is known as internationalisation, or [i18n](https://en.wikipedia.org/wiki/Internationalization_and_localization) for short. In Canada, we have the unique challenge of providing a robust, accessible experience in French and English, our official languages. Modern technologies are powerful, but the tech world is notoriously unilingual English. Many open source tools don’t provide the multilingual control we need, like the ability to swap to a version of the content in context. So how do we bridge this gap to deliver modern services to Canadians?

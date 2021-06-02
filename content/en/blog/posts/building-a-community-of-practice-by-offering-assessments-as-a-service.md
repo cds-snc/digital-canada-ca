@@ -15,7 +15,6 @@ image-alt: >-
   notebook.
 translationKey: service-assessments
 thumb: https://de2an9clyit2x.cloudfront.net/small_checklist_bf2f5e5013.jpg
-processed: 1565980652710
 ---
 It takes a community of practice to transform government services. Last year, the Government of Canada introduced its [Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html). These are a set of principles to help teams deliver better quality digital services for Canadians. Since their release, CDS has been exploring how departments can assess themselves against the Standards.
 
@@ -35,11 +34,11 @@ When the Government of Canada's Digital Standards landed, we got excited. We saw
 The results have been positive. To date, we've run about a dozen internal assessments and 3 assessments for other departments - including TBS Cybersecurity, ATIP, and NRCan. The format of a multidisciplinary panel of peers assessing delivery by a multidisciplinary team in an objective and supportive manner, following the framework of the Standards, has helped to improve quality and remove blockers. It has also helped to establish networks of development, design, research and policy practice beyond the boundaries of individual departments.
 
 By asking each team to demonstrate how they meet each of the Standards, it has been possible to make the case for faster release of helpful products and features in ways that offer higher-quality user experiences. We've also been able to spot areas in which products and services don't meet the standards, and provide corresponding advice on how to make improvements or consider alternative approaches.
- 	 
+
 ## Looking ahead
 We believe having the Digital Standards is a big step towards creating better quality services that are developed ethically, iteratively, and lead to outcomes centred around meeting the needs of the people we serve. Assessing government services against the Standards using a lightweight process on a regular cadence helps ensure that **we’re working on the right things, in the right ways, at the right times.**
 
-Based on our experience, we would encourage other [Government of Canada departments to assess how well their services meet the Standards](https://digital.canada.ca/roadmap-2025/#1-prioritize-empower-and-measure-digital-service-development). We’d like to help other departments get started by offering to run more independent, blameless assessments with them. 
+Based on our experience, we would encourage other [Government of Canada departments to assess how well their services meet the Standards](https://digital.canada.ca/roadmap-2025/#1-prioritize-empower-and-measure-digital-service-development). We’d like to help other departments get started by offering to run more independent, blameless assessments with them.
 
 In doing so, we would very soon build up a broader standard assessment community of practice capable of running independent, lightweight and blameless assessments that will lift the quality of service delivery for everyone.
 

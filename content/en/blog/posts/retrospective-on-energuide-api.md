@@ -3,7 +3,7 @@ title: 'Retrospective on the EnerGuide API: a lot of “firsts” and lessons le
 description: >-
   As our partnership with NRCan on the EnerGuide API winds down, the CDS product
   team held a retrospective to reflect on our experience, accomplishments and
-  lessons learned. 
+  lessons learned.
 author: 'Jennifer Fletcher, Partnerships'
 date: '2018-04-25 09:00:00 -0400'
 image: https://de2an9clyit2x.cloudfront.net/blog_energuide_retro_f4780d2e1d.jpg
@@ -13,7 +13,6 @@ image-alt: >-
   whiteboard.
 translationKey: retrospective-on-energuide-api
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_energuide_retro_f4780d2e1d.jpg
-processed: 1550672961750
 ---
 
 As our partnership with NRCan on the EnerGuide API winds down, the CDS product team held a retrospective to reflect on our experience, accomplishments and lessons learned.

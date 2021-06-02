@@ -12,7 +12,6 @@ image-alt: >-
   the right.
 translationKey: building-a-research-plan
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_building_a_research_plan_54517b04ce.jpg
-processed: 1550672961664
 ---
 
 A good discovery phase arms you with all the information you need to define the problem(s) you want to solve. Our discovery phase helped gather evidence that there’s a need for more awareness amongst Veterans on how to access the many programs, services, and benefits available to them through Veterans Affairs Canada (VAC).
@@ -37,7 +36,7 @@ Before we unpack this plan, note that, like everything we do, our plans should a
 ## Goals
 Our first goal was to gain a deeper understanding of Veterans’ unmet or unspoken needs. Listening to their concerns, hopes, and life context, in their own words, after having undergone a major life transition from military to civilian life, would give us the perspective needed to reframe our understanding of the problem.
 
-Our second goal was to document Veterans’ experiences and journey to VAC services. In order to improve how Veterans approach VAC services and how these services could meet their needs, we had to learn the end-to-end service process at the touchpoint level.  
+Our second goal was to document Veterans’ experiences and journey to VAC services. In order to improve how Veterans approach VAC services and how these services could meet their needs, we had to learn the end-to-end service process at the touchpoint level.
 
 ## People
 VAC serves a highly diverse group, ranging from World War II Veterans to family and children of recently released, or retired, military members. Of the total estimated 658,000 Veterans in Canada, we learnt that 600,000 are from more recent conflicts compared to the 58,000 from World War I and II and the Korean War. These are younger, modern-day Veterans with a distinctly new set of challenges, and, as a result, they’re who we chose to begin our research process. Using existing research conducted by VAC, we were able to establish key demographics and baseline profiles to guide participant recruitment.

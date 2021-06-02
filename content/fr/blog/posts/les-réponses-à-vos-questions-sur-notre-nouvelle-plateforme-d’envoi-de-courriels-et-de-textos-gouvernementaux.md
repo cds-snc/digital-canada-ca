@@ -20,7 +20,6 @@ image-alt: >-
   texte envoyés grâce au service Notification.
 translationKey: notify-blog2
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_notify2_89a385e31d.jpg
-processed: 1582120424419
 ---
 Depuis le lancement de notre [plateforme Notification](https://numerique.canada.ca/2019/11/26/on-vous-pr%C3%A9sente-notification/), nous avons reçu plusieurs questions de personnes qui souhaitent savoir comment elle fonctionne, qui peut l’utiliser et, surtout, si elle est gratuite. En raison de cet immense intérêt, nous avons décidé de prendre le temps de répondre à ces questions et d’encourager d’autres organisations à utiliser Notification pour leurs services.
 

@@ -12,7 +12,6 @@ image: https://de2an9clyit2x.cloudfront.net/blog_hello_world_canada_548cf9565c.j
 image-alt: Des feuilles d’érable rouge.
 translationKey: hello-world-canada
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_hello_world_canada_548cf9565c.jpg
-processed: 1550672961801
 ---
 
 Bonjour! Le Service numérique canadien a un peu plus d’un an, et comme j’ai eu l’honneur de faire partie de cette équipe depuis maintenant six mois, il est grand temps que j’écrive quelques mots ici.

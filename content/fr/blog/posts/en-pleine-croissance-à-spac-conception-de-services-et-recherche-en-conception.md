@@ -14,7 +14,6 @@ image: https://de2an9clyit2x.cloudfront.net/pspc_team_1_d45ef92076.jpg
 image-alt: Photo de l’équipe de recherche en conception à SPAC.
 translationKey: emilio-pspc
 thumb: https://de2an9clyit2x.cloudfront.net/small_pspc_team_1_d45ef92076.jpg
-processed: 1564604600053
 ---
 Lorsqu’on parle de la conception de services au gouvernement, il est surtout question de la création de services hors pair offerts aux citoyens. Cela est conforme à notre but principal : nous travaillons pour servir les citoyens. Nous devons par conséquent faire en sorte que les citoyens soient placés au cœur des services.
 

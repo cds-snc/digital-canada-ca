@@ -11,7 +11,6 @@ image: https://de2an9clyit2x.cloudfront.net/the_security_in_digital_is_silent_57
 image-alt: An open lock
 translationKey: the-security-in-digital-is-silent
 thumb: https://de2an9clyit2x.cloudfront.net/small_the_security_in_digital_is_silent_5747f1b463.png
-processed: 1550672961769
 ---
 
 I’ve come to the conclusion that writing about security is harder than actually doing it. This is likely due to having avoided talking or writing about what I’ve done at work for the better part of the last decade. Bear with me, this may be interesting.
@@ -26,19 +25,19 @@ I’d like to try a slightly different approach to security; a little more munda
 
 ## HTTPS everywhere
 
-Before joining CDS, I read through the government’s recently published [‘Strategic plan for information management and information technology’](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/strategic-plan-2017-2021.html), to see what security-related initiatives were in the pipe. Imagine my surprise when I saw the words ‘HTTPS everywhere’. 
+Before joining CDS, I read through the government’s recently published [‘Strategic plan for information management and information technology’](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/strategic-plan-2017-2021.html), to see what security-related initiatives were in the pipe. Imagine my surprise when I saw the words ‘HTTPS everywhere’.
 
-The HTTPS protocol and its insecure cousin HTTP are the protocols that allowed your web browser to talk to our web servers and load this page. HTTPS ensures that no one can peek at the data you send and receive, nor can it be altered in transit. 
+The HTTPS protocol and its insecure cousin HTTP are the protocols that allowed your web browser to talk to our web servers and load this page. HTTPS ensures that no one can peek at the data you send and receive, nor can it be altered in transit.
 
 The HTTPS everywhere initiative has provided an opportunity to leverage my relationships at CSE, help out some colleagues within the TBS’s Chief Information Officer branch, and to reuse an existing project, [Pulse](https://pulse.cio.gov/), kindly shared with the community by the awesome people at [18F](https://18f.gsa.gov/).
 
-CDS is currently partnering with TBS to extend and deploy this product to assist with the government wide [implementation of secure web connections](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/policy-implementation-notices/implementing-https-secure-web-connections-itpin.html). We’re committed to providing a secure connection to any service or website that we build. Look up in the top left corner of your web browser. Do you see a little green lock or bar that says “Secure”? Great! If not, let us know as something has gone horribly wrong. 
+CDS is currently partnering with TBS to extend and deploy this product to assist with the government wide [implementation of secure web connections](https://www.canada.ca/en/treasury-board-secretariat/services/information-technology/policy-implementation-notices/implementing-https-secure-web-connections-itpin.html). We’re committed to providing a secure connection to any service or website that we build. Look up in the top left corner of your web browser. Do you see a little green lock or bar that says “Secure”? Great! If not, let us know as something has gone horribly wrong.
 
 The benefit to this product? When you’re building the “thing” you get to be the first to test it. We tested our own domain names and were dismayed to realize that in our excitement to deploy our website last year, we chose a setting in our AWS Cloudfront configuration that prioritized backwards compatibility over the use of secure ciphers and protocols.
 
 <img width="100%" style="float:left;" alt="Initial testing of the Pulse platform seeded with canada.ca domains." src="https://de2an9clyit2x.cloudfront.net/https_en_a7fea19133.png">
 
-Suffice it to say, we failed our own compliance checks, but were able to fix one of the issues in less time than it took to write this last paragraph. We’ll be cracking away at implementing HSTS soon, but that will likely be the topic of a future post. 
+Suffice it to say, we failed our own compliance checks, but were able to fix one of the issues in less time than it took to write this last paragraph. We’ll be cracking away at implementing HSTS soon, but that will likely be the topic of a future post.
 
 ## Start with the fundamentals, work towards the shiny
 
