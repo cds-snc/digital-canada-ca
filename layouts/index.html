@@ -88,7 +88,7 @@
       </div>
       <div class="row blog-posts">
         {{ $p := where .Site.Pages "Section" "==" "blog" }}
-        {{ $posts := where $p ".Params.processed" ">" 0 }}
+        {{ $posts := where $p ".Params.author" "!=" nil }}
         {{ range first 3 $posts }}
           <div class="col-xs-12 col-md-4">
             <div class='post'>
