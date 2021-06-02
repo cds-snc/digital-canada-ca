@@ -5,7 +5,7 @@
     {{ .Params.title }}
   </h1>
 
-  <!-- URL -->
+  <!-- URL  -->
   {{ with (index .Params "product-url")}}
     <div class="service-link">
       <a class="view-product" href='{{ . }}'>{{ i18n "view-product"}}</a>
