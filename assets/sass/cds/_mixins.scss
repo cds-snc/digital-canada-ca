@@ -2,7 +2,6 @@
 
 @mixin mobile_only  { @media ( max-width: 767px )  { @content; } }
 @mixin tablet       { @media ( min-width: 768px )  { @content; } }
-// @mixin tv           { @media ( min-width: 900px ) { @content; } }
 @mixin desktop      { @media ( min-width: 992px )  { @content; } }
 
 // the following mixins are meant to address content changes on our header menus 
