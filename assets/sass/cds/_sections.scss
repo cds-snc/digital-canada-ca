@@ -46,7 +46,7 @@
   border-top: 1px solid $black;
 
   h1 {
-    font-size: 3rem; 
+    font-size: 3rem;
 
     @include mobile_only {
       font-size: 2.5rem;
@@ -130,7 +130,7 @@
   p {
     margin-bottom: 10px;
   }
- 
+
 }
 
 .homepage--our-team {
@@ -210,16 +210,16 @@
     display: flex;
     justify-content: space-between;
 
-    @include mobile_only { 
-      text-align: center; 
+    @include mobile_only {
+      text-align: center;
     }
 
-    @include tablet { 
-      text-align: center; 
+    @include tablet {
+      text-align: center;
     }
 
-    @include desktop { 
-      text-align: left; 
+    @include desktop {
+      text-align: left;
     }
 
     @media( max-width: 1220px) {
@@ -244,8 +244,8 @@
         margin-bottom: 5px;
       }
 
-      @include desktop { 
-        text-align: left; 
+      @include desktop {
+        text-align: left;
       }
     }
   }
@@ -381,8 +381,8 @@ span.livefr {
   margin-bottom: 2em;
   box-shadow: 5px 8px 5px $medium-grey;
   height: 100%;
-  padding: 10px 10px 20px 10px;
-  
+  padding: 10px 25px 20px 25px;
+
   @include desktop {
     padding-bottom: 0;
   }
@@ -391,26 +391,26 @@ span.livefr {
     display: inline;
   }
 
-  h4, 
+  h1,
   .title-link {
     font-weight: 500;
     margin: 12px 0;
-  
-    @include mobile_only { 
-      font-size: 2.4rem; 
+
+    @include mobile_only {
+      font-size: 2.4rem;
     }
 
     @include tablet {
       font-size: 2.6rem;
     }
 
-    @include desktop { 
-      font-size: 3rem; 
+    @include desktop {
+      font-size: 3rem;
       margin-top: 20px;
     }
   }
 
-  h5, p, a {
+  h2, p, a {
     font-size: 1.85rem;
     display: inline-block;
   }
@@ -424,15 +424,15 @@ span.livefr {
     }
   }
 
-  h4.live::after,
-  h4.livefr::after,
-  h4.alpha::after,
-  h4.alphafr::after,
-  h4.discovery::after,
-  h4.discoveryfr::after,
-  h4.découvertefr::after,
-  h4.beta::after,
-  h4.betafr::after {
+  h1.live::after,
+  h1.livefr::after,
+  h1.alpha::after,
+  h1.alphafr::after,
+  h1.discovery::after,
+  h1.discoveryfr::after,
+  h1.découvertefr::after,
+  h1.beta::after,
+  h1.betafr::after {
     display: inline-block;
     position: relative;
     bottom: 10px;
@@ -441,6 +441,7 @@ span.livefr {
     margin-top: 10px;
     border-radius: 3px;
     font-size: 1.2rem;
+    line-height: 1.2rem;
     text-transform: uppercase;
 
     @include mobile_only {
@@ -457,47 +458,48 @@ span.livefr {
     }
   }
 
-  h4.live::after,
-  h4.livefr::after {
+  h1.live::after,
+  h1.livefr::after {
     background-color: $live-color;
   }
 
-  h4.live::after {
+  h1.live::after {
     content: "Live";
   }
 
-  h4.livefr::after {
+  h1.livefr::after {
     content: "En ligne";
   }
 
-  h4.alpha::after,
-  h4.alphafr::after {
+  h1.alpha::after,
+  h1.alphafr::after {
     content: "Alpha";
     background-color: $alpha-color;
   }
 
-  h4.discovery::after,
-  h4.discoveryfr::after,
-  h4.découvertefr::after {
+  h1.discovery::after,
+  h1.discoveryfr::after,
+  h1.découvertefr::after {
     background-color: $discovery-color;
   }
 
-  h4.discovery::after { content: "Discovery"; }
-  h4.découvertefr::after,
-  h4.discoveryfr::after { 
+  h1.discovery::after { content: "Discovery"; }
+  h1.découvertefr::after,
+  h1.discoveryfr::after {
     content: "Découverte";
   }
 
-  h4.beta::after,
-  h4.betafr::after {
+  h1.beta::after,
+  h1.betafr::after {
     background-color: $beta-color;
   }
 
-  h4.beta::after { content: "Beta"; }
-  h4.betafr::after { content: "Bêta"; }
+  h1.beta::after { content: "Beta"; }
+  h1.betafr::after { content: "Bêta"; }
 
-  h5 {
+  h2 {
     font-weight: 100;
+    margin-bottom: 11.5px;
 
     @include mobile_only {
       margin-top: 5px;
@@ -512,17 +514,12 @@ span.livefr {
     }
   }
 
-  h1,
-  h2,
-  h4 {
+  h1 {
     color: #000000;
+    line-height: 1.1em;
   }
 
   p { margin-bottom: 0px; }
-}
-
-.work-in-progress--platform-module {
-  padding: 10px;
 }
 
 .work-in-progress--product-summary {
@@ -622,13 +619,13 @@ span.livefr {
 .section--title-offset{
   font-size: 3rem;
   margin:0 0 2rem;
-  
+
 }
 
 .flexbox {
   display: flex;
-  
-  
+
+
 
   .steps-icon {
     flex: 0 0 70px;
@@ -651,7 +648,7 @@ span.livefr {
 
 .our-job--listing {
   margin: 40px 0;
-  
+
   h3 {
     margin: 0 20px;
   }
@@ -673,7 +670,7 @@ span.livefr {
 
     @include logo_break{
       flex-direction: column;
-    } 
+    }
   }
 
   .post {
@@ -687,12 +684,12 @@ span.livefr {
     @include logo_break{
       width: 80%;
       margin: 10px 0;
-    } 
+    }
 
     @include mobile_only {
       width: 100%;
     }
-    
+
 
     p {
       margin-bottom: 0px;
@@ -704,7 +701,7 @@ span.livefr {
       font-size: 2rem;
       font-weight: 600;
       text-decoration: underline;
-      
+
     }
   }
 }
@@ -821,7 +818,7 @@ span.livefr {
     flex-direction: column;
     width: 80%;
     margin: 0 auto 30px auto;
-  } 
+  }
 
   .post:first-child {
     padding-top: 0;
@@ -839,7 +836,7 @@ span.livefr {
 
   .post:nth-child(odd) {
     margin-right: 30px;
-    
+
     @media (max-width: 950px) {
       margin-right: 0;
     }
@@ -1070,8 +1067,8 @@ article.post {
     }
   }
 
-  #mc_embed_signup_scroll { 
-    padding: 0; 
+  #mc_embed_signup_scroll {
+    padding: 0;
     display: flex;
     flex-direction: row;
     margin-bottom: 25px;
@@ -1115,8 +1112,8 @@ article.post {
     margin-top: 0;
     padding-left: 0;
 
-    a { 
-      @include label; 
+    a {
+      @include label;
       &:first-child { margin-right: 23px; }
     }
   }
@@ -1360,7 +1357,7 @@ article.post {
 
  .partnerships-info {
   margin: 6rem 0 4rem 0;
-  
+
   h2 {
     margin: 2rem 0 1rem 0;
   }
@@ -1395,8 +1392,8 @@ article.post {
   padding-bottom: 2.5rem;
   background-color: $primary-color;
 
-   p { 
-     font-weight: 900; 
+   p {
+     font-weight: 900;
      color: $black;
     }
 

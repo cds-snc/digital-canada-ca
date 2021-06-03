@@ -18,7 +18,7 @@
       </div>
 
       <div class='row equal'>
-          {{ $posts := where .Pages ".Section" "==" "products" }}
+          {{ $posts := where .Site.Pages ".Section" "==" "products" }}
           {{ $homepage := where $posts ".Params.onhomepage" true }}
           {{ range $idx, $post := first 4 $homepage }}
             {{ if and (ne $idx 0) (eq (mod $idx 2) 0) }}
@@ -87,7 +87,8 @@
         </div>
       </div>
       <div class="row blog-posts">
-        {{ $posts := where .Pages "Section" "blog" }}
+        {{ $p := where .Site.Pages "Section" "==" "blog" }}
+        {{ $posts := where $p ".Params.author" "!=" nil }}
         {{ range first 3 $posts }}
           <div class="col-xs-12 col-md-4">
             <div class='post'>

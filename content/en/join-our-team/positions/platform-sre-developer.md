@@ -5,7 +5,7 @@ title: 'Platform SRE Developer '
 description: >-
   We are hiring a SRE Developer to support the Platform business unit. Based on your level of experience developers are classified as CS-04 or CS-05 in the Computer Systems group.
 
-archived: false
+archived: true
 translationKey: platform-sre-dev
 leverId: b732c1c5-2ba7-431b-b4cb-b05ae9e4d1fb
 ---
