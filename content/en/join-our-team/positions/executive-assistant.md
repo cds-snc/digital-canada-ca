@@ -29,7 +29,7 @@ We are looking for an Executive Assistant who will thrive at managing multiple p
 - Work closely with Business Unit directors, and the offices of operational partners across the Treasury Board Secretariat.
 - Populate Client Relationship management (CRM) systems
 
-## An excellent candidate will be able to:
+## An excellent candidate will:
 - Keep Directors on track to meet commitments and support accountability for results across the team.
 - Create and improve processes and systems for prioritization and tracking.
 - Think on their feet, providing interpretation and advice for Directors as they engage partners and stakeholders inside and outside government.
@@ -38,7 +38,8 @@ We are looking for an Executive Assistant who will thrive at managing multiple p
 - Be proficient in Microsoft Office, Google Apps (particularly GMail, Calendar, and Docs), and Trello. 
 - Understand how government works and the systems used to run it — with an ability to manage and navigate bureaucracy with ease.
 - Communicate fluently in French and English (in government speak, this role is CBC).
-- Ability to draft correspondence in both official languages and to review translations would be an asset.
+- Have the ability to draft correspondence in both official languages and to review translations.
+- Be eligible to receive Secret security clearance (we'll coordinate this if you don't already have it)
 
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
 
