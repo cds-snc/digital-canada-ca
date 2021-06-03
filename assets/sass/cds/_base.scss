@@ -1,24 +1,12 @@
 // Font Imports
-@include font-face("HKGrotesk", "../fonts/HKGrotesk-Bold",600);
-@include font-face("HKGrotesk", "../fonts/HKGrotesk-BoldItalic", 600, italic);
+@include font-face("SourceSansPro", "../fonts/SourceSansPro-Bold",700, null, ttf);
+@include font-face("SourceSansPro", "../fonts/SourceSansPro-BoldItalic",700, italic, ttf);
 
-@include font-face("HKGrotesk", "../fonts/HKGrotesk-SemiBold",500);
-@include font-face("HKGrotesk", "../fonts/HKGrotesk-SemiBoldItalic",500, italic);
+@include font-face("SourceSansPro", "../fonts/SourceSansPro-SemiBold",600, null, ttf);
+@include font-face("SourceSansPro", "../fonts/SourceSansPro-SemiBoldItalic",600, italic, ttf);
 
-
-@include font-face("HKGrotesk", "../fonts/HKGrotesk-Medium",400);
-@include font-face("HKGrotesk", "../fonts/HKGrotesk-MediumItalic",400, italic);
-
-@include font-face("HKGrotesk", "../fonts/HKGrotesk-Regular",300);
-
-@include font-face("HKGrotesk", " ../fonts/HKGrotesk-Light",100);
-@include font-face("HKGrotesk", " ../fonts/HKGrotesk-LightItalic",100, italic);
-
-
-// TODO: SourceSansPro is our new font and we need to phase out HKGrotesk and replace with SourceSans. 
-// For now, I'm just including the bare minimum needed for the newsletter component
-@include font-face("SourceSansPro", "../fonts/SourceSansPro-SemiBold",500, null, ttf);
-@include font-face("SourceSansPro", "../fonts/SourceSansPro-Regular",300, null, ttf);
+@include font-face("SourceSansPro", "../fonts/SourceSansPro-Regular",400, null, ttf);
+@include font-face("SourceSansPro", "../fonts/SourceSansPro-Italic",400, italic, ttf);
 
 @import "font-awesome/fontawesome";
 @import "font-awesome/solid.scss";
@@ -32,7 +20,7 @@ html {
 }
 
 body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
-	font-family	: "HKGrotesk", sans-serif !important;
+	font-family	: "SourceSansPro", sans-serif !important;
 }
 
 body {
@@ -83,7 +71,7 @@ p, main ul, main ol {
 		font-size 	: 2rem;
 	}
 
-	@include tv {
+	@include desktop {
 		font-size 	: 2.25rem;
 		line-height: 3.5rem;
 		margin-bottom: 2.75rem;
@@ -108,7 +96,7 @@ h1, .h1 {
 	padding: 0;
 	margin: 0;
 	font-weight: 100;
-	font-family: "HKGrotesk", sans-serif;
+	font-family: "SourceSansPro", sans-serif;
 	border-bottom: none;
 	color: $white;
 	font-size: 3rem;
@@ -120,13 +108,12 @@ h1, .h1 {
 }
 
 h2 {
-	font-family: "HKGrotesk", sans-serif;
+	font-family: "SourceSansPro", sans-serif;
 	font-weight: 500;
 	margin-top: 0;
 
 	@include desktop {
 		font-size: 2.75rem;
-		// margin: 4.75rem 0 0.5rem 0;
 	}
 }
 
@@ -243,7 +230,7 @@ ol ul, ol ol, ul ul, ul ol {
 @mixin major {
 	font-family	: "SourceSansPro", sans-serif !important;
 	font-size: 4.5rem !important;
-	font-weight: 300;
+	font-weight: 400;
 	line-height: 1.08;
 }
 
