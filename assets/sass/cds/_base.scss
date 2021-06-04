@@ -15,8 +15,8 @@
 
 // CDS Base Styles and Style Overrides
 html {
-	// This sets the base font size as 1rem or 10px. 
-	font-size: 62.5%; 
+	// This sets the base font size as 1rem or 10px.
+	font-size: 62.5%;
 }
 
 body, h1, h2, h3, h4, h5, h6, p, ul, ol, li, a {
@@ -33,7 +33,7 @@ a {
 	color 		: inherit;
 	font-weight 	: 500;
 	transition: all 0.3s ease-in-out;
-	
+
 
 	@include mobile_only {
 		font-size: 1.75rem;
@@ -107,7 +107,7 @@ h1, .h1 {
 	}
 }
 
-h2 {
+h2, .h2 {
 	font-family: "SourceSansPro", sans-serif;
 	font-weight: 500;
 	margin-top: 0;
@@ -141,7 +141,7 @@ html .container {
 .term {
 	font-style:italic;
 }
-		
+
 .col-sm-10,
 .col-sm-offset-1 {
 	margin: 0;
@@ -190,7 +190,7 @@ html .container {
 			bottom: -2rem;
 		}
 	}
-	
+
 
 	@include tablet {
 		font-size: 3.5rem;
