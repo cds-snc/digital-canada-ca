@@ -1,8 +1,9 @@
 <section class="section work-in-progress--product-module work-in-progress--platform-module border-{{.Params.phase}}"
          id="{{.Params.translationKey}}">
-  <h1 class='{{ .Params.phase }}{{ if eq (string (.Site.Language)) "fr" }}fr{{end}}'>
+  <div class='h1 {{ .Params.phase }}{{ if eq (string (.Site.Language)) "fr" }}fr{{end}}'
+      role="heading">
     {{ .Params.title }}
-  </h1>
+  </div>
 
   <!-- URL -->
   {{ with (index .Params "product-url")}}
@@ -18,7 +19,7 @@
 
   <!-- CONTACT -->
   <div class="work-in-progress--team">
-    <h2>Contact:</h2>
+    <div class="h2">Contact:</div>
     {{ range .Params.contact }}
       <p><a class="contact-link" href='mailto:{{.email}}'>{{ .name }}</a></p>
     {{ end }}
@@ -28,7 +29,7 @@
   <div class="work-in-progress--links">
     {{with .Params.links }}
       {{ if gt (len .) 0 }}
-        <h2>{{ i18n "links" }}:</h2>
+        <div class="h2">{{ i18n "links" }}:</div>
         {{range .}}
           <p><a class="resource-link" href="{{ .url }}">{{.name}}</a></p>
         {{ end }}
