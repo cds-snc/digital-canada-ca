@@ -5,7 +5,7 @@ title: 'Senior Service Designer'
 description: >-
   We are looking for a Senior Service Designer. Service designers create and refine end-to-end services to help users complete their goals. Their work delves into crafting design considerations for all the touch-points different people might encounter while using and managing government services. 
 
-archived: false
+archived: true
 translationKey: sr-service-designer
 leverId: 4d2fb273-8688-47fe-b4db-57e0cc91202d
 ---
