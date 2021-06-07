@@ -5,7 +5,7 @@ title: 'Concepteur principal ou conceptrice principale de service'
 description: >-
   Nous sommes à la recherche d’un concepteur principal ou d’une conceptrice principale de service. Les concepteurs et les conceptrices de services créent et affinent des services de bout en bout pour aider les utilisateurs à atteindre leurs objectifs.
 
-archived: false
+archived: true
 translationKey: sr-service-designer
 leverId: 4d2fb273-8688-47fe-b4db-57e0cc91202d
 ---
