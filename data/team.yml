@@ -261,7 +261,7 @@ team:
     github: CalvinRodo
     linkedin: calvin-rodo-54396710
     twitter: CalvinR
-  - archived: false
+  - archived: true
     name: Cayce Fischer
     title:
       en: Design
@@ -350,7 +350,7 @@ team:
       fr: Conception
     imagehash: small_emma_wootton_c9769b6c90
     email: emma.wootton@tbs-sct.gc.ca
-  - archived: false
+  - archived: true
     name: Eric Pang
     title:
       en: Design
@@ -455,7 +455,7 @@ team:
     imagehash: jose_jimenez_105407e800
     email: jose.jimenez@cds-snc.ca
     twitter: curious_jose
-  - archived: false
+  - archived: true
     name: Julianna Rowsell
     title:
       en: Accessibility
