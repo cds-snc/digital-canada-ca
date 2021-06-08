@@ -455,7 +455,7 @@ team:
     imagehash: jose_jimenez_105407e800
     email: jose.jimenez@cds-snc.ca
     twitter: curious_jose
-  - archived: false
+  - archived: true
     name: Julianna Rowsell
     title:
       en: Accessibility
