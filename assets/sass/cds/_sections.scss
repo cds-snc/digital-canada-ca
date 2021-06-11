@@ -381,7 +381,7 @@ span.livefr {
   margin-bottom: 2em;
   box-shadow: 5px 8px 5px $medium-grey;
   height: 100%;
-  padding: 10px 25px 20px 25px;
+  padding: 10px 10px 20px 10px;
 
   @include desktop {
     padding-bottom: 0;
@@ -391,7 +391,7 @@ span.livefr {
     display: inline;
   }
 
-  h1,
+  h4,
   .title-link {
     font-weight: 500;
     margin: 12px 0;
@@ -410,7 +410,7 @@ span.livefr {
     }
   }
 
-  h2, p, a {
+  h5, p, a {
     font-size: 1.85rem;
     display: inline-block;
   }
@@ -424,15 +424,15 @@ span.livefr {
     }
   }
 
-  h1.live::after,
-  h1.livefr::after,
-  h1.alpha::after,
-  h1.alphafr::after,
-  h1.discovery::after,
-  h1.discoveryfr::after,
-  h1.découvertefr::after,
-  h1.beta::after,
-  h1.betafr::after {
+  h4.live::after,
+  h4.livefr::after,
+  h4.alpha::after,
+  h4.alphafr::after,
+  h4.discovery::after,
+  h4.discoveryfr::after,
+  h4.découvertefr::after,
+  h4.beta::after,
+  h4.betafr::after {
     display: inline-block;
     position: relative;
     bottom: 10px;
@@ -441,7 +441,6 @@ span.livefr {
     margin-top: 10px;
     border-radius: 3px;
     font-size: 1.2rem;
-    line-height: 1.2rem;
     text-transform: uppercase;
 
     @include mobile_only {
@@ -458,48 +457,47 @@ span.livefr {
     }
   }
 
-  h1.live::after,
-  h1.livefr::after {
+  h4.live::after,
+  h4.livefr::after {
     background-color: $live-color;
   }
 
-  h1.live::after {
+  h4.live::after {
     content: "Live";
   }
 
-  h1.livefr::after {
+  h4.livefr::after {
     content: "En ligne";
   }
 
-  h1.alpha::after,
-  h1.alphafr::after {
+  h4.alpha::after,
+  h4.alphafr::after {
     content: "Alpha";
     background-color: $alpha-color;
   }
 
-  h1.discovery::after,
-  h1.discoveryfr::after,
-  h1.découvertefr::after {
+  h4.discovery::after,
+  h4.discoveryfr::after,
+  h4.découvertefr::after {
     background-color: $discovery-color;
   }
 
-  h1.discovery::after { content: "Discovery"; }
-  h1.découvertefr::after,
-  h1.discoveryfr::after {
+  h4.discovery::after { content: "Discovery"; }
+  h4.découvertefr::after,
+  h4.discoveryfr::after {
     content: "Découverte";
   }
 
-  h1.beta::after,
-  h1.betafr::after {
+  h4.beta::after,
+  h4.betafr::after {
     background-color: $beta-color;
   }
 
-  h1.beta::after { content: "Beta"; }
-  h1.betafr::after { content: "Bêta"; }
+  h4.beta::after { content: "Beta"; }
+  h4.betafr::after { content: "Bêta"; }
 
-  h2 {
+  h5 {
     font-weight: 100;
-    margin-bottom: 11.5px;
 
     @include mobile_only {
       margin-top: 5px;
@@ -514,12 +512,17 @@ span.livefr {
     }
   }
 
-  h1 {
+  h1,
+  h2,
+  h4 {
     color: #000000;
-    line-height: 1.1em;
   }
 
   p { margin-bottom: 0px; }
+}
+
+.work-in-progress--platform-module {
+  padding: 10px;
 }
 
 .work-in-progress--product-summary {
@@ -722,6 +725,7 @@ span.livefr {
     max-width: 100%;
     height: auto;
   }
+
 }
 
 .work-with-us--process {
