@@ -7,8 +7,8 @@ phase: beta
 status: in-flight
 onhomepage: true
 contact:
-  - email: emily.kuret@tbs-sct.gc.ca
-    name: Emily Kuret
+  - email: CDS-SNC@tbs-sct.gc.ca
+    name: CDS-SNC@tbs-sct.gc.ca
 partners:
   - name: Royal Canadian Mounted Police
     url: http://www.rcmp-grc.gc.ca/en
