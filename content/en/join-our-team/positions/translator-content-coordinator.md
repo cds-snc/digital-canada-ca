@@ -30,7 +30,7 @@ The Translator role is absolutely essential to ensure that we can fulfill our ma
 
 **An excellent candidate will be able to:**
 
-- Help develop French-first social media campaigns and other french-first promotional content 
+- Help develop French-first social media campaigns and other French-first promotional content 
 - Help establish good bilingual standards across the org (presentations, postings, etc.)
 
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
