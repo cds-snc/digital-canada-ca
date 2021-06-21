@@ -29,6 +29,7 @@ Le rôle de traducteur ou de traductrice est essentiel afin de nous assurer de r
 
 - d’aider à créer des campagnes sur les médias sociaux en français, ainsi que d’autre contenu promotionnel; 
 - d’aider à établir de bonnes normes de bilinguisme à l’échelle de l’organisation (présentations, affichages, etc.).  
+
 Nous savons que chacun offre des compétences et des expériences diversifiées et que tout le monde « ne coche pas toutes les cases ». Postulez quand même! Dites-nous pourquoi vous êtes la bonne personne pour ce poste.
 
 Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons. C’est avec fierté et passion que nous nous efforçons activement de rendre le SNC plus représentatif et plus inclusif de la société que nous servons. Notre capacité à fournir des services publics améliorés — des services accessibles et inclusifs — ne peut être réalisée que si nous pouvons reconnaître et exploiter l’éventail le plus diversifié de pensées, d’expériences et de compétences. Nous travaillons fort pour créer un environnement où les différentes perspectives et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à s’épanouir.
