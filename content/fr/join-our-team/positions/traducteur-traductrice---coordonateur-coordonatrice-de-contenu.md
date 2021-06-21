@@ -16,15 +16,17 @@ L’équipe de liaison et diffusion est responsable de tout ce qui touche la mis
 Le rôle de traducteur ou de traductrice est essentiel afin de nous assurer de respecter notre mandat dans les deux langues officielles et de contribuer à l’amélioration continue de notre équipe, ainsi que du contenu et des normes bilingues à l’échelle de l’organisation. Ce rôle est classifié IS-02 dans le groupe Services d’information. 
 
 **Nous sommes à la recherche d’une personne qui peut :**
+
 - communiquer, oralement et par écrit, en français et en anglais (compétence linguistique CCC au gouvernement); 
 - effectuer des révisions comparatives de documents (administratifs, techniques, politiques et généraux) traduits de l’anglais vers le français; 
 - traduire des documents de l’anglais vers le français; 
-- collaborer avec l’autre traductrice pour améliorer le flux de travail au sein de l’organisation; 
+- collaborer avec les autres traducteurs pour améliorer le flux de travail au sein de l’organisation; 
 - être une source de commentaires constructifs à titre de langagier pour ceux désirant créer du contenu en français; 
 - effectuer de la recherche terminologique et tenir à jour le lexique organisationnel; 
 - réviser des textes pour un langage clair et simple en français.
 
 **Le candidat ou la candidate idéale sera en mesure :**
+
 - d’aider à créer des campagnes sur les médias sociaux en français, ainsi que d’autre contenu promotionnel; 
 - d’aider à établir de bonnes normes de bilinguisme à l’échelle de l’organisation (présentations, affichages, etc.).  
 Nous savons que chacun offre des compétences et des expériences diversifiées et que tout le monde « ne coche pas toutes les cases ». Postulez quand même! Dites-nous pourquoi vous êtes la bonne personne pour ce poste.
