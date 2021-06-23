@@ -60,8 +60,10 @@ partnerships:
   other: "Partnerships"
 partnerships-contact-us:
     other: "Contact us"
-partnerships-contact-us-link:
-    other: "https://forms-formulaires.alpha.canada.ca/id/45"
+# partnerships-contact-us-link:
+#     other: "https://forms-formulaires.alpha.canada.ca/id/45"
+partnerships-contact-us-link: 
+      other: "mailto:partnerships-partenariat@cds-snc.ca"
 partnerships-intro:
   other: "At the Canadian Digital Service (CDS), we partner up with federal departments to design, test and build simple, easy to use services. Our goal is to improve the experience – for people who deliver government services and people who use those services."
 partnerships-how-it-works:
