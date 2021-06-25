@@ -60,10 +60,8 @@ partnerships:
   other: "Partenariats"
 partnerships-contact-us:
   other: "Communiquez avec nous"
-# partnerships-contact-us-link:
-#     other: "https://forms-formulaires.alpha.canada.ca/fr/id/45"
 partnerships-contact-us-link:
-    other: "mailto:partnerships-partenariat@cds-snc.ca"
+    other: "https://forms-formulaires.alpha.canada.ca/fr/id/3"
 partnerships-intro:
   other: "Au Service numérique canadien (SNC), nous établissons des partenariats avec les ministères fédéraux pour concevoir, tester et bâtir des services simples et faciles à utiliser. Notre objectif est d’améliorer l’expérience des personnes qui fournissent les services gouvernementaux tout comme celle des personnes qui les utilisent."
 partnerships-how-it-works:
