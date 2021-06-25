@@ -7,7 +7,7 @@ jobs:
     working_directory: /tmp/cds-website-source
     steps:
       - checkout
-      
+
       # Load git submodules
       - run:
           name: "Load git submodules"
@@ -30,7 +30,7 @@ jobs:
       - restore_cache:
           keys:
             - cds-website-source-{{ checksum ".circle-sha" }}
-      
+
       # Build compiled sites
       - run:
           name: "Build English and French sites"
@@ -113,4 +113,4 @@ workflows:
             - test
           filters:
             branches:
-              only: master
+              only: main
