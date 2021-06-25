@@ -101,9 +101,7 @@
 
 	i {
 		padding: 1.8rem;
-		// color: $white;
 		display: inline-block;
-		border-radius: 50%;
 		text-align: center;
 		font-size: 2rem;
 		transition: all 0.3s ease-in-out;
@@ -115,18 +113,9 @@
 		}
 	}
 
-.footer-links {
-
-	// a { color: $white; }
-	// border-top: 10px solid $footer-green;
-
-	// .border-green, .border-greenfr {
-	// 	border-top: 10px solid $footer-green;
-	// }
-}
-
 .contact-icon {
 	display: inline-block;
+	background: #333333;
 }
 
 .text {
