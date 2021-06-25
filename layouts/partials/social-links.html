@@ -1,9 +1,29 @@
 <nav class="social-links-footer" aria-label='{{i18n "contact-us"}}' >
-  <span id="contact-us-links">{{i18n "contact-us"}}</span>
 
-  <p style="display: none" aria-hidden="false">{{ i18n "options-below" }}</p>
-  <ul class="contact-info contact-info-social">
-    <li>
+
+  <!-- <p style="display: none" aria-hidden="false">{{ i18n "options-below" }}</p> -->
+  <div class="footer-links">
+    <div class="row equal">
+      <div class="col">
+        <ul><a href="">Resources</a></ul>
+        <ul><a href="">Accessibility</a></ul>
+        <ul><a href="">Past projects</a></ul>
+      </div>
+      <div class="col">
+        <ul><a href="">Meet the team</a></ul>
+        <ul><a href="">Our values</a></ul>
+      </div>
+      <div class="col">
+        <ul><a href="">Contact us</a></ul>
+        <ul><a href="">Newsletter</a></ul>
+      </div>
+    </div>
+
+    
+  </div>
+  <!-- <ul class="contact-info contact-info-social"> -->
+
+    <!-- <li>
       <div class="contact-icon">
         <a title="Twitter" href="https://twitter.com/{{ i18n "twitter" }}">
           <i class="icon-twitter"></i>
@@ -47,6 +67,6 @@
         <a title="Email" href="mailto:{{ .Site.Data.contact.email }}">
           <i class="icon-envelope"></i></a>
       </div>
-    </li>
-  </ul>
+    </li> -->
+  <!-- </ul> -->
 </nav>

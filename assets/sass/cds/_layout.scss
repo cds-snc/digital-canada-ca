@@ -371,7 +371,7 @@ td {
 #goc-footer{
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: $black;
+  background-color: $dark-grey;
   margin-bottom: -23px;
 
   nav { padding: 0.5rem 0 0 0 !important; }
@@ -421,9 +421,13 @@ td {
 
 .social-links-footer ul {
   display:flex;
-  justify-content: center;
-  flex-direction: row;
-  flex-wrap: wrap;
+  // justify-content: center;
+  // flex-direction: row;
+  // flex-wrap: wrap;
+}
+
+.social-links-footer a {
+  color: $white; 
 }
 
 .social-links-footer li:first-child { margin-left:0; }

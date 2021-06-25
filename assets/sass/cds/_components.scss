@@ -101,7 +101,7 @@
 
 	i {
 		padding: 1.8rem;
-		color: $white;
+		// color: $white;
 		display: inline-block;
 		border-radius: 50%;
 		text-align: center;
@@ -115,6 +115,12 @@
 		}
 	}
 
+.footer-links {
+	// color: white;
+	background-color: green;
+
+	a { color: $white; }
+}
 .contact-icon {
 	display: inline-block;
 }
