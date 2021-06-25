@@ -116,11 +116,15 @@
 	}
 
 .footer-links {
-	// color: white;
-	background-color: green;
 
-	a { color: $white; }
+	// a { color: $white; }
+	// border-top: 10px solid $footer-green;
+
+	// .border-green, .border-greenfr {
+	// 	border-top: 10px solid $footer-green;
+	// }
 }
+
 .contact-icon {
 	display: inline-block;
 }
