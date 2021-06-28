@@ -85,7 +85,7 @@
 }
 
 .our-team--listing {
-	border-top: $medium-grey 5px solid;
+	
 	max-width: 100% !important;
 }
 
@@ -413,3 +413,43 @@
 
 	}
 }
+
+.join-us {
+	background-color: #E1E4E7;
+	border-bottom: 4px solid #62466B ;
+	// div {
+	// 	// display: flex;
+	// 	// align-self: center;
+	// 	background-color: blue;
+	// 	// flex-direction: row-reverse;
+	// 	width: 30%;
+	// 	// margin: 0 auto;
+
+	// 	left: 0;
+	// 	right: 0;
+	// 	// justify-content: flex-end;
+		
+	// 	// justify-content: right;
+	// 	}
+	p {
+		// display: inline-block;
+		// justify-content: center;
+		text-align: center;
+	}
+	a {
+		// text-align: center; 
+		margin-right: 10px;
+		text-decoration: none;
+	}
+
+	.first-div {
+		display: flex;
+		flex-direction: row-reverse;
+		// background-color: blue;
+	}
+	.second-div {
+		background-color: pink;
+		width: 30%
+	}
+}
+
