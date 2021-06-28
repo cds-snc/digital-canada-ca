@@ -154,6 +154,16 @@ beginning-the-conversations:
   other: "Beginning the conversation"                  
 terms-link:
   other: "/legal/terms/"
+accessibility-link:
+  other: "/a11y/"
+our-values-link:
+  other: "/our-values/"
+newsletter-link:
+  other: "https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&id=eb357181d2"
+roadmap-link:
+  other: "/roadmap-2025/"
+beginning-the-conversation-link:
+  other: "/beginning-the-conversation/"          
 top-of-page:
   other: "Top of Page"
 trans-abbr-switch:

@@ -154,6 +154,16 @@ beginning-the-conversations:
   other: "Lancer la conversation"  
 terms-link:
   other: "/transparence/avis/"
+accessibility-link:
+  other: "/a11y/"
+our-values-link:
+  other: "/nos-valeurs/"
+newsletter-link:
+  other: "https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&id=eb357181d2"
+roadmap-link:
+  other: "/feuille-de-route-2025/"
+beginning-the-conversation-link:
+  other: "/commencement-de-la-conversation/"  
 tools-and-resources-platform-title: 
   other: "Outils de plateforme"
 tools-and-resources-platform-description-1st: 
