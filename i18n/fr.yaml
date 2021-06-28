@@ -11,7 +11,7 @@ blog:
 canada-ca-link:
   other: "https://www.canada.ca/fr.html"
 canada-ca:
-  other: "Visiter Canada.ca"
+  other: "Visitez Canada.ca"
 canadian-digital-service:
   other: "Service numérique canadien"
 cds-logo:
@@ -121,7 +121,7 @@ previous-post:
 privacy-link:
   other: "/transparence/confidentialite/"
 privacy:
-  other: "Politique de Confidentialité"
+  other: "Confidentialité"
 products:
   other: "Découvrir nos produits"
 read-more:
@@ -133,7 +133,25 @@ rss-feed-url:
 skip-to-content:
   other: "Passer au contenu principal"
 terms-and-conditions:
-  other: "Avis"
+  other: "Modalités"
+resources:
+  other: "Ressources"
+accessibility:
+  other: "Accessibilité"
+past-projects:
+  other: "Projets antérieurs"
+meet-the-team:
+  other: "Rencontrez l’équipe"
+our-values:
+  other: "Nos valeurs"
+contact-us:
+  other: "Communiquez avec nous"
+newsletter:
+  other: "Infolettre"
+roadmap:
+  other: "Feuille de route vers 2025"
+beginning-the-conversations:
+  other: "Lancer la conversation"  
 terms-link:
   other: "/transparence/avis/"
 tools-and-resources-platform-title: 
