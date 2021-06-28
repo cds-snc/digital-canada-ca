@@ -1,0 +1,42 @@
+.border-link-sections-wrapper {
+    display: flex;
+    padding: 0;
+
+    .border-link-section:first-of-type {
+        margin-right: 2.5rem;
+    }
+}
+
+.border-link-section {
+    border-bottom: 3px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+ 
+.grey-box {
+    background: $medium-grey;
+}
+
+.border-link {
+    align-self: flex-end;
+    flex-shrink: 0;
+
+    a {
+        display: inline-block;
+        background: black;
+        color: white !important;
+    }
+
+    svg {
+        fill: white;
+    }
+}
+
+.border-link-content {
+    padding: 2rem;
+
+    h3 {
+        margin: 0;
+    }
+}
