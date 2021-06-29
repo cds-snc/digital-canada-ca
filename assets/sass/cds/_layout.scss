@@ -420,6 +420,7 @@ td {
     font-size: 2.1rem; 
   }
   a {color: $white;}
+  li {list-style: none;}
 }
 
 .social-links-footer ul {
@@ -442,12 +443,21 @@ td {
 }
 .border-brown {
   border-top: 4px solid #AF7D57;
+  @media (max-width: 990px) {
+    margin-top: 30px;
+  }
 }
 .border-yellow {
   border-top: 4px solid #FFCC33;
+  @media (max-width: 990px) {
+    margin-top: 30px;
+  }
 }
 .border-gray {
   border-top: 4px solid #848C8D;
+  @media (max-width: 990px) {
+    margin-top: 30px;
+  }
 }
 .social-links-footer .div-margin{
   margin-left: 20px;
