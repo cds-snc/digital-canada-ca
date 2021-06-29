@@ -246,3 +246,9 @@ ol ul, ol ol, ul ul, ul ol {
 	font-weight: 600;
 	line-height: 1.244;
 }
+
+@mixin break-container {
+	//TODO: temp fix as our container set up and styles have changed in design
+	margin-left: calc(-100vw / 2 + 100% / 2);
+    margin-right: calc(-100vw / 2 + 100% / 2);
+}
