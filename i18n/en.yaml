@@ -142,8 +142,6 @@ accessibility:
   other: "Accessibility"
 past-projects:
   other: "Past projects"
-meet-the-team:
-  other: "Meet the team"
 our-values:
   other: "Our values"
 contact-us-footer:
@@ -157,9 +155,7 @@ beginning-the-conversations:
 terms-link:
   other: "/legal/terms/"
 accessibility-link:
-  other: "/a11y/"
-contact-us-footer-link:
-  other: "mailto:CDS-SNC@tbs-sct.gc.ca"  
+  other: "/a11y/" 
 our-values-link:
   other: "/our-values/"
 newsletter-link:

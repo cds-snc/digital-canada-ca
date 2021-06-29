@@ -14,14 +14,14 @@
     </div>
     <div class="col-md-4 div-margin">
       <div class="border-brown">
-        <ul class="ul-margin"><li><a href="">{{i18n "meet-the-team"}}</a></li></ul>
+        <ul class="ul-margin"><li><a href="{{ with $.Site.GetPage "meet-the-team" }}{{.Permalink}}{{ end }}">{{i18n "meet-the-team"}}</a></li></ul>
         <ul><li><a href="{{ i18n "our-values-link" }}">{{i18n "our-values"}}</a></li></ul>
       </div>
 
     </div>
     <div class="col-md-4 div-margin">
       <div class="border-yellow">
-        <ul class="ul-margin"><li><a href="{{ i18n "contact-us-footer-link" }}">{{i18n "contact-us-footer"}}</a></li></ul>
+        <ul class="ul-margin"><li><a href="mailto:{{ .Site.Data.contact.email }}">{{i18n "contact-us-footer"}}</a></li></ul>
         <ul><li><a href="{{ i18n "newsletter-link" }}">{{i18n "newsletter"}}</a></li></ul>
         <ul class="contact-info contact-info-social">
           <li>
