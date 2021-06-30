@@ -1,6 +1,0 @@
-{
-    "emmet.includeLanguages": {
-        "nunjucks": "html"
-    },
-    "editor.wordWrap": "on"
-}
