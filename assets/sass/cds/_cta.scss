@@ -17,9 +17,13 @@
 
     .cta {
         flex-direction: column;
-
+        
         &__content {
-            max-width: 80%;
+            max-width: 95%;
+
+            @media screen and (min-width: 1400px) {
+                max-width: 80%;
+            }
         }
         
         @include desktop {
@@ -69,7 +73,6 @@
 
 .cta__content {
     padding: 2rem;
-    max-width: 700px;
 
     &-title {
         margin: 0;
