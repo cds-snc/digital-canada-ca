@@ -17,10 +17,14 @@
 
     .cta {
         flex-direction: column;
+
+        &__content {
+            max-width: 80%;
+        }
         
         @include desktop {
             margin-left: 12px;
-            
+
             &:first-of-type {
                 margin-right: 12px;
                 margin-left: 0;
@@ -69,6 +73,10 @@
 
     h3 {
         margin: 0;
+
+        + p {
+            margin-top: 1.5rem;
+        }
     }
 }
 
