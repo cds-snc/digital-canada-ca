@@ -149,7 +149,16 @@
 
 
 ///// TEAM LISTING
-
+.heading {
+	padding: 2.5rem;
+	background-color: #62466B;
+	margin-bottom: 2rem;
+	
+	h2 {
+		margin: 0;
+		color: white;
+	}
+}
 .team-listing {
 	list-style: none;
 	margin: 0;
@@ -165,12 +174,16 @@
 		margin-bottom: 2rem;
 	}
 
+
+
 	.team-member {
 		position: relative;
-		border-bottom: $primary-color 4px solid;
+		border-bottom: #62466B 4px solid;
 		box-shadow: rgb(225, 228, 231) 0px -1px 4px;
+		background-color: $medium-grey;
 		padding: 2.5rem 0 0;
 		margin-bottom: 2rem;
+		
 		@include tablet {
 			padding: 3.5rem 0 0;
 		}
@@ -222,6 +235,7 @@
 		}
 	}
 }
+
 
 .icon-list {
 	margin: 0;

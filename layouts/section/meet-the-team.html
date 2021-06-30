@@ -5,9 +5,13 @@
 {{ $baseURL := "https://de2an9clyit2x.cloudfront.net/" }}
 
 <section class="section our-team--listing">
-  <h2 class="section--title">{{ i18n "key-contacts" }}</h2>
+
+
 
   <div class="container">
+    <div class="heading"> 
+      <h2>Senior Management</h2>
+    </div>
     <div class="row team-listing exec wb-eqht">
       {{ range $member := $.Site.Data.team.exec }}
       {{ $v1 := not (isset $member "archived") }}
@@ -77,6 +81,7 @@
           </div>
 
           <div class="text">
+            <span>Member: {{ $member }}</span>
             <span class="name">{{ $member.name }}</span>
             <span class="title">{{ index $member.title (string ( $.Site.Language) ) }}</span>
             <div class="social-links contact-info-social">
