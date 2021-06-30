@@ -1,0 +1,94 @@
+// TODO: temporary until we correct our containers/structures to match designs
+.our-values {
+    &+ .cta-wrapper {
+        margin-top: 5rem;
+        margin-bottom: -5rem;
+    }
+}
+
+.cta-row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+
+    @include desktop {
+        flex-wrap: nowrap;
+    }
+
+    .cta {
+        flex-direction: column;
+        
+        @include desktop {
+            margin-left: 12px;
+            
+            &:first-of-type {
+                margin-right: 12px;
+                margin-left: 0;
+            }
+        }
+    }
+}
+
+.cta {
+    border-bottom: 3px solid;
+    border-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin-bottom: 25px;
+
+    &--brown {
+        border-color: $career-brown;
+        .cta__link a {
+            background: $career-brown;
+        }
+    }
+
+    &--pink {
+        border-color: $blog-pink;
+        .cta__link a {
+            background: $blog-pink;
+        }
+    }
+
+    &--green {
+        border-color: $resources-green;
+        .cta__link a {
+            background: $resources-green;
+        }
+    }
+
+    &--grey-bg {
+        background: $medium-grey;
+    }
+}
+
+.cta__content {
+    padding: 2rem;
+    max-width: 700px;
+
+    h3 {
+        margin: 0;
+    }
+}
+
+.cta__link {
+    align-self: flex-end;
+    flex-shrink: 0;
+
+    a {
+        display: inline-block;
+        color: white !important;
+        @include label;
+        text-decoration: none;
+        padding: 10px 15px;
+    }
+
+    svg {
+        fill: white;
+        margin-left: 10px;
+    }
+}
+
+
+

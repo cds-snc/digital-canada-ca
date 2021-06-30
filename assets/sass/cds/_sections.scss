@@ -1161,6 +1161,11 @@ article.post {
   padding-bottom: 4rem;
   background-color: $primary-color;
 
+  &>.container {
+    //little math so container width is the same as main container
+    width: calc(70% + 5rem);
+  }
+
   .newsletter-container {
     //negative margin to counteract the padding on container above
     margin: 0 -15px;
