@@ -17,6 +17,7 @@
 
     .cta {
         flex-direction: column;
+        width: 100%;
         
         &__content {
             max-width: 95%;
@@ -44,6 +45,10 @@
     justify-content: space-between;
     padding: 0;
     margin-bottom: 25px;
+
+    @include mobile_only {
+        flex-direction: column;
+    }
 
     &--brown {
         border-color: $career-brown;
