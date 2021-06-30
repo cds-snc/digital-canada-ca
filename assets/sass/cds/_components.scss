@@ -423,34 +423,3 @@
 	}
 }
 
-.join-us {
-	background-color: #E1E4E7;
-	border-bottom: 4px solid #62466B ;
-	display: flex;
-	flex: 1;
-	justify-content: space-between;
-	align-items: center;
-	height: 3em;
-	// width: 80%;
-	// margin: 0 auto;
-	position: relative;
-	p {
-		margin: 0 0 0 15px;
-		font-weight: 600;
-		color: black;
-	}
-	.openings {
-		position: absolute;
-		bottom: 0px;
-		right: 0px;
-		background-color: #62466B;
-		
-		a {
-			margin-right: 20px;
-			margin-left: 10px;
-			text-decoration: none;
-			color: white;
-		}
-	}
-}
-
