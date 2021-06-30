@@ -48,21 +48,26 @@
     &--brown {
         border-color: $career-brown;
         .cta__link a {
-            background: $career-brown;
+            background: linear-gradient(180deg, $career-brown 0%, $career-brown 30%, $career-brown 60%, $career-brown 100%);
+            &:hover { background: linear-gradient(180deg, darken($career-brown,15) 0%, darken($career-brown, 10) 30%, darken($career-brown, 10) 60%, $career-brown 100%); }
         }
     }
 
     &--pink {
         border-color: $blog-pink;
+
         .cta__link a {
-            background: $blog-pink;
+            background: linear-gradient(180deg, $blog-pink 0%, $blog-pink 30%, $blog-pink 60%, $blog-pink 100%);
+            &:hover { background: linear-gradient(180deg, darken($blog-pink,15) 0%, darken($blog-pink, 10) 30%, darken($blog-pink, 10) 60%, $blog-pink 100%); }
         }
     }
 
     &--green {
         border-color: $resources-green;
+
         .cta__link a {
-            background: $resources-green;
+            background: linear-gradient(180deg, $resources-green 0%, $resources-green 30%, $resources-green 60%, $resources-green 100%);
+            &:hover { background: linear-gradient(180deg, darken($resources-green,10) 0%, darken($resources-green, 5) 30%, darken($resources-green, 5) 60%, $resources-green 100%); }
         }
     }
 
@@ -86,6 +91,7 @@
 .cta__link {
     align-self: flex-end;
     flex-shrink: 0;
+    pointer-events: auto;
 
     a {
         display: inline-block;

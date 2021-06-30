@@ -152,8 +152,6 @@ view-product:
   other: "View this product"
 join-our-team:
   other: "Join our team"
-join-our-team-link:
-  other: "/join-our-team/"
 what-were-working-on:
   other: "What we're working on"
 partnerships:
@@ -242,7 +240,3 @@ who-is-on-the-team:
   other: "Who is on the team"
 options-below:
   other: "using one of the options below"
-blog-link:
-  other: "/blog/"
-resources-link:
-  other: "/tools-and-resources/"
