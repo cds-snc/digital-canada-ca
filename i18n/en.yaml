@@ -2,6 +2,8 @@ not-found:
   other: "Sorry, eh?"
 all-newsletter-link:
   other: "Read the newsletter"
+all-newsletter-past:
+  other: "https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&id=eb357181d2"
 aria-canada-website:
   other: "Government of Canada"
 aria-cds-website:
@@ -61,7 +63,7 @@ partnerships:
 partnerships-contact-us:
     other: "Contact us"
 partnerships-contact-us-link:
-    other: "https://forms-formulaires.alpha.canada.ca/id/45"
+    other: "https://forms-formulaires.alpha.canada.ca/id/3"
 partnerships-intro:
   other: "At the Canadian Digital Service (CDS), we partner up with federal departments to design, test and build simple, easy to use services. Our goal is to improve the experience – for people who deliver government services and people who use those services."
 partnerships-how-it-works:
@@ -134,8 +136,34 @@ skip-to-content:
   other: "Skip to main content"
 terms-and-conditions:
   other: "Terms and Conditions"
+resources:
+  other: "Resources"
+accessibility:
+  other: "Accessibility"
+past-projects:
+  other: "Past projects"
+our-values:
+  other: "Our values"
+contact-us-footer:
+  other: "Contact us"
+newsletter:
+  other: "Newsletter"
+roadmap:
+  other: "Roadmap to 2025"
+beginning-the-conversations:
+  other: "Beginning the conversation"                  
 terms-link:
   other: "/legal/terms/"
+accessibility-link:
+  other: "/a11y/" 
+our-values-link:
+  other: "/our-values/"
+newsletter-link:
+  other: "https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&id=eb357181d2"
+roadmap-link:
+  other: "/roadmap-2025/"
+beginning-the-conversation-link:
+  other: "/beginning-the-conversation/"          
 top-of-page:
   other: "Top of Page"
 trans-abbr-switch:

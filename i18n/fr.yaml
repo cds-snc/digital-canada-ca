@@ -2,6 +2,8 @@ not-found:
   other: "Oups, désolé!"
 all-newsletter-link:
   other: "Lire l'infolettre"
+all-newsletter-past:
+  other: "https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&id=5fe89f4d28"
 about-this-site:
   other: "À propos du site"
 aria-canada-website:
@@ -11,7 +13,7 @@ blog:
 canada-ca-link:
   other: "https://www.canada.ca/fr.html"
 canada-ca:
-  other: "Visiter Canada.ca"
+  other: "Visitez Canada.ca"
 canadian-digital-service:
   other: "Service numérique canadien"
 cds-logo:
@@ -61,7 +63,7 @@ partnerships:
 partnerships-contact-us:
   other: "Communiquez avec nous"
 partnerships-contact-us-link:
-    other: "https://forms-formulaires.alpha.canada.ca/fr/id/45"
+    other: "https://forms-formulaires.alpha.canada.ca/fr/id/3"
 partnerships-intro:
   other: "Au Service numérique canadien (SNC), nous établissons des partenariats avec les ministères fédéraux pour concevoir, tester et bâtir des services simples et faciles à utiliser. Notre objectif est d’améliorer l’expérience des personnes qui fournissent les services gouvernementaux tout comme celle des personnes qui les utilisent."
 partnerships-how-it-works:
@@ -121,7 +123,7 @@ previous-post:
 privacy-link:
   other: "/transparence/confidentialite/"
 privacy:
-  other: "Politique de Confidentialité"
+  other: "Confidentialité"
 products:
   other: "Découvrir nos produits"
 read-more:
@@ -133,9 +135,35 @@ rss-feed-url:
 skip-to-content:
   other: "Passer au contenu principal"
 terms-and-conditions:
-  other: "Avis"
+  other: "Modalités"
+resources:
+  other: "Ressources"
+accessibility:
+  other: "Accessibilité"
+past-projects:
+  other: "Projets antérieurs"
+our-values:
+  other: "Nos valeurs"
+contact-us-footer:
+  other: "Communiquez avec nous"
+newsletter:
+  other: "Infolettre"
+roadmap:
+  other: "Feuille de route vers 2025"
+beginning-the-conversations:
+  other: "Lancer la conversation"  
 terms-link:
   other: "/transparence/avis/"
+accessibility-link:
+  other: "https://numerique.canada.ca/a11y/"    
+our-values-link:
+  other: "https://numerique.canada.ca/nos-valeurs/"
+newsletter-link:
+  other: "https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&id=eb357181d2"
+roadmap-link:
+  other: "https://numerique.canada.ca/feuille-de-route-2025/"
+beginning-the-conversation-link:
+  other: "https://numerique.canada.ca/commencement-de-la-conversation/"  
 tools-and-resources-platform-title: 
   other: "Outils de plateforme"
 tools-and-resources-platform-description-1st: 
@@ -242,4 +270,4 @@ who-is-on-the-team:
   other: "Qui est dans l'équipe"
 options-below:
   other: "using one of the options below"
-  
+

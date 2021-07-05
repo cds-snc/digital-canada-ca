@@ -1,52 +1,55 @@
 <nav class="social-links-footer" aria-label='{{i18n "contact-us"}}' >
-  <span id="contact-us-links">{{i18n "contact-us"}}</span>
 
-  <p style="display: none" aria-hidden="false">{{ i18n "options-below" }}</p>
-  <ul class="contact-info contact-info-social">
-    <li>
-      <div class="contact-icon">
-        <a title="Twitter" href="https://twitter.com/{{ i18n "twitter" }}">
-          <i class="icon-twitter"></i>
-        </a>
+  <span id="contact-us-links"></span>
+  <div class="row equal">
+    <div class="col-md-4 div-margin" >
+      <div class="border-green">
+        <ul class="ul-margin"><li><a href="{{ i18n "accessibility-link" }}">{{i18n "accessibility"}}</a></li></ul>
       </div>
-    </li>
-    <li>
-      <div class="contact-icon">
-        <a title="LinkedIn"
-           href="https://linkedin.com/company/{{$.Site.Data.contact.linkedin}}">
-          <i class="icon-linkedin"></i>
-        </a>
+      <div class="border-gray">
+        <ul class="ul-margin"><li><a href="{{ i18n "roadmap-link" }}">{{i18n "roadmap"}}</a></li></ul>
+        <ul><li><a href="{{ i18n "beginning-the-conversation-link" }}">{{i18n "beginning-the-conversations"}}</a></li></ul>
       </div>
-    </li>
-    <li>
-      <div class="contact-icon">
-        <a title="Github"
-           href="https://github.com/{{.Site.Data.contact.github}}">
-          <i class="icon-github"></i>
-        </a>
+
+    </div>
+    <div class="col-md-4 div-margin">
+      <div class="border-brown">
+        <ul class="ul-margin"><li><a href="{{ with $.Site.GetPage "meet-the-team" }}{{.Permalink}}{{ end }}">{{i18n "meet-the-team"}}</a></li></ul>
+        <ul><li><a href="{{ i18n "our-values-link" }}">{{i18n "our-values"}}</a></li></ul>
       </div>
-    </li>
-    <li>
-      <div class="contact-icon">
-        <a title="Youtube"
-           href="https://www.youtube.com/c/CanadianDigitalServicenumériquecanadien">
-          <i class="icon-youtube"></i>
-        </a>
+
+    </div>
+    <div class="col-md-4 div-margin">
+      <div class="border-yellow">
+        <ul class="ul-margin"><li><a href="mailto:{{ .Site.Data.contact.email }}">{{i18n "contact-us-footer"}}</a></li></ul>
+        <ul><li><a href="{{ i18n "newsletter-link" }}">{{i18n "newsletter"}}</a></li></ul>
+        <ul class="contact-info contact-info-social">
+          <li>
+            <div class="contact-icon">
+              <a title="Twitter" href="https://twitter.com/{{ i18n "twitter" }}">
+                <i class="icon-twitter"></i>
+              </a>
+            </div>
+          </li>
+          <li>
+            <div class="contact-icon">
+              <a title="LinkedIn"
+                  href="https://linkedin.com/company/{{$.Site.Data.contact.linkedin}}">
+                <i class="icon-linkedin"></i>
+              </a>
+            </div>
+          </li>
+          <li>
+            <div class="contact-icon">
+              <a title="Github"
+                  href="https://github.com/{{.Site.Data.contact.github}}">
+                <i class="icon-github"></i>
+              </a>
+            </div>
+          </li>
+        </ul>
       </div>
-    </li>
-    <li>
-      <div class="contact-icon">
-        <a title="Mailchimp"
-           href={{ index $.Site.Data.contact.mailchimp (string ($.Site.Language)) "url" }}>
-          <i class="icon-mailchimp"></i>
-        </a>
-      </div>
-    </li>
-    <li>
-      <div class="contact-icon">
-        <a title="Email" href="mailto:{{ .Site.Data.contact.email }}">
-          <i class="icon-envelope"></i></a>
-      </div>
-    </li>
-  </ul>
+
+    </div>
+  </div>
 </nav>

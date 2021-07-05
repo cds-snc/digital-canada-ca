@@ -101,9 +101,8 @@
 
 	i {
 		padding: 1.8rem;
-		color: $white;
 		display: inline-block;
-		border-radius: 50%;
+		color: $white;
 		text-align: center;
 		font-size: 2rem;
 		transition: all 0.3s ease-in-out;
@@ -117,6 +116,7 @@
 
 .contact-icon {
 	display: inline-block;
+	background: #333333;
 }
 
 .text {

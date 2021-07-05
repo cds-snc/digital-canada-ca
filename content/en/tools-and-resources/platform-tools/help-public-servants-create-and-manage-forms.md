@@ -3,7 +3,7 @@ title: 'Help public servants create and manage forms'
 translationKey: forms
 description: >-
   Publishing simple, accessible, and online forms that the public can use to get the services or benefits they need.
-product-url: https://forms-formulaires.alpha.canada.ca/id/20
+product-url: https://forms-formulaires.alpha.canada.ca/id/1
 phase: alpha
 status: in-flight
 onhomepage: false
