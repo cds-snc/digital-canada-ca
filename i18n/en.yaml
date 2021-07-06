@@ -42,6 +42,26 @@ in-flight:
   other: "In flight products"
 key-contacts:
   other: "Key contacts"
+senior_management:
+  other: "Senior Management"
+design:
+  other: "Design"
+design_research:
+  other: "Design Research"
+development:
+  other: "Development"
+internal_operations:
+  other: "Internal Operations"
+partnerships:
+  other: "Partnerships"
+policy:
+  other: "Policy"
+product_management:
+  other: "Product Management"
+outreach:
+  other: "Outreach"
+talent:
+  other: "Talent"              
 language-code:
   other: "en-ca"
 language-selection:
