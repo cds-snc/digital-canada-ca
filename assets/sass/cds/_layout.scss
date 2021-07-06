@@ -371,7 +371,7 @@ td {
 #goc-footer{
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: $black;
+  background-color: #262A2D;
   margin-bottom: -23px;
 
   nav { padding: 0.5rem 0 0 0 !important; }
@@ -380,7 +380,7 @@ td {
 .goc-footer--links {
   ul {
     margin: 0;
-    padding: 0;
+    padding-left: 20px;
     text-align: center;
 
     @include tablet { text-align : left; }
@@ -402,6 +402,8 @@ td {
 .goc-footer--logo {
   text-align: center;
   margin-top: 5px;
+  padding-right: 60px;
+  
 
   @include tablet { text-align: right; }
 
@@ -411,19 +413,57 @@ td {
 .social-links-footer {
   padding-top: 3.5rem;
   padding-bottom: 3.5rem;
-  background-color: $dark-grey;
+  background-color: #232323;
 
   #contact-us-links { 
     color: $white;
     font-size: 2.1rem; 
   }
+  a {color: $white;}
+  li {list-style: none;}
 }
 
 .social-links-footer ul {
   display:flex;
-  justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
+  padding: 0;
+}
+
+.ul-margin {
+  margin-top: 2rem;
+}
+.social-links-footer a {
+  color: $white; 
+}
+
+.border-green {
+  border-top: 4px solid #329574;
+  margin-bottom: 3rem;
+}
+.border-brown {
+  border-top: 4px solid #AF7D57;
+  @media (max-width: 990px) {
+    margin-top: 30px;
+  }
+}
+.border-yellow {
+  border-top: 4px solid #FFCC33;
+  @media (max-width: 990px) {
+    margin-top: 30px;
+  }
+}
+.border-gray {
+  border-top: 4px solid #848C8D;
+  @media (max-width: 990px) {
+    margin-top: 30px;
+  }
+}
+.social-links-footer .div-margin{
+  margin-left: 20px;
+}
+.social-links-footer .inline-block {
+  display: inline-block;
 }
 
 .social-links-footer li:first-child { margin-left:0; }
