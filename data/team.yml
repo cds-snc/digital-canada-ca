@@ -164,527 +164,562 @@ exec:
     linkedin: wmoussa
     twitter: wmoussa_cds
 team:
-  - archived: false
-    name: Adrianne Lee
-    title:
-      en: Design Research
-      fr: Recherche en conception
-    imagehash: adrianne_lee_d99f3ad9d3
-    email: Adrianne.Lee@tbs-sct.gc.ca
-    linkedin: adriannehlee
-    twitter: adriannehlee
-  - archived: false
-    name: Alexa Davidson
-    title:
-      en: Talent
-      fr: Talent
-    imagehash: alexa_davidson_4fd32774b7
-    email: Alexa.Davidson@tbs-sct.gc.ca
-  - archived: false
-    name: Amy Morris
-    title:
-      en: Design
-      fr: Conception
-    imagehash: small_amy_morris_251ee8fa8b
-    linkedin: amy-morris-79248247a
-  - archived: false
-    name: Anik Brazeau
-    title:
-      en: Design
-      fr: Conception
-    imagehash: small_anik_brazeau_7786c918a3
-    email: Anik.Brazeau@tbs-sct.gc.ca
-    linkedin: anikbrazeau
-    twitter: brazeauanik
-  - archived: false
-    name: Antoine Augusti
-    title:
-      en: Development
-      fr: Développement
-    imagehash: antoine_augusti_25b7a5f805
-    email: Antoine.Augusti@tbs-sct.gc.ca
-    github: AntoineAugusti
-    linkedin: AntoineAugusti
-    twitter: AntoineAugusti
-  - archived: false
-    name: Bethany Dunfield
-    title:
-      en: Development
-      fr: Développement
-    imagehash: bethany_dunfield_6d207bc928
-    email: bethany.dunfield@tbs-sct.gc.ca
-    github: brdunfield
-  - archived: false
-    name: Brian Hendrick
-    title:
-      en: Design
-      fr: Conception
-    imagehash: brian_hendrick_093fcc456a
-    email: brian.hendrick@tbs-sct.gc.ca
-    linkedin: hendrickbrian
-  - archived: false
-    name: Brock Higgins
-    title:
-      en: Talent
-      fr: Talent
-    imagehash: brock_higgins_d1788c9fab
-    email: brock.higgins@tbs-sct.gc.ca
-    github: brockhigg10
-    linkedin: brockhiggins
-    twitter: brockhigg10
-  - archived: false
-    name: Bryan Robitaille
-    title:
-      en: Development
-      fr: Développement
-    imagehash: small_bryan_robitaille_dc9e6438b0
-    email: bryan.robitaille@tbs-sct.gc.ca
-    github: bryan-robitaille
-    linkedin: bryan-robitaille
-    twitter: RobitailleBryan
-  - archived: false
-    name: Bryan Willey
-    title:
-      en: Product Management
-      fr: Gestion de produits
-    imagehash: bryan_willey_1a472f5d9b
-    email: Bryan.Willey@tbs-sct.gc.ca
-    github: willeybryan
-    linkedin: bryan-willey
-  - archived: false
-    name: Calvin Rodo
-    title:
-      en: Development
-      fr: Développement
-    imagehash: small_calvin_rodo_b56b0d044a
-    email: calvin.rodo@tbs-sct.gc.ca
-    github: CalvinRodo
-    linkedin: calvin-rodo-54396710
-    twitter: CalvinR
-  - archived: true
-    name: Cayce Fischer
-    title:
-      en: Design
-      fr: Conception
-    imagehash: cayce_fischer_ef0f5d7929
-    email: cayce.fischer@cds-snc.ca
-  - archived: false
-    name: Charlotte Pedersen
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-    imagehash: charlotte_pederson_4a2c9b0a2d
-    email: Charlotte.Pedersen@tbs-sct.gc.ca
-    linkedin: charlottepedersen371
-    twitter: Charp90
-  - archived: false
-    name: Clementine Hahn
-    title:
-      en: Product Management
-      fr: Gestion de produits
-    imagehash: clementine_hahn_f181adb37a
-    email: Clementine.Hahn@tbs-sct.gc.ca
-    twitter: ClementineHahn
-  - archived: false
-    name: Clément Janin
-    title:
-      en: Development
-      fr: Développement
-    imagehash: small_clement_janin_fd65fe4d6d
-    email: Clement.Janin@tbs-sct.gc.ca
-    github: craigzour
-    linkedin: janinclement
-    twitter: craigzour
-  - archived: false
-    name: Courtney Claessens
-    title:
-      en: Product Management
-      fr: Gestion de produits
-    imagehash: courtney_claessens_af735e4523
-    email: Courtney.Claessens@tbs-sct.gc.ca
-    linkedin: courtneyclaessens
-  - archived: false
-    name: Dan Sinclair
-    title:
-      en: Development
-      fr: Développement
-    imagehash: small_dan_sinclair_bafa7f2297
-    email: dan.sinclair@tbs-sct.gc.ca
-    github: dj2
-  - archived: false
-    name: Dave Samojlenko
-    title:
-      en: Development
-      fr: Développement
-    imagehash: dave_samojlenko_fe93f1044d
-    github: dsamojlenko
-    twitter: dsamojlenko
-  - archived: false
-    name: Dee Nguyen
-    title:
-      en: Internal Operations
-      fr: Opérations internes
-    imagehash: dee_nguyen_4dd02d00c6
-    email: dee.nguyen@tbs-sct.gc.ca
-    github: dnngyn 
-    linkedin: dnguyen420
-  - archived: false
-    name: Edwin Imidy
-    title:
-      en: Talent
-      fr: Talent
-    imagehash: edwin_imidy_2172440310
-    email: edwin.imidy@tbs-sct.gc.ca
-  - archived: false
-    name: Élise Cossette
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-    imagehash: elise_cossette_6140caed96
-    email: elise.cossette@tbs-sct.gc.ca
-    linkedin: élise-cossette-590b56ab
-  - archived: false
-    name: Emma Wootton
-    title:
-      en: Design
-      fr: Conception
-    imagehash: small_emma_wootton_c9769b6c90
-    email: emma.wootton@tbs-sct.gc.ca
-  - archived: true
-    name: Eric Pang
-    title:
-      en: Design
-      fr: Conception
-    imagehash: eric_pang_b30ee48f3f
-    email: eric.pang@tbs-sct.gc.ca
-    linkedin: eric-pang-ux
-    twitter: dekonstructed
-  - archived: false
-    name: Fitore Jaha Price
-    title:
-      en: Development
-      fr: Développement
-    imagehash: small_fitore_jaha_price_d714a79f1f
-    email: Fitore.JahaPrice@tbs-sct.gc.ca
-    github: fitore-cds
-    linkedin: fitorejaha
-    twitter: tirofe
-  - archived: false
-    name: Francois Moisan
-    title:
-      en: Support Technician
-      fr: Technicien de soutien
-    imagehash: francois_moisan_2335ae913c
-    email: francois.moisan@tbs-sct.gc.ca
-  - archived: false
-    name: Hillary Lorimer
-    title:
-      en: Design Research
-      fr: Recherche en conception
-    imagehash: hillary_lorimer_51b00bd7f2
-    email: Hillary.Lorimer@tbs-sct.gc.ca
-    linkedin: hillary-b-lorimer
-    twitter: hillarylorimer
-  - archived: false
-    name: Ioana Contu
-    title:
-      en: Design
-      fr: Conception
-    imagehash: small_ioana_contu_f8973b676d
-    email: ioana.contu@tbs-sct.gc.ca
-  - archived: false
-    name: Janet Davidson
-    title:
-      en: Talent
-      fr: Talent
-    imagehash: small_janet_davidson_ba188bba9e
-    email: janet.davidson@tbs-sct.gc.ca
-  - archived: false
-    name: Jeana Frost
-    title:
-      en: Design Research
-      fr: Recherche en conception
-    imagehash: jeana_frost_b05678fb7f
-    email: jeana.frost@tbs-sct.gc.ca
-    linkedin: jeanafrost
-  - archived: false
-    name: Jennifer Fletcher
-    title:
-      en: Partnerships
-      fr: Partenariats
-    imagehash: jen_fletcher_c9156fb097
-    email: jennifer.fletcher@tbs-sct.gc.ca
-  - archived: false
-    name: Jessica Loadenthal
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-    imagehash: jessica_loadenthal_eeb5d01c0e
-    email: Jessica.Loadenthal@tbs-sct.gc.ca
-  - archived: false
-    name: Jimmy Royer
-    title:
-      en: Development
-      fr: Développement
-    imagehash: small_jimmy_royer_373cd9b071
-    github: jimleroyer
-    linkedin: jimleroyer
-    twitter: jimleroyer
-  - archived: false
-    name: Johanna Button
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-    imagehash: johanna_button_15e5de8ace
-    email: johanna.button@tbs-sct.gc.ca
-    linkedin: johanna-button-097825143
-    twitter: buttonjohanna
-  - archived: false
-    name: John Kenney
-    title:
-      en: Policy
-      fr: Politiques
-    imagehash: john_kenney_00a05b1a43
-    email: john.kenney@tbs-sct.gc.ca
-    linkedin: johnrkenney
-  - archived: false
-    name: Jose Jimenez
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-    imagehash: jose_jimenez_105407e800
-    email: jose.jimenez@cds-snc.ca
-    twitter: curious_jose
-  - archived: true
-    name: Julianna Rowsell
-    title:
-      en: Accessibility
-      fr: Accessibilité
-    imagehash: julianna_rowsell_1bea1541a8
-    email: julie-ann.rowsell@tbs-sct.gc.ca
-    github: JuliannaR
-    linkedin: julianna-rowsell-86625624
-    twitter: JuliannaRowsell
-  - archived: false
-    name: Kate Wilhelm
-    title:
-      en: Design
-      fr: Conception
-    imagehash: kate_wilhelm_dd0f381acd
-    email: kate.wilhelm@tbs-sct.gc.ca
-  - archived: false
-    name: Keenan Wong
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-    imagehash: keenan_wong_3e28ac5855
-    linkedin: akeenanwong
-  - archived: false
-    name: Kelsey Harris
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-    imagehash: kelsey_harris_0566b91b37
-    email: kelsey.harris@tbs-sct.gc.ca
-    linkedin: kelsey-harris-39373b139
-  - archived: false
-    name: Leah Finkelstein
-    title:
-      en: Talent
-      fr: Talent
-    imagehash: leah_finkelstein_7765f56e31
-    email: leah.finkelstein@tbs-sct.gc.ca
-    linkedin: leah-finkelstein
-  - archived: false
-    name: Lesley Wheldrake
-    title:
-      en: Talent
-      fr: Talent
-    imagehash: small_lesley_wheldrake_d7d498fdef
-    email: Lesley.Wheldrake@tbs-sct.gc.ca
-    linkedin: lwheldrake
-  - archived: false
-    name: Lucas Cherkewski
-    title:
-      en: Policy
-      fr: Politiques
-    imagehash: lucas_cherkewski_a87e6c9470
-    email: Lucas.Cherkewski@tbs-sct.gc.ca
-    github: lchski
-    linkedin: lchski
-    twitter: lchski
-  - archived: false
-    name: Lyn Elliott
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-    imagehash: small_lyn_elliot_6a2dfe52e8
-    email: lyn.elliott@tbs-sct.gc.ca
-  - archived: false
-    name: Max Neuvians
-    title:
-      en: Development
-      fr: Développement
-    imagehash: max_neuvians_75b0928209
-    github: maxneuvians
-    linkedin: maxneuvians
-  - archived: true
-    name: Megan Beretta
-    title:
-      en: Policy
-      fr: Politiques
-    imagehash: meg_beretta_2733fad2e3
-    email: megan.beretta@tbs-sct.gc.ca
-    linkedin: meganberetta
-    twitter: megberetta
-  - archived: true
-    name: Mel Banyard
-    title:
-      en: Design Research
-      fr: Recherche en conception
-    imagehash: mel_banyard_c9f6bc6b25
-    email: melissa.banyard@tbs-sct.gc.ca
-    linkedin: melbanyard
-    twitter: melbanyard
-  - archived: false
-    name: Nick Makuch
-    title:
-      en: Design | Development
-      fr: Conception | Développement
-    imagehash: nick_makuch_dd5ee4d9dd
-    email: nick.makuch@tbs-sct.gc.ca
-    github: nmakuch
-    twitter: makuch_nick
-  - archived: false
-    name: Omar Tehsin
-    title:
-      en: Development
-      fr: Développement
-    imagehash: omar_tehsin_03379a9d31
-    email: omar.tehsin@tbs-sct.gc.ca
-    github: omartehsin1
-    linkedin: omar-tehsin
-  - archived: false
-    name: Paul Craig
-    title:
-      en: Development
-      fr: Développement
-    imagehash: paul_craig_d42eeb431c
-    email: paul.craig@tbs-sct.gc.ca
-    github: pcraig3
-  - archived: false
-    name: Philippe Caron
-    title:
-      en: Design
-      fr: Conception
-    imagehash: small_Philippe_Caron_437f59e814
-    email: philippe.caron@tbs-sct.gc.ca
-  - archived: false
-    name: Philippe Tardif
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-    imagehash: small_philippe_tardif_e8b864fdce
-    email: philippe.tardif@cds-snc.ca
-    linkedin: philippe-tardif-136695175
-    twitter: philippetardif8
-  - archived: false
-    name: Priyanka Rahman
-    title:
-      en: Internal Operations
-      fr: Opérations internes
-    imagehash: priyanka_rahman_c3c9d64df6
-    email: Priyanka.Rahman@tbs-sct.gc.ca
-    linkedin: priyanka-rahman-5b91a8145
-  - archived: false
-    name: Sabine Runciman
-    title:
-      en: Design Research
-      fr: Recherche en conception
-    imagehash: small_sabine_runciman_b694c89e37
-    email: sabine.runciman@tbs-sct.gc.ca
-    linkedin: sabinerunciman
-  - archived: false
-    name: Samantha Sadasivan
-    title:
-      en: Design
-      fr: Conception
-    imagehash: samantha_sadasivan_9249f20334
-    email: samantha.sadasivan@tbs-sct.gc.ca
-    twitter: samsadasivan
-  - archived: false
-    name: Sam Burton
-    title:
-      en: Policy
-      fr: Politiques
-    imagehash: sam_burton_8cc0f43672
-    email: Samantha.Burton@tbs-sct.gc.ca
-    linkedin: samanthaburton
-    twitter: thesamburton
-  - archived: false
-    name: Sana Qureshi
-    title:
-      en: Talent
-      fr: Talent
-    imagehash: sana_qureshi_a633d68604
-    email: Sana.Qureshi@tbs-sct.gc.ca
-    linkedin: sana-qureshi-35206a11
-  - archived: false
-    name: Sean Boots
-    title:
-      en: Policy
-      fr: Politiques
-    imagehash: sean_boots_7c3d1e2cdf
-    github: sboots
-    linkedin: seanboots
-    twitter: sboots
-  - archived: false
-    name: Stephanie Gauthier
-    title:
-      en: Talent
-      fr: Talent
-    imagehash: stephanie_gauthier_810f99aeb6
-    email: Stephanie.Gauthier@tbs-sct.gc.ca
-  - archived: false
-    name: Stephen McMurtry
-    title:
-      en: Development
-      fr: Développement
-    imagehash: stephen_mcmurtry_fe9914e139
-    email: Stephen.McMurtry@tbs-sct.gc.ca
-    linkedin: stephen-mcmurtry-1b4a8879
-    twitter: StephenMcMurtry
-  - archived: false
-    name: Steve Astels
-    title:
-      en: Development
-      fr: Développement
-    imagehash: steve_astels_1215157bf5
-    email: steve.astels@tbs-sct.gc.ca
-    github: sastels
-    linkedin: sastels
-    twitter: sastels
-  - archived: false
-    name: Stevie-Ray Talbot
-    title:
-      en: Product Management
-      fr: Gestion de produits
-    imagehash: stevie_ray_talbot_a27a93e939
-    email: Steven.Talbot@tbs-sct.gc.ca
-    twitter: StevieRayTalbot
-  - archived: false
-    name: Tim Arney
-    title:
-      en: Development
-      fr: Développement
-    imagehash: tim_arney_e07fe1ef06
-    email: Tim.Arney@tbs-sct.gc.ca
-  - archived: false
-    name: Victoria Chan
-    title:
-      en: Outreach
-      fr: Liaison et diffusion
-    imagehash: victoria_chan_639fffb1c6
-    email: victoria.chan@tbs-sct.gc.ca
-    linkedin: victoriakaychan
-    twitter: vchanimal
+  design:
+    - archived: false
+      name: Amy Morris
+      title:
+        en: Design
+        fr: Conception
+      imagehash: small_amy_morris_251ee8fa8b
+      linkedin: amy-morris-79248247a
+
+    - archived: false
+      name: Anik Brazeau
+      title:
+        en: Design
+        fr: Conception
+      imagehash: small_anik_brazeau_7786c918a3
+      email: Anik.Brazeau@tbs-sct.gc.ca
+      linkedin: anikbrazeau
+      twitter: brazeauanik
+
+    - archived: false
+      name: Brian Hendrick
+      title:
+        en: Design
+        fr: Conception
+      imagehash: brian_hendrick_093fcc456a
+      email: brian.hendrick@tbs-sct.gc.ca
+      linkedin: hendrickbrian
+      
+    - archived: true
+      name: Cayce Fischer
+      title:
+        en: Design
+        fr: Conception
+      imagehash: cayce_fischer_ef0f5d7929
+      email: cayce.fischer@cds-snc.ca  
+
+    - archived: false
+      name: Emma Wootton
+      title:
+        en: Design
+        fr: Conception
+      imagehash: small_emma_wootton_c9769b6c90
+      email: emma.wootton@tbs-sct.gc.ca
+
+    - archived: true
+      name: Eric Pang
+      title:
+        en: Design
+        fr: Conception
+      imagehash: eric_pang_b30ee48f3f
+      email: eric.pang@tbs-sct.gc.ca
+      linkedin: eric-pang-ux
+      twitter: dekonstructed     
+
+    - archived: false
+      name: Ioana Contu
+      title:
+        en: Design
+        fr: Conception
+      imagehash: small_ioana_contu_f8973b676d
+      email: ioana.contu@tbs-sct.gc.ca
+
+    - archived: false
+      name: Kate Wilhelm
+      title:
+        en: Design
+        fr: Conception
+      imagehash: kate_wilhelm_dd0f381acd
+      email: kate.wilhelm@tbs-sct.gc.ca    
+
+    - archived: false
+      name: Nick Makuch
+      title:
+        en: Design | Development
+        fr: Conception | Développement
+      imagehash: nick_makuch_dd5ee4d9dd
+      email: nick.makuch@tbs-sct.gc.ca
+      github: nmakuch
+      twitter: makuch_nick
+      
+    - archived: false
+      name: Philippe Caron
+      title:
+        en: Design
+        fr: Conception
+      imagehash: small_Philippe_Caron_437f59e814
+      email: philippe.caron@tbs-sct.gc.ca
+
+    - archived: false
+      name: Samantha Sadasivan
+      title:
+        en: Design
+        fr: Conception
+      imagehash: samantha_sadasivan_9249f20334
+      email: samantha.sadasivan@tbs-sct.gc.ca
+      twitter: samsadasivan
+
+  design_research:
+    - archived: false
+      name: Adrianne Lee
+      title:
+        en: Design Research
+        fr: Recherche en conception
+      imagehash: adrianne_lee_d99f3ad9d3
+      email: Adrianne.Lee@tbs-sct.gc.ca
+      linkedin: adriannehlee
+      twitter: adriannehlee
+
+    - archived: false
+      name: Hillary Lorimer
+      title:
+        en: Design Research
+        fr: Recherche en conception
+      imagehash: hillary_lorimer_51b00bd7f2
+      email: Hillary.Lorimer@tbs-sct.gc.ca
+      linkedin: hillary-b-lorimer
+      twitter: hillarylorimer
+      
+    - archived: false
+      name: Jeana Frost
+      title:
+        en: Design Research
+        fr: Recherche en conception
+      imagehash: jeana_frost_b05678fb7f
+      email: jeana.frost@tbs-sct.gc.ca
+      linkedin: jeanafrost
+
+    - archived: true
+      name: Mel Banyard
+      title:
+        en: Design Research
+        fr: Recherche en conception
+      imagehash: mel_banyard_c9f6bc6b25
+      email: melissa.banyard@tbs-sct.gc.ca
+      linkedin: melbanyard
+      twitter: melbanyard
+      
+    - archived: false
+      name: Sabine Runciman
+      title:
+        en: Design Research
+        fr: Recherche en conception
+      imagehash: small_sabine_runciman_b694c89e37
+      email: sabine.runciman@tbs-sct.gc.ca
+      linkedin: sabinerunciman
+
+  development:
+    - archived: false
+      name: Antoine Augusti
+      title:
+        en: Development
+        fr: Développement
+      imagehash: antoine_augusti_25b7a5f805
+      email: Antoine.Augusti@tbs-sct.gc.ca
+      github: AntoineAugusti
+      linkedin: AntoineAugusti
+      twitter: AntoineAugusti
+
+  # - archived: false
+  #   name: Alexa Davidson
+  #   title:
+  #     en: Talent
+  #     fr: Talent
+  #   imagehash: alexa_davidson_4fd32774b7
+  #   email: Alexa.Davidson@tbs-sct.gc.ca
+
+
+  # - archived: false
+  #   name: Bethany Dunfield
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: bethany_dunfield_6d207bc928
+  #   email: bethany.dunfield@tbs-sct.gc.ca
+  #   github: brdunfield
+
+  # - archived: false
+  #   name: Brock Higgins
+  #   title:
+  #     en: Talent
+  #     fr: Talent
+  #   imagehash: brock_higgins_d1788c9fab
+  #   email: brock.higgins@tbs-sct.gc.ca
+  #   github: brockhigg10
+  #   linkedin: brockhiggins
+  #   twitter: brockhigg10
+  # - archived: false
+  #   name: Bryan Robitaille
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: small_bryan_robitaille_dc9e6438b0
+  #   email: bryan.robitaille@tbs-sct.gc.ca
+  #   github: bryan-robitaille
+  #   linkedin: bryan-robitaille
+  #   twitter: RobitailleBryan
+  # - archived: false
+  #   name: Bryan Willey
+  #   title:
+  #     en: Product Management
+  #     fr: Gestion de produits
+  #   imagehash: bryan_willey_1a472f5d9b
+  #   email: Bryan.Willey@tbs-sct.gc.ca
+  #   github: willeybryan
+  #   linkedin: bryan-willey
+  # - archived: false
+  #   name: Calvin Rodo
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: small_calvin_rodo_b56b0d044a
+  #   email: calvin.rodo@tbs-sct.gc.ca
+  #   github: CalvinRodo
+  #   linkedin: calvin-rodo-54396710
+  #   twitter: CalvinR
+
+  # - archived: false
+  #   name: Charlotte Pedersen
+  #   title:
+  #     en: Outreach
+  #     fr: Liaison et diffusion
+  #   imagehash: charlotte_pederson_4a2c9b0a2d
+  #   email: Charlotte.Pedersen@tbs-sct.gc.ca
+  #   linkedin: charlottepedersen371
+  #   twitter: Charp90
+  # - archived: false
+  #   name: Clementine Hahn
+  #   title:
+  #     en: Product Management
+  #     fr: Gestion de produits
+  #   imagehash: clementine_hahn_f181adb37a
+  #   email: Clementine.Hahn@tbs-sct.gc.ca
+  #   twitter: ClementineHahn
+  # - archived: false
+  #   name: Clément Janin
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: small_clement_janin_fd65fe4d6d
+  #   email: Clement.Janin@tbs-sct.gc.ca
+  #   github: craigzour
+  #   linkedin: janinclement
+  #   twitter: craigzour
+  # - archived: false
+  #   name: Courtney Claessens
+  #   title:
+  #     en: Product Management
+  #     fr: Gestion de produits
+  #   imagehash: courtney_claessens_af735e4523
+  #   email: Courtney.Claessens@tbs-sct.gc.ca
+  #   linkedin: courtneyclaessens
+  # - archived: false
+  #   name: Dan Sinclair
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: small_dan_sinclair_bafa7f2297
+  #   email: dan.sinclair@tbs-sct.gc.ca
+  #   github: dj2
+  # - archived: false
+  #   name: Dave Samojlenko
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: dave_samojlenko_fe93f1044d
+  #   github: dsamojlenko
+  #   twitter: dsamojlenko
+  # - archived: false
+  #   name: Dee Nguyen
+  #   title:
+  #     en: Internal Operations
+  #     fr: Opérations internes
+  #   imagehash: dee_nguyen_4dd02d00c6
+  #   email: dee.nguyen@tbs-sct.gc.ca
+  #   github: dnngyn 
+  #   linkedin: dnguyen420
+  # - archived: false
+  #   name: Edwin Imidy
+  #   title:
+  #     en: Talent
+  #     fr: Talent
+  #   imagehash: edwin_imidy_2172440310
+  #   email: edwin.imidy@tbs-sct.gc.ca
+  # - archived: false
+  #   name: Élise Cossette
+  #   title:
+  #     en: Outreach
+  #     fr: Liaison et diffusion
+  #   imagehash: elise_cossette_6140caed96
+  #   email: elise.cossette@tbs-sct.gc.ca
+  #   linkedin: élise-cossette-590b56ab
+
+
+  # - archived: false
+  #   name: Fitore Jaha Price
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: small_fitore_jaha_price_d714a79f1f
+  #   email: Fitore.JahaPrice@tbs-sct.gc.ca
+  #   github: fitore-cds
+  #   linkedin: fitorejaha
+  #   twitter: tirofe
+  # - archived: false
+  #   name: Francois Moisan
+  #   title:
+  #     en: Support Technician
+  #     fr: Technicien de soutien
+  #   imagehash: francois_moisan_2335ae913c
+  #   email: francois.moisan@tbs-sct.gc.ca
+
+
+  # - archived: false
+  #   name: Janet Davidson
+  #   title:
+  #     en: Talent
+  #     fr: Talent
+  #   imagehash: small_janet_davidson_ba188bba9e
+  #   email: janet.davidson@tbs-sct.gc.ca
+
+  # - archived: false
+  #   name: Jennifer Fletcher
+  #   title:
+  #     en: Partnerships
+  #     fr: Partenariats
+  #   imagehash: jen_fletcher_c9156fb097
+  #   email: jennifer.fletcher@tbs-sct.gc.ca
+  # - archived: false
+  #   name: Jessica Loadenthal
+  #   title:
+  #     en: Outreach
+  #     fr: Liaison et diffusion
+  #   imagehash: jessica_loadenthal_eeb5d01c0e
+  #   email: Jessica.Loadenthal@tbs-sct.gc.ca
+  # - archived: false
+  #   name: Jimmy Royer
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: small_jimmy_royer_373cd9b071
+  #   github: jimleroyer
+  #   linkedin: jimleroyer
+  #   twitter: jimleroyer
+  # - archived: false
+  #   name: Johanna Button
+  #   title:
+  #     en: Outreach
+  #     fr: Liaison et diffusion
+  #   imagehash: johanna_button_15e5de8ace
+  #   email: johanna.button@tbs-sct.gc.ca
+  #   linkedin: johanna-button-097825143
+  #   twitter: buttonjohanna
+  # - archived: false
+  #   name: John Kenney
+  #   title:
+  #     en: Policy
+  #     fr: Politiques
+  #   imagehash: john_kenney_00a05b1a43
+  #   email: john.kenney@tbs-sct.gc.ca
+  #   linkedin: johnrkenney
+  # - archived: false
+  #   name: Jose Jimenez
+  #   title:
+  #     en: Outreach
+  #     fr: Liaison et diffusion
+  #   imagehash: jose_jimenez_105407e800
+  #   email: jose.jimenez@cds-snc.ca
+  #   twitter: curious_jose
+  # - archived: true
+  #   name: Julianna Rowsell
+  #   title:
+  #     en: Accessibility
+  #     fr: Accessibilité
+  #   imagehash: julianna_rowsell_1bea1541a8
+  #   email: julie-ann.rowsell@tbs-sct.gc.ca
+  #   github: JuliannaR
+  #   linkedin: julianna-rowsell-86625624
+  #   twitter: JuliannaRowsell
+
+  # - archived: false
+  #   name: Keenan Wong
+  #   title:
+  #     en: Outreach
+  #     fr: Liaison et diffusion
+  #   imagehash: keenan_wong_3e28ac5855
+  #   linkedin: akeenanwong
+  # - archived: false
+  #   name: Kelsey Harris
+  #   title:
+  #     en: Outreach
+  #     fr: Liaison et diffusion
+  #   imagehash: kelsey_harris_0566b91b37
+  #   email: kelsey.harris@tbs-sct.gc.ca
+  #   linkedin: kelsey-harris-39373b139
+  # - archived: false
+  #   name: Leah Finkelstein
+  #   title:
+  #     en: Talent
+  #     fr: Talent
+  #   imagehash: leah_finkelstein_7765f56e31
+  #   email: leah.finkelstein@tbs-sct.gc.ca
+  #   linkedin: leah-finkelstein
+  # - archived: false
+  #   name: Lesley Wheldrake
+  #   title:
+  #     en: Talent
+  #     fr: Talent
+  #   imagehash: small_lesley_wheldrake_d7d498fdef
+  #   email: Lesley.Wheldrake@tbs-sct.gc.ca
+  #   linkedin: lwheldrake
+  # - archived: false
+  #   name: Lucas Cherkewski
+  #   title:
+  #     en: Policy
+  #     fr: Politiques
+  #   imagehash: lucas_cherkewski_a87e6c9470
+  #   email: Lucas.Cherkewski@tbs-sct.gc.ca
+  #   github: lchski
+  #   linkedin: lchski
+  #   twitter: lchski
+  # - archived: false
+  #   name: Lyn Elliott
+  #   title:
+  #     en: Outreach
+  #     fr: Liaison et diffusion
+  #   imagehash: small_lyn_elliot_6a2dfe52e8
+  #   email: lyn.elliott@tbs-sct.gc.ca
+  # - archived: false
+  #   name: Max Neuvians
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: max_neuvians_75b0928209
+  #   github: maxneuvians
+  #   linkedin: maxneuvians
+  # - archived: true
+  #   name: Megan Beretta
+  #   title:
+  #     en: Policy
+  #     fr: Politiques
+  #   imagehash: meg_beretta_2733fad2e3
+  #   email: megan.beretta@tbs-sct.gc.ca
+  #   linkedin: meganberetta
+  #   twitter: megberetta
+
+
+  # - archived: false
+  #   name: Omar Tehsin
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: omar_tehsin_03379a9d31
+  #   email: omar.tehsin@tbs-sct.gc.ca
+  #   github: omartehsin1
+  #   linkedin: omar-tehsin
+  # - archived: false
+  #   name: Paul Craig
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: paul_craig_d42eeb431c
+  #   email: paul.craig@tbs-sct.gc.ca
+  #   github: pcraig3
+
+  # - archived: false
+  #   name: Philippe Tardif
+  #   title:
+  #     en: Outreach
+  #     fr: Liaison et diffusion
+  #   imagehash: small_philippe_tardif_e8b864fdce
+  #   email: philippe.tardif@cds-snc.ca
+  #   linkedin: philippe-tardif-136695175
+  #   twitter: philippetardif8
+  # - archived: false
+  #   name: Priyanka Rahman
+  #   title:
+  #     en: Internal Operations
+  #     fr: Opérations internes
+  #   imagehash: priyanka_rahman_c3c9d64df6
+  #   email: Priyanka.Rahman@tbs-sct.gc.ca
+  #   linkedin: priyanka-rahman-5b91a8145
+
+
+  # - archived: false
+  #   name: Sam Burton
+  #   title:
+  #     en: Policy
+  #     fr: Politiques
+  #   imagehash: sam_burton_8cc0f43672
+  #   email: Samantha.Burton@tbs-sct.gc.ca
+  #   linkedin: samanthaburton
+  #   twitter: thesamburton
+  # - archived: false
+  #   name: Sana Qureshi
+  #   title:
+  #     en: Talent
+  #     fr: Talent
+  #   imagehash: sana_qureshi_a633d68604
+  #   email: Sana.Qureshi@tbs-sct.gc.ca
+  #   linkedin: sana-qureshi-35206a11
+  # - archived: false
+  #   name: Sean Boots
+  #   title:
+  #     en: Policy
+  #     fr: Politiques
+  #   imagehash: sean_boots_7c3d1e2cdf
+  #   github: sboots
+  #   linkedin: seanboots
+  #   twitter: sboots
+  # - archived: false
+  #   name: Stephanie Gauthier
+  #   title:
+  #     en: Talent
+  #     fr: Talent
+  #   imagehash: stephanie_gauthier_810f99aeb6
+  #   email: Stephanie.Gauthier@tbs-sct.gc.ca
+  # - archived: false
+  #   name: Stephen McMurtry
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: stephen_mcmurtry_fe9914e139
+  #   email: Stephen.McMurtry@tbs-sct.gc.ca
+  #   linkedin: stephen-mcmurtry-1b4a8879
+  #   twitter: StephenMcMurtry
+  # - archived: false
+  #   name: Steve Astels
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: steve_astels_1215157bf5
+  #   email: steve.astels@tbs-sct.gc.ca
+  #   github: sastels
+  #   linkedin: sastels
+  #   twitter: sastels
+  # - archived: false
+  #   name: Stevie-Ray Talbot
+  #   title:
+  #     en: Product Management
+  #     fr: Gestion de produits
+  #   imagehash: stevie_ray_talbot_a27a93e939
+  #   email: Steven.Talbot@tbs-sct.gc.ca
+  #   twitter: StevieRayTalbot
+  # - archived: false
+  #   name: Tim Arney
+  #   title:
+  #     en: Development
+  #     fr: Développement
+  #   imagehash: tim_arney_e07fe1ef06
+  #   email: Tim.Arney@tbs-sct.gc.ca
+  # - archived: false
+  #   name: Victoria Chan
+  #   title:
+  #     en: Outreach
+  #     fr: Liaison et diffusion
+  #   imagehash: victoria_chan_639fffb1c6
+  #   email: victoria.chan@tbs-sct.gc.ca
+  #   linkedin: victoriakaychan
+  #   twitter: vchanimal

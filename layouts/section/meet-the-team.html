@@ -7,7 +7,7 @@
 <section class="section our-team--listing">
 
 
-
+<!-- Senior Management -->
   <div class="container">
     <div class="heading"> 
       <h2>Senior Management</h2>
@@ -66,11 +66,14 @@
     </div>
   </div>
 
-  <h2 class="section--title">{{i18n "meet-the-full-team"}}</h2>
 
+<!-- Design  -->
   <div class="container">
+    <div class="heading"> 
+      <h2>Design</h2>
+    </div>
     <div class="row team-listing wb-eqht">
-      {{ range $member := .Site.Data.team.team  }}
+      {{ range $member := .Site.Data.team.team.design  }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
       <div class="col-xs-12 col-sm-6 col-md-4">
@@ -81,7 +84,125 @@
           </div>
 
           <div class="text">
-            <span>Member: {{ $member }}</span>
+            <span class="name">{{ $member.name }}</span>
+            <span class="title">{{ index $member.title (string ( $.Site.Language) ) }}</span>
+            <div class="social-links contact-info-social">
+              {{ if and (ne $member.email nil) (ne $member.email "") }}
+              <span class="social-icons">
+                <a href="mailto:{{ $member.email }}" aria-label="Link to {{ $member.name }}'s Email">
+                  <i class="icon-envelope" aria-hidden="true"></i>
+                </a>
+              </span>
+              {{ end }}
+              {{ if and (ne $member.twitter nil) (ne $member.twitter "") }}
+              <span class="social-icons">
+                <a href="https://twitter.com/{{ $member.twitter }}"
+                  aria-label="Link to {{ $member.name }}'s Twitter account">
+                  <i class="icon-twitter" aria-hidden="true"></i>
+                </a>
+              </span>
+              {{ end }}
+              {{ if and (ne $member.linkedin nil) (ne $member.linkedin "") }}
+              <span class="social-icons">
+                <a href="https://linkedin.com/in/{{ $member.linkedin }}"
+                  aria-label="Link to {{ $member.name }}'s LinkedIn Profile">
+                  <i class="icon-linkedin" aria-hidden="true"></i>
+                </a>
+              </span>
+              {{ end }}
+              {{ if and (ne $member.github nil) (ne $member.github "") }}
+              <span class="social-icons">
+                <a href="https://github.com/{{ $member.github }}"
+                  aria-label="Link to {{ $member.name }}'s GitHub profile">
+                  <i class="icon-github" aria-hidden="true"></i>
+                </a>
+              </span>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+      {{end}}
+      {{ end }}
+    </div>
+  </div>
+
+<!-- Design Research -->
+  <div class="container">
+    <div class="heading"> 
+      <h2>Design Research</h2>
+    </div>
+    <div class="row team-listing wb-eqht">
+      {{ range $member := .Site.Data.team.team.design_research  }}
+      {{ $v1 := not (isset $member "archived") }}
+      {{ if or ($v1) (eq $member.archived false) }}
+      <div class="col-xs-12 col-sm-6 col-md-4">
+        <div class="team-member">
+
+          <div class="photo-container">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+          </div>
+
+          <div class="text">
+            <span class="name">{{ $member.name }}</span>
+            <span class="title">{{ index $member.title (string ( $.Site.Language) ) }}</span>
+            <div class="social-links contact-info-social">
+              {{ if and (ne $member.email nil) (ne $member.email "") }}
+              <span class="social-icons">
+                <a href="mailto:{{ $member.email }}" aria-label="Link to {{ $member.name }}'s Email">
+                  <i class="icon-envelope" aria-hidden="true"></i>
+                </a>
+              </span>
+              {{ end }}
+              {{ if and (ne $member.twitter nil) (ne $member.twitter "") }}
+              <span class="social-icons">
+                <a href="https://twitter.com/{{ $member.twitter }}"
+                  aria-label="Link to {{ $member.name }}'s Twitter account">
+                  <i class="icon-twitter" aria-hidden="true"></i>
+                </a>
+              </span>
+              {{ end }}
+              {{ if and (ne $member.linkedin nil) (ne $member.linkedin "") }}
+              <span class="social-icons">
+                <a href="https://linkedin.com/in/{{ $member.linkedin }}"
+                  aria-label="Link to {{ $member.name }}'s LinkedIn Profile">
+                  <i class="icon-linkedin" aria-hidden="true"></i>
+                </a>
+              </span>
+              {{ end }}
+              {{ if and (ne $member.github nil) (ne $member.github "") }}
+              <span class="social-icons">
+                <a href="https://github.com/{{ $member.github }}"
+                  aria-label="Link to {{ $member.name }}'s GitHub profile">
+                  <i class="icon-github" aria-hidden="true"></i>
+                </a>
+              </span>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+      </div>
+      {{end}}
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="heading"> 
+      <h2>Development</h2>
+    </div>
+    <div class="row team-listing wb-eqht">
+      {{ range $member := .Site.Data.team.team.development  }}
+      {{ $v1 := not (isset $member "archived") }}
+      {{ if or ($v1) (eq $member.archived false) }}
+      <div class="col-xs-12 col-sm-6 col-md-4">
+        <div class="team-member">
+
+          <div class="photo-container">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+          </div>
+
+          <div class="text">
             <span class="name">{{ $member.name }}</span>
             <span class="title">{{ index $member.title (string ( $.Site.Language) ) }}</span>
             <div class="social-links contact-info-social">
