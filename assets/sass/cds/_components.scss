@@ -85,10 +85,7 @@
 }
 
 .our-team--listing {
-	
-	// max-width: 100% !important;
-	width: 100%;
-	
+	max-width: 100% !important;
 }
 
 
@@ -185,8 +182,6 @@
 		background-color: $medium-grey;
 		padding: 2.5rem 0 0;
 		margin-bottom: 2rem;
-		// width: 80%;
-		
 		
 		@include tablet {
 			padding: 3.5rem 0 0;
@@ -240,7 +235,6 @@
 		}
 	}
 }
-
 
 .icon-list {
 	margin: 0;
@@ -435,10 +429,8 @@
 
 .meet-us-container {
 	width: 80%;
-	// display: flex;
 	justify-content: space-between;
 	margin: 0 auto;
-	// background-color: rebeccapurple;
 
 	.text-margin {
 		width: 70%;
