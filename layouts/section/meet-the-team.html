@@ -10,11 +10,11 @@
     <div class="heading"> 
       <h2>{{ i18n "senior_management" }}</h2>
     </div>
-    <div class="row team-listing exec wb-eqht">
+    <div class="row team-listing wb-eqht">
       {{ range $member := $.Site.Data.team.exec }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
-      <div class="col-xs-12 col-sm-6 col-md-4">
+      <div class="col-xs-12 col-sm-6 col-md-3">
         <div class="team-member">
           <div class="photo-container">
               <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">

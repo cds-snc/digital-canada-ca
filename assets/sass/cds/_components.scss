@@ -185,6 +185,8 @@
 		background-color: $medium-grey;
 		padding: 2.5rem 0 0;
 		margin-bottom: 2rem;
+		// width: 80%;
+		
 		
 		@include tablet {
 			padding: 3.5rem 0 0;
@@ -231,6 +233,7 @@
 		justify-content: center;
 		font-size: 2.2rem;
 		padding: 1.5rem 1.8rem;
+		margin-bottom: 15rem;
 
 		&:hover {
 			background: $primary-color;
@@ -432,7 +435,10 @@
 
 .meet-us-container {
 	width: 80%;
+	// display: flex;
+	justify-content: space-between;
 	margin: 0 auto;
+	// background-color: rebeccapurple;
 
 	.text-margin {
 		width: 70%;
