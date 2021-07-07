@@ -150,7 +150,7 @@
 ///// TEAM LISTING
 .heading {
 	padding: 2.5rem;
-	background-color: #62466B;
+	background-color: $team-purple;
 	margin-bottom: 2rem;
 	
 	h2 {
@@ -177,7 +177,7 @@
 
 	.team-member {
 		position: relative;
-		border-bottom: #62466B 4px solid;
+		border-bottom: $team-purple 4px solid;
 		box-shadow: rgb(225, 228, 231) 0px -1px 4px;
 		background-color: $medium-grey;
 		padding: 2.5rem 0 0;

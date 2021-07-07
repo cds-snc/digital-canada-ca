@@ -79,6 +79,15 @@
     &--grey-bg {
         background: $medium-grey;
     }
+
+    &--purple {
+        border-color: $team-purple;
+
+        .cta__link a {
+            background: linear-gradient(180deg, $team-purple 0%, $team-purple 30%, $team-purple 60%, $team-purple 100%);
+            &:hover { background: linear-gradient(180deg, darken($team-purple,15) 0%, darken($team-purple, 10) 30%, darken($team-purple, 10) 60%, $team-purple 100%); }
+        }
+    }
 }
 
 .cta__content {
