@@ -7,18 +7,19 @@
 <section class="section our-team--listing">
 
   <div class="meet-us-container">
-    <div class="heading"> 
+    <div class="heading">
       <h2>{{ i18n "senior_management" }}</h2>
     </div>
     <div class="row team-listing wb-eqht ">
       {{ range $member := $.Site.Data.team.exec }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
-      
+
       <div class="col-xs-12 col-sm-6 col-md-3">
         <div class="team-member">
           <div class="photo-container">
-              <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+              data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
           </div>
 
           <div class="text">
@@ -64,18 +65,19 @@
       {{ end }}
     </div>
 
-    <div class="heading"> 
+    <div class="heading">
       <h2>{{ i18n "design" }}</h2>
     </div>
     <div class="row team-listing wb-eqht">
-      {{ range $member := .Site.Data.team.team.design  }}
+      {{ range $member := .Site.Data.team.team.design }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
       <div class="col-xs-12 col-sm-6 col-md-3">
         <div class="team-member">
 
           <div class="photo-container">
-            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+              data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
           </div>
 
           <div class="text">
@@ -121,18 +123,19 @@
       {{ end }}
     </div>
 
-    <div class="heading"> 
+    <div class="heading">
       <h2>{{ i18n "design_research" }}</h2>
     </div>
     <div class="row team-listing wb-eqht">
-      {{ range $member := .Site.Data.team.team.design_research  }}
+      {{ range $member := .Site.Data.team.team.design_research }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
       <div class="col-xs-12 col-sm-6 col-md-3">
         <div class="team-member">
 
           <div class="photo-container">
-            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+              data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
           </div>
 
           <div class="text">
@@ -177,18 +180,19 @@
       {{end}}
       {{ end }}
     </div>
-    <div class="heading"> 
+    <div class="heading">
       <h2>{{ i18n "development" }}</h2>
     </div>
     <div class="row team-listing wb-eqht">
-      {{ range $member := .Site.Data.team.team.development  }}
+      {{ range $member := .Site.Data.team.team.development }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
       <div class="col-xs-12 col-sm-6 col-md-3">
         <div class="team-member">
 
           <div class="photo-container">
-            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+              data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
           </div>
 
           <div class="text">
@@ -234,18 +238,19 @@
       {{ end }}
     </div>
 
-    <div class="heading"> 
+    <div class="heading">
       <h2>{{ i18n "internal_operations" }}</h2>
     </div>
     <div class="row team-listing wb-eqht">
-      {{ range $member := .Site.Data.team.team.internal_operations  }}
+      {{ range $member := .Site.Data.team.team.internal_operations }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
       <div class="col-xs-12 col-sm-6 col-md-3">
         <div class="team-member">
 
           <div class="photo-container">
-            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+              data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
           </div>
 
           <div class="text">
@@ -291,18 +296,19 @@
       {{ end }}
     </div>
 
-    <div class="heading"> 
+    <div class="heading">
       <h2>{{ i18n "partnerships" }}</h2>
     </div>
     <div class="row team-listing wb-eqht">
-      {{ range $member := .Site.Data.team.team.partnerships  }}
+      {{ range $member := .Site.Data.team.team.partnerships }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
       <div class="col-xs-12 col-sm-6 col-md-3">
         <div class="team-member">
 
           <div class="photo-container">
-            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+              data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
           </div>
 
           <div class="text">
@@ -348,18 +354,19 @@
       {{ end }}
     </div>
 
-    <div class="heading"> 
+    <div class="heading">
       <h2>{{ i18n "policy" }}</h2>
     </div>
     <div class="row team-listing wb-eqht">
-      {{ range $member := .Site.Data.team.team.policy  }}
+      {{ range $member := .Site.Data.team.team.policy }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
       <div class="col-xs-12 col-sm-6 col-md-3">
         <div class="team-member">
 
           <div class="photo-container">
-            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+              data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
           </div>
 
           <div class="text">
@@ -405,18 +412,19 @@
       {{ end }}
     </div>
 
-    <div class="heading"> 
+    <div class="heading">
       <h2>{{ i18n "product_management" }}</h2>
     </div>
     <div class="row team-listing wb-eqht">
-      {{ range $member := .Site.Data.team.team.product_managment  }}
+      {{ range $member := .Site.Data.team.team.product_managment }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
       <div class="col-xs-12 col-sm-6 col-md-3">
         <div class="team-member">
 
           <div class="photo-container">
-            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+              data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
           </div>
 
           <div class="text">
@@ -462,18 +470,19 @@
       {{ end }}
     </div>
 
-    <div class="heading"> 
+    <div class="heading">
       <h2>{{ i18n "outreach" }}</h2>
     </div>
     <div class="row team-listing wb-eqht">
-      {{ range $member := .Site.Data.team.team.outreach  }}
+      {{ range $member := .Site.Data.team.team.outreach }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
       <div class="col-xs-12 col-sm-6 col-md-3">
         <div class="team-member">
 
           <div class="photo-container">
-            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+              data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
           </div>
 
           <div class="text">
@@ -519,18 +528,19 @@
       {{ end }}
     </div>
 
-    <div class="heading"> 
+    <div class="heading">
       <h2>{{ i18n "talent" }}</h2>
     </div>
     <div class="row team-listing wb-eqht">
-      {{ range $member := .Site.Data.team.team.talent  }}
+      {{ range $member := .Site.Data.team.team.talent }}
       {{ $v1 := not (isset $member "archived") }}
       {{ if or ($v1) (eq $member.archived false) }}
       <div class="col-xs-12 col-sm-6 col-md-3">
         <div class="team-member">
 
           <div class="photo-container">
-            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member "name" }}">
+            <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+              data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
           </div>
 
           <div class="text">
