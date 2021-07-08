@@ -1,7 +1,9 @@
 
+
 {{ $baseURL := "https://de2an9clyit2x.cloudfront.net/" }}
 
 <div class="row team-listing wb-eqht ">
+    {{$lang := .lang}}
     {{ range $member := .team }}
         {{ $v1 := not (isset $member "archived") }}
         {{ if or ($v1) (eq $member.archived false) }}
@@ -15,7 +17,7 @@
 
                 <div class="text">
                     <span class="name">{{ $member.name }}</span>
-                    <span class="title">{{ index $member.title (string ( $.Site.Language) ) }}</span>
+                    <span class="title">{{ index $member.title (string ( $lang) ) }}</span>
                     <div class="social-links contact-info-social">
                         {{ if and (ne $member.email nil) (ne $member.email "") }}
                         <span class="social-icons">
