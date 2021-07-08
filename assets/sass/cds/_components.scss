@@ -442,7 +442,10 @@
 		width: 70%;
 	}
 	p{
-		width: 70%;
+		@include desktop{
+			width: 70%;
+		}
+		
 	}
 }
 
