@@ -5,58 +5,35 @@
 <section class="section our-team--listing">
 
   <div class="meet-us-container">
-    <div class="heading">
-      <h2>{{ i18n "senior_management" }}</h2>
-    </div>
-
+    
+    <h2 class="heading">{{ i18n "senior_management" }}</h2>
     {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.exec "lang" (string ( $.Site.Language) ))}}
 
-
-
-    <div class="heading">
-      <h2>{{ i18n "design" }}</h2>
-    </div>
+    <h2 class="heading">{{ i18n "design" }}</h2>
     {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.design "lang" (string ( $.Site.Language) ))}}
 
-    <div class="heading">
-      <h2>{{ i18n "design_research" }}</h2>
-    </div>
+    <h2 class="heading">{{ i18n "design_research" }}</h2>
     {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.design_research "lang" (string ( $.Site.Language) ))}}
 
-    <div class="heading">
-      <h2>{{ i18n "development" }}</h2>
-    </div>
+    <h2 class="heading">{{ i18n "development" }}</h2>
     {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.development "lang" (string ( $.Site.Language) ))}}
 
-
-    <div class="heading">
-      <h2>{{ i18n "internal_operations" }}</h2>
-    </div>
+    <h2 class="heading">{{ i18n "internal_operations" }}</h2>
     {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.internal_operations "lang" (string ( $.Site.Language) ))}}
 
-    <div class="heading">
-      <h2>{{ i18n "partnerships" }}</h2>
-    </div>
+    <h2 class="heading">{{ i18n "partnerships" }}</h2>
     {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.partnerships "lang" (string ( $.Site.Language) ))}}
 
-    <div class="heading">
-      <h2>{{ i18n "policy" }}</h2>
-    </div>
+    <h2 class="heading">{{ i18n "policy" }}</h2>
     {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.policy "lang" (string ( $.Site.Language) ))}}
 
-    <div class="heading">
-      <h2>{{ i18n "product_management" }}</h2>
-    </div>
+    <h2 class="heading">{{ i18n "product_management" }}</h2>
     {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.product_managment "lang" (string ( $.Site.Language) ))}}
 
-    <div class="heading">
-      <h2>{{ i18n "outreach" }}</h2>
-    </div>
+    <h2 class="heading">{{ i18n "outreach" }}</h2>
     {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.outreach "lang" (string ( $.Site.Language) ))}}
 
-    <div class="heading">
-      <h2>{{ i18n "talent" }}</h2>
-    </div>
+    <h2 class="heading">{{ i18n "talent" }}</h2>
     {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.talent "lang" (string ( $.Site.Language) ))}}
 
   </div>
