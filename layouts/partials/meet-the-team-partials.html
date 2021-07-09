@@ -13,7 +13,7 @@
         {{ $v1 := not (isset $member "archived") }}
         {{ if or ($v1) (eq $member.archived false) }}
 
-        <div class="col-xs-12 col-sm-6 col-md-2">
+        <div class="col-xs-12 col-sm-6 col-md-3">
             <div class="team-member">
                 <div class="photo-container">
                     <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"

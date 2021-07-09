@@ -160,6 +160,7 @@
 	margin: 0;
 	padding: 0;
 	text-align: center;
+	margin-bottom: 4rem;
 
 	@include tablet {
 
@@ -179,7 +180,10 @@
 		background-color: $medium-grey;
 		padding: 2.5rem 0 0;
 		margin-bottom: 2rem;
-		height: 482px;
+		@include desktop {
+			height: 482px;
+		}
+		
 		
 		@include tablet {
 			padding: 3.5rem 0 0;
