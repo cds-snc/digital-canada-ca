@@ -230,6 +230,14 @@
 		justify-content: center;
 		font-size: 2.2rem;
 		padding: 1.5rem 1.5rem;
+
+		@include mobile_only {
+			margin-bottom: 5rem;
+		}
+
+		@include tablet {
+			margin-bottom: 5rem;
+		}
 		
 		@media (max-width: 1265px) {
 			padding: 1.45rem 1.45rem;
