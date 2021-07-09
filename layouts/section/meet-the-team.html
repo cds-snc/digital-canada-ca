@@ -6,35 +6,25 @@
 
   <div class="meet-us-container">
     
-    <h2 class="heading">{{ i18n "senior_management" }}</h2>
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.exec "lang" (string ( $.Site.Language) ))}}
+    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.exec "lang" (string ( $.Site.Language) ) "role" (i18n "senior_management"))}}
 
-    <h2 class="heading">{{ i18n "design" }}</h2>
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.design "lang" (string ( $.Site.Language) ))}}
+    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.design "lang" (string ( $.Site.Language) ) "role" (i18n "design"))}}
 
-    <h2 class="heading">{{ i18n "design_research" }}</h2>
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.design_research "lang" (string ( $.Site.Language) ))}}
+    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.design_research "lang" (string ( $.Site.Language) ) "role" (i18n "design_research"))}}
 
-    <h2 class="heading">{{ i18n "development" }}</h2>
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.development "lang" (string ( $.Site.Language) ))}}
+    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.development "lang" (string ( $.Site.Language) ) "role" (i18n "development"))}}
 
-    <h2 class="heading">{{ i18n "internal_operations" }}</h2>
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.internal_operations "lang" (string ( $.Site.Language) ))}}
+    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.internal_operations "lang" (string ( $.Site.Language) ) "role" (i18n "internal_operations"))}}
 
-    <h2 class="heading">{{ i18n "partnerships" }}</h2>
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.partnerships "lang" (string ( $.Site.Language) ))}}
+    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.partnerships "lang" (string ( $.Site.Language) ) "role" (i18n "partnerships"))}}
 
-    <h2 class="heading">{{ i18n "policy" }}</h2>
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.policy "lang" (string ( $.Site.Language) ))}}
+    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.policy "lang" (string ( $.Site.Language) ) "role" (i18n "policy"))}}
 
-    <h2 class="heading">{{ i18n "product_management" }}</h2>
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.product_managment "lang" (string ( $.Site.Language) ))}}
+    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.product_managment "lang" (string ( $.Site.Language) ) "role" (i18n "product_management"))}}
 
-    <h2 class="heading">{{ i18n "outreach" }}</h2>
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.outreach "lang" (string ( $.Site.Language) ))}}
+    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.outreach "lang" (string ( $.Site.Language) ) "role" (i18n "outreach"))}}
 
-    <h2 class="heading">{{ i18n "talent" }}</h2>
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.talent "lang" (string ( $.Site.Language) ))}}
+    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.talent "lang" (string ( $.Site.Language) ) "role" (i18n "talent"))}}
 
   </div>
 </section>
