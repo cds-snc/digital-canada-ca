@@ -83,25 +83,7 @@
 
     <header role="banner">
       {{ partial "fip.html" . }}
-
-      {{ block "title" . }}
       {{partial "menu.html" . }}
-      <div class="page-banner">
-        <div class="container">
-          <div class="page-banner--title">
-            {{ $title := i18n .Params.title }}
-            {{ with $title }}
-            <h1>{{ $title }}</h1>
-            {{end}}
-            {{ if .Params.subtitle }}
-            <span class="page-title-sub">
-              {{ .Params.subtitle }}
-            </span>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-      {{ end }}
     </header>
 
     <main role="main" property="mainContentOfPage">
