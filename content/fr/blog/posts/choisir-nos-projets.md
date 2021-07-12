@@ -14,7 +14,7 @@ author: 'Wendy Luciani, partenariats'
 date: '2017-08-24 10:00:00 -0400'
 image: https://de2an9clyit2x.cloudfront.net/picking_our_projects_2017_b3fdfe5d6f.jpg
 image-alt: Affiches dans les locaux du SNC.
-translationKey: picking-our-projects/
+translationKey: picking-our-projects
 thumb: https://de2an9clyit2x.cloudfront.net/small_picking_our_projects_2017_b3fdfe5d6f.jpg
 ---
 J’ai grandi sur une ferme. Mon enfance a été marquée par la sensation du gravier sous mes pieds, la terre sur mes mains et le bonheur de choisir des fruits et des légumes directement du champ. J’aimerais pouvoir vous dire que choisir des projets est semblable, mais je n’ai toujours pas vu de gravier, de terre, de fruits ou de légumes pendant une discussion portant sur un partenariat (points bonis si vous y arrivez!)

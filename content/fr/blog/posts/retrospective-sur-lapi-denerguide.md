@@ -13,7 +13,7 @@ image-alt: >-
   Sept membres de l’équipe sont assis autour d’une table. Ils regardent deux
   personnes debouts devant eux qui regroupent des papiers autocollants («
   post-it ») sur le tableau blanc.
-translationKey: retrospective-on-EnerGuide-api
+translationKey: retrospective-on-energuide-api
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_energuide_retro_f4780d2e1d.jpg
 ---
 
