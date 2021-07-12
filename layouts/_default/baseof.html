@@ -92,8 +92,6 @@
             {{ $title := i18n .Params.title }}
             {{ with $title }}
             <h1>{{ $title }}</h1>
-            {{ else }}
-            <h1>{{ .Params.title }}</h1>
             {{end}}
             {{ if .Params.subtitle }}
             <span class="page-title-sub">
