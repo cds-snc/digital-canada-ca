@@ -16,7 +16,10 @@ We’re hiring an Executive Assistant to provide administrative and operational 
 We are looking for an Executive Assistant who will thrive at managing multiple priorities in a rapidly changing environment, as they work alongside our community of practice Directors and their teams. This is a multi-faceted role that goes beyond traditional administration and correspondence and will provide the opportunity to grow skills in strategy, stakeholder engagement, work management, and policy. CDS uses modern tools to help you get the job done, provides mentorship, coaching and professional development opportunities as well as experience seeing how modern software and digital services are built. If you’re ready to work and learn as part of a caring, mission-driven, fast-paced team; help CDS continuously fine-tune their operations; and play a part in improving services for Canadians, this is the role for you.
 
 ## We’re looking for someone who will:
-- Manage calendars and logistics for internal and external meetings, as well as future travel.
+<ul> 
+  <li>Manage calendars and logistics for internal and external meetings, as well as future travel.</li>
+</ul>
+<!-- - Manage calendars and logistics for internal and external meetings, as well as future travel.
 - Draft and manage correspondence and communications on behalf of Directors.
 - Plan and execute team events, meetings, off-sites, and other special functions.
 - Track, organize, and prioritize a range of action items, approval requests, and internal documents from staff.
@@ -27,7 +30,7 @@ We are looking for an Executive Assistant who will thrive at managing multiple p
 - Be responsible for occasional note-taking and follow up on actions
 - Remain calm under pressure, know how to prioritize, and work as part of a team.
 - Work closely with Business Unit directors, and the offices of operational partners across the Treasury Board Secretariat.
-- Populate Client Relationship management (CRM) systems
+- Populate Client Relationship management (CRM) systems -->
 
 ## An excellent candidate will:
 - Keep Directors on track to meet commitments and support accountability for results across the team.

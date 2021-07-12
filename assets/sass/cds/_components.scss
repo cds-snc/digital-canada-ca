@@ -462,3 +462,36 @@
 	margin-bottom: 4rem;
 }
 
+.job-postings-container {
+	width: 65%;
+	margin-left: 2.5rem;
+
+	.padding {
+		padding: 3rem 0;
+		position: relative;
+		z-index: 0;
+		margin: 0 auto;
+		width: 100%;
+	
+		@include mobile_only {
+			padding: 3rem 0;
+		}
+	}
+	h2 {
+		color: black;
+		margin-bottom: 3rem;
+	}
+	h1 {
+		color: black;
+		margin-bottom: 3rem;
+	}
+	a {
+		color: $secondary-color;
+	}
+	p {
+		li {
+			color: red;
+		}
+	}
+	
+}
