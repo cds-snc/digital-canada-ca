@@ -4,7 +4,7 @@ type: section
 title: 'Senior or Principal Content Designer'
 description: >-
   Content design is a UX practice focused on meeting the information needs of users, and how to best organize and present that information in English and French. Content design helps people find what they need, understand what they find, and use it to meet their needs.
-archived: false
+archived: true
 translationKey: sr-content-designer
 leverId: 191b5e60-a9d8-4c60-89e5-263aa4347771
 ---
