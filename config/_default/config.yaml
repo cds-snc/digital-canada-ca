@@ -53,8 +53,8 @@ languages:
       work-with-us: /:title
     menu:
       main:
-        - identifier: home
-          name: Home
+        - identifier: accueil
+          name: Accueil
           url: /
           weight: 1
         - identifier: partenariats
