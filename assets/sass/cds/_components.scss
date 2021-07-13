@@ -488,10 +488,11 @@
 	a {
 		color: $secondary-color;
 	}
-	p {
-		li {
-			color: red;
-		}
-	}
 	
+}
+#description {
+	color: blue;
+}
+.emphasized {
+	font-size: 2.2em;
 }
