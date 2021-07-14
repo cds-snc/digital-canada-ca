@@ -1,30 +1,33 @@
 {{ define "main" }}
 
 {{ .Content }}
-
 <section class="section our-team--listing">
 
   <div class="meet-us-container">
-    
+
     {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.exec "lang" (string ( $.Site.Language) ) "role" (i18n "senior_management"))}}
+    
+    {{$category := slice}}
+    {{ range $member := .Site.Data.team.team }}
+      {{$category = $category | append $member.title.en}}
+    {{ end }}
+    {{$category = uniq $category}}
+    
+    {{ range $category }}
+      {{ $role := .}}
 
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.design "lang" (string ( $.Site.Language) ) "role" (i18n "design"))}}
+      <!-- <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+        <h2 class="heading">{{ $role }}</h2>
+      </div> -->
+      <p>{{ $role }}</p>
+      {{range where $.Site.Data.team.team "title.en" $role}}
+      <p>{{ .name }}</p>
+      
+      {{end}}
+    {{end}}
 
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.design_research "lang" (string ( $.Site.Language) ) "role" (i18n "design_research"))}}
 
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.development "lang" (string ( $.Site.Language) ) "role" (i18n "development"))}}
-
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.internal_operations "lang" (string ( $.Site.Language) ) "role" (i18n "internal_operations"))}}
-
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.partnerships "lang" (string ( $.Site.Language) ) "role" (i18n "partnerships"))}}
-
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.policy "lang" (string ( $.Site.Language) ) "role" (i18n "policy"))}}
-
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.product_managment "lang" (string ( $.Site.Language) ) "role" (i18n "product_management"))}}
-
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.outreach "lang" (string ( $.Site.Language) ) "role" (i18n "outreach"))}}
-
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.team.talent "lang" (string ( $.Site.Language) ) "role" (i18n "talent"))}}
+    
 
   </div>
 </section>
