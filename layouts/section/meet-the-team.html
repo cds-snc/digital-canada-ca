@@ -34,7 +34,7 @@
         {{else}}
         {{$lang = "title.fr"}} 
         {{end}}
-        <!-- needs to be chnaged to reflect either fr or en -->
+
         {{range where $.Site.Data.team.team $lang $role}}
         
         {{ $v1 := not (isset $.Site.Data.team.team  .archived) }}
