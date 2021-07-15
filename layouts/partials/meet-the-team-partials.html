@@ -2,8 +2,7 @@
 
 {{ $baseURL := "https://de2an9clyit2x.cloudfront.net/" }}
 
-
-<div >
+<div>
     {{$lang := .lang}}
     {{ $member := .team }}
         {{ $v1 := not (isset $member "archived") }}
@@ -56,5 +55,4 @@
             </div>
         </div>
         {{ end }}
-    
 </div>
