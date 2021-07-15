@@ -20,10 +20,7 @@ We are looking for an Executive Assistant who will thrive at managing multiple p
 
 
 ## We’re looking for someone who will:
-<ul> 
-  <li>Manage calendars and logistics for internal and external meetings, as well as future travel.</li>
-</ul>
-<!-- - Manage calendars and logistics for internal and external meetings, as well as future travel.
+- Manage calendars and logistics for internal and external meetings, as well as future travel.
 - Draft and manage correspondence and communications on behalf of Directors.
 - Plan and execute team events, meetings, off-sites, and other special functions.
 - Track, organize, and prioritize a range of action items, approval requests, and internal documents from staff.
@@ -34,7 +31,7 @@ We are looking for an Executive Assistant who will thrive at managing multiple p
 - Be responsible for occasional note-taking and follow up on actions
 - Remain calm under pressure, know how to prioritize, and work as part of a team.
 - Work closely with Business Unit directors, and the offices of operational partners across the Treasury Board Secretariat.
-- Populate Client Relationship management (CRM) systems -->
+- Populate Client Relationship management (CRM) systems
 
 ## An excellent candidate will:
 - Keep Directors on track to meet commitments and support accountability for results across the team.
