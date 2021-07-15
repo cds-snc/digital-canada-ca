@@ -7,11 +7,8 @@
     <div class="col-sm-10 col-sm-offset-1 col-xs-12">
       <h2 class="heading">{{ i18n "senior_management" }}</h2>
     </div>
-    <div class="row team-listing wb-eqht ">
-      {{range $team := $.Site.Data.team.exec}}
-        {{ partial "meet-the-team-partials.html" (dict "team" $team "lang" (string ( $.Site.Language) ))}}
-      {{end}}
-    </div>
+    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.exec "lang" (string ( $.Site.Language) ) )}}
+
 
 
     {{$category := slice}}

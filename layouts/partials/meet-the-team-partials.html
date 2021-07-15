@@ -2,9 +2,9 @@
 
 {{ $baseURL := "https://de2an9clyit2x.cloudfront.net/" }}
 
-<div >
+<div class="row team-listing wb-eqht ">
     {{$lang := .lang}}
-    {{$member := .team }}
+    {{ range $member := .team }}
         {{ $v1 := not (isset $member "archived") }}
         {{ if or ($v1) (eq $member.archived false) }}
 
@@ -55,4 +55,5 @@
             </div>
         </div>
         {{ end }}
+    {{ end }}
 </div>
