@@ -1,11 +1,17 @@
 {{ define "main" }}
-{{ $baseURL := "https://de2an9clyit2x.cloudfront.net/" }}
 {{ .Content }}
 <section class="section our-team--listing">
 
   <div class="meet-us-container">
+    <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+      <h2 class="heading">{{ i18n "senior_management" }}</h2>
+    </div>
+    <div class="row team-listing wb-eqht ">
+    {{ range $member := .Site.Data.team.exec }}
+        {{ partial "meet-the-team-partials.html" (dict "team" $member "lang" (string ( $.Site.Language) ) )}}
+    {{end}}
+    </div>
 
-    {{ partial "meet-the-team-partials.html" (dict "team" $.Site.Data.team.exec "lang" (string ( $.Site.Language) ) )}}
 
     {{$category := slice}}
     {{ range $member := .Site.Data.team.team }}
@@ -32,59 +38,15 @@
           {{$lang = "title.fr"}} 
         {{end}}
 
+        {{$teamArr := slice}}
         {{range where $.Site.Data.team.team $lang $role}}
-        
-          {{ $v1 := not (isset $.Site.Data.team.team  .archived) }}
-          {{ if or ($v1) (eq .archived false) }}
-            <div class="col-xs-12 col-sm-6 col-md-3">
-              <div class="team-member">
-                <div class="photo-container">
-                  <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ .imagehash }}.jpg"
-                      data-srcset="{{ $baseURL}}{{ .imagehash }}.jpg" alt="{{ index " name" }}">
-                </div>
-                
-                <div class="text">
-                  <span class="name">{{ .name }}</span>
-                  <span class="title">{{ index .title (string ( $.Site.Language) ) }}</span>
-                  <div class="social-links contact-info-social">
-                    {{ if and (ne .email nil) (ne .email "") }}
-                    <span class="social-icons">
-                        <a href="mailto:{{ .email }}" aria-label="Link to {{ .name }}'s Email">
-                            <i class="icon-envelope" aria-hidden="true"></i>
-                        </a>
-                    </span>
-                    {{ end }}
-                    {{ if and (ne .twitter nil) (ne .twitter "") }}
-                    <span class="social-icons">
-                        <a href="https://twitter.com/{{ .twitter }}"
-                            aria-label="Link to {{ .name }}'s Twitter Account">
-                            <i class="icon-twitter" aria-hidden="true"></i>
-                        </a>
-                    </span>
-                    {{ end }}
-                    {{ if and (ne .linkedin nil) (ne .linkedin "") }}
-                    <span class="social-icons">
-                        <a href="https://linkedin.com/in/{{ .linkedin }}"
-                            aria-label="Link to {{ .name }}'s Linkedin Profile">
-                            <i class="icon-linkedin" aria-hidden="true"></i>
-                        </a>
-                    </span>
-                    {{ end }}
-                    {{ if and (ne .github nil) (ne .github "") }}
-                    <span class="social-icons">
-                        <a href="https://github.com/{{ .github }}"
-                            aria-label="Link to {{ .name }}'s GitHub profile">
-                            <i class="icon-github" aria-hidden="true"></i>
-                        </a>
-                    </span>
-                    {{ end }}
-                  </div>
-                </div>
-              </div>
-            </div>
-          {{end}}
-            
-          {{end}}
+          {{$teamArr = $teamArr | append .}}
+        {{end}}
+
+        {{range $teamMember := $teamArr}}
+          {{ partial "meet-the-team-partials.html" (dict "team" $teamMember "lang" (string ( $.Site.Language) ) )}}
+        {{end}}  
+
         </div>
     {{end}}
   </div>
