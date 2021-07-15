@@ -593,6 +593,10 @@ span.livefr {
     font-size: 2.5rem;
     color:black;
   }
+
+  .major {
+    @include major($career-brown);
+  }
 }
 
 .joinus-section--title{
@@ -625,28 +629,25 @@ span.livefr {
 
 }
 
-.work-with-us--section{
-  background-color: #262a2d;
-  color:#fff;
-
+.work-with-us--section {
   .work-with-us--text {
     padding-top: 30px;
     padding-bottom: 20px;
   }
+}
 
-  h3 {
-    color: #FFCC33;
-  }
+.work-with-us--image {
+  background: linear-gradient(180deg, rgba($medium-grey,1) 50%, rgb(255, 255, 255) 50%);
 
   .img-fluid {
     max-width: 100%;
     height: auto;
+    -webkit-clip-path: polygon(0 8%, 0 100%, 100% 91%, 100% 0);
+    clip-path: polygon(0 8%, 0 100%, 100% 91%, 100% 0);
   }
-
 }
 
 .steps {
-
   list-style: none;
   counter-reset: my-awesome-counter;
   display: flex;
@@ -676,10 +677,6 @@ span.livefr {
   h4 {
     margin-top: 0;
   }
-}
-
-.work-with-us--process {
-  border-top: $medium-grey 1px solid;
 }
 
 .work-with-us--apply-now {

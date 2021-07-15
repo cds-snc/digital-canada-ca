@@ -1,0 +1,16 @@
+.button-arrow {
+	background: black;
+	
+	a {
+		display: inline-block;
+		color: white !important;
+		@include label;
+		text-decoration: none;
+		padding: 10px 15px;
+	}
+
+	svg {
+		fill: white;
+		margin-left: 10px;
+	}
+}

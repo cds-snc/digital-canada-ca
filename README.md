@@ -10,9 +10,9 @@ Powered by [Hugo](https://gohugo.io/), and the [Web Experience Toolkit](https://
 
 1. Clone the repository.
 
-    ```
-    git clone https://github.com/cds-snc/digital-canada-ca.git
-    ```
+   ```
+   git clone https://github.com/cds-snc/digital-canada-ca.git
+   ```
 
 2. If you do not have Hugo installed on your machine, you will need to install it. We are running on an older version of Hugo ([v0.55.6](https://github.com/gohugoio/hugo/releases/tag/v0.55.6)). You can grab the appropriate [tar file here](https://github.com/gohugoio/hugo/releases/tag/v0.55.6), making sure to select the extended version. Then, [follow these instructions for installing it](https://bwaycer.github.io/hugo_tutorial.hugo/tutorials/installing-on-mac/#from-tarball). If you run into permissions issues, [here is a handy article to help fix the permissions](https://codewithhugo.com/catalina-permission-command-line-fix/).
 
@@ -20,9 +20,9 @@ We'd love to upgrade to the newer version, however it results in some breaking c
 
 3. Serve:
 
-    ```
-    hugo server -D 
-    ```
+   ```
+   hugo server -D
+   ```
 
 The English and French versions will be hosted at [localhost:1313](http://localhost:1313) and [localhost:1314](http://localhost:1314), respectively.
 
@@ -30,7 +30,7 @@ The English and French versions will be hosted at [localhost:1313](http://localh
 
 Powered by [Strapi](https://strapi.io/). The Strapi instance for this website can be found at [https://github.com/cds-snc/cds-website-cms](https://github.com/cds-snc/cds-website-cms).
 
-
+Please visit our [contribution guidelines](CONTRIBUTING.md) to learn how to best make updates to CMS managed content.
 
 ## ---------------------------------------------------------------------
 
@@ -42,24 +42,26 @@ Les sites [numerique.canada.ca](https://numerique.canada.ca) et [digital.canada.
 
 1. Clonez le référentiel.
 
-    ```
-    git clone https://github.com/cds-snc/digital-canada-ca.git
-    ```
+   ```
+   git clone https://github.com/cds-snc/digital-canada-ca.git
+   ```
 
 2. Installez Hugo sur votre ordinateur, si ce n’est pas déjà fait.
 
-    ```
-    brew install hugo
-    ```
+   ```
+   brew install hugo
+   ```
 
 3. Exécutez le serveur local.
 
-    ```
-    hugo server -D
-    ```
+   ```
+   hugo server -D
+   ```
 
 Les versions française et anglaise seront hébergées à [localhost:1314](http://localhost:1314) et à [localhost:1313](http://localhost:1313), respectivement.
 
 ## Système de gestion de contenu
 
 Développé par [Strapi](https://strapi.io/). Le code d’instance Strapi utilisé par ce site Web peut être consulté à [https://github.com/cds-snc/cds-website-cms](https://github.com/cds-snc/cds-website-cms).
+
+Veuillez consulter nos [directives sur les contributions au référentiel Github](CONTRIBUTING.md) pour apprendre comment apporter des modifications au contenu géré par le SGC.
