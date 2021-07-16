@@ -40,6 +40,26 @@ in-flight:
   other: "Produits en cours"
 key-contacts:
   other: "Contacts principaux"
+senior_management:
+  other: "Équipe de la direction"
+design:
+  other: "Conception"
+design_research:
+  other: "Recherche en conception"
+development:
+  other: "Développement"
+internal_operations:
+  other: "Opérations internes"
+partnerships:
+  other: "Partenariats"
+policy:
+  other: "Politiques"
+product_management:
+  other: "Gestion de produits"
+outreach:
+  other: "Liaison et diffusion"
+talent:
+  other: "Talent"    
 language-code:
   other: "fr-ca"
 language-selection:

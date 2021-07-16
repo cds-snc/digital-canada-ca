@@ -85,7 +85,6 @@
 }
 
 .our-team--listing {
-	border-top: $medium-grey 5px solid;
 	max-width: 100% !important;
 }
 
@@ -149,12 +148,19 @@
 
 
 ///// TEAM LISTING
+.heading {
+	padding: 2.5rem;
+	background-color: $team-purple;
+	margin-bottom: 2rem;
+	color: white;
 
+}
 .team-listing {
 	list-style: none;
 	margin: 0;
 	padding: 0;
 	text-align: center;
+	margin-bottom: 4rem;
 
 	@include tablet {
 
@@ -165,12 +171,20 @@
 		margin-bottom: 2rem;
 	}
 
+
+
 	.team-member {
 		position: relative;
-		border-bottom: $primary-color 4px solid;
+		border-bottom: $team-purple 4px solid;
 		box-shadow: rgb(225, 228, 231) 0px -1px 4px;
+		background-color: $medium-grey;
 		padding: 2.5rem 0 0;
 		margin-bottom: 2rem;
+		@include desktop {
+			height: 482px;
+		}
+		
+		
 		@include tablet {
 			padding: 3.5rem 0 0;
 		}
@@ -215,7 +229,20 @@
 		display: inline-flex;
 		justify-content: center;
 		font-size: 2.2rem;
-		padding: 1.5rem 1.8rem;
+		padding: 1.5rem 1.5rem;
+
+		@include mobile_only {
+			margin-bottom: 5rem;
+		}
+
+		@include tablet {
+			margin-bottom: 5rem;
+		}
+		
+		@media (max-width: 1265px) {
+			padding: 1.45rem 1.45rem;
+		  }
+
 
 		&:hover {
 			background: $primary-color;
@@ -413,3 +440,25 @@
 
 	}
 }
+
+.meet-us-container {
+	width: 80%;
+	justify-content: space-between;
+	margin: 0 auto;
+
+	.text-margin {
+		width: 70%;
+	}
+	p{
+		@include desktop{
+			width: 70%;
+		}
+		
+	}
+}
+
+.meet-the-team-heading {
+	font-size: 45px;
+	margin-bottom: 4rem;
+}
+

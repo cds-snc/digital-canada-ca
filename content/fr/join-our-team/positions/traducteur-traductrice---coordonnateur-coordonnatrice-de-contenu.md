@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: 'Traducteur/traductrice - Coordonateur/Coordonatrice de contenu'
+title: 'Traducteur/traductrice - Coordonnateur/Coordonnatrice de contenu'
 description: >-
   Le rôle de traducteur ou de traductrice est essentiel afin de nous assurer de respecter notre mandat dans les deux langues officielles et de contribuer à l’amélioration continue de notre équipe, ainsi que du contenu et des normes bilingues à l’échelle de l’organisation.
 archived: false

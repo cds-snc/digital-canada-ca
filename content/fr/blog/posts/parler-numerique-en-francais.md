@@ -12,7 +12,7 @@ description: >-
 author: 'Annie Leblond, communications'
 image: https://de2an9clyit2x.cloudfront.net/blog_discussing_digital_in_french_2017_0d1d34a4de.jpg
 image-alt: Clavier d’ordinateur avec une touche illustrant le drapeau de la France.
-translationKey: discussing-digital-in-french/
+translationKey: discussing-digital-in-french
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_discussing_digital_in_french_2017_0d1d34a4de.jpg
 ---
 Demain, le 30 septembre, ce sera la Journée mondiale de la traduction. Pour moi, parler du numérique en français, c’est un défi&nbsp;: Nommer correctement les nouveautés technologiques et *surtout* – surtout – ne pas perdre de vue que nous nous adressons à «&nbsp;du vrai monde&nbsp;». **Penser à l’utilisateur d’abord, le placer au cœur de notre travail, c’est aussi dans les mots que nous choisissons**.
