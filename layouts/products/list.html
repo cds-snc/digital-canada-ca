@@ -19,7 +19,7 @@
   {{ with (index .Params "product-url")}}
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-        <div class="service-link"><a class="view-product" href='{{ . }}'>{{ i18n "view-product"}}</a></div>
+        <div class="service-link"><a class="view-product" aria-label="{{ $.Params.title }}" href='{{ . }}'>{{ i18n "view-product"}}</a></div>
       </div>
     </div>
   {{ end }}
