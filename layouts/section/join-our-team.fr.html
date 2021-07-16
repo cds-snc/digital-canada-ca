@@ -1,51 +1,50 @@
 {{ define "main" }}
-<div class="bg-med-grey">
-    <div class="container">
-        <section class="section work-with-us--section joinus-section work-with-us--intro">
-            <div class="row">
-                <div class="col-sm-8 col-xs-12">
-                    <h2 class="major">Travaillez de n’importe où au Canada. Améliorez les services gouvernementaux.</h2>
-                    <h3>Joignez-vous à notre équipe</h3>
-                    <p>Au SNC, vous pouvez travailler de n'importe où au Canada, selon un horaire flexible qui vous permettra de maintenir un bon équilibre entre la vie professionnelle et privée. Nos employés se trouvent partout au pays, d'un océan à l'autre.</p>
-                    <p>Nous mettons à votre disposition des outils et technologies de fine pointe pour vous aider à faire un excellent travail.</p>
-                    <p>Vous ferez partie d'une équipe formidable et hautement qualifiée qui travaille à la prestation de services importants qui aident les gens.</p>
 
-                    <div class="button-arrow">
-                        <a href="/rencontrez-lequipe/">Rencontrer l'équipe <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8 9H0V7H8V0L16 8L8 16V9Z"/></svg></a>
-                    </div>
+<section class="section work-with-us--section joinus-section work-with-us--intro bg-med-grey">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-xs-12">
+                <h2 class="major">Travaillez de n’importe où au Canada. Améliorez les services gouvernementaux.</h2>
+                <h3>Joignez-vous à notre équipe</h3>
+                <p>Au SNC, vous pouvez travailler de n'importe où au Canada, selon un horaire flexible qui vous permettra de maintenir un bon équilibre entre la vie professionnelle et privée. Nos employés se trouvent partout au pays, d'un océan à l'autre.</p>
+                <p>Nous mettons à votre disposition des outils et technologies de fine pointe pour vous aider à faire un excellent travail.</p>
+                <p>Vous ferez partie d'une équipe formidable et hautement qualifiée qui travaille à la prestation de services importants qui aident les gens.</p>
+
+                <div class="button-arrow">
+                    <a href="/rencontrez-lequipe/">Rencontrer l'équipe <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8 9H0V7H8V0L16 8L8 16V9Z"/></svg></a>
                 </div>
             </div>
-        </section>
+        </div>
     </div>
-</div>
+</section>
 
-<div class="bg-white">
+
+<section class="section work-with-us--section joinus-section bg-white">
     <div class="container">
-        <section class="section work-with-us--section joinus-section">
-            <div class="row">
-                <div class="col-sm-8 col-xs-12">
-                    <div>
-                        {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
-                            <h3>Ce que nous recherchons</h3>
-                            <p>Vous êtes passionné par les expériences des gens et souhaitez améliorer leur vie. Vous êtes curieux et votre humilité vous aide à apprendre et à grandir. Vous aimez collaborer avec des gens occupant différents rôles et avec d’autres organisations. Vous créez des structures pour mettre un sens à l’ambiguïté et vous vous frayez un chemin dans de nouveaux environnements.</p>
+        <div class="row">
+            <div class="col-sm-8 col-xs-12">
+                <div>
+                    {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                        <h3>Ce que nous recherchons</h3>
+                        <p>Vous êtes passionné par les expériences des gens et souhaitez améliorer leur vie. Vous êtes curieux et votre humilité vous aide à apprendre et à grandir. Vous aimez collaborer avec des gens occupant différents rôles et avec d’autres organisations. Vous créez des structures pour mettre un sens à l’ambiguïté et vous vous frayez un chemin dans de nouveaux environnements.</p>
 
-                            <div class="row">
-                                {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
-                                    <h3>Postes à pourvoir</h3>
-                                    {{ range $p := (where .Pages ".Params.archived" "==" false) }}
-                        
-                                    <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
+                        <div class="row">
+                            {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                                <h3>Postes à pourvoir</h3>
+                                {{ range $p := (where .Pages ".Params.archived" "==" false) }}
+                    
+                                <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
 
-                                    {{ end }}
                                 {{ end }}
-                            </div>
-                        {{end}}
-                    </div>
+                            {{ end }}
+                        </div>
+                    {{end}}
                 </div>
             </div>
-        </section>
+        </div>
     </div>
-</div>
+</section>
+
 
 <section class="section section--mailing-list">
   {{ partial "mailing-list.html" }}
