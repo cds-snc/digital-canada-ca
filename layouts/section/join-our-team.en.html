@@ -1,53 +1,56 @@
 {{ define "main" }}
-<div class="container">
-    <section class="section joinus-section work-with-us--intro">
+
+<section class="section work-with-us--section joinus-section work-with-us--intro bg-med-grey">
+    <div class="container">
         <div class="row">
-            <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-                <h2 class="joinus-section--title">Join the Canadian Digital Service</h2>
-                    <p>We’re transforming government. Our products will impact people's everyday lives. It's an exciting thing to be part of. We need you.</p>
+            <div class="col-sm-8 col-xs-12">
+                <h2 class="major">Work anywhere in Canada. Make government services better.</h2>
+                <h3>Join our team</h3>
+                <p>When you join CDS, you can work from anywhere in Canada, with flexible hours to enable a strong work-life balance. We have people working from coast to coast to coast.</p>
+                <p>We provide the latest tools and technologies to help you do great work.</p>
+                <p>You will be part of a team that does meaningful work on services that help people, alongside wonderful, highly-skilled people.</p>
 
-                    <p>The Canadian Digital Service is a collective of creative people committed to using our digital skills and knowledge to make it easier to access and use government services. Our growing multidisciplinary teams work with federal departments to make the services people depend on simple and easy-to-use. We’re focused on delivering better public services using the best technology and design, all informed by people’s needs.</p>
+                <div class="button-arrow">
+                    <a href="/meet-the-team/">Meet the team <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8 9H0V7H8V0L16 8L8 16V9Z"/></svg></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-                    <p>By working in the open and connecting partners with tools, talent, and training grounded in practice, we’re building capacity across the government for better service delivery.</p>
 
-                <div class="our-job--listing">
+
+<section class="section work-with-us--section joinus-section bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8 col-xs-12">
+                <div>
                     {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
-                        <h3>Who we are currently looking for</h3>
-                        <p>Hurry! Applications are open for a limited time.</p>
+                        <h3>What we’re looking for</h3>
+                        <p>You're passionate about people's experiences and want to make people’s lives better. You're curious, and your humility helps you learn and grow. You love to collaborate across roles and organizations. You create structure out of ambiguity and forge a path in new environments.</p>
 
                         <div class="row">
                             {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                                <h3>Current openings</h3>
                                 {{ range $p := (where .Pages ".Params.archived" "==" false) }}
-                                <div class="post border-primary ">
-                                    <h3><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h3>
-                                </div>
+                    
+                                <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
 
                                 {{ end }}
                             {{ end }}
                         </div>
                     {{end}}
-                 </div>
-
-                <h3>At CDS, we don’t just accept difference - we celebrate it.</h3>
-
-                <p>We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. We will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.</p>
-
-                <p>CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, Veteran status, marital status, pregnancy or family commitments.</p>
-
-                <h3>The mandatory requirements:</h3>
-                <ul>
-                    <li>Candidate must be fluent in one of Canada’s two official languages, English or French.</li>
-                    <li>Preference will be given to Canadian citizens or permanent residents.</li>
-                    <li>All candidates must be able to obtain Government of Canada security clearance at either Reliability or Secret level. We’ll help you with this once you’re offered a position.</li>
-                </ul>
-             </div>
+                </div>
+            </div>
         </div>
-    </section>
-</div>
+    </div>
+</section>
 
-{{ .Content }}
 
 <section class="section section--mailing-list">
   {{ partial "mailing-list.html" }}
 </section>
+
+{{ .Content }}
+
 {{ end }}
