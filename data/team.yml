@@ -372,8 +372,8 @@ team:
   - archived: false
     name: Francois Moisan
     title:
-      en: Support Technician
-      fr: Technicien de soutien
+      en: Internal Operations
+      fr: Opérations internes
     imagehash: francois_moisan_2335ae913c
     email: francois.moisan@tbs-sct.gc.ca
   - archived: false
@@ -550,8 +550,8 @@ team:
   - archived: false
     name: Nick Makuch
     title:
-      en: Design | Development
-      fr: Conception | Développement
+      en: Design
+      fr: Conception
     imagehash: nick_makuch_dd5ee4d9dd
     email: nick.makuch@tbs-sct.gc.ca
     github: nmakuch
@@ -688,4 +688,3 @@ team:
     imagehash: victoria_chan_639fffb1c6
     email: victoria.chan@tbs-sct.gc.ca
     linkedin: victoriakaychan
-    twitter: vchanimal
