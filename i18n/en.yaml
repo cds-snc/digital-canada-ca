@@ -286,3 +286,7 @@ who-is-on-the-team:
   other: "Who is on the team"
 options-below:
   other: "using one of the options below"
+skip-links:
+  other: "Skip Navigation Links"
+menu:
+  other: "Main Site Menu"

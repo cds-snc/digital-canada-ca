@@ -290,4 +290,7 @@ who-is-on-the-team:
   other: "Qui est dans l'équipe"
 options-below:
   other: "using one of the options below"
-
+skip-links:
+  other: "Liens saut de navigation"
+menu:
+  other: "Menu principal du site"
