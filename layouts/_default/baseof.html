@@ -73,7 +73,7 @@
       height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager -->
 
-    <nav>
+    <nav aria-label="{{ i18n "skip-links" }}">
       <ul id="wb-tphp">
         <li class="wb-slc">
           <a class="wb-sl" href="#wb-cont">{{ i18n "skip-to-content" }}</a>
@@ -114,10 +114,10 @@
         </section>
         {{ end }}
       </section>
+      {{ block "index" . }}
+      {{end}}
     </main>
 
-    {{ block "index" . }}
-    {{end}}
 
     {{ block "footer" . }}
     {{ partial "social-links.html" . }}
