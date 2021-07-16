@@ -587,17 +587,34 @@ span.livefr {
 .work-with-us--section,
 .work-with-us--process {
   h3 {
-    font-weight: 500;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    font-size: 2.5rem;
-    color:black;
+    @include h2styling;
   }
 
   .major {
     @include major($career-brown);
   }
 }
+
+.work-with-us--list {
+  list-style: none;
+  padding: 0;
+
+  li {
+    display: flex;
+    align-items: center;
+  }
+
+  li::before {
+    content: ' ';
+    background: #A3442F;
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    margin-right: 10px;
+  }
+}
+
+
 
 .joinus-section--title{
   font-size: 2.5rem;
@@ -987,6 +1004,11 @@ article.post {
 // CONTACT
 //
 ////////////////////////////////////////////////////
+
+.bg-white + .section--mailing-list {
+  background: white;
+}
+
 .section--mailing-list {
   background: $bg-grey;
   padding-bottom: 8rem;
@@ -1087,6 +1109,10 @@ article.post {
     justify-content: center;
     @include label;
 
+    svg {
+      margin-left: 1rem;
+    }
+
     &:hover {
       border: 2px solid $black;
       background-color: darken($primary-color, 20);
@@ -1094,10 +1120,7 @@ article.post {
   }
 }
 
-.button-arrow {
-  display: inline-block;
-  padding-left: 1rem;
-}
+
 
 .newsletter-subscribe {
   @include mobile_only {

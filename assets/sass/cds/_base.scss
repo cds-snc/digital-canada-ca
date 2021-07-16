@@ -256,4 +256,10 @@ ol ul, ol ol, ul ul, ul ol {
 	line-height: 1.244;
 }
 
+@mixin h2styling {
+	font-family	: "SourceSansPro", sans-serif !important;
+	font-weight: 600;
+	font-size: 2.8rem !important;
+}
+
 

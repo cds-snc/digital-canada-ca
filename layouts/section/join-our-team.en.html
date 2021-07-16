@@ -1,10 +1,11 @@
 {{ define "main" }}
-<div class="bg-white">
+<div class="bg-med-grey">
     <div class="container">
         <section class="section work-with-us--section joinus-section work-with-us--intro">
             <div class="row">
                 <div class="col-sm-8 col-xs-12">
                     <h2 class="major">Work anywhere in Canada. Make government services better.</h2>
+                    <h3>Join our team</h3>
                     <p>When you join CDS, you can work from anywhere in Canada, with flexible hours to enable a strong work-life balance. We have people working from coast to coast to coast.</p>
                     <p>We provide the latest tools and technologies to help you do great work.</p>
                     <p>You will be part of a team that does meaningful work on services that help people, alongside wonderful, highly-skilled people.</p>
@@ -18,7 +19,7 @@
     </div>
 </div>
 
-<div class="bg-med-grey">
+<div class="bg-white">
     <div class="container">
         <section class="section work-with-us--section joinus-section">
             <div class="row">
@@ -30,6 +31,7 @@
 
                             <div class="row">
                                 {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                                    <h3>Current openings</h3>
                                     {{ range $p := (where .Pages ".Params.archived" "==" false) }}
                         
                                     <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
