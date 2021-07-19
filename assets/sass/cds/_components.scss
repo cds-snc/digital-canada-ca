@@ -488,7 +488,27 @@
 	a {
 		color: $secondary-color;
 	}
+	.cds-title {
+		color: #6B3C18;
+		font-size: 45px;
+	}
+
 	
+}
+.gray {
+	background-color: $medium-grey;
+
+	h2 {
+		margin-top: 4rem;
+	}
+
+	a {
+		text-decoration: none;
+		color: white;
+	}
+	.button-box {
+		background-color: black;
+	}
 }
 #description {
 	color: blue;
