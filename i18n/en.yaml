@@ -290,3 +290,5 @@ skip-links:
   other: "Skip Navigation Links"
 menu:
   other: "Main Site Menu"
+footer-links:
+  other: "Footer links"
