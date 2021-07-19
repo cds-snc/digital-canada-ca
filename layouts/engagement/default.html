@@ -46,7 +46,8 @@
     })(window, document, 'script', 'dataLayer1', 'GTM-TLGQ9K');
 </script>
 <!-- End Google Tag Manager -->
-<nav>
+
+<nav aria-label="{{ i18n "skip-links" }}">
     <ul id="wb-tphp">
         <li class="wb-slc">
             <a class="wb-sl" href="#wb-cont">{{ i18n "skip-to-content" }}</a>
@@ -86,8 +87,8 @@
     <div class="brand">
         <div class="container">
             <div class="row">
-                <nav class="col-md-10 ftr-urlt-lnk">
-                    <h2 class="wb-inv">{{ i18n "about-this-site" }}</h2>
+                <nav class="col-md-10 ftr-urlt-lnk" aria-labelledby="about-footer-id">
+                    <h2 class="wb-inv" id="about-footer-id">{{ i18n "about-this-site" }}</h2>
 
                     {{ partial "footer-links.html" }}
 

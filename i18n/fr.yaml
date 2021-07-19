@@ -294,3 +294,5 @@ skip-links:
   other: "Liens saut de navigation"
 menu:
   other: "Menu principal du site"
+footer-links:
+  other: "Liens en bas de page"
