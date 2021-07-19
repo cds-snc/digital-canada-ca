@@ -42,8 +42,8 @@
               xmlns="http://www.w3.org/2000/svg">
               <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
             </svg></a>
-        </div>  
-          
+        </div>
+
 
 
       </div>
@@ -54,46 +54,50 @@
   </div>
 </div>
 
-<div>
-  <!-- START APPLY FORM EN  -->
-  {{ if .Params.leverId }}
-  <section class="section work-with-us--apply-now">
-    <div class="container page-wide--outer-container-padding">
-      <h2 class="section--title--post col-sm-offset-1 col-xs-12">Apply now</h2>
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-        <form enctype="multipart/form-data" class="text-left" role="form" id="contactForm">
-          <!-- jobId -->
-          <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
-          <!-- Full Name -->
-          <div class="form-group">
-            <label for="name">Full Name</label>
-            <input type="text" class="form-control validate-required" id="name" name="name" aria-required="true"
-              aria-describedby="name-required" />
-            <span id="name-required" class="error-message validate-required-message" style="display: none;">This field
-              is required</span>
-          </div>
-          <!-- Email -->
-          <div class="form-group">
-            <label for="email">Email</label>
-            <input type="email" name="email" class="form-control validate-required validate-email" id="email"
-              aria-required="true" aria-describedby="email-required" />
-            <span id="email-required" class="error-message validate-required-message" style="display: none;">This field
-              is required</span>
-          </div>
+<div class="work-with-us--apply">
+  <div class="row">
+    <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+      <h2>Apply now</h2>
+      <form enctype="multipart/form-data" class="text-left" role="form" id="contactForm">
+        <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
+        <!-- Full Name -->
+        <div class="form-group">
+          <label for="name">Full Name</label>
+          <input type="text" class="form-control validate-required" id="name" name="name" aria-required="true"
+            aria-describedby="name-required" />
+          <span id="name-required" class="error-message validate-required-message" style="display: none;">This field
+            is required</span>
+        </div>
+        <!-- Email -->
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" name="email" class="form-control validate-required validate-email" id="email"
+            aria-required="true" aria-describedby="email-required" />
+          <span id="email-required" class="error-message validate-required-message" style="display: none;">This field
+            is required</span>
+        </div>
 
-          <!-- Resume -->
-          <div class="form-group">
-            <label for="resume">Resume</label>
-            <input class="resume" type="file" id="resume" name="resume"
-              accept="application/msword, application/pdf, text/plain" required />
-          </div>
+        <!-- Resume -->
 
-          <!-- Body -->
-          <div class="form-group">
-            <label for="body">Tell us in 300 words or less why you want to work with us and,
-              <strong>if applicable</strong>, what we should know about your
-              work samples
+        <label for="resume">Resume</label>
+        <div class="form-group">
+          <!-- <label for="resume">Resume</label> -->
+          <div class="browse">
+            <label>Browse...
+              <input class="resume" type="file" id="resume" name="resume"
+                accept="application/msword, application/pdf, text/plain" required style="display: none;" />
             </label>
+
+          </div>
+
+
+        </div>
+        <!-- Body -->
+
+        <div class="form-group">
+          <label for="body">Tell us in 300 words or less why you want to work with us and,
+            <strong>if applicable</strong>, what we should know about your
+            work samples
             <textarea class="form-control validate-required validate-maxwords" id="body" name="body" rows="5"
               aria-required="true" aria-describedby="body-required word-count-message"></textarea>
             <span id="body-required" class="error-message validate-required-message" style="display: none;">This field
@@ -101,27 +105,36 @@
             </span>
             <span id="word-count-message" class="help-text">
               <span id="word-count">300</span> words remaining</span>
-          </div>
-          <!-- Samples of your work -->
-          <div class="form-group">
-            <label for="work_link">(Optional) Samples of your work (URLs, please!)</label>
-            <input type="text" class="form-control" id="work_link" name="work_link" />
-          </div>
-          <div class="form-group">
-            <label class="wb-inv" for="work_link_2">Additional Work Samples</label>
-            <input type="text" class="form-control" id="work_link_2" name="work_link_2" />
-          </div>
-          <!-- Submit-->
-          <button type="submit" class="button" id="submitButton">
-            <span class="spinner" id="buttonSpinner"><i style="display:inline-block;margin-right:10px;"
-                class="fas fa-spinner fa-spin"></i></span>Submit
+
+        </div>
+        <!-- Samples of your work -->
+        <div class="form-group">
+          <label for="samples">Samples of your work<span class="alt-label"> (optional)</span></label>
+
+          <label>URLs, please!</label>
+          <textarea class="form-control validate-required validate-maxwords" id="samples" name="samples" rows="5"
+            aria-required="true" aria-describedby="body-required word-count-message"></textarea>
+        </div>
+        <!-- Submit-->
+        <div>
+          <button type="submit" class="submit-btn" >
+            Submit<svg width="16" height="16" viewBox="0 0 16 16"
+            xmlns="http://www.w3.org/2000/svg">
+            <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+          </svg>
           </button>
+
+        </div>
+        <div class="privacy-link">
           <a href="/legal/privacy-notice">Privacy Notice</a>
-        </form>
-      </div>
+        </div>
+        
+
+      </form>
     </div>
-  </section>
-  {{ end }}
-  <!--END APPLY FORM EN -->
+  </div>
+
 </div>
+
+
 {{ end }}
