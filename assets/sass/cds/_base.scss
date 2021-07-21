@@ -29,6 +29,10 @@ body {
 	background-color: $bg-color;
 }
 
+li::marker { color: $career-brown; }
+
+ul {list-style-type: square;}
+
 a {
 	color 		: inherit;
 	font-weight 	: 500;
