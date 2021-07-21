@@ -15,7 +15,6 @@ We’re hiring an Executive Assistant to provide administrative and operational 
 
 We are looking for an Executive Assistant who will thrive at managing multiple priorities in a rapidly changing environment, as they work alongside our community of practice Directors and their teams. This is a multi-faceted role that goes beyond traditional administration and correspondence and will provide the opportunity to grow skills in strategy, stakeholder engagement, work management, and policy. CDS uses modern tools to help you get the job done, provides mentorship, coaching and professional development opportunities as well as experience seeing how modern software and digital services are built. If you’re ready to work and learn as part of a caring, mission-driven, fast-paced team; help CDS continuously fine-tune their operations; and play a part in improving services for Canadians, this is the role for you.
 
-
 ## We’re looking for someone who will:
 - Manage calendars and logistics for internal and external meetings, as well as future travel.
 - Draft and manage correspondence and communications on behalf of Directors.
