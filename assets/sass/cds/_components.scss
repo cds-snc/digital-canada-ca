@@ -464,24 +464,23 @@
 .job-postings-container {
   width: 65%;
   margin-left: 2.5rem;
-  // background-color: blue;
+  
+  .heading-title {
+	padding: 0 !important;
+  }
+
+  .arrow{
+	  margin-left: 5px;
+  }
 
   .padding {
     padding: 3rem 0;
-    position: relative;
-    z-index: 0;
-    margin: 0 auto;
-    width: 100%;
 
     @include mobile_only {
       padding: 3rem 0;
     }
   }
-  h2 {
-    color: black;
-    margin-bottom: 3rem;
-  }
-  h1 {
+  h1, h2 {
     color: black;
     margin-bottom: 3rem;
   }
