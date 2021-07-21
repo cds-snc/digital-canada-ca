@@ -744,7 +744,7 @@ span.livefr {
   border-top: $medium-grey 1px solid;
 }
 
-.work-with-us--apply {
+.work-with-us--apply-now {
   width: 65%;
   margin-left: 2.5rem;
 
@@ -752,6 +752,7 @@ span.livefr {
     color: black;
     margin-bottom: 3rem;
     margin-top: 3rem;
+    font-weight: 600;
   }
   label {
     color: black;
@@ -812,67 +813,6 @@ span.livefr {
     a {
       color: black;
       font-weight: 600;
-    }
-  }
-}
-
-.work-with-us--apply-now {
-  background-color: $icon-grey;
-  color: $white;
-
-  @include desktop {
-    padding-bottom: 9.5rem;
-  }
-
-  h3 {
-    color: $white;
-  }
-
-  label {
-    font-size: 2.25rem;
-    font-weight: 200;
-  }
-
-  .form-control {
-    width: 100%;
-  }
-
-  .radio label {
-    margin-bottom: 1.5rem;
-    margin-left: 3rem;
-  }
-
-  .button {
-    margin-right: 2rem;
-
-    &:hover {
-      border: 2px solid $primary-color;
-      background: $primary-color;
-      color: $icon-grey;
-    }
-  }
-
-  a {
-    color: $white;
-
-    &:hover {
-      text-decoration: none;
-      transition: all 0.3s ease-in-out;
-    }
-  }
-
-  .spinner {
-    display: inline-block;
-    opacity: 0;
-    max-width: 0px;
-    -webkit-transition: opacity 0.25s, max-width 0.45s;
-    -moz-transition: opacity 0.25s, max-width 0.45s;
-    -o-transition: opacity 0.25s, max-width 0.45s;
-    transition: opacity 0.25s, max-width 0.45s;
-
-    &.active {
-      opacity: 1;
-      max-width: 50px;
     }
   }
 }
