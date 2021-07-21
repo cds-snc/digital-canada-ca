@@ -59,7 +59,7 @@ product_management:
 outreach:
   other: "Liaison et diffusion"
 talent:
-  other: "Talent"    
+  other: "Talent"
 language-code:
   other: "fr-ca"
 language-selection:
@@ -171,11 +171,11 @@ newsletter:
 roadmap:
   other: "Feuille de route vers 2025"
 beginning-the-conversations:
-  other: "Lancer la conversation"  
+  other: "Lancer la conversation"
 terms-link:
   other: "/transparence/avis/"
 accessibility-link:
-  other: "https://numerique.canada.ca/a11y/"    
+  other: "https://numerique.canada.ca/a11y/"
 our-values-link:
   other: "https://numerique.canada.ca/nos-valeurs/"
 newsletter-link:
@@ -183,18 +183,18 @@ newsletter-link:
 roadmap-link:
   other: "https://numerique.canada.ca/feuille-de-route-2025/"
 beginning-the-conversation-link:
-  other: "https://numerique.canada.ca/commencement-de-la-conversation/"  
-tools-and-resources-platform-title: 
+  other: "https://numerique.canada.ca/commencement-de-la-conversation/"
+tools-and-resources-platform-title:
   other: "Outils de plateforme"
-tools-and-resources-platform-description-1st: 
+tools-and-resources-platform-description-1st:
   other: "Les équipes de prestation de services dans l’ensemble du gouvernement sont confrontées à de nombreux défis lors de la création de services numériques. Nous pensons que certains de ces problèmes peuvent être résolus par un ensemble commun d’outils, de technologies et de processus partagés entre les ministères."
-tools-and-resources-platform-description-2nd: 
+tools-and-resources-platform-description-2nd:
   other: "Notre équipe construit ces composants — également connus sous le nom de produits de plateforme — que les ministères peuvent mettre en place pour leurs services au lieu de devoir les créer de toutes pièces. Par exemple, tous les ministères peuvent utiliser notre outil Notification s’ils ont besoin d’envoyer des mises à jour par courriel ou par message texte aux fonctionnaires ou à la population canadienne."
-tools-and-resources-platform-description-3rd: 
+tools-and-resources-platform-description-3rd:
   other: "L’avantage d’utiliser des produits de plateforme est que cela permet aux ministères de concentrer leurs efforts sur les détails propres à leurs services. Voici les produits de plateforme que nous avons mis au point et que votre ministère peut utiliser :"
-tools-and-resources-resources-title: 
+tools-and-resources-resources-title:
   other: "Ressources"
-tools-and-resources-resources-description: 
+tools-and-resources-resources-description:
   other: "Voici des ressources développées par nos équipes ici au Service numérique canadien (SNC). Elles sont à la disposition de tous, à l’intérieur comme à l’extérieur du gouvernement, et elles peuvent vous aider à élaborer de nouvelles solutions de prestation de services grâce à des pratiques exemplaires en matière de conception, de recherche, de politique et de gestion de produits."
 top-of-page:
   other: "Haut de la page"
@@ -248,6 +248,10 @@ rcmp-research:
   other: "Participez à notre recherche"
 notify-research:
   other: "Participez à notre recherche"
+meet-the-team:
+  other: "Rencontrer l'équipe"
+our-values:
+  other: "Nos valeurs"
 subscribe-title:
   other: "Abonnez-vous à notre infolettre"
 subscribe-note:
