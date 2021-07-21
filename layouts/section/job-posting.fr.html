@@ -5,19 +5,25 @@
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-xs-12">
           <h1>{{ .Params.title}}</h1>
-          <a href="">Postulez maintenant</a>
+          <a href="#apply-now">Postulez maintenant</a>
           <div class="content">
             {{.Content}}
           </div>
           <div>
             <h2 class="h2-font-weight">Travaillez de n’importe où au Canada</h2>
-            <p>Le SNC est une équipe entièrement décentralisée. Ce travail peut être effectué de n'importe où au Canada. À l'avenir, des déplacements occasionnels à Ottawa pourraient être nécessaires.</p>
-            <p><a href="https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html">Mesures d’adaptation en matière d’évaluation<svg width="26" height="30" viewBox="0 0 24 16" fill="none"
-              xmlns="http://www.w3.org/2000/svg">
-              <path d="M10 6.5V8.5H5V19.5H16V14.5H18V20.5C18 20.7652 17.8946 21.0196 17.7071 21.2071C17.5196 21.3946 17.2652 21.5 17 21.5H4C3.73478 21.5 3.48043 21.3946 3.29289 21.2071C3.10536 21.0196 3 20.7652 3 20.5V7.5C3 7.23478 3.10536 6.98043 3.29289 6.79289C3.48043 6.60536 3.73478 6.5 4 6.5H10ZM21 3.5V12.5L17.206 8.707L11.207 14.707L9.793 13.293L15.792 7.293L12 3.5H21Z" fill="#004986"/>
-            </svg></a></p>
+            <p>Le SNC est une équipe entièrement décentralisée. Ce travail peut être effectué de n'importe où au Canada.
+              À l'avenir, des déplacements occasionnels à Ottawa pourraient être nécessaires.</p>
+            <p><a
+                href="https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html">Mesures
+                d’adaptation en matière d’évaluation<svg width="26" height="30" viewBox="0 0 24 16" fill="none"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path
+                    d="M10 6.5V8.5H5V19.5H16V14.5H18V20.5C18 20.7652 17.8946 21.0196 17.7071 21.2071C17.5196 21.3946 17.2652 21.5 17 21.5H4C3.73478 21.5 3.48043 21.3946 3.29289 21.2071C3.10536 21.0196 3 20.7652 3 20.5V7.5C3 7.23478 3.10536 6.98043 3.29289 6.79289C3.48043 6.60536 3.73478 6.5 4 6.5H10ZM21 3.5V12.5L17.206 8.707L11.207 14.707L9.793 13.293L15.792 7.293L12 3.5H21Z"
+                    fill="#004986" />
+                </svg></a></p>
 
-            <p>Par mesure de précaution, toutes les entrevues dans un avenir proche seront menées par vidéo ou téléconférence.</p>
+            <p>Par mesure de précaution, toutes les entrevues dans un avenir proche seront menées par vidéo ou
+              téléconférence.</p>
 
           </div>
 
@@ -55,8 +61,8 @@
           d’adaptation sera traité confidentiellement.</p>
 
         <div class="cta__link black">
-          <a href="/join-our-team/">En savoir plus sur notre processus de recrutement<svg width="16" height="16" viewBox="0 0 16 16"
-              xmlns="http://www.w3.org/2000/svg">
+          <a href="/join-our-team/">En savoir plus sur notre processus de recrutement<svg width="16" height="16"
+              viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
               <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
             </svg></a>
         </div>
@@ -65,11 +71,11 @@
   </div>
 </div>
 
-{{ if .Params.leverId }}
-<div class="work-with-us--apply-now">
+<div id="apply-now" class="work-with-us--apply-now">
+  {{ if .Params.leverId }}
   <div class="row">
     <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-      <h2 >Postulez maintenant</h2>
+      <h2>Postulez maintenant</h2>
       <form enctype="multipart/form-data" class="text-left" role="form" id="contactForm">
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
         <!-- Full Name -->
@@ -108,14 +114,15 @@
         <!-- Body -->
 
         <div class="form-group">
-          <label for="body">Dites-nous, en 300 mots ou moins, pourquoi vous voulez travailler avec nous et, le cas échéant, ce que l’on devrait savoir au sujet de vos échantillons de travail.</label>
-            <textarea class="form-control validate-required validate-maxwords" id="body" name="body" rows="5"
-              aria-required="true" aria-describedby="body-required word-count-message"></textarea>
-            <span id="body-required" class="error-message validate-required-message" style="display: none;">Ce champ est
-              obligatoire<br />
-            </span>
-            <span id="word-count-message" class="help-text">
-              <span id="word-count">300</span> mots restants</span>
+          <label for="body">Dites-nous, en 300 mots ou moins, pourquoi vous voulez travailler avec nous et, le cas
+            échéant, ce que l’on devrait savoir au sujet de vos échantillons de travail.</label>
+          <textarea class="form-control validate-required validate-maxwords" id="body" name="body" rows="5"
+            aria-required="true" aria-describedby="body-required word-count-message"></textarea>
+          <span id="body-required" class="error-message validate-required-message" style="display: none;">Ce champ est
+            obligatoire<br />
+          </span>
+          <span id="word-count-message" class="help-text">
+            <span id="word-count">300</span> mots restants</span>
 
         </div>
         <!-- Samples of your work -->
@@ -128,23 +135,22 @@
         </div>
         <!-- Submit-->
         <div>
-          <button type="submit" class="submit-btn" >
-            Soumettre<svg width="16" height="16" viewBox="0 0 16 16"
-            xmlns="http://www.w3.org/2000/svg">
-            <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
-          </svg>
+          <button type="submit" class="submit-btn">
+            Soumettre<svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+            </svg>
           </button>
 
         </div>
         <div class="privacy-link">
           <a href="/legal/privacy-notice">Énoncé de confidentialité</a>
         </div>
-        
+
 
       </form>
     </div>
   </div>
-
+  {{end}}
 </div>
-{{end}}
+
 {{ end }}
