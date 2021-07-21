@@ -30,7 +30,7 @@
 </div>
 <!-- HIRING PROCESS -->
 
-<div class="gray" id="apply-now">
+<div class="gray" >
   <div class="job-postings-container">
 
     <div class="row">
@@ -62,8 +62,9 @@
     </div>
   </div>
 </div>
-{{ if .Params.leverId }}
-<div  class="work-with-us--apply-now">
+
+<div id="apply-now" class="work-with-us--apply-now">
+  {{ if .Params.leverId }}
   <div class="row">
     <div class="col-sm-10 col-sm-offset-1 col-xs-12">
       <h2>Apply now</h2>
@@ -146,8 +147,8 @@
       </form>
     </div>
   </div>
-
+  {{end}}
 </div>
-{{end}}
+
 
 {{ end }}
