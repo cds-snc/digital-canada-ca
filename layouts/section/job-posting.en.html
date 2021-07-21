@@ -5,8 +5,11 @@
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-xs-12">
           <h1>{{ .Params.title}}</h1>
-          <a href="">Apply now</a>
-          {{.Content}}
+          <a href="#apply">Apply now</a>
+          <div class="content">
+            {{.Content}}
+          </div>
+          
 
         </div>
       </div>
@@ -51,7 +54,7 @@
 <div class="work-with-us--apply">
   <div class="row">
     <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-      <h2>Apply now</h2>
+      <h2 id="apply">Apply now</h2>
       <form enctype="multipart/form-data" class="text-left" role="form" id="contactForm">
         <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
         <!-- Full Name -->
@@ -75,17 +78,20 @@
 
         <label for="resume">Resume</label>
         <div class="form-group">
-          <!-- <label for="resume">Resume</label> -->
           <div class="browse">
+            
             <label>Browse...
               <input class="resume" type="file" id="resume" name="resume"
                 accept="application/msword, application/pdf, text/plain" required style="display: none;" />
             </label>
-
+            
           </div>
+          <span id="resume">No file chosen</span>
+          
 
 
         </div>
+
         <!-- Body -->
 
         <div class="form-group">
