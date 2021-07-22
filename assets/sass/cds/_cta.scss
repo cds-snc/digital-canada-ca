@@ -18,7 +18,7 @@
     .cta {
         flex-direction: column;
         width: 100%;
-        
+
         &__content {
             max-width: 95%;
 
@@ -26,7 +26,7 @@
                 max-width: 80%;
             }
         }
-        
+
         @include desktop {
             margin-left: 12px;
 
@@ -99,6 +99,11 @@
         + p {
             margin-top: 1.5rem;
         }
+    }
+
+    h2 {
+      font-weight: 600;
+      font-size: 2.6rem;
     }
 }
 

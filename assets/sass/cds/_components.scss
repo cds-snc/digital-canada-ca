@@ -154,6 +154,17 @@
   a:link {
     color: #245269;
   }
+	background: #d7faff;
+	border-left: 4px solid #269abc;
+	padding: 2.2rem 2.5rem;
+	margin-bottom: 2.75rem;
+
+	p:last-child {
+		margin-bottom: 0;
+	}
+	a, a:link {
+		color: #245269;
+	}
 }
 
 ///// TEAM LISTING
@@ -253,6 +264,98 @@
       background: $primary-color;
     }
   }
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	margin-bottom: 4rem;
+
+	@include tablet {
+
+	}
+
+	&.exec {
+		padding-bottom: 5rem;
+		margin-bottom: 2rem;
+	}
+
+
+
+	.team-member {
+		position: relative;
+		border-bottom: $team-purple 4px solid;
+		box-shadow: rgb(225, 228, 231) 0px -1px 4px;
+		background-color: $medium-grey;
+		padding: 2.5rem 0 0;
+		margin-bottom: 2rem;
+		@include desktop {
+			height: 482px;
+		}
+
+
+		@include tablet {
+			padding: 3.5rem 0 0;
+		}
+	}
+
+	.photo-container img {
+		display: block;
+		margin: 0rem auto 1.5rem auto;
+		height: 15rem;
+		width: 15rem;
+		border: $black 3px solid;
+		background-size: cover;
+		border-radius: 50%;
+
+		@include tablet {
+			height: 15rem;
+			width: 15rem;
+			border-width: 4px;
+		}
+	}
+
+	.name, .title, .social-links {
+		display: block;
+		position: relative;
+	}
+
+	.contact-info-social{
+		padding-top:1rem;
+	}
+
+	.name {
+		font-size: 2.35rem;
+		font-weight: 600;
+	}
+
+	.title {
+		font-size: 1.7rem;
+		color: #4c4c4c;
+	}
+
+	.social-icons a {
+		display: inline-flex;
+		justify-content: center;
+		font-size: 2.2rem;
+		padding: 1.5rem 1.5rem;
+
+		@include mobile_only {
+			margin-bottom: 5rem;
+		}
+
+		@include tablet {
+			margin-bottom: 5rem;
+		}
+
+		@media (max-width: 1265px) {
+			padding: 1.45rem 1.45rem;
+		  }
+
+
+		&:hover {
+			background: $primary-color;
+		}
+	}
 }
 
 .icon-list {
@@ -454,6 +557,125 @@
       width: 70%;
     }
   }
+	h1 {
+		font-size: 4.6rem;
+		font-weight: 100;
+		margin-top: 0;
+		margin-top: 1.5rem;
+		color: $black;
+		margin-left: 0;
+		margin-right: 0;
+		padding-left: 0;
+	}
+
+	h2{
+		font-size: 3rem;
+		line-height: 4.25rem;
+	}
+	h3{
+		line-height: 3.25rem;
+		font-weight: 400;
+		font-size: 2.5rem;
+	}
+
+	.header-translation{
+		font-size: 1.75rem;
+		font-weight: 100;
+		line-height: 2.25rem;
+		padding-top: 2rem;
+		padding-bottom: 2rem;
+
+		@include desktop{
+			margin-top: -6rem;
+			padding-bottom: 6rem;
+		}
+	}
+
+	.translation-caption{
+		font-size: 1.5rem;
+		clear: both;
+		line-height: 2.5rem;
+	}
+
+	.blogpost-pretitle {
+		font-size: 2rem;
+		position: relative;
+
+		a {
+			text-decoration: none;
+			color: $black;
+			font-weight: 100;
+		}
+	}
+
+
+	.post-meta {
+		margin: 2.5rem 0;
+		padding-bottom: 10px;
+		position: relative;
+		display: block;
+		border-bottom: 1.5px solid $medium-grey;
+	}
+
+	time {
+		font-size: 2rem;
+		font-weight: 100 !important;
+	}
+
+	p {
+		margin-bottom: 2.75rem;
+		line-height: 1.6em;
+
+		@include desktop{
+			font-size: 2.25rem;
+		}
+	}
+
+	// Single blog page navigation
+	.previous-next-nav {
+		background: $primary-color;
+		padding: 35px 0;
+
+		.fa-arrow-circle-left {
+			margin-right: 10px;
+		}
+
+		.fa-arrow-circle-right {
+			margin-left: 10px;
+		}
+	}
+
+	.nav-post-title {
+		font-weight: 100;
+		text-decoration: none;
+		margin-top: 0;
+		max-width: 500px;
+	}
+
+	.nav-post-title-left {
+		margin-left: 35px;
+	}
+
+	.nav-post-title-right {
+		margin-right: 35px;
+
+	}
+}
+
+.meet-us-container {
+	width: 80%;
+	justify-content: space-between;
+	margin: 0 auto;
+
+	.text-margin {
+		width: 70%;
+	}
+	p{
+		@include desktop{
+			width: 70%;
+		}
+
+	}
 }
 
 .meet-the-team-heading {
@@ -519,10 +741,4 @@
   .button-box {
     background-color: black;
   }
-}
-#description {
-  color: blue;
-}
-.emphasized {
-  font-size: 2.2em;
 }
