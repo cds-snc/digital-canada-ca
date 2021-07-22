@@ -23,5 +23,5 @@ jobs:
           sleep 180
           curl -s https://api.a11y.cdssandbox.xyz/v1/reports\?recent\=true > /dev/null
           sleep 60
-          json='{"product": "cds-snc/digital-canada-ca", "revision": "${{github.sha}}", "urls":["https://digital.canada.ca", "https://numerique.canada.ca"], "spider": 1, "ci": $CI}'
+          json='{"product": "cds-snc/digital-canada-ca", "revision": "${{github.sha}}", "urls":["https://digital.canada.ca", "https://numerique.canada.ca"], "spider": 1, "ci": ${{ env.CI }} }'
           curl -X POST -H 'X-API-KEY: ${{ secrets.A11Y_TRACKER_KEY }}' --data "$json" https://api.a11y.cdssandbox.xyz/v1
