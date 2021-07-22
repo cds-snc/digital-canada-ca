@@ -377,6 +377,15 @@ team:
     imagehash: francois_moisan_2335ae913c
     email: francois.moisan@tbs-sct.gc.ca
   - archived: false
+    name: Gabe Sawhney
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: small_gabe_sawhney_f30c3e464d
+    email: gabe.sawhney@tbs-sct.gc.ca
+    linkedin: gabesawhney
+    twitter: gggg
+  - archived: false
     name: Hillary Lorimer
     title:
       en: Design Research

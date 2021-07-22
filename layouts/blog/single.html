@@ -7,7 +7,7 @@
   {{ end }}
 {{end}}
 
-{{define "main"}}  
+{{define "main"}}
   <!-- <div class="container"> -->
   <section class="blog-single">
     <div class="row">
@@ -29,14 +29,14 @@
                 <div class="container">
                   <p class="post-meta">
                     <time datetime="{{ .Params.date }}" itemprop="datePublished">
-                    {{ if eq .Lang "en" }}                
+                    {{ if eq .Lang "en" }}
                       {{ .Date.Format "Jan 2, 2006" }}
-                    {{ end }}     
+                    {{ end }}
 
-                    {{ if eq .Lang "fr" }}                
-                      {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} 
-                    {{ end }}  
-                    </time>          
+                    {{ if eq .Lang "fr" }}
+                      {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                    {{ end }}
+                    </time>
                     <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
                       <span itemprop="name">{{ .Params.author }}</span>
                     </span>
@@ -56,16 +56,16 @@
                 <a href="{{ .RelPermalink }}">
                   <span class="fas fa-arrow-circle-left"></span>
                   {{i18n "previous-post"}}<span class="wb-inv">:</span>
-                  <h5 class="nav-post-title nav-post-title-left">{{ .Params.title | markdownify }}</h5>
+                  <div class="nav-post-title nav-post-title-left">{{ .Params.title | markdownify }}</div>
                 </a>
                 {{end}}
               </div>
-            
+
               <div class="pull-right text-right">
                 {{with .NextInSection }}
                 <a href="{{ .RelPermalink }}">{{i18n "next-post"}}<span class="wb-inv">:</span>
                   <span class="fas fa-arrow-circle-right"></span>
-                  <h5 class="nav-post-title nav-post-title-right">{{ .Params.title | markdownify }}</h5>
+                  <div class="nav-post-title nav-post-title-right">{{ .Params.title | markdownify }}</div>
                 </a>
                 {{ end }}
                 </div>
