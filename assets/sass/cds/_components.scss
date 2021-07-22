@@ -133,9 +133,9 @@
 // Adapted from WET's Bootstrap based alerts
 // https://wet-boew.github.io/v4.0-ci/demos/collapsible-alerts/collapsible-alerts-en.html
 .info-alert {
-	background: #d7faff; 
+	background: #d7faff;
 	border-left: 4px solid #269abc;
-	padding: 2.2rem 2.5rem; 
+	padding: 2.2rem 2.5rem;
 	margin-bottom: 2.75rem;
 
 	p:last-child {
@@ -183,8 +183,8 @@
 		@include desktop {
 			height: 482px;
 		}
-		
-		
+
+
 		@include tablet {
 			padding: 3.5rem 0 0;
 		}
@@ -238,7 +238,7 @@
 		@include tablet {
 			margin-bottom: 5rem;
 		}
-		
+
 		@media (max-width: 1265px) {
 			padding: 1.45rem 1.45rem;
 		  }
@@ -341,7 +341,7 @@
 		font-weight: 100;
 		margin-top: 0;
 		margin-top: 1.5rem;
-		color: $primary-color;
+		color: $black;
 		margin-left: 0;
 		margin-right: 0;
 		padding-left: 0;
@@ -382,7 +382,7 @@
 
 		a {
 			text-decoration: none;
-			color: $white;
+			color: $black;
 			font-weight: 100;
 		}
 	}
@@ -404,7 +404,7 @@
 	p {
 		margin-bottom: 2.75rem;
 		line-height: 1.6em;
-		
+
 		@include desktop{
 			font-size: 2.25rem;
 		}
@@ -453,7 +453,7 @@
 		@include desktop{
 			width: 70%;
 		}
-		
+
 	}
 }
 
