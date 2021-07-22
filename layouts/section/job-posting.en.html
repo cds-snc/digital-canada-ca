@@ -5,8 +5,9 @@
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
         <h1 class="heading-title">{{ .Params.title}}</h1>
-
+          {{ if .Params.leverId }}
         <a href="#apply-now">Apply now</a>
+        {{end}}
         <div class="content">
           {{.Content}}
         </div>
@@ -15,8 +16,9 @@
           <p>CDS is a fully distributed team. This job can be performed from anywhere in Canada. In the future,
             occasional travel to Ottawa may be required.</p>
           <p>
-            <a href="https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html">Assessment
-              accommodation<img src="/img/icons/assessment-accomodation.svg" alt="external link"/></a>
+            <a href="https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html"
+              rel="external">Assessment
+              accommodation<img src="/img/icons/assessment-accomodation.svg" alt="external link" /></a>
           </p>
 
           <p>Out of an abundance of caution, all interviews will be conducted via video or teleconference for the
@@ -66,6 +68,7 @@
 
 
 <div id="apply-now" class="row work-with-us--apply-now">
+  {{ if .Params.leverId }}
   <div class="col-sm-10 col-sm-offset-1 col-xs-12">
     <h2>Apply now</h2>
     <form enctype="multipart/form-data" class="text-left" role="form" id="contactForm">
@@ -143,6 +146,7 @@
 
     </form>
   </div>
+  {{end}}
 </div>
 
 

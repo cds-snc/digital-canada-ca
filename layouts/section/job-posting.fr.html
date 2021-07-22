@@ -4,7 +4,9 @@
     <section class="padding">
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-          <h1>{{ .Params.title}}</h1>
+          {{ if .Params.leverId }}
+            <h1>{{ .Params.title}}</h1>
+          {{end}}
           <a href="#apply-now">Postulez maintenant</a>
           <div class="content">
             {{.Content}}
@@ -13,9 +15,10 @@
             <h2 class="h2-font-weight">Travaillez de n’importe où au Canada</h2>
             <p>Le SNC est une équipe entièrement décentralisée. Ce travail peut être effectué de n'importe où au Canada.
               À l'avenir, des déplacements occasionnels à Ottawa pourraient être nécessaires.</p>
-            <p><a
-                href="https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html">Mesures
-                d’adaptation en matière d’évaluation<img src="/img/icons/assessment-accomodation.svg" alt="Lien externe"/></a></p>
+            <p><a href="https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html"
+                rel="external">Mesures
+                d’adaptation en matière d’évaluation<img src="/img/icons/assessment-accomodation.svg"
+                  alt="Lien externe" /></a></p>
 
             <p>Par mesure de précaution, toutes les entrevues dans un avenir proche seront menées par vidéo ou
               téléconférence.</p>
@@ -65,6 +68,7 @@
 </div>
 
 <div id="apply-now" class="row work-with-us--apply-now">
+  {{ if .Params.leverId }}
   <div class="col-sm-10 col-sm-offset-1 col-xs-12">
     <h2>Postulez maintenant</h2>
     <form enctype="multipart/form-data" class="text-left" role="form" id="contactForm">
@@ -140,6 +144,7 @@
 
     </form>
   </div>
+  {{end}}
 </div>
 
 
