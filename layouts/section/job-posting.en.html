@@ -5,8 +5,8 @@
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
         <h1 class="heading-title">{{ .Params.title}}</h1>
-          {{ if .Params.leverId }}
-        <a href="#apply-now">Apply now</a>
+        {{ if .Params.leverId }}
+          <a href="#apply-now">Apply now</a>
         {{end}}
         <div class="content">
           {{.Content}}
