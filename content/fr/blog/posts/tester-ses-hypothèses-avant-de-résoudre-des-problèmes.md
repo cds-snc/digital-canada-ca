@@ -29,7 +29,7 @@ L'équipe de la cybersécurité savait que la communauté était frustrée par l
 ## Comprendre le problème
 Dès le début du partenariat, nous avions quelques intuitions quant à l'origine des frustrations. Mais avant de passer directement à la résolution des problèmes supposés, nous voulions valider nos hypothèses pour nous assurer que nos décisions et nos efforts de résolution de problème étaient fondés sur des faits.
 
-#### 1. Réfléchir et classer les hypothèses par ordre de priorité
+### 1. Réfléchir et classer les hypothèses par ordre de priorité
 Nous avons d’abord mené un remue-méninges d’équipe sur les sources possibles du problème. Ensuite, les hypothèses ont été classées selon l’incidence qu’elles auraient si elles étaient erronées. Ainsi, nous avons pu concentrer nos efforts sur la validation des hypothèses les plus percutantes.
 
 Les voici :
@@ -42,14 +42,14 @@ Les voici :
 * Les chefs d’activités évaluent leur risque de sécurité en fonction du rapport issu du processus d’évaluation de la sécurité.
 * Il est possible d'être à la fois itératif et sécurisé.
 
-#### 2. Approfondir chaque hypothèse
+### 2. Approfondir chaque hypothèse
 Avec notre liste d'hypothèses hiérarchisées en main, nous avons choisi une méthode de recherche qui nous aiderait à mieux comprendre chacune d'elles. 
 
 * Premièrement, nous avons ratissé large en lisant la documentation sur la façon dont les évaluations de sécurité des applications sont effectuées par d'autres organisations. 
 * Ensuite, nous avons interviewé les personnes impliquées dans les évaluations de sécurité, à l'intérieur et à l'extérieur du gouvernement, en leur posant des questions ouvertes plutôt qu’orientées. 
 * Enfin, nous nous sommes concentrés sur le contexte particulier du gouvernement du Canada. Nous avons interviewé neuf ministères de tailles différentes, avec divers appétits pour le risque, y compris des équipes de développement, des évaluateurs de sécurité et des responsables de l’approbation.
 
-#### 3. Recueillir et partager des perspectives 
+### 3. Recueillir et partager des perspectives 
 
 À la fin de nos recherches, nous avions beaucoup de renseignements utiles sur les défis et les solutions potentielles.
 
