@@ -40,7 +40,7 @@
     {{ if gt (len .Params.partners) 0 }}
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
         <div class="work-in-progress--partners-long">
-          {{ i18n "partner" }}{{ if gt (len .Params.partners) 1 }}s{{end}}:
+          <p class='leader'>{{ i18n "partner" }}{{ if gt (len .Params.partners) 1 }}s{{end}}:</p>
           {{ range .Params.partners }}
             <p><a class="partner-link" href='{{ .url }}'>{{ .name }}</a></p>
           {{ end }}
@@ -52,7 +52,7 @@
     <div class="col-sm-10 col-sm-offset-1 col-xs-12">
       <!-- In progress team -->
       <div class="work-in-progress--team">
-        Contact:
+        <p class='leader'>Contact:</p>
         {{ range .Params.contact }}
           <p><a class="contact-link" href='mailto:{{.email}}'>{{.name}}</a></p>
         {{ end }}
@@ -65,7 +65,7 @@
       <div class="work-in-progress--links">
         {{with .Params.links }}
           {{ if gt (len .) 0 }}
-            {{ i18n "links" }}:
+            <p class='leader'>{{ i18n "links" }}:</p>
             {{range .}}
               <p><a class="resource-link" href="{{ .url }}">{{.name}}</a></p>
             {{ end }}

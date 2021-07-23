@@ -530,11 +530,30 @@ span.livefr {
 
   h1,
   h2,
+  h3,
   h4 {
     color: #000000;
   }
 
-  p { margin-bottom: 0px; }
+  p {
+    margin-bottom: 0px;
+
+      &.leader {
+      font-weight: 100;
+
+      @include mobile_only {
+        margin-top: 5px;
+      }
+
+      @include tablet {
+        margin-top: 10px;
+      }
+
+      @include desktop {
+        margin-top: 20px;
+      }
+    }
+  }
 }
 
 .work-in-progress--platform-module {
