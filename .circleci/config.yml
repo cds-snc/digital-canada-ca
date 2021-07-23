@@ -35,7 +35,7 @@ jobs:
       - run:
           name: "Build English and French sites"
           command: |
-            hugo -d /tmp/cds-website-dist
+            hugo --ignoreCache -d /tmp/cds-website-dist
             chmod -R 755 /tmp/cds-website-dist
 
       # Store compiled cache (persisted across jobs)
