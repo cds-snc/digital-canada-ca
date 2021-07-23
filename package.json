@@ -5,6 +5,7 @@
   "main": "webpack.config.js",
   "dependencies": {
     "express": "^4.17.1",
+    "lunr": "^2.3.9",
     "minimist": "^1.2.5",
     "snyk": "^1.621.0"
   },

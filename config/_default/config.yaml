@@ -73,3 +73,6 @@ languages:
           name: Blogue
           url: /blogue/
           weight: 5
+outputs:
+  home : [HTML, RSS, JSON]
+  page : HTML         

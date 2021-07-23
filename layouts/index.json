@@ -1,0 +1,12 @@
+{{- $.Scratch.Add "pagesIndex" slice -}}
+{{- range $index, $page := .Site.Pages -}}
+
+  {{- if eq $page.Type "blog" -}}
+
+    {{- if gt (len $page.Content) 0 -}}
+      {{- $pageData := (dict "title" $page.Title  "author" $page.Params.authore "description" $page.Params.description) -}}
+      {{- $.Scratch.Add "pagesIndex" $pageData -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $.Scratch.Get "pagesIndex" | jsonify -}}
