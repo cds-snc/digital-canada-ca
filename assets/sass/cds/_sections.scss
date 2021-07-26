@@ -417,7 +417,6 @@ span.livefr {
     }
   }
 
-  h5,
   p,
   a {
     font-size: 1.85rem;
@@ -509,9 +508,6 @@ span.livefr {
     background-color: $discovery-color;
   }
 
-  h4.discovery::after {
-    content: "Discovery";
-  }
   h3.discovery::after,
   h4.discovery::after {
     content: "Discovery";
@@ -530,24 +526,6 @@ span.livefr {
     background-color: $beta-color;
   }
 
-  h4.beta::after {
-    content: "Beta";
-  }
-  h4.betafr::after {
-    content: "Bêta";
-  }
-
-  h5 {
-    font-weight: 100;
-
-    @include mobile_only {
-      margin-top: 5px;
-    }
-
-    @include tablet {
-      margin-top: 10px;
-    }
-  }
   h3.beta::after,
   h4.beta::after {
     content: "Beta";
@@ -791,6 +769,67 @@ span.livefr {
 
 .work-with-us--process {
   border-top: $medium-grey 1px solid;
+}
+
+.work-with-us--apply-now {
+  background-color: $icon-grey;
+  color: $white;
+
+  @include desktop {
+    padding-bottom: 9.5rem;
+  }
+
+  h3 {
+    color: $white;
+  }
+
+  label {
+    font-size: 2.25rem;
+    font-weight: 200;
+  }
+
+  .form-control {
+    width: 100%;
+  }
+
+  .radio label {
+    margin-bottom: 1.5rem;
+    margin-left: 3rem;
+  }
+
+  .button {
+    margin-right: 2rem;
+
+    &:hover {
+      border: 2px solid $primary-color;
+      background: $primary-color;
+      color: $icon-grey;
+    }
+  }
+
+  a {
+    color: $white;
+
+    &:hover {
+      text-decoration: none;
+      transition: all 0.3s ease-in-out;
+    }
+  }
+
+  .spinner {
+    display: inline-block;
+    opacity: 0;
+    max-width: 0px;
+    -webkit-transition: opacity 0.25s, max-width 0.45s;
+    -moz-transition: opacity 0.25s, max-width 0.45s;
+    -o-transition: opacity 0.25s, max-width 0.45s;
+    transition: opacity 0.25s, max-width 0.45s;
+
+    &.active {
+      opacity: 1;
+      max-width: 50px;
+    }
+  }
 }
 
 ////////////////////////////////////////////////////
@@ -1428,77 +1467,5 @@ article.post {
 .tools-and-resources--content {
   p {
     margin-bottom: 0;
-  }
-}
-.work-with-us--apply-now {
-  width: 65%;
-  margin-left: 2.5rem;
-
-  h2 {
-    color: black;
-    margin-bottom: 3rem;
-    margin-top: 3rem;
-    font-weight: 600;
-  }
-  label {
-    color: black;
-    font-size: 23px;
-    font-weight: 600;
-  }
-  .alt-label {
-    font-weight: 400;
-  }
-  .url {
-    font-size: 23px;
-  }
-  input {
-    width: 100%;
-    border: 2px black solid;
-  }
-  textarea {
-    width: 100%;
-    border: 2px black solid;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-  }
-  .browse {
-    cursor: pointer;
-    display: inline-block;
-    background-color: black;
-    margin-bottom: 2rem;
-
-    label {
-      cursor: pointer;
-      color: white;
-      margin: 1rem;
-    }
-  }
-  .no-file-chosen {
-    font-size: 22px;
-    margin-left: 2rem;
-  }
-  .help-text {
-    font-size: 23px;
-  }
-  .submit-btn {
-    margin-bottom: 1.5rem;
-    background-color: black;
-    display: inline-block;
-    color: white !important;
-    @include label;
-    padding: 10px 15px;
-    border: none;
-
-    svg {
-      fill: white;
-      margin-left: 10px;
-    }
-  }
-  .privacy-link {
-    margin-bottom: 4rem;
-    a {
-      color: black;
-      font-weight: 600;
-    }
   }
 }
