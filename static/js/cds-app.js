@@ -65,15 +65,6 @@ $(document).ready(function() {
   });
 
   /**
-   * File upload
-   */
-  $("#contactForm #resume").on("change", function(event) {
-    var file = $("#contactForm #resume")[0].files[0].name;
-    $("#contactForm #no-file-chosen-text").html(file);
-
-  })
-
-  /**
    * Contact Form Submit
    */
   $("#contactForm").submit(function(event) {
