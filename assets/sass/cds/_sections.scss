@@ -433,111 +433,142 @@ span.livefr {
     }
   }
 
-    h3.live::after,
-    h3.livefr::after,
-    h3.alpha::after,
-    h3.alphafr::after,
-    h3.discovery::after,
-    h3.discoveryfr::after,
-    h3.découvertefr::after,
-    h3.beta::after,
-    h3.betafr::after,
-    h4.live::after,
-    h4.livefr::after,
-    h4.alpha::after,
-    h4.alphafr::after,
-    h4.discovery::after,
-    h4.discoveryfr::after,
-    h4.découvertefr::after,
-    h4.beta::after,
-    h4.betafr::after {
-      display: inline-block;
-      position: relative;
-      bottom: 10px;
-      color: #ffffff;
-      margin-left: 0;
+  h3.live::after,
+  h3.livefr::after,
+  h3.alpha::after,
+  h3.alphafr::after,
+  h3.discovery::after,
+  h3.discoveryfr::after,
+  h3.découvertefr::after,
+  h3.beta::after,
+  h3.betafr::after,
+  h4.live::after,
+  h4.livefr::after,
+  h4.alpha::after,
+  h4.alphafr::after,
+  h4.discovery::after,
+  h4.discoveryfr::after,
+  h4.découvertefr::after,
+  h4.beta::after,
+  h4.betafr::after {
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+    color: #ffffff;
+    margin-left: 0;
+    margin-top: 10px;
+    border-radius: 3px;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+
+    @include mobile_only {
+      padding: 3px 6.5px 2px 6.5px;
+      bottom: 5px;
+    }
+
+    @include tablet {
+      padding: 5px 6.5px 4px 6.5px;
+    }
+
+    @include desktop {
+      padding: 5px 6.5px 4px 6.5px;
+    }
+  }
+
+  h3.live::after,
+  h3.livefr::after,
+  h4.live::after,
+  h4.livefr::after {
+    background-color: $live-color;
+  }
+
+  h3.live::after,
+  h4.live::after {
+    content: "Live";
+  }
+
+  h3.livefr::after,
+  h4.livefr::after {
+    content: "En ligne";
+  }
+
+  h3.alpha::after,
+  h3.alphafr::after,
+  h4.alpha::after,
+  h4.alphafr::after {
+    content: "Alpha";
+    background-color: $alpha-color;
+  }
+
+  h3.discovery::after,
+  h3.discoveryfr::after,
+  h3.découvertefr::after,
+  h4.discovery::after,
+  h4.discoveryfr::after,
+  h4.découvertefr::after {
+    background-color: $discovery-color;
+  }
+
+  h4.discovery::after {
+    content: "Discovery";
+  }
+  h3.discovery::after,
+  h4.discovery::after {
+    content: "Discovery";
+  }
+  h3.découvertefr::after,
+  h3.discoveryfr::after,
+  h4.découvertefr::after,
+  h4.discoveryfr::after {
+    content: "Découverte";
+  }
+
+  h3.beta::after,
+  h3.betafr::after,
+  h4.beta::after,
+  h4.betafr::after {
+    background-color: $beta-color;
+  }
+
+  h4.beta::after {
+    content: "Beta";
+  }
+  h4.betafr::after {
+    content: "Bêta";
+  }
+
+  h5 {
+    font-weight: 100;
+
+    @include mobile_only {
+      margin-top: 5px;
+    }
+
+    @include tablet {
       margin-top: 10px;
-      border-radius: 3px;
-      font-size: 1.2rem;
-      text-transform: uppercase;
-
-      @include mobile_only {
-        padding: 3px 6.5px 2px 6.5px;
-        bottom: 5px;
-      }
-
-      @include tablet {
-        padding: 5px 6.5px 4px 6.5px;
-      }
-
-      @include desktop {
-        padding: 5px 6.5px 4px 6.5px;
-      }
     }
+  }
+  h3.beta::after,
+  h4.beta::after {
+    content: "Beta";
+  }
 
-    h3.live::after,
-    h3.livefr::after,
-    h4.live::after,
-    h4.livefr::after {
-      background-color: $live-color;
-    }
+  h3.betafr::after,
+  h4.betafr::after {
+    content: "Bêta";
+  }
 
-    h3.live::after,
-    h4.live::after {
-      content: "Live";
-    }
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: #000000;
+  }
 
-    h3.livefr::after,
-    h4.livefr::after {
-      content: "En ligne";
-    }
+  p {
+    margin-bottom: 0px;
 
-    h3.alpha::after,
-    h3.alphafr::after,
-    h4.alpha::after,
-    h4.alphafr::after {
-      content: "Alpha";
-      background-color: $alpha-color;
-    }
-
-    h3.discovery::after,
-    h3.discoveryfr::after,
-    h3.découvertefr::after,
-    h4.discovery::after,
-    h4.discoveryfr::after,
-    h4.découvertefr::after {
-      background-color: $discovery-color;
-    }
-
-    h4.discovery::after {
-      content: "Discovery";
-    }
-    h3.discovery::after,
-    h4.discovery::after {
-      content: "Discovery";
-    }
-    h3.découvertefr::after,
-    h3.discoveryfr::after,
-    h4.découvertefr::after,
-    h4.discoveryfr::after {
-      content: "Découverte";
-    }
-
-    h3.beta::after,
-    h3.betafr::after,
-    h4.beta::after,
-    h4.betafr::after {
-      background-color: $beta-color;
-    }
-
-    h4.beta::after {
-      content: "Beta";
-    }
-    h4.betafr::after {
-      content: "Bêta";
-    }
-
-    h5 {
+    &.leader {
       font-weight: 100;
 
       @include mobile_only {
@@ -547,45 +578,12 @@ span.livefr {
       @include tablet {
         margin-top: 10px;
       }
+
+      @include desktop {
+        margin-top: 20px;
+      }
     }
-      h3.beta::after,
-      h4.beta::after {
-        content: "Beta";
-      }
-
-      h3.betafr::after,
-      h4.betafr::after {
-        content: "Bêta";
-      }
-
-      h1,
-      h2,
-      h3,
-      h4 {
-        color: #000000;
-      }
-
-      p {
-        margin-bottom: 0px;
-
-        &.leader {
-          font-weight: 100;
-
-          @include mobile_only {
-            margin-top: 5px;
-          }
-
-          @include tablet {
-            margin-top: 10px;
-          }
-
-          @include desktop {
-            margin-top: 20px;
-          }
-        }
-      }
-    
-  
+  }
 }
 
 .work-in-progress--platform-module {
