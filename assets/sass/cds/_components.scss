@@ -462,3 +462,62 @@
 	margin-bottom: 4rem;
 }
 
+.job-postings-container {
+  width: 65%;
+  margin-left: 2.5rem;
+
+  .heading-title {
+	padding: 0 !important;
+  }
+
+  .arrow{
+	  margin-left: 5px;
+  }
+
+  .padding {
+    padding: 3rem 0;
+
+    @include mobile_only {
+      padding: 3rem 0;
+    }
+  }
+  h1, h2 {
+    color: black;
+    margin-bottom: 3rem;
+  }
+  a {
+    color: $alpha-color;
+  }
+  .cds-title {
+    color: #6b3c18;
+    font-size: 45px;
+  }
+  .content {
+    margin-top: 3rem;
+    li::marker {
+      color: $career-brown;
+    }
+
+    ul {
+      list-style-type: square;
+    }
+  }
+  .h2-font-weight {
+    font-weight: 600;
+  }
+}
+.gray {
+  background-color: $medium-grey;
+
+  h2 {
+    margin-top: 4rem;
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  .button-box {
+    background-color: black;
+  }
+}
