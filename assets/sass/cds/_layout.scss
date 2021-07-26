@@ -24,7 +24,7 @@
     // BILINGUAL SPECIFIC CDS LOGO
     .fr & {
       background-image: url("../img/cds/goc--header-logo-fr.svg");
-    } 
+    }
 
     @include tablet {
       height: 2rem;
@@ -98,9 +98,10 @@
 }
 
 .page-banner {
-  background-color: $black;
+  background-color: transparent;
   background-size: cover;
   background-position: center center;
+
   // height: 12rem;
   position: relative;
 
@@ -139,7 +140,7 @@
   h1 {
     border-bottom: none;
     font-size : 4.6rem;
-    color: $primary-color;
+    color: #333;
     font-weight: 100;
     margin: 1.5rem;
     padding: 0;
@@ -164,7 +165,7 @@ hr {
 // Research page styles
 .research-page-contact {
   margin-bottom: 23px;
-  
+
   p {
     margin: 0;
   }
@@ -243,11 +244,11 @@ td {
       margin-right: 0;
     }
   }
-  
+
   .flex-image {
     width: 35%;
     height: 100%;
-    
+
     @include mobile_only {
       width: 80%;
       margin: 20px 0;
@@ -270,7 +271,7 @@ td {
  .logo-field-note-fr {
   background-image: url("../img/cds/cds-logo-fr-v2.svg");
  }
-  
+
  .logo-field-note,
  .logo-field-note-fr {
   background-position: center center;
@@ -281,12 +282,12 @@ td {
   width: 4.5rem;
   margin-right: 10px;
  }
-  
+
  .field-note-title {
   background-color: $action-orange;
   border: none;
  }
-  
+
  .page-blogpost .field-note-header {
   background-color: $action-orange;
   display: flex;
@@ -295,31 +296,31 @@ td {
   border: none;
   padding-top: 15px;
   color: $black;
-  
+
   h2 {
     font-size: 1.85em;
     margin-bottom: 0;
   }
  }
-  
+
  .page-blogpost .field-note-subheader {
   padding-top: 0;
   padding-bottom: 0;
-  
+
   h3 {
     font-size: 1.85rem;
   }
  }
-  
+
  .unbold {
   font-weight: 100;
  }
-  
+
  .field-note-img {
   max-width: 70%;
   margin: 15px 0;
  }
- 
+
 // Style for Diary (in our Blog section)
 .diary-entry {
   display: inline-block;
@@ -332,20 +333,20 @@ td {
   @include mobile_only {
     padding: 0px 20px;
   }
-  
+
   .bold {
     font-weight: 700;
   }
-  
+
   td, th {
     border: 1px solid transparent;
   }
-  
+
   .diary-img {
     width: 30%;
   }
  }
-  
+
  .diary-entry:before{
   content: '';
   position: absolute;
@@ -360,7 +361,7 @@ td {
     display: none;
   }
  }
- 
+
 
 // Style for circle arrow icon turning right (featured beside links in different sections of the homepage)
 .fa-arrow-circle-right {
@@ -403,7 +404,7 @@ td {
   text-align: center;
   margin-top: 5px;
   padding-right: 60px;
-  
+
 
   @include tablet { text-align: right; }
 
@@ -415,9 +416,9 @@ td {
   padding-bottom: 3.5rem;
   background-color: #232323;
 
-  #contact-us-links { 
+  #contact-us-links {
     color: $white;
-    font-size: 2.1rem; 
+    font-size: 2.1rem;
   }
   a {color: $white;}
   li {list-style: none;}
@@ -434,7 +435,7 @@ td {
   margin-top: 2rem;
 }
 .social-links-footer a {
-  color: $white; 
+  color: $white;
 }
 
 .border-green {

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" lang="{{ (string ( $.Site.Language) ) }}" dir="ltr">
 {{ $pageTitle := i18n .Params.title }}
+{{ $titleKey := .Params.title }}
 
 <head>
   <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
@@ -56,11 +57,11 @@
 
 {{ with $pageTitle }}
 
-<body vocab="http://schema.org/" typeof="WebPage" class="{{ $pageTitle | urlize }}">
+<body vocab="http://schema.org/" typeof="WebPage" class="{{lower $titleKey | urlize}}">
   {{ else }}
 
   <body vocab="http://schema.org/" typeof="WebPage"
-    class="{{if eq .Section "blog"}}page-blogpost{{else}}{{lower .Params.title | urlize }}{{end}}">
+    class="{{if eq .Section "blog"}}page-blogpost{{else}}{{lower  $titleKey | urlize}}{{end}}">
     {{end}}
 
     <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
@@ -83,7 +84,6 @@
 
     <header role="banner">
       {{ partial "fip.html" . }}
-
       {{ block "title" . }}
       {{partial "menu.html" . }}
       <div class="page-banner">

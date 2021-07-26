@@ -4,6 +4,8 @@ all-newsletter-link:
   other: "Read the newsletter"
 all-newsletter-past:
   other: "https://us15.campaign-archive.com/home/?u=729a207773f7324e217a1d945&id=eb357181d2"
+about-this-site:
+  other: "About this site"
 aria-canada-website:
   other: "Government of Canada"
 aria-cds-website:
@@ -61,7 +63,7 @@ product_management:
 outreach:
   other: "Outreach"
 talent:
-  other: "Talent"              
+  other: "Talent"
 language-code:
   other: "en-ca"
 language-selection:
@@ -171,11 +173,11 @@ newsletter:
 roadmap:
   other: "Roadmap to 2025"
 beginning-the-conversations:
-  other: "Beginning the conversation"                  
+  other: "Beginning the conversation"
 terms-link:
   other: "/legal/terms/"
 accessibility-link:
-  other: "/a11y/" 
+  other: "/a11y/"
 our-values-link:
   other: "/our-values/"
 newsletter-link:
@@ -183,7 +185,7 @@ newsletter-link:
 roadmap-link:
   other: "/roadmap-2025/"
 beginning-the-conversation-link:
-  other: "/beginning-the-conversation/"          
+  other: "/beginning-the-conversation/"
 top-of-page:
   other: "Top of Page"
 trans-abbr-switch:
@@ -208,17 +210,17 @@ more-posts:
   other: "View all"
 tools-and-resources:
   other: "Tools and resources"
-tools-and-resources-platform-title: 
+tools-and-resources-platform-title:
   other: "Platform tools"
-tools-and-resources-platform-description-1st: 
+tools-and-resources-platform-description-1st:
   other: "Service delivery teams across government face many challenges when building digital services. We believe some of these problems can be solved by a common set of tools, technologies and processes shared across departments."
-tools-and-resources-platform-description-2nd: 
+tools-and-resources-platform-description-2nd:
   other: "Our team builds these components — also known as Platform Products — that departments can set up for their services instead of having to build them from scratch. For example, any department can use our Notify tool if they need to send email or text message updates to public servants or Canadians."
-tools-and-resources-platform-description-3rd: 
+tools-and-resources-platform-description-3rd:
   other: "The benefit of using platform products is that it allows departments to focus their efforts on the details that are unique to their services. Here are the platform products we’ve built, which your department can use:"
-tools-and-resources-resources-title: 
+tools-and-resources-resources-title:
   other: "Resources"
-tools-and-resources-resources-description: 
+tools-and-resources-resources-description:
   other: "Here are some resources developed by our teams here at the Canadian Digital Service (CDS). They are available to everyone inside and outside of government, and they can help you build new solutions to service delivery by adopting best practices in design, research, policy and product management."
 the-platform-team:
   other: "The Platform Team"
@@ -244,8 +246,12 @@ cppd-research:
   other: "Take part in our research"
 rcmp-research:
   other: "Take part in our research"
-notify-research: 
+notify-research:
   other: "Take part in our research"
+meet-the-team:
+  other: "Meet the Team"
+our-values:
+  other: "Our Values"
 subscribe-title:
   other: "Subscribe to our newsletter"
 subscribe-note:
