@@ -1,0 +1,43 @@
+name: Build-Test
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Load git submodules
+      run: git submodule sync && git submodule update --init
+
+    - name: Build english and french sites
+      run: |
+        hugo --ignoreCache -d ~/cds-website-dist
+        chmod -R 755 ~/cds-website-dist
+
+   - name: Cache build
+      uses: actions/cache@v2
+      with:
+        path: |
+          ~/cds-website-dist
+        key: ${{ runner.os }}-${{ github.sha }}
+
+  test:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      strategy:
+        fail-fast: false
+        matrix:
+          - lang: ["fr", "en"]
+    - name: Cache build
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/cds-website-dist
+          key: ${{ runner.os }}-${{ github.sha }}
+    - name: test
+      run: |
+        htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow-hash-href --empty_alt_ignore --check-favicon --check-html --disable-external --file-ignore=/lib/,/admin/
