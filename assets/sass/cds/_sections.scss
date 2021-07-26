@@ -1469,3 +1469,76 @@ article.post {
     margin-bottom: 0;
   }
 }
+
+.work-with-us--apply-now {
+  width: 65%;
+  margin-left: 2.5rem;
+
+  h2 {
+    color: black;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    font-weight: 600;
+  }
+  label {
+    color: black;
+    font-size: 23px;
+    font-weight: 600;
+  }
+  .alt-label {
+    font-weight: 400;
+  }
+  .url {
+    font-size: 23px;
+  }
+  input {
+    width: 100%;
+    border: 2px black solid;
+  }
+  textarea {
+    width: 100%;
+    border: 2px black solid;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  }
+  .browse {
+    cursor: pointer;
+    display: inline-block;
+    background-color: black;
+    margin-bottom: 2rem;
+
+    label {
+      cursor: pointer;
+      color: white;
+      margin: 1rem;
+    }
+  }
+  .no-file-chosen {
+    font-size: 22px;
+    margin-left: 2rem;
+  }
+  .help-text {
+    font-size: 23px;
+  }
+  .submit-btn {
+    margin-bottom: 1.5rem;
+    background-color: black;
+    display: inline-block;
+    color: white !important;
+    @include label;
+    padding: 10px 15px;
+    border: none;
+
+    svg {
+      fill: white;
+      margin-left: 10px;
+    }
+  }
+  .privacy-link {
+    margin-bottom: 4rem;
+    a {
+      color: black;
+      font-weight: 600;
+    }
+  }
+}
