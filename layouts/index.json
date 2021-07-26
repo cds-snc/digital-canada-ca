@@ -4,7 +4,7 @@
   {{- if eq $page.Type "blog" -}}
 
     {{- if gt (len $page.Content) 0 -}}
-      {{- $pageData := (dict "title" $page.Title  "author" $page.Params.authore "description" $page.Params.description) -}}
+      {{- $pageData := (dict "title" $page.Title  "href" $page.Permalink "author" $page.Params.author "description" $page.Params.description) -}}
       {{- $.Scratch.Add "pagesIndex" $pageData -}}
     {{- end -}}
   {{- end -}}
