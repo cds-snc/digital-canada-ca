@@ -13,7 +13,7 @@ Le Service numérique canadien (SNC) change la façon dont le gouvernement féd�
 
 Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait à distance la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que les régions mentionnées.
 
-Nous recrutons un(e) gestionnaire produit principal(e) pour notre unité opérationnelle des plateformes. Ce rôle est un contrat à durée déterminée de deux ans et est classé comme CS4 dans le groupe Systèmes informatiques. Il représente la norme de qualification CS4. Le bilinguisme est un atout et non une exigence. 
+Nous recrutons un(e) gestionnaire produit principal(e) pour notre unité opérationnelle des plateformes. Ce rôle est un contrat à durée déterminée de deux ans et est classé comme CS4/CS5 dans le groupe Systèmes informatiques. Il représente la norme de qualification CS4/CS5. Le bilinguisme est un atout et non une exigence. 
 
 
 **Plateformes**

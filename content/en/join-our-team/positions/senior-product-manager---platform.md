@@ -13,7 +13,7 @@ The Canadian Digital Service (CDS) is tasked with changing how the federal gover
 
 While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
 
-We’re hiring for a Senior Product Manager for our Platform business unit. This role is a two year term contract and is classified as CS4 in the Computer Systems group and represents the CS4 qualification standard. Bilingualism is an asset, not a requirement. 
+We’re hiring for a Senior Product Manager for our Platform business unit. This role is a two year term contract and is classified as CS4/CS5 in the Computer Systems group and represents the CS4/CS5 qualification standard. Bilingualism is an asset, not a requirement. 
 
 **Platform**
 
