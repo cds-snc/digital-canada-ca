@@ -33,11 +33,11 @@ jobs:
         lang: ["fr", "en"]
     steps:
       - name: Cache build
-          uses: actions/cache@v2
-          with:
-            path: |
-              ~/cds-website-dist
-            key: ${{ runner.os }}-${{ github.sha }}
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/cds-website-dist
+          key: ${{ runner.os }}-${{ github.sha }}
       - name: test
         run: |
           htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow-hash-href --empty_alt_ignore --check-favicon --check-html --disable-external --file-ignore=/lib/,/admin/
