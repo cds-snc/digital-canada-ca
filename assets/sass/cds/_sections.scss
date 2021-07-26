@@ -387,6 +387,7 @@ span.livefr {
     padding-bottom: 0;
   }
 
+
   .title-link {
     display: inline;
   }
@@ -657,7 +658,6 @@ span.livefr {
 .section--title-offset{
   font-size: 3rem;
   margin:0 0 2rem;
-
 }
 
 .flexbox {
@@ -1372,6 +1372,7 @@ article.post {
     @include mobile_only {
       height: 40rem;
     }
+
   }
 }
 
