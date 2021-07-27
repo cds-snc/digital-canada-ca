@@ -1,9 +1,17 @@
+
+// window.addEventListener("DOMContentLoaded", function (event) {
+
+// });
+
+
+
 let pagesIndex, searchIndex;
-const lunr = require("lunr");
 async function initSearchIndex() {
   try {
     const response = await fetch("/index.json");
+
     pagesIndex = await response.json();
+    
     searchIndex = lunr(function () {
       this.field("title");
       this.field("author");
@@ -53,6 +61,7 @@ function handleSearchQuery(event) {
     return;
   }
   const results = searchSite(query);
+  console.log("results", results);
   if (!results.length) {
     displayErrorMessage("Your search returned no results");
     return;
@@ -76,6 +85,8 @@ function searchSite(query) {
   const originalQuery = query;
   query = getLunrSearchQuery(query);
   let results = getSearchResults(query);
+  console.log('serres', results);
+  
   return results.length
     ? results
     : query !== originalQuery
@@ -84,7 +95,9 @@ function searchSite(query) {
 }
 
 function getSearchResults(query) {
+  
   return searchIndex.search(query).flatMap((hit) => {
+    
     if (hit.ref == "undefined") return [];
     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
     pageMatch.score = hit.score;
