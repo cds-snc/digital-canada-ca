@@ -1,144 +1,151 @@
 {{ define "main" }}
-<div class="container">
-  <section class="content">
-    <section class="section page--outer-container-padding">
+<div class="job-postings-container">
+  <section>
+    <section class="padding">
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-          <h2 class="section--title">{{ i18n "hiring" }}</h2>
-          {{ .Content }}
+          <h1>{{ .Params.title}}</h1>
+          {{ if .Params.leverId }}
+            <a href="#apply-now">Postulez maintenant</a>
+          {{end}}
+          <div class="content">
+            {{.Content}}
+          </div>
+          <div>
+            <h2 class="h2-font-weight">Travaillez de n’importe où au Canada</h2>
+            <p>Le SNC est une équipe entièrement décentralisée. Ce travail peut être effectué de n'importe où au Canada.
+              À l'avenir, des déplacements occasionnels à Ottawa pourraient être nécessaires.</p>
+            <p><a href="https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html"
+                rel="externe">Mesures
+                d’adaptation en matière d’évaluation<img src="/img/icons/assessment-accomodation.svg"
+                  alt="Lien externe" /></a></p>
+
+            <p>Par mesure de précaution, toutes les entrevues dans un avenir proche seront menées par vidéo ou
+              téléconférence.</p>
+
+          </div>
+
         </div>
       </div>
     </section>
   </section>
 </div>
 
-<div>
-  <!-- START APPLY FORM FR  -->
-  {{ if .Params.leverId }}
-  <section class="section work-with-us--apply-now ">
-    <div class="container page-wide--outer-container-padding">
-      <h2 class="section--title--post  col-sm-offset-1 col-xs-12">Postulez maintenant</h2>
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-        <form
-          enctype="multipart/form-data"
-          class="text-left"
-          id="contactForm"
-        >
-          <!-- jobId -->
-          <input
-            type="hidden"
-            id="jobId"
-            name="jobId"
-            value="{{.Params.leverId}}"
-          />
-          <!-- Full Name -->
-          <div class="form-group">
-            <label for="name">Nom complet</label>
-            <input
-              type="text"
-              class="form-control validate-required"
-              id="name"
-              name="name"
-              aria-required="true"
-              aria-describedby="name-required"
-            />
-            <span
-              id="name-required"
-              class="error-message validate-required-message"
-              style="display: none;"
-              >Ce champ est obligatoire</span
-            >
-          </div>
-          <!-- Email -->
-          <div class="form-group">
-            <label for="email">Courriel</label>
-            <input
-              type="email"
-              class="form-control validate-required validate-email"
-              id="email"
-              name="email"
-              aria-required="true"
-              aria-describedby="email-required"
-            />
-            <span
-              id="email-required"
-              class="error-message validate-required-message"
-              style="display: none;"
-              >Ce champ est obligatoire</span
-            >
-          </div>
 
-          <!-- Resume -->
-          <div class="form-group">
-            <label for="resume">CV</label>
-            <input
-              type="file"
-              id="resume"
-              name="resume"
-              size="100" 
-              accept="application/msword, application/pdf, text/plain" required
-            />
-          </div>
-          <!-- Body -->
-          <div class="form-group">
-            <label for="body"
-              >Dites-nous, en 300 mots ou moins, pourquoi vous voulez travailler
-              avec nous et, <strong>le cas échéant</strong>, ce que l’on devrait savoir au
-              sujet de vos échantillons de travail.</label
-            >
-            <textarea
-              class="form-control validate-required validate-maxwords"
-              id="body"
-              name="body"
-              rows="5"
-              aria-required="true"
-              aria-describedby="body-required word-count-message"
-            ></textarea>
-            <span
-              id="body-required"
-              class="error-message validate-required-message"
-              style="display: none;"
-              >Ce champ est obligatoire<br />
-            </span>
-            <span id="word-count-message" class="help-text">
-              <span id="word-count">300</span> mots restants</span
-            >
-          </div>
-          <!-- Samples of your work -->
-          <div class="form-group">
-            <label for="work_link"
-              >(Facultatif) Échantillons de votre travail (liens URL SVP!)</label
-            >
-            <input
-              type="text"
-              class="form-control"
-              id="work_link"
-              name="work_link"
-            />
-          </div>
-          <div class="form-group">
-            <label class="wb-inv" for="work_link_2" name="work_link_2"
-              >Échantillons de votre travail</label
-            >
-            <input type="text" class="form-control" id="work_link_2" />
-          </div>
-          <!-- Submit-->
-          <button type="submit" class="button" id="submitButton">
-            <span class="spinner" id="buttonSpinner">
-              <i
-                style="display:inline-block;margin-right:10px;"
-                class="fas fa-spinner fa-spin"
-              ></i></span
-            >Soumettre
-          </button>
-          <a href="/transparence/enonce-de-confidentialite/"
-            >Énoncé de confidentialité</a
-          >
-        </form>
+<div class="hiring-process">
+  <div class="job-postings-container">
+
+    <div class="row">
+      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+        <h2 class="h2-font-weight">Notre processus d'embauche</h2>
+        <p class="cds-title">Au SNC, nous accueillons et invitons la différence.</p>
+        <p>Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les
+          services numériques. Notre mission est d'améliorer la vie des gens en changeant la façon dont le gouvernement
+          développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des personnes au
+          premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être
+          sécuritaire, rapide, facile, transparente et accessible.
+        </p>
+        <p>C’est avec fierté et passion que nous nous efforçons de rendre le SNC plus représentatif du public que nous
+          servons. C’est en tirant parti de diverses perspectives, expériences et compétences que nous pourrons offrir
+          des services publics de meilleure qualité, plus accessibles et plus inclusifs. Nous travaillons fort pour
+          créer un environnement où différentes perspectives et expériences sont valorisées, et nous nous engageons à
+          aider les talents de tout type à s’épanouir.</p>
+        <p>Le SNC accueille tous les candidats, peu importe leur race, ethnicité, religion, orientation sexuelle,
+          identité et expression de genre, origine nationale, handicap, âge et taille corporelle, y compris les vétérans
+          et les personnes qui ont des engagements familiaux divers. Nous nous engageons également à offrir un milieu de
+          travail inclusif et libre d’obstacles, dès le processus d’embauche. Si vous avez besoin de mesures
+          d’adaptation à une étape ou une autre du processus d’évaluation, veuillez envoyer un message aux coordonnées
+          indiquées dans le lien ci-dessous pour en faire la demande. Tout renseignement concernant les mesures
+          d’adaptation sera traité confidentiellement.</p>
+
+        <div class="cta__link black">
+          <a href="/join-our-team/">En savoir plus sur notre processus de recrutement<img
+              src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/></a>
+        </div>
       </div>
     </div>
-  </section>
-  {{ end }}
-  <!-- EN APPLY FORM FR  -->
+  </div>
 </div>
+
+<div id="apply-now" class="row work-with-us--apply-now">
+  {{ if .Params.leverId }}
+  <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+    <h2>Postulez maintenant</h2>
+    <form enctype="multipart/form-data" class="text-left" id="contactForm">
+      <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
+      <!-- Full Name -->
+      <div class="form-group">
+        <label for="name">Nom complet</label>
+        <input type="text" class="form-control validate-required" id="name" name="name" aria-required="true"
+          aria-describedby="name-required" />
+        <span id="name-required" class="error-message validate-required-message" style="display: none;">Ce champ est
+          obligatoire</span>
+      </div>
+      <!-- Email -->
+      <div class="form-group">
+        <label for="email">Courriel</label>
+        <input type="email" name="email" class="form-control validate-required validate-email" id="email"
+          aria-required="true" aria-describedby="email-required" />
+        <span id="email-required" class="error-message validate-required-message" style="display: none;">Ce champ est
+          obligatoire</span>
+      </div>
+
+      <!-- Resume -->
+
+      <label for="resume">CV</label>
+      <div class="form-group">
+        <!-- <label for="resume">Resume</label> -->
+        <div class="browse">
+          <label>Parcourir...
+            <input class="resume" type="file" id="resume" name="resume"
+              accept="application/msword, application/pdf, text/plain" required style="display: none;" />
+          </label>
+
+        </div>
+        <span class="no-file-chosen" id="no-file-chosen-text">Aucun fichier sélectionné</span>
+
+
+      </div>
+      <!-- Body -->
+
+      <div class="form-group">
+        <label for="body">Dites-nous, en 300 mots ou moins, pourquoi vous voulez travailler avec nous et, le cas
+          échéant, ce que l’on devrait savoir au sujet de vos échantillons de travail.</label>
+        <textarea class="form-control validate-required validate-maxwords" id="body" name="body" rows="5"
+          aria-required="true" aria-describedby="body-required word-count-message"></textarea>
+        <span id="body-required" class="error-message validate-required-message" style="display: none;">Ce champ est
+          obligatoire<br />
+        </span>
+        <span id="word-count-message" class="help-text">
+          <span id="word-count">300</span> mots restants</span>
+
+      </div>
+      <!-- Samples of your work -->
+      <div class="form-group">
+        <label for="samples">Échantillons de votre travail<span class="alt-label"> (Facultatif)</span></label>
+        <div>
+          <span class="url">Liens URL SVP!</span>
+
+        </div>
+        <textarea class="form-control validate-required validate-maxwords" id="samples" name="samples" rows="5"
+          aria-required="true" aria-describedby="body-required word-count-message"></textarea>
+      </div>
+      <!-- Submit-->
+      <div>
+        <button type="submit" class="submit-btn">
+          Soumettre<img src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/>
+        </button>
+
+      </div>
+      <div class="privacy-link">
+        <a href="/legal/privacy-notice">Énoncé de confidentialité</a>
+      </div>
+
+
+    </form>
+  </div>
+  {{end}}
+</div>
+
+
 {{ end }}

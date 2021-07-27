@@ -1,145 +1,154 @@
 {{ define "main" }}
-<div class="container">
-  <section class="content">
-    <section class="section page--outer-container-padding">
-      <div class="row">
-        <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-          <h2 class="section--title">{{ i18n "hiring" }}</h2>
-          {{ .Content }}
-        </div>
-      </div>
-    </section>
-  </section>
-</div>
+<div class="job-postings-container">
 
-<div>
-  <!-- START APPLY FORM EN  -->
-  {{ if .Params.leverId }}
-  <section class="section work-with-us--apply-now">
-    <div class="container page-wide--outer-container-padding">
-      <h2 class="section--title--post col-sm-offset-1 col-xs-12">Apply now</h2>
+  <section class="padding">
+    <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-        <form
-          enctype="multipart/form-data"
-          class="text-left"
-          id="contactForm"
-        >
-          <!-- jobId -->
-          <input
-            type="hidden"
-            id="jobId"
-            name="jobId"
-            value="{{.Params.leverId}}"
-          />
-          <!-- Full Name -->
-          <div class="form-group">
-            <label for="name">Full Name</label>
-            <input
-              type="text"
-              class="form-control validate-required"
-              id="name"
-              name="name"
-              aria-required="true"
-              aria-describedby="name-required"
-            />
-            <span
-              id="name-required"
-              class="error-message validate-required-message"
-              style="display: none;"
-              >This field is required</span
-            >
-          </div>
-          <!-- Email -->
-          <div class="form-group">
-            <label for="email">Email</label>
-            <input
-              type="email"
-              name="email"
-              class="form-control validate-required validate-email"
-              id="email"
-              aria-required="true"
-              aria-describedby="email-required"
-            />
-            <span
-              id="email-required"
-              class="error-message validate-required-message"
-              style="display: none;"
-              >This field is required</span
-            >
-          </div>
+        <h1>{{ .Params.title}}</h1>
+        {{ if .Params.leverId }}
+          <a href="#apply-now">Apply now</a>
+        {{end}}
+        <div class="content">
+          {{.Content}}
+        </div>
+        <div>
+          <h2 class="h2-font-weight">Work anywhere in Canada</h2>
+          <p>CDS is a fully distributed team. This job can be performed from anywhere in Canada. In the future,
+            occasional travel to Ottawa may be required.</p>
+          <p>
+            <a href="https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html"
+              rel="external">Assessment
+              accommodation<img src="/img/icons/assessment-accomodation.svg" alt="external link" /></a>
+          </p>
 
-          <!-- Resume -->
-          <div class="form-group">
-            <label for="resume">Resume</label>
-            <input class="resume"
-              type="file"
-              id="resume"
-              name="resume"
-              accept="application/msword, application/pdf, text/plain" required
-            />
-          </div>
+          <p>Out of an abundance of caution, all interviews will be conducted via video or teleconference for the
+            foreseeable future.</p>
 
-          <!-- Body -->
-          <div class="form-group">
-            <label for="body"
-              >Tell us in 300 words or less why you want to work with us and,
-              <strong>if applicable</strong>, what we should know about your
-              work samples
-            </label>
-            <textarea
-              class="form-control validate-required validate-maxwords"
-              id="body"
-              name="body"
-              rows="5"
-              aria-required="true"
-              aria-describedby="body-required word-count-message"
-            ></textarea>
-            <span
-              id="body-required"
-              class="error-message validate-required-message"
-              style="display: none;"
-              >This field is required<br />
-            </span>
-            <span id="word-count-message" class="help-text">
-              <span id="word-count">300</span> words remaining</span
-            >
-          </div>
-          <!-- Samples of your work -->
-          <div class="form-group">
-            <label for="work_link">(Optional) Samples of your work (URLs, please!)</label>
-            <input
-              type="text"
-              class="form-control"
-              id="work_link"
-              name="work_link"
-            />
-          </div>
-          <div class="form-group">
-            <label class="wb-inv" for="work_link_2"
-              >Additional Work Samples</label
-            >
-            <input
-              type="text"
-              class="form-control"
-              id="work_link_2"
-              name="work_link_2"
-            />
-          </div>
-          <!-- Submit-->
-          <button type="submit" class="button" id="submitButton">
-            <span class="spinner" id="buttonSpinner"
-              ><i
-                style="display:inline-block;margin-right:10px;"
-                class="fas fa-spinner fa-spin"
-              ></i></span
-            >Submit
-          </button>
-          <a href="/legal/privacy-notice">Privacy Notice</a>
-        </form>
+        </div>
+
+
+
       </div>
     </div>
   </section>
-  {{ end }}
-  <!--END APPLY FORM EN -->
+
 </div>
+<!-- HIRING PROCESS -->
+
+<div class="hiring-process">
+  <div class="job-postings-container">
+
+    <div class="row">
+      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+        <h2 class="h2-font-weight">Our hiring process</h2>
+        <p class="cds-title">At CDS, we welcome and invite difference.</p>
+        <p>The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital
+          services. We’re here to improve people’s lives by changing how the government builds technology. We do this by
+          putting people’s needs and concerns front and centre. Every experience Canadians have with their government
+          should be safe, fast, easy, transparent, and accessible.</p>
+        <p>We proudly, passionately, and actively strive to make CDS more reflective of the society that we serve. We
+          will only be able to deliver better, more accessible, and more inclusive public services if we harness diverse
+          thoughts, experiences, and skills. We work hard to create an environment where different perspectives and
+          experiences are valued. We are committed to helping diverse talent thrive.</p>
+        <p>CDS welcomes all applicants, including Veterans and people of all races, ethnicities, religions, sexual
+          orientations, gender identities and expressions, national origins, disabilities, ages, body sizes and
+          including those with diverse households and family commitments. We are committed to providing an inclusive and
+          barrier-free work environment, starting with the hiring process. If you need to be accommodated during any
+          phase of the evaluation process, please use the Contact information below to request specialized
+          accommodation. All information received in relation to accommodation will be kept confidential.</p>
+
+        <div class="cta__link black">
+
+          <a href="/join-our-team/">More about our hiring process<img src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="apply-now" class="row work-with-us--apply-now">
+  {{ if .Params.leverId }}
+  <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+    <h2>Apply now</h2>
+    <form enctype="multipart/form-data" class="text-left" id="contactForm">
+      <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
+      <!-- Full Name -->
+      <div class="form-group">
+        <label for="name">Full Name</label>
+        <input type="text" class="form-control validate-required" id="name" name="name" aria-required="true"
+          aria-describedby="name-required" />
+        <span id="name-required" class="error-message validate-required-message" style="display: none;">This field
+          is required</span>
+      </div>
+      <!-- Email -->
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" name="email" class="form-control validate-required validate-email" id="email"
+          aria-required="true" aria-describedby="email-required" />
+        <span id="email-required" class="error-message validate-required-message" style="display: none;">This field
+          is required</span>
+      </div>
+
+      <!-- Resume -->
+
+      <label for="resume">Resume</label>
+      <div class="form-group">
+        <div class="browse">
+
+          <label>Browse...
+            <input class="resume" type="file" id="resume" name="resume"
+              accept="application/msword, application/pdf, text/plain" required style="display: none;" />
+          </label>
+
+        </div>
+        <span class="no-file-chosen" id="no-file-chosen-text">No file selected</span>
+
+      </div>
+
+      <!-- Body -->
+
+      <div class="form-group">
+        <label for="body">Tell us in 300 words or less why you want to work with us and,
+          if applicable, what we should know about your
+          work samples</label>
+        <textarea class="form-control validate-required validate-maxwords" id="body" name="body" rows="5"
+          aria-required="true" aria-describedby="body-required word-count-message"></textarea>
+        <span id="body-required" class="error-message validate-required-message" style="display: none;">This field
+          is required<br />
+        </span>
+        <span id="word-count-message" class="help-text">
+          <span id="word-count">300</span> words remaining</span>
+
+      </div>
+      <!-- Samples of your work -->
+      <div class="form-group">
+        <label for="samples">Samples of your work<span class="alt-label"> (optional)</span></label>
+        <div>
+          <span class="url">URLs, please!</span>
+
+        </div>
+
+        <textarea class="form-control validate-required validate-maxwords" id="samples" name="samples" rows="5"
+          aria-required="true" aria-describedby="body-required word-count-message"></textarea>
+      </div>
+      <!-- Submit-->
+      <div>
+        <button type="submit" class="submit-btn">
+          Submit<img src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/>
+        </button>
+
+      </div>
+      <div class="privacy-link">
+        <a href="/legal/privacy-notice">Privacy Notice</a>
+      </div>
+
+
+    </form>
+  </div>
+  {{end}}
+</div>
+
+
+
 {{ end }}

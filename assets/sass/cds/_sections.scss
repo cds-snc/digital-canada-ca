@@ -772,66 +772,77 @@ span.livefr {
 }
 
 .work-with-us--apply-now {
-  background-color: $icon-grey;
-  color: $white;
+  width: 65%;
+  margin-left: 2.5rem;
 
-  @include desktop {
-    padding-bottom: 9.5rem;
+  h2 {
+    color: black;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    font-weight: 600;
   }
-
-  h3 {
-    color: $white;
-  }
-
   label {
-    font-size: 2.25rem;
-    font-weight: 200;
+    color: black;
+    font-size: 23px;
+    font-weight: 600;
   }
-
-  .form-control {
+  .alt-label {
+    font-weight: 400;
+  }
+  .url {
+    font-size: 23px;
+  }
+  input {
     width: 100%;
+    border: 2px black solid;
   }
-
-  .radio label {
-    margin-bottom: 1.5rem;
-    margin-left: 3rem;
+  textarea {
+    width: 100%;
+    border: 2px black solid;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
-
-  .button {
-    margin-right: 2rem;
-
-    &:hover {
-      border: 2px solid $primary-color;
-      background: $primary-color;
-      color: $icon-grey;
-    }
-  }
-
-  a {
-    color: $white;
-
-    &:hover {
-      text-decoration: none;
-      transition: all 0.3s ease-in-out;
-    }
-  }
-
-  .spinner {
+  .browse {
+    cursor: pointer;
     display: inline-block;
-    opacity: 0;
-    max-width: 0px;
-    -webkit-transition: opacity 0.25s, max-width 0.45s;
-    -moz-transition: opacity 0.25s, max-width 0.45s;
-    -o-transition: opacity 0.25s, max-width 0.45s;
-    transition: opacity 0.25s, max-width 0.45s;
+    background-color: black;
+    margin-bottom: 2rem;
 
-    &.active {
-      opacity: 1;
-      max-width: 50px;
+    label {
+      cursor: pointer;
+      color: white;
+      margin: 1rem;
+    }
+  }
+  .no-file-chosen {
+    font-size: 22px;
+    margin-left: 2rem;
+  }
+  .help-text {
+    font-size: 23px;
+  }
+  .submit-btn {
+    margin-bottom: 1.5rem;
+    background-color: black;
+    display: inline-block;
+    color: white !important;
+    @include label;
+    padding: 10px 15px;
+    border: none;
+
+    svg {
+      fill: white;
+      margin-left: 10px;
+    }
+  }
+  .privacy-link {
+    margin-bottom: 4rem;
+    a {
+      color: black;
+      font-weight: 600;
     }
   }
 }
-
 ////////////////////////////////////////////////////
 //
 // OUR TEAM
