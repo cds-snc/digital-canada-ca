@@ -64,7 +64,7 @@ $(document).ready(function() {
     $("#contactForm #word-count").html(wordsLeft);
   });
 
-  /**
+    /**
    * File upload
    */
   $("#contactForm #resume").on("change", function(event) {

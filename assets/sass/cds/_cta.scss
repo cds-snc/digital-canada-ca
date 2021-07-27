@@ -1,137 +1,189 @@
 // TODO: temporary until we correct our containers/structures to match designs
 .our-values {
-    &+ .cta-wrapper {
-        margin-top: 5rem;
-        margin-bottom: -5rem;
-    }
+  & + .cta-wrapper {
+    margin-top: 5rem;
+    margin-bottom: -5rem;
+  }
 }
 
 .cta-row {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+
+  @include desktop {
+    flex-wrap: nowrap;
+  }
+
+  .cta {
+    flex-direction: column;
     width: 100%;
 
+    &__content {
+      max-width: 95%;
+
+      @media screen and (min-width: 1400px) {
+        max-width: 80%;
+      }
+    }
+
     @include desktop {
-        flex-wrap: nowrap;
+      margin-left: 12px;
+
+      &:first-of-type {
+        margin-right: 12px;
+        margin-left: 0;
+      }
     }
-
-    .cta {
-        flex-direction: column;
-        width: 100%;
-
-        &__content {
-            max-width: 95%;
-
-            @media screen and (min-width: 1400px) {
-                max-width: 80%;
-            }
-        }
-
-        @include desktop {
-            margin-left: 12px;
-
-            &:first-of-type {
-                margin-right: 12px;
-                margin-left: 0;
-            }
-        }
-    }
+  }
 }
 
 .cta {
-    border-bottom: 3px solid;
-    border-color: black;
-    display: flex;
-    justify-content: space-between;
-    padding: 0;
-    margin-bottom: 25px;
+  border-bottom: 3px solid;
+  border-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  margin-bottom: 25px;
 
-    @include mobile_only {
-        flex-direction: column;
+  @include mobile_only {
+    flex-direction: column;
+  }
+
+  &--brown {
+    border-color: $career-brown;
+    .cta__link a {
+      background: linear-gradient(
+        180deg,
+        $career-brown 0%,
+        $career-brown 30%,
+        $career-brown 60%,
+        $career-brown 100%
+      );
+      &:hover {
+        background: linear-gradient(
+          180deg,
+          darken($career-brown, 15) 0%,
+          darken($career-brown, 10) 30%,
+          darken($career-brown, 10) 60%,
+          $career-brown 100%
+        );
+      }
     }
+  }
 
-    &--brown {
-        border-color: $career-brown;
-        .cta__link a {
-            background: linear-gradient(180deg, $career-brown 0%, $career-brown 30%, $career-brown 60%, $career-brown 100%);
-            &:hover { background: linear-gradient(180deg, darken($career-brown,15) 0%, darken($career-brown, 10) 30%, darken($career-brown, 10) 60%, $career-brown 100%); }
-        }
+  &--pink {
+    border-color: $blog-pink;
+
+    .cta__link a {
+      background: linear-gradient(
+        180deg,
+        $blog-pink 0%,
+        $blog-pink 30%,
+        $blog-pink 60%,
+        $blog-pink 100%
+      );
+      &:hover {
+        background: linear-gradient(
+          180deg,
+          darken($blog-pink, 15) 0%,
+          darken($blog-pink, 10) 30%,
+          darken($blog-pink, 10) 60%,
+          $blog-pink 100%
+        );
+      }
     }
+  }
 
-    &--pink {
-        border-color: $blog-pink;
+  &--green {
+    border-color: $resources-green;
 
-        .cta__link a {
-            background: linear-gradient(180deg, $blog-pink 0%, $blog-pink 30%, $blog-pink 60%, $blog-pink 100%);
-            &:hover { background: linear-gradient(180deg, darken($blog-pink,15) 0%, darken($blog-pink, 10) 30%, darken($blog-pink, 10) 60%, $blog-pink 100%); }
-        }
+    .cta__link a {
+      background: linear-gradient(
+        180deg,
+        $resources-green 0%,
+        $resources-green 30%,
+        $resources-green 60%,
+        $resources-green 100%
+      );
+      &:hover {
+        background: linear-gradient(
+          180deg,
+          darken($resources-green, 10) 0%,
+          darken($resources-green, 5) 30%,
+          darken($resources-green, 5) 60%,
+          $resources-green 100%
+        );
+      }
     }
+  }
 
-    &--green {
-        border-color: $resources-green;
+  &--grey-bg {
+    background: $medium-grey;
+  }
 
-        .cta__link a {
-            background: linear-gradient(180deg, $resources-green 0%, $resources-green 30%, $resources-green 60%, $resources-green 100%);
-            &:hover { background: linear-gradient(180deg, darken($resources-green,10) 0%, darken($resources-green, 5) 30%, darken($resources-green, 5) 60%, $resources-green 100%); }
-        }
+  &--purple {
+    border-color: $team-purple;
+
+    .cta__link a {
+      background: linear-gradient(
+        180deg,
+        $team-purple 0%,
+        $team-purple 30%,
+        $team-purple 60%,
+        $team-purple 100%
+      );
+      &:hover {
+        background: linear-gradient(
+          180deg,
+          darken($team-purple, 15) 0%,
+          darken($team-purple, 10) 30%,
+          darken($team-purple, 10) 60%,
+          $team-purple 100%
+        );
+      }
     }
-
-    &--grey-bg {
-        background: $medium-grey;
-    }
-
-    &--purple {
-        border-color: $team-purple;
-
-        .cta__link a {
-            background: linear-gradient(180deg, $team-purple 0%, $team-purple 30%, $team-purple 60%, $team-purple 100%);
-            &:hover { background: linear-gradient(180deg, darken($team-purple,15) 0%, darken($team-purple, 10) 30%, darken($team-purple, 10) 60%, $team-purple 100%); }
-        }
-    }
+  }
 }
 
 .cta__content {
-    padding: 2rem;
+  padding: 2rem;
 
-    &-title {
-        margin: 0;
+  &-title {
+    margin: 0;
 
-        + p {
-            margin-top: 1.5rem;
-        }
+    + p {
+      margin-top: 1.5rem;
     }
+  }
 
-    h2 {
-      font-weight: 600;
-      font-size: 2.6rem;
-    }
+  h2 {
+    font-weight: 600;
+    font-size: 2.6rem;
+  }
 }
 
 .cta__link {
-    align-self: flex-end;
-    flex-shrink: 0;
-    pointer-events: auto;
+  align-self: flex-end;
+  flex-shrink: 0;
+  pointer-events: auto;
 
-    a {
-        display: inline-block;
-        color: white !important;
-        @include label;
-        text-decoration: none;
-        padding: 10px 15px;
-    }
-
-    svg {
-        fill: white;
-        margin-left: 10px;
-    }
-
-}
-.black {
-    background-color: black;
+  a {
     display: inline-block;
-    margin-bottom: 5rem;
+    color: white !important;
+    @include label;
+    text-decoration: none;
+    padding: 10px 15px;
+  }
+
+  svg {
+    fill: white;
+    margin-left: 10px;
+  }
 }
 
-
-
-
+.black {
+  background-color: black;
+  display: inline-block;
+  margin-bottom: 5rem;
+}

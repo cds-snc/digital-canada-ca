@@ -4,10 +4,10 @@
     <section class="padding">
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+          <h1>{{ .Params.title}}</h1>
           {{ if .Params.leverId }}
-            <h1>{{ .Params.title}}</h1>
+            <a href="#apply-now">Postulez maintenant</a>
           {{end}}
-          <a href="#apply-now">Postulez maintenant</a>
           <div class="content">
             {{.Content}}
           </div>
@@ -32,13 +32,13 @@
 </div>
 
 
-<div class="gray">
+<div class="hiring-process">
   <div class="job-postings-container">
 
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
         <h2 class="h2-font-weight">Notre processus d'embauche</h2>
-        <h1 class="cds-title">Au SNC, nous accueillons et invitons la différence.</h1>
+        <p class="cds-title">Au SNC, nous accueillons et invitons la différence.</p>
         <p>Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les
           services numériques. Notre mission est d'améliorer la vie des gens en changeant la façon dont le gouvernement
           développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des personnes au
@@ -60,7 +60,7 @@
 
         <div class="cta__link black">
           <a href="/join-our-team/">En savoir plus sur notre processus de recrutement<img
-              src="/img/icons/arrow-right-white.svg" /></a>
+              src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/></a>
         </div>
       </div>
     </div>
@@ -133,7 +133,7 @@
       <!-- Submit-->
       <div>
         <button type="submit" class="submit-btn">
-          Soumettre<img src="/img/icons/arrow-right-white.svg" role="presentation"/>
+          Soumettre<img src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/>
         </button>
 
       </div>
