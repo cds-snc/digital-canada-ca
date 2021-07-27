@@ -4,10 +4,10 @@
     <section class="padding">
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+          <h1>{{ .Params.title}}</h1>
           {{ if .Params.leverId }}
-            <h1>{{ .Params.title}}</h1>
+            <a href="#apply-now">Postulez maintenant</a>
           {{end}}
-          <a href="#apply-now">Postulez maintenant</a>
           <div class="content">
             {{.Content}}
           </div>
