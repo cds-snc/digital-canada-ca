@@ -25,7 +25,9 @@
     }
   }
   @include desktop {
-    .title-align { text-align: right; }
+    .title-align {
+      text-align: right;
+    }
   }
 
   .title-link {
@@ -55,7 +57,6 @@
 }
 
 .homepage--what-we-do {
-
   p {
     text-align: left;
   }
@@ -85,7 +86,10 @@
     height: 100%;
     text-align: left;
 
-    h3, h4, p, a {
+    h3,
+    h4,
+    p,
+    a {
       display: inline-block;
       color: $black;
       margin: 5px 0;
@@ -130,7 +134,6 @@
   p {
     margin-bottom: 10px;
   }
-
 }
 
 .homepage--our-team {
@@ -222,7 +225,7 @@
       text-align: left;
     }
 
-    @media( max-width: 1220px) {
+    @media (max-width: 1220px) {
       display: inline-block;
     }
 
@@ -251,7 +254,9 @@
   }
 
   .blog-posts {
-    @include tablet { margin-bottom: 3rem; }
+    @include tablet {
+      margin-bottom: 3rem;
+    }
 
     img {
       width: 50%;
@@ -268,16 +273,17 @@
         color: $black;
         padding: 1.5rem;
         padding-right: 5px;
-        font-size: 1.50rem;
+        font-size: 1.5rem;
         font-weight: 900;
       }
-
 
       &:hover {
         box-shadow: 0 0 30px rgba(0, 0, 0, 0.8);
       }
 
-      @include mobile_only { margin: 1.5rem auto; }
+      @include mobile_only {
+        margin: 1.5rem auto;
+      }
       @include tablet {
         height: 28rem;
         margin: 1rem 0;
@@ -387,12 +393,12 @@ span.livefr {
     padding-bottom: 0;
   }
 
-
   .title-link {
     display: inline;
   }
 
-  h3, h4,
+  h3,
+  h4,
   .title-link {
     font-weight: 500;
     margin: 12px 0;
@@ -411,7 +417,8 @@ span.livefr {
     }
   }
 
-  p, a {
+  p,
+  a {
     font-size: 1.85rem;
     display: inline-block;
   }
@@ -539,7 +546,7 @@ span.livefr {
   p {
     margin-bottom: 0px;
 
-      &.leader {
+    &.leader {
       font-weight: 100;
 
       @include mobile_only {
@@ -591,7 +598,9 @@ span.livefr {
 .work-in-progress--links,
 .work-in-progress--partners,
 .work-in-progress--team {
-  h4 { margin-bottom: 0; }
+  h4 {
+    margin-bottom: 0;
+  }
 }
 
 .statusButton {
@@ -627,43 +636,41 @@ span.livefr {
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 2.5rem;
-    color:black;
+    color: black;
   }
 }
 
-.joinus-section--title{
+.joinus-section--title {
   font-size: 2.5rem;
   margin: 0 0 2rem;
   text-align: left;
-  color:black;
+  color: black;
 }
 
-.section--title--post{
+.section--title--post {
   font-size: 3rem;
   text-align: left;
   color: $primary-color;
-  margin-bottom:3rem;
+  margin-bottom: 3rem;
 }
 
 ::-webkit-file-upload-button {
   background: #a6a6a6;
-  color:black;
+  color: black;
   padding: 7px;
   border-radius: 2px;
-  height:35px;
+  height: 35px;
   font-size: 1.5rem;
   width: 130px;
 }
 
-.section--title-offset{
+.section--title-offset {
   font-size: 3rem;
-  margin:0 0 2rem;
+  margin: 0 0 2rem;
 }
 
 .flexbox {
   display: flex;
-
-
 
   .steps-icon {
     flex: 0 0 70px;
@@ -679,7 +686,7 @@ span.livefr {
     font-weight: 500;
     margin: 0;
   }
-  p{
+  p {
     font-size: 2rem;
   }
 }
@@ -698,7 +705,7 @@ span.livefr {
   p {
     font-size: 1.8rem;
     line-height: 1.1em;
-    margin:20px;
+    margin: 20px;
   }
 
   .row {
@@ -706,7 +713,7 @@ span.livefr {
     flex-direction: row;
     flex-wrap: wrap;
 
-    @include logo_break{
+    @include logo_break {
       flex-direction: column;
     }
   }
@@ -719,7 +726,7 @@ span.livefr {
     text-align: left;
     margin: 10px;
 
-    @include logo_break{
+    @include logo_break {
       width: 80%;
       margin: 10px 0;
     }
@@ -727,7 +734,6 @@ span.livefr {
     @include mobile_only {
       width: 100%;
     }
-
 
     p {
       margin-bottom: 0px;
@@ -739,28 +745,26 @@ span.livefr {
       font-size: 2rem;
       font-weight: 600;
       text-decoration: underline;
-
     }
   }
 }
 
-.work-with-us--section{
+.work-with-us--section {
   background-color: #262a2d;
-  color:#fff;
+  color: #fff;
 
   .work-with-us--text {
     padding: 30px 0 20px 0;
   }
 
   h3 {
-    color: #FFCC33;
+    color: #ffcc33;
   }
 
   .img-fluid {
     max-width: 100%;
     height: auto;
   }
-
 }
 
 .work-with-us--process {
@@ -768,66 +772,77 @@ span.livefr {
 }
 
 .work-with-us--apply-now {
-  background-color: $icon-grey;
-  color: $white;
+  width: 65%;
+  margin-left: 2.5rem;
 
-  @include desktop {
-    padding-bottom: 9.5rem;
+  h2 {
+    color: black;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    font-weight: 600;
   }
-
-  h3 {
-    color: $white;
-  }
-
   label {
-    font-size: 2.25rem;
-    font-weight: 200;
+    color: black;
+    font-size: 23px;
+    font-weight: 600;
   }
-
-  .form-control {
+  .alt-label {
+    font-weight: 400;
+  }
+  .url {
+    font-size: 23px;
+  }
+  input {
     width: 100%;
+    border: 2px black solid;
   }
-
-  .radio label {
-    margin-bottom: 1.5rem;
-    margin-left: 3rem;
+  textarea {
+    width: 100%;
+    border: 2px black solid;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
   }
-
-  .button {
-    margin-right: 2rem;
-
-    &:hover {
-      border: 2px solid $primary-color;
-      background: $primary-color;
-      color: $icon-grey;
-    }
-  }
-
-  a {
-    color: $white;
-
-    &:hover {
-      text-decoration: none;
-      transition: all 0.3s ease-in-out;
-    }
-  }
-
-  .spinner {
+  .browse {
+    cursor: pointer;
     display: inline-block;
-    opacity: 0;
-    max-width: 0px;
-    -webkit-transition: opacity 0.25s, max-width 0.45s;
-    -moz-transition: opacity 0.25s, max-width 0.45s;
-    -o-transition: opacity 0.25s, max-width 0.45s;
-    transition: opacity 0.25s, max-width 0.45s;
+    background-color: black;
+    margin-bottom: 2rem;
 
-    &.active {
-      opacity: 1;
-      max-width: 50px;
+    label {
+      cursor: pointer;
+      color: white;
+      margin: 1rem;
+    }
+  }
+  .no-file-chosen {
+    font-size: 22px;
+    margin-left: 2rem;
+  }
+  .help-text {
+    font-size: 23px;
+  }
+  .submit-btn {
+    margin-bottom: 1.5rem;
+    background-color: black;
+    display: inline-block;
+    color: white !important;
+    @include label;
+    padding: 10px 15px;
+    border: none;
+
+    svg {
+      fill: white;
+      margin-left: 10px;
+    }
+  }
+  .privacy-link {
+    margin-bottom: 4rem;
+    a {
+      color: black;
+      font-weight: 600;
     }
   }
 }
-
 ////////////////////////////////////////////////////
 //
 // OUR TEAM
@@ -864,7 +879,7 @@ span.livefr {
   }
 
   .post {
-    width: calc(50% - 30px/2);
+    width: calc(50% - 30px / 2);
     margin-bottom: 30px;
 
     @media (max-width: 950px) {
@@ -882,8 +897,8 @@ span.livefr {
   }
 
   .post-container {
-    background-color: #FFFFFF;
-    box-shadow: 5px 8px 5px #E1E4E7;
+    background-color: #ffffff;
+    box-shadow: 5px 8px 5px #e1e4e7;
     border-bottom: 5px solid $primary-color;
     margin: 0 auto;
 
@@ -951,7 +966,8 @@ span.livefr {
   .author {
     font-size: 14px;
 
-    @include tablet { // This rule will limit the number of lines to 3
+    @include tablet {
+      // This rule will limit the number of lines to 3
       overflow: hidden;
       text-overflow: ellipsis;
       display: -webkit-box;
@@ -964,7 +980,8 @@ span.livefr {
     color: $icon-grey;
     font-size: 18.5px;
 
-    @include tablet { // This rule will limit the number of lines to 5
+    @include tablet {
+      // This rule will limit the number of lines to 5
       overflow: hidden;
       text-overflow: ellipsis;
       display: -webkit-box;
@@ -988,7 +1005,7 @@ span.livefr {
     padding: 0 0.4em;
   }
 
-  .pagination.active a{
+  .pagination.active a {
     background: $primary-color;
     border: 2.5px solid $primary-color;
 
@@ -1153,7 +1170,9 @@ article.post {
 
     a {
       @include label;
-      &:first-child { margin-right: 23px; }
+      &:first-child {
+        margin-right: 23px;
+      }
     }
   }
 
@@ -1196,7 +1215,7 @@ article.post {
   padding-bottom: 4rem;
   background-color: $primary-color;
 
-  &>.container {
+  & > .container {
     //little math so container width is the same as main container
     width: calc(70% + 5rem);
   }
@@ -1289,7 +1308,6 @@ article.post {
   display: none;
 }
 
-
 // TODO - update general CSS for the main content section
 // and create specialized H3's etc. where needed.
 .page-legal {
@@ -1372,33 +1390,32 @@ article.post {
     @include mobile_only {
       height: 40rem;
     }
-
   }
 }
 
- ////////////////////////////////////////////////////
+////////////////////////////////////////////////////
 //
 // PARTNERSHIPS PAGE
 //
 ////////////////////////////////////////////////////
 
-.platform-banner{
+.platform-banner {
   background-color: $dark-grey;
   background-size: cover;
   background-position: center center;
   height: 12rem;
   position: relative;
 
-   @include tablet  {
+  @include tablet {
     height: 20rem;
   }
 
-   @include desktop {
+  @include desktop {
     height: 28rem;
   }
 }
 
- .partnerships-info {
+.partnerships-info {
   margin: 6rem 0 4rem 0;
 
   h2 {
@@ -1406,41 +1423,39 @@ article.post {
   }
 }
 
- .partnership-products {
+.partnership-products {
   padding: 5rem 0;
- }
+}
 
+.border-discovery,
+.border-alpha,
+.border-beta,
+.border-live {
+  border-bottom-width: 4px;
+}
 
-  .border-discovery,
-  .border-alpha,
-  .border-beta,
-  .border-live {
-    border-bottom-width: 4px;
-  }
-
-
- .bg-dark-full {
+.bg-dark-full {
   padding: 5rem 0;
   width: 100%;
   background-color: $section-bg-grey;
   color: $white;
 
-   h2 {
+  h2 {
     color: $primary-color;
   }
 }
 
- .bg-yellow-full {
+.bg-yellow-full {
   padding-top: 5rem;
   padding-bottom: 2.5rem;
   background-color: $primary-color;
 
-   p {
-     font-weight: 900;
-     color: $black;
-    }
+  p {
+    font-weight: 900;
+    color: $black;
+  }
 
-   a {
+  a {
     padding: 10px 30px;
     border: 2.5px solid $black;
     text-decoration: none;
@@ -1448,14 +1463,14 @@ article.post {
     font-weight: 600;
     transition: all 0.3s ease-in-out;
 
-     &:hover {
+    &:hover {
       background: $black;
       color: $white;
     }
   }
 }
 
- ////////////////////////////////////////////////////
+////////////////////////////////////////////////////
 //
 // TOOLS AND RESOURCES PAGE
 //
@@ -1465,4 +1480,3 @@ article.post {
     margin-bottom: 0;
   }
 }
-
