@@ -86,5 +86,5 @@ jobs:
           aws-region: ca-central-1
       - name: Deploy and invalidate cache
         run: |
-          aws s3 sync /tmp/cds-website-dist/${{ matrix.lang }} s3://${{ matrix.bucket }} / --delete
+          aws s3 sync ~/cds-website-dist/${{ matrix.lang }} s3://${{ matrix.bucket }}/ --delete
           aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"${{ matrix.dist-id}}\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
