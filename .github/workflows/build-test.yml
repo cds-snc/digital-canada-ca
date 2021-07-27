@@ -1,0 +1,90 @@
+name: Build-Test
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Load git submodules
+      run: git submodule sync && git submodule update --init
+
+    - name: Install hugo
+      run: | 
+        wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_extended_0.55.6_Linux-64bit.tar.gz \
+        && tar -xvf hugo_extended_0.55.6_Linux-64bit.tar.gz hugo \
+        && mv  hugo /usr/local/bin \
+        && rm hugo_extended_0.55.6_Linux-64bit.tar.gz
+    - name: Build english and french sites
+      run: |
+        hugo --ignoreCache -d ~/cds-website-dist
+        chmod -R 755 ~/cds-website-dist
+
+    - name: Cache build
+      uses: actions/cache@v2
+      with:
+        path: |
+          ~/cds-website-dist
+        key: ${{ runner.os }}-${{ github.sha }}
+
+  test:
+    needs: build
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        lang: ["fr", "en"]
+    steps:
+      - name: Retrieve Cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/cds-website-dist
+          key: ${{ runner.os }}-${{ github.sha }}
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7.2
+      - name: install html proofer
+        run: gem install html-proofer
+      - name: test
+        run: |
+          htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow-hash-href --empty_alt_ignore --check-favicon --check-html --disable-external --file-ignore=/lib/,/admin/
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    needs: test
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - lang: "fr"
+            dist-id: "E36QWRCACLGK3S"
+            bucket: "cds-website-french-dist"
+          - lang: "en"
+            dist-id: "E29PLYL6H5XVXC"
+            bucket: "cds-website-english-dist"
+    steps:
+      - name: Retrieve Cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/cds-website-dist
+          key: ${{ runner.os }}-${{ github.sha }}
+      - name: Configure AWS credentials
+        id: aws-creds
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ca-central-1
+      - name: Deploy and invalidate cache
+        run: |
+          aws s3 sync /tmp/cds-website-dist/${{ matrix.lang }} s3://${{ matrix.bucket }} / --delete
+          aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"${{ matrix.dist-id}}\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
