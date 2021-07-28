@@ -640,6 +640,10 @@ span.livefr {
   }
 }
 
+.work-with-us--section {
+  padding: 3rem 0 4rem 0;
+}
+
 .work-with-us--list {
   list-style: none;
   padding: 0;
@@ -688,13 +692,6 @@ span.livefr {
   margin: 0 0 2rem;
 }
 
-.work-with-us--section {
-  .work-with-us--text {
-    padding-top: 10px;
-    padding-bottom: 30px;
-  }
-}
-
 .work-with-us--image {
   background: linear-gradient(180deg, rgba($medium-grey,1) 50%, rgb(255, 255, 255) 50%);
 
@@ -718,6 +715,10 @@ span.livefr {
     counter-increment: my-awesome-counter;
     display: flex;
     margin: 2.2rem 0;
+
+    p {
+      margin-bottom: 0;
+    }
   }
 
   &__item::before {
