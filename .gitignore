@@ -7,3 +7,6 @@ deploy.md
 Dockerfile
 backstop_data/html_report/
 bitmaps_test/
+
+# Specifically include these files
+!.devcontainer/Dockerfile

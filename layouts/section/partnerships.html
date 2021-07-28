@@ -93,13 +93,13 @@
     <div class='row equal'>
       {{ $inflight := where .Site.Pages ".Params.status" "==" "in-flight" }}
       {{ range $elem_index, $elem_val := $inflight | intersect $products }}
-      {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
-    </div>
-    <div class='row equal'>
-      {{ end }}
-      <div class='col-md-6 col-xs-12'>
-        {{ .Render "list"}}
-      </div>
+        {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+          </div>
+          <div class='row equal'>
+        {{ end }}
+        <div class='col-md-6 col-xs-12'>
+          {{ partial "partnerships_product_item" $elem_val }}
+        </div>
       {{ end }}
     </div>
   </div>
@@ -114,13 +114,13 @@
     <div class='row equal'>
       {{ $past := where .Site.Pages ".Params.status" "==" "past" }}
       {{ range $elem_index, $elem_val := $past | intersect $products }}
-      {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
-    </div>
-    <div class='row equal'>
-      {{ end }}
-      <div class='col-md-6 col-xs-12'>
-        {{ .Render "list"}}
-      </div>
+        {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+          </div>
+          <div class='row equal'>
+        {{ end }}
+        <div class='col-md-6 col-xs-12'>
+          {{ partial "partnerships_product_item" $elem_val }}
+        </div>
       {{ end }}
     </div>
   </div>
