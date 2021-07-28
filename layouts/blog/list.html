@@ -1,10 +1,7 @@
 
-<li class="post">
-    <!-- {{range $index, $page := .Site.Pages}}
-        {{if eq $page.Type "blog"}}
-            <h2>{{$page.Params.author}}</h2>
-        {{end}}
-    {{end}} -->
+
+<li class="post" id="blog-list">
+
     <div class="row post-container">
         <div class="photo-container">
             <div class="photo" role="img" aria-label='{{ index .Params "image-alt" }}'
