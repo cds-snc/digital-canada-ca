@@ -145,7 +145,8 @@ html .container {
 .term {
 	font-style:italic;
 }
-		
+
+//TODO: this overwrites the whole purpose of the col and we need to reevaluate as right now it breaks trying to use it
 .col-sm-10,
 .col-sm-offset-1 {
 	margin: 0;
