@@ -68,17 +68,17 @@ function handleSearchQuery(event) {
 
   let resultList = ''
   for (var result of results) {
-    // resultList += '<li><h2>' + result.title + '</h2>'
-    // resultList += '<p>' + result.author + '...</p></li>'
+    resultList += '<li><h2>' + result.title + '</h2>'
+    resultList += '<p>' + result.author + '...</p></li>'
     // pTag.innerHTML = result.author
   }
-  results.map((hit) => {
-    pTag.innerHTML = hit.author;
-    // resultList += '<li><h2>' + result.title + '</h2>'
-    // resultList += '<p>' + result.author + '...</p></li>'
-  })
+//   results.map((hit) => {
+//     pTag.innerHTML = hit.author;
+//     resultList += '<li><h2>' + result.title + '</h2>'
+//     resultList += '<p>' + result.author + '...</p></li>'
+//   })
 
-  // searchResults.innerHTML = resultList;
+  searchResults.innerHTML = resultList;
   // var target = document.querySelector(".main-inner");
 
   // while (target.firstChild) {
