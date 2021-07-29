@@ -740,8 +740,6 @@ span.livefr {
 }
 
 .work-with-us--apply-now {
-  width: 65%;
-  margin-left: 2.5rem;
 
   h2 {
     color: black;
@@ -776,10 +774,12 @@ span.livefr {
     background-color: black;
     margin-bottom: 2rem;
 
-    label {
+    div {
       cursor: pointer;
       color: white;
       margin: 1rem;
+      font-size: 23px;
+      font-weight: 600;
     }
   }
   .no-file-chosen {
@@ -808,18 +808,6 @@ span.livefr {
     a {
       color: black;
       font-weight: 600;
-    }
-  }
-}
-////////////////////////////////////////////////////
-//
-// OUR TEAM
-//
-////////////////////////////////////////////////////
-.our-team--listing {
-  .container {
-    @media (max-width: 1200px) {
-      width: 85%;
     }
   }
 }
