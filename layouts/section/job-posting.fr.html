@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="job-postings-container">
+<div class="container job-postings-container">
   <section>
     <section class="padding">
       <div class="row">
@@ -33,7 +33,7 @@
 
 
 <div class="hiring-process">
-  <div class="job-postings-container">
+  <div class="container job-postings-container">
 
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
@@ -67,7 +67,7 @@
   </div>
 </div>
 
-<div id="apply-now" class="row work-with-us--apply-now">
+<div id="apply-now" class="row work-with-us--apply-now container">
   {{ if .Params.leverId }}
   <div class="col-sm-10 col-sm-offset-1 col-xs-12">
     <h2>Postulez maintenant</h2>
@@ -94,12 +94,11 @@
 
       <label for="resume">CV</label>
       <div class="form-group">
-        <!-- <label for="resume">Resume</label> -->
         <div class="browse">
-          <label>Parcourir...
+          <div>Parcourir...
             <input class="resume" type="file" id="resume" name="resume"
               accept="application/msword, application/pdf, text/plain" required style="display: none;" />
-          </label>
+          </div>
 
         </div>
         <span class="no-file-chosen" id="no-file-chosen-text">Aucun fichier sélectionné</span>
