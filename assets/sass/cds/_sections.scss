@@ -770,9 +770,10 @@ span.livefr {
   }
   .browse {
     cursor: pointer;
-    display: inline-block;
+    padding: 2px;
     background-color: black;
     margin-bottom: 2rem;
+    margin-top: 1rem;
 
     div {
       cursor: pointer;
@@ -781,9 +782,17 @@ span.livefr {
       font-size: 23px;
       font-weight: 600;
     }
+
+  }
+  .resume {
+    opacity: 0;
+    width: 0.1px;
+    height: 0.1px;
+    position: absolute;
   }
   .no-file-chosen {
     font-size: 22px;
+    font-weight: 100;
     margin-left: 2rem;
   }
   .help-text {
