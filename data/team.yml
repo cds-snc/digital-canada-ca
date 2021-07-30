@@ -557,6 +557,13 @@ team:
     linkedin: melbanyard
     twitter: melbanyard
   - archived: false
+    name: Muoyo Popo
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: small_muoyo_popo_633a0e0687
+    email: muoyo.popo@tbs-sct.gc.ca
+  - archived: false
     name: Nick Makuch
     title:
       en: Design
