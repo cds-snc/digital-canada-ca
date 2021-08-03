@@ -1,0 +1,35 @@
+.button-arrow {
+	background: black;
+	display: inline-block;
+
+	@include mobile_only {
+		width: 100%;
+	}
+
+	border-radius: 0;
+	height: 48px;
+	padding-left: 3rem;
+	padding-right: 3rem;
+	margin-top: 2rem; 
+	@include label;
+
+
+	&:hover {
+		background-color: lighten(black, 15);
+	}
+	
+	a {
+		color: white !important;
+		@include label;
+		text-decoration: none;
+		padding: 10px 15px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	svg {
+		fill: white;
+		margin-left: 1rem;
+	}
+}
