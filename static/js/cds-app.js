@@ -64,6 +64,15 @@ $(document).ready(function() {
     $("#contactForm #word-count").html(wordsLeft);
   });
 
+    /**
+   * File upload
+   */
+  $("#contactForm #resume").on("change", function(event) {
+    var file = $("#contactForm #resume")[0].files[0].name;
+    $("#contactForm #no-file-chosen-text").html(file);
+
+  })
+
   /**
    * Contact Form Submit
    */
