@@ -1,18 +1,16 @@
 {{ define "main" }}   
   <div class="container section">
-    
-    <!-- {{range .Pages}}
-      {{.Title}} <br>
-    {{end}} -->
-    <ul id="results">
-      <!-- <p id="test"></p> -->
-      <li id="test"></li>
-    
-  </ul>
-    {{ partial "search.html"}}
 
+    
+      {{ partial "search.html"}}
+    
+  
+    
 
-    <ul class="blogpost-list">
+    {{partial "search_results.html"}}
+    
+
+    <ul class="blogpost-list" id="blog-list">
       {{ range .Paginator.Pages }}
         {{ .Render "list"}}
       {{ end }}

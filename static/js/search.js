@@ -16,6 +16,11 @@ async function initSearchIndex() {
       this.field("title");
       this.field("author");
       this.field("description");
+      this.field("date");
+      this.field("image");
+      this.field("image-alt");
+      this.field("translationKey");
+      this.field("thumb");
       this.ref("href");
       pagesIndex.forEach((page) => this.add(page));
     });
@@ -61,51 +66,35 @@ function handleSearchQuery(event) {
     return;
   }
   const results = searchSite(query);
-  
+  // console.log(results)
 
-  const searchResults = document.getElementById('results')
-  const pTag = document.getElementById('test');
+  document.getElementById("blog-list").classList.add("hide-element");
 
-  let resultList = ''
+  var searchResults = document.getElementById("search-result");
+  var list = document.getElementById("search-blog-list");
+  var heading = document.getElementById("title-heading");
+  var headingDiv = document.getElementById("title-div");
+
+ 
+
+  // searchResults.innerHTML = results.map((item) => {
+  //   return "<li class='post'>" + "<div class='row post-container'>" + "<div class='text-container'>"  + "<div class='text'>" + "<div class='title'>" +  "<h2>" + item.title + "</h2>" + "</div>" + "</div>" + "</div>" + "</div>" + "</li>"
+  // }).join("")
+  var target = document.getElementById('main-inner');
+  var template = document.getElementById('blog-div');
+  const imgURL = 'https://de2an9clyit2x.cloudfront.net/small_katka_pavlickova_131100_unsplash_min_3c6c37adef.jpg';
+  const img = "url(" + imgURL + ")"
   for (var result of results) {
-    resultList += '<li><h2>' + result.title + '</h2>'
-    resultList += '<p>' + result.author + '...</p></li>'
-    // pTag.innerHTML = result.author
+    console.log(result["image-alt"]["image-alt"]);
+    var element = template.content.cloneNode(true);
+    element.getElementById('title-url').href = result.href
+    element.getElementById('title-heading').textContent = result.title;
+    element.getElementById('id-photo-container').innerHTML = `<div class="photo" role="img" aria-label='${result["image-alt"]["image-alt"]}' style="background-image: url(${result.thumb})"></div>`
+
+    
+
+    target.appendChild(element)
   }
-//   results.map((hit) => {
-//     pTag.innerHTML = hit.author;
-//     resultList += '<li><h2>' + result.title + '</h2>'
-//     resultList += '<p>' + result.author + '...</p></li>'
-//   })
-
-  searchResults.innerHTML = resultList;
-  // var target = document.querySelector(".main-inner");
-
-  // while (target.firstChild) {
-  //   target.removeChild(target.firstChild);
-  // }
-
-  // var title = document.createElement("h1");
-  // title.id = "search-results";
-  // title.className = "list-title";
-
-  // if (results.length == 0) title.textContent = `No results found for “${query}”`;
-  // else if (results.length == 1)
-  //   title.textContent = `Found one result for “${query}”`;
-  // else title.textContent = `Found ${results.length} results for “${query}”`;
-  // target.appendChild(title);
-  // document.title = title.textContent;
-
-  // var template = document.getElementById("search-result");
-
-  // for (var result of results) {
-  //   var element = template.content.cloneNode(true);
-  //   element.querySelector(".summary-title").textContent = result.title;
-  //   target.appendChild(element);
-  //   console.log(result.title);
-  // }
-
-
 
   if (!results.length) {
     displayErrorMessage("Your search returned no results");
