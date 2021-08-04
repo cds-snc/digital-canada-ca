@@ -66,32 +66,24 @@ function handleSearchQuery(event) {
     return;
   }
   const results = searchSite(query);
-  // console.log(results)
+  const lang = document.querySelector('html').getAttribute('lang')
 
   document.getElementById("blog-list").classList.add("hide-element");
-
-  var searchResults = document.getElementById("search-result");
-  var list = document.getElementById("search-blog-list");
-  var heading = document.getElementById("title-heading");
-  var headingDiv = document.getElementById("title-div");
-
- 
-
-  // searchResults.innerHTML = results.map((item) => {
-  //   return "<li class='post'>" + "<div class='row post-container'>" + "<div class='text-container'>"  + "<div class='text'>" + "<div class='title'>" +  "<h2>" + item.title + "</h2>" + "</div>" + "</div>" + "</div>" + "</div>" + "</li>"
-  // }).join("")
+  
   var target = document.getElementById('main-inner');
   var template = document.getElementById('blog-div');
-  const imgURL = 'https://de2an9clyit2x.cloudfront.net/small_katka_pavlickova_131100_unsplash_min_3c6c37adef.jpg';
-  const img = "url(" + imgURL + ")"
+  
+  
   for (var result of results) {
-    console.log(result["image-alt"]["image-alt"]);
     var element = template.content.cloneNode(true);
+    console.log(result)
     element.getElementById('title-url').href = result.href
     element.getElementById('title-heading').textContent = result.title;
     element.getElementById('id-photo-container').innerHTML = `<div class="photo" role="img" aria-label='${result["image-alt"]["image-alt"]}' style="background-image: url(${result.thumb})"></div>`
-
-    
+    element.getElementById('date-container').innerHTML = formatDate(result.date, lang);
+    element.getElementById('author-container').textContent = result.author;
+    element.getElementById('summary-contaier').textContent = result.description;
+    element.getElementById('read-more-link').href = result.href
 
     target.appendChild(element)
   }
@@ -100,6 +92,46 @@ function handleSearchQuery(event) {
     displayErrorMessage("Your search returned no results");
     return;
   }
+}
+
+function formatDate(date, locale) {
+
+  const dateFormatOptions = {
+    month: 'short',
+    day: 'numeric',
+    year: 'numeric'
+  }
+  const theDate = new Date(date);
+  
+
+  const _formattedDate = theDate.toLocaleString(locale, dateFormatOptions);
+  
+  
+  const _formattedDateLong = theDate.toLocaleString(locale, {...dateFormatOptions, month: 'long'});
+  const parts = _formattedDate.split(' ');
+  const year = parts[2];
+  
+
+  if (locale === 'en') {
+    const shortMonth = parts[0].replace(/\W/g, '');
+    const longMonth = _formattedDateLong.split(' ')[0].replace(/\W/g, '');
+    const day = parts[1];
+    if (longMonth === shortMonth) {
+      return `${shortMonth}\u00a0${day}\u00a0${year}`;
+    }
+    return `${shortMonth}.\u00a0${day}\u00a0${year}`;
+  } else if (locale === 'fr') {
+    const shortMonth = parts[1].replace(/\W/g, '');
+    const longMonth = _formattedDateLong.split(' ')[1].replace(/\W/g, '');
+    const day = parts[0];
+    if (longMonth === shortMonth) {
+      return `${day}\u00a0${longMonth}\u00a0${year}`;
+    }
+    return `${day}\u00a0${longMonth}\u00a0${year}`;
+  }
+  return _formattedDate;
+
+  
 }
 
 function displayErrorMessage(message) {
