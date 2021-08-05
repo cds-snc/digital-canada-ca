@@ -1007,6 +1007,10 @@ span.livefr {
   }
 }
 
+#site-search {
+  display: flex;
+  justify-content: space-between;
+}
 
 .filteredblogpost-list {
   padding: 0;

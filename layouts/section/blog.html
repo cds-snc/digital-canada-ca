@@ -1,8 +1,13 @@
 {{ define "main" }}   
-  <div class="container section" id="main-inner">
-    {{ partial "search.html"}}
+  <div class="container section">
 
-    {{partial "search_results.html"}}
+    {{ partial "search.html"}}
+    
+
+    <ul class="filteredblogpost-list" id="search-result">
+      {{partial "search_results.html"}}
+    </ul>
+    
     
 
     <ul class="blogpost-list" id="blog-list">

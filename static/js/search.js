@@ -7,6 +7,7 @@ const MAX_SUMMARY_LENGTH = 100;
 const SENTENCE_BOUNDARY_REGEX = /\b\.\s/gm;
 const WORD_REGEX = /\b(\w*)[\W|\s|\b]?/gm;
 async function initSearchIndex() {
+  document.getElementById('search-result').classList.add("hide-element");
   try {
     const response = await fetch("/index.json");
 
@@ -55,20 +56,30 @@ document.addEventListener("DOMContentLoaded", function () {
     document
       .querySelector(".fa-search")
       .addEventListener("click", (event) => handleSearchQuery(event));
+    document
+      .querySelectorAll(".clear-search-results")
+      .forEach((button) =>
+        button.addEventListener("click", () => handleClearSearchButtonClicked())
+      )
   }
 });
 
 function handleSearchQuery(event) {
   event.preventDefault();
   const query = document.getElementById("search").value.trim().toLowerCase();
+  console.log('query is:', query);
   if (!query) {
     displayErrorMessage("Please enter a search term");
     return;
   }
   const results = searchSite(query);
+  results.sort(function(a,b){
+    return new Date(b.date) - new Date(a.date);
+  } )
   const lang = document.querySelector('html').getAttribute('lang')
 
   document.getElementById("blog-list").classList.add("hide-element");
+  document.getElementById('search-result').classList.remove("hide-element")
   
   var template = document.getElementById('blog-div');
   var searchResults = document.getElementById('search-result');
@@ -84,7 +95,7 @@ function handleSearchQuery(event) {
     element.getElementById('id-photo-container').innerHTML = `<div class="photo" role="img" aria-label='${result["image-alt"]["image-alt"]}' style="background-image: url(${result.thumb})"></div>`
     element.getElementById('date-container').innerHTML = formatDate(result.date, lang);
     element.getElementById('author-container').textContent = result.author;
-    element.getElementById('summary-contaier').textContent = result.description;
+    element.getElementById('summary-contaier').textContent = truncateString(result.description, 250);
     element.getElementById('read-more-link').href = result.href
 
     searchResults.appendChild(element)
@@ -98,6 +109,27 @@ function handleSearchQuery(event) {
     displayErrorMessage("Your search returned no results");
     return;
   }
+}
+function truncateString(str, num) {
+  if (str.length <= num) {
+    return str
+  }
+  return str.slice(0, num) + '...'
+}
+
+function clearSearchResults() {
+  const results = document.getElementById('search-result');
+  while (results.firstChild) results.removeChild(results.firstChild);
+}
+function handleClearSearchButtonClicked() {
+  hideSearchResults();
+  clearSearchResults();
+  document.getElementById("search").value = "";
+}
+
+function hideSearchResults() {
+  document.getElementById("blog-list").classList.remove("hide-element");
+  document.getElementById('search-result').classList.add("hide-element")
 }
 
 function formatDate(date, locale) {
@@ -154,6 +186,7 @@ function removeAnimation() {
 }
 
 function searchSite(query) {
+  console.log(query);
   const originalQuery = query;
   query = getLunrSearchQuery(query);
   let results = getSearchResults(query);
