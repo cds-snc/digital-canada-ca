@@ -72,11 +72,27 @@ function handleSearchQuery(event) {
   
   var target = document.getElementById('main-inner');
   var template = document.getElementById('blog-div');
-  
-  
+  var subTemp = document.getElementById('sub-temp');
+  var list = document.getElementById('search-blog-list');
+  // var searchResults = document.getElementById('search-result');
+  let searchResults = document.querySelector('#search-result');
+  var title = document.getElementById('blog-title');
+
+  // searchResults.innerHTML = results.map((item) => {
+  //     return "<li class='post'>" + "<div class='row post-container'>" + "<div class='text-container'>"  + "<div class='text'>" + "<div class='title'>" +  "<h2>" + item.title + "</h2>" + "</div>" + "</div>" + "</div>" + "</div>" + "</li>"
+
+  // }).join("")
+
+
+  // searchResults.innerHTML = results.map((item) => {
+  //   return ``
+  // })
+
+
   for (var result of results) {
     var element = template.content.cloneNode(true);
-    console.log(result)
+    
+    
     element.getElementById('title-url').href = result.href
     element.getElementById('title-heading').textContent = result.title;
     element.getElementById('id-photo-container').innerHTML = `<div class="photo" role="img" aria-label='${result["image-alt"]["image-alt"]}' style="background-image: url(${result.thumb})"></div>`
@@ -86,7 +102,12 @@ function handleSearchQuery(event) {
     element.getElementById('read-more-link').href = result.href
 
     target.appendChild(element)
+    console.log(element)
+    
   }
+  // searchResults.appendChild(target);
+  
+  
 
   if (!results.length) {
     displayErrorMessage("Your search returned no results");
