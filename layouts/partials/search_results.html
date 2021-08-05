@@ -1,27 +1,33 @@
-<template id="blog-div">
-  <ul class="blogpost-list" id="search-result">
-    <li class="post" id="search-blog-list">
-      <div class="row post-container">
-        <div class="photo-container" id="id-photo-container">
-          <div class="photo" id="id-photo-container"></div>
-        </div>
-        <div class="text-container">
-          <div class="text">
-            <div class="title" id="title-div">
-              <a id="title-url">
-                <h2 id="title-heading"></h2>
-              </a>
+<ul class="filteredblogpost-list" id="search-result">
+  <template id="blog-div">
+    
+      
+        <li class="post" id="search-blog-list">
+          <div class="row post-container">
+            <div class="photo-container" id="id-photo-container">
+              <div class="photo" id="id-photo-container"></div>
             </div>
-            <div class="date" id="date-container"></div>
-            <div class="author" id="author-container"></div>
-            <div class="summary" id="summary-contaier"></div>
-            <div class="readmore">
-              <a id="read-more-link" aria-label='"{{ i18n "read-more"}}'>{{ i18n "read-more" }}</a>
-              <i class='fas fa-arrow-circle-right'></i>
+            <div class="text-container">
+              <div class="text">
+                <div class="title" id="title-div">
+                  <a id="title-url">
+                    <h2 id="title-heading"></h2>
+                  </a>
+                </div>
+                <div class="date" id="date-container"></div>
+                <div class="author" id="author-container"></div>
+                <div class="summary" id="summary-contaier"></div>
+                <div class="readmore">
+                  <a id="read-more-link" aria-label='"{{ i18n "read-more"}}'>{{ i18n "read-more" }}</a>
+                  <i class='fas fa-arrow-circle-right'></i>
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
-    </li>
-  </ul>
-</template>
+        </li>
+      
+    
+  
+  </template>
+</ul>
+  

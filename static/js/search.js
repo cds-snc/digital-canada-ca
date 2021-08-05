@@ -70,23 +70,9 @@ function handleSearchQuery(event) {
 
   document.getElementById("blog-list").classList.add("hide-element");
   
-  var target = document.getElementById('main-inner');
   var template = document.getElementById('blog-div');
-  var subTemp = document.getElementById('sub-temp');
-  var list = document.getElementById('search-blog-list');
-  // var searchResults = document.getElementById('search-result');
-  let searchResults = document.querySelector('#search-result');
-  var title = document.getElementById('blog-title');
+  var searchResults = document.getElementById('search-result');
 
-  // searchResults.innerHTML = results.map((item) => {
-  //     return "<li class='post'>" + "<div class='row post-container'>" + "<div class='text-container'>"  + "<div class='text'>" + "<div class='title'>" +  "<h2>" + item.title + "</h2>" + "</div>" + "</div>" + "</div>" + "</div>" + "</li>"
-
-  // }).join("")
-
-
-  // searchResults.innerHTML = results.map((item) => {
-  //   return ``
-  // })
 
 
   for (var result of results) {
@@ -101,11 +87,10 @@ function handleSearchQuery(event) {
     element.getElementById('summary-contaier').textContent = result.description;
     element.getElementById('read-more-link').href = result.href
 
-    target.appendChild(element)
-    console.log(element)
+    searchResults.appendChild(element)
+    
     
   }
-  // searchResults.appendChild(target);
   
   
 
