@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", function () {
 function handleSearchQuery(event) {
   event.preventDefault();
   const query = document.getElementById("search").value.trim().toLowerCase();
-  console.log('query is:', query);
+  
   if (!query) {
     displayErrorMessage("Please enter a search term");
     return;
@@ -76,32 +76,38 @@ function handleSearchQuery(event) {
   results.sort(function(a,b){
     return new Date(b.date) - new Date(a.date);
   } )
-  const lang = document.querySelector('html').getAttribute('lang')
+
+  // console.log(results);
+  // const lang = document.querySelector('html').getAttribute('lang');
 
   document.getElementById("blog-list").classList.add("hide-element");
   document.getElementById('search-result').classList.remove("hide-element")
   
-  var template = document.getElementById('blog-div');
-  var searchResults = document.getElementById('search-result');
+  // var template = document.getElementById('blog-div');
+  // var searchResults = document.getElementById('search-result');
+
+  // searchResults.innerHTML = results.map((item) => {
+  //   return `<li class="post" id="search-blog-list"><div class="row post-container"> <div class="text-container"> <div class="text"> <h2>${item.title} </h2></div></div></div> </li>`
+  // })  
 
 
 
-  for (var result of results) {
-    var element = template.content.cloneNode(true);
+  // for (var result of results) {
+  //   var element = template.content.cloneNode(true);
     
     
-    element.getElementById('title-url').href = result.href
-    element.getElementById('title-heading').textContent = result.title;
-    element.getElementById('id-photo-container').innerHTML = `<div class="photo" role="img" aria-label='${result["image-alt"]["image-alt"]}' style="background-image: url(${result.thumb})"></div>`
-    element.getElementById('date-container').innerHTML = formatDate(result.date, lang);
-    element.getElementById('author-container').textContent = result.author;
-    element.getElementById('summary-contaier').textContent = truncateString(result.description, 250);
-    element.getElementById('read-more-link').href = result.href
+  //   element.getElementById('title-url').href = result.href
+  //   element.getElementById('title-heading').textContent = result.title;
+  //   element.getElementById('id-photo-container').innerHTML = `<div class="photo" role="img" aria-label='${result["image-alt"]["image-alt"]}' style="background-image: url(${result.thumb})"></div>`
+  //   element.getElementById('date-container').innerHTML = formatDate(result.date, lang);
+  //   element.getElementById('author-container').textContent = result.author;
+  //   element.getElementById('summary-contaier').textContent = truncateString(result.description, 250);
+  //   element.getElementById('read-more-link').href = result.href
 
-    searchResults.appendChild(element)
+  //   searchResults.appendChild(element)
     
     
-  }
+  // }
   
   
 
@@ -109,7 +115,76 @@ function handleSearchQuery(event) {
     displayErrorMessage("Your search returned no results");
     return;
   }
+
+  renderSearchResults(results);
 }
+
+function renderSearchResults(results) {
+  
+  showSearchResults(results);
+  // clearSearchResults();
+}
+
+function showSearchResults(results) {
+  var template = document.getElementById('blog-div');
+  var searchResults = document.getElementById('search-result');
+  const lang = document.querySelector('html').getAttribute('lang');
+    searchResults.innerHTML = results.map((result) => {
+      return `  
+      <li class="post" id="search-blog-list">
+      <div class="row post-container">
+        <div class="photo-container" id="id-photo-container">
+          <div class="photo" id="id-photo-container" aria-label='${result["image-alt"]}' style="background-image: url(${result.thumb})"></div>
+        </div>
+        <div class="text-container">
+          <div class="text">
+            <div class="title" id="title-div">
+              <a href='${result.href}'>
+                <h2 id="title-heading">${result.title}</h2>
+              </a>
+            </div>
+            <div class="date" id="date-container">${formatDate(result.date, lang)}</div>
+            <div class="author" id="author-container">${result.author}</div>
+            <div class="summary" id="summary-contaier">${truncateString(result.description, 250)}</div>
+            <div class="readmore">
+              <a href="${result.href}" aria-label='${getTrans(lang)}'> ${getTrans(lang)}
+                <i class='fas fa-arrow-circle-right'></i>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>`
+  }).join("");
+
+  // for (var result of results) {
+  //   var element = template.content.cloneNode(true);
+    
+    
+  //   element.getElementById('title-url').href = result.href
+  //   element.getElementById('title-heading').textContent = result.title;
+  //   element.getElementById('id-photo-container').innerHTML = `<div class="photo" role="img" aria-label='${result["image-alt"]["image-alt"]}' style="background-image: url(${result.thumb})"></div>`
+  //   element.getElementById('date-container').innerHTML = formatDate(result.date, lang);
+  //   element.getElementById('author-container').textContent = result.author;
+  //   element.getElementById('summary-contaier').textContent = truncateString(result.description, 250);
+  //   element.getElementById('read-more-link').href = result.href
+
+  //   searchResults.appendChild(element)
+    
+    
+  // }
+
+
+}
+
+function getTrans(lang){
+  if (lang === 'en') {
+    return "Read Full Post"
+  } else  {
+    return "Lire le billet"
+  }
+}
+
 function truncateString(str, num) {
   if (str.length <= num) {
     return str
@@ -120,6 +195,7 @@ function truncateString(str, num) {
 function clearSearchResults() {
   const results = document.getElementById('search-result');
   while (results.firstChild) results.removeChild(results.firstChild);
+
 }
 function handleClearSearchButtonClicked() {
   hideSearchResults();
@@ -131,6 +207,8 @@ function hideSearchResults() {
   document.getElementById("blog-list").classList.remove("hide-element");
   document.getElementById('search-result').classList.add("hide-element")
 }
+
+
 
 function formatDate(date, locale) {
 
@@ -186,7 +264,7 @@ function removeAnimation() {
 }
 
 function searchSite(query) {
-  console.log(query);
+  
   const originalQuery = query;
   query = getLunrSearchQuery(query);
   let results = getSearchResults(query);

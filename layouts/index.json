@@ -2,10 +2,11 @@
 {{- range $index, $page := .Site.Pages -}}
 
   {{- if eq $page.Type "blog" -}}
+  {{$imageAlt := index .Params "image-alt"}}
 
     {{- if gt (len $page.Content) 0 -}}
     
-      {{- $pageData := (dict "title" $page.Title  "href" $page.Permalink "author" $page.Params.author "description" $page.Params.description "date" $page.Params.date "image" $page.Params.image "image-alt" $page.Params "translationKey" $page.Params.translationKey "thumb" $page.Params.thumb) -}}
+      {{- $pageData := (dict "title" $page.Title  "href" $page.Permalink "author" $page.Params.author "description" $page.Params.description "date" $page.Params.date "image" $page.Params.image "image-alt" $imageAlt "translationKey" $page.Params.translationKey "thumb" $page.Params.thumb) -}}
       {{- $.Scratch.Add "pagesIndex" $pageData -}}
     {{- end -}}
   {{- end -}}
