@@ -4,7 +4,7 @@ type: section
 title: 'Gestionnaire principal(e) de produit - Plateformes'
 description: >-
   Nous recrutons un(e) gestionnaire produit principal(e) pour notre unité opérationnelle des plateformes.
-archived: false
+archived: true
 translationKey: sr-product-manager-notify
 leverId: f5ea171c-590f-4272-b1cc-7e56714d37fa
 ---
