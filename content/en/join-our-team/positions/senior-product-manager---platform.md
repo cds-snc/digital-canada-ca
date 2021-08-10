@@ -4,7 +4,7 @@ type: section
 title: 'Senior Product Manager - Platform'
 description: >-
   We’re hiring for a Senior Product Manager for our Platform business unit.
-archived: false
+archived: true
 translationKey: sr-product-manager-notify
 leverId: f5ea171c-590f-4272-b1cc-7e56714d37fa
 ---
