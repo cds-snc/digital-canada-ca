@@ -33,7 +33,6 @@ languages:
         - identifier: careers
           name: Careers
           url: /careers/
-          weight: 3  
           weight: 4
         - identifier: blog
           name: Blog
@@ -62,13 +61,13 @@ languages:
           name: Partenariats
           url: /partenariats/
           weight: 2
+        - identifier: outils
+          name: Outils et ressources
+          url: /outils-et-ressources/
+          weight: 3
         - identifier: carrieres
           name: Carrières
           url: /carrieres/
-          weight: 3 
-        - identifier: rencontrez-lequipe
-          name: Qui nous sommes
-          url: /rencontrez-lequipe/
           weight: 4
         - identifier: blogue
           name: Blogue
