@@ -200,6 +200,8 @@ view-product:
   other: "View this product"
 join-our-team:
   other: "Join our team"
+careers:
+  other: "Careers"  
 what-were-working-on:
   other: "What we're working on"
 partnerships:
