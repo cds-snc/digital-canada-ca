@@ -7,6 +7,8 @@ description: >-
 archived: false
 translationKey: sr-frontend-developer
 leverId: 6e9992fd-4ee4-4eee-9f62-dc7cd806528a
+aliases:
+    - /join-our-team/positions/développeur-principal-de-logiciels-frontaux/
 ---
 
 Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Nous sommes ici pour améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des citoyens au premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être sécuritaire, rapide, facile, transparente et accessible. Nous travaillons ouvertement pour aider tout le monde au sein du gouvernement à améliorer la prestation des services. Nous avons besoin de vous.
