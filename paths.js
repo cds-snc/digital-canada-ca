@@ -3,7 +3,7 @@ var pathConfig = {};
 pathConfig.array = [
   '/',
   '/meet-the-team',
-  '/parternships',
+  '/partnerships',
   '/products',
   '/careers'
 ]
