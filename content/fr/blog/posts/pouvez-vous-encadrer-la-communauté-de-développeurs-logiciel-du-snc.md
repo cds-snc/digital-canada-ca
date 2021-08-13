@@ -21,7 +21,7 @@ Le gouvernement numérique et les associations de technologie civique parlent be
 
 Comme on peut s’y attendre d’un organisme dont le nom comprend le mot « numérique », la communauté de développeurs et développeuses de logiciels joue un rôle principal dans la réalisation du mandat du SNC. Et pour remplir ce rôle avec succès, il est crucial que cette équipe fonctionne bien. À cette fin, nous sommes à la recherche d’une personne formidable qui deviendra notre chef du développement logiciel. Cette personne contribuera à faire progresser les produits du SNC et à rendre la communauté encore meilleure dans ce qu’elle fait.
 
-L’[offre d’emploi](https://numerique.canada.ca/join-our-team/positions/chef-du-développement-logiciel/) (aussi en [anglais](https://digital.canada.ca/join-our-team/positions/head-of-software-development/)) le dit bien, mais en bref, il faut que cette personne soit particulièrement compétente pour faire ce qui suit :
+L’[offre d’emploi](https://numerique.canada.ca/careers/positions/chef-du-développement-logiciel/) (aussi en [anglais](https://digital.canada.ca/careers/positions/head-of-software-development/)) le dit bien, mais en bref, il faut que cette personne soit particulièrement compétente pour faire ce qui suit :
 
 * Soutenir les membres et les aider à croître
 * Définir les responsabilités de la communauté et son mode de fonctionnement
@@ -32,5 +32,5 @@ Comme je travaille ici, je peux affirmer que ce ne sera pas une mince tâche. Le
 
 Le SNC a le potentiel d’aider à fournir des services essentiels utilisés chaque jour par des millions de Canadiennes et de Canadiens. Même si beaucoup de travail difficile nous attend, créer des équipes et des produits pour les gens qui en ont besoin est profondément gratifiant.
 
-Êtes-vous la bonne personne? [Postulez maintenant](https://numerique.canada.ca/join-our-team/positions/chef-du-d%C3%A9veloppement-logiciel/).
+Êtes-vous la bonne personne? [Postulez maintenant](https://numerique.canada.ca/careers/positions/chef-du-d%C3%A9veloppement-logiciel/).
 

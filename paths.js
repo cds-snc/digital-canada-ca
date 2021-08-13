@@ -3,9 +3,10 @@ var pathConfig = {};
 pathConfig.array = [
   '/',
   '/meet-the-team',
-  '/join-our-team',
-  '/parternships',
-  '/products'
+  '/partnerships',
+  '/products',
+  '/careers',
+  '/join-our-team'
 ]
 
 module.exports = pathConfig;
