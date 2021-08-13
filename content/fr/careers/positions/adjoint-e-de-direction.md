@@ -7,6 +7,8 @@ description: >-
 archived: false
 translationKey: executive-assistant-cos
 leverId: de6ae5bc-d267-4539-89b4-c4d1497ccbf0
+aliases:
+    - /join-our-team/positions/adjoint-e-de-direction/
 ---
 
 Le Service numérique canadien (SNC) est chargé de changer la façon dont le gouvernement fédéral conçoit et fournit les services numériques, afin de réduire les risques d’échec des produits, de réduire les coûts, de garantir la confidentialité des utilisateurs et la sécurité des systèmes, et surtout, d’améliorer la vie des gens en appelant l’attention sur leurs besoins et préoccupations. Selon nous, chaque expérience vécue par les Canadiennes et Canadiens lorsqu’ils interagissent avec le gouvernement devrait répondre ou dépasser leurs attentes modernes et valables voulant que les services numériques soient sûrs, rapides, faciles, transparents et accessibles. Nous travaillons ouvertement, renforçant ainsi les capacités dans tout le gouvernement pour améliorer la prestation de services. Et nous avons besoin de vous.
