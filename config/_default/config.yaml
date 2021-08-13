@@ -30,9 +30,9 @@ languages:
           name: Tools and resources
           url: /tools-and-resources/
           weight: 3
-        - identifier: meet-the-team
-          name: Who we are
-          url: /meet-the-team/
+        - identifier: careers
+          name: Careers
+          url: /careers/
           weight: 4
         - identifier: blog
           name: Blog
@@ -65,9 +65,9 @@ languages:
           name: Outils et ressources
           url: /outils-et-ressources/
           weight: 3
-        - identifier: rencontrez-lequipe
-          name: Qui nous sommes
-          url: /rencontrez-lequipe/
+        - identifier: carrieres
+          name: Carrières
+          url: /carrieres/
           weight: 4
         - identifier: blogue
           name: Blogue

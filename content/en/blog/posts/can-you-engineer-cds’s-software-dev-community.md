@@ -20,7 +20,7 @@ The digital government and civic tech communities talk a lot about how to make g
 
 As you might expect from an organization with “digital” in its name, the Software Development Community plays a key role in helping CDS deliver on its mandate and to do this successfully, it’s critical that this team works well. To that end, we’re looking for a great person to be our Head of Software Development to help advance work on CDS products and make this community even better at what they do.
 
-The [job posting](https://digital.canada.ca/join-our-team/positions/head-of-software-development/) (also in [French](https://numerique.canada.ca/join-our-team/positions/chef-du-d%C3%A9veloppement-logiciel/)) says it best, but in short, we need this person to be amazing at:
+The [job posting](https://digital.canada.ca/careers/positions/head-of-software-development/) (also in [French](https://numerique.canada.ca/careers/positions/chef-du-d%C3%A9veloppement-logiciel/)) says it best, but in short, we need this person to be amazing at:
 
 * Supporting people and helping them grow
 * Defining what the community owns and how it operates
@@ -31,5 +31,5 @@ As someone working here, I can say that this is not going to be an easy job. CDS
 
 This is an organization that has the potential to help deliver critical services that millions of Canadians use and need every day. While there is a lot of challenging work ahead of us, it’s also deeply fulfilling to create teams and products that help people in need.
 
-Is that you? [Apply now](https://digital.canada.ca/join-our-team/positions/head-of-software-development/).
+Is that you? [Apply now](https://digital.canada.ca/careers/positions/head-of-software-development/).
 

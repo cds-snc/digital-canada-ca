@@ -61,7 +61,7 @@ In addition to providing people with the tactical information they need before t
 
 ## Learning lots
 
-We’re only a couple of months into this program. Since our Talent team is always trying to improve employee experience, we’ve been regularly soliciting feedback from new hires. The feedback we get helps us as we onboard our [growing team](https://digital.canada.ca/join-our-team/).
+We’re only a couple of months into this program. Since our Talent team is always trying to improve employee experience, we’ve been regularly soliciting feedback from new hires. The feedback we get helps us as we onboard our [growing team](https://digital.canada.ca/careers/).
 
 So far, it’s been very positive. People tell us that the orientation sessions have given them a space to ask questions, meet managers, and make new friends. Now at our all-team meetings, people recognize more faces on their screen. That’s music to our ears! In our current fully virtual work environment, we want to keep our new employees connected and make sure they feel welcome!
 
