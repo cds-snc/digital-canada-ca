@@ -7,8 +7,6 @@ description: >-
 archived: false
 translationKey: technical-support-dev
 leverId: 2bf581e6-d1cb-4cbf-aca9-6e91c5eb13f1
-aliases:
-    - /join-our-team/positions/technical-support-developer/
 ---
 
 The Canadian Digital Service (CDS) is tasked with changing how the federal government designs and delivers digital services, to reduce the risk of product failure, lower costs, ensure user privacy and system security, and, above all, improves people’s lives by putting their needs and concerns front and center. We believe every experience Canadians have with their government should meet or exceed their reasonable modern expectations that digital services be safe, fast, easy, transparent, and accessible. Working in the open, we’re building capacity across the government for better service delivery. And we need you.
