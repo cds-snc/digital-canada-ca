@@ -4,11 +4,9 @@ type: section
 title: 'Traducteur/traductrice - Coordonnateur/Coordonnatrice de contenu'
 description: >-
   Le rôle de traducteur ou de traductrice est essentiel afin de nous assurer de respecter notre mandat dans les deux langues officielles et de contribuer à l’amélioration continue de notre équipe, ainsi que du contenu et des normes bilingues à l’échelle de l’organisation.
-archived: false
+archived: true
 translationKey: translate-content-coordinator
 leverId: 74410168-af05-42dc-af82-d413c73ba970
-aliases:
-    - /join-our-team/positions/traducteur-traductrice-coordonnateur-coordonnatrice-de-contenu/
 ---
 
 Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Nous sommes ici pour améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des citoyens au premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être sécuritaire, rapide, facile, transparente et accessible. Nous travaillons ouvertement pour aider tout le monde au sein du gouvernement à améliorer la prestation des services. Nous avons besoin de vous.
