@@ -77,37 +77,10 @@ function handleSearchQuery(event) {
     return new Date(b.date) - new Date(a.date);
   } )
 
-  // console.log(results);
-  // const lang = document.querySelector('html').getAttribute('lang');
 
   document.getElementById("blog-list").classList.add("hide-element");
   document.getElementById('search-result').classList.remove("hide-element")
   
-  // var template = document.getElementById('blog-div');
-  // var searchResults = document.getElementById('search-result');
-
-  // searchResults.innerHTML = results.map((item) => {
-  //   return `<li class="post" id="search-blog-list"><div class="row post-container"> <div class="text-container"> <div class="text"> <h2>${item.title} </h2></div></div></div> </li>`
-  // })  
-
-
-
-  // for (var result of results) {
-  //   var element = template.content.cloneNode(true);
-    
-    
-  //   element.getElementById('title-url').href = result.href
-  //   element.getElementById('title-heading').textContent = result.title;
-  //   element.getElementById('id-photo-container').innerHTML = `<div class="photo" role="img" aria-label='${result["image-alt"]["image-alt"]}' style="background-image: url(${result.thumb})"></div>`
-  //   element.getElementById('date-container').innerHTML = formatDate(result.date, lang);
-  //   element.getElementById('author-container').textContent = result.author;
-  //   element.getElementById('summary-contaier').textContent = truncateString(result.description, 250);
-  //   element.getElementById('read-more-link').href = result.href
-
-  //   searchResults.appendChild(element)
-    
-    
-  // }
   
   
 
@@ -156,23 +129,6 @@ function showSearchResults(results) {
       </div>
     </li>`
   }).join("");
-
-  // for (var result of results) {
-  //   var element = template.content.cloneNode(true);
-    
-    
-  //   element.getElementById('title-url').href = result.href
-  //   element.getElementById('title-heading').textContent = result.title;
-  //   element.getElementById('id-photo-container').innerHTML = `<div class="photo" role="img" aria-label='${result["image-alt"]["image-alt"]}' style="background-image: url(${result.thumb})"></div>`
-  //   element.getElementById('date-container').innerHTML = formatDate(result.date, lang);
-  //   element.getElementById('author-container').textContent = result.author;
-  //   element.getElementById('summary-contaier').textContent = truncateString(result.description, 250);
-  //   element.getElementById('read-more-link').href = result.href
-
-  //   searchResults.appendChild(element)
-    
-    
-  // }
 
 
 }
