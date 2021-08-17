@@ -13,14 +13,14 @@ Le Service numérique canadien (SNC) change la façon dont le gouvernement féd�
 
 Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) développeur de soutien. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que celles mentionnées.
 
-Nous sommes une organisation matricielle comptant des communautés de pratique qui engagent des gens dans toutes nos unités opérationnelles. Ces unités comprennent les partenariats, pour faire des consultations sur le terrain avec d’autres ministères, et les plateformes, servant à créer et à exploiter des services de logiciels réutilisables. Ce poste fait partie de la collectivité du développement de logiciels et relève du Chef du développement de logiciels, qui affecte des personnes aux projets en fonction des besoins organisationnels et des plans de croissance personnelle. Vos activités quotidiennes vont varier en fonction de l’unité opérationnelle à laquelle vous êtes affecté et, au fil du temps, de la nature évolutive de votre travail au SNC. Par exemple, certains jours nécessiteront un encadrement plus stratégique plutôt qu’un codage pratique.
+
+Ce poste relève du Responsable de l'infrastructure, de la sécurité et du support.  Ce rôle fait partie de l'équipe plateformes, une équipe servant à créer et à exploiter des services de logiciels réutilisables. Vos activités quotidiennes vont varier en fonction de l’unité opérationnelle à laquelle vous êtes affecté et, au fil du temps, de la nature évolutive de votre travail au SNC. Par exemple, certains jours nécessiteront un encadrement plus stratégique plutôt qu’un codage pratique. Le poste nécessitera un mélange d'excellence technique, de solides compétences en communication, de service à la clientèle et de connaissances des processus de gestion des services informatiques. 
 
 Les développeurs de soutien sont classés [CS-02 ou CS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=1#toc12259212260/) dans le groupe des Systèmes d’ordinateurs.
 
 ## Vous devrez accomplir les tâches suivantes :
 
 1. Analyser et résoudre les incidents et les problèmes de soutien technique complexes relatifs à nos divers produits de plateforme pour nos clients.
-   * Répondre aux demandes de renseignements reçues par voie de billets, de courriels et d’autres canaux.
    * Répondre aux demandes de renseignements, traiter les problèmes ou les transmettre à un échelon supérieur.
    * Résoudre et diagnostiquer les problèmes, analyser les causes fondamentales et générer des plans d’action en conséquence.
    * Travailler de manière interfonctionnelle pour résoudre les problèmes et offrir une assistance aux clients.
@@ -35,6 +35,7 @@ Les développeurs de soutien sont classés [CS-02 ou CS-03](https://www.tbs-sct.
 
 * Capacité à travailler en contact direct avec les clients, solides compétences en communication écrite et orale, capacité à écouter, à faire preuve d’empathie et à converser avec des parties prenantes internes ou externes et techniques ou non techniques
 * Connaissance approfondie et expérience pratique des technologies AWS et API
+* Expérience en création de scripts ou logiciel en n'importe quel language de code
 * Expérience des principes de sécurité
 * Capacité de cerner les besoins des utilisateurs et les besoins opérationnels, de même que les goulets d’étranglement opérationnels
 * Capacité de travailler dans des environnements multi-intervenants hautement variables
