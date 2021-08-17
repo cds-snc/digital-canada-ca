@@ -13,6 +13,8 @@ async function initSearchIndex() {
 
     pagesIndex = await response.json();
 
+    console.log('response', pagesIndex);
+
     searchIndex = lunr(function () {
       this.field("title");
       this.field("author");
@@ -94,7 +96,7 @@ function handleSearchQuery(event) {
 
 function renderSearchResults(results) {
   
-  showSearchResults(results);
+  // showSearchResults(results);
   // clearSearchResults();
 }
 
@@ -224,6 +226,7 @@ function searchSite(query) {
   const originalQuery = query;
   query = getLunrSearchQuery(query);
   let results = getSearchResults(query);
+  console.log('results', results);
 
   return results.length
     ? results
