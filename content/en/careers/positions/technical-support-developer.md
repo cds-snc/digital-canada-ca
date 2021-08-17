@@ -13,14 +13,13 @@ The Canadian Digital Service (CDS) is tasked with changing how the federal gover
 
 We’re hiring a Technical Support Developer. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
 
-This position is part of the Software Development Community and reports to the Head of Software Development. This role in our Platform team is at the centre of the customer experience for CDS. We strive in providing the highest quality support and service to our valued customers. The role will require a mix of technical excellence, strong communication, customer service skills and IT service management process knowledge.
+This position is reports to the Head of SRE, Security and Support. This role in our Platform team is at the centre of the customer experience for CDS. We strive in providing the highest quality support and service to our valued customers. The role will require a mix of technical excellence, strong communication, customer service skills and IT service management process knowledge.
 
 Support Developers are classified as [CS-02 or CS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260/) in the Computer Systems group.
 
 ## You’ll need to accomplish the following things:
 
 1. Analyze and troubleshoot complex technical support incidents and problems for our clients across our various platform products
-   * Respond to inquiries via tickets, emails, and other channels
    * Take ownership of responding to inquiries, issues, and escalations
    * Perform problem-solving, diagnosing, root cause analysis, and generate corrective action plans for issues
    * Work cross-functionally to resolve issues and provide customer care
@@ -35,6 +34,7 @@ Support Developers are classified as [CS-02 or CS-03](https://www.tbs-sct.gc.ca/
 
 * Ability to work in a customer facing role, with strong written and verbal communication skills, with the ability to listen, show empathy and also be able to converse with both internal and external technical and non-technical stakeholders
 * A deep understanding and hands-on experience of AWS and API technologies
+* Experience writing software or scripts in any coding language
 * Experience with security principles
 * Discovering user/business needs and operational bottlenecks
 * Working in highly variable, multi-stakeholder environments
