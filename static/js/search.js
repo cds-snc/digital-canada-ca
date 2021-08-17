@@ -37,9 +37,6 @@ document.addEventListener("DOMContentLoaded", function () {
       if (event.keyCode == 13) handleSearchQuery(event);
     });
     document
-      .querySelector(".search-error")
-      .addEventListener("animationend", removeAnimation);
-    document
       .querySelector(".fa-search")
       .addEventListener("click", (event) => handleSearchQuery(event));
     document
@@ -64,8 +61,6 @@ function handleSearchQuery(event) {
   } )
 
 
-  // document.getElementById("blog-list").classList.add("hide-element");
-  // document.getElementById('search-result').classList.remove("hide-element")
   
   
   
