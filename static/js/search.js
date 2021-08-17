@@ -7,48 +7,32 @@ const MAX_SUMMARY_LENGTH = 100;
 const SENTENCE_BOUNDARY_REGEX = /\b\.\s/gm;
 const WORD_REGEX = /\b(\w*)[\W|\s|\b]?/gm;
 async function initSearchIndex() {
-  document.getElementById('search-result').classList.add("hide-element");
+  
   try {
     const response = await fetch("/index.json");
 
     pagesIndex = await response.json();
 
-    console.log('response', pagesIndex);
+    // console.log('response', pagesIndex);
 
     searchIndex = lunr(function () {
       this.field("title");
-      this.field("author");
       this.field("description");
-      this.field("date");
-      this.field("image");
-      this.field("image-alt");
-      this.field("translationKey");
-      this.field("thumb");
       this.ref("href");
       pagesIndex.forEach((page) => this.add(page));
     });
+    
   } catch (e) {
     console.log(e);
   }
 }
 
-function searchBoxFocused() {
-  document.querySelector(".search-container").classList.add("focused");
-  document
-    .getElementById("search")
-    .addEventListener("focusout", () => searchBoxFocusOut());
-}
-
-function searchBoxFocusOut() {
-  document.querySelector(".search-container").classList.remove("focused");
-}
 
 initSearchIndex();
 
 document.addEventListener("DOMContentLoaded", function () {
   if (document.getElementById("search-form") != null) {
     const searchInput = document.getElementById("search");
-    searchInput.addEventListener("focus", () => searchBoxFocused());
     searchInput.addEventListener("keydown", (event) => {
       if (event.keyCode == 13) handleSearchQuery(event);
     });
@@ -80,8 +64,8 @@ function handleSearchQuery(event) {
   } )
 
 
-  document.getElementById("blog-list").classList.add("hide-element");
-  document.getElementById('search-result').classList.remove("hide-element")
+  // document.getElementById("blog-list").classList.add("hide-element");
+  // document.getElementById('search-result').classList.remove("hide-element")
   
   
   
@@ -90,65 +74,9 @@ function handleSearchQuery(event) {
     displayErrorMessage("Your search returned no results");
     return;
   }
-
-  renderSearchResults(results);
 }
 
-function renderSearchResults(results) {
-  
-  // showSearchResults(results);
-  // clearSearchResults();
-}
 
-function showSearchResults(results) {
-  var template = document.getElementById('blog-div');
-  var searchResults = document.getElementById('search-result');
-  const lang = document.querySelector('html').getAttribute('lang');
-    searchResults.innerHTML = results.map((result) => {
-      return `  
-      <li class="post" id="search-blog-list">
-      <div class="row post-container">
-        <div class="photo-container" id="id-photo-container">
-          <div class="photo" id="id-photo-container" aria-label='${result["image-alt"]}' style="background-image: url(${result.thumb})"></div>
-        </div>
-        <div class="text-container">
-          <div class="text">
-            <div class="title" id="title-div">
-              <a href='${result.href}'>
-                <h2 id="title-heading">${result.title}</h2>
-              </a>
-            </div>
-            <div class="date" id="date-container">${formatDate(result.date, lang)}</div>
-            <div class="author" id="author-container">${result.author}</div>
-            <div class="summary" id="summary-contaier">${truncateString(result.description, 250)}</div>
-            <div class="readmore">
-              <a href="${result.href}" aria-label='${getTrans(lang)}'> ${getTrans(lang)}
-                <i class='fas fa-arrow-circle-right'></i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </li>`
-  }).join("");
-
-
-}
-
-function getTrans(lang){
-  if (lang === 'en') {
-    return "Read Full Post"
-  } else  {
-    return "Lire le billet"
-  }
-}
-
-function truncateString(str, num) {
-  if (str.length <= num) {
-    return str
-  }
-  return str.slice(0, num) + '...'
-}
 
 function clearSearchResults() {
   const results = document.getElementById('search-result');
@@ -156,57 +84,13 @@ function clearSearchResults() {
 
 }
 function handleClearSearchButtonClicked() {
-  hideSearchResults();
   clearSearchResults();
   document.getElementById("search").value = "";
 }
 
-function hideSearchResults() {
-  document.getElementById("blog-list").classList.remove("hide-element");
-  document.getElementById('search-result').classList.add("hide-element")
-}
 
 
 
-function formatDate(date, locale) {
-
-  const dateFormatOptions = {
-    month: 'short',
-    day: 'numeric',
-    year: 'numeric'
-  }
-  const theDate = new Date(date);
-  
-
-  const _formattedDate = theDate.toLocaleString(locale, dateFormatOptions);
-  
-  
-  const _formattedDateLong = theDate.toLocaleString(locale, {...dateFormatOptions, month: 'long'});
-  const parts = _formattedDate.split(' ');
-  const year = parts[2];
-  
-
-  if (locale === 'en') {
-    const shortMonth = parts[0].replace(/\W/g, '');
-    const longMonth = _formattedDateLong.split(' ')[0].replace(/\W/g, '');
-    const day = parts[1];
-    if (longMonth === shortMonth) {
-      return `${shortMonth}\u00a0${day}\u00a0${year}`;
-    }
-    return `${shortMonth}.\u00a0${day}\u00a0${year}`;
-  } else if (locale === 'fr') {
-    const shortMonth = parts[1].replace(/\W/g, '');
-    const longMonth = _formattedDateLong.split(' ')[1].replace(/\W/g, '');
-    const day = parts[0];
-    if (longMonth === shortMonth) {
-      return `${day}\u00a0${longMonth}\u00a0${year}`;
-    }
-    return `${day}\u00a0${longMonth}\u00a0${year}`;
-  }
-  return _formattedDate;
-
-  
-}
 
 function displayErrorMessage(message) {
   document.querySelector(".search-error-message").innerHTML = message;
@@ -215,11 +99,7 @@ function displayErrorMessage(message) {
   document.querySelector(".search-error").classList.add("fade");
 }
 
-function removeAnimation() {
-  this.classList.remove("fade");
-  this.classList.add("hide-element");
-  document.querySelector(".search-container").classList.add("focused");
-}
+
 
 function searchSite(query) {
   
