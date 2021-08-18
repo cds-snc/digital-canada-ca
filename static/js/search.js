@@ -22,9 +22,9 @@ async function initSearchIndex() {
   } catch (e) {
     console.log(e);
   }
-  // var searchTerm = getQueryVariable("q")
-  // let results = searchIndex.search(searchTerm);
-  // console.log('results', results)
+  var searchTerm = getQueryVariable("q")
+  let results = searchIndex.search(searchTerm);
+  console.log('results', results)
   
 }
 
