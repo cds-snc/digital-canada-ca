@@ -28,7 +28,11 @@
                 </li>
               {{end}}
             </ul>
-            {{ partial "search.html"}}
+            <!-- {{ partial "search.html"}} -->
+            <form action="/search/" method="GET">
+              <input required type="search" name="q"/>
+              <button type="submit">Search</button>
+          </form>
           </div>
           <button class="main-nav-button" id="js-mainNavButton">
             <span class="main-nav-button--text">Menu</span>
