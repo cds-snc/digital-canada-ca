@@ -1,12 +1,13 @@
 
 let pagesIndex, searchIndex;
+const searchResults = document.getElementById("site-results");
 async function initSearchIndex() {
   
   try {
     const response = await fetch("/index.json");
 
     pagesIndex = await response.json();
-    console.log(pagesIndex);
+    
     
 
     searchIndex = lunr(function () {
@@ -25,12 +26,26 @@ async function initSearchIndex() {
   var searchTerm = getQueryVariable("q")
   let results = searchIndex.search(searchTerm);
   console.log('results', results)
+  searchResults.innerHTML = results.map((result) => {
+    return `
+    <li>
+      <p><a href='${result.href}'>${result.title}</a></p>
+      <p>${result.description}</p>
+    </li>`
+    
+  }).join("");
+
   
 }
 
 
 
+
+
 initSearchIndex();
+
+// console.log('search', searchIndex)
+// console.log('pages', pagesIndex)
 
 function getQueryVariable(variable) {
   var query = window.location.search.substring(1);
@@ -43,6 +58,39 @@ function getQueryVariable(variable) {
   }
 }
 
+// function searchSite(query) {
+
+//   const originalQuery = query;
+//   query = getLunrSearchQuery(query);
+//   let results = getSearchResults(query);
+
+//   return results.length
+//     ? results
+//     : query !== originalQuery
+//     ? getSearchResults(originalQuery)
+//     : [];
+// }
+
+// function getSearchResults(indexSearch, query) {
+//   return indexSearch.search(query).flatMap((hit) => {
+//     if (hit.ref == "undefined") return [];
+//     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
+//     pageMatch.score = hit.score;
+//     return [pageMatch];
+//   });
+// }
+
+// function getLunrSearchQuery(query) {
+//   const searchTerms = query.split(" ");
+//   if (searchTerms.length === 1) {
+//     return query;
+//   }
+//   query = "";
+//   for (const term of searchTerms) {
+//     query += `+${term} `;
+//   }
+//   return query.trim();
+// }
 
 // var resultPages = results.map(function (match) {
 //   return pages[match.ref];
@@ -56,7 +104,7 @@ function getQueryVariable(variable) {
 //   event.preventDefault();
 //   const query = document.getElementById("search").value.trim().toLowerCase();
   
-//   const searchResults = document.getElementById("site-results");
+//   
 //   console.log("query", getQueryVariable("q"));
 //   if (!query) {
 //     displayErrorMessage("Please enter a search term");
@@ -64,14 +112,14 @@ function getQueryVariable(variable) {
 //   }
 //   const results = searchSite(query);
 
-//   searchResults.innerHTML = results.map((result) => {
-//     return `
-//     <li>
-//       <p><a href='${result.href}'>${result.title}</a></p>
-//       <p>${result.description}</p>
-//     </li>`
+  // searchResults.innerHTML = results.map((result) => {
+  //   return `
+  //   <li>
+  //     <p><a href='${result.href}'>${result.title}</a></p>
+  //     <p>${result.description}</p>
+  //   </li>`
     
-//   }).join("");
+  // }).join("");
 
   
 //   // window.location.href = "/search/"
