@@ -304,6 +304,14 @@ team:
     email: Courtney.Claessens@tbs-sct.gc.ca
     linkedin: courtneyclaessens
   - archived: false
+    name: Daine Trinidad
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_daine_trinidad_c24e142482
+    github: daine
+    linkedin: daine
+  - archived: false
     name: Dan Sinclair
     title:
       en: Development
