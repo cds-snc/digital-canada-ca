@@ -1,3 +1,3 @@
 ---
-title: Search Results
+title: Site Search Results
 ---

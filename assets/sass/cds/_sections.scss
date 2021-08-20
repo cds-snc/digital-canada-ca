@@ -1607,3 +1607,23 @@ article.post {
     margin-bottom: 0;
   }
 }
+
+////////////////////////////////////////////////////
+//
+// Site Wide Search
+//
+////////////////////////////////////////////////////
+
+#site-results {
+  li {
+    list-style: none;
+    background: $medium-grey;
+  }
+
+
+  
+
+}
+.rendered-list{
+  margin-bottom: 1rem;
+}
