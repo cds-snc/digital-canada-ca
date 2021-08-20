@@ -7,6 +7,6 @@ phase: alpha
 status: in-flight
 onhomepage: false
 contact:
-  - email: julie-ann.rowsell@tbs-sct.gc.ca
-    name: Julianna Rowsell
+  - email: CDS-SNC@tbs-sct.gc.ca
+    name: CDS-SNC@tbs-sct.gc.ca
 ---
