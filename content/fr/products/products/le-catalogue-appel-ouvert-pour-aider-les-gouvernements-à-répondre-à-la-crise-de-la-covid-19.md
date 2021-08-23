@@ -5,7 +5,7 @@ description: >-
   Appel ouvert est un catalogue d’outils à code source libre gratuits dont peuvent se servir les administrations publiques pour aider les personnes pendant la pandémie de la COVID-19.
 product-url: https://opencall-appelouvert.alpha.canada.ca/fr/#/
 phase: alpha
-status: in-flight
+status: past
 onhomepage: true
 contact:
   - email: honey.dacanay@da-an.ca
