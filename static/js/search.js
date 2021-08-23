@@ -27,12 +27,7 @@ async function initSearchIndex() {
       this.ref("href");
       pagesIndex.forEach((page) => this.add(page));
     });
-
-    
-
-    
-
-    
+ 
   } catch (e) {
     console.log(e);
   }
@@ -40,48 +35,52 @@ async function initSearchIndex() {
 
   
   results = searchSite(searchTerm)
-  console.log(results)
 
-  renderSearchResults(results, searchResults, rows, current_page);
-  // renderSearchResult(results, current_page);
-  // renderPagination(results);
-  renderPagination(results, pagination_element, rows)
+  // renderSearchResults(results, searchResults, rows, current_page);
+  renderSearchResult(results);
+  renderPagination(results);
+  console.log('results', results);
+  // renderPagination(results, pagination_element, rows)
 
   resultNumber.innerHTML = `Showing ${results.length} results`
 }
 
 initSearchIndex();
 
-// function renderSearchResult(items, page) {
-//   page--;
+function renderSearchResult(items) {
+  let page =  current_page;
+  page--;
 
-//   let start = rows * page;
-//   let end = start * rows;
-//   let paginatedItems = items.slice(start, end);
-//   let resultList = '';
+  let start = rows * page;
+  let end = start + rows;
+  let paginatedItems = items.slice(start, end);
+  let resultList = '';
+  
 
-//   for (let i = 0; i < paginatedItems.length; i++) {
-//     resultList += `<li>
-//     <div class="rendered-list">
-//       <div><a href='${paginatedItems[i].href}'>${paginatedItems[i].title}</a></div>
-//       <div>${paginatedItems[i].description}</div>
-//       <div>${paginatedItems[i].type}</div> 
-//     </div>
-//   </li>`
-//   }
+  for (let i = 0; i < paginatedItems.length; i++) {
+    resultList += `<li>
+    <div class="rendered-list">
+      <div><a href='${paginatedItems[i].href}'>${paginatedItems[i].title}</a></div>
+      <div>${paginatedItems[i].description}</div>
+      <div>${paginatedItems[i].type}</div> 
+    </div>
+  </li>`
+  }
 
-//   searchResults.innerHTML = resultList
+  searchResults.innerHTML = resultList
 
-// }
+}
 
 // function renderSearchResults (items, wrapper, rows_per_page, page) {
 //   wrapper.innerHTML = "";
 // 	page--;
+  
 
 //   let start = rows_per_page * page;
 // 	let end = start + rows_per_page;
 // 	let paginatedItems = items.slice(start, end);
 //   let resultList = '';
+//   console.log('end', end);
 
 //   for (let i = 0; i < paginatedItems.length; i++) {
 //     resultList += `<li>
@@ -98,28 +97,28 @@ initSearchIndex();
 //   // document.location = document.location.search + `#/page/${page + 1}`
 // }
 
-// function renderPagination(items) {
-//   let page_count = Math.ceil(items.length / rows);
-//   for (let i = 1; i < page_count + 1; i++) {
-//     let btn = createPaginationButtons(i, items);
-//     pagination_element.appendChild(btn);
-//   }
+function renderPagination(items) {
+  let page_count = Math.ceil(items.length / rows);
+  for (let i = 1; i < page_count + 1; i++) {
+    let btn = createPaginationButtons(i, items);
+    pagination_element.appendChild(btn);
+  }
 
-// }
-
-function renderPagination (items, wrapper, rows_per_page) {
-	wrapper.innerHTML = "";
-
-	let page_count = Math.ceil(items.length / rows_per_page);
-	for (let i = 1; i < page_count + 1; i++) {
-		let btn = createPaginationButtons(i, items);
-		wrapper.appendChild(btn);
-	}
 }
+
+// function renderPagination (items, wrapper, rows_per_page) {
+// 	wrapper.innerHTML = "";
+
+// 	let page_count = Math.ceil(items.length / rows_per_page);
+// 	for (let i = 1; i < page_count + 1; i++) {
+// 		let btn = createPaginationButtons(i, items);
+// 		wrapper.appendChild(btn);
+// 	}
+// }
 
 function createPaginationButtons (page, items) {
 	let button = document.createElement('button');
-  // console.log('page', page);
+  
   
 	button.innerText = page;
 
@@ -127,8 +126,7 @@ function createPaginationButtons (page, items) {
 
 	button.addEventListener('click', function () {
 		current_page = page;
-		renderSearchResults(items, searchResults, rows, current_page);
-    // renderSearchResult(items, page);
+    renderSearchResult(items);
 
 		let current_btn = document.querySelector('.pagenumbers button.active');
 		current_btn.classList.remove('active');
@@ -192,30 +190,29 @@ function sortedResult() {
   })
   return sorted;
 }
+
+function sortByHitScore() {
+  const sortScore = results.sort(function(a, b){
+    return b.score - a.score
+  })
+  return sortScore
+}
+
 function dropdownClicked() {
   document.getElementById("myDropdown").classList.toggle("show");
-  let resultList = '';
+  
   // let paginatedItems = results.slice(start, end);
   //if most recent clicked, change text, else other one
   // add event listener
   relevantBtn.addEventListener('click', function () {
-    console.log(relevantBtn.innerText);
+    dropdownBtn.innerText = relevantBtn.innerText;
+    
+    renderSearchResult(sortByHitScore());
   })
 
   recentBtn.addEventListener('click', function() {
     dropdownBtn.innerText = recentBtn.innerText
-    for (let i = 0; i < sortedResult().length; i++) {
-      resultList += `<li>
-      <div class="rendered-list">
-        <div><a href='${sortedResult()[i].href}'>${sortedResult()[i].title}</a></div>
-        <div>${sortedResult()[i].description}</div>
-        <div>${sortedResult()[i].type}</div> 
-        <div>${sortedResult()[i].date}</div> 
-      </div>
-    </li>`
-    }
-
-    searchResults.innerHTML = resultList
+    renderSearchResult(sortedResult());
   })
 }
 
