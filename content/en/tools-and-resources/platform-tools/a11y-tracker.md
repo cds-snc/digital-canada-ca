@@ -8,6 +8,6 @@ phase: alpha
 status: in-flight
 onhomepage: false
 contact:
-  - email: julie-ann.rowsell@tbs-sct.gc.ca
-    name: Julianna Rowsell
+  - email: CDSPlatform.PlateformesSNC@tbs-sct.gc.ca
+    name: The Platform Team
 ---
