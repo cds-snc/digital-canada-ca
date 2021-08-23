@@ -1,7 +1,20 @@
 {{ define "main" }}
 
 <div class="container">
-    <span id="results-number"></span>
+    <div class="sort-by-show-results">
+        <span id="results-number"></span>
+        <span >Sort By
+            <div class="dropdown">
+                <button onclick="dropdownClicked()" class="dropbtn" id="dropdownbtn">Dropdown</button>
+                <div id="myDropdown" class="dropdown-content">
+                    <button id="relevant">Most Relevant</button>
+                    <button id="recent">Most Recent</button>
+                </div>
+            </div>
+        </span>
+    </div>
+    
+    
     <ul id="site-results">
         <li>
             Enter a keyword above to search this site.
