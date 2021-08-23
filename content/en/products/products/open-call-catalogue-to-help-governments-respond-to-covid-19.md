@@ -5,7 +5,7 @@ description: >-
   Open Call is a curated catalogue of free, open-source tools that governments can use to support people during COVID-19.
 product-url: https://opencall-appelouvert.alpha.canada.ca/#/
 phase: alpha
-status: in-flight
+status: past
 onhomepage: true
 contact:
   - email: honey.dacanay@da-an.ca
