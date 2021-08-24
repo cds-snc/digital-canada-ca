@@ -11,6 +11,7 @@ const recentBtn = document.getElementById("recent");
 const pagination_element = document.getElementById('pagination');
 let rows = 5;
 // const pagination_element = document.getElementById("page");
+
 async function initSearchIndex() {
   
   try {
@@ -18,7 +19,7 @@ async function initSearchIndex() {
 
     pagesIndex = await response.json();
     
-    
+
 
     searchIndex = lunr(function () {
       this.field("title");
@@ -36,11 +37,9 @@ async function initSearchIndex() {
   
   results = searchSite(searchTerm)
 
-  // renderSearchResults(results, searchResults, rows, current_page);
   renderSearchResult(results);
   renderPagination(results);
-  console.log('results', results);
-  // renderPagination(results, pagination_element, rows)
+
 
   resultNumber.innerHTML = `Showing ${results.length} results`
 }
@@ -71,32 +70,6 @@ function renderSearchResult(items) {
 
 }
 
-// function renderSearchResults (items, wrapper, rows_per_page, page) {
-//   wrapper.innerHTML = "";
-// 	page--;
-  
-
-//   let start = rows_per_page * page;
-// 	let end = start + rows_per_page;
-// 	let paginatedItems = items.slice(start, end);
-//   let resultList = '';
-//   console.log('end', end);
-
-//   for (let i = 0; i < paginatedItems.length; i++) {
-//     resultList += `<li>
-//     <div class="rendered-list">
-//       <div><a href='${paginatedItems[i].href}'>${paginatedItems[i].title}</a></div>
-//       <div>${paginatedItems[i].description}</div>
-//       <div>${paginatedItems[i].type}</div> 
-//     </div>
-//   </li>`
-//   }
-
-//   wrapper.innerHTML = resultList;
-  
-//   // document.location = document.location.search + `#/page/${page + 1}`
-// }
-
 function renderPagination(items) {
   let page_count = Math.ceil(items.length / rows);
   for (let i = 1; i < page_count + 1; i++) {
@@ -105,16 +78,6 @@ function renderPagination(items) {
   }
 
 }
-
-// function renderPagination (items, wrapper, rows_per_page) {
-// 	wrapper.innerHTML = "";
-
-// 	let page_count = Math.ceil(items.length / rows_per_page);
-// 	for (let i = 1; i < page_count + 1; i++) {
-// 		let btn = createPaginationButtons(i, items);
-// 		wrapper.appendChild(btn);
-// 	}
-// }
 
 function createPaginationButtons (page, items) {
 	let button = document.createElement('button');
@@ -200,14 +163,11 @@ function sortByHitScore() {
 
 function dropdownClicked() {
   document.getElementById("myDropdown").classList.toggle("show");
-  
-  // let paginatedItems = results.slice(start, end);
-  //if most recent clicked, change text, else other one
-  // add event listener
+
   relevantBtn.addEventListener('click', function () {
     dropdownBtn.innerText = relevantBtn.innerText;
-    
     renderSearchResult(sortByHitScore());
+    
   })
 
   recentBtn.addEventListener('click', function() {
