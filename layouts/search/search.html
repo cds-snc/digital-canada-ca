@@ -1,33 +1,49 @@
 {{ define "main" }}
 
-<div class="container">
-    <div class="sort-by-show-results">
-        <span id="results-number"></span>
-        <span >Sort By
-            <div class="dropdown">
-                <button onclick="dropdownClicked()" class="dropbtn" id="dropdownbtn">Dropdown</button>
-                <div id="myDropdown" class="dropdown-content">
-                    <button id="relevant" class="recent-relevance-btn ">Most Relevant</button>
-                    <button id="recent" class="recent-relevance-btn ">Most Recent</button>
-                </div>
-            </div>
-        </span>
+
+
+{{$types := slice "section" "blog" "tools-and-resources" "a11y" "categories" "roadmap" "engagement-report" "products" "form-submission" "legal" "tags"}}
+<div class="site-search-div">
+    <div class="filter-box">
+        {{range $element := $types}}
+        <div>
+            <!-- use i18n for label -->
+            <input type="checkbox" id="{{$element}}" name="{{$element}}">
+            <label for="{{$element}}">{{$element}}<span id="type-count">(0)</span></label>
+        </div>
+        {{end}}
+
+        
     </div>
-    
-    
-    <ul id="site-results">
-        <li>
-            Enter a keyword above to search this site.
-        </li>
-    </ul>
+    <div class="container">
+        <div class="sort-by-show-results">
+            <span id="results-number"></span>
+            <span>Sort By
+                <div class="dropdown">
+                    <button onclick="dropdownClicked()" class="dropbtn" id="dropdownbtn">Dropdown</button>
+                    <div id="myDropdown" class="dropdown-content">
+                        <button id="relevant" class="recent-relevance-btn ">Most Relevant</button>
+                        <button id="recent" class="recent-relevance-btn ">Most Recent</button>
+                    </div>
+                </div>
+            </span>
+        </div>
+        <ul id="site-results">
+            <li>
+                Enter a keyword above to search this site.
+            </li>
+        </ul>
+    </div>
+
 </div>
+
+
+
 <!-- <a href="javascript:prevPage()" id="btn_prev">Prev</a>
 <a href="javascript:nextPage()" id="btn_next">Next</a>
 <div>Page<span id="page"></span></div> -->
 <div class="pagenumbers" id="pagination"></div>
 
 <script src="https://unpkg.com/lunr/lunr.js"></script>
-<script type="text/javascript" src="/js/search.js" ></script>
+<script type="text/javascript" src="/js/search.js"></script>
 {{ end }}
-
-

@@ -39,12 +39,27 @@ async function initSearchIndex() {
 
   renderSearchResult(results);
   renderPagination(results);
+  numberOfTimes(results)
 
-
+  dropdownBtn.innerText = relevantBtn.innerText;
   resultNumber.innerHTML = `Showing ${results.length} results`
 }
 
 initSearchIndex();
+
+function numberOfTimes(items) {
+  var array = [];
+  for (let i = 0; i < items.length; i++) {
+    array.push(items[i].type)
+  }
+  var map = array.reduce(function(obj, b) {
+    obj[b] = ++obj[b] || 1;
+    return obj;
+  }, {});
+
+  console.log(map)
+
+}
 
 function renderSearchResult(items) {
   let page =  current_page;
@@ -54,6 +69,8 @@ function renderSearchResult(items) {
   let end = start + rows;
   let paginatedItems = items.slice(start, end);
   let resultList = '';
+
+
   
 
   for (let i = 0; i < paginatedItems.length; i++) {

@@ -1677,6 +1677,12 @@ article.post {
   justify-content: space-between;
 }
 
+.site-search-div {
+  display: flex;
+}
+.filter-box {
+  display: block;
+}
 .dropbtn {
   padding: 8px;
   font-size: 16px;
