@@ -2,16 +2,24 @@
 
 
 
-{{$types := slice "section" "blog" "tools-and-resources" "a11y" "categories" "roadmap" "engagement-report" "products" "form-submission" "legal" "tags"}}
+{{$types := slice "section" "blog" "tools-and-resources" "a11y" "categories" "roadmap" "engagement" "products" "form-submission" "legal" "tags"}}
 <div class="site-search-div">
     <div class="filter-box">
-        {{range $element := $types}}
-        <div>
-            <!-- use i18n for label -->
-            <input type="checkbox" id="{{$element}}" name="{{$element}}">
-            <label for="{{$element}}">{{$element}}<span id="type-count">(0)</span></label>
-        </div>
-        {{end}}
+        <form id="filter-form">
+            {{range $index, $element := $types}}
+            <div>
+                <!-- use i18n for label -->
+                <input type="checkbox" id="{{$index}}" name="{{$element}}" onclick="checkboxClicked()">
+                <label for="{{$index}}">{{$element}}<span id="{{$element}}">(0)</span></label>
+                
+            </div>
+            {{end}}
+            <!-- <button type="submit">Search</button> -->
+            <input type="button" onclick="handleData()" value="submit" />
+        </form>
+
+        
+        
 
         
     </div>

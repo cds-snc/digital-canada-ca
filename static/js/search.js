@@ -1,25 +1,23 @@
 
-// import {jsonResponse} from './init-search';
 var current_page = 1;
 var records_per_page = 6;
 let pagesIndex, searchIndex, results, searchTerm;
+let typesArray = [];
 const searchResults = document.getElementById("site-results");
 const resultNumber = document.getElementById("results-number");
 const dropdownBtn = document.getElementById("dropdownbtn");
 const relevantBtn = document.getElementById("relevant");
 const recentBtn = document.getElementById("recent");
-const pagination_element = document.getElementById('pagination');
+const pagination_element = document.getElementById("pagination");
 let rows = 5;
-// const pagination_element = document.getElementById("page");
+const typeCount = document.getElementById("type-count");
+const check = document.getElementsByName("check");
 
 async function initSearchIndex() {
-  
   try {
     const response = await fetch("/index.json");
 
     pagesIndex = await response.json();
-    
-
 
     searchIndex = lunr(function () {
       this.field("title");
@@ -28,21 +26,19 @@ async function initSearchIndex() {
       this.ref("href");
       pagesIndex.forEach((page) => this.add(page));
     });
- 
   } catch (e) {
     console.log(e);
   }
-  searchTerm = getQueryVariable("q")
+  searchTerm = getQueryVariable("q");
 
-  
-  results = searchSite(searchTerm)
+  results = searchSite(searchTerm);
 
   renderSearchResult(results);
   renderPagination(results);
-  numberOfTimes(results)
+  numberOfTimes(results);
 
   dropdownBtn.innerText = relevantBtn.innerText;
-  resultNumber.innerHTML = `Showing ${results.length} results`
+
 }
 
 initSearchIndex();
@@ -50,28 +46,29 @@ initSearchIndex();
 function numberOfTimes(items) {
   var array = [];
   for (let i = 0; i < items.length; i++) {
-    array.push(items[i].type)
+    array.push(items[i].type);
   }
-  var map = array.reduce(function(obj, b) {
+  var map = array.reduce(function (obj, b) {
     obj[b] = ++obj[b] || 1;
     return obj;
   }, {});
 
-  console.log(map)
 
+  for (const [key, value] of Object.entries(map)) {
+    if (document.getElementById(key).id == key) {
+      document.getElementById(key).innerHTML = `<span>(${value})</span>`;
+    }
+  }
 }
 
 function renderSearchResult(items) {
-  let page =  current_page;
+  let page = current_page;
   page--;
 
   let start = rows * page;
   let end = start + rows;
   let paginatedItems = items.slice(start, end);
-  let resultList = '';
-
-
-  
+  let resultList = "";
 
   for (let i = 0; i < paginatedItems.length; i++) {
     resultList += `<li>
@@ -80,11 +77,11 @@ function renderSearchResult(items) {
       <div>${paginatedItems[i].description}</div>
       <div>${paginatedItems[i].type}</div> 
     </div>
-  </li>`
+  </li>`;
   }
 
-  searchResults.innerHTML = resultList
-
+  searchResults.innerHTML = resultList;
+  resultNumber.innerHTML = `Showing ${results.length} results`;
 }
 
 function renderPagination(items) {
@@ -93,46 +90,41 @@ function renderPagination(items) {
     let btn = createPaginationButtons(i, items);
     pagination_element.appendChild(btn);
   }
-
 }
 
-function createPaginationButtons (page, items) {
-	let button = document.createElement('button');
-  
-  
-	button.innerText = page;
+function createPaginationButtons(page, items) {
+  let button = document.createElement("button");
 
-	if (current_page == page) button.classList.add('active');
+  button.innerText = page;
 
-	button.addEventListener('click', function () {
-		current_page = page;
+  if (current_page == page) button.classList.add("active");
+
+  button.addEventListener("click", function () {
+    current_page = page;
     renderSearchResult(items);
 
-		let current_btn = document.querySelector('.pagenumbers button.active');
-		current_btn.classList.remove('active');
+    let current_btn = document.querySelector(".pagenumbers button.active");
+    current_btn.classList.remove("active");
 
-		button.classList.add('active');
-	});
+    button.classList.add("active");
+  });
 
-	return button;
+  return button;
 }
-
-
 
 
 function getQueryVariable(variable) {
   var query = window.location.search.substring(1);
   var vars = query.split("&");
   for (var i = 0; i < vars.length; i++) {
-      var pair = vars[i].split("=");
-      if (pair[0] === variable) {
-          return decodeURIComponent(pair[1].replace(/\+/g, "%20"));
-      }
+    var pair = vars[i].split("=");
+    if (pair[0] === variable) {
+      return decodeURIComponent(pair[1].replace(/\+/g, "%20"));
+    }
   }
 }
 
 function searchSite(query) {
-
   const originalQuery = query;
   query = getLunrSearchQuery(query);
   let results = getSearchResults(query);
@@ -165,43 +157,73 @@ function getLunrSearchQuery(query) {
   return query.trim();
 }
 function sortedResult() {
-  const sorted = results.sort(function(a, b){
+  const sorted = results.sort(function (a, b) {
     return new Date(b.date) - new Date(a.date);
-  })
+  });
   return sorted;
 }
 
 function sortByHitScore() {
-  const sortScore = results.sort(function(a, b){
-    return b.score - a.score
-  })
-  return sortScore
+  const sortScore = results.sort(function (a, b) {
+    return b.score - a.score;
+  });
+  return sortScore;
 }
 
 function dropdownClicked() {
   document.getElementById("myDropdown").classList.toggle("show");
 
-  relevantBtn.addEventListener('click', function () {
+  relevantBtn.addEventListener("click", function () {
     dropdownBtn.innerText = relevantBtn.innerText;
+    // if (history.pushState) {
+    //   history.pushState(null, null, "#relevant");
+    // } else {
+    //   location.hash = "#relevant";
+    // }
     renderSearchResult(sortByHitScore());
-    
-  })
+  });
 
-  recentBtn.addEventListener('click', function() {
-    dropdownBtn.innerText = recentBtn.innerText
+  recentBtn.addEventListener("click", function () {
+    dropdownBtn.innerText = recentBtn.innerText;
+    // if (history.pushState) {
+    //   history.pushState(null, null, "#recent");
+    // } else {
+    //   location.hash = "#recent";
+    // }
     renderSearchResult(sortedResult());
-  })
+  });
 }
 
-window.onclick = function(event) {
-  if (!event.target.matches('.dropbtn')) {
+window.onclick = function (event) {
+  if (!event.target.matches(".dropbtn")) {
     var dropdowns = document.getElementsByClassName("dropdown-content");
     var i;
     for (i = 0; i < dropdowns.length; i++) {
       var openDropdown = dropdowns[i];
-      if (openDropdown.classList.contains('show')) {
-        openDropdown.classList.remove('show');
+      if (openDropdown.classList.contains("show")) {
+        openDropdown.classList.remove("show");
       }
     }
   }
+};
+
+function handleData() {
+  pagination_element.innerHTML = ''
+  const form = document.getElementById("filter-form");
+  const data = Object.fromEntries(new FormData(form).entries());
+  for (const [key, value] of Object.entries(data)) {
+    getType(key);
+  }
+
+}
+
+function checkboxClicked() {
+
+}
+
+function getType(type) {
+  var filtered = results.filter(item => item.type == type);
+  results = filtered;
+  renderSearchResult(results);
+  renderPagination(results);
 }
