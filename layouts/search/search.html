@@ -9,7 +9,7 @@
             {{range $index, $element := $types}}
             <div>
                 <!-- use i18n for label -->
-                <input type="checkbox" id="{{$index}}" name="{{$element}}" onclick="checkboxClicked()">
+                <input type="checkbox" id="{{$index}}" name="{{$element}}" onclick="checkboxClicked(this)" class="checkboxes">
                 <label for="{{$index}}">{{$element}}<span id="{{$element}}">(0)</span></label>
                 
             </div>

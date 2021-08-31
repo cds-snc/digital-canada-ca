@@ -12,6 +12,8 @@ const pagination_element = document.getElementById("pagination");
 let rows = 5;
 const typeCount = document.getElementById("type-count");
 const check = document.getElementsByName("check");
+const checkboxes = document.getElementsByClassName("checkboxes");
+var blog = document.getElementById("1");
 
 async function initSearchIndex() {
   try {
@@ -209,21 +211,33 @@ window.onclick = function (event) {
 
 function handleData() {
   pagination_element.innerHTML = ''
-  const form = document.getElementById("filter-form");
-  const data = Object.fromEntries(new FormData(form).entries());
-  for (const [key, value] of Object.entries(data)) {
-    getType(key);
-  }
-
+  getType(typesArray);
 }
 
-function checkboxClicked() {
+function checkboxClicked(val) {
+  if (val.checked) {
+    typesArray.push(val.name)
+    // getType(val.name);
+    // console.log(val.name)
+  } else {
+    if (typesArray.indexOf(val.name) > -1) {
+      typesArray.splice(typesArray.indexOf(val.name), 1)
+    }
+  }
+  console.log(typesArray);
 
 }
 
 function getType(type) {
-  var filtered = results.filter(item => item.type == type);
+
+
+  var filtered = results.filter(function(content){
+    return type.indexOf(content.type) != -1;
+  });
+
   results = filtered;
   renderSearchResult(results);
   renderPagination(results);
+
+  
 }
