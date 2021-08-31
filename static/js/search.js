@@ -13,8 +13,11 @@ let rows = 5;
 const typeCount = document.getElementById("type-count");
 const check = document.getElementsByName("check");
 const checkboxes = document.getElementsByClassName("checkboxes");
-var blog = document.getElementById("1");
 
+
+/**
+ * Initializes the search index after user has search
+ */
 async function initSearchIndex() {
   try {
     const response = await fetch("/index.json");
@@ -40,10 +43,17 @@ async function initSearchIndex() {
   numberOfTimes(results);
 
   dropdownBtn.innerText = relevantBtn.innerText;
+  resultNumber.innerHTML = `Showing ${results.length} results`;
 
 }
 
 initSearchIndex();
+
+/**
+ * Number of times a word appears in search
+ * @param $email
+ * @returns {boolean}
+ */
 
 function numberOfTimes(items) {
   var array = [];
@@ -83,7 +93,7 @@ function renderSearchResult(items) {
   }
 
   searchResults.innerHTML = resultList;
-  resultNumber.innerHTML = `Showing ${results.length} results`;
+  // resultNumber.innerHTML = `Showing ${results.length} results`;
 }
 
 function renderPagination(items) {
@@ -93,6 +103,13 @@ function renderPagination(items) {
     pagination_element.appendChild(btn);
   }
 }
+
+
+/**
+ * Creates pagination buttons
+ * @param $email
+ * @returns {boolean}
+ */
 
 function createPaginationButtons(page, items) {
   let button = document.createElement("button");
@@ -211,14 +228,25 @@ window.onclick = function (event) {
 
 function handleData() {
   pagination_element.innerHTML = ''
-  getType(typesArray);
+  if (typesArray.length !== 0) {
+    getType(typesArray);
+    // var filtered = results.filter(function(content){
+    //   return typesArray.indexOf(content.type) != -1;
+    // });
+  
+    // results = filtered;
+    // renderSearchResult(results);
+    // renderPagination(results);
+  } else {
+    location.reload()
+  }
+  
+  
 }
 
 function checkboxClicked(val) {
   if (val.checked) {
     typesArray.push(val.name)
-    // getType(val.name);
-    // console.log(val.name)
   } else {
     if (typesArray.indexOf(val.name) > -1) {
       typesArray.splice(typesArray.indexOf(val.name), 1)
@@ -230,14 +258,16 @@ function checkboxClicked(val) {
 
 function getType(type) {
 
-
+// there is an issue where if say you check one thing and search, and then check another and search, the second check does not get rendered
+//this is likely because we've already changed results.
   var filtered = results.filter(function(content){
     return type.indexOf(content.type) != -1;
   });
-
-  results = filtered;
-  renderSearchResult(results);
-  renderPagination(results);
+  console.log(filtered.length);
+  resultNumber.innerHTML = `Showing ${filtered.length} results`;
+  // results = filtered;
+  renderSearchResult(filtered);
+  renderPagination(filtered);
 
   
 }

@@ -5,23 +5,22 @@
 {{$types := slice "section" "blog" "tools-and-resources" "a11y" "categories" "roadmap" "engagement" "products" "form-submission" "legal" "tags"}}
 <div class="site-search-div">
     <div class="filter-box">
-        <form id="filter-form">
-            {{range $index, $element := $types}}
-            <div>
-                <!-- use i18n for label -->
-                <input type="checkbox" id="{{$index}}" name="{{$element}}" onclick="checkboxClicked(this)" class="checkboxes">
-                <label for="{{$index}}">{{$element}}<span id="{{$element}}">(0)</span></label>
-                
-            </div>
-            {{end}}
-            <!-- <button type="submit">Search</button> -->
-            <input type="button" onclick="handleData()" value="submit" />
-        </form>
-
-        
-        
-
-        
+        <div class="filter-search">Filter Search <span><button>Clear All</button></span></div>
+        <div class="filter-checkbox">
+            <form id="filter-form">
+                {{range $index, $element := $types}}
+                <div>
+                    <!-- use i18n for label -->
+                    <input type="checkbox" id="{{$index}}" name="{{$element}}" onclick="checkboxClicked(this)" class="checkboxes">
+                    <label for="{{$index}}">{{$element}}<span id="{{$element}}">(0)</span></label>
+                    
+                </div>
+                {{end}}
+                <!-- <button type="submit">Search</button> -->
+                <input type="button" onclick="handleData()" value="submit" />
+            </form>  
+        </div>
+      
     </div>
     <div class="container">
         <div class="sort-by-show-results">
@@ -37,6 +36,7 @@
             </span>
         </div>
         <ul id="site-results">
+            <div id="no-results">No results found :( </div>
             <li>
                 Enter a keyword above to search this site.
             </li>
