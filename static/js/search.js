@@ -16,7 +16,7 @@ const checkboxes = document.getElementsByClassName("checkboxes");
 
 
 /**
- * Initializes the search index after user has search
+ * Initializes the search index after user has searched
  */
 async function initSearchIndex() {
   try {
@@ -40,7 +40,7 @@ async function initSearchIndex() {
 
   renderSearchResult(results);
   renderPagination(results);
-  numberOfTimes(results);
+  contentNumberLabel(results);
 
   dropdownBtn.innerText = relevantBtn.innerText;
   resultNumber.innerHTML = `Showing ${results.length} results`;
@@ -50,12 +50,11 @@ async function initSearchIndex() {
 initSearchIndex();
 
 /**
- * Number of times a word appears in search
- * @param $email
- * @returns {boolean}
+ * Renders the number of times a word appears in the search filter box
+ * @param $items
  */
 
-function numberOfTimes(items) {
+function contentNumberLabel(items) {
   var array = [];
   for (let i = 0; i < items.length; i++) {
     array.push(items[i].type);
@@ -72,6 +71,11 @@ function numberOfTimes(items) {
     }
   }
 }
+
+/**
+ * Renders the search results
+ * @param $items
+ */
 
 function renderSearchResult(items) {
   let page = current_page;
@@ -96,6 +100,11 @@ function renderSearchResult(items) {
   // resultNumber.innerHTML = `Showing ${results.length} results`;
 }
 
+/**
+ * Renders and displays the pagination buttons by calling createPaginationButtons
+ * @param $items
+ */
+
 function renderPagination(items) {
   let page_count = Math.ceil(items.length / rows);
   for (let i = 1; i < page_count + 1; i++) {
@@ -106,9 +115,10 @@ function renderPagination(items) {
 
 
 /**
- * Creates pagination buttons
- * @param $email
- * @returns {boolean}
+ * Creates pagination buttons, adds css on active and inactive buttons
+ * @param $page
+ * @param $items
+ * @returns {button}
  */
 
 function createPaginationButtons(page, items) {
@@ -132,6 +142,12 @@ function createPaginationButtons(page, items) {
 }
 
 
+/**
+ * Gets the query that was entered by the user from url
+ * @param $variable
+ * @returns {decodeURIComponent} removes any special character and just returns the words
+ */
+
 function getQueryVariable(variable) {
   var query = window.location.search.substring(1);
   var vars = query.split("&");
@@ -142,6 +158,12 @@ function getQueryVariable(variable) {
     }
   }
 }
+
+/**
+ * Takes the query that was entered by the user from getQueryVariable
+ * @param $variable
+ * @returns {results}
+ */
 
 function searchSite(query) {
   const originalQuery = query;
@@ -164,6 +186,12 @@ function getSearchResults(query) {
   });
 }
 
+/**
+ * Creates Lunr search query to search through JSON object, 
+ * @param $query
+ * @returns {query} returns modified version of the query
+ */
+
 function getLunrSearchQuery(query) {
   const searchTerms = query.split(" ");
   if (searchTerms.length === 1) {
@@ -175,12 +203,22 @@ function getLunrSearchQuery(query) {
   }
   return query.trim();
 }
-function sortedResult() {
+
+/**
+ * Sorts results by date (most recent) 
+ * @returns {sorted} returns sorted results by most recent date
+ */
+function sortByDate() {
   const sorted = results.sort(function (a, b) {
     return new Date(b.date) - new Date(a.date);
   });
   return sorted;
 }
+
+/**
+ * Sorts results by hit score (most relevant) 
+ * @returns {sorted} returns sorted results byt hit score
+ */
 
 function sortByHitScore() {
   const sortScore = results.sort(function (a, b) {
@@ -209,7 +247,7 @@ function dropdownClicked() {
     // } else {
     //   location.hash = "#recent";
     // }
-    renderSearchResult(sortedResult());
+    renderSearchResult(sortByDate());
   });
 }
 
