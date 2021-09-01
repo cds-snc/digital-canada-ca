@@ -10,7 +10,7 @@ aria-canada-website:
   other: "Government of Canada"
 aria-cds-website:
   other: "Accéder à la page d'accueil"
-blog:
+read-the-blog:
   other: "Read the blog"
 canada-ca:
   other: "Visit Canada.ca"
@@ -298,3 +298,34 @@ menu:
   other: "Main Site Menu"
 footer-links:
   other: "Footer links"
+section:
+  other: "Section"
+blog:
+  other: "Blog"
+tools-and-resources:
+  other: "Tools and Resources"
+a11y:
+  other: "A11y"
+categories:
+  other: "Categories"
+roadmap:
+  other: "Roadmap"
+engagement:
+  other: "Engagement"          
+products:
+  other: "Products"
+form-submission:
+  other: "Form Submission"    
+legal:
+  other: "Legal"
+tags:
+  other: "Tags"
+filter-search:
+  other: "Filter Search"      
+clear-all:
+  other: "Clear All"  
+most-relevant:
+  other: "Most Relevant"
+most-recent:
+  other: "Most Recent"   
+

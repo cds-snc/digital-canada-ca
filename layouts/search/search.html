@@ -5,14 +5,13 @@
 {{$types := slice "section" "blog" "tools-and-resources" "a11y" "categories" "roadmap" "engagement" "products" "form-submission" "legal" "tags"}}
 <div class="site-search-div">
     <div class="filter-box">
-        <div class="filter-search">Filter Search <span><button>Clear All</button></span></div>
+        <div class="filter-search">{{ i18n "filter-search"}} <span><button>{{ i18n "clear-all"}}</button></span></div>
         <div class="filter-checkbox">
             <form id="filter-form">
                 {{range $index, $element := $types}}
                 <div>
-                    <!-- use i18n for label -->
                     <input type="checkbox" id="{{$index}}" name="{{$element}}" onclick="checkboxClicked(this)" class="checkboxes">
-                    <label for="{{$index}}">{{$element}}<span id="{{$element}}">(0)</span></label>
+                    <label for="{{$index}}">{{ i18n $element }}<span id="{{$element}}">(0)</span></label>
                     
                 </div>
                 {{end}}
@@ -29,17 +28,22 @@
                 <div class="dropdown">
                     <button onclick="dropdownClicked()" class="dropbtn" id="dropdownbtn">Dropdown</button>
                     <div id="myDropdown" class="dropdown-content">
-                        <button id="relevant" class="recent-relevance-btn ">Most Relevant</button>
-                        <button id="recent" class="recent-relevance-btn ">Most Recent</button>
+                        <button id="relevant" class="recent-relevance-btn ">{{ i18n "most-relevant" }}</button>
+                        <button id="recent" class="recent-relevance-btn ">{{ i18n "most-recent" }}</button>
                     </div>
                 </div>
             </span>
         </div>
-        <ul id="site-results">
-            <div id="no-results">No results found :( </div>
-            <li>
+        <ul >
+            <!-- <div id="no-results">No results found :( </div> -->
+            <!-- possibly create another html page where the JS will render, and then use this to render -->
+            {{range .Paginator.Pages}}
+            {{end}}
+            <li id="site-results">
                 Enter a keyword above to search this site.
             </li>
+
+
         </ul>
     </div>
 

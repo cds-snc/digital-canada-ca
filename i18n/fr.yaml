@@ -8,7 +8,7 @@ about-this-site:
   other: "À propos du site"
 aria-canada-website:
   other: "Gouvernement du Canada"
-blog:
+read-the-blog:
   other: "Lire notre blogue"
 canada-ca-link:
   other: "https://www.canada.ca/fr.html"
@@ -300,3 +300,33 @@ menu:
   other: "Menu principal du site"
 footer-links:
   other: "Liens en bas de page"
+section:
+  other: "(FR)Section"
+blog:
+  other: "(FR)Blog"
+tools-and-resources:
+  other: "(FR)Tools and Resources"
+a11y:
+  other: "(FR)A11y"
+categories:
+  other: "(FR)Categories"
+roadmap:
+  other: "(FR)Roadmap"
+engagement:
+  other: "(FR)Engagement"          
+products:
+  other: "(FR)Products"
+form-submission:
+  other: "(FR)Form Submission"    
+legal:
+  other: "(FR)Legal"
+tags:
+  other: "(FR)Tags"
+filter-search:
+  other: "(FR)Filter Search"      
+clear-all:
+  other: "(FR)Clear All"  
+most-relevant:
+  other: "(FR)Most Relevant"
+most-recent:
+  other: "(FR)Most Recent"

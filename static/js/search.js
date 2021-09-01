@@ -89,7 +89,7 @@ function renderSearchResult(items) {
   for (let i = 0; i < paginatedItems.length; i++) {
     resultList += `<li>
     <div class="rendered-list">
-      <div><a href='${paginatedItems[i].href}'>${paginatedItems[i].title}</a></div>
+      <div><a href='${paginatedItems[i].href}' target="_blank">${paginatedItems[i].title}</a></div>
       <div>${paginatedItems[i].description}</div>
       <div>${paginatedItems[i].type}</div> 
     </div>
