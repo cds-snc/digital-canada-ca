@@ -1620,6 +1620,7 @@ article.post {
   }
   margin-top: 2rem;
   padding: 0;
+  list-style: none;
 
 
   
@@ -1678,6 +1679,9 @@ article.post {
 
 .site-search-div {
   display: flex;
+}
+.hide-filter-label {
+  display: none;
 }
 .filter-box {
   display: block;

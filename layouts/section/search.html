@@ -1,7 +1,5 @@
 {{ define "main" }}
 
-
-
 {{$types := slice "section" "blog" "tools-and-resources" "a11y" "categories" "roadmap" "engagement" "products" "form-submission" "legal" "tags"}}
 <div class="site-search-div">
     <div class="filter-box">
@@ -11,7 +9,8 @@
                 {{range $index, $element := $types}}
                 <div>
                     <input type="checkbox" id="{{$index}}" name="{{$element}}" onclick="checkboxClicked(this)" class="checkboxes">
-                    <label for="{{$index}}">{{ i18n $element }}<span id="{{$element}}">(0)</span></label>
+                    <label for="{{$index}}" >{{ i18n $element }}<span id="{{$element}}">(0)</span></label>
+                    
                     
                 </div>
                 {{end}}
@@ -34,17 +33,17 @@
                 </div>
             </span>
         </div>
-        <ul >
-            <!-- <div id="no-results">No results found :( </div> -->
-            <!-- possibly create another html page where the JS will render, and then use this to render -->
-            {{range .Paginator.Pages}}
-            {{end}}
-            <li id="site-results">
-                Enter a keyword above to search this site.
-            </li>
-
-
-        </ul>
+        <div>
+            
+            <ul id="site-results">
+                <li >
+                    Enter a keyword above to search this site.
+                </li>
+            </ul>
+                
+            
+            
+        </div>
     </div>
 
 </div>

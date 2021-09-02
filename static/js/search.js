@@ -1,6 +1,5 @@
 
 var current_page = 1;
-var records_per_page = 6;
 let pagesIndex, searchIndex, results, searchTerm;
 let typesArray = [];
 const searchResults = document.getElementById("site-results");

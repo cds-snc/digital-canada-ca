@@ -1,12 +1,6 @@
 {{ define "main" }}   
   <div class="container section">
 
-    
-    
-    {{partial "search_results.html"}}
-    
-    
-
     <ul class="blogpost-list" id="blog-list">
       {{ range .Paginator.Pages }}
         {{ .Render "list"}}
