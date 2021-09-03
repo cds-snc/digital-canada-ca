@@ -1,5 +1,5 @@
 exec:
-  - archived: false
+  - archived: true
     name: Aaron Snow
     title:
       en: Chief Executive Officer
@@ -21,8 +21,8 @@ exec:
   - archived: false
     name: Anatole Papadopoulos
     title:
-      en: Chief Operating Officer
-      fr: Chef des opérations
+      en: Acting Chief Executive Officer
+      fr: Président-directeur général par intérim
     imagehash: anatole_papadopoulos_b4da501172
     email: Anatole.Papadopoulos@tbs-sct.gc.ca
     linkedin: anatole-papadopoulos-845a431
