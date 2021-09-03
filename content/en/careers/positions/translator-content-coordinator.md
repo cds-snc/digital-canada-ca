@@ -4,7 +4,7 @@ type: section
 title: 'Translator / Content Coordinator'
 description: >-
   The Translator role is absolutely essential to ensure that we can fulfill our mandate in both official languages and to contribute to the on-going improvement of our team, and the content and bilingual standards across the organization.
-archived: false
+archived: true
 translationKey: translate-content-coordinator
 leverId: 74410168-af05-42dc-af82-d413c73ba970
 ---

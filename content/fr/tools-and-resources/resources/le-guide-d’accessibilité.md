@@ -7,8 +7,8 @@ phase: alpha
 status: in-flight
 onhomepage: false
 contact:
-  - email: julie-ann.rowsell@tbs-sct.gc.ca
-    name: Julianna Rowsell
+  - email: CDS-SNC@tbs-sct.gc.ca
+    name: CDS-SNC@tbs-sct.gc.ca
 links:
   - name: Le guide d’accessibilité
     url: https://numerique.canada.ca/a11y
