@@ -1,7 +1,7 @@
 #themenav {
     min-height: 70px;
 
-    .nav-link { font-size: 14px; }
+    .nav-link { font-size: 1.4rem; }
 
     .nav-link,
     .vertical-align-middle {
@@ -82,7 +82,7 @@
                 // Bootstrap lg breakpoint
                 @media screen and (min-width: 1200px) {
                     padding: 20px 20px;
-                    font-size: 16px;
+                    font-size: 1.6rem;
                     padding-bottom: 17px;
                     line-height: 20px;
                     letter-spacing: 0.07em;
