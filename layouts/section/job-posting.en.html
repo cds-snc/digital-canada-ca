@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
         <h1>{{ .Params.title}}</h1>
-        {{ if .Params.leverId }}
+        {{ if and (.Params.leverId) (eq .Params.archived false) }}
           <a href="#apply-now">Apply now</a>
         {{end}}
         <div class="content">
@@ -68,7 +68,7 @@
 
 
 <div id="apply-now" class="row work-with-us--apply-now container">
-  {{ if .Params.leverId }}
+  {{ if and (.Params.leverId) (eq .Params.archived false) }}
   <div class="col-sm-10 col-sm-offset-1 col-xs-12">
     <h2>Apply now</h2>
     <form enctype="multipart/form-data" class="text-left" id="contactForm">
