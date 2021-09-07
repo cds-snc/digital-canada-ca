@@ -87,9 +87,43 @@ partnerships-contact-us:
 partnerships-contact-us-link:
     other: "https://forms-formulaires.alpha.canada.ca/id/3"
 partnerships-intro:
-  other: "At the Canadian Digital Service (CDS), we partner up with federal departments to design, test and build simple, easy to use services. Our goal is to improve the experience – for people who deliver government services and people who use those services."
+  other: "We provide free support for federal public servants to improve their public facing services. Through advice and feedback, we enable your team to design, develop, buy, and maintain a service on their own. Instead of building the products for you, we empower you to build them."
 partnerships-how-it-works:
   other: "How it works"
+partnerships-what-we-can-help-title:
+  other: "What we can help your team with"
+partnerships-what-we-can-help-1st:
+  other: "We can work together on things like:"
+partnerships-what-we-can-help-list-1:
+  other: "Improving usability and accessibility of your service."
+partnerships-what-we-can-help-list-2:
+  other: "Optimizing service delivery and change management processes."
+partnerships-what-we-can-help-list-3:
+  other: "Setting up effective procurements for services or software."
+partnerships-what-we-can-help-list-4:
+  other: "Hiring digital practitioners."
+partnerships-three-ways-heading:
+  other: "The three different ways we can work together"
+partnerships-time-commitment:
+  other: "Time commitment"
+partnerships-consultation:
+  other: "Consultation"
+partnerships-consultation-time-commitment:
+  other: "1-hour meetings as needed"
+partnerships-consultation-description:
+  other: "We’ll meet with you to learn more about your specific service delivery challenges. We’ll share knowledge and documentation from our past work to help you solve similar problems." 
+partnerships-exploration:
+  other: "Exploration" 
+partnerships-exploration-time-commitment:
+  other: "About 4 weeks"
+partnerships-exploration-description:
+  other: "We’ll conduct a deep dive into your team to learn about your current service delivery conditions. From there, we’ll create a roadmap and final report with recommended next steps to improve your service and processes." 
+partnerships-embedded-team:
+  other: "Embedded team"
+partnerships-embedded-team-time-commitment:
+  other: "4 months – 1.5 years"
+partnerships-embedded-team-description:
+  other: "One of our teams will work alongside you, full-time, coaching your team to optimize practices and remove delivery obstacles. To inform how we do that, we’ll first run an Exploration to learn more about your current service delivery conditions."       
 partnerships-how-we-do-it-1st:
   other: "We work with our partners in the open, regularly sharing progress via public platforms. This creates a culture of learning and fosters best practices. It means non-partner departments can apply our work and <a href=\"https://digital.canada.ca/tools-and-resources/\">use our resources</a> to develop their own services."
 partnerships-how-we-do-it-2nd:
@@ -201,7 +235,7 @@ view-product:
 careers:
   other: "Careers"  
 what-were-working-on:
-  other: "What we're working on"
+  other: "What we’ve worked on"
 partnerships:
   other: "Partnerships"
 featured-post:
