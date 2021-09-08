@@ -70,14 +70,14 @@
     }
 
     h2 { 
-        font-size   : 23px;
+        font-size   : 2.3rem;
 
         @media screen and (min-width: 500px) {
-            font-size: 30px;
+            font-size: 3rem;
         }
 
         @media screen and (min-width: 650px) {
-            font-size: 40px;
+            font-size: 4rem;
         }
 
         &.padded-multiline {
@@ -104,14 +104,14 @@
 
         &.title {
             border-bottom   : none;
-            font-size       : 32px;
+            font-size       : 3.2rem;
             font-weight     : bold;
             margin          : 0 0 11.5px;
             position        : static;
             line-height     : 1.5;
 
-            @media screen and (min-width: 500px) { font-size: 38px; }
-            @media screen and (min-width: 650px) { font-size: 46px; }
+            @media screen and (min-width: 500px) { font-size: 3.8rem; }
+            @media screen and (min-width: 650px) { font-size: 4.6rem; }
             span.pad { 
                 padding  : 0.7em; 
 
@@ -123,14 +123,14 @@
         }
 
         &.subtitle {
-            font-size     : 20px;
+            font-size     : 2rem;
             margin        : 0 0 11.5px;
             margin-bottom : 1.1em;
             line-height   : 1.65;
             position      : static;
 
-            @media screen and (min-width: 500px) { font-size: 30px; }
-            @media screen and (min-width: 650px) { font-size: 36px; }
+            @media screen and (min-width: 500px) { font-size: 3rem; }
+            @media screen and (min-width: 650px) { font-size: 3.6rem; }
 
             span.pad { 
                 padding: 0.7rem; 
