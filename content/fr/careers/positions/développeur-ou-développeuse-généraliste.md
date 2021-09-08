@@ -5,8 +5,8 @@ title: 'Développeur ou développeuse généraliste'
 description: >-
   Nous embauchons des développeurs ou des développeuses généralistes. Bien que notre bureau principal soit situé à Ottawa, notre équipe est répartie à travers le Canada et nous acceptons les candidatures provenant d’autres régions du Canada au même titre. Nos unités opérationnelles comprennent l’unité des « partenariats » axée sur le travail de consultation avec d’autres ministères et l’unité des « plateformes » servant à créer et à exploiter des services de logiciels réutilisables.
 archived: false
-translationKey: fullstack-notify
-leverId: 3ad29d0c-ca96-4d01-b568-bb121d5f0d8b
+translationKey: fullstack-mvp
+leverId: 8f4de03e-aee2-4b38-a69a-d69ea8258187
 ---
 
 Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre des services numériques accessibles. Nous sommes ici pour améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des citoyens au premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être sécuritaire, rapide, facile, transparente et accessible. Nous travaillons ouvertement pour aider tout le monde au sein du gouvernement à améliorer la prestation des services. Nous avons besoin de vous.
@@ -26,7 +26,7 @@ Selon votre niveau d’expérience, les postes de développeur et développeuse 
 
 **Votre candidature sera évaluée en fonction des compétences suivantes :**
 
-- Création et livraison de logiciels à l’aide des technologies et des plateformes Web modernes comme Python, Flask, Celery, AWS, CSS, Javascript. Une connaissance des technologies Terraform, Serverless, Tailwind, Docker et Kubernetes est un atout.
+- Création et livraison de logiciels à l’aide des technologies et des plateformes Web modernes comme React, Typescript, PHP, Wordpress, CSS. Une connaissance des technologies Docker, Terraform et AWS est un atout. 
 - Création et livraison de logiciels inclusifs et accessibles (WCAG).
 - Mise en pratique ou promotion des pratiques de fiabilité des sites ou des opérations de développement.
 - Promotion, établissement et amélioration de normes d’équipe pour le style de codage, l’automatisation des tests, la facilité d’entretien et les meilleures pratiques en matière de systèmes d’infonuagique décentralisés.
@@ -44,4 +44,5 @@ Le SNC accepte tous les candidats et candidates, peu importe leur race, leur ori
 [Mesures d’adaptation en matière d’évaluation](https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html)
 
 Par mesure de précaution, toutes les entrevues dans un avenir proche seront menées par vidéo ou téléconférence.
+
 
