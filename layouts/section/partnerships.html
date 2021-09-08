@@ -10,38 +10,42 @@
     </div>
   </div>
 </section>
-<section class="bg-med-grey">
-<div class="container">
-  <div class="row">
-    <div class="col-xs-12">
-      <h2 class="partnership-title">{{i18n "partnerships-what-we-can-help-title" | safeHTML}}</h2>
-      <p> {{i18n "partnerships-what-we-can-help-1st" | safeHTML }}</p>
-      <ul>
-        <li>{{i18n "partnerships-what-we-can-help-list-1" | safeHTML }}</li>
-        <li>{{i18n "partnerships-what-we-can-help-list-2" | safeHTML }}</li>
-        <li>{{i18n "partnerships-what-we-can-help-list-3" | safeHTML }}</li>
-        <li>{{i18n "partnerships-what-we-can-help-list-4" | safeHTML }}</li>
-      </ul>
+<section class="partnerships-info bg-med-grey">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h2 class="partnership-title">{{i18n "partnerships-what-we-can-help-title" | safeHTML}}</h2>
+        <p> {{i18n "partnerships-what-we-can-help-1st" | safeHTML }}</p>
+        <ul>
+          <li>{{i18n "partnerships-what-we-can-help-list-1" | safeHTML }}</li>
+          <li>{{i18n "partnerships-what-we-can-help-list-2" | safeHTML }}</li>
+          <li>{{i18n "partnerships-what-we-can-help-list-3" | safeHTML }}</li>
+          <li>{{i18n "partnerships-what-we-can-help-list-4" | safeHTML }}</li>
+        </ul>
 
-      <h2>{{i18n "partnerships-three-ways-heading" | safeHTML }}</h2>
-      <!-- Consultation -->
-      <p><strong>{{i18n "partnerships-consultation" | safeHTML }}</strong></p>
-      <p>{{i18n "partnerships-time-commitment" | safeHTML }}<br> {{i18n "partnerships-consultation-time-commitment" | safeHTML }}</p>
-      <p>{{i18n "partnerships-how-it-works" | safeHTML }}<br> {{i18n "partnerships-consultation-description" | safeHTML }}</p>
+        <h2>{{i18n "partnerships-three-ways-heading" | safeHTML }}</h2>
+        <!-- Consultation -->
+        <p>
+          <strong>{{i18n "partnerships-consultation" | safeHTML }}</strong><br>
+          {{i18n "partnerships-time-commitment" | safeHTML }}<br> 
+          {{i18n "partnerships-consultation-time-commitment" | safeHTML }}
+        </p>
+    
+        <p>{{i18n "partnerships-how-it-works" | safeHTML }}<br> {{i18n "partnerships-consultation-description" | safeHTML }}</p>
 
-      <!-- Exploration -->
-      <p><strong>{{i18n "partnerships-exploration" | safeHTML }}</strong></p>
-      <p>{{i18n "partnerships-time-commitment" | safeHTML }}<br>{{i18n "partnerships-exploration-time-commitment" | safeHTML }}</p>
-      <p>{{i18n "partnerships-how-it-works" | safeHTML }}<br>{{i18n "partnerships-exploration-description" | safeHTML }}</p>
+        <!-- Exploration -->
+        <p><strong>{{i18n "partnerships-exploration" | safeHTML }}</strong></p>
+        <p>{{i18n "partnerships-time-commitment" | safeHTML }}<br>{{i18n "partnerships-exploration-time-commitment" | safeHTML }}</p>
+        <p>{{i18n "partnerships-how-it-works" | safeHTML }}<br>{{i18n "partnerships-exploration-description" | safeHTML}}</p>
 
-      <!-- Embedded Teams -->
-      <p><strong>{{i18n "partnerships-embedded-team" | safeHTML }}</strong></p>
-      <p>{{i18n "partnerships-time-commitment" | safeHTML }}<br>{{i18n "partnerships-embedded-team-time-commitment" | safeHTML }}</p>
-      <p>{{i18n "partnerships-how-it-works" | safeHTML }}<br>{{i18n "partnerships-embedded-team-description" | safeHTML }}</p>
+        <!-- Embedded Teams -->
+        <p><strong>{{i18n "partnerships-embedded-team" | safeHTML }}</strong></p>
+        <p>{{i18n "partnerships-time-commitment" | safeHTML }}<br>{{i18n "partnerships-embedded-team-time-commitment" | safeHTML }}</p>
+        <p>{{i18n "partnerships-how-it-works" | safeHTML }}<br>{{i18n "partnerships-embedded-team-description" | safeHTML }}</p>
 
+      </div>
     </div>
   </div>
-</div>
 </section>
 
 <section class='bg-yellow-full'>
@@ -50,7 +54,7 @@
       <p>{{ i18n "partnerships-interested-in-chatting" }}</p>
     </div>
     <div class='col-md-5 col-xs-12'>
-      <a href={{ i18n "partnerships-contact-us-link"}} id="partnerships-contact-us-link">
+      <a href={{ i18n "partnerships-contact-us-link" }} id="partnerships-contact-us-link">
         {{ i18n "partnerships-contact-us" }}
       </a>
     </div>
@@ -70,13 +74,13 @@
   <div class='container'>
     <div class='row equal'>
       {{ range $elem_index, $elem_val := $products }}
-        {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
-          </div>
-          <div class='row equal'>
-        {{ end }}
-        <div class='col-md-6 col-xs-12'>
-          {{ partial "partnerships_product_item" $elem_val }}
-        </div>
+      {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+    </div>
+    <div class='row equal'>
+      {{ end }}
+      <div class='col-md-6 col-xs-12'>
+        {{ partial "partnerships_product_item" $elem_val }}
+      </div>
       {{ end }}
     </div>
   </div>
