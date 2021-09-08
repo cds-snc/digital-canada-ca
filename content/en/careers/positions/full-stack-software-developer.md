@@ -3,10 +3,10 @@ layout: job-posting
 type: section
 title: 'Full Stack Software Developer'
 description: >-
-  We’re hiring Full Stack Software Developers. While our home base is in Ottawa, we largely work distributedly across Canada and equally value candidates in other parts of Canada. Our Business Units consist of Partnerships, providing hands-on consulting with other departments, and Platforms, building and operating reusable software services.
+  These positions are part of the Software Development Community and report to your Product Team Lead within the Platform Business Unit.Your day-to-day will change based on which product team within a department you are assigned to and, over time, the evolving nature of work at CDS. For example, some days will involve more strategic coaching than hands-on coding.
 archived: false
-translationKey: fullstack-mvp
-leverId: 8f4de03e-aee2-4b38-a69a-d69ea8258187
+translationKey: fullstack-notify
+leverId: 3ad29d0c-ca96-4d01-b568-bb121d5f0d8b
 ---
 
 The Canadian Digital Service (CDS) is tasked with changing how the federal government designs and delivers accessible digital services, to reduce the risk of product failure, lower costs, ensure user privacy and system security, and, above all, improves people’s lives by putting their needs and concerns front and center. We believe every experience Canadians have with their government should meet or exceed their reasonable modern expectations that digital services be safe, fast, easy, transparent, and accessible. Working in the open, we’re building capacity across the government for better service delivery. And we need you.
@@ -26,7 +26,7 @@ Based on your level of experience developers are classified as [CS-03, CS-04 or 
 
 **We’ll evaluate you based on:**
 
-- Creating and delivering software using modern web technologies and platforms such as React, Typescript, PHP, Wordpress, CSS. Nice-to-haves include Docker, Terraform, AWS. 
+- Creating and delivering software using modern web technologies and platforms such as Python, Flask, Celery, AWS, CSS, Javascript. Nice-to-haves are Terraform, Serverless, Tailwind, Docker, Kubernetes
 - Creating and delivering inclusive and accessible (WCAG) software
 - Employing or promoting site reliability/devops practices
 - Championing, defining and improving team standards for code style, test automation, maintainability, and best practices for a distributed, cloud-based system
@@ -44,4 +44,6 @@ CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orie
 [Assessment accommodation](https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html)
 
 *Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future.
+
+
 
