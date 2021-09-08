@@ -4,7 +4,7 @@ type: section
 title: 'Développeur de soutien'
 description: >-
   Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) développeur de soutien. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que celles mentionnées.
-archived: false
+archived: true
 translationKey: technical-support-dev
 leverId: 2bf581e6-d1cb-4cbf-aca9-6e91c5eb13f1
 ---
