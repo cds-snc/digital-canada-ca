@@ -749,14 +749,14 @@ span.livefr {
   }
   label {
     color: black;
-    font-size: 23px;
+    font-size: 2.3rem;
     font-weight: 600;
   }
   .alt-label {
     font-weight: 400;
   }
   .url {
-    font-size: 23px;
+    font-size: 2.3rem;
   }
   input {
     width: 100%;
@@ -779,7 +779,7 @@ span.livefr {
       cursor: pointer;
       color: white;
       margin: 1rem;
-      font-size: 23px;
+      font-size: 2.3rem;
       font-weight: 600;
     }
 
@@ -791,12 +791,12 @@ span.livefr {
     position: absolute;
   }
   .no-file-chosen {
-    font-size: 22px;
+    font-size: 2.2rem;
     font-weight: 100;
     margin-left: 2rem;
   }
   .help-text {
-    font-size: 23px;
+    font-size: 2.3rem;
   }
   .submit-btn {
     margin-bottom: 1.5rem;
@@ -917,7 +917,7 @@ span.livefr {
 
   h2 {
     margin-top: 0;
-    font-size: 20px;
+    font-size: 2rem;
   }
 
   a {
@@ -929,7 +929,7 @@ span.livefr {
   }
 
   .author {
-    font-size: 14px;
+    font-size: 1.4rem;
 
     @include tablet {
       // This rule will limit the number of lines to 3
@@ -943,7 +943,7 @@ span.livefr {
 
   .summary {
     color: $icon-grey;
-    font-size: 18.5px;
+    font-size: 1.85rem;
 
     @include tablet {
       // This rule will limit the number of lines to 5
@@ -959,7 +959,7 @@ span.livefr {
     margin-top: 2rem;
 
     a {
-      font-size: 18px;
+      font-size: 1.8rem;
       display: inline-block;
       text-decoration: underline;
     }
@@ -1253,7 +1253,7 @@ article.post {
 }
 
 .mfp-close {
-  font-size: 20px;
+  font-size: 2rem;
   cursor: pointer;
   background: none;
   border: none;

@@ -23,24 +23,24 @@
 
             .padded-multiline {
                 bottom      : 10px;
-                font-size   : 20px;
+                font-size   : 2rem;
                 font-weight : bold; 
 
                 @media screen and (min-width: 500px) {
-                    font-size   : 24px;
+                    font-size   : 2.4rem;
                     line-height : 1.45;
                 } 
 
                 // Bootstrap md breakpoint
                 @media screen and (min-width: 992px) {
-                    font-size: 28px;
+                    font-size: 2.8rem;
                     line-height: 1.45;
                     bottom: 20px;
                 }
 
                 // Bootstrap lg breakpoint
                 @media screen and (min-width: 1200px) {
-                    font-size: 21px;
+                    font-size: 2.1rem;
                     line-height: 1.4;
                     bottom: 10px;
                 }
@@ -59,7 +59,7 @@
     }
 
     .homepage-feature {
-        font-size: 18px;
+        font-size: 1.8rem;
 
         a.light-link {
             color: #b6cce8;
@@ -103,7 +103,7 @@
 
         .budget-intro-text {
             padding: 1.5em 1em; 
-            font-size: 18px;
+            font-size: 1.8rem;
         }
 
 
@@ -113,7 +113,7 @@
                 padding-top: 0;
 
                 .report-title {
-                    font-size: 26px;
+                    font-size: 2.6rem;
                 }
             }
         } 
@@ -124,12 +124,12 @@
                 padding: 2.5em 2em; 
 
                 .report-title {
-                    font-size: 26px;
+                    font-size: 2.6rem;
                 }
             }
 
             .budget-intro-text {
-                font-size: 20px;
+                font-size: 2rem;
             }
         }
 
@@ -139,7 +139,7 @@
                 padding: 3.5em 2.5em; 
 
                 .report-title {
-                    font-size: 30px;
+                    font-size: 3rem;
                 }
             }
 
