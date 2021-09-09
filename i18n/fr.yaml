@@ -81,7 +81,7 @@ partner:
 partnerships:
   other: "Partenariats"
 partnerships-contact-us:
-  other: "Communiquez avec nous"
+  other: "Contactez-nous"
 partnerships-contact-us-link:
     other: "https://forms-formulaires.alpha.canada.ca/fr/id/3"
 partnerships-intro:
@@ -157,7 +157,7 @@ partnerships-partner-for-beta:
 partnerships-partner-for-live:
   other: "Une équipe multidisciplinaire autonome à temps plein dédiée à améliorer de façon continue le service (pour la phase de <span class=\"term\">mise en service</span>)"
 partnerships-interested-in-chatting:
-  other: "Vous aimeriez discuter d’un partenariat potentiel?"
+  other: "Vous souhaitez collaborer?"
 partnerships-partner-overview:
   other: "Voici un aperçu des produits sur lesquels le SNC travaille! Pour savoir comment nous choisissons nos partenariats, lisez ce"
 partnerships-past:
