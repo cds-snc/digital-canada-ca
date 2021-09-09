@@ -807,6 +807,26 @@ span.livefr {
     padding: 10px 15px;
     border: none;
 
+    &.inactive {
+      background-color: grey;
+      cursor: not-allowed;
+      pointer-events: all !important;
+    }
+
+    .spinner {
+      opacity: 0;
+      max-width: 0px;
+      -webkit-transition: opacity 0.25s, max-width 0.45s;
+      -moz-transition: opacity 0.25s, max-width 0.45s;
+      -o-transition: opacity 0.25s, max-width 0.45s;
+      transition: opacity 0.25s, max-width 0.45s;
+
+      &.active {
+        opacity: 1;
+        max-width: 50px;
+      }
+    }
+
     svg {
       fill: white;
       margin-left: 10px;

@@ -142,6 +142,7 @@ $(document).ready(function() {
      * Disable button to prevent double-submitting
      */
     $("#submitButton").attr("disabled", true);
+    $("#submitButton").toggleClass("inactive");
     $("#buttonSpinner").toggleClass("active");
 
     /**
