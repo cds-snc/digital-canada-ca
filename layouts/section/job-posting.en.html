@@ -136,9 +136,13 @@
       <!-- Submit-->
       <div>
         <button type="submit" class="submit-btn" id="submitButton">
-          Submit<img src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/>
+          <span class="submit-btn--text" id="submit-textt">Submit<img src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/></span>
+          <span class="spinner" id="buttonSpinner"
+          ><i
+            style="display:inline-block;margin-right:10px;"
+            class="fas fa-spinner fa-spin"
+          ></i></span>
         </button>
-
       </div>
       <div class="privacy-link">
         <a href="/legal/privacy-notice">Privacy Notice</a>
@@ -146,7 +150,24 @@
 
 
     </form>
+    <!-- <button type="submit" class="submit-btn " id="submitBtn" onclick="clicked()">
+      <span class="submit-btn--text" id="submit-text">Submit<img src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/></span>
+      <span class="spinner" id="buttonSpin"
+      ><i
+        style="display:inline-block;margin-right:10px;"
+        class="fas fa-spinner fa-spin"
+      ></i></span>
+    </button> -->
+    <button type="submit" class="second-submit-button" id="second-submit-btn" onclick="clicked()">
+      <span class="second-submit-button-text">Submit<img src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/></span>
+    </button>
   </div>
+  <script>
+    const butt = document.getElementById("second-submit-btn");
+    function clicked() {
+      butt.classList.toggle("second--loading");
+    }
+  </script>
   {{end}}
 </div>
 
