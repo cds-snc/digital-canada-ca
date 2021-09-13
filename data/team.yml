@@ -581,6 +581,16 @@ team:
     github: nmakuch
     twitter: makuch_nick
   - archived: false
+    name: Omar Nasr
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_Omar_Nasr_square_66701de0d5
+    email: omar.nasr@tbs-sct.gc.ca
+    github: https://github.com/Moro-Code
+    linkedin: https://www.linkedin.com/in/ott-omar-nasr/
+    twitter: https://twitter.com/thenextmusk
+  - archived: false
     name: Omar Tehsin
     title:
       en: Development
