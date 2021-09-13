@@ -63,7 +63,7 @@ exec:
     email: Eman.El-Fayomi@tbs-sct.gc.ca
     linkedin: eelfayomi
     twitter: emanelfy
-  - archived: false
+  - archived: true
     name: Emily Kuret
     title:
       en: Director - COVID Alert
@@ -196,7 +196,7 @@ team:
     email: Anik.Brazeau@tbs-sct.gc.ca
     linkedin: anikbrazeau
     twitter: brazeauanik
-  - archived: false
+  - archived: true
     name: Antoine Augusti
     title:
       en: Development
@@ -206,7 +206,7 @@ team:
     github: AntoineAugusti
     linkedin: AntoineAugusti
     twitter: AntoineAugusti
-  - archived: false
+  - archived: true
     name: Bethany Dunfield
     title:
       en: Development
