@@ -196,7 +196,7 @@ team:
     email: Anik.Brazeau@tbs-sct.gc.ca
     linkedin: anikbrazeau
     twitter: brazeauanik
-  - archived: false
+  - archived: true
     name: Antoine Augusti
     title:
       en: Development
@@ -206,7 +206,7 @@ team:
     github: AntoineAugusti
     linkedin: AntoineAugusti
     twitter: AntoineAugusti
-  - archived: false
+  - archived: true
     name: Bethany Dunfield
     title:
       en: Development
