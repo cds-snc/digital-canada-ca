@@ -1627,7 +1627,10 @@ article.post {
 
 }
 .rendered-list{
-  margin-bottom: 1rem;
+  text-align: left;
+  padding: 0 2rem 0 2rem;
+  color: white;
+  margin-bottom: 2rem;
 }
 
 .pagenumbers {
@@ -1751,4 +1754,69 @@ article.post {
   background-color: #ffffff;
   width: 100%;
   color: #000000;
+}
+
+.search-modal-container {
+  background-color: rgba(0, 0, 0, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  // pointer-events: auto;
+  // opacity: 1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  height: 100vh;
+  width: 100vw;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+
+
+  &.show-modal-container{
+    pointer-events: auto;
+    opacity: 1;
+    
+  }
+
+}
+
+
+
+.modal {
+  background-color: black;
+  // width: 600px;
+  width: 90%;
+  max-width: 100%;
+  // padding: 30px 50px;
+  // color: white;
+  text-align: center;
+  max-height: calc(100vh - 210px);
+  overflow-y: auto;
+  z-index: 1;
+  
+
+  // margin: 2rem 4rem rem 4rem;
+  // max-height: calc(100vh - 210px);
+  // overflow-y: auto;
+}
+
+#close {
+
+  background-color: #000000;
+  color: white;
+}
+
+#q {
+  flex: 1;
+  // width: 80%;
+  border: none;
+}
+
+.modal-div {
+
+  display: flex;
+  justify-content: space-between;
 }

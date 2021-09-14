@@ -35,7 +35,7 @@
   background-repeat: no-repeat;
   background-size: contain;
   display: block;
-  z-index: 1;
+  // z-index: 1;
   
 
   @include mobile_only {
@@ -105,6 +105,15 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
   }
+}
+
+.top-nav--search-icon {
+  margin-left: 4rem;
+  background-color: white;
+  border: none;
+  height: 3.5rem;
+  width: 3.5rem;
+  border-radius: 50%;
 }
 
 // Main Navigation Link

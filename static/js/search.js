@@ -33,21 +33,43 @@ async function initSearchIndex() {
   } catch (e) {
     console.log(e);
   }
-  searchTerm = getQueryVariable("q");
+  // searchTerm = getQueryVariable("q");
 
-  results = searchSite(searchTerm);
+  results = searchSite("");
 
   renderSearchResult(results);
-  renderPagination(results);
-  contentNumberLabel(results);
+  // renderPagination(results);
+  // contentNumberLabel(results);
 
-  dropdownBtn.innerText = relevantBtn.innerText;
-  resultNumber.innerHTML = `Showing ${results.length} results`;
+  // dropdownBtn.innerText = relevantBtn.innerText;
+  // resultNumber.innerHTML = `Showing ${results.length} results`;
 
 }
 
-initSearchIndex();
 
+
+function initSearchSite() {
+  document.addEventListener('DOMContentLoaded', function() {
+    initSearchIndex();
+    let txt = document.getElementById("q");
+
+    txt.addEventListener('input', keyUp);
+  })
+}
+
+initSearchSite()
+
+function keyUp(ev) {
+  location.hash = "?q=" + ev.target.value
+  // location.search = ev.target.value
+  // searchTerm = getQueryVariable(ev.target.value);
+  results = searchSite(ev.target.value);
+  renderSearchResult(results)
+}
+
+// window.onpopstate = function() {
+//   console.log('pop');
+// }
 /**
  * Renders the number of times a word appears in the search filter box
  * @param $items
@@ -88,7 +110,7 @@ function renderSearchResult(items) {
   for (let i = 0; i < paginatedItems.length; i++) {
     resultList += `<li>
     <div class="rendered-list">
-      <div><a href='${paginatedItems[i].href}' target="_blank">${paginatedItems[i].title}</a></div>
+      <div><a href='${paginatedItems[i].href}' target="_blank" class="render-list-title">${paginatedItems[i].title}</a></div>
       <div>${paginatedItems[i].description}</div>
       <div>${paginatedItems[i].type}</div> 
     </div>
@@ -140,6 +162,12 @@ function createPaginationButtons(page, items) {
   return button;
 }
 
+
+function printStatement() {
+  // const modal_container = document.getElementById("modal_container");
+  // modal_container.classList.add('show-modal-container');
+  
+}
 
 /**
  * Gets the query that was entered by the user from url
