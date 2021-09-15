@@ -63,7 +63,7 @@ exec:
     email: Eman.El-Fayomi@tbs-sct.gc.ca
     linkedin: eelfayomi
     twitter: emanelfy
-  - archived: false
+  - archived: true
     name: Emily Kuret
     title:
       en: Director - COVID Alert
@@ -196,7 +196,7 @@ team:
     email: Anik.Brazeau@tbs-sct.gc.ca
     linkedin: anikbrazeau
     twitter: brazeauanik
-  - archived: false
+  - archived: true
     name: Antoine Augusti
     title:
       en: Development
@@ -206,7 +206,7 @@ team:
     github: AntoineAugusti
     linkedin: AntoineAugusti
     twitter: AntoineAugusti
-  - archived: false
+  - archived: true
     name: Bethany Dunfield
     title:
       en: Development
@@ -367,7 +367,7 @@ team:
     email: eric.pang@tbs-sct.gc.ca
     linkedin: eric-pang-ux
     twitter: dekonstructed
-  - archived: false
+  - archived: true
     name: Fitore Jaha Price
     title:
       en: Development
@@ -500,8 +500,8 @@ team:
   - archived: false
     name: Kelsey Harris
     title:
-      en: Outreach
-      fr: Liaison et diffusion
+      en: Internal Operations
+      fr: Opérations internes
     imagehash: kelsey_harris_0566b91b37
     email: kelsey.harris@tbs-sct.gc.ca
     linkedin: kelsey-harris-39373b139
@@ -580,6 +580,16 @@ team:
     email: nick.makuch@tbs-sct.gc.ca
     github: nmakuch
     twitter: makuch_nick
+  - archived: false
+    name: Omar Nasr
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_Omar_Nasr_square_66701de0d5
+    email: omar.nasr@tbs-sct.gc.ca
+    github: Moro-Code
+    linkedin: ott-omar-nasr/
+    twitter: thenextmusk
   - archived: false
     name: Omar Tehsin
     title:
