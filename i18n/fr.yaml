@@ -81,13 +81,47 @@ partner:
 partnerships:
   other: "Partenariats"
 partnerships-contact-us:
-  other: "Communiquez avec nous"
+  other: "Contactez-nous"
 partnerships-contact-us-link:
     other: "https://forms-formulaires.alpha.canada.ca/fr/id/3"
 partnerships-intro:
-  other: "Au Service numérique canadien (SNC), nous établissons des partenariats avec les ministères fédéraux pour concevoir, tester et bâtir des services simples et faciles à utiliser. Notre objectif est d’améliorer l’expérience des personnes qui fournissent les services gouvernementaux tout comme celle des personnes qui les utilisent."
+  other: "Nous offrons un soutien gratuit aux fonctionnaires fédéraux afin d’améliorer les services qu’ils proposent au public. Nous misons sur les conseils et sur la rétroaction pour permettre à votre équipe de concevoir, de développer, d’acheter et d’entretenir un service par elle-même. Au lieu de construire les produits pour vous, nous vous donnons les moyens d’y parvenir."
 partnerships-how-it-works:
   other: "Fonctionnement"
+partnerships-what-we-can-help-title:
+  other: "L’aide que nous pouvons apporter à votre équipe"
+partnerships-what-we-can-help-1st:
+  other: "Nous pouvons collaborer sur les points suivants :"
+partnerships-what-we-can-help-list-1:
+  other: "Amélioration de la convivialité et de l’accessibilité de votre service."
+partnerships-what-we-can-help-list-2:
+  other: "Optimisation des processus de prestation de service et de gestion du changement."
+partnerships-what-we-can-help-list-3:
+  other: "Mise en place d’approvisionnements efficaces pour les services ou pour les logiciels."
+partnerships-what-we-can-help-list-4:
+  other: "Recrutement de praticiens du numérique. "
+partnerships-three-ways-heading:
+  other: "Les trois modes de collaboration possibles"
+partnerships-time-commitment:
+  other: "Durée"
+partnerships-consultation:
+  other: "Consultation"
+partnerships-consultation-time-commitment:
+  other: "Réunions d’une heure en fonction de vos besoins"
+partnerships-consultation-description:
+  other: "Nous vous rencontrons pour en apprendre davantage sur les défis spécifiques que vous rencontrez en matière de prestation de services. Nous partageons avec vous les connaissances et la documentation issues de nos travaux antérieurs pour vous aider à résoudre des problèmes similaires."
+partnerships-exploration:
+  other: "Exploration" 
+partnerships-exploration-time-commitment:
+  other: "Environ 4 semaines"
+partnerships-exploration-description:
+  other: "Nous étudions le fonctionnement de votre équipe en détail pour en apprendre davantage sur l’état actuel de vos prestations de services. Nous créons ensuite une feuille de route et un rapport final détaillant les prochaines étapes recommandées pour améliorer votre service et vos processus."
+partnerships-embedded-team:
+  other: "Équipe intégrée"
+partnerships-embedded-team-time-commitment:
+  other: "4 à 18 mois"
+partnerships-embedded-team-description:
+  other: "L’une de nos équipes vous accompagne à temps plein et forme vos membres afin d’optimiser vos pratiques et d’éliminer tout obstacle à vos prestations. Pour ce faire, nous commençons par une étape d’exploration afin d’en apprendre davantage sur l’état actuel de vos prestations de services."
 partnerships-how-we-do-it-1st:
   other: "Nous travaillons avec nos partenaires de façon ouverte, en partageant régulièrement nos progrès sur des plateformes publiques. Cette démarche crée une culture de l’apprentissage et favorise des pratiques exemplaires. Elle permet par le fait même aux ministères non partenaires de recourir à notre travail et d’<a href=\"https://numerique.canada.ca/outils-et-ressources/\">utiliser nos ressources</a> pour développer leurs propres services. "
 partnerships-how-we-do-it-2nd:
@@ -123,7 +157,7 @@ partnerships-partner-for-beta:
 partnerships-partner-for-live:
   other: "Une équipe multidisciplinaire autonome à temps plein dédiée à améliorer de façon continue le service (pour la phase de <span class=\"term\">mise en service</span>)"
 partnerships-interested-in-chatting:
-  other: "Vous aimeriez discuter d’un partenariat potentiel?"
+  other: "Vous souhaitez collaborer?"
 partnerships-partner-overview:
   other: "Voici un aperçu des produits sur lesquels le SNC travaille! Pour savoir comment nous choisissons nos partenariats, lisez ce"
 partnerships-past:
@@ -289,7 +323,7 @@ product-impact:
 apply-now:
   other: "Soumettre votre candidature"
 what-were-working-on:
-  other: "Sur quoi travaillons-nous?"
+  other: "Nos projets précédents"
 who-is-on-the-team:
   other: "Qui est dans l'équipe"
 options-below:
