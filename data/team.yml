@@ -565,6 +565,16 @@ team:
     linkedin: melbanyard
     twitter: melbanyard
   - archived: false
+    name: Mohamed Nur
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_mohamed_Nur_29e7eb2b82
+    email: Mohamed.Nur@tbs-sct.gc.ca
+    github: mohamed-cds
+    linkedin: mohamed-nur-b85b0846
+    twitter: 0xMohamed
+  - archived: false
     name: Muoyo Popo
     title:
       en: Partnerships
