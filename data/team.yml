@@ -215,6 +215,15 @@ team:
     email: bethany.dunfield@tbs-sct.gc.ca
     github: brdunfield
   - archived: false
+    name: Blaise Hebert
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: small_blaise_hebert_5a3c808e44
+    email: blaise.hebert@tbs-sct.gc.ca
+    linkedin: blaise-h%C3%A9bert-08294a16/
+    twitter: BlaiseHebert
+  - archived: false
     name: Brian Hendrick
     title:
       en: Design
@@ -564,6 +573,16 @@ team:
     email: melissa.banyard@tbs-sct.gc.ca
     linkedin: melbanyard
     twitter: melbanyard
+  - archived: false
+    name: Mohamed Nur
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_mohamed_Nur_204ec29b50
+    email: Mohamed.Nur@tbs-sct.gc.ca
+    github: mohamed-cds
+    linkedin: mohamed-nur-b85b0846
+    twitter: 0xMohamed
   - archived: false
     name: Muoyo Popo
     title:
