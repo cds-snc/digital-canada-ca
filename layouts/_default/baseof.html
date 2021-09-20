@@ -116,49 +116,19 @@
           <div class="modal-div">
             <input required type="search" name="q" id="q"/>
             
-            <!-- close button should also clear input -->
             <button id="close">Close</button>
           </div>
 
           <div>
-            
             <ul id="site-results">
                 <li >
                     Enter a keyword above to search this site.
                 </li>
             </ul>
-                
-            
-            
-        </div>
+            <button id="load-more">Load more </button>
+          </div>
         </div>
       </div>
-      
-      <script type="text/javascript" src="/js/search.js"></script>
-      
-          <script>
-            const open = document.getElementById("open")
-            const modal_container = document.getElementById("modal_container")
-            const close = document.getElementById("close")
-      
-            open.addEventListener('click', () => {
-              modal_container.classList.add('show-modal-container');
-              
-              location.hash = "?q="
-            })
-
-      
-            close.addEventListener('click', () => {
-              modal_container.classList.remove('show-modal-container');
-              // location.href = location.origin
-              var uri = window.location.toString();
-
-              if (uri.indexOf("#") > 0) {
-                var clean_uri = uri.substring(0, uri.indexOf("#"))
-                window.history.replaceState({}, document.title, clean_uri);
-              }
-            })
-          </script>
       
       <section id="wb-cont">
         {{ block "main" . }}
@@ -178,7 +148,7 @@
     <footer role="contentinfo">
       {{ partial "footer.html" }}
     </footer>
-
+    <script type="text/javascript" src="/js/search.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
       integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT"
       crossorigin="anonymous"></script>

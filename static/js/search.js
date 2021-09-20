@@ -12,6 +12,10 @@ let rows = 5;
 const typeCount = document.getElementById("type-count");
 const check = document.getElementsByName("check");
 const checkboxes = document.getElementsByClassName("checkboxes");
+let searchQuery = location.search.slice(1).split("&")[0].split("=")[1]
+const inputVal = document.getElementById("q");
+const params = new URLSearchParams(location.search);
+const loadMoreBtn = document.getElementById("load-more");
 
 
 /**
@@ -35,9 +39,15 @@ async function initSearchIndex() {
   }
   // searchTerm = getQueryVariable("q");
 
-  results = searchSite("");
+  results = searchSite(getQueryVariable());
+  // results = searchSite("")
 
   renderSearchResult(results);
+  
+  if (!inputVal.value) inputVal.value = getQueryVariable();
+
+  // generateItems(current_page, results);
+  
   // renderPagination(results);
   // contentNumberLabel(results);
 
@@ -54,22 +64,81 @@ function initSearchSite() {
     let txt = document.getElementById("q");
 
     txt.addEventListener('input', keyUp);
+    
   })
 }
 
 initSearchSite()
+const theSearch = new URLSearchParams(window.location.search);
 
-function keyUp(ev) {
-  location.hash = "?q=" + ev.target.value
-  // location.search = ev.target.value
-  // searchTerm = getQueryVariable(ev.target.value);
-  results = searchSite(ev.target.value);
+const open = document.getElementById("open")
+const modal_container = document.getElementById("modal_container")
+const close = document.getElementById("close")
+
+
+
+open.addEventListener('click', () => {
+  modal_container.classList.add('show-modal-container');
+  
+  
+  
+  window.history.pushState({}, '', `${location.origin}?q=`)
+
+  // console.log(location.origin);
+
+  // results = searchSite(location.search.slice(1).split("&")[0].split("=")[1])
+  // console.log('search start', location.search.slice(1).split("&")[0].split("=")[1])
+  
+})
+
+
+close.addEventListener('click', () => {
+  modal_container.classList.remove('show-modal-container');
+  
+  var uri = window.location.toString();
+  // console.log(location.search.slice(1).split("&")[0].split("=")[1]);
+  inputVal.value = ""
+  renderSearchResult(searchSite(""))
+  
+
+  if (uri.indexOf("?") > 0) {
+    var clean_uri = uri.substring(0, uri.indexOf("?"))
+    
+    window.history.replaceState({}, document.title, clean_uri);
+  }
+})
+loadMoreBtn.addEventListener('click', () => {
+  current_page++;
+  rows += 5;
   renderSearchResult(results)
+})
+// console.log('search start', location.search.slice(1).split("&")[0].split("=")[1])
+function keyUp(ev) {
+  
+  
+  params.set('', ev.target.value);
+
+  window.history.pushState({}, '', `${location.origin}?q=${ev.target.value}`)
+
+
+  results = searchSite(location.search.slice(1).split("&")[0].split("=")[1]);
+  renderSearchResult(results)
+
 }
 
-// window.onpopstate = function() {
-//   console.log('pop');
-// }
+window.onpopstate = function() {
+  
+  inputVal.value = getQueryVariable();
+  results = searchSite(getQueryVariable());
+
+  renderSearchResult(results);
+  if(window.location.href.indexOf('?q=') != -1) {
+    document.getElementById("modal_container").classList.add('show-modal-container');
+  } else {
+    document.getElementById("modal_container").classList.remove('show-modal-container');
+  }
+}
+
 /**
  * Renders the number of times a word appears in the search filter box
  * @param $items
@@ -97,14 +166,16 @@ function contentNumberLabel(items) {
  * Renders the search results
  * @param $items
  */
-
 function renderSearchResult(items) {
   let page = current_page;
   page--;
-
-  let start = rows * page;
+  
+  let start = 0;
   let end = start + rows;
+
   let paginatedItems = items.slice(start, end);
+
+  
   let resultList = "";
 
   for (let i = 0; i < paginatedItems.length; i++) {
@@ -163,27 +234,36 @@ function createPaginationButtons(page, items) {
 }
 
 
-function printStatement() {
-  // const modal_container = document.getElementById("modal_container");
-  // modal_container.classList.add('show-modal-container');
-  
-}
-
 /**
  * Gets the query that was entered by the user from url
  * @param $variable
  * @returns {decodeURIComponent} removes any special character and just returns the words
  */
 
-function getQueryVariable(variable) {
-  var query = window.location.search.substring(1);
-  var vars = query.split("&");
-  for (var i = 0; i < vars.length; i++) {
-    var pair = vars[i].split("=");
-    if (pair[0] === variable) {
-      return decodeURIComponent(pair[1].replace(/\+/g, "%20"));
-    }
+function getQueryVariable() {
+  if (location.search.slice(1).split("&")[0].split("=")[1] == undefined) {
+    return ""
+  } else {
+    return location.search.slice(1).split("&")[0].split("=")[1];
   }
+  // let params = new URLSearchParams(location.search);
+  // let q = params.get("q");
+
+  // if (!q) {
+  //   return ""
+  // } else {
+  //   return q
+  // }
+
+  
+  // var query = window.location.search.substring(1);
+  // var vars = query.split("&");
+  // for (var i = 0; i < vars.length; i++) {
+  //   var pair = vars[i].split("=");
+  //   if (pair[0] === variable) {
+  //     return decodeURIComponent(pair[1].replace(/\+/g, "%20"));
+  //   }
+  // }
 }
 
 /**
@@ -335,4 +415,15 @@ function getType(type) {
   renderPagination(filtered);
 
   
+}
+
+window.addEventListener('popstate', (event) => {
+  console.log('popped');
+})
+
+// console.log(window.location.href)
+if(window.location.href.indexOf('?q=') != -1) {
+  document.getElementById("modal_container").classList.add('show-modal-container');
+} else {
+  document.getElementById("modal_container").classList.remove('show-modal-container');
 }
