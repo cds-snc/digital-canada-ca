@@ -120,14 +120,24 @@
           </div>
 
           <div>
+            <div class="sort-by-show-results">
+              <span id="results-number">Showing</span>
+              <div>
+                <button id="relevant">Most Relevant</button>
+                <button id="recent">Most Recent</button>
+              </div>
+
+            </div>
+            
             <div class="results-div">
+              
               <ul id="site-results">
                 <li >
                     Enter a keyword above to search this site.
                 </li>
               </ul>
-              <div class="filter-box">
-                <div class="filter-search">{{ i18n "filter-search"}} <span><button>{{ i18n "clear-all"}}</button></span></div>
+              <div >
+                <div class="filter-search">{{ i18n "filter-search"}} </div>
                 <div class="filter-checkbox">
                     <div id="filter-form">
                         {{range $index, $element := $types}}

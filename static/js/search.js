@@ -48,11 +48,12 @@ async function initSearchIndex() {
 
   // generateItems(current_page, results);
   
-  // renderPagination(results);
+  
   // contentNumberLabel(results);
 
   // dropdownBtn.innerText = relevantBtn.innerText;
-  // resultNumber.innerHTML = `Showing ${results.length} results`;
+  
+  
 
 }
 
@@ -84,19 +85,25 @@ open.addEventListener('click', () => {
   
   window.history.pushState({}, '', `${location.origin}?q=`)
 
-  // console.log(location.origin);
-
-  // results = searchSite(location.search.slice(1).split("&")[0].split("=")[1])
-  // console.log('search start', location.search.slice(1).split("&")[0].split("=")[1])
   
 })
 
+relevantBtn.addEventListener('click', () => {
+  relevantBtn.classList.add('clicked');
+  recentBtn.classList.remove('clicked');
+  renderSearchResult(sortByHitScore());
+});
+recentBtn.addEventListener('click', () => {
+  recentBtn.classList.add('clicked');
+  relevantBtn.classList.remove('clicked');
+  renderSearchResult(sortByDate());
+})
 
 close.addEventListener('click', () => {
   modal_container.classList.remove('show-modal-container');
   
   var uri = window.location.toString();
-  // console.log(location.search.slice(1).split("&")[0].split("=")[1]);
+  
   inputVal.value = ""
   renderSearchResult(searchSite(""))
   
@@ -112,7 +119,7 @@ loadMoreBtn.addEventListener('click', () => {
   rows += 5;
   renderSearchResult(results)
 })
-// console.log('search start', location.search.slice(1).split("&")[0].split("=")[1])
+
 function keyUp(ev) {
   
   
@@ -171,7 +178,7 @@ function contentNumberLabel(items) {
 function renderSearchResult(items) {
   let page = current_page;
   page--;
-  
+  resultNumber.innerHTML = `Showing ${results.length} results`;
   let start = 0;
   let end = start + rows;
 
@@ -193,47 +200,6 @@ function renderSearchResult(items) {
   searchResults.innerHTML = resultList;
   contentNumberLabel(items);
   // resultNumber.innerHTML = `Showing ${results.length} results`;
-}
-
-/**
- * Renders and displays the pagination buttons by calling createPaginationButtons
- * @param $items
- */
-
-function renderPagination(items) {
-  let page_count = Math.ceil(items.length / rows);
-  for (let i = 1; i < page_count + 1; i++) {
-    let btn = createPaginationButtons(i, items);
-    pagination_element.appendChild(btn);
-  }
-}
-
-
-/**
- * Creates pagination buttons, adds css on active and inactive buttons
- * @param $page
- * @param $items
- * @returns {button}
- */
-
-function createPaginationButtons(page, items) {
-  let button = document.createElement("button");
-
-  button.innerText = page;
-
-  if (current_page == page) button.classList.add("active");
-
-  button.addEventListener("click", function () {
-    current_page = page;
-    renderSearchResult(items);
-
-    let current_btn = document.querySelector(".pagenumbers button.active");
-    current_btn.classList.remove("active");
-
-    button.classList.add("active");
-  });
-
-  return button;
 }
 
 
@@ -337,30 +303,6 @@ function sortByHitScore() {
   return sortScore;
 }
 
-function dropdownClicked() {
-  document.getElementById("myDropdown").classList.toggle("show");
-
-  relevantBtn.addEventListener("click", function () {
-    dropdownBtn.innerText = relevantBtn.innerText;
-    // if (history.pushState) {
-    //   history.pushState(null, null, "#relevant");
-    // } else {
-    //   location.hash = "#relevant";
-    // }
-    renderSearchResult(sortByHitScore());
-  });
-
-  recentBtn.addEventListener("click", function () {
-    dropdownBtn.innerText = recentBtn.innerText;
-    // if (history.pushState) {
-    //   history.pushState(null, null, "#recent");
-    // } else {
-    //   location.hash = "#recent";
-    // }
-    renderSearchResult(sortByDate());
-  });
-}
-
 window.onclick = function (event) {
   if (!event.target.matches(".dropbtn")) {
     var dropdowns = document.getElementsByClassName("dropdown-content");
@@ -384,7 +326,7 @@ function handleData() {
   
     // results = filtered;
     // renderSearchResult(results);
-    // renderPagination(results);
+
   } else {
     location.reload()
   }
@@ -415,7 +357,7 @@ function getType(type) {
   resultNumber.innerHTML = `Showing ${filtered.length} results`;
   // results = filtered;
   renderSearchResult(filtered);
-  renderPagination(filtered);
+  
 
   
 }
