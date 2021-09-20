@@ -63,7 +63,7 @@ exec:
     email: Eman.El-Fayomi@tbs-sct.gc.ca
     linkedin: eelfayomi
     twitter: emanelfy
-  - archived: false
+  - archived: true
     name: Emily Kuret
     title:
       en: Director - COVID Alert
@@ -196,7 +196,7 @@ team:
     email: Anik.Brazeau@tbs-sct.gc.ca
     linkedin: anikbrazeau
     twitter: brazeauanik
-  - archived: false
+  - archived: true
     name: Antoine Augusti
     title:
       en: Development
@@ -206,7 +206,7 @@ team:
     github: AntoineAugusti
     linkedin: AntoineAugusti
     twitter: AntoineAugusti
-  - archived: false
+  - archived: true
     name: Bethany Dunfield
     title:
       en: Development
@@ -214,6 +214,15 @@ team:
     imagehash: bethany_dunfield_6d207bc928
     email: bethany.dunfield@tbs-sct.gc.ca
     github: brdunfield
+  - archived: false
+    name: Blaise Hebert
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: small_blaise_hebert_5a3c808e44
+    email: blaise.hebert@tbs-sct.gc.ca
+    linkedin: blaise-h%C3%A9bert-08294a16/
+    twitter: BlaiseHebert
   - archived: false
     name: Brian Hendrick
     title:
@@ -367,7 +376,7 @@ team:
     email: eric.pang@tbs-sct.gc.ca
     linkedin: eric-pang-ux
     twitter: dekonstructed
-  - archived: false
+  - archived: true
     name: Fitore Jaha Price
     title:
       en: Development
@@ -500,8 +509,8 @@ team:
   - archived: false
     name: Kelsey Harris
     title:
-      en: Outreach
-      fr: Liaison et diffusion
+      en: Internal Operations
+      fr: Opérations internes
     imagehash: kelsey_harris_0566b91b37
     email: kelsey.harris@tbs-sct.gc.ca
     linkedin: kelsey-harris-39373b139
@@ -565,6 +574,16 @@ team:
     linkedin: melbanyard
     twitter: melbanyard
   - archived: false
+    name: Mohamed Nur
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_mohamed_Nur_204ec29b50
+    email: Mohamed.Nur@tbs-sct.gc.ca
+    github: mohamed-cds
+    linkedin: mohamed-nur-b85b0846
+    twitter: 0xMohamed
+  - archived: false
     name: Muoyo Popo
     title:
       en: Partnerships
@@ -580,6 +599,16 @@ team:
     email: nick.makuch@tbs-sct.gc.ca
     github: nmakuch
     twitter: makuch_nick
+  - archived: false
+    name: Omar Nasr
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_Omar_Nasr_square_66701de0d5
+    email: omar.nasr@tbs-sct.gc.ca
+    github: Moro-Code
+    linkedin: ott-omar-nasr/
+    twitter: thenextmusk
   - archived: false
     name: Omar Tehsin
     title:

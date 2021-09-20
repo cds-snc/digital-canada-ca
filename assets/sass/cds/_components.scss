@@ -504,7 +504,18 @@
   }
 }
 
+
 .results-div {
   display: flex;
   justify-content: space-between;
+}
+
+.partnerships-contact {
+  display: flex;
+  justify-content: center;
+
+  div {
+    margin-right: 4rem;
+  }
+
 }
