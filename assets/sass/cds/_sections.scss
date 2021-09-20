@@ -1621,10 +1621,7 @@ article.post {
   margin-top: 2rem;
   padding: 0;
   list-style: none;
-
-
-  
-
+  flex: 2;
 }
 .rendered-list{
   text-align: left;
@@ -1824,5 +1821,5 @@ article.post {
 .modal-div {
 
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }

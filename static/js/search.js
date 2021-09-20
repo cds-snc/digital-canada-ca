@@ -123,6 +123,7 @@ function keyUp(ev) {
 
   results = searchSite(location.search.slice(1).split("&")[0].split("=")[1]);
   renderSearchResult(results)
+  // contentNumberLabel(results)
 
 }
 
@@ -156,6 +157,7 @@ function contentNumberLabel(items) {
 
 
   for (const [key, value] of Object.entries(map)) {
+    console.log(key, value);
     if (document.getElementById(key).id == key) {
       document.getElementById(key).innerHTML = `<span>(${value})</span>`;
     }
@@ -189,6 +191,7 @@ function renderSearchResult(items) {
   }
 
   searchResults.innerHTML = resultList;
+  contentNumberLabel(items);
   // resultNumber.innerHTML = `Showing ${results.length} results`;
 }
 
