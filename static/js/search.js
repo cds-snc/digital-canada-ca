@@ -178,7 +178,7 @@ function contentNumberLabel(items) {
 function renderSearchResult(items) {
   let page = current_page;
   page--;
-  resultNumber.innerHTML = `Showing ${results.length} results`;
+  // resultNumber.innerHTML = `Showing ${results.length} results`;
   let start = 0;
   let end = start + rows;
 
@@ -199,7 +199,7 @@ function renderSearchResult(items) {
 
   searchResults.innerHTML = resultList;
   contentNumberLabel(items);
-  // resultNumber.innerHTML = `Showing ${results.length} results`;
+  resultNumber.innerHTML = `Showing ${results.length} results`;
 }
 
 

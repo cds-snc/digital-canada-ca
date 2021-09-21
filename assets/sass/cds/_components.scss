@@ -507,9 +507,31 @@
 
 .results-div {
   display: flex;
-  // flex-direction: column;
-  // flex-wrap: wrap;
-  justify-content: space-between;
+
+  .site-results-list {
+    flex: 1;
+  
+    #site-results {
+      list-style: none;
+      padding: 0;
+      margin: 0 1.5rem 0 1.5rem;
+    }
+  }
+
+  .sort-by-show-results {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 3.5rem 0 3.5rem;
+    color: white;
+    button {
+      border: none;
+      background-color: transparent;
+      &.clicked {
+        color: #149cdb;
+      }
+      
+    }
+  }
 }
 
 .partnerships-contact {
@@ -552,25 +574,34 @@
 }
 
 
+.modal-container {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+.flex-col-container {
+  display: flex;
+  flex-flow: column wrap;
+}
+
 
 .modal {
-  display: block;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  align-content: flex-start;
+  // display: block;
   // flex-direction: row;
   background-color: black;
-  // width: 600px;
   width: 90%;
   max-width: 100%;
-  // padding: 30px 50px;
-  // color: white;
   text-align: center;
   max-height: calc(100vh - 210px);
   overflow-y: auto;
   z-index: 1;
-  
-
-  // margin: 2rem 4rem rem 4rem;
-  // max-height: calc(100vh - 210px);
-  // overflow-y: auto;
 }
 
 #close {
@@ -594,6 +625,7 @@
 .modal-div {
 
   display: flex;
+  flex-grow: 1;
   // flex-direction: row;
   justify-content: space-evenly;
 }

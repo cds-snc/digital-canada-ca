@@ -1619,15 +1619,7 @@ article.post {
 //
 ////////////////////////////////////////////////////
 
-#site-results {
-  li {
-    list-style: none;
-  }
-  margin-top: 2rem;
-  padding: 0;
-  list-style: none;
-  flex: 2;
-}
+
 .rendered-list{
   text-align: left;
   padding: 0 2rem 0 2rem;
@@ -1635,61 +1627,8 @@ article.post {
   margin-bottom: 2rem;
 }
 
-.pagenumbers {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
-}
-
-.pagenumbers button {
-	width: 50px;
-	height: 50px;
-
-	appearance: none;
-	outline: none;
-	cursor: pointer;
-
-	background-color: #FFF;
-  border: 2.5px solid $black;
-
-	margin: 5px;
-	transition: 0.4s;
-
-	color: #000000;
-  &:hover {
-    background-color: #000000;
-    color: #FFF;
-  }
-	// font-size: 18px;
-	// text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
-	// box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
-}
 
 
-
-.pagenumbers button.active {
-  background: $primary-color;
-  border: 2.5px solid $primary-color;
-
-  &:hover {
-    border: 2.5px solid $black;
-  }
-}
-
-.sort-by-show-results {
-  display: flex;
-  justify-content: space-between;
-  color: white;
-  button {
-    border: none;
-    background-color: transparent;
-    &.clicked {
-      color: #149cdb;
-    }
-    
-  }
-}
 
 .site-search-div {
   display: flex;
@@ -1702,50 +1641,13 @@ article.post {
   // align-self: flex-start;
   color: white;
   
-  background: $medium-grey;
-  padding: 10px;
+
+  // padding: 10px;
   .filter-checkbox {
     display: inline-block;
     text-align: left;
   }
 }
-
-.dropbtn {
-  padding: 8px;
-  font-size: 16px;
-  cursor: pointer;
-  background-color: #FFF;
-  border: 2.5px solid $black;
-}
-
-.dropbtn:hover, .dropbtn:focus {
-  background: $primary-color;
-  border: 2.5px solid $black;
-}
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f1f1f1;
-  min-width: 160px;
-  overflow: auto;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-.dropdown a:hover {background-color: #ddd;}
 
 .show {display: block;}
 
