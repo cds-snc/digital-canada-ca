@@ -114,6 +114,7 @@
       <div class="search-modal-container" id="modal_container">
         <div class="modal">
           <div class="modal-div">
+            <!-- <span id="results-number">Showing</span> -->
             <input required type="search" name="q" id="q"/>
             
             <button id="close">Close</button>
@@ -130,18 +131,28 @@
             </div>
             
             <div class="results-div">
+              <!-- <div class="sort-by-show-results">
+                <span id="results-number">Showing</span>
+                <div>
+                  <button id="relevant">Most Relevant</button>
+                  <button id="recent">Most Recent</button>
+                </div>
+  
+              </div> -->
               
               <ul id="site-results">
                 <li >
                     Enter a keyword above to search this site.
                 </li>
               </ul>
-              <div >
-                <div class="filter-search">{{ i18n "filter-search"}} </div>
-                <div class="filter-checkbox">
-                    <div id="filter-form">
+              <div class="filter-box">
+                {{ i18n "filter-search"}} 
+                <div class="filter-search">
+                  
+                  <!-- <div class="filter-checkbox"> -->
+                    <div id="filter-form" class="filter-checkbox">
                         {{range $index, $element := $types}}
-                        <div>
+                        <div >
                             <input type="checkbox" id="{{$index}}" name="{{$element}}" onclick="checkboxClicked(this)" class="checkboxes">
                             <label for="{{$index}}" >{{ i18n $element }}<span id="{{$element}}">(0)</span></label>
                             
@@ -149,7 +160,9 @@
                         </div>
                         {{end}}
                       </div>  
+                  <!-- </div> -->
                 </div>
+
               
             </div>
             </div>

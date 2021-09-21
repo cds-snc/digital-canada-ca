@@ -1698,29 +1698,18 @@ article.post {
   display: none;
 }
 .filter-box {
-  display: block;
-  margin-left: 1rem;
+  // display: block;
+  // align-self: flex-start;
+  color: white;
+  
   background: $medium-grey;
   padding: 10px;
-
-  .filter-search {
-    display: block;
-    justify-content: space-between;
-    border-bottom: 1px solid white;
-
-    button {
-      background-color: transparent;
-      color: #000000;
-      border: none;
-      text-decoration: underline;
-      font-size: 16px;
-    }
-  }
-
   .filter-checkbox {
-    margin-top: 2rem;
+    display: inline-block;
+    text-align: left;
   }
 }
+
 .dropbtn {
   padding: 8px;
   font-size: 16px;

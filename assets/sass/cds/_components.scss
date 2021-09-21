@@ -507,6 +507,8 @@
 
 .results-div {
   display: flex;
+  // flex-direction: column;
+  // flex-wrap: wrap;
   justify-content: space-between;
 }
 
@@ -552,7 +554,7 @@
 
 
 .modal {
-  // display: flex;
+  display: block;
   // flex-direction: row;
   background-color: black;
   // width: 600px;
