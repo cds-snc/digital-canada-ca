@@ -114,31 +114,25 @@
       <div class="search-modal-container" id="modal_container">
         <div class="modal">
           <div class="modal-div">
-            <input required type="search" name="q" id="q"/>
-            
-            <button id="close">Close</button>
+            <div>
+              <i class="fa fa-search" aria-hidden="true" id="search-bar-icon"></i>
+              <input required type="search" name="q" id="q" >
+            <div class="close-btn" id="close">
+              <i class="fa fa-times"></i>
+              <span>Close </span>
+              
+              <!-- <button > Close</button> -->
+            </div>
+              
+            </div>
+
           </div>
 
           
 
             
             <div class="results-div">
-              <div class="site-results-list">
-                <div class="sort-by-show-results">
-                  <span id="results-number">Showing</span>
-                  <div>
-                    <button id="relevant">Most Relevant</button>
-                    <button id="recent">Most Recent</button>
-                  </div>
-    
-                </div>
-                
-                <ul id="site-results">
-                  <li >
-                      Enter a keyword above to search this site.
-                  </li>
-                </ul>
-              </div>
+
 
               <div class="filter-box">
                 {{ i18n "filter-search"}} 
@@ -159,6 +153,22 @@
                 </div>
 
               
+              </div>
+              <div class="site-results-list">
+                <div class="sort-by-show-results">
+                  <span id="results-number">Showing</span>
+                  <div>
+                    <button id="relevant">Most Relevant</button>
+                    <button id="recent">Most Recent</button>
+                  </div>
+    
+                </div>
+                
+                <ul id="site-results">
+                  <li >
+                      Enter a keyword above to search this site.
+                  </li>
+                </ul>
               </div>
             </div>
             

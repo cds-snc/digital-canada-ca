@@ -14,8 +14,10 @@ const check = document.getElementsByName("check");
 const checkboxes = document.getElementsByClassName("checkboxes");
 let searchQuery = location.search.slice(1).split("&")[0].split("=")[1]
 const inputVal = document.getElementById("q");
-const params = new URLSearchParams(location.search);
+// let params = new URLSearchParams(location.search);
 const loadMoreBtn = document.getElementById("load-more");
+let  params, post_type;
+const url = new URL(window.location);
 
 
 /**
@@ -45,16 +47,9 @@ async function initSearchIndex() {
   renderSearchResult(results);
   
   if (!inputVal.value) inputVal.value = getQueryVariable();
-
-  // generateItems(current_page, results);
   
   
   // contentNumberLabel(results);
-
-  // dropdownBtn.innerText = relevantBtn.innerText;
-  
-  
-
 }
 
 
@@ -70,7 +65,6 @@ function initSearchSite() {
 }
 
 initSearchSite()
-const theSearch = new URLSearchParams(window.location.search);
 
 const open = document.getElementById("open")
 const modal_container = document.getElementById("modal_container")
@@ -81,9 +75,10 @@ const close = document.getElementById("close")
 open.addEventListener('click', () => {
   modal_container.classList.add('show-modal-container');
   
-  
-  
-  window.history.pushState({}, '', `${location.origin}?q=`)
+  // window.history.pushState({}, '', `${location.origin}?q=`)
+  url.searchParams.set('q', '');
+  window.history.pushState({}, '', url);
+
 
   
 })
@@ -123,12 +118,15 @@ loadMoreBtn.addEventListener('click', () => {
 function keyUp(ev) {
   
   
-  params.set('', ev.target.value);
+  // params.set('', ev.target.value);
 
-  window.history.pushState({}, '', `${location.origin}?q=${ev.target.value}`)
+  // window.history.pushState({}, '', `${location.origin}?q=${ev.target.value}`)
+  url.searchParams.set('q', ev.target.value);
+  window.history.pushState({}, '', url);
 
-
-  results = searchSite(location.search.slice(1).split("&")[0].split("=")[1]);
+  
+  // results = searchSite(location.search.slice(1).split("&")[0].split("=")[1]);
+  results = searchSite(getQueryVariable());
   renderSearchResult(results)
   // contentNumberLabel(results)
 
@@ -164,7 +162,7 @@ function contentNumberLabel(items) {
 
 
   for (const [key, value] of Object.entries(map)) {
-    console.log(key, value);
+    
     if (document.getElementById(key).id == key) {
       document.getElementById(key).innerHTML = `<span>(${value})</span>`;
     }
@@ -199,7 +197,7 @@ function renderSearchResult(items) {
 
   searchResults.innerHTML = resultList;
   contentNumberLabel(items);
-  resultNumber.innerHTML = `Showing ${results.length} results`;
+  resultNumber.innerHTML = `Showing ${items.length} results`;
 }
 
 
@@ -210,29 +208,13 @@ function renderSearchResult(items) {
  */
 
 function getQueryVariable() {
+  
   if (location.search.slice(1).split("&")[0].split("=")[1] == undefined) {
     return ""
   } else {
-    return location.search.slice(1).split("&")[0].split("=")[1];
+    return decodeURIComponent(location.search.slice(1).split("&")[0].split("=")[1].replace(/\+/g, "%20"));
   }
-  // let params = new URLSearchParams(location.search);
-  // let q = params.get("q");
 
-  // if (!q) {
-  //   return ""
-  // } else {
-  //   return q
-  // }
-
-  
-  // var query = window.location.search.substring(1);
-  // var vars = query.split("&");
-  // for (var i = 0; i < vars.length; i++) {
-  //   var pair = vars[i].split("=");
-  //   if (pair[0] === variable) {
-  //     return decodeURIComponent(pair[1].replace(/\+/g, "%20"));
-  //   }
-  // }
 }
 
 /**
@@ -316,57 +298,50 @@ window.onclick = function (event) {
   }
 };
 
-function handleData() {
-  pagination_element.innerHTML = ''
-  if (typesArray.length !== 0) {
-    getType(typesArray);
-    // var filtered = results.filter(function(content){
-    //   return typesArray.indexOf(content.type) != -1;
-    // });
-  
-    // results = filtered;
-    // renderSearchResult(results);
+// function handleData() {
+//   pagination_element.innerHTML = ''
+//   if (typesArray.length !== 0) {
+//     getType(typesArray);
 
-  } else {
-    location.reload()
-  }
+//   } else {
+//     location.reload()
+//   }
   
   
-}
+// }
 
 function checkboxClicked(val) {
   if (val.checked) {
-    typesArray.push(val.name)
+    typesArray.push(val.name);
+    url.searchParams.append('post_type', val.name);
+    
+    window.history.pushState({}, '', url);  
   } else {
-    if (typesArray.indexOf(val.name) > -1) {
-      typesArray.splice(typesArray.indexOf(val.name), 1)
-    }
+    post_type = url.searchParams.getAll('post_type').filter(type => type !== val.name)
+    
+    post_type.length > 0 ? deletePostType(post_type) : url.searchParams.delete('post_type');
+    window.history.pushState({}, '', url); 
+    
   }
-  console.log(typesArray);
+  getType(url.searchParams.getAll('post_type'))
 
+}
+
+function deletePostType(postType) {
+  url.searchParams.delete('post_type');
+  for (const type of postType) {
+    url.searchParams.append('post_type', type);
+  }
 }
 
 function getType(type) {
-
-// there is an issue where if say you check one thing and search, and then check another and search, the second check does not get rendered
-//this is likely because we've already changed results.
   var filtered = results.filter(function(content){
     return type.indexOf(content.type) != -1;
   });
-  console.log(filtered.length);
-  resultNumber.innerHTML = `Showing ${filtered.length} results`;
-  // results = filtered;
-  renderSearchResult(filtered);
-  
-
-  
+  console.log('filter', filtered);
+  filtered == 0 ? renderSearchResult(results) : renderSearchResult(filtered)
 }
 
-window.addEventListener('popstate', (event) => {
-  console.log('popped');
-})
-
-// console.log(window.location.href)
 if(window.location.href.indexOf('?q=') != -1) {
   document.getElementById("modal_container").classList.add('show-modal-container');
 } else {
