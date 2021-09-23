@@ -13,7 +13,7 @@ exec:
     name: Alex MacEachern
     title:
       en: Chief of Staff
-      fr: Chef de cabinet
+      fr: Cheffe de cabinet
     imagehash: alex_maceachern_0d6ca2eb31
     email: Alex.MacEachern@tbs-sct.gc.ca
     linkedin: alexandra-maceachern-4b0209b2
@@ -30,8 +30,8 @@ exec:
   - archived: false
     name: Andrea Gilbrook
     title:
-      en: Head of Talent
-      fr: Chef du talent
+      en: Director of Talent & Operations
+      fr: Directrice du talent et des opérations internes
     imagehash: andrea_gilbrook_6ea1e45ba5
     email: Andrea.Gilbrook@tbs-sct.gc.ca
     linkedin: andreagilbrook
@@ -39,16 +39,16 @@ exec:
   - archived: false
     name: Andréanne Trudeau
     title:
-      en: Head of Product Management
-      fr: Chef de la gestion de produits
+      en: Head of Embedded Teams
+      fr: Cheffe des équipes intégrées
     imagehash: andreanne_trudeau_9074cc18b5
     email: andreanne.trudeau@tbs-sct.gc.ca
     linkedin: andreannetrudeau
   - archived: false
     name: Chelsea Novak
     title:
-      en: Head of Outreach
-      fr: Chef de liaison et diffusion
+      en: Director of Outreach
+      fr: Directrice de liaison et diffusion
     imagehash: chelsea_novak_05ac9ef7d7
     email: chelsea.novak@tbs-sct.gc.ca
     github: chelseanovak
@@ -57,8 +57,8 @@ exec:
   - archived: false
     name: Eman El-Fayomi
     title:
-      en: Head of Design
-      fr: Chef de la conception
+      en: Head of Learning Resources
+      fr: Cheffe des ressources d'apprentissage
     imagehash: eman_elfayomi_f0738a4ba5
     email: Eman.El-Fayomi@tbs-sct.gc.ca
     linkedin: eelfayomi
@@ -70,16 +70,6 @@ exec:
       fr: Directrice - Alerte COVID
     imagehash: small_emily_kuret_dcd8f527da
     email: emily.kuret@tbs-sct.gc.ca
-  - archived: false
-    name: Jeff Maher
-    title:
-      en: Interim Director of Digital Practice
-      fr: Directeur par intérim des pratiques numériques
-    imagehash: jeff_maher_e8b4885317
-    email: jeff.maher@tbs-sct.gc.ca
-    github: jeffmaher
-    linkedin: jeffmaher
-    twitter: plusjeff
   - archived: false
     name: John Millons
     title:
@@ -433,6 +423,16 @@ team:
     imagehash: jeana_frost_b05678fb7f
     email: jeana.frost@tbs-sct.gc.ca
     linkedin: jeanafrost
+  - archived: false
+    name: Jeff Maher
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: jeff_maher_e8b4885317
+    email: jeff.maher@tbs-sct.gc.ca
+    github: jeffmaher
+    linkedin: jeffmaher
+    twitter: plusjeff
   - archived: false
     name: Jennifer Fletcher
     title:
