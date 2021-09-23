@@ -40,8 +40,8 @@ in-flight:
   other: "Produits en cours"
 key-contacts:
   other: "Contacts principaux"
-senior_management:
-  other: "Équipe de la direction"
+leadership:
+  other: "Direction"
 design:
   other: "Conception"
 design_research:
