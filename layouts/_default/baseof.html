@@ -115,44 +115,28 @@
         <div class="modal">
           <div class="modal-div">
             <div>
-              <i class="fa fa-search" aria-hidden="true" id="search-bar-icon"></i>
-              <input required type="search" name="q" id="q" >
-            <div class="close-btn" id="close">
-              <i class="fa fa-times"></i>
-              <span>Close </span>
-              
-              <!-- <button > Close</button> -->
+                <i class="fa fa-search" aria-hidden="true" id="search-bar-icon"></i>
+                <input required type="search" name="q" id="q" >
+              <div class="close-btn" id="close">
+                <i class="fa fa-times"></i>
+                <span>Close </span>
+                
+              </div>
             </div>
-              
-            </div>
-
           </div>
-
-          
-
-            
             <div class="results-div">
-
-
               <div class="filter-box">
                 {{ i18n "filter-search"}} 
                 <div class="filter-search">
-                  
-                  
                   <div id="filter-form" class="filter-checkbox">
                         {{range $index, $element := $types}}
                         <div >
                             <input type="checkbox" id="{{$index}}" name="{{$element}}" onclick="checkboxClicked(this)" class="checkboxes">
                             <label for="{{$index}}" >{{ i18n $element }}<span id="{{$element}}">(0)</span></label>
-                            
-                            
                         </div>
                         {{end}}
                   </div>  
-                  
                 </div>
-
-              
               </div>
               <div class="site-results-list">
                 <div class="sort-by-show-results">
@@ -165,7 +149,7 @@
                 </div>
                 
                 <ul id="site-results">
-                  <li >
+                  <li class="rendered-list">
                       Enter a keyword above to search this site.
                   </li>
                 </ul>
