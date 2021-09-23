@@ -13,7 +13,7 @@ exec:
     name: Alex MacEachern
     title:
       en: Chief of Staff
-      fr: Chef de cabinet
+      fr: Cheffe de cabinet
     imagehash: alex_maceachern_0d6ca2eb31
     email: Alex.MacEachern@tbs-sct.gc.ca
     linkedin: alexandra-maceachern-4b0209b2
@@ -30,8 +30,8 @@ exec:
   - archived: false
     name: Andrea Gilbrook
     title:
-      en: Head of Talent
-      fr: Chef du talent
+      en: Director of Talent & Operations
+      fr: Directrice du talent et des opérations internes
     imagehash: andrea_gilbrook_6ea1e45ba5
     email: Andrea.Gilbrook@tbs-sct.gc.ca
     linkedin: andreagilbrook
