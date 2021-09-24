@@ -601,6 +601,8 @@
 #load-more {
   background-color: #000000;
   color: white;
+  width: 20%;
+  align-self: center;
   margin-bottom: 1rem;
 }
 
@@ -611,7 +613,7 @@
 
 .modal-div {
   flex-grow: 1;
-  background-color: blue;
+  position: relative;
 
   div:not(.close-btn) {
     display: flex;
@@ -645,9 +647,6 @@
   .close-btn {
     display: flex;
     flex-direction: column;
-    // background-color: green;
-    // padding-top: 1rem;
-    // margin-top: 4rem;
     i {
       color: $primary-color;
       
