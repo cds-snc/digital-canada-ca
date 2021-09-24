@@ -43,6 +43,8 @@ async function initSearchIndex() {
   results = searchSite(getQueryVariable());
 
   renderSearchResult(results);
+  // console.log('PI', pagesIndex);
+  // console.log('res', results);
   
   
   if (!inputVal.value) inputVal.value = getQueryVariable();
@@ -122,6 +124,11 @@ function keyUp(ev) {
   window.history.pushState({}, '', url);
   results = searchSite(getQueryVariable());
   renderSearchResult(results)
+  
+  if (filtered) {
+    renderSearchResult(getFilteredSearch(getQueryVariable()).filter(filterUndefined));
+  }
+
 
 
 }
@@ -233,18 +240,39 @@ function searchSite(query) {
 
 
 function getSearchResults(query) {
-  if (query) {
-    console.log('search is:', searchIndex.search(`${query}*`))
-    return searchIndex.search(query).flatMap((hit) => {
-      if (hit.ref == "undefined") return [];
-      let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
-      pageMatch.score = hit.score;
-      return [pageMatch];
-    });
-  } else {
-    return pagesIndex;
-  }
+  // if (query) {
+  //   return searchIndex.search(query).flatMap((hit) => {
+  //     if (hit.ref == "undefined") return [];
+  //     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
+  //     pageMatch.score = hit.score;
+  //     return [pageMatch];
+  //   });
+  // } else {
+  //   return pagesIndex;
+  // }
+  return searchIndex.search(query).flatMap((hit) => {
+    if (hit.ref == "undefined") return [];
+    let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
+    pageMatch.score = hit.score;
+    return [pageMatch];
+  });
 
+}
+
+function getFilteredSearch(query) {
+  return searchIndex.search(query).flatMap((hit) => {
+    if (hit.ref == "undefined") return [];
+    let pageMatch = filtered.filter((page) => page.href === hit.ref)[0];
+    if (pageMatch) pageMatch.score = hit.score;
+    return [pageMatch];
+  });
+}
+
+function filterUndefined(item) {
+  if (item !== undefined) {
+    return true;
+  }
+  return false;
 }
 
 /**
@@ -323,6 +351,9 @@ function getType(type) {
   filtered = results.filter(function(content){
     return type.indexOf(content.type) != -1;
   });
+  // filtered = results.filter((content) => {
+  //   return content.type === type;
+  // })
   
   renderSearchResult(renderResults());
 }
