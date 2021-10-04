@@ -799,24 +799,33 @@ span.livefr {
     font-size: 2.3rem;
   }
 
-  .second-submit-button {
+  .submit-button {
     position: relative;
     padding: 8px 16px;
+    margin-bottom: 1.5rem;
     background-color: #000000;
-    cursor: pointer;
+    border: none;
+    display: inline-block;
+    
+    @include label;
+    padding: 10px 15px;
+    border: none;
 
-
+    &.inactive {
+      cursor: not-allowed;
+      pointer-events: all !important;
+    }
   }
-  .second-submit-button-text {
+  .submit-button-text {
     color: white !important;
     transition: all 0.2s;
   }
 
-  .second--loading .second-submit-button-text{
+  .loading .submit-button-text{
     visibility: hidden;
     opacity: 0;
   }
-  .second--loading::after {
+  .loading::after {
     content: "";
     position: absolute;
     width: 16px;
@@ -833,11 +842,6 @@ span.livefr {
 
   }
 
-  // .second-submit-button::after {
-  //   cursor: not-allowed;
-  //   pointer-events: all !important;
-  // }
-
   @keyframes button-loading-spinner {
     from {
       transform: rotate(0turn);
@@ -848,66 +852,6 @@ span.livefr {
     }
   }
 
-
-
-  .submit-btn {
-    position: relative;
-    margin-bottom: 1.5rem;
-    background-color: black;
-    display: inline-block;
-    
-    @include label;
-    padding: 10px 15px;
-    border: none;
-
-    .submit-btn--text{
-      color: white !important;
-      transition: all 0.2s;
-    }
-
-    .submit-btn--loading{
-      // visibility: hidden;
-      // opacity: 0;
-    }
-
-    &.inactive {
-      background-color: grey;
-      cursor: not-allowed;
-      pointer-events: all !important;
-    }
-
-    .spinner {
-      display: none;
-      opacity: 0;
-      color: white;
-
-      max-width: 0px;
-      -webkit-transition: opacity 0.25s, max-width 0.45s;
-      -moz-transition: opacity 0.25s, max-width 0.45s;
-      -o-transition: opacity 0.25s, max-width 0.45s;
-      transition: opacity 0.25s, max-width 0.45s;
-
-      &.active {
-        display: inline;
-
-        // justify-content: center;
-        
-        opacity: 1;
-        // width: 30px;
-        // height: 30px;
-        // top: 0;
-        // bottom: 0;
-        // right: 0;
-        // left: 0;
-        // margin: auto;
-      }
-    }
-
-    svg {
-      fill: white;
-      margin-left: 10px;
-    }
-  }
   .privacy-link {
     margin-bottom: 4rem;
     a {

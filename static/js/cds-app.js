@@ -144,8 +144,9 @@ $(document).ready(function() {
     // $("#submitButton").attr("disabled", true);
     // $("#submitButton").toggleClass("submit-btn--loading")
     // $("#buttonSpinner").toggleClass("active");
-    $("#second-submit-btn").toggleClass("second--loading");
-    $("#second-submit-btn").attr("disabled", true);
+    $("#submit-btn").toggleClass("loading");
+    $("#submit-btn").toggleClass("inactive");
+    $("#submit-btn").attr("disabled", true);
 
     /**
      * Collect data for submitting
