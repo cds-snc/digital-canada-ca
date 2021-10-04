@@ -830,7 +830,13 @@ span.livefr {
     border-top-color: white;
     border-radius: 50%;
     animation: button-loading-spinner 1s ease infinite;
+
   }
+
+  // .second-submit-button::after {
+  //   cursor: not-allowed;
+  //   pointer-events: all !important;
+  // }
 
   @keyframes button-loading-spinner {
     from {
@@ -1477,15 +1483,20 @@ article.post {
 }
 
 .partnerships-info {
-  margin: 6rem 0 4rem 0;
-
   h2 {
-    margin: 2rem 0 1rem 0;
+    margin: 2rem 0 3rem 0;
+  }
+  p {
+    width: 80%;
   }
 }
 
 .partnership-products {
   padding: 5rem 0;
+
+  h2 {
+    margin: 1rem 0 4rem 0;
+  }
 }
 
 .border-discovery,
