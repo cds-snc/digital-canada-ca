@@ -1621,6 +1621,9 @@ article.post {
 
 
 .rendered-list{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
   text-align: left;
   padding: 0 2rem 0 2rem;
   color: white;
@@ -1659,4 +1662,3 @@ article.post {
   width: 100%;
   color: #000000;
 }
-

@@ -510,6 +510,7 @@
 
   .site-results-list {
     flex: 1;
+    
   
     #site-results {
       list-style: none;
@@ -664,4 +665,9 @@
   &:hover {
     text-decoration: underline;
   }
+}
+.val-colour{
+  background-color: red;
+  margin-left: 2rem;
+  
 }

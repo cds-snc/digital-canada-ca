@@ -45,8 +45,6 @@ async function initSearchIndex() {
 
   renderSearchResult(results);
   typesArrayLabels(results)
-  // console.log('PI', pagesIndex);
-  // console.log('res', results);
 
   
   if (!inputVal.value) inputVal.value = getQueryVariable();
@@ -173,13 +171,13 @@ function contentNumberLabel(items) {
   }
 }
 
-const filterValueId = document.getElementById("test-div");
-filterValueId.style.backgroundColor = 'red';
+
+const colours = ['#FFCC33', '#066169', '#AB2328', '#004986', '#115740', '#E87722'];
+
 function typesArrayLabels(items) {
   let typesArray = [];
   for (let i = 0; i < items.length; i++) {
     typesArray.push(items[i].type)
-    // console.log(results[i].type)
   }
 
   const occurences = typesArray.reduce(function (acc, curr){
@@ -189,22 +187,28 @@ function typesArrayLabels(items) {
   
 
   let totalItems = ""
-  let vals = ""
+  
+  let counter = 0;
+  
+  if (counter === colours.length || counter > colours.length) { counter = 0; }
 
   for (const [key, value] of Object.entries(occurences)) {
-    // vals += `<span class="content-types">${value}</span>`
+    
     totalItems += `
-    <div>
-      
       <input type="checkbox" id=${key} name=${key} style="display: none;" onClick="checkboxClicked(this)">
-      <label class="content-types" for=${key}>${capitalizeFirstLetter(key)} <span class="filter-value" id="filter-value-id">(${value})</span></label>
+      <label class="content-types" for=${key}>${capitalizeFirstLetter(key)} <span id="filter-value-id" style="background-color:${renderFilterValueColour(key)}; margin-left: 2rem;">(${value})</span></label>
       
-      
-    </div>
     `
+    counter++;
+    
+    renderFilterValueColour(key);
+    
+
+
   }
   typeTotal.innerHTML = totalItems
-  // filterValueId.innerHTML = vals
+
+  
 }
 function capitalizeFirstLetter(string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
@@ -231,7 +235,7 @@ function renderSearchResult(items) {
     <div class="rendered-list">
       <div><a href='${paginatedItems[i].href}' target="_blank" class="render-list-title">${paginatedItems[i].title}</a></div>
       <div>${paginatedItems[i].description}</div>
-      <div>${paginatedItems[i].type}</div> 
+      <div style="padding: 0 1rem 0 1rem; background-color: ${renderFilterValueColour(paginatedItems[i].type)}">${paginatedItems[i].type.toUpperCase()}</div> 
     </div>
   </li>`;
   }
@@ -415,7 +419,14 @@ function renderResults() {
   return result;
 }
 
-function renderFilterValueColour() {
-  let counter = 0;
-  const colours = ['#FFCC33', '#066169', '#AB2328', '#004986', '#115740', '#E87722']
+
+const colourFilter = {"section": "#FFCC33", "blog": "#066169", "page": "#AB2328", "a11y": "#004986", "engagement": "#115740", "roadmap": "#E87722"};
+function renderFilterValueColour(param) {
+  
+  for (const [key, value] of Object.entries(colourFilter)) {
+    if (param == key) {
+      
+      return value
+    }
+  }
 }
