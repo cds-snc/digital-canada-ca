@@ -574,6 +574,15 @@ team:
     linkedin: melbanyard
     twitter: melbanyard
   - archived: false
+    name: Michael Karlin
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: michaelkarlin_b06df6ba55
+    email: michael.karlin@tbs-sct.gc.ca
+    linkedin: michael-karlin-73052a4/
+    twitter: supergovernance
+  - archived: false
     name: Mohamed Nur
     title:
       en: Development
