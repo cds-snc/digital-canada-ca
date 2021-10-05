@@ -1636,17 +1636,19 @@ article.post {
 .hide-filter-label {
   display: none;
 }
+#filter-title{
+  display: flex;
+}
 .filter-box {
-  // display: block;
-  // align-self: flex-start;
+  padding: 0 3rem 0 3rem;
   color: white;
-  
 
-  // padding: 10px;
   .filter-checkbox {
-    display: inline-block;
-    text-align: left;
+    
   }
+}
+.filter-value{
+
 }
 
 .show {display: block;}

@@ -109,59 +109,8 @@
       </div>
       {{ end }}
     </header>
-    {{$types := slice "section" "blog" "tools-and-resources" "a11y" "categories" "roadmap" "engagement" "products" "form-submission" "legal" "tags" "page"}}
     <main role="main" property="mainContentOfPage">
-      <div class="search-modal-container" id="modal_container">
-        <div class="modal">
-          <div class="modal-div">
-            <div>
-                <i class="fa fa-search" aria-hidden="true" id="search-bar-icon"></i>
-                <input required type="search" name="q" id="q" >
-              <div class="close-btn" id="close">
-                <i class="fa fa-times"></i>
-                <span>Close </span>
-                
-              </div>
-            </div>
-          </div>
-            <div class="results-div">
-              <div class="filter-box">
-                {{ i18n "filter-search"}} 
-                <div class="filter-search">
-                  <div id="filter-form" class="filter-checkbox">
-                        {{range $index, $element := $types}}
-                        <div >
-                            <input type="checkbox" id="{{$index}}" name="{{$element}}" onclick="checkboxClicked(this)" class="checkboxes">
-                            <label for="{{$index}}" >{{ i18n $element }}<span id="{{$element}}">(0)</span></label>
-                        </div>
-                        {{end}}
-                  </div>  
-                </div>
-              </div>
-              <div class="site-results-list">
-                <div class="sort-by-show-results">
-                  <span id="results-number">Showing</span>
-                  <div>
-                    <button id="relevant">Most Relevant</button>
-                    <button id="recent">Most Recent</button>
-                  </div>
-    
-                </div>
-                
-                <ul id="site-results">
-                  <li class="rendered-list">
-                      Enter a keyword above to search this site.
-                  </li>
-                </ul>
-              </div>
-            </div>
-            
-
-            <button id="load-more">Load more </button>
-          
-        </div>
-      </div>
-      
+      {{partial "search-list.html"}}
       <section id="wb-cont">
         {{ block "main" . }}
         <section class="content">
@@ -180,7 +129,7 @@
     <footer role="contentinfo">
       {{ partial "footer.html" }}
     </footer>
-    <script type="text/javascript" src="/js/search.js"></script>
+    <!-- <script type="text/javascript" src="/js/search.js"></script> -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
       integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT"
       crossorigin="anonymous"></script>
@@ -188,7 +137,7 @@
     <script src="/lib-cds/gcweb-dist/GCWeb/js/theme.min.js"></script>
     <script src="/js/cds-app.js"></script>
     <script src="/js/lazyload.js" async=""></script>
-    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <!-- <script src="https://unpkg.com/lunr/lunr.js"></script> -->
     
     
     

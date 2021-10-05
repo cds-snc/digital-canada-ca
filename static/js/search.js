@@ -1,13 +1,14 @@
 
 var current_page = 1;
 let pagesIndex, searchIndex, results, searchTerm, filtered, filRes, pageRes;
-let typesArray = [];
+
 const searchResults = document.getElementById("site-results");
 const resultNumber = document.getElementById("results-number");
 const dropdownBtn = document.getElementById("dropdownbtn");
 const relevantBtn = document.getElementById("relevant");
 const recentBtn = document.getElementById("recent");
 const pagination_element = document.getElementById("pagination");
+const typeTotal = document.getElementById("typeTotal")
 let rows = 5;
 const typeCount = document.getElementById("type-count");
 const check = document.getElementsByName("check");
@@ -43,9 +44,10 @@ async function initSearchIndex() {
   results = searchSite(getQueryVariable());
 
   renderSearchResult(results);
+  typesArrayLabels(results)
   // console.log('PI', pagesIndex);
   // console.log('res', results);
-  
+
   
   if (!inputVal.value) inputVal.value = getQueryVariable();
   
@@ -124,6 +126,7 @@ function keyUp(ev) {
   window.history.pushState({}, '', url);
   results = searchSite(getQueryVariable());
   renderSearchResult(results)
+  typesArrayLabels(results)
   
   if (filtered) {
     renderSearchResult(getFilteredSearch(getQueryVariable()).filter(filterUndefined));
@@ -170,6 +173,43 @@ function contentNumberLabel(items) {
   }
 }
 
+const filterValueId = document.getElementById("test-div");
+filterValueId.style.backgroundColor = 'red';
+function typesArrayLabels(items) {
+  let typesArray = [];
+  for (let i = 0; i < items.length; i++) {
+    typesArray.push(items[i].type)
+    // console.log(results[i].type)
+  }
+
+  const occurences = typesArray.reduce(function (acc, curr){
+    return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
+  }, {});
+  
+  
+
+  let totalItems = ""
+  let vals = ""
+
+  for (const [key, value] of Object.entries(occurences)) {
+    // vals += `<span class="content-types">${value}</span>`
+    totalItems += `
+    <div>
+      
+      <input type="checkbox" id=${key} name=${key} style="display: none;" onClick="checkboxClicked(this)">
+      <label class="content-types" for=${key}>${capitalizeFirstLetter(key)} <span class="filter-value" id="filter-value-id">(${value})</span></label>
+      
+      
+    </div>
+    `
+  }
+  typeTotal.innerHTML = totalItems
+  // filterValueId.innerHTML = vals
+}
+function capitalizeFirstLetter(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
 /**
  * Renders the search results
  * @param $items
@@ -177,7 +217,7 @@ function contentNumberLabel(items) {
 function renderSearchResult(items) {
   let page = current_page;
   page--;
-  // resultNumber.innerHTML = `Showing ${results.length} results`;
+  
   let start = 0;
   let end = start + rows;
 
@@ -197,7 +237,8 @@ function renderSearchResult(items) {
   }
 
   searchResults.innerHTML = resultList;
-  contentNumberLabel(items);
+  // contentNumberLabel(items);
+  // typesArrayLabels(items)
   resultNumber.innerHTML = `Showing ${items.length} results`;
 }
 
@@ -323,6 +364,7 @@ function sortByHitScore() {
 }
 
 function checkboxClicked(val) {
+  
   if (val.checked) {
     // typesArray.push(val.name);
     url.searchParams.append('post_type', val.name);
@@ -337,6 +379,10 @@ function checkboxClicked(val) {
   }
   getType(url.searchParams.getAll('post_type'))
 
+}
+
+function filteredClicked(val) {
+  console.log('val', val)
 }
 
 function deletePostType(postType) {
@@ -367,4 +413,9 @@ if(window.location.href.indexOf('?q=') != -1) {
 function renderResults() {
   let result = filtered == 0 || filtered == undefined ? results : filtered
   return result;
+}
+
+function renderFilterValueColour() {
+  let counter = 0;
+  const colours = ['#FFCC33', '#066169', '#AB2328', '#004986', '#115740', '#E87722']
 }

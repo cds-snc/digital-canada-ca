@@ -1,0 +1,50 @@
+{{$types := slice "section" "blog" "tools-and-resources" "a11y" "categories" "roadmap" "engagement" "products" "form-submission" "legal" "tags" "page"}}
+<div class="search-modal-container" id="modal_container">
+  <div class="modal">
+    <div class="modal-div">
+      <div>
+        <i class="fa fa-search" aria-hidden="true" id="search-bar-icon"></i>
+        <input required type="search" name="q" id="q">
+        <div class="close-btn" id="close">
+          <i class="fa fa-times"></i>
+          <span>Close </span>
+
+        </div>
+      </div>
+    </div>
+    <div class="results-div">
+      <div class="filter-box">
+        <div id="filter-title">{{ i18n "filter-search"}}</div>
+        
+        
+        <div id="filter-form" >
+          
+          <div id="typeTotal" class="filter-checkbox"><div id="test-div">Hello</div></div>
+        </div>
+      </div>
+      <div class="site-results-list">
+        <div class="sort-by-show-results">
+          <span id="results-number">Showing</span>
+          <div>
+            <button id="relevant">Most Relevant</button>
+            <button id="recent">Most Recent</button>
+          </div>
+
+        </div>
+
+        <ul id="site-results">
+          <li>
+            Enter a keyword above to search this site.
+          </li>
+        </ul>
+      </div>
+    </div>
+
+
+    <button id="load-more">Load more </button>
+
+  </div>
+</div>
+
+<script type="text/javascript" src="/js/search.js"></script>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
