@@ -40,18 +40,20 @@ async function initSearchIndex() {
   } catch (e) {
     console.log(e);
   }
-
+  if (!inputVal.value) inputVal.value = getQueryVariable();
   results = searchSite(getQueryVariable());
+  // results = pagesIndex;
+  
 
   renderSearchResult(results);
   typesArrayLabels(results)
+  // renderSearchResult(renderResults())
+  // typesArrayLabels(renderResults())
 
   
-  if (!inputVal.value) inputVal.value = getQueryVariable();
   
   
-  // contentNumberLabel(results);
-  // getFilteredSearchResult()
+
 }
 
 
@@ -99,17 +101,20 @@ recentBtn.addEventListener('click', () => {
 close.addEventListener('click', () => {
   modal_container.classList.remove('show-modal-container');
   
-  var uri = window.location.toString();
-  
   inputVal.value = ""
   renderSearchResult(pagesIndex)
-  
+  typesArrayLabels(pagesIndex)
 
-  if (uri.indexOf("?") > 0) {
-    var clean_uri = uri.substring(0, uri.indexOf("?"))
-    
-    window.history.replaceState({}, document.title, clean_uri);
-  }
+  
+  let keysForDel = [];
+  url.searchParams.forEach((v, k) => {
+    keysForDel.push(k);
+  });
+  keysForDel.forEach(k => {
+    url.searchParams.delete(k);
+  })
+  window.history.pushState({}, '', location.origin)
+  
 })
 loadMoreBtn.addEventListener('click', () => {
   current_page++;
@@ -140,6 +145,9 @@ window.onpopstate = function() {
   results = searchSite(getQueryVariable());
 
   renderSearchResult(results);
+  typesArrayLabels(results);
+  // renderSearchResult(renderResults())
+  // typesArrayLabels(renderResults())
   if(window.location.href.indexOf('?q=') != -1) {
     document.getElementById("modal_container").classList.add('show-modal-container');
   } else {
@@ -295,12 +303,12 @@ function getSearchResults(query) {
   // } else {
   //   return pagesIndex;
   // }
-  return searchIndex.search(query).flatMap((hit) => {
+  return query ? searchIndex.search(query).flatMap((hit) => {
     if (hit.ref == "undefined") return [];
     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
     pageMatch.score = hit.score;
     return [pageMatch];
-  });
+  }) : pagesIndex;
 
 }
 
@@ -385,9 +393,6 @@ function checkboxClicked(val) {
 
 }
 
-function filteredClicked(val) {
-  console.log('val', val)
-}
 
 function deletePostType(postType) {
   url.searchParams.delete('post_type');
@@ -401,9 +406,6 @@ function getType(type) {
   filtered = results.filter(function(content){
     return type.indexOf(content.type) != -1;
   });
-  // filtered = results.filter((content) => {
-  //   return content.type === type;
-  // })
   
   renderSearchResult(renderResults());
 }

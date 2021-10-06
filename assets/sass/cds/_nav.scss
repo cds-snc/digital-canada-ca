@@ -108,12 +108,18 @@
 }
 
 .top-nav--search-icon {
-  margin-left: 4rem;
-  background-color: white;
-  border: none;
-  height: 3.5rem;
-  width: 3.5rem;
-  border-radius: 50%;
+  margin-left: 2rem;
+  border: 2px solid white;
+  background-color: transparent;
+  // padding: 0.8rem;
+  // background-color: white;
+  // border: none;
+  height: 4rem;
+  width: 4rem;
+  // border-radius: 50%;
+  #search-icon {
+    color: white;
+  }
 }
 
 // Main Navigation Link
