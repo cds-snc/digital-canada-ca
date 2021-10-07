@@ -798,20 +798,60 @@ span.livefr {
   .help-text {
     font-size: 2.3rem;
   }
-  .submit-btn {
+
+  .submit-button {
+    position: relative;
+    padding: 8px 16px;
     margin-bottom: 1.5rem;
-    background-color: black;
+    background-color: #000000;
+    border: none;
     display: inline-block;
-    color: white !important;
+    
     @include label;
     padding: 10px 15px;
     border: none;
 
-    svg {
-      fill: white;
-      margin-left: 10px;
+    &.inactive {
+      cursor: not-allowed;
+      pointer-events: all !important;
     }
   }
+  .submit-button-text {
+    color: white !important;
+    transition: all 0.2s;
+  }
+
+  .loading .submit-button-text{
+    visibility: hidden;
+    opacity: 0;
+  }
+  .loading::after {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border: 4px solid transparent;
+    border-top-color: white;
+    border-radius: 50%;
+    animation: button-loading-spinner 1s ease infinite;
+
+  }
+
+  @keyframes button-loading-spinner {
+    from {
+      transform: rotate(0turn);
+    }
+
+    to {
+      transform: rotate(1turn);
+    }
+  }
+
   .privacy-link {
     margin-bottom: 4rem;
     a {
