@@ -1,8 +1,9 @@
 
 var current_page = 1;
-let pagesIndex, searchIndex, results, searchTerm, filtered, filRes, pageRes;
+let pagesIndex, searchIndex, results, searchTerm, filtered, filRes, pageRes, checkbox, checkLabel, checkValue;
 
 const searchResults = document.getElementById("site-results");
+const cb = document.getElementById("cb");
 const resultNumber = document.getElementById("results-number");
 const dropdownBtn = document.getElementById("dropdownbtn");
 const relevantBtn = document.getElementById("relevant");
@@ -19,6 +20,10 @@ const inputVal = document.getElementById("q");
 const loadMoreBtn = document.getElementById("load-more");
 let  params, post_type;
 const url = new URL(window.location);
+let checkDiv;
+// checkDiv.id = 'checkDiv'
+let theDiv = document.querySelector('#typeTotal')
+const colours = ['#FFCC33', '#066169', '#AB2328', '#004986', '#115740', '#E87722'];
 
 
 /**
@@ -46,16 +51,10 @@ async function initSearchIndex() {
   
 
   renderSearchResult(results);
-  typesArrayLabels(results)
-  // renderSearchResult(renderResults())
-  // typesArrayLabels(renderResults())
-
-  
-  
-  
+  // typesArrayLabels(results)
+  renderCheckBoxFilter();
 
 }
-
 
 
 function initSearchSite() {
@@ -129,7 +128,7 @@ function keyUp(ev) {
   window.history.pushState({}, '', url);
   results = searchSite(getQueryVariable());
   renderSearchResult(results)
-  typesArrayLabels(results)
+  // typesArrayLabels(results)
   
   if (filtered) {
     renderSearchResult(getFilteredSearch(getQueryVariable()).filter(filterUndefined));
@@ -146,8 +145,6 @@ window.onpopstate = function() {
 
   renderSearchResult(results);
   typesArrayLabels(results);
-  // renderSearchResult(renderResults())
-  // typesArrayLabels(renderResults())
   if(window.location.href.indexOf('?q=') != -1) {
     document.getElementById("modal_container").classList.add('show-modal-container');
   } else {
@@ -160,27 +157,62 @@ window.onpopstate = function() {
  * @param $items
  */
 
-function contentNumberLabel(items) {
-  var array = [];
-  for (let i = 0; i < items.length; i++) {
-    array.push(items[i].type);
-  }
-  var map = array.reduce(function (obj, b) {
-    obj[b] = ++obj[b] || 1;
-    return obj;
-  }, {});
+// function contentNumberLabel(items) {
+//   var array = [];
+//   for (let i = 0; i < items.length; i++) {
+//     array.push(items[i].type);
+//   }
+//   var map = array.reduce(function (obj, b) {
+//     obj[b] = ++obj[b] || 1;
+//     return obj;
+//   }, {});
 
 
-  for (const [key, value] of Object.entries(map)) {
+//   for (const [key, value] of Object.entries(map)) {
     
-    if (document.getElementById(key).id == key) {
-      document.getElementById(key).innerHTML = `<span>(${value})</span>`;
-    } 
+//     if (document.getElementById(key).id == key) {
+//       document.getElementById(key).innerHTML = `<span>(${value})</span>`;
+//     } 
+//   }
+// }
+
+
+
+
+var val = {
+  a: {},
+
+  get occ() {
+    return this.a;
+  },
+  set occ(value) {
+    this.a = value
   }
 }
 
+window.addEventListener('keyup', function(){
+  let typesArray = [];
+  for (let i = 0; i < results.length; i++) {
+    typesArray.push(results[i].type)
+  }
 
-const colours = ['#FFCC33', '#066169', '#AB2328', '#004986', '#115740', '#E87722'];
+  const occurences = typesArray.reduce(function (acc, curr){
+    return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
+  }, {});
+  let checkDiv = document.getElementsByClassName("checkbox-div");
+
+    for (var i = 0; i < document.getElementsByClassName("checkbox-div").length; i++) {
+      if (checkDiv[i].id in occurences) {
+        checkDiv[i].children[1].children[0].textContent = occurences[checkDiv[i].id]
+        checkDiv[i].classList.remove("hide-div")
+      } else {
+        checkDiv[i].children[1].children[0].textContent = 0;
+        checkDiv[i].classList.add("hide-div")
+      }
+    }
+})
+
+
 
 function typesArrayLabels(items) {
   let typesArray = [];
@@ -191,9 +223,10 @@ function typesArrayLabels(items) {
   const occurences = typesArray.reduce(function (acc, curr){
     return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
   }, {});
-  
+
   
 
+  
   let totalItems = ""
   
   let counter = 0;
@@ -203,7 +236,7 @@ function typesArrayLabels(items) {
   for (const [key, value] of Object.entries(occurences)) {
     
     totalItems += `
-      <input type="checkbox" id=${key} name=${key} style="display: none;" onClick="checkboxClicked(this)">
+      <input type="checkbox" id=${key} name=${key} style="display: none;"  onClick="checkboxClicked(this)">
       <label class="content-types" for=${key}>${capitalizeFirstLetter(key)} <span id="filter-value-id" style="background-color:${renderFilterValueColour(key)}; margin-left: 2rem;">(${value})</span></label>
       
     `
@@ -218,6 +251,52 @@ function typesArrayLabels(items) {
 
   
 }
+
+function returnOccurences() {
+  let typesArray = [];
+  for (let i = 0; i < results.length; i++) {
+    typesArray.push(results[i].type)
+  }
+
+  const occurences = typesArray.reduce(function (acc, curr){
+    return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
+  }, {});
+
+  return occurences;
+}
+
+
+const renderCheckBoxFilter = () => {
+  let totalItems = ""
+  
+  let counter = 0;
+  
+  if (counter === colours.length || counter > colours.length) { counter = 0; }
+
+  for (const [key, value] of Object.entries(returnOccurences())) {
+    // <input type="checkbox" id=${key} name=${key} style="display: none;" onClick="checkboxClicked(this)">
+
+    
+    totalItems += `
+    <div id=${key} class="checkbox-div" onClick="checkboxClicked(this)">
+    <input type="checkbox" id=${key} name=${key} style="display: none;" >
+    <label class="content-types" for=${key}>${capitalizeFirstLetter(key)} <span id="filter-value-id" style="background-color:${renderFilterValueColour(key)}; margin-left: 2rem;">(${value})</span></label> 
+    </div>
+      
+      
+    `
+    counter++;
+    
+    renderFilterValueColour(key);
+    
+
+
+  }
+  typeTotal.innerHTML = totalItems
+}
+
+
+
 function capitalizeFirstLetter(string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }
@@ -249,8 +328,6 @@ function renderSearchResult(items) {
   }
 
   searchResults.innerHTML = resultList;
-  // contentNumberLabel(items);
-  // typesArrayLabels(items)
   resultNumber.innerHTML = `Showing ${items.length} results`;
 }
 
@@ -293,19 +370,11 @@ function searchSite(query) {
 
 
 function getSearchResults(query) {
-  // if (query) {
-  //   return searchIndex.search(query).flatMap((hit) => {
-  //     if (hit.ref == "undefined") return [];
-  //     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
-  //     pageMatch.score = hit.score;
-  //     return [pageMatch];
-  //   });
-  // } else {
-  //   return pagesIndex;
-  // }
   return query ? searchIndex.search(query).flatMap((hit) => {
+    // console.log('hit', hit);
     if (hit.ref == "undefined") return [];
     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
+    // console.log('pm', pageMatch)
     pageMatch.score = hit.score;
     return [pageMatch];
   }) : pagesIndex;
@@ -376,6 +445,7 @@ function sortByHitScore() {
 }
 
 function checkboxClicked(val) {
+  console.log('valu', val)
   
   if (val.checked) {
     // typesArray.push(val.name);
@@ -403,7 +473,7 @@ function deletePostType(postType) {
 
 function getType(type) {
   
-  filtered = results.filter(function(content){
+  filtered = searchSite(getQueryVariable()).filter(function(content){
     return type.indexOf(content.type) != -1;
   });
   
