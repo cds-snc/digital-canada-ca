@@ -26,7 +26,7 @@ Selon votre niveau d’expérience, les postes de développeur et développeuse 
 
 **Votre candidature sera évaluée en fonction des compétences suivantes :**
 
-- Création et livraison de logiciels à l’aide des technologies et des plateformes Web modernes comme React, Typescript, PHP, Wordpress, CSS. Une connaissance des technologies Docker, Terraform et AWS est un atout. 
+- Création et livraison de logiciels à l’aide des technologies et des plateformes Web modernes comme React, Typescript, PHP, WordPress, CSS. Une connaissance des technologies Docker, Terraform et AWS est un atout. 
 - Création et livraison de logiciels inclusifs et accessibles (WCAG).
 - Mise en pratique ou promotion des pratiques de fiabilité des sites ou des opérations de développement.
 - Promotion, établissement et amélioration de normes d’équipe pour le style de codage, l’automatisation des tests, la facilité d’entretien et les meilleures pratiques en matière de systèmes d’infonuagique décentralisés.

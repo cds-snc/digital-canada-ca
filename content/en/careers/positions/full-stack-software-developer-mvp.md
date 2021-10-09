@@ -26,7 +26,7 @@ Based on your level of experience developers are classified as [CS-03, CS-04 or 
 
 **We’ll evaluate you based on:**
 
-- Creating and delivering software using modern web technologies and platforms such as React, Typescript, PHP, Wordpress, CSS. Nice-to-haves include Docker, Terraform, AWS. 
+- Creating and delivering software using modern web technologies and platforms such as React, Typescript, PHP, WordPress, CSS. Nice-to-haves include Docker, Terraform, AWS. 
 - Creating and delivering inclusive and accessible (WCAG) software
 - Employing or promoting site reliability/devops practices
 - Championing, defining and improving team standards for code style, test automation, maintainability, and best practices for a distributed, cloud-based system
