@@ -545,9 +545,7 @@
 
 }
 
-.hide-div {
-  display: none;
-}
+
 
 .search-modal-container {
   display: none;
@@ -665,13 +663,14 @@
 
 .content-types{
   display: flex;
-  cursor: pointer;
+  background-color: transparent;
+  margin: 1rem 0 1rem 0;
+  border: none;
   &:hover {
     text-decoration: underline;
   }
-}
-.val-colour{
-  background-color: red;
-  margin-left: 2rem;
-  
+
+  &.hide-div {
+    display: none;
+  }
 }
