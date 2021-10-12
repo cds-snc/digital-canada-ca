@@ -48,7 +48,3 @@ Le SNC prend en considération tous les candidats et candidates, peu importe leu
 
 Nous sommes aussi engagés à instaurer un milieu de travail inclusif et exempt d’obstacles, dès le processus de sélection. Si vous avez besoin de mesures d’adaptation à une étape ou une autre du processus d’évaluation, veuillez envoyer un message à l’adresse indiquée ci-dessous sous la rubrique Personnes-ressources pour en faire la demande. Les renseignements reçus au sujet de mesures d’adaptation seront traités confidentiellement.
 
-[Mesures d’adaptation en matière d’évaluation](https://www.canada.ca/fr/commission-fonction-publique/services/mesures-d-adaptation-matiere-evaluation.html)
-
-Par mesure de précaution, toutes les entrevues dans un avenir proche seront menées par vidéo ou téléconférence. Si vous avez des questions à ce sujet, veuillez contacter [cdsrecruitment.recrutementSNC@tbs-sct.gc.ca](mailto:cdsrecruitment.recrutementSNC@tbs-sct.gc.ca.).
-
