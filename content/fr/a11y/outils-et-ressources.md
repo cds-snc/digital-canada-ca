@@ -59,7 +59,7 @@ Pour les tests multinavigateurs, assurez-vous que votre service peut fonctionner
 - Windows seulement : [Internet Explorer 11](https://www.microsoft.com/fr-ca/download/internet-explorer.aspx), [Microsoft Edge](https://www.microsoft.com/fr-ca/windows/microsoft-edge)
 - Mac/iOS seulement : [Safari](https://www.apple.com/safari/) (page en anglais seulement)
 
-##Ressources additionnelles
+## Ressources additionnelles
 
 Il existe beaucoup de contenu sur l’accessibilité. Vous pouvez commencer certains tests simples au moyen de ce qui suit : 
 
