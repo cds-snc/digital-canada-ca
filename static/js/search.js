@@ -203,23 +203,15 @@ const renderCheckBoxFilter = () => {
   if (counter === colours.length || counter > colours.length) { counter = 0; }
 
   for (const [key, value] of Object.entries(returnOccurences())) {
-    // <input type="checkbox" id=${key} name=${key} style="display: none;" onClick="checkboxClicked(this)">
-
     
     totalItems += `
     
     <button id=${key} class="content-types" onClick="checkboxClicked(this)" name=${key}>${capitalizeFirstLetter(key)}<span id="filter-value-id" style="background-color:${renderFilterValueColour(key)}; margin-left: 1rem;">(${value})</span> </button>
-    
-    
-      
-      
+
     `
     counter++;
-    
     renderFilterValueColour(key);
     
-
-
   }
   typeTotal.innerHTML = totalItems
 }
@@ -299,12 +291,19 @@ function searchSite(query) {
 
 
 function getSearchResults(query) {
-  return query ? searchIndex.search(query).flatMap((hit) => {
+  // return query ? searchIndex.search(query).flatMap((hit) => {
+  //   if (hit.ref == "undefined") return [];
+  //   let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
+  //   pageMatch.score = hit.score;
+  //   return [pageMatch];
+  // }) : pagesIndex;
+
+  return searchIndex.search(query).flatMap((hit) => {
     if (hit.ref == "undefined") return [];
     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
     pageMatch.score = hit.score;
     return [pageMatch];
-  }) : pagesIndex;
+  });
 
 }
 
