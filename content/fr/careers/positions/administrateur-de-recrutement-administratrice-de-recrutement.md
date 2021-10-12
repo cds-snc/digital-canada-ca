@@ -38,12 +38,6 @@ Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
 
 Le SNC prend en considération tous les candidats et candidates, peu importe leur race, leur origine ethnique, leur religion, leur orientation sexuelle, leur identité ou leur expression de genre, leur origine nationale, leur handicap, leur âge, leur statut d’ancien combattant, leur situation matrimoniale, leur grossesse ou leurs obligations familiales.
 Nous sommes aussi engagés à instaurer un milieu de travail inclusif et exempt d’obstacles, dès le processus de sélection. Si vous avez besoin de mesures d’adaptation à une étape ou une autre du processus d’évaluation, veuillez envoyer un message à l’adresse indiquée ci-dessous sous la rubrique Personnes-ressources pour en faire la demande. Les renseignements reçus au sujet de mesures d’adaptation seront traités confidentiellement.  
-[Mesures d’adaptation en matière d’évaluation](https://www.canada.ca/fr/commission-fonction-publique/services/mesures-d-adaptation-matiere-evaluation.html)
-
-Par mesure de précaution, toutes les entrevues dans un avenir proche seront menées par vidéo ou téléconférence. Si vous avez des questions à ce sujet, veuillez contacter [cdsrecruitment.recrutementSNC@tbs-sct.gc.ca](mailto:cdsrecruitment.recrutementSNC@tbs-sct.gc.ca).
-
-### Travaillez de n’importe où au Canada
-Le SNC est une équipe entièrement décentralisée. Ce travail peut être effectué de n'importe où au Canada. À l'avenir, des déplacements occasionnels à Ottawa pourraient être nécessaires.
 
 *Un bassin de personnes qualifiées résultant de ce processus pourrait être créé et pourrait être utilisé afin de pourvoir des postes semblables dont le profil linguistique (anglais essentiel, bilingue impératif BBB/BBB, bilingue impératif CBC/CBC, ainsi que la durée (indéterminée, mutation, intérimaire, affectation, détachement, période déterminée) pourraient varier selon le poste.
 
