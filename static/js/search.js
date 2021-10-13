@@ -1,28 +1,16 @@
 
 var current_page = 1;
-let pagesIndex, searchIndex, results, searchTerm, filtered, filRes, pageRes, checkbox, checkLabel, checkValue;
+let pagesIndex, searchIndex, results, filtered, post_type;
 
 const searchResults = document.getElementById("site-results");
-const cb = document.getElementById("cb");
 const resultNumber = document.getElementById("results-number");
-const dropdownBtn = document.getElementById("dropdownbtn");
 const relevantBtn = document.getElementById("relevant");
 const recentBtn = document.getElementById("recent");
-const pagination_element = document.getElementById("pagination");
 const typeTotal = document.getElementById("typeTotal")
 let rows = 5;
-const typeCount = document.getElementById("type-count");
-const check = document.getElementsByName("check");
-const checkboxes = document.getElementsByClassName("checkboxes");
-let searchQuery = location.search.slice(1).split("&")[0].split("=")[1]
 const inputVal = document.getElementById("q");
-// let params = new URLSearchParams(location.search);
 const loadMoreBtn = document.getElementById("load-more");
-let  params, post_type;
 const url = new URL(window.location);
-let checkDiv;
-// checkDiv.id = 'checkDiv'
-let theDiv = document.querySelector('#typeTotal')
 const colours = ['#FFCC33', '#066169', '#AB2328', '#004986', '#115740', '#E87722'];
 
 
@@ -39,6 +27,7 @@ async function initSearchIndex() {
       this.field("title");
       this.field("description");
       this.field("date");
+      this.field("type");
       this.ref("href");
       pagesIndex.forEach((page) => this.add(page));
     });
@@ -52,6 +41,7 @@ async function initSearchIndex() {
 
   renderSearchResult(results);
   renderCheckBoxFilter();
+  
 
 }
 
@@ -100,8 +90,8 @@ close.addEventListener('click', () => {
   modal_container.classList.remove('show-modal-container');
   
   inputVal.value = ""
-  renderSearchResult(pagesIndex)
-  renderCheckBoxFilter()
+  
+
 
   
   let keysForDel = [];
@@ -112,12 +102,16 @@ close.addEventListener('click', () => {
     url.searchParams.delete(k);
   })
   window.history.pushState({}, '', location.origin)
+  results = searchSite(getQueryVariable())
+  renderSearchResult(results)
+  // renderSearchResult(pagesIndex)
+  renderCheckBoxFilter()
   
 })
 loadMoreBtn.addEventListener('click', () => {
   current_page++;
   rows += 5;
-  renderSearchResult(renderResults())
+  renderSearchResult(results)
   
 })
 
@@ -125,16 +119,12 @@ function keyUp(ev) {
 
   url.searchParams.set('q', ev.target.value);
   window.history.pushState({}, '', url);
+  
   results = searchSite(getQueryVariable());
   renderSearchResult(results)
+  
   renderCheckBoxFilter()
   
-  if (filtered) {
-    renderSearchResult(getFilteredSearch(getQueryVariable()).filter(filterUndefined));
-  }
-
-
-
 }
 
 window.onpopstate = function() {
@@ -157,9 +147,62 @@ window.onpopstate = function() {
  */
 
 window.addEventListener('keyup', function(){
+  // let typesArray = [];
+
+  // let ind = searchIndex.search(getQueryVariable()).flatMap((hit) => {
+  //   if (hit.ref == "undefined") return [];
+  //   let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
+  //   pageMatch.score = hit.score;
+  //   return [pageMatch];
+  // });
+  // for (let i = 0; i < ind.length; i++) {
+  //   typesArray.push(ind[i].type)
+  // }
+
+  // const occurences = typesArray.reduce(function (acc, curr){
+  //   return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
+  // }, {});
+  // let btn = document.getElementsByClassName("content-types");
+
+  //   for (var i = 0; i < btn.length; i++) {
+      
+  //     if (btn[i].id in occurences) {
+  //       btn[i].children[0].textContent = `(${occurences[btn[i].id]})`
+        
+  //       btn[i].classList.remove("hide-div")
+  //     } else {
+        
+  //       btn[i].classList.add("hide-div")
+  //     }
+  //   }
+})
+
+
+
+
+function returnOccurences() {
+  // let typesArray = [];
+  // for (let i = 0; i < results.length; i++) {
+  //   typesArray.push(results[i].type)
+  // }
+
+  // const occurences = typesArray.reduce(function (acc, curr){
+  //   return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
+  // }, {});
+
+
+  // return occurences;
+
   let typesArray = [];
-  for (let i = 0; i < results.length; i++) {
-    typesArray.push(results[i].type)
+
+  let ind = searchIndex.search(getQueryVariable()).flatMap((hit) => {
+    if (hit.ref == "undefined") return [];
+    let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
+    pageMatch.score = hit.score;
+    return [pageMatch];
+  });
+  for (let i = 0; i < ind.length; i++) {
+    typesArray.push(ind[i].type)
   }
 
   const occurences = typesArray.reduce(function (acc, curr){
@@ -178,20 +221,8 @@ window.addEventListener('keyup', function(){
         btn[i].classList.add("hide-div")
       }
     }
-})
 
-
-function returnOccurences() {
-  let typesArray = [];
-  for (let i = 0; i < results.length; i++) {
-    typesArray.push(results[i].type)
-  }
-
-  const occurences = typesArray.reduce(function (acc, curr){
-    return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
-  }, {});
-
-  return occurences;
+    return occurences
 }
 
 
@@ -201,8 +232,10 @@ const renderCheckBoxFilter = () => {
   let counter = 0;
   
   if (counter === colours.length || counter > colours.length) { counter = 0; }
+  
 
   for (const [key, value] of Object.entries(returnOccurences())) {
+
     
     totalItems += `
     
@@ -227,6 +260,7 @@ function capitalizeFirstLetter(string) {
  * @param $items
  */
 function renderSearchResult(items) {
+  console.log('items', items);
   let page = current_page;
   page--;
   
@@ -279,8 +313,7 @@ function getQueryVariable() {
 function searchSite(query) {
   const originalQuery = query;
   query = getLunrSearchQuery(query);
-  let results = getSearchResults(query);
-  // console.log('searchres', results)
+  let results = getSearchResults(url.searchParams.getAll('post_type'), query);
 
   return results.length
     ? results
@@ -290,38 +323,30 @@ function searchSite(query) {
 }
 
 
-function getSearchResults(query) {
-  // return query ? searchIndex.search(query).flatMap((hit) => {
-  //   if (hit.ref == "undefined") return [];
-  //   let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
-  //   pageMatch.score = hit.score;
-  //   return [pageMatch];
-  // }) : pagesIndex;
-
-  return searchIndex.search(query).flatMap((hit) => {
+function getSearchResults(type, query) {
+  let searchedResults;
+  let filteredResults;
+  searchedResults = searchIndex.search(query).flatMap((hit) => {
     if (hit.ref == "undefined") return [];
     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
-    pageMatch.score = hit.score;
-    return [pageMatch];
-  });
-
-}
-
-function getFilteredSearch(query) {
-  return searchIndex.search(query).flatMap((hit) => {
-    if (hit.ref == "undefined") return [];
-    let pageMatch = filtered.filter((page) => page.href === hit.ref)[0];
     if (pageMatch) pageMatch.score = hit.score;
-    return [pageMatch];
-  });
+
+    return [pageMatch]
+    
+    
+  })
+  if (type.length === 0 || type === undefined) {
+    filteredResults = searchedResults
+  } else {
+    filteredResults = searchedResults.filter(function(content){
+      return type.indexOf(content.type) != -1;
+    })
+  }
+  
+  return filteredResults;
+
 }
 
-function filterUndefined(item) {
-  if (item !== undefined) {
-    return true;
-  }
-  return false;
-}
 
 /**
  * Creates Lunr search query to search through JSON object, 
@@ -384,7 +409,13 @@ function checkboxClicked(val) {
     window.history.pushState({}, '', url);
     
   }
-  getType(url.searchParams.getAll('post_type'))
+  // renderSearchResult(getType())  
+  results = searchSite(getQueryVariable())
+  renderSearchResult(results)
+  // renderSearchResult(searchSite(getQueryVariable()))
+  // getType(url.searchParams.getAll('post_type'))
+  // searchAndFilter(url.searchParams.getAll('post_type'), getQueryVariable())
+
 
 }
 
@@ -396,13 +427,44 @@ function deletePostType(postType) {
   }
 }
 
+
+
+
+
 function getType(type) {
+  // post_type = url.searchParams.getAll('post_type')
+
   
-  filtered = searchSite(getQueryVariable()).filter(function(content){
+  // results = searchSite(getQueryVariable()).filter(function(content){
+  //   return post_type.indexOf(content.type) != -1;
+  // });
+  results = searchSite(getQueryVariable()).filter(function(content){
     return type.indexOf(content.type) != -1;
   });
   
-  renderSearchResult(renderResults());
+  
+  // let searchInd = [];
+  
+// for (let filteredTypes in type) {
+//   searchIndex.search(`type: ${type[filteredTypes]}`).flatMap((hit) => {
+//     if (hit.ref == "undefined") return [];
+//     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
+//     if (pageMatch) pageMatch.score = hit.score;
+//     searchInd.push(pageMatch);
+//     return [pageMatch];
+//   })
+// }
+
+// results = searchInd
+// console.log('second res', results)
+
+// console.log('searchInd', searchInd)
+
+  renderSearchResult(type == 0 || type == undefined ? searchSite(getQueryVariable()) : results)
+
+  // return post_type == 0 || post_type == undefined ? searchSite(getQueryVariable()) : results;
+
+  // renderSearchResult(results);
 }
 
 if(window.location.href.indexOf('?q=') != -1) {
