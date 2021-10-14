@@ -35,8 +35,7 @@ async function initSearchIndex() {
     console.log(e);
   }
   if (!inputVal.value) inputVal.value = getQueryVariable();
-  results = searchSite(getQueryVariable());
-  // results = pagesIndex;
+  results = removeNull(searchSite(getQueryVariable()));
   
 
   renderSearchResult(results);
@@ -45,6 +44,16 @@ async function initSearchIndex() {
 
 }
 
+function removeNull(items) {
+  let arr = [];
+  for (var prop in items) {
+    if (items[prop].description !== null) {
+      arr.push(items[prop])
+    }
+  }
+  
+  return arr;
+}
 
 function initSearchSite() {
   document.addEventListener('DOMContentLoaded', function() {
@@ -67,7 +76,6 @@ const close = document.getElementById("close")
 open.addEventListener('click', () => {
   modal_container.classList.add('show-modal-container');
   
-  // window.history.pushState({}, '', `${location.origin}?q=`)
   url.searchParams.set('q', '');
   window.history.pushState({}, '', url);
 
@@ -104,7 +112,6 @@ close.addEventListener('click', () => {
   window.history.pushState({}, '', location.origin)
   results = searchSite(getQueryVariable())
   renderSearchResult(results)
-  // renderSearchResult(pagesIndex)
   renderCheckBoxFilter()
   
 })
@@ -146,52 +153,7 @@ window.onpopstate = function() {
  * @param $items
  */
 
-window.addEventListener('keyup', function(){
-  // let typesArray = [];
-
-  // let ind = searchIndex.search(getQueryVariable()).flatMap((hit) => {
-  //   if (hit.ref == "undefined") return [];
-  //   let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
-  //   pageMatch.score = hit.score;
-  //   return [pageMatch];
-  // });
-  // for (let i = 0; i < ind.length; i++) {
-  //   typesArray.push(ind[i].type)
-  // }
-
-  // const occurences = typesArray.reduce(function (acc, curr){
-  //   return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
-  // }, {});
-  // let btn = document.getElementsByClassName("content-types");
-
-  //   for (var i = 0; i < btn.length; i++) {
-      
-  //     if (btn[i].id in occurences) {
-  //       btn[i].children[0].textContent = `(${occurences[btn[i].id]})`
-        
-  //       btn[i].classList.remove("hide-div")
-  //     } else {
-        
-  //       btn[i].classList.add("hide-div")
-  //     }
-  //   }
-})
-
-
-
-
 function returnOccurences() {
-  // let typesArray = [];
-  // for (let i = 0; i < results.length; i++) {
-  //   typesArray.push(results[i].type)
-  // }
-
-  // const occurences = typesArray.reduce(function (acc, curr){
-  //   return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
-  // }, {});
-
-
-  // return occurences;
 
   let typesArray = [];
 
@@ -201,6 +163,7 @@ function returnOccurences() {
     pageMatch.score = hit.score;
     return [pageMatch];
   });
+  ind = removeNull(ind);
   for (let i = 0; i < ind.length; i++) {
     typesArray.push(ind[i].type)
   }
@@ -260,7 +223,7 @@ function capitalizeFirstLetter(string) {
  * @param $items
  */
 function renderSearchResult(items) {
-  console.log('items', items);
+  
   let page = current_page;
   page--;
   
@@ -268,6 +231,7 @@ function renderSearchResult(items) {
   let end = start + rows;
 
   let paginatedItems = items.slice(start, end);
+  
 
   
   let resultList = "";
