@@ -507,22 +507,24 @@
 
 .results-div {
   display: flex;
+  // position: absolute;
+
 
   .site-results-list {
-    flex: 1;
+    // flex: 1;
     
   
     #site-results {
       list-style: none;
       padding: 0;
-      margin: 0 1.5rem 0 1.5rem;
+      // margin: 0 1.5rem 0 1.5rem;
     }
   }
 
   .sort-by-show-results {
     display: flex;
     justify-content: space-between;
-    margin: 0 3.5rem 0 3.5rem;
+    // margin: 0 3.5rem 0 3.5rem;
     color: white;
     button {
       border: none;
@@ -601,9 +603,9 @@
 #load-more {
   background-color: #000000;
   color: white;
-  width: 20%;
-  align-self: center;
-  margin-bottom: 1rem;
+  // width: 20%;
+  // align-self: center;
+  // margin-bottom: 1rem;
 }
 
 #q {
@@ -615,7 +617,13 @@
   flex-grow: 1;
   position: relative;
 
-  div:not(.close-btn) {
+  // div:not(.close-btn) {
+  //   display: flex;
+  //   justify-content: space-between;
+  //   padding: 0 3rem 4rem 3rem;
+  // }
+
+  .sub-modal-div {
     display: flex;
     justify-content: space-between;
     padding: 0 3rem 4rem 3rem;

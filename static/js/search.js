@@ -83,16 +83,16 @@ open.addEventListener('click', () => {
   
 })
 
-relevantBtn.addEventListener('click', () => {
-  relevantBtn.classList.add('clicked');
-  recentBtn.classList.remove('clicked');
-  renderSearchResult(sortByHitScore());
-});
-recentBtn.addEventListener('click', () => {
-  recentBtn.classList.add('clicked');
-  relevantBtn.classList.remove('clicked');
-  renderSearchResult(sortByDate());
-})
+// relevantBtn.addEventListener('click', () => {
+//   relevantBtn.classList.add('clicked');
+//   recentBtn.classList.remove('clicked');
+//   renderSearchResult(sortByHitScore());
+// });
+// recentBtn.addEventListener('click', () => {
+//   recentBtn.classList.add('clicked');
+//   relevantBtn.classList.remove('clicked');
+//   renderSearchResult(sortByDate());
+// })
 
 close.addEventListener('click', () => {
   modal_container.classList.remove('show-modal-container');
