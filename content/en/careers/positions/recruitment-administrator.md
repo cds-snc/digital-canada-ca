@@ -37,12 +37,6 @@ We recognize that everyone brings skills and experiences to the table and that n
 At CDS, we don’t just accept difference - we celebrate it. We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we can recognize and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 
 CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments. We are committed to providing an inclusive and barrier-free work environment, starting with the hiring process. If you need to be accommodated during any phase of the evaluation process, please use the Contact information below to request specialized accommodation. All information received in relation to accommodation will be kept confidential.  
-[Assessment Accommodation](https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html).
-
-Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future. If you have any questions about this, please reach out to [cdsrecruitment.recrutementSNC@tbs-sct.gc.ca](mailto:cdsrecruitment.recrutementSNC@tbs-sct.gc.ca).
-
-### Work anywhere in Canada
-CDS is a fully distributed team. This job can be performed from anywhere in Canada. In the future, occasional travel to Ottawa may be required.
 
 *A pool of qualified persons resulting from this process MAY be created and MAY be used to fill similar position with linguistic profiles (english essential, bilingual imperative BBB/BBB, bilingual imperative CBC/CBC, as well as tenures (indeterminate, deployment, acting, assignment, secondment, specified period) which may vary according to the position being staffed.
 

@@ -11,7 +11,7 @@ leverId: de6ae5bc-d267-4539-89b4-c4d1497ccbf0
 
 The Canadian Digital Service (CDS) is tasked with changing how the federal government designs and delivers digital services, to reduce the risk of product failure, lower costs, ensure user privacy and system security, and, above all, improves people’s lives by putting their needs and concerns front and center. We believe every experience Canadians have with their government should meet or exceed their reasonable modern expectations that digital services be safe, fast, easy, transparent, and accessible. Working in the open, we’re building capacity across the government for better service delivery. And we need you.
 
-We’re hiring an Executive Assistant to provide administrative and operational support to senior leaders, classified as AS-02 in the Administrative Services group. This position will report to the Chief of Staff to the CEO.
+We’re hiring an Executive Assistant to provide administrative and operational support to senior leaders, classified as AS-02 in the Administrative Services group. This position will report to the Chief Operating Officer.
 
 We are looking for an Executive Assistant who will thrive at managing multiple priorities in a rapidly changing environment, as they work alongside our community of practice Directors and their teams. This is a multi-faceted role that goes beyond traditional administration and correspondence and will provide the opportunity to grow skills in strategy, stakeholder engagement, work management, and policy. CDS uses modern tools to help you get the job done, provides mentorship, coaching and professional development opportunities as well as experience seeing how modern software and digital services are built. If you’re ready to work and learn as part of a caring, mission-driven, fast-paced team; help CDS continuously fine-tune their operations; and play a part in improving services for Canadians, this is the role for you.
 
@@ -47,7 +47,4 @@ At CDS, we don’t just accept difference - we celebrate it. We proudly, passion
 
 CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments. We are committed to providing an inclusive and barrier-free work environment, starting with the hiring process. If you need to be accommodated during any phase of the evaluation process, please use the Contact information below to request specialized accommodation. All information received in relation to accommodation will be kept confidential.
 
-[Assessment accommodation](https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html)
-
-Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future. If you have any questions about this, please reach out to [cdsrecruitment.recrutementSNC@tbs-sct.gc.ca](mailto:cdsrecruitment.recrutementSNC@tbs-sct.gc.ca.).
 
