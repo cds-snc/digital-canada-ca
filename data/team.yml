@@ -384,6 +384,15 @@ team:
     linkedin: gabesawhney
     twitter: gggg
   - archived: false
+    name: Gillian Massel
+    title:
+      en: Design
+      fr: Conception
+    imagehash: small_gillian_massel_8bfc5bce21
+    email: gillian.massel@tbs-sct.gc.ca
+    linkedin: gillian-massel-a20357b3/
+    twitter: GillianMassel
+  - archived: false
     name: Hillary Lorimer
     title:
       en: Design Research
