@@ -154,7 +154,7 @@ team:
     email: Adrianne.Lee@tbs-sct.gc.ca
     linkedin: adriannehlee
     twitter: adriannehlee
-  - archived: false
+  - archived: true
     name: Alexa Davidson
     title:
       en: Talent
@@ -301,7 +301,7 @@ team:
     imagehash: small_daine_trinidad_c24e142482
     github: daine
     linkedin: daine
-  - archived: false
+  - archived: true
     name: Dan Sinclair
     title:
       en: Development
@@ -465,7 +465,7 @@ team:
     email: johanna.button@tbs-sct.gc.ca
     linkedin: johanna-button-097825143
     twitter: buttonjohanna
-  - archived: false
+  - archived: true
     name: John Kenney
     title:
       en: Policy
