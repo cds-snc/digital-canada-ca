@@ -1,6 +1,6 @@
 
 var current_page = 1;
-let pagesIndex, searchIndex, results, filtered, post_type;
+let pagesIndex, searchIndex, results, filtered, post_type, searchedResults;
 
 const searchResults = document.getElementById("site-results");
 const resultNumber = document.getElementById("results-number");
@@ -13,6 +13,7 @@ const loadMoreBtn = document.getElementById("load-more");
 const url = new URL(window.location);
 const colours = ['#FFCC33', '#066169', '#AB2328', '#004986', '#115740', '#E87722'];
 const body = document.querySelector("body");
+let allResults;
 
 /**
  * Initializes the search index after user has searched
@@ -36,6 +37,7 @@ async function initSearchIndex() {
   }
   if (!inputVal.value) inputVal.value = getQueryVariable();
   results = removeNull(searchSite(getQueryVariable()));
+  allResults = results
   
 
   renderSearchResult(results);
@@ -160,6 +162,7 @@ function returnOccurences() {
   const occurences = typesArray.reduce(function (acc, curr){
     return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
   }, {});
+
   let btn = document.getElementsByClassName("content-types");
   
 
@@ -174,18 +177,20 @@ function returnOccurences() {
         btn[i].classList.add("hide-div")
       }
     }
-    
+
     return occurences
 }
 
 function buttonBorderColour() {
   let btns = document.getElementsByClassName("content-types");
+  let allResultsBtn = document.getElementById("results");
   post_type = url.searchParams.getAll('post_type')
-
+  
 
   for (const val of btns) { 
     post_type.includes(val.name) ? val.style.borderBottom = `3px solid ${renderFilterValueColour(val.name)}` : val.style.borderBottom = 'none'
   }
+  post_type.length > 0 ? allResultsBtn.style.borderBottom = 'none' : allResultsBtn.style.borderBottom = `3px solid ${renderFilterValueColour(allResultsBtn.name)}`
     
 }
 
@@ -198,7 +203,7 @@ const renderCheckBoxFilter = () => {
   
 
   for (const [key, value] of Object.entries(returnOccurences())) {
-//style="border-bottom: 3px solid ${renderFilterValueColour(key)};"
+
     
     totalItems += `
     
@@ -211,12 +216,20 @@ const renderCheckBoxFilter = () => {
     renderFilterValueColour(key);
     
   }
-  typeTotal.innerHTML = totalItems
+  
+  typeTotal.innerHTML = `<button id="results" onClick="renderAllResults()" class="content-types" name="results">All Results<span id="filter-value-id" style="background-color: #A3442F;">(${removeNull(searchedResults).length})</span></button>` + totalItems
   
   buttonBorderColour();
 }
 
 
+function renderAllResults() {
+  
+  url.searchParams.delete('post_type');
+  window.history.pushState({}, '', url)
+  renderSearchResult(removeNull(searchedResults))
+  renderCheckBoxFilter()
+}
 
 function capitalizeFirstLetter(string) {
   return string.charAt(0).toUpperCase() + string.slice(1);
@@ -251,6 +264,7 @@ function renderSearchResult(items) {
     </div>
   </li>`;
   }
+  
 
   searchResults.innerHTML = resultList;
   resultNumber.innerHTML = `Found ${items.length} results`;
@@ -295,7 +309,7 @@ function searchSite(query) {
 
 
 function getSearchResults(type, query) {
-  let searchedResults;
+  
   let filteredResults;
   searchedResults = searchIndex.search(query).flatMap((hit) => {
     if (hit.ref == "undefined") return [];
@@ -306,6 +320,8 @@ function getSearchResults(type, query) {
     
     
   })
+
+  
   if (type.length === 0 || type === undefined) {
     filteredResults = searchedResults
   } else {
@@ -337,40 +353,11 @@ function getLunrSearchQuery(query) {
   return query.trim();
 }
 
-/**
- * Sorts results by date (most recent) 
- * @returns {sorted} returns sorted results by most recent date
- */
-function sortByDate() {
-  const sorted = renderResults().sort(function (a, b) {
-    return new Date(b.date) - new Date(a.date);
-  });
-  // url.searchParams.append('sort', 'recent');
-    
-  // window.history.pushState({}, '', url); 
-  return sorted;
-}
-
-/**
- * Sorts results by hit score (most relevant) 
- * @returns {sorted} returns sorted results byt hit score
- */
-
-function sortByHitScore() {
-  const sortScore = renderResults().sort(function (a, b) {
-    return b.score - a.score;
-  });
-  // url.searchParams.append('sort', 'relevance');
-    
-  // window.history.pushState({}, '', url);  
-  return sortScore;
-}
-
 
 
 function checkboxClicked(val) {
 
-  let btn = document.getElementsByClassName("content-types");
+  
 
   post_type = url.searchParams.getAll('post_type')
   
@@ -408,13 +395,9 @@ if(window.location.href.indexOf('?q=') != -1) {
   document.getElementById("modal_container").classList.remove('show-modal-container');
 }
 
-function renderResults() {
-  let result = filtered == 0 || filtered == undefined ? results : filtered
-  return result;
-}
 
 
-const colourFilter = {"section": "#FFCC33", "blog": "#066169", "page": "#AB2328", "a11y": "#004986", "engagement": "#115740", "roadmap": "#E87722"};
+const colourFilter = {"section": "#FFCC33", "blog": "#066169", "page": "#AB2328", "a11y": "#004986", "engagement": "#115740", "roadmap": "#E87722", "results": "#A3442F"};
 function renderFilterValueColour(param) {
   
   for (const [key, value] of Object.entries(colourFilter)) {

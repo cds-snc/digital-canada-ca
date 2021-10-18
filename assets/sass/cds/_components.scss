@@ -651,14 +651,19 @@
 #filter-value-id {
   margin-left: 1.5rem; 
 }
+
+
 .content-types{
   display: flex;
   background-color: transparent;
   margin: 1rem 0 1rem 0;
   padding: 0;
   border: none;
+  
 
   &.hide-div {
     display: none;
   }
+
+  
 }
