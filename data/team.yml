@@ -154,7 +154,7 @@ team:
     email: Adrianne.Lee@tbs-sct.gc.ca
     linkedin: adriannehlee
     twitter: adriannehlee
-  - archived: false
+  - archived: true
     name: Alexa Davidson
     title:
       en: Talent
@@ -301,7 +301,7 @@ team:
     imagehash: small_daine_trinidad_c24e142482
     github: daine
     linkedin: daine
-  - archived: false
+  - archived: true
     name: Dan Sinclair
     title:
       en: Development
