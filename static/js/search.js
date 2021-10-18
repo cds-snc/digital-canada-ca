@@ -12,7 +12,7 @@ const inputVal = document.getElementById("q");
 const loadMoreBtn = document.getElementById("load-more");
 const url = new URL(window.location);
 const colours = ['#FFCC33', '#066169', '#AB2328', '#004986', '#115740', '#E87722'];
-
+const body = document.querySelector("body");
 
 /**
  * Initializes the search index after user has searched
@@ -40,7 +40,6 @@ async function initSearchIndex() {
 
   renderSearchResult(results);
   renderCheckBoxFilter();
-  
 
 }
 
@@ -75,6 +74,7 @@ const close = document.getElementById("close")
 
 open.addEventListener('click', () => {
   modal_container.classList.add('show-modal-container');
+  body.style.overflow = "hidden"
   
   url.searchParams.set('q', '');
   window.history.pushState({}, '', url);
@@ -83,17 +83,6 @@ open.addEventListener('click', () => {
   
 })
 
-// relevantBtn.addEventListener('click', () => {
-//   relevantBtn.classList.add('clicked');
-//   recentBtn.classList.remove('clicked');
-//   renderSearchResult(sortByHitScore());
-// });
-// recentBtn.addEventListener('click', () => {
-//   recentBtn.classList.add('clicked');
-//   relevantBtn.classList.remove('clicked');
-//   renderSearchResult(sortByDate());
-// })
-
 close.addEventListener('click', () => {
   modal_container.classList.remove('show-modal-container');
   
@@ -101,7 +90,7 @@ close.addEventListener('click', () => {
   
 
 
-  
+  body.style.overflow = "auto"
   let keysForDel = [];
   url.searchParams.forEach((v, k) => {
     keysForDel.push(k);
@@ -111,7 +100,7 @@ close.addEventListener('click', () => {
   })
   window.history.pushState({}, '', location.origin)
   results = searchSite(getQueryVariable())
-  renderSearchResult(results)
+  renderSearchResult(removeNull(results))
   renderCheckBoxFilter()
   
 })
@@ -128,7 +117,7 @@ function keyUp(ev) {
   window.history.pushState({}, '', url);
   
   results = searchSite(getQueryVariable());
-  renderSearchResult(results)
+  renderSearchResult(removeNull(results))
   
   renderCheckBoxFilter()
   
@@ -139,7 +128,7 @@ window.onpopstate = function() {
   inputVal.value = getQueryVariable();
   results = searchSite(getQueryVariable());
 
-  renderSearchResult(results);
+  renderSearchResult(removeNull(results));
   renderCheckBoxFilter()
   if(window.location.href.indexOf('?q=') != -1) {
     document.getElementById("modal_container").classList.add('show-modal-container');
@@ -172,6 +161,7 @@ function returnOccurences() {
     return acc[curr] ? ++acc[curr] : acc[curr] = 1, acc
   }, {});
   let btn = document.getElementsByClassName("content-types");
+  
 
     for (var i = 0; i < btn.length; i++) {
       
@@ -184,10 +174,20 @@ function returnOccurences() {
         btn[i].classList.add("hide-div")
       }
     }
-
+    
     return occurences
 }
 
+function buttonBorderColour() {
+  let btns = document.getElementsByClassName("content-types");
+  post_type = url.searchParams.getAll('post_type')
+
+
+  for (const val of btns) { 
+    post_type.includes(val.name) ? val.style.borderBottom = `3px solid ${renderFilterValueColour(val.name)}` : val.style.borderBottom = 'none'
+  }
+    
+}
 
 const renderCheckBoxFilter = () => {
   let totalItems = ""
@@ -198,11 +198,13 @@ const renderCheckBoxFilter = () => {
   
 
   for (const [key, value] of Object.entries(returnOccurences())) {
-
+//style="border-bottom: 3px solid ${renderFilterValueColour(key)};"
     
     totalItems += `
     
-    <button id=${key} class="content-types" onClick="checkboxClicked(this)" name=${key}>${capitalizeFirstLetter(key)}<span id="filter-value-id" style="background-color:${renderFilterValueColour(key)}; margin-left: 1rem;">(${value})</span> </button>
+    <button id=${key} class="content-types"  onClick="checkboxClicked(this)" name=${key}>${capitalizeFirstLetter(key)}<span id="filter-value-id" style="background-color:${renderFilterValueColour(key)};">(${value})</span> </button>
+    
+    
 
     `
     counter++;
@@ -210,6 +212,8 @@ const renderCheckBoxFilter = () => {
     
   }
   typeTotal.innerHTML = totalItems
+  
+  buttonBorderColour();
 }
 
 
@@ -231,6 +235,7 @@ function renderSearchResult(items) {
   let end = start + rows;
 
   let paginatedItems = items.slice(start, end);
+  paginatedItems.length < 5 ? loadMoreBtn.classList.add("hide-btn") : loadMoreBtn.classList.remove("hide-btn");
   
 
   
@@ -239,15 +244,17 @@ function renderSearchResult(items) {
   for (let i = 0; i < paginatedItems.length; i++) {
     resultList += `<li>
     <div class="rendered-list">
-      <div><a href='${paginatedItems[i].href}' target="_blank" class="render-list-title">${paginatedItems[i].title}</a></div>
-      <div>${paginatedItems[i].description}</div>
+      <div><a href='${paginatedItems[i].href}' target="_blank" class="render-list-title"><h3>${paginatedItems[i].title}<h3></a></div>
       <div style="padding: 0 1rem 0 1rem; background-color: ${renderFilterValueColour(paginatedItems[i].type)}">${paginatedItems[i].type.toUpperCase()}</div> 
+      <div>${paginatedItems[i].description}</div>
+      
     </div>
   </li>`;
   }
 
   searchResults.innerHTML = resultList;
-  resultNumber.innerHTML = `Showing ${items.length} results`;
+  resultNumber.innerHTML = `Found ${items.length} results`;
+  
 }
 
 
@@ -362,23 +369,25 @@ function sortByHitScore() {
 
 
 function checkboxClicked(val) {
+
+  let btn = document.getElementsByClassName("content-types");
+
   post_type = url.searchParams.getAll('post_type')
   
   if (post_type.includes(val.name)) {
     post_type = url.searchParams.getAll('post_type').filter(type => type !== val.name)
     post_type.length > 0 ? deletePostType(post_type) : url.searchParams.delete('post_type');
     window.history.pushState({}, '', url); 
+    val.style.borderBottom = 'none'
   } else {
     url.searchParams.append('post_type', val.name);
     window.history.pushState({}, '', url);
+    val.style.borderBottom = `3px solid ${renderFilterValueColour(val.name)}`;
     
   }
-  // renderSearchResult(getType())  
   results = searchSite(getQueryVariable())
-  renderSearchResult(results)
-  // renderSearchResult(searchSite(getQueryVariable()))
-  // getType(url.searchParams.getAll('post_type'))
-  // searchAndFilter(url.searchParams.getAll('post_type'), getQueryVariable())
+  renderSearchResult(removeNull(results))
+  renderCheckBoxFilter()
 
 
 }
@@ -392,44 +401,6 @@ function deletePostType(postType) {
 }
 
 
-
-
-
-function getType(type) {
-  // post_type = url.searchParams.getAll('post_type')
-
-  
-  // results = searchSite(getQueryVariable()).filter(function(content){
-  //   return post_type.indexOf(content.type) != -1;
-  // });
-  results = searchSite(getQueryVariable()).filter(function(content){
-    return type.indexOf(content.type) != -1;
-  });
-  
-  
-  // let searchInd = [];
-  
-// for (let filteredTypes in type) {
-//   searchIndex.search(`type: ${type[filteredTypes]}`).flatMap((hit) => {
-//     if (hit.ref == "undefined") return [];
-//     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
-//     if (pageMatch) pageMatch.score = hit.score;
-//     searchInd.push(pageMatch);
-//     return [pageMatch];
-//   })
-// }
-
-// results = searchInd
-// console.log('second res', results)
-
-// console.log('searchInd', searchInd)
-
-  renderSearchResult(type == 0 || type == undefined ? searchSite(getQueryVariable()) : results)
-
-  // return post_type == 0 || post_type == undefined ? searchSite(getQueryVariable()) : results;
-
-  // renderSearchResult(results);
-}
 
 if(window.location.href.indexOf('?q=') != -1) {
   document.getElementById("modal_container").classList.add('show-modal-container');
