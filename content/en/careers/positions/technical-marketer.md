@@ -36,14 +36,16 @@ You would join a team that currently includes four other members. This role is a
 
 
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
-Mandatory requirements:
-Candidate must be fluent in one of Canada’s two official languages, English or French.
-Preference will be given to Canadian citizens.
-All candidates must be able to obtain Government of Canada security clearance at either Reliability or Secret level. We’ll help you with this once you’re offered a position.
-CDS is a fully distributed team. This job can be performed from anywhere in Canada. In the future, occasional travel to Ottawa may be required.
-At CDS, we don’t just accept difference - we celebrate it. 
-We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we can recognize and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 
-CDS invites all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments. We are committed to providing an inclusive and barrier-free work environment, starting with the hiring process. If you need to be accommodated during any phase of the evaluation process, please use the Contact information below to request specialized accommodation. All information received in relation to accommodation will be kept confidential.
+**Mandatory requirements:**
+- Candidate must be fluent in one of Canada’s two official languages, English or French.
+- Preference will be given to Canadian citizens.
+- All candidates must be able to obtain Government of Canada security clearance at either Reliability or Secret level. We’ll help you with this once you’re offered a position.
+- CDS is a fully distributed team. This job can be performed from anywhere in Canada. In the future, occasional travel to Ottawa may be required.
+
+
+**At CDS, we don’t just accept difference - we celebrate it.**
+
+We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we can recognize and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive. CDS invites all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments. We are committed to providing an inclusive and barrier-free work environment, starting with the hiring process. If you need to be accommodated during any phase of the evaluation process, please use the Contact information below to request specialized accommodation. All information received in relation to accommodation will be kept confidential.
 
 
