@@ -361,5 +361,7 @@ clear-all:
 most-relevant:
   other: "Most Relevant"
 most-recent:
-  other: "Most Recent"   
+  other: "Most Recent"
+open:
+  other: "Open"   
 

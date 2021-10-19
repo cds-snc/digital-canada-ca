@@ -181,6 +181,7 @@ function returnOccurences() {
     for (var i = 0; i < btn.length; i++) {
       
       if (btn[i].id in occurences) {
+      
         btn[i].children[0].textContent = `(${occurences[btn[i].id]})`
         
         btn[i].classList.remove("hide-div")
@@ -219,7 +220,7 @@ const renderCheckBoxFilter = () => {
     
     totalItems += `
     
-    <button id=${key} class="content-types"  onClick="checkboxClicked(this)" name=${key}>${capitalizeFirstLetter(key)}<span id="filter-value-id" style="background-color:${renderFilterValueColour(key)};">(${value})</span> </button>
+    <button id=${key} class="content-types"  onClick="checkboxClicked(this)" name=${key}>${capitalizeFirstLetter(key)}<span style="background-color:${renderFilterValueColour(key)}; margin-left: 1.5rem;">(${value})</span> </button>
     
     
 
@@ -229,7 +230,7 @@ const renderCheckBoxFilter = () => {
     
   }
   
-  typeTotal.innerHTML = `<button id="results" onClick="renderAllResults()" class="content-types" name="results">All Results<span id="filter-value-id" style="background-color: #A3442F;">(${removeNull(searchedResults).length})</span></button>` + totalItems
+  typeTotal.innerHTML = `<button id="results" onClick="renderAllResults()" class="content-types" name="results">All Results<span style="background-color: #A3442F; margin-left: 1.5rem;">(${removeNull(searchedResults).length})</span></button>` + totalItems
   
   buttonBorderColour();
 }
@@ -269,7 +270,7 @@ function renderSearchResult(items) {
   for (let i = 0; i < paginatedItems.length; i++) {
     resultList += `<li>
     <div class="rendered-list">
-      <div><a href='${paginatedItems[i].href}' target="_blank" class="render-list-title"><h3>${paginatedItems[i].title}<h3></a></div>
+      <div><a href='${paginatedItems[i].href}' target="_blank" class="render-list-title" aria-label='${paginatedItems[i].title}'><h3>${paginatedItems[i].title}<h3></a></div>
       <div style="padding: 0 1rem 0 1rem; background-color: ${renderFilterValueColour(paginatedItems[i].type)}">${paginatedItems[i].type.toUpperCase()}</div> 
       <div>${paginatedItems[i].description}</div>
       
@@ -409,7 +410,7 @@ if(window.location.href.indexOf('?q=') != -1) {
 
 
 
-const colourFilter = {"section": "#FFCC33", "blog": "#066169", "page": "#AB2328", "a11y": "#004986", "engagement": "#115740", "roadmap": "#E87722", "results": "#A3442F"};
+const colourFilter = {"section": "#8A6A29", "blog": "#066169", "page": "#AB2328", "a11y": "#004986", "engagement": "#115740", "roadmap": "#AE5817", "results": "#A3442F"};
 function renderFilterValueColour(param) {
   
   for (const [key, value] of Object.entries(colourFilter)) {
