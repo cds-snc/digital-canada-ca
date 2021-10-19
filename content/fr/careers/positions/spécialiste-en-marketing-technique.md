@@ -4,7 +4,7 @@ type: section
 title: 'Spécialiste en marketing technique'
 description: >-
   null
-archived: false
+archived: true
 translationKey: technical-marketer
 leverId: ca28aa2e-540f-4a51-a88f-821c06b2ac62
 ---
