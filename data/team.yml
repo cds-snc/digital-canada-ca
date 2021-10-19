@@ -154,7 +154,7 @@ team:
     email: Adrianne.Lee@tbs-sct.gc.ca
     linkedin: adriannehlee
     twitter: adriannehlee
-  - archived: false
+  - archived: true
     name: Alexa Davidson
     title:
       en: Talent
@@ -301,7 +301,7 @@ team:
     imagehash: small_daine_trinidad_c24e142482
     github: daine
     linkedin: daine
-  - archived: false
+  - archived: true
     name: Dan Sinclair
     title:
       en: Development
@@ -384,6 +384,15 @@ team:
     linkedin: gabesawhney
     twitter: gggg
   - archived: false
+    name: Gillian Massel
+    title:
+      en: Design
+      fr: Conception
+    imagehash: gillian_massel_3d2bfb1f23
+    email: gillian.massel@tbs-sct.gc.ca
+    linkedin: gillian-massel-a20357b3/
+    twitter: GillianMassel
+  - archived: false
     name: Hillary Lorimer
     title:
       en: Design Research
@@ -456,7 +465,7 @@ team:
     email: johanna.button@tbs-sct.gc.ca
     linkedin: johanna-button-097825143
     twitter: buttonjohanna
-  - archived: false
+  - archived: true
     name: John Kenney
     title:
       en: Policy
@@ -490,6 +499,14 @@ team:
     github: JuliannaR
     linkedin: julianna-rowsell-86625624
     twitter: JuliannaRowsell
+  - archived: false
+    name: Kaira Bakkestad-Legare
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: small_kaira_bakkestad_Legare_26502862da
+    email: kaira.bakkestad-legare@tbs-sct.gc.ca
+    linkedin: kaira-bakkestad-legare-a21b3678
   - archived: false
     name: Kate Wilhelm
     title:
@@ -564,6 +581,15 @@ team:
     email: megan.beretta@tbs-sct.gc.ca
     linkedin: meganberetta
     twitter: megberetta
+  - archived: false
+    name: Meghan Hellstern
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: mhellstern_d46e0d2fc0
+    email: meghan.hellstern@tbs-sct.gc.ca
+    linkedin: mhellstern
+    twitter: mhellstern
   - archived: true
     name: Mel Banyard
     title:
@@ -573,6 +599,15 @@ team:
     email: melissa.banyard@tbs-sct.gc.ca
     linkedin: melbanyard
     twitter: melbanyard
+  - archived: false
+    name: Michael Karlin
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: michaelkarlin_b06df6ba55
+    email: michael.karlin@tbs-sct.gc.ca
+    linkedin: michael-karlin-73052a4/
+    twitter: supergovernance
   - archived: false
     name: Mohamed Nur
     title:
@@ -692,6 +727,14 @@ team:
     github: sboots
     linkedin: seanboots
     twitter: sboots
+  - archived: false
+    name: Sharly Chan
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: small_sharlychan_9acdadbbc8
+    email: sharly.chan@tbs-sct.gc.ca
+    twitter: SharlyChan
   - archived: false
     name: Stephanie Gauthier
     title:

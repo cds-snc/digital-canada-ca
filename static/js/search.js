@@ -119,7 +119,7 @@ close.addEventListener("click", () => {
 loadMoreBtn.addEventListener("click", () => {
   current_page++;
   rows += 5;
-  renderSearchResult(removeNull(results));
+  renderSearchResult(removeNull(searchSite(getQueryVariable())));
 });
 
 function keyUp(ev) {

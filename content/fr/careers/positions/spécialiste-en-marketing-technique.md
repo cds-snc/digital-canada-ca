@@ -4,7 +4,7 @@ type: section
 title: 'Spécialiste en marketing technique'
 description: >-
   null
-archived: false
+archived: true
 translationKey: technical-marketer
 leverId: ca28aa2e-540f-4a51-a88f-821c06b2ac62
 ---
@@ -17,6 +17,8 @@ Vous feriez partie d’une équipe qui compte actuellement quatre autres membres
 
 
 **Dans ce rôle, vous serez appelé(e) à :** 
+
+
 - Collaborer avec les équipes de produits pour comprendre et articuler la proposition de valeur de leurs produits pour ensuite rédiger du contenu de sensibilisation et recueillir des témoignages de clients. 
 - Prendre des décisions fondées sur des données probantes pour appuyer le processus décisionnel de clients potentiels.
 - Conceptualiser et exécuter des campagnes et du matériel promotionnels pour les produits des plateformes.
@@ -25,25 +27,35 @@ Vous feriez partie d’une équipe qui compte actuellement quatre autres membres
 - Travailler avec des clients potentiels pour comprendre leurs besoins et leurs contraintes en vue de résoudre un problème. 
 - Créer et mettre en œuvre des processus là où ils n’existent pas et recommander des améliorations, le cas échéant. 
 
+
+
 **Vous êtes un(e) excellent(e) candidat(e) si :** 
+
+
 - Vous êtes à l’aise de rédiger des textes sur des produits techniques complexes en utilisant un langage clair et simple. 
 - Vous avez de l’expérience dans la vente ou le marketing de logiciels comme service (SaaS) aux entreprises (B2B).
 - Vous êtes autonome et avez de l’expérience de travail dans un environnement collaboratif.
 - Vous comprenez le processus de vente et d’élaboration d’un plan de progression.
 - Une connaissance du gouvernement et de son fonctionnement, ainsi qu’une expérience de la conception sont un atout important.
-- Le bilinguisme est considéré comme un atout.
+-  Le bilinguisme est considéré comme un atout.
 
 
 
 Nous sommes conscients que chacun et chacune présentent des compétences et des expériences différentes, et que personne ne répond exactement aux exigences. Postulez quand même! Dites-nous pourquoi vous êtes le bon candidat ou la bonne candidate pour le poste.
-Exigences obligatoires :
-Le candidat doit s’exprimer couramment dans l’une des deux langues officielles du Canada, l’anglais ou le français.
-La préférence sera accordée aux citoyens canadiens.
-Tout candidat doit être en mesure d’obtenir une cote de sécurité du gouvernement du Canada de niveau fiabilité ou secret. Nous vous aiderons dans le processus après vous avoir transmis une offre.
-Le SNC est une équipe entièrement décentralisée. Ce travail peut être effectué de n’importe où au Canada. À l’avenir, des déplacements occasionnels à Ottawa pourraient être nécessaires.
-Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons. 
-C’est avec fierté et passion que nous nous efforçons activement de rendre le SNC plus représentatif et plus inclusif de la société que nous servons. Notre capacité à fournir des services publics améliorés — des services accessibles et inclusifs — ne peut être réalisée que si nous pouvons reconnaître et exploiter l’éventail le plus diversifié de pensées, d’expériences et de compétences. Nous travaillons fort pour créer un environnement où les différentes perspectives et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à s’épanouir.
 
+
+**Exigences obligatoires :**
+
+
+- Le candidat doit s’exprimer couramment dans l’une des deux langues officielles du Canada, l’anglais ou le français.
+- La préférence sera accordée aux citoyens canadiens.
+- Tout candidat doit être en mesure d’obtenir une cote de sécurité du gouvernement du Canada de niveau fiabilité ou secret. Nous vous aiderons dans le processus après vous avoir transmis une offre.
+- Le SNC est une équipe entièrement décentralisée. Ce travail peut être effectué de n’importe où au Canada. À l’avenir, des déplacements occasionnels à Ottawa pourraient être nécessaires.
+
+
+**Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.**
+
+C’est avec fierté et passion que nous nous efforçons activement de rendre le SNC plus représentatif et plus inclusif de la société que nous servons. Notre capacité à fournir des services publics améliorés — des services accessibles et inclusifs — ne peut être réalisée que si nous pouvons reconnaître et exploiter l’éventail le plus diversifié de pensées, d’expériences et de compétences. Nous travaillons fort pour créer un environnement où les différentes perspectives et expériences sont valorisées, et nous sommes engagés à aider les talents de tout type à s’épanouir.
 Le SNC accepte tous les candidats et candidates, peu importe leur race, leur origine ethnique, leur religion, leur orientation sexuelle, leur identité ou leur expression de genre, leur origine nationale, leur handicap, leur âge, leur statut d’ancien combattant, leur situation matrimoniale, leur grossesse ou leurs obligations familiales. Nous sommes aussi engagés à instaurer un milieu de travail inclusif et exempt d’obstacles, dès le processus de sélection. Si vous avez besoin de mesures d’adaptation à une étape ou une autre du processus d’évaluation, veuillez envoyer un message aux coordonnées indiquées dans le lien ci-dessous pour en faire la demande. Les renseignements reçus au sujet de mesures d’adaptation seront traités confidentiellement.
-[Mesures d’adaptation en matière d’évaluation](https://www.canada.ca/fr/commission-fonction-publique/services/mesures-d-adaptation-matiere-evaluation.html)
+
 
