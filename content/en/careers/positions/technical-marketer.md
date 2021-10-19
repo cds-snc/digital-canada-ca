@@ -43,6 +43,8 @@ We recognize that everyone brings skills and experiences to the table and that n
 
 
 **Mandatory requirements:**
+
+
 - Candidate must be fluent in one of Canada’s two official languages, English or French.
 - Preference will be given to Canadian citizens.
 - All candidates must be able to obtain Government of Canada security clearance at either Reliability or Secret level. We’ll help you with this once you’re offered a position.
