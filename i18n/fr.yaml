@@ -334,35 +334,15 @@ menu:
   other: "Menu principal du site"
 footer-links:
   other: "Liens en bas de page"
-section:
-  other: "(FR)Section"
-blog:
-  other: "(FR)Blog"
-tools-and-resources:
-  other: "(FR)Tools and Resources"
-a11y:
-  other: "(FR)A11y"
-categories:
-  other: "(FR)Categories"
-roadmap:
-  other: "(FR)Roadmap"
-engagement:
-  other: "(FR)Engagement"          
-products:
-  other: "(FR)Products"
-form-submission:
-  other: "(FR)Form Submission"    
-legal:
-  other: "(FR)Legal"
-tags:
-  other: "(FR)Tags"
 filter-search:
-  other: "(FR)Filter Search"      
-clear-all:
-  other: "(FR)Clear All"  
-most-relevant:
-  other: "(FR)Most Relevant"
-most-recent:
-  other: "(FR)Most Recent"
+  other: "Filtrer par type"      
 open:
-  other: "(FR)Open"  
+  other: "(FR)Open"
+enter-search:
+  other: "Que recherchez-vous"   
+load-more:
+  other: "Afficher plus de résultats" 
+close:
+  other: "Fermer"
+results:
+  other: "résultats"          

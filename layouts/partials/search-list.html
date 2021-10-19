@@ -1,13 +1,12 @@
-{{$types := slice "section" "blog" "tools-and-resources" "a11y" "categories" "roadmap" "engagement" "products" "form-submission" "legal" "tags" "page"}}
 <div class="search-modal-container" id="modal_container">
   <div class="modal">
     <div class="modal-div">
       <div class="sub-modal-div">
         <i class="fa fa-search" aria-hidden="true" id="search-bar-icon"></i>
-        <input required type="search" name="q" id="q" placeholder="Enter your search...">
+        <input required type="search" name="q" id="q" placeholder="{{ i18n "enter-search" }}">
         <div class="close-btn" id="close">
           <i class="fa fa-times"></i>
-          <span>Close </span>
+          <span>{{i18n "close"}} </span>
         </div>
       </div>
       <div id="results-filter-div">
@@ -22,7 +21,7 @@
         </div>
         <div>
           <div id="results-number-div">
-            <span>Found <span id="results-number"></span> results</span> 
+            <span><span id="results-number"></span> {{i18n "results"}}</span> 
             
           </div>
           <div class="results-div">
@@ -36,7 +35,7 @@
               </ul>
             </div>         
           </div>
-          <button id="load-more">Load more </button>
+          <button id="load-more">{{i18n "load-more"}}</button>
         </div>
       </div>
       

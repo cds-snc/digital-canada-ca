@@ -332,36 +332,15 @@ menu:
   other: "Main Site Menu"
 footer-links:
   other: "Footer links"
-section:
-  other: "Section"
-blog:
-  other: "Blog"
-tools-and-resources:
-  other: "Tools and Resources"
-a11y:
-  other: "A11y"
-categories:
-  other: "Categories"
-roadmap:
-  other: "Roadmap"
-engagement:
-  other: "Engagement"          
-products:
-  other: "Products"
-form-submission:
-  other: "Form Submission"    
-legal:
-  other: "Legal"
-tags:
-  other: "Tags"
 filter-search:
-  other: "Filter Search"      
-clear-all:
-  other: "Clear All"  
-most-relevant:
-  other: "Most Relevant"
-most-recent:
-  other: "Most Recent"
+  other: "Filter by type"      
 open:
-  other: "Open"   
-
+  other: "Open" 
+enter-search:
+  other: "Enter your search"
+load-more:
+  other: "Load more"    
+close:
+  other: "Close"
+results:
+  other: "results"
