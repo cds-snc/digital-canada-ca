@@ -17,6 +17,8 @@ You would join a team that currently includes four other members. This role is a
 
 
 **In this role, you will**:
+
+
 - Work with product teams to understand and articulate product value propositions by writing educational content and client stories 
 - Make evidence informed decisions to support prospect decisions making process
 - Conceptualize and execute promotional campaigns and assets development for platform products
@@ -26,6 +28,8 @@ You would join a team that currently includes four other members. This role is a
 - Create and implement processes where they don't exist and recommend enhancements where applicable. 
 
 **You are an excellent candidate if:**
+
+
 - You excel in writing about complex technical products in clear, everyday language 
 - You have experience in B2B SaaS products sales and/or marketing
 - You are a self-starter and have experience working in a collaborative environment
@@ -36,6 +40,7 @@ You would join a team that currently includes four other members. This role is a
 
 
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
+
 
 **Mandatory requirements:**
 - Candidate must be fluent in one of Canada’s two official languages, English or French.

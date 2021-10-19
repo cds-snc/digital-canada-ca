@@ -17,6 +17,8 @@ Vous feriez partie d’une équipe qui compte actuellement quatre autres membres
 
 
 **Dans ce rôle, vous serez appelé(e) à :** 
+
+
 - Collaborer avec les équipes de produits pour comprendre et articuler la proposition de valeur de leurs produits pour ensuite rédiger du contenu de sensibilisation et recueillir des témoignages de clients. 
 - Prendre des décisions fondées sur des données probantes pour appuyer le processus décisionnel de clients potentiels.
 - Conceptualiser et exécuter des campagnes et du matériel promotionnels pour les produits des plateformes.
@@ -25,7 +27,11 @@ Vous feriez partie d’une équipe qui compte actuellement quatre autres membres
 - Travailler avec des clients potentiels pour comprendre leurs besoins et leurs contraintes en vue de résoudre un problème. 
 - Créer et mettre en œuvre des processus là où ils n’existent pas et recommander des améliorations, le cas échéant. 
 
+
+
 **Vous êtes un(e) excellent(e) candidat(e) si :** 
+
+
 - Vous êtes à l’aise de rédiger des textes sur des produits techniques complexes en utilisant un langage clair et simple. 
 - Vous avez de l’expérience dans la vente ou le marketing de logiciels comme service (SaaS) aux entreprises (B2B).
 - Vous êtes autonome et avez de l’expérience de travail dans un environnement collaboratif.
@@ -39,6 +45,8 @@ Nous sommes conscients que chacun et chacune présentent des compétences et des
 
 
 **Exigences obligatoires :**
+
+
 - Le candidat doit s’exprimer couramment dans l’une des deux langues officielles du Canada, l’anglais ou le français.
 - La préférence sera accordée aux citoyens canadiens.
 - Tout candidat doit être en mesure d’obtenir une cote de sécurité du gouvernement du Canada de niveau fiabilité ou secret. Nous vous aiderons dans le processus après vous avoir transmis une offre.
