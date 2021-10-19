@@ -4,7 +4,7 @@ type: section
 title: 'Technical Marketer'
 description: >-
   To support this important mission, we are looking for a Technical Marketer. Reporting to the Head of Platform Growth the Technical Marketer will be responsible for supporting the client intake process and creating awareness of Platform products in the Government of Canada. The candidate will work with the Outreach team to develop materials that will help potential users in making their decision and support the intake process.
-archived: false
+archived: true
 translationKey: technical-marketer
 leverId: ca28aa2e-540f-4a51-a88f-821c06b2ac62
 ---
