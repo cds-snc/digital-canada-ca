@@ -13,6 +13,9 @@ const loadMoreBtn = document.getElementById("load-more");
 const url = new URL(window.location);
 const colours = ['#FFCC33', '#066169', '#AB2328', '#004986', '#115740', '#E87722'];
 const body = document.querySelector("body");
+const filterArrow = document.getElementById("filter-arrow");
+const filterBox = document.getElementById("filter-box");
+const resultsNumberDiv = document.getElementById("results-number-div");
 let allResults;
 
 /**
@@ -43,6 +46,14 @@ async function initSearchIndex() {
   renderSearchResult(results);
   renderCheckBoxFilter();
 
+
+
+}
+
+function showMobileFilters() {
+  filterArrow.classList.toggle("active");
+  filterBox.classList.toggle("active");
+  resultsNumberDiv.classList.toggle("active")
 }
 
 function removeNull(items) {
@@ -80,6 +91,7 @@ open.addEventListener('click', () => {
   
   url.searchParams.set('q', '');
   window.history.pushState({}, '', url);
+  document.getElementById("js-mobileNav").classList.remove("active");
 
 
   
@@ -267,7 +279,7 @@ function renderSearchResult(items) {
   
 
   searchResults.innerHTML = resultList;
-  resultNumber.innerHTML = `Found ${items.length} results`;
+  resultNumber.innerHTML = ` ${items.length} `;
   
 }
 

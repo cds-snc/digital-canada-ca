@@ -565,14 +565,16 @@
   text-align: center;
   overflow-y: auto;
   z-index: 1;
-  animation: fadeIn 0.3s ease-in-out forwards;
 
-  @media only screen and (min-width: 768px) { 
+
+  @include tablet {
     flex-direction: column;
     width: 90%;
     max-width: 100%;
     max-height: calc(100vh - 210px);
+    animation: fadeIn 0.3s ease-in-out forwards;
   }
+
 
 
 
@@ -592,10 +594,15 @@
       flex: 1;
       border: none;
       background-color:transparent;
-      @media only screen and (min-width: 768px) { 
+
+      @include tablet {
         padding-left: 40px;
         margin: 0 5rem 0 3rem;
       }
+      // @media only screen and (min-width: 768px) { 
+      //   padding-left: 40px;
+      //   margin: 0 5rem 0 3rem;
+      // }
       
       color: white !important;
       
@@ -615,10 +622,14 @@
     #search-bar-icon {
       color: white;
       align-self: center;
-      @media only screen and (min-width: 768px) { 
+      @include tablet {
         position: absolute;
         padding:  30px;
       }
+      // @media only screen and (min-width: 768px) { 
+      //   position: absolute;
+      //   padding:  30px;
+      // }
 
       
     }
@@ -701,9 +712,12 @@
   }
 
   #results-filter-div {
-    @media only screen and (min-width: 768px) {
+    @include tablet {
       display: flex;
     }
+    // @media only screen and (min-width: 768px) {
+    //   display: flex;
+    // }
     display: inline;
   }
 
@@ -717,7 +731,34 @@
       display: flex;
     }
 
-    .filter-box {
+    #filter-arrow {
+      display: none;
+
+      @include mobile_only {
+        display: block;
+        margin-left: 1rem;
+
+        &.active {
+          animation: fadeIn 0.5s ease-in forwards;
+          -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+        }
+
+      }
+      
+    }
+
+    #filter-box {
+      @include mobile_only {
+        display: none;
+
+        &.active {
+          display: block;
+          animation: fadeIn 0.3s ease-in forwards;
+        }
+        
+      }
+      
       color: white;
     }
     
@@ -726,9 +767,12 @@
   #results-number-div{
     padding: 0 2rem 0 2rem;
     display: flex;
-
-    #results-number{
-      color: white;
+    color: white;
+    @include mobile_only {
+      margin-top: 3rem;
+      &.active {
+        border-top: 1px solid #E1E4E7;;
+      }
     }
   
   }
