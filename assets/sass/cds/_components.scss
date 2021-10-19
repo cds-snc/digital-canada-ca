@@ -594,6 +594,12 @@
   max-height: calc(100vh - 210px);
   overflow-y: auto;
   z-index: 1;
+  animation: fadeIn 0.3s ease-in-out forwards;
+
+  // @media only screen and (max-width: 768px) {
+  //   background-color: green;
+  //   display: block;
+  // }
 }
 
 .modal-div {

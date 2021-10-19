@@ -107,22 +107,16 @@
   }
 }
 
-.top-nav--search-icon {
-  margin-left: 2rem;
+// Main Navigation Link
+.search-button {
   border: 2px solid white;
   background-color: transparent;
-  // padding: 0.8rem;
-  // background-color: white;
-  // border: none;
   height: 4rem;
   width: 4rem;
-  // border-radius: 50%;
   #search-icon {
     color: white;
   }
 }
-
-// Main Navigation Link
 .top-nav--link {
   display: block;
   text-align: center;
