@@ -558,332 +558,179 @@
 
 .modal {
 
-  @media only screen and (max-width: 600px) {
-    display: flex;
-    flex-direction: row;
-    height: 100%;
-    background-color: black;
-    // width: 90%;
-    // max-width: 100%;
-    text-align: center;
-    // max-height: calc(100vh - 210px);
-    overflow-y: auto;
-    z-index: 1;
-    animation: fadeIn 0.3s ease-in-out forwards;
-  
-  
-  
-    .modal-div {
-      flex-grow: 1;
-      position: relative;
-      
-    
-      .sub-modal-div {
-        display: flex;
-        justify-content: space-between;
-        padding: 2rem 3rem 4rem 3rem;
-    
-      }
-    
-      input {
-        flex: 1;
-        border: none;
-        background-color:transparent;
-        
-        color: white !important;
-        
-        margin: 0 2rem 0 1rem;
-        border-bottom: 2px solid $primary-color !important;
-    
-        &::placeholder {
-          color: white;
-          
-        }
-      }
-      button {
-        background-color: transparent;
-        color: white;
-      }
-    
-      #search-bar-icon {
-        color: white;
-        align-self: center;
-        // position: absolute;
-        // padding:  30px;
-        
-      }
-    
-      .close-btn {
-        display: flex;
-        flex-direction: column;
-        i {
-          color: $primary-color;
-          
-        }
-        span {
-          color: $primary-color;
-        }
-      }
-    }
-    
-    #filter-value-id {
-      margin-left: 1.5rem; 
-    }
-    
-    
-    .content-types{
-      display: flex;
-      background-color: transparent;
-      margin: 1rem 0 1rem 0;
-      padding: 0;
-      border: none;
-      
-    
-      &.hide-div {
-        display: none;
-      }
-    
-      
-    }
-    .rendered-list{
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start;
-      text-align: left;
-      padding: 0 2rem 0 2rem;
-      color: white;
-      margin-bottom: 2rem;
-    
-    
-      .render-list-title {
-        text-decoration: none;
-      }
-    
-      a:hover {
-        color: white;
-      }
-      
-    }
-  
-    
-    #load-more {
-      margin-bottom: 2rem;
-    
-      &.hide-btn {
-        display: none;
-      }
-    
-    }
-  
-    .results-div {
-      display: flex;
-      border-left: 1px solid #E1E4E7;
-    
-    
-      .site-results-list {
-    
-        #site-results {
-          list-style: none;
-          padding: 0;
-        }
-      }
-    
-    }
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  background-color: black;
+  text-align: center;
+  overflow-y: auto;
+  z-index: 1;
+  animation: fadeIn 0.3s ease-in-out forwards;
 
-    #results-filter-div {
-      display: inline;
-    }
-  
-  
-  
-    
-    #filter-div{
-      padding: 0 4rem 0 2rem;
-      min-width: 210px;
-  
-      #filter-title{
-        color: white;
-        display: flex;
-      }
-  
-      .filter-box {
-        color: white;
-      }
-      
-    }
-    
-    #results-number-div{
-      padding: 0 2rem 0 2rem;
-      display: flex;
-  
-      #results-number{
-        color: white;
-      }
-    
-    }
-  }
-  @media only screen and (min-width: 768px) {
-
-    display: flex;
+  @media only screen and (min-width: 768px) { 
     flex-direction: column;
-    height: 100%;
-    background-color: black;
     width: 90%;
     max-width: 100%;
-    text-align: center;
     max-height: calc(100vh - 210px);
-    overflow-y: auto;
-    z-index: 1;
-    animation: fadeIn 0.3s ease-in-out forwards;
+  }
+
+
+
+
+  .modal-div {
+    flex-grow: 1;
+    position: relative;
   
+    .sub-modal-div {
+      display: flex;
+      justify-content: space-between;
+      padding: 2rem 3rem 4rem 3rem;
   
+    }
   
-    .modal-div {
-      flex-grow: 1;
-      position: relative;
-      background-color: green;
-    
-      .sub-modal-div {
-        display: flex;
-        justify-content: space-between;
-        padding: 2rem 3rem 4rem 3rem;
-    
-      }
-    
-      input {
-        flex: 1;
-        border: none;
-        background-color:transparent;
+    input {
+      flex: 1;
+      border: none;
+      background-color:transparent;
+      @media only screen and (min-width: 768px) { 
         padding-left: 40px;
-        color: white !important;
-        
         margin: 0 5rem 0 3rem;
-        border-bottom: 2px solid $primary-color !important;
-    
-        &::placeholder {
-          color: white;
-          
-        }
       }
-      button {
-        background-color: transparent;
+      
+      color: white !important;
+      
+      margin: 0 2rem 0 1rem;
+      border-bottom: 2px solid $primary-color !important;
+  
+      &::placeholder {
         color: white;
+        
       }
-    
-      #search-bar-icon {
-        color: white;
-        align-self: center;
+    }
+    button {
+      background-color: transparent;
+      color: white;
+    }
+  
+    #search-bar-icon {
+      color: white;
+      align-self: center;
+      @media only screen and (min-width: 768px) { 
         position: absolute;
         padding:  30px;
-        
       }
-    
-      .close-btn {
-        display: flex;
-        flex-direction: column;
-        i {
-          color: $primary-color;
-          
-        }
-        span {
-          color: $primary-color;
-        }
-      }
-    }
-    
-    #filter-value-id {
-      margin-left: 1.5rem; 
-    }
-    
-    
-    .content-types{
-      display: flex;
-      background-color: transparent;
-      margin: 1rem 0 1rem 0;
-      padding: 0;
-      border: none;
-      
-    
-      &.hide-div {
-        display: none;
-      }
-    
+
       
     }
-    .rendered-list{
+  
+    .close-btn {
       display: flex;
       flex-direction: column;
-      align-items: flex-start;
-      text-align: left;
-      padding: 0 2rem 0 2rem;
+      i {
+        color: $primary-color;
+        
+      }
+      span {
+        color: $primary-color;
+      }
+    }
+  }
+  
+  #filter-value-id {
+    margin-left: 1.5rem; 
+  }
+  
+  
+  .content-types{
+    display: flex;
+    background-color: transparent;
+    margin: 1rem 0 1rem 0;
+    padding: 0;
+    border: none;
+    
+  
+    &.hide-div {
+      display: none;
+    }
+  
+    
+  }
+  .rendered-list{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 0 2rem 0 2rem;
+    color: white;
+    margin-bottom: 2rem;
+  
+  
+    .render-list-title {
+      text-decoration: none;
+    }
+  
+    a:hover {
       color: white;
-      margin-bottom: 2rem;
+    }
     
-    
-      .render-list-title {
-        text-decoration: none;
-      }
-    
-      a:hover {
-        color: white;
-      }
-      
+  }
+
+  
+  #load-more {
+    margin-bottom: 2rem;
+  
+    &.hide-btn {
+      display: none;
     }
   
-    
-    #load-more {
-      margin-bottom: 2rem;
-    
-      &.hide-btn {
-        display: none;
+  }
+
+  .results-div {
+    display: flex;
+    border-left: 1px solid #E1E4E7;
+  
+  
+    .site-results-list {
+  
+      #site-results {
+        list-style: none;
+        padding: 0;
       }
-    
     }
   
-    .results-div {
-      display: flex;
-      border-left: 1px solid #E1E4E7;
-    
-    
-      .site-results-list {
-    
-        #site-results {
-          list-style: none;
-          padding: 0;
-        }
-      }
-    
-    }
-  
-    #results-filter-div {
+  }
+
+  #results-filter-div {
+    @media only screen and (min-width: 768px) {
       display: flex;
     }
+    display: inline;
+  }
+
   
-    
-    #filter-div{
-      padding: 0 4rem 0 2rem;
-      min-width: 210px;
-  
-      #filter-title{
-        color: white;
-        display: flex;
-      }
-  
-      .filter-box {
-        color: white;
-      }
-      
-    }
-    
-    #results-number-div{
-      padding: 0 2rem 0 2rem;
+  #filter-div{
+    padding: 0 4rem 0 2rem;
+    min-width: 210px;
+
+    #filter-title{
+      color: white;
       display: flex;
-  
-      #results-number{
-        color: white;
-      }
-    
     }
+
+    .filter-box {
+      color: white;
+    }
+    
+  }
+  
+  #results-number-div{
+    padding: 0 2rem 0 2rem;
+    display: flex;
+
+    #results-number{
+      color: white;
+    }
+  
   }
 
   
