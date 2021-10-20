@@ -504,9 +504,6 @@
   }
 }
 
-
-
-
 .partnerships-contact {
   display: flex;
   justify-content: center;
@@ -526,7 +523,7 @@
   &.show-modal-container{
     pointer-events: auto;
     opacity: 1;
-
+    position: relative;
     background-color: rgba(0, 0, 0, 0.3);
     display: flex;
     flex-direction: row;
@@ -536,7 +533,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    z-index: 1;
+    z-index: 1000;
     height: 100vh;
     width: 100vw;
     transition: opacity 0.3s ease;
@@ -564,7 +561,7 @@
   background-color: black;
   text-align: center;
   overflow-y: auto;
-  z-index: 1;
+  z-index: 1000;
 
 
   @include tablet {
@@ -599,10 +596,6 @@
         padding-left: 40px;
         margin: 0 5rem 0 3rem;
       }
-      // @media only screen and (min-width: 768px) { 
-      //   padding-left: 40px;
-      //   margin: 0 5rem 0 3rem;
-      // }
       
       color: white !important;
       
@@ -626,12 +619,6 @@
         position: absolute;
         padding:  30px;
       }
-      // @media only screen and (min-width: 768px) { 
-      //   position: absolute;
-      //   padding:  30px;
-      // }
-
-      
     }
   
     .close-btn {
@@ -720,9 +707,7 @@
     @include tablet {
       display: flex;
     }
-    // @media only screen and (min-width: 768px) {
-    //   display: flex;
-    // }
+
     display: inline;
   }
 

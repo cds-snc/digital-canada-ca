@@ -1,7 +1,6 @@
 {{ define "main" }}   
   <div class="container section">
-
-    <ul class="blogpost-list" id="blog-list">
+    <ul class="blogpost-list">
       {{ range .Paginator.Pages }}
         {{ .Render "list"}}
       {{ end }}
