@@ -22,7 +22,7 @@ const body = document.querySelector("body");
 const filterArrow = document.getElementById("filter-arrow");
 const filterBox = document.getElementById("filter-box");
 const resultsNumberDiv = document.getElementById("results-number-div");
-let allResults;
+
 
 /**
  * Initializes the search index
@@ -46,10 +46,10 @@ async function initSearchIndex() {
   }
   if (!inputVal.value) inputVal.value = getQueryVariable();
   results = removeNull(searchSite(getQueryVariable()));
-  allResults = results;
+  
 
   renderSearchResult(results);
-  renderCheckBoxFilter();
+  renderFilterButtons();
 }
 
 function showMobileFilters() {
@@ -87,6 +87,10 @@ const open = document.getElementById("open");
 const modal_container = document.getElementById("modal_container");
 const close = document.getElementById("close");
 
+/**
+ * Event listeners to open and close the search modal
+ */
+
 open.addEventListener("click", () => {
   modal_container.classList.add("show-modal-container");
   body.style.overflow = "hidden";
@@ -113,7 +117,7 @@ close.addEventListener("click", () => {
   window.history.pushState({}, "", location.origin);
   results = searchSite(getQueryVariable());
   renderSearchResult(removeNull(results));
-  renderCheckBoxFilter();
+  renderFilterButtons();
   
 });
 loadMoreBtn.addEventListener("click", () => {
@@ -129,20 +133,12 @@ function keyUp(ev) {
   results = searchSite(getQueryVariable());
   renderSearchResult(removeNull(results));
 
-  renderCheckBoxFilter();
+  renderFilterButtons();
 }
 
-window.onpopstate = function () {
-  inputVal.value = getQueryVariable();
-  results = searchSite(getQueryVariable());
-
-  renderSearchResult(removeNull(results));
-  renderCheckBoxFilter();
-};
-
 /**
- * Renders the number of times a word appears in the search filter box
- * @param $items
+ * Returns the number of results by filter type if the user searches, by default shows all results by type.
+
  */
 
 function returnOccurences() {
@@ -155,7 +151,8 @@ function returnOccurences() {
     return [pageMatch];
   });
   ind = removeNull(ind);
-  for (let i = 0; i < ind.length; i++) {
+
+  for (let i in ind) {
     typesArray.push(ind[i].type);
   }
 
@@ -164,6 +161,7 @@ function returnOccurences() {
   }, {});
 
   let btn = document.getElementsByClassName("content-types");
+
 
   for (var i = 0; i < btn.length; i++) {
     if (btn[i].id in occurences) {
@@ -178,7 +176,11 @@ function returnOccurences() {
   return occurences;
 }
 
-function buttonBorderColour() {
+/**
+ * Renders bottom border colour of a selected filter
+ * 
+ */
+function renderButtonBorderColour() {
   let btns = document.getElementsByClassName("content-types");
   let allResultsBtn = document.getElementById("results");
   post_type = url.searchParams.getAll("post_type");
@@ -193,7 +195,11 @@ function buttonBorderColour() {
     : (allResultsBtn.style.borderBottom = `3px solid ${renderFilterValueColour(allResultsBtn.name)}`);
 }
 
-const renderCheckBoxFilter = () => {
+
+/**
+ * Renders the filter buttons
+ */
+const renderFilterButtons = () => {
   let totalItems = "";
 
   let counter = 0;
@@ -219,14 +225,18 @@ const renderCheckBoxFilter = () => {
       removeNull(searchedResults).length
     })</span></button>` + totalItems;
 
-  buttonBorderColour();
+  renderButtonBorderColour();
 };
 
+
+/**
+ * Renders all results after user presses all results button 
+ */
 function renderAllResults() {
   url.searchParams.delete("post_type");
   window.history.pushState({}, "", url);
   renderSearchResult(removeNull(searchedResults));
-  renderCheckBoxFilter();
+  renderFilterButtons();
 }
 
 function capitalizeFirstLetter(string) {
@@ -272,7 +282,6 @@ function renderSearchResult(items) {
 
 /**
  * Gets the query that was entered by the user from url
- * @param $variable
  * @returns {decodeURIComponent} removes any special character and just returns the words
  */
 
@@ -304,6 +313,11 @@ function searchSite(query) {
     : [];
 }
 
+/**
+ * Takes the query and filter type and returns the search results
+ * @param $variable
+ * @returns {results}
+ */
 function getSearchResults(type, query) {
   let filteredResults;
   searchedResults = searchIndex.search(query).flatMap((hit) => {
@@ -343,6 +357,11 @@ function getLunrSearchQuery(query) {
   return query.trim();
 }
 
+
+/**
+ * Renders the results based on which filter was selected
+ * @param $val
+ */
 function checkboxClicked(val) {
   post_type = url.searchParams.getAll("post_type");
 
@@ -364,7 +383,7 @@ function checkboxClicked(val) {
   }
   results = searchSite(getQueryVariable());
   renderSearchResult(removeNull(results));
-  renderCheckBoxFilter();
+  renderFilterButtons();
 }
 
 function deletePostType(postType) {
@@ -374,13 +393,12 @@ function deletePostType(postType) {
   }
 }
 
-window.location.href.indexOf("?q=") != -1
-  ? document
-      .getElementById("modal_container")
-      .classList.add("show-modal-container")
-  : document
-      .getElementById("modal_container")
-      .classList.remove("show-modal-container");
+/**
+ * Presents modal if url has query search parameter 
+ */
+if (window.location.href.indexOf("?q=") != -1) {
+  document.getElementById("modal_container").classList.add("show-modal-container")
+}
 
 const colourFilter = {
   section: "#8A6A29",
