@@ -337,7 +337,7 @@ footer-links:
 filter-search:
   other: "Filtrer par type"      
 open:
-  other: "(FR)Open"
+  other: "Ouvert"
 enter-search:
   other: "Que recherchez-vous"   
 load-more:
