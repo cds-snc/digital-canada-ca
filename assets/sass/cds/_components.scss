@@ -665,6 +665,16 @@
   
     
   }
+  @mixin  textColour($text) {
+    @if $text == 'blog' {
+      color: black;
+    } @else {
+      color: white;
+    }
+  }
+  .filter-number-blog {
+    @include textColour("blog")
+  }
   .rendered-list{
     display: flex;
     flex-direction: column;
@@ -672,7 +682,7 @@
     text-align: left;
     padding: 0 2rem 0 2rem;
     color: white;
-    margin-bottom: 2rem;
+    
   
   
     .render-list-title {

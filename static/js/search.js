@@ -212,7 +212,7 @@ const renderFilterButtons = () => {
     totalItems += `
     
     <button id=${key} class="content-types"  onClick="checkboxClicked(this)" name=${key}>${capitalizeFirstLetter(key)}
-      <span style="background-color:${renderFilterValueColour(key)}; margin-left: 1.5rem;">(${value})</span>
+      <span class="filter-number-${key}" style="background-color:${renderFilterValueColour(key)}; margin-left: 1.5rem;">(${value})</span>
     </button>
 
     `;
@@ -221,11 +221,12 @@ const renderFilterButtons = () => {
   }
 
   typeTotal.innerHTML =
-    `<button id="results" onClick="renderAllResults()" class="content-types" name="results">All Results<span style="background-color: #A3442F; margin-left: 1.5rem;">(${
+    `<button id="results" onClick="renderAllResults()" class="content-types" name="results">All Results<span style="background-color: #F5CC33; margin-left: 1.5rem; color: black">(${
       removeNull(searchedResults).length
     })</span></button>` + totalItems;
 
   renderButtonBorderColour();
+  
 };
 
 
@@ -267,7 +268,7 @@ function renderSearchResult(items) {
           <h3>${paginatedItems[i].title}<h3>
         </a>
       </div>
-      <div style="padding: 0 1rem 0 1rem; background-color: ${renderFilterValueColour(paginatedItems[i].type)}">
+      <div class="filter-number-${paginatedItems[i].type}" style="padding: 0 1rem 0 1rem; background-color: ${renderFilterValueColour(paginatedItems[i].type)}; font-size: 2rem;">
         ${paginatedItems[i].type.toUpperCase()}
       </div> 
       <div>${paginatedItems[i].description}</div>
@@ -278,6 +279,8 @@ function renderSearchResult(items) {
 
   searchResults.innerHTML = resultList;
   resultNumber.innerHTML = ` ${items.length} `;
+  
+  
 }
 
 /**
@@ -401,13 +404,13 @@ if (window.location.href.indexOf("?q=") != -1) {
 }
 
 const colourFilter = {
-  section: "#8A6A29",
-  blog: "#066169",
+  section: "#6b3c19",
+  blog: "#e788aa",
   page: "#AB2328",
   a11y: "#004986",
   engagement: "#115740",
   roadmap: "#AE5817",
-  results: "#A3442F",
+  results: "#F5CC33",
 };
 function renderFilterValueColour(param) {
   for (const [key, value] of Object.entries(colourFilter)) {
