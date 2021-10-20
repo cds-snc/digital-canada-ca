@@ -514,8 +514,19 @@
 
 }
 
+////////////////////////////////////////////////////
+//
+// Site Wide Search
+//
+////////////////////////////////////////////////////
+#site-search {
+  display: flex;
+  justify-content: space-between;
+}
 
-
+.hide-element {
+  display: none;
+}
 .search-modal-container {
   display: none;
 
