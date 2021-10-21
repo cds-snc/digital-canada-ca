@@ -46,11 +46,8 @@ async function initSearchIndex() {
     console.log(e);
   }
   if (!inputVal.value) inputVal.value = getQueryVariable();
-  // results = searchSite(getQueryVariable());
-  // console.log('res', results)
+
   results = removeNull(searchSite(getQueryVariable()));
-  console.log('res', removeArchivedJob(results))
-  
 
   renderSearchResult(results);
   renderFilterButtons();
@@ -73,17 +70,6 @@ function removeNull(items) {
     }
   }
 
-  return arr;
-}
-
-function removeArchivedJob(items) {
-  let arr = []
-  for (var prop in items) {
-    if (items[prop].archived === false) {
-      arr.push(items[prop]);
-    }
-  }
-  console.log('arr', arr)
   return arr;
 }
 
