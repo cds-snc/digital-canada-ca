@@ -689,13 +689,12 @@
       text-decoration: none;
     }
   
-    a:hover {
+    a:hover, :visited, :focus {
       color: white;
     }
 
-    a:visited {
-      color: white;
-    }
+
+
     
   }
 

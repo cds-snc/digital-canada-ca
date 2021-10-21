@@ -38,6 +38,7 @@ async function initSearchIndex() {
       this.field("description");
       this.field("date");
       this.field("type");
+      this.field("archived");
       this.ref("href");
       pagesIndex.forEach((page) => this.add(page));
     });
@@ -45,7 +46,10 @@ async function initSearchIndex() {
     console.log(e);
   }
   if (!inputVal.value) inputVal.value = getQueryVariable();
+  // results = searchSite(getQueryVariable());
+  // console.log('res', results)
   results = removeNull(searchSite(getQueryVariable()));
+  console.log('res', removeArchivedJob(results))
   
 
   renderSearchResult(results);
@@ -64,11 +68,22 @@ function showMobileFilters() {
 function removeNull(items) {
   let arr = [];
   for (var prop in items) {
-    if (items[prop].description !== null) {
+    if (items[prop].description !== null && items[prop].archived !== true) {
       arr.push(items[prop]);
     }
   }
 
+  return arr;
+}
+
+function removeArchivedJob(items) {
+  let arr = []
+  for (var prop in items) {
+    if (items[prop].archived === false) {
+      arr.push(items[prop]);
+    }
+  }
+  console.log('arr', arr)
   return arr;
 }
 
@@ -407,7 +422,7 @@ const colourFilter = {
   section: "#6b3c19",
   blog: "#e788aa",
   page: "#AB2328",
-  a11y: "#004986",
+  accessibility: "#004986",
   engagement: "#115740",
   roadmap: "#AE5817",
   results: "#F5CC33",

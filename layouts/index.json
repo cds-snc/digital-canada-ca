@@ -5,7 +5,7 @@
 
     {{- if gt (len $page.Content) 0 -}}
     
-      {{- $pageData := (dict "title" $page.Title  "href" $page.Permalink "description" $page.Params.description "type" $page.Type "date" $page.Params.date) -}}
+      {{- $pageData := (dict "title" $page.Title  "href" $page.Permalink "description" $page.Params.description "type" $page.Type "date" $page.Params.date "archived" $page.Params.archived) -}}
       {{- $.Scratch.Add "pagesIndex" $pageData -}}
     {{- end -}}
   
