@@ -569,7 +569,7 @@
   display: flex;
   flex-direction: row;
   height: 100%;
-  background-color: black;
+  background-color: #232323;
   text-align: center;
   overflow-y: auto;
   z-index: 1000;
@@ -673,15 +673,18 @@
     }
   }
   .filter-number-blog {
-    @include textColour("blog")
+    @include textColour("blog");
+    
   }
   .rendered-list{
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     text-align: left;
-    padding: 0 2rem 0 2rem;
+    padding: 0 2rem 0 5rem;
     color: white;
+    margin-bottom: 2rem;
+    max-width: 90%;
     
   
   
@@ -775,7 +778,7 @@
   }
   
   #results-number-div{
-    padding: 0 2rem 0 2rem;
+    padding: 0 2rem 0 5rem;
     display: flex;
     color: white;
     @include mobile_only {

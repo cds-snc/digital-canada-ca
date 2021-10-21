@@ -1,10 +1,23 @@
+// import i18next from 'i18next';
+// import HttpApi from 'i18next-http-backend';
+
+// const { default: i18next } = require("i18next");
+
+// const { default: i18next } = require("i18next");
+
+
+// const { default: i18next } = require("i18next");
+// const { default: I18NextHttpBackend } = require("i18next-http-backend");
+
+// const { default: i18next } = require("i18next");
+
+
+
 var current_page = 1;
-let pagesIndex, searchIndex, results, filtered, post_type, searchedResults;
+let pagesIndex, searchIndex, results, filtered, post_type, searchedResults, trans;
 
 const searchResults = document.getElementById("site-results");
 const resultNumber = document.getElementById("results-number");
-const relevantBtn = document.getElementById("relevant");
-const recentBtn = document.getElementById("recent");
 const typeTotal = document.getElementById("typeTotal");
 let rows = 5;
 const inputVal = document.getElementById("q");
@@ -65,20 +78,50 @@ function showMobileFilters() {
 function removeNull(items) {
   let arr = [];
   for (var prop in items) {
-    if (items[prop].description !== null && items[prop].archived !== true) {
+    if (items[prop].description !== null && items[prop].archived !== true && items[prop].type !== 'form-submission') {
       arr.push(items[prop]);
     }
   }
 
   return arr;
+  // return items;
 }
 
 function initSearchSite() {
   document.addEventListener("DOMContentLoaded", function () {
     initSearchIndex();
+    initTranslations();
     let txt = document.getElementById("q");
 
     txt.addEventListener("input", keyUp);
+  });
+}
+
+function initTranslations() {
+  i18next.init({
+    lng: document.querySelector('html').lang,
+    debug: true,
+    resources: {
+      en: {
+        translation: {
+          "accessibility": "Accessibility",
+          "all_results": "All Results",
+          "blog": "Blog",
+          "section": "Section",
+          "report": "Report"
+        }
+      },
+      fr: {
+        translation: {
+          "accessibility": "Accessibilité",
+          "all_results": "Tous les résultats",
+          "blog": "(FR)Blog",
+          "section": "(FR)Section",
+          "report": "(FR)Report"
+        }
+      },
+    }
+  
   });
 }
 
@@ -212,7 +255,7 @@ const renderFilterButtons = () => {
   for (const [key, value] of Object.entries(returnOccurences())) {
     totalItems += `
     
-    <button id=${key} class="content-types"  onClick="checkboxClicked(this)" name=${key}>${capitalizeFirstLetter(key)}
+    <button id=${key} class="content-types"  onClick="checkboxClicked(this)" name=${key}>${i18next.t(key)}
       <span class="filter-number-${key}" style="background-color:${renderFilterValueColour(key)}; margin-left: 1.5rem;">(${value})</span>
     </button>
 
@@ -222,7 +265,7 @@ const renderFilterButtons = () => {
   }
 
   typeTotal.innerHTML =
-    `<button id="results" onClick="renderAllResults()" class="content-types" name="results">All Results<span style="background-color: #F5CC33; margin-left: 1.5rem; color: black">(${
+    `<button id="results" onClick="renderAllResults()" class="content-types" name="results">${i18next.t('all_results')}<span style="background-color: #F5CC33; margin-left: 1.5rem; color: black">(${
       removeNull(searchedResults).length
     })</span></button>` + totalItems;
 
@@ -266,11 +309,11 @@ function renderSearchResult(items) {
     <div class="rendered-list">
       <div>
         <a href='${paginatedItems[i].href}' target="_blank" class="render-list-title" aria-label='${paginatedItems[i].title}'>
-          <h3>${paginatedItems[i].title}<h3>
+          <h3 style="line-height: 1rem">${paginatedItems[i].title}<h3>
         </a>
       </div>
-      <div class="filter-number-${paginatedItems[i].type}" style="padding: 0 1rem 0 1rem; background-color: ${renderFilterValueColour(paginatedItems[i].type)}; font-size: 2rem;">
-        ${paginatedItems[i].type.toUpperCase()}
+      <div class="filter-number-${paginatedItems[i].type}" style="display: flex; align-items: stretch; line-height: 1.3em; padding: 0 0.5rem 0 0.5rem; background-color: ${renderFilterValueColour(paginatedItems[i].type)}; font-size: 2rem;">
+        ${i18next.t(paginatedItems[i].type).toUpperCase()}
       </div> 
       <div>${paginatedItems[i].description}</div>
       
@@ -326,11 +369,14 @@ function getSearchResults(type, query) {
   let filteredResults;
   searchedResults = searchIndex.search(query).flatMap((hit) => {
     if (hit.ref == "undefined") return [];
+    // console.log('hit', hit);
     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
     if (pageMatch) pageMatch.score = hit.score;
 
     return [pageMatch];
   });
+
+  
 
   if (type.length === 0 || type === undefined) {
     filteredResults = searchedResults;
@@ -339,6 +385,7 @@ function getSearchResults(type, query) {
       return type.indexOf(content.type) != -1;
     });
   }
+
 
   return filteredResults;
 }
@@ -386,6 +433,7 @@ function checkboxClicked(val) {
     val.style.borderBottom = `3px solid ${renderFilterValueColour(val.name)}`;
   }
   results = searchSite(getQueryVariable());
+  console.log('res', removeNull(results))
   renderSearchResult(removeNull(results));
   renderFilterButtons();
 }
@@ -409,8 +457,7 @@ const colourFilter = {
   blog: "#e788aa",
   page: "#AB2328",
   accessibility: "#004986",
-  engagement: "#115740",
-  roadmap: "#AE5817",
+  report: "#AE5817",
   results: "#F5CC33",
 };
 function renderFilterValueColour(param) {
