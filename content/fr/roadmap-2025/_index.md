@@ -1,5 +1,5 @@
 ---
-type: report
+type: roadmap
 layout: default
 url: /feuille-de-route-2025/
 title: "Offrir des services numériques d’ici 2025"

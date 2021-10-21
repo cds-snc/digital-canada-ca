@@ -1,5 +1,5 @@
 ---
-type: report
+type: roadmap
 layout: default
 url: /roadmap-2025/
 title: "Delivering digital services by 2025"
