@@ -416,6 +416,14 @@ team:
     imagehash: small_janet_davidson_ba188bba9e
     email: janet.davidson@tbs-sct.gc.ca
   - archived: false
+    name: Janice LaGiorgia
+    title:
+      en: Design
+      fr: Conception
+    imagehash: small_janicelagiorgia_50b38e05fc
+    email: janice.lagiorgia@tbs-sct.gc.ca
+    linkedin: janicelagiorgia/
+  - archived: false
     name: Jeana Frost
     title:
       en: Design Research
