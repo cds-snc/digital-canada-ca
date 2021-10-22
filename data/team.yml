@@ -778,6 +778,14 @@ team:
     email: Steven.Talbot@tbs-sct.gc.ca
     twitter: StevieRayTalbot
   - archived: false
+    name: Tamreen Arif
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: small_tamreen_arif_36ee328dbb
+    email: tamreen.arif@tbs-sct.gc.ca
+    linkedin: /tamreen
+  - archived: false
     name: Tim Arney
     title:
       en: Development
