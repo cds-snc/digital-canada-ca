@@ -1,5 +1,5 @@
 var current_page = 1;
-let pagesIndex, searchIndex, results, filtered, post_type, searchedResults, trans;
+let pagesIndex, searchIndex, results, filtered, post_type, searchedResults;
 
 const searchResults = document.getElementById("site-results");
 const resultNumber = document.getElementById("results-number");
@@ -180,12 +180,7 @@ function keyUp(ev) {
 function returnOccurences() {
   let typesArray = [];
 
-  let ind = searchIndex.search(getQueryVariable()).flatMap((hit) => {
-    if (hit.ref == "undefined") return [];
-    let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
-    pageMatch.score = hit.score;
-    return [pageMatch];
-  });
+  let ind = queriedSearch(getQueryVariable())
   ind = removeNull(ind);
   
 
@@ -345,25 +340,26 @@ function searchSite(query) {
     : [];
 }
 
+
+function queriedSearch(query_string) {
+  return searchIndex.query(function(q) {
+    q.term(query_string, { usePipeline: true, boost: 100 });
+    q.term(query_string, { usePipeline: false, boost: 10, wildcard: lunr.Query.wildcard.TRAILING });
+  }).map(function(result) {
+    return pagesIndex.filter(function(page) {
+      return page.href === result.ref;
+    })[0];
+  });
+}
+
 /**
  * Takes the query and filter type and returns the search results
  * @param $variable
  * @returns {results}
  */
-function getSearchResults(type, query) {
-  let q = query
+function getSearchResults(type, query_string) {
   let filteredResults;
-  searchedResults = searchIndex.search(q).flatMap((hit) => {
-    if (hit.ref == "undefined") return [];
-    let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
-      
-    if (pageMatch) pageMatch.score = hit.score;
-    
-    return [pageMatch];
-  });
-
-
-  
+  searchedResults = queriedSearch(query_string)
 
   if (type.length === 0 || type === undefined) {
     filteredResults = searchedResults;
