@@ -657,6 +657,7 @@
     margin: 1rem 0 1rem 0;
     padding: 0;
     border: none;
+    white-space: nowrap;
     
   
     &.hide-div {
@@ -681,15 +682,22 @@
     flex-direction: column;
     align-items: flex-start;
     text-align: left;
-    padding: 0 2rem 0 5rem;
+    padding: 0 2rem 0 2rem;
     color: white;
     margin-bottom: 2rem;
     max-width: 90%;
+    @include tablet {
+      max-width: 70%;
+      padding-left: 5rem;
+    }
     
   
   
     .render-list-title {
       text-decoration: none;
+      font-size: 2.6rem;
+      font-weight: 600;
+      
     }
   
     a:hover, :visited, :focus {
@@ -713,7 +721,10 @@
 
   .results-div {
     display: flex;
-    border-left: 1px solid #E1E4E7;
+    @include tablet {
+      border-left: 1px solid #E1E4E7;
+    }
+    
   
   
     .site-results-list {
@@ -732,6 +743,13 @@
     }
 
     display: inline;
+    @include tablet {
+      .div-margin {
+        margin-left: 3rem;
+      }
+    }
+
+    
   }
 
   
@@ -783,8 +801,9 @@
     color: white;
     @include mobile_only {
       margin-top: 3rem;
+      padding-left: 2rem;
       &.active {
-        border-top: 1px solid #E1E4E7;;
+        border-top: 1px solid #E1E4E7;
       }
     }
   

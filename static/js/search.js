@@ -1,18 +1,3 @@
-// import i18next from 'i18next';
-// import HttpApi from 'i18next-http-backend';
-
-// const { default: i18next } = require("i18next");
-
-// const { default: i18next } = require("i18next");
-
-
-// const { default: i18next } = require("i18next");
-// const { default: I18NextHttpBackend } = require("i18next-http-backend");
-
-// const { default: i18next } = require("i18next");
-
-
-
 var current_page = 1;
 let pagesIndex, searchIndex, results, filtered, post_type, searchedResults, trans;
 
@@ -23,14 +8,6 @@ let rows = 5;
 const inputVal = document.getElementById("q");
 const loadMoreBtn = document.getElementById("load-more");
 const url = new URL(window.location);
-const colours = [
-  "#FFCC33",
-  "#066169",
-  "#AB2328",
-  "#004986",
-  "#115740",
-  "#E87722",
-];
 const body = document.querySelector("body");
 const filterArrow = document.getElementById("filter-arrow");
 const filterBox = document.getElementById("filter-box");
@@ -45,6 +22,11 @@ async function initSearchIndex() {
     const response = await fetch("/index.json");
 
     pagesIndex = await response.json();
+    
+    replaceValue('type', 'engagement', 'report')
+    replaceValue('type', 'roadmap', 'report')
+    replaceValue('type', 'section', 'other')
+    
 
     searchIndex = lunr(function () {
       this.field("title");
@@ -59,9 +41,10 @@ async function initSearchIndex() {
     console.log(e);
   }
   if (!inputVal.value) inputVal.value = getQueryVariable();
+  
 
-  results = removeNull(searchSite(getQueryVariable()));
-
+  results = searchSite(getQueryVariable())
+  
   renderSearchResult(results);
   renderFilterButtons();
 }
@@ -84,7 +67,19 @@ function removeNull(items) {
   }
 
   return arr;
-  // return items;
+}
+
+
+/**
+ * Suggestions from outreach team to change some of the "type" names
+ */
+function replaceValue(field, oldValue, newValue) {
+  for( var k = 0; k < pagesIndex.length; ++k ) {
+    if( oldValue == pagesIndex[k][field] ) {
+      pagesIndex[k][field] = newValue ;
+    }
+}
+return pagesIndex;
 }
 
 function initSearchSite() {
@@ -107,7 +102,7 @@ function initTranslations() {
           "accessibility": "Accessibility",
           "all_results": "All Results",
           "blog": "Blog",
-          "section": "Section",
+          "other": "Other",
           "report": "Report"
         }
       },
@@ -115,9 +110,9 @@ function initTranslations() {
         translation: {
           "accessibility": "Accessibilité",
           "all_results": "Tous les résultats",
-          "blog": "(FR)Blog",
-          "section": "(FR)Section",
-          "report": "(FR)Report"
+          "blog": "Blogue",
+          "other": "Autre",
+          "report": "Rapport"
         }
       },
     }
@@ -159,24 +154,21 @@ close.addEventListener("click", () => {
     url.searchParams.delete(k);
   });
   window.history.pushState({}, "", location.origin);
-  results = searchSite(getQueryVariable());
-  renderSearchResult(removeNull(results));
+  renderSearchResult(results);
   renderFilterButtons();
   
 });
 loadMoreBtn.addEventListener("click", () => {
   current_page++;
   rows += 5;
-  renderSearchResult(removeNull(searchSite(getQueryVariable())));
+  renderSearchResult(searchSite(getQueryVariable()));
 });
 
 function keyUp(ev) {
   url.searchParams.set("q", ev.target.value);
   window.history.pushState({}, "", url);
 
-  results = searchSite(getQueryVariable());
-  renderSearchResult(removeNull(results));
-
+  renderSearchResult(searchSite(getQueryVariable()));
   renderFilterButtons();
 }
 
@@ -195,6 +187,7 @@ function returnOccurences() {
     return [pageMatch];
   });
   ind = removeNull(ind);
+  
 
   for (let i in ind) {
     typesArray.push(ind[i].type);
@@ -246,26 +239,19 @@ function renderButtonBorderColour() {
 const renderFilterButtons = () => {
   let totalItems = "";
 
-  let counter = 0;
-
-  if (counter === colours.length || counter > colours.length) {
-    counter = 0;
-  }
-
   for (const [key, value] of Object.entries(returnOccurences())) {
     totalItems += `
     
-    <button id=${key} class="content-types"  onClick="checkboxClicked(this)" name=${key}>${i18next.t(key)}
-      <span class="filter-number-${key}" style="background-color:${renderFilterValueColour(key)}; margin-left: 1.5rem;">(${value})</span>
+    <button id=${key} class="content-types" onClick="checkboxClicked(this)" name=${key}>${i18next.t(key)}
+      <span class="filter-number-${key}" style="background-color:${renderFilterValueColour(key)}; margin-left: 1.5rem; padding: 0 0.2rem 0 0.2rem;">(${value})</span>
     </button>
 
     `;
-    counter++;
     renderFilterValueColour(key);
   }
 
   typeTotal.innerHTML =
-    `<button id="results" onClick="renderAllResults()" class="content-types" name="results">${i18next.t('all_results')}<span style="background-color: #F5CC33; margin-left: 1.5rem; color: black">(${
+    `<button id="results" onClick="renderAllResults()" class="content-types" name="results">${i18next.t('all_results')}<span style="background-color: #F5CC33; margin-left: 1.5rem; color: black; padding: 0 0.2rem 0 0.2rem;">(${
       removeNull(searchedResults).length
     })</span></button>` + totalItems;
 
@@ -307,9 +293,9 @@ function renderSearchResult(items) {
   for (let i = 0; i < paginatedItems.length; i++) {
     resultList += `<li>
     <div class="rendered-list">
-      <div>
+      <div style="margin: 1rem 0 1rem 0">
         <a href='${paginatedItems[i].href}' target="_blank" class="render-list-title" aria-label='${paginatedItems[i].title}'>
-          <h3 style="line-height: 1rem">${paginatedItems[i].title}<h3>
+          <span>${paginatedItems[i].title}<span>
         </a>
       </div>
       <div class="filter-number-${paginatedItems[i].type}" style="display: flex; align-items: stretch; line-height: 1.3em; padding: 0 0.5rem 0 0.5rem; background-color: ${renderFilterValueColour(paginatedItems[i].type)}; font-size: 2rem;">
@@ -333,7 +319,7 @@ function renderSearchResult(items) {
  */
 
 function getQueryVariable() {
-  if (location.search.slice(1).split("&")[0].split("=")[1] == undefined) {
+  if (location.search.slice(1).split("&")[0].split("=")[1] == undefined || location.search.slice(1).split("&")[0].split("=")[1] == "") {
     return "";
   } else {
     return decodeURIComponent(
@@ -350,7 +336,6 @@ function getQueryVariable() {
 
 function searchSite(query) {
   const originalQuery = query;
-  query = getLunrSearchQuery(query);
   let results = getSearchResults(url.searchParams.getAll("post_type"), query);
 
   return results.length
@@ -366,15 +351,17 @@ function searchSite(query) {
  * @returns {results}
  */
 function getSearchResults(type, query) {
+  let q = query
   let filteredResults;
-  searchedResults = searchIndex.search(query).flatMap((hit) => {
+  searchedResults = searchIndex.search(q).flatMap((hit) => {
     if (hit.ref == "undefined") return [];
-    // console.log('hit', hit);
     let pageMatch = pagesIndex.filter((page) => page.href === hit.ref)[0];
+      
     if (pageMatch) pageMatch.score = hit.score;
-
+    
     return [pageMatch];
   });
+
 
   
 
@@ -385,27 +372,8 @@ function getSearchResults(type, query) {
       return type.indexOf(content.type) != -1;
     });
   }
-
-
-  return filteredResults;
-}
-
-/**
- * Creates Lunr search query to search through JSON object,
- * @param $query
- * @returns {query} returns modified version of the query
- */
-
-function getLunrSearchQuery(query) {
-  const searchTerms = query.split(" ");
-  if (searchTerms.length === 1) {
-    return query;
-  }
-  query = "";
-  for (const term of searchTerms) {
-    query += `+${term} `;
-  }
-  return query.trim();
+  
+  return removeNull(filteredResults);
 }
 
 
@@ -432,9 +400,7 @@ function checkboxClicked(val) {
     window.history.pushState({}, "", url);
     val.style.borderBottom = `3px solid ${renderFilterValueColour(val.name)}`;
   }
-  results = searchSite(getQueryVariable());
-  console.log('res', removeNull(results))
-  renderSearchResult(removeNull(results));
+  renderSearchResult(searchSite(getQueryVariable()));
   renderFilterButtons();
 }
 
@@ -453,12 +419,13 @@ if (window.location.href.indexOf("?q=") != -1) {
 }
 
 const colourFilter = {
-  section: "#6b3c19",
+  other: "#066169",
   blog: "#e788aa",
   page: "#AB2328",
   accessibility: "#004986",
   report: "#AE5817",
   results: "#F5CC33",
+  job_post: "#6b3c19" 
 };
 function renderFilterValueColour(param) {
   for (const [key, value] of Object.entries(colourFilter)) {
