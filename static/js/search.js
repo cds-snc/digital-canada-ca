@@ -95,7 +95,7 @@ function initSearchSite() {
 function initTranslations() {
   i18next.init({
     lng: document.querySelector('html').lang,
-    debug: true,
+    debug: false,
     resources: {
       en: {
         translation: {
@@ -178,22 +178,15 @@ function keyUp(ev) {
  */
 
 function returnOccurences() {
-  let typesArray = [];
 
   let ind = queriedSearch(getQueryVariable())
   ind = removeNull(ind);
-  
 
-  for (let i in ind) {
-    typesArray.push(ind[i].type);
-  }
-
-  const occurences = typesArray.reduce(function (acc, curr) {
+  const occurences = ind.map(x => x.type).reduce(function (acc, curr) {
     return acc[curr] ? ++acc[curr] : (acc[curr] = 1), acc;
   }, {});
 
   let btn = document.getElementsByClassName("content-types");
-
 
   for (var i = 0; i < btn.length; i++) {
     if (btn[i].id in occurences) {
