@@ -4,7 +4,7 @@ type: section
 title: 'Développeur ou développeuse généraliste'
 description: >-
   Nous embauchons des développeurs ou des développeuses généralistes. Bien que notre bureau principal soit situé à Ottawa, notre équipe est répartie à travers le Canada et nous acceptons les candidatures provenant d’autres régions du Canada au même titre. Nos unités opérationnelles comprennent l’unité des « partenariats » axée sur le travail de consultation avec d’autres ministères et l’unité des « plateformes » servant à créer et à exploiter des services de logiciels réutilisables.
-archived: false
+archived: true
 translationKey: fullstack-notify
 leverId: 3ad29d0c-ca96-4d01-b568-bb121d5f0d8b
 ---
