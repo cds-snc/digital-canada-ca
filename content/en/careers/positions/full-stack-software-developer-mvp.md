@@ -4,7 +4,7 @@ type: section
 title: 'Full Stack Software Developer (MVP)'
 description: >-
   We’re hiring Full Stack Software Developers. While our home base is in Ottawa, we largely work distributedly across Canada and equally value candidates in other parts of Canada. Our Business Units consist of Partnerships, providing hands-on consulting with other departments, and Platforms, building and operating reusable software services.
-archived: false
+archived: true
 translationKey: fullstack-mvp
 leverId: 8f4de03e-aee2-4b38-a69a-d69ea8258187
 ---

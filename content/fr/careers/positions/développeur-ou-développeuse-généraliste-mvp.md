@@ -4,7 +4,7 @@ type: section
 title: 'Développeur ou développeuse généraliste (MVP)'
 description: >-
   Nous embauchons des développeurs ou des développeuses généralistes. Bien que notre bureau principal soit situé à Ottawa, notre équipe est répartie à travers le Canada et nous acceptons les candidatures provenant d’autres régions du Canada au même titre. Nos unités opérationnelles comprennent l’unité des « partenariats » axée sur le travail de consultation avec d’autres ministères et l’unité des « plateformes » servant à créer et à exploiter des services de logiciels réutilisables.
-archived: false
+archived: true
 translationKey: fullstack-mvp
 leverId: 8f4de03e-aee2-4b38-a69a-d69ea8258187
 ---
