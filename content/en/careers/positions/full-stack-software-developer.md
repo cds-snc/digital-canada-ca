@@ -4,7 +4,7 @@ type: section
 title: 'Full Stack Software Developer'
 description: >-
   These positions are part of the Software Development Community and report to your Product Team Lead within the Platform Business Unit.Your day-to-day will change based on which product team within a department you are assigned to and, over time, the evolving nature of work at CDS. For example, some days will involve more strategic coaching than hands-on coding.
-archived: false
+archived: true
 translationKey: fullstack-notify
 leverId: 3ad29d0c-ca96-4d01-b568-bb121d5f0d8b
 ---
