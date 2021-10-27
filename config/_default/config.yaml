@@ -26,8 +26,8 @@ languages:
           name: Partnerships
           url: /partnerships/
           weight: 2
-        - identifier: tools
-          name: Tools and resources
+        - identifier: Tools and Resources
+          name: Tools and Resources
           url: /tools-and-resources/
           weight: 3
         - identifier: careers
