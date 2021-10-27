@@ -334,14 +334,3 @@ menu:
   other: "Menu principal du site"
 footer-links:
   other: "Liens en bas de page"
-link-to-email:
-  other: "Lien vers l’adresse courriel de"
-link-to-twitter:
-  other: "Lien vers le compte Twitter de"
-link-to-linkedin:
-  other: "Lien vers le profil LinkedIn de"
-link-to-github:
-  other: "Lien vers le profil GitHub de"  
-
-
-

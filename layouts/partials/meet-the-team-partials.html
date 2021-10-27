@@ -21,7 +21,7 @@
                     <div class="social-links contact-info-social">
                         {{ if and (ne $member.email nil) (ne $member.email "") }}
                         <span class="social-icons">
-                            <a href="mailto:{{ $member.email }}" aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s Email {{else}} {{i18n "link-to-email"}} {{$member.name}} {{end}}">
+                            <a href="mailto:{{ $member.email }}" aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s Email {{else}} Lien vers l’adresse courriel de {{$member.name}} {{end}}">
                                 <i class="icon-envelope" aria-hidden="true"></i>
                             </a>
                         </span>
@@ -29,7 +29,7 @@
                         {{ if and (ne $member.twitter nil) (ne $member.twitter "") }}
                         <span class="social-icons">
                             <a href="https://twitter.com/{{ $member.twitter }}"
-                                aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s Twitter Account {{else}} {{i18n "link-to-twitter"}} {{$member.name}} {{end}}">
+                                aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s Twitter Account {{else}} Lien vers le compte Twitter de {{$member.name}} {{end}}">
                                 <i class="icon-twitter" aria-hidden="true"></i>
                             </a>
                         </span>
@@ -37,7 +37,7 @@
                         {{ if and (ne $member.linkedin nil) (ne $member.linkedin "") }}
                         <span class="social-icons">
                             <a href="https://linkedin.com/in/{{ $member.linkedin }}"
-                                aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s LinkedIn Profile {{else}} {{i18n "link-to-linkedin"}} {{$member.name}} {{end}}">
+                                aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s LinkedIn Profile {{else}} Lien vers le profil LinkedIn de {{$member.name}} {{end}}">
                                 <i class="icon-linkedin" aria-hidden="true"></i>
                             </a>
                         </span>
@@ -45,7 +45,7 @@
                         {{ if and (ne $member.github nil) (ne $member.github "") }}
                         <span class="social-icons">
                             <a href="https://github.com/{{ $member.github }}"
-                                aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s GitHub Profile {{else}} {{i18n "link-to-github"}} {{$member.name}} {{end}}">
+                                aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s GitHub Profile {{else}} Lien vers le profil GitHub de {{$member.name}} {{end}}">
                                 <i class="icon-github" aria-hidden="true"></i>
                             </a>
                         </span>
