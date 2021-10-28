@@ -104,7 +104,7 @@ function initTranslations() {
           "blog": "Blog",
           "other": "Other",
           "report": "Report",
-          "careers": "Careers"
+          "job_posting": "Job Posting"
         }
       },
       fr: {
@@ -114,7 +114,7 @@ function initTranslations() {
           "blog": "Blogue",
           "other": "Autre",
           "report": "Rapport",
-          "careers": "Carrières"
+          "job_posting": "Offre d'emploi"
         }
       },
     }
@@ -417,7 +417,7 @@ const colourFilter = {
   accessibility: "#004986",
   report: "#AE5817",
   results: "#F5CC33",
-  careers: "#6b3c19" 
+  job_posting: "#6b3c19" 
 };
 function renderFilterValueColour(param) {
   for (const [key, value] of Object.entries(colourFilter)) {
