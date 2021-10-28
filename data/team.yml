@@ -187,6 +187,16 @@ team:
     github: AntoineAugusti
     linkedin: AntoineAugusti
     twitter: AntoineAugusti
+  - archived: false
+    name: Ashar Ahmed
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_ashar_ahmed_e9d5e99daa
+    email: ashar.ahmed@tbs-sct.gc.ca
+    github: /asharahmed
+    linkedin: /asharsahmed
+    twitter: /aahmed_ca
   - archived: true
     name: Bethany Dunfield
     title:
