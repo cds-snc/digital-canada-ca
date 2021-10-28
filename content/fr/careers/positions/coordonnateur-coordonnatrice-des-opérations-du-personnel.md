@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: "Coordonnateur/Coordonnatrice des opérations du personnel"
+title: 'Coordonnateur/Coordonnatrice des opérations du personnel'
 description: >-
   Coordonnateur des opérations du personnel très organisé et flexible. Les personnes sont au cœur de ce que nous faisons, donc nous avons besoin que vous vous surpassiez pour offrir une expérience de grande qualité aux employés, aux gestionnaires et aux candidats.
 
@@ -26,7 +26,7 @@ Nous sommes à la recherche d’une personne qui :
 
 - être souple et capable de modifier les tâches et les priorités selon les circonstances;
 
-- peut communiquer en français et en anglais (sur le plan gouvernemental, ce poste est bilingue impératif BBB/BBB)\*.
+- peut communiquer en français et en anglais (sur le plan gouvernemental, ce poste est bilingue impératif BBB/BBB)*.
 
 **Responsabilités**
 
@@ -49,3 +49,4 @@ Un excellent candidat pourra :
 - atteindre un juste milieu entre professionnalisme et gentillesse dans toutes ses communications.
 
 Nous savons que chacun(e) contribue des compétences et des expériences, et que tout le monde « ne coche pas toutes les cases ». Postulez quand même! Dites-nous pourquoi vous êtes la bonne/ le bon candidat(e) pour ce poste.
+
