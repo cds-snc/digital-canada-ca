@@ -631,16 +631,19 @@
         padding:  30px;
       }
     }
+
+
   
-    .close-btn {
+    .close-button {
       display: flex;
       flex-direction: column;
+      border: none;
+      color: $primary-color;
+      align-items: center;
+
       i {
         color: $primary-color;
         
-      }
-      span {
-        color: $primary-color;
       }
     }
   }

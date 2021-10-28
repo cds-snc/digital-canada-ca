@@ -344,3 +344,5 @@ close:
   other: "Close"
 results:
   other: "results"
+search-site:
+  other: "Search through site content"  

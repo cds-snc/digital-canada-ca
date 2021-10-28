@@ -137,6 +137,7 @@ open.addEventListener("click", () => {
   url.searchParams.set("q", "");
   window.history.pushState({}, "", url);
   document.getElementById("js-mobileNav").classList.remove("active");
+  inputVal.focus();
 });
 
 close.addEventListener("click", () => {

@@ -345,4 +345,6 @@ load-more:
 close:
   other: "Fermer"
 results:
-  other: "résultats"          
+  other: "résultats"
+search-site:
+  other: "Search through site content"             
