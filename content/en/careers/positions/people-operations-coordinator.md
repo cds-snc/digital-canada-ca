@@ -1,7 +1,7 @@
 ---
 layout: job-posting
 type: section
-title: "People Operations Coordinator"
+title: 'People Operations Coordinator'
 description: >-
   The People Operations Coordinator's mandate is to go above and beyond to deliver high-quality experiences for employees, managers and candidates.
 archived: false
@@ -13,7 +13,7 @@ The Canadian Digital Service (CDS) works with federal departments to make the se
 
 To help us grow the team, we’re looking for a highly organized and flexible **People Operations Coordinator**. People are at the centre of what we do — we need you to go above and beyond to deliver high-quality experiences for employees, managers and candidates.
 
-This role is classified as a [AS-02](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc24156224157) in the Program Administration s group and represents the AS qualification standards.
+This role is classified as a [AS-02](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc24156224157) in the Program Administration s group and represents the AS qualification standards. 
 
 **We’re looking for a person who:**
 
@@ -25,14 +25,14 @@ This role is classified as a [AS-02](https://www.tbs-sct.gc.ca/agreements-conven
 
 - Is flexible and able to shift tasks and priorities when circumstances change;
 
-- Can communicate in both English and French (in government terms this position is Bilingual Imperative BBB/BBB)\*.
+- Can communicate in both English and French (in government terms this position is Bilingual Imperative BBB/BBB)*.
 
 **Responsibilities**
 
 An excellent candidate will be able to:
 
 - Manage talent administration in a high-growth environment;
-  deliver exceptional candidate experience through talent programming, including scheduling, interviewing, onboarding, and talent support while embodying our organizational values;
+deliver exceptional candidate experience through talent programming, including scheduling, interviewing, onboarding, and talent support while embodying our organizational values;
 
 - Initiate creative and scalable changes to our existing talent strategy;
 
@@ -45,5 +45,6 @@ An excellent candidate will be able to:
 - Navigate complex staffing and security files;
 
 - Use the right blend of professionalism and friendliness in all communications.
+
 
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
