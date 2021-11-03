@@ -278,6 +278,15 @@ team:
     linkedin: charlottepedersen371
     twitter: Charp90
   - archived: false
+    name: Charlyne Lefebvre-Paillé
+    title:
+      en: Design
+      fr: Conception
+    imagehash: small_charlyne_lefebvre_paille_ba05edc596
+    email: charlyne.lefebvre-paille@tbs-sct.gc.ca
+    linkedin: /charlynelefebvrepaille/
+    twitter: /CharLefPai
+  - archived: false
     name: Clementine Hahn
     title:
       en: Product Management
