@@ -2,7 +2,7 @@
 title: 'Success!'
 description: "Thank you for applying."
 image: our-team.jpg
-type: section
+type: form-submission
 layout: page
 url: /success/
 translationKey: formSuccess

@@ -1,0 +1,47 @@
+<div class="search-modal-container" id="modal_container">
+  <div class="modal">
+    <div class="modal-div">
+      <div class="sub-modal-div">
+        <i class="fa fa-search" aria-hidden="true" id="search-bar-icon"></i>
+        <input required type="search" name="q" id="q" placeholder="{{ i18n "enter-search" }}" aria-label="{{i18n "search-site"}}">
+        <button id="close" class="close-button" type="button" aria-label="{{ i18n "close" }}"><i class="fa fa-times"></i>{{i18n "close"}}</button>
+      </div>
+      <div id="results-filter-div">
+        <div id="filter-div">
+          <span onclick="showMobileFilters()" id="filter-title">{{ i18n "filter-search"}}<img id="filter-arrow" src="/img/icons/filter-arrow.svg" alt="external link" /></span>
+          <div id="filter-box">
+            <div id="filter-form" >
+              <div id="typeTotal">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="div-margin">
+          <div id="results-number-div">
+            <span><span id="results-number"></span> {{i18n "results"}}</span> 
+            
+          </div>
+          <div class="results-div">
+            <div class="site-results-list">
+              <ul id="site-results">
+                <div class="rendered-list">
+                  <li>
+                    
+                  </li>
+                </div>
+              </ul>
+            </div>         
+          </div>
+          <button id="load-more">{{i18n "load-more"}}</button>
+        </div>
+      </div>
+      
+      
+      
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="/js/search.js"></script>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="https://unpkg.com/i18next@21.3.2/dist/umd/i18next.js"></script>
