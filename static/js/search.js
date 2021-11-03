@@ -274,6 +274,10 @@ function renderSearchResult(items) {
   let start = 0;
   let end = start + rows;
 
+  items.sort(function(a, b) {
+    return new Date(b.date) - new Date(a.date);
+  })
+
   let paginatedItems = items.slice(start, end);
   paginatedItems.length < 5
     ? loadMoreBtn.classList.add("hide-btn")

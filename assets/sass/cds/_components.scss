@@ -618,6 +618,9 @@
         
       }
     }
+    input:focus  {
+      outline: none;
+    }
     button {
       background-color: transparent;
       color: white;
