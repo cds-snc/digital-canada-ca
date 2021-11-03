@@ -1,9 +1,9 @@
 ---
 layout: job-posting
 type: section
-title: 'People and Culture Coordinator'
+title: 'People & Culture Coordinator'
 description: >-
-  People & Culture Coordinator to support our Diversity, Equity and Inclusion Program Manager by undertaking the management and administration of the CDS Orientation program.
+  This role will support our Diversity, Equity and Inclusion Program Manager by undertaking the management and administration of the CDS Orientation program, in addition to assisting in the planning and delivery of various in-house training sessions for managers, and supporting event administration.
 archived: false
 translationKey: people-culture-coordinator
 leverId: 4c5991c8-ae19-4b71-8799-0032d82ee179
@@ -17,7 +17,7 @@ To help us grow the team, we’re looking for a highly organized and flexible **
 
 This role is classified as a [AS-02 or AS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc24156224157) in the Program Administration group and represents the [AS qualification standards](https://www.canada.ca/en/treasury-board-secretariat/services/staffing/qualification-standards/core.html#as). 
 
-**You will:**
+You will:
 
 - Manage talent administration in a high-growth environment.
 
@@ -33,7 +33,8 @@ This role is classified as a [AS-02 or AS-03](https://www.tbs-sct.gc.ca/agreemen
 
 - Use the right blend of professionalism and friendliness in all communications.
 
-**An excellent candidate will be:**
+
+An excellent candidate will be:
 
 - Passionate and deliberate about creating an exceptional employee experience.
 
@@ -45,6 +46,8 @@ This role is classified as a [AS-02 or AS-03](https://www.tbs-sct.gc.ca/agreemen
 
 - Flexible and able to shift tasks and priorities when circumstances change.
 
-- Bilingual (in government terms, ‘BBB’)
+- Bilingual (in government terms, ‘BBB’)*
 
+
+**A pool of qualified persons resulting from this process MAY be created and MAY be used to fill similar position with linguistic profiles (english essential, bilingual imperative BBB/BBB, bilingual imperative CBC/CBC, as well as tenures (indeterminate, deployment, acting, assignment, secondment, specified period) which may vary according to the position being staffed.*
 
