@@ -4,7 +4,7 @@ type: section
 title: 'Agente Administrative/ Agent administratif – Opérations internes'
 description: >-
   Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Nous sommes ici pour améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie.
-archived: false
+archived: true
 translationKey: administrative-officer
 leverId: eaa64e85-a48e-4974-a110-c01571ca3f3d
 ---
