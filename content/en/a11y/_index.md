@@ -1,5 +1,5 @@
 ---
-type: a11y
+type: accessibility
 layout: default
 url: /a11y/
 title: "Accessibility"

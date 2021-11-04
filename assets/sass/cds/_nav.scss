@@ -35,7 +35,6 @@
   background-repeat: no-repeat;
   background-size: contain;
   display: block;
-  z-index: 1;
   
 
   @include mobile_only {
@@ -108,6 +107,15 @@
 }
 
 // Main Navigation Link
+.search-button {
+  border: 2px solid white;
+  background-color: transparent;
+  height: 4rem;
+  width: 4rem;
+  #search-icon {
+    color: white;
+  }
+}
 .top-nav--link {
   display: block;
   text-align: center;

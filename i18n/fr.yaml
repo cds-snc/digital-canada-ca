@@ -330,3 +330,17 @@ menu:
   other: "Menu principal du site"
 footer-links:
   other: "Liens en bas de page"
+filter-search:
+  other: "Filtrer par type"      
+open:
+  other: "Ouvert"
+enter-search:
+  other: "Que recherchez-vous"   
+load-more:
+  other: "Afficher plus de résultats" 
+close:
+  other: "Fermer"
+results:
+  other: "résultats"
+search-site:
+  other: "Rechercher sur le site"             

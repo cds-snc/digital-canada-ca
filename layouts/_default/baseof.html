@@ -81,7 +81,7 @@
         </li>
       </ul>
     </nav>
-
+    
     <header role="banner">
       {{ partial "fip.html" . }}
 
@@ -106,8 +106,8 @@
       </div>
       {{ end }}
     </header>
-
     <main role="main" property="mainContentOfPage">
+      {{partial "search-list.html"}}
       <section id="wb-cont">
         {{ block "main" . }}
         <section class="content">
@@ -126,7 +126,6 @@
     <footer role="contentinfo">
       {{ partial "footer.html" }}
     </footer>
-
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"
       integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT"
       crossorigin="anonymous"></script>
@@ -134,6 +133,7 @@
     <script src="/lib-cds/gcweb-dist/GCWeb/js/theme.min.js"></script>
     <script src="/js/cds-app.js"></script>
     <script src="/js/lazyload.js" async=""></script>
+    
 
 
     <!-- Google Analytics -->
