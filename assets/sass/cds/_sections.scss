@@ -872,7 +872,7 @@ span.livefr {
   flex-direction: row;
   flex-wrap: wrap;
 
-  @media (max-width: 950px) {
+  @include sm_desktop_screen {
     flex-direction: column;
     width: 80%;
     margin: 0 auto 30px auto;
@@ -886,7 +886,7 @@ span.livefr {
     width: calc(50% - 30px / 2);
     margin-bottom: 30px;
 
-    @media (max-width: 950px) {
+    @include sm_desktop_screen {
       width: 100%;
       margin: 0 auto 30px;
     }
@@ -895,7 +895,7 @@ span.livefr {
   .post:nth-child(odd) {
     margin-right: 30px;
 
-    @media (max-width: 950px) {
+    @include sm_desktop_screen {
       margin-right: 0;
     }
   }
@@ -910,7 +910,7 @@ span.livefr {
       height: 615px;
     }
 
-    @media (max-width: 950px) {
+    @include sm_desktop_screen {
       height: 100%;
     }
   }
@@ -1050,11 +1050,6 @@ span.livefr {
 }
 
 article.post {
-  // padding: 6rem 0;
-
-  @media (max-width: 950px) {
-    // padding: 3rem 0;
-  }
 
   img {
     max-width: 100%;

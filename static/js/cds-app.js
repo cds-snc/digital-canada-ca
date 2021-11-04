@@ -1,12 +1,12 @@
 Object.defineProperty(HTMLMediaElement.prototype, "playing", {
-  get: function() {
+  get: function () {
     return !!(
       this.currentTime > 0 &&
       !this.paused &&
       !this.ended &&
       this.readyState > 2
     );
-  }
+  },
 });
 
 /**
@@ -15,21 +15,20 @@ Object.defineProperty(HTMLMediaElement.prototype, "playing", {
  * @returns {boolean}
  */
 function validateEmail($email) {
-  var emailReg = /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
+  var emailReg =
+    /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i;
   return emailReg.test($email);
 }
 
-$(document).ready(function() {
-  $("#js-mainNavButton").on("click touchup", function() {
+$(document).ready(function () {
+  $("#js-mainNavButton").on("click touchup", function () {
     $("#js-mobileNav").addClass("active");
   });
 
-  $("#js-mobileNav--button").on("click touchup", function() {
+  $("#js-mobileNav--button").on("click touchup", function () {
     $("#js-mobileNav").addClass("hiding");
-    setTimeout(function() {
-      $("#js-mobileNav")
-        .removeClass("active hiding")
-        .removeAttr("class");
+    setTimeout(function () {
+      $("#js-mobileNav").removeClass("active hiding").removeAttr("class");
     }, 305);
   });
 
@@ -44,13 +43,11 @@ $(document).ready(function() {
   var maxWords = 300,
     wordCount;
 
-  $("#contactForm #body").keyup(function(event) {
+  $("#contactForm #body").keyup(function (event) {
     wordCount = 0;
 
     if ($("#contactForm #body").val()) {
-      wordCount = $("#contactForm #body")
-        .val()
-        .split(/[\s]+/).length;
+      wordCount = $("#contactForm #body").val().split(/[\s]+/).length;
     }
 
     if (wordCount > maxWords) {
@@ -64,19 +61,18 @@ $(document).ready(function() {
     $("#contactForm #word-count").html(wordsLeft);
   });
 
-    /**
+  /**
    * File upload
    */
-  $("#contactForm #resume").on("change", function(event) {
+  $("#contactForm #resume").on("change", function (event) {
     var file = $("#contactForm #resume")[0].files[0].name;
     $("#contactForm #no-file-chosen-text").html(file);
-
-  })
+  });
 
   /**
    * Contact Form Submit
    */
-  $("#contactForm").submit(function(event) {
+  $("#contactForm").submit(function (event) {
     event.preventDefault();
 
     var formData = new FormData($("#contactForm")[0]);
@@ -86,7 +82,7 @@ $(document).ready(function() {
     var valid = true,
       errors = [];
 
-    $("#contactForm .form-control").each(function() {
+    $("#contactForm .form-control").each(function () {
       var $this = $(this);
 
       /**
@@ -124,7 +120,7 @@ $(document).ready(function() {
      * Handle invalid items
      */
     if (!valid) {
-      $.each(errors, function(index, item) {
+      $.each(errors, function (index, item) {
         item.addClass("error");
         item.closest(".form-group").addClass("error");
         item.siblings(".error-message").show();
@@ -153,7 +149,7 @@ $(document).ready(function() {
     var pageLanguage = $("html").attr("lang");
 
     var endpoint =
-      "https://3y0o2ahiub.execute-api.us-east-1.amazonaws.com/production/lever";
+      "https://dowr6jfsw2.execute-api.ca-central-1.amazonaws.com/production/lever";
 
     $.ajax({
       type: "POST",
@@ -161,17 +157,17 @@ $(document).ready(function() {
       data: formData,
       contentType: false,
       processData: false,
-      complete: function(r) {
+      complete: function (r) {
         console.log(r.responseText);
       },
-      success: function() {
+      success: function () {
         if (pageLanguage == "en") {
           window.location.href = "/success/";
         } else {
           window.location.href = "/reussi/";
         }
       },
-      error: function(xhr, textStatus, errorThrown) {
+      error: function (xhr, textStatus, errorThrown) {
         console.log("Error", textStatus);
         console.log("Error", errorThrown);
         if (pageLanguage == "en") {
@@ -179,14 +175,14 @@ $(document).ready(function() {
         } else {
           window.location.href = "/erreur/";
         }
-      }
+      },
     });
   });
 
   /**
    * Check if there is a validation error to be cleared
    */
-  $("#contactForm .form-control").keyup(function(e) {
+  $("#contactForm .form-control").keyup(function (e) {
     var $this = $(this);
 
     if ($this.hasClass("validate-required") && $this.val()) {

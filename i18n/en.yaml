@@ -328,3 +328,17 @@ menu:
   other: "Main Site Menu"
 footer-links:
   other: "Footer links"
+filter-search:
+  other: "Filter by type"      
+open:
+  other: "Open" 
+enter-search:
+  other: "Enter your search"
+load-more:
+  other: "Load more"    
+close:
+  other: "Close"
+results:
+  other: "results"
+search-site:
+  other: "Search on the website"  

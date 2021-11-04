@@ -511,4 +511,311 @@
   div {
     margin-right: 4rem;
   }
+
 }
+
+////////////////////////////////////////////////////
+//
+// Site Wide Search
+//
+////////////////////////////////////////////////////
+#site-search {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hide-element {
+  display: none;
+}
+.search-modal-container {
+  display: none;
+
+
+  &.show-modal-container{
+    pointer-events: auto;
+    opacity: 1;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    height: 100vh;
+    width: 100vw;
+    transition: opacity 0.3s ease;
+    
+  }
+
+}
+
+
+.modal-container {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+
+
+.modal {
+
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  background-color: #232323;
+  text-align: center;
+  overflow-y: auto;
+  z-index: 1000;
+
+
+  @include tablet {
+    flex-direction: column;
+    width: 90%;
+    max-width: 100%;
+    max-height: calc(100vh - 210px);
+    animation: fadeIn 0.3s ease-in-out forwards;
+  }
+
+
+
+
+
+  .modal-div {
+    flex-grow: 1;
+    position: relative;
+  
+    .sub-modal-div {
+      display: flex;
+      justify-content: space-between;
+      padding: 2rem 3rem 4rem 3rem;
+  
+    }
+  
+    input {
+      flex: 1;
+      border: none;
+      background-color:transparent;
+
+      @include tablet {
+        padding-left: 40px;
+        margin: 0 5rem 0 3rem;
+      }
+      
+      color: white !important;
+      
+      margin: 0 2rem 0 1rem;
+      border-bottom: 2px solid $primary-color !important;
+  
+      &::placeholder {
+        color: white;
+        
+      }
+    }
+    input:focus  {
+      outline: none;
+    }
+    button {
+      background-color: transparent;
+      color: white;
+    }
+  
+    #search-bar-icon {
+      color: white;
+      align-self: center;
+      @include tablet {
+        position: absolute;
+        padding:  30px;
+      }
+    }
+
+
+  
+    .close-button {
+      display: flex;
+      flex-direction: column;
+      border: none;
+      color: $primary-color;
+      align-items: center;
+
+      i {
+        color: $primary-color;
+        
+      }
+    }
+  }
+  
+  #filter-value-id {
+    margin-left: 1.5rem;
+    
+  }
+  
+  
+  .content-types{
+    display: flex;
+    background-color: transparent;
+    margin: 1rem 0 1rem 0;
+    padding: 0;
+    border: none;
+    white-space: nowrap;
+    
+  
+    &.hide-div {
+      display: none;
+    }
+  
+    
+  }
+  @mixin  textColour($text) {
+    @if $text == 'blog' {
+      color: black;
+    } @else {
+      color: white;
+    }
+  }
+  .filter-number-blog {
+    @include textColour("blog");
+    
+  }
+  .rendered-list{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 0 2rem 0 2rem;
+    color: white;
+    margin-bottom: 2rem;
+    max-width: 90%;
+    @include tablet {
+      max-width: 70%;
+      padding-left: 5rem;
+    }
+    
+  
+  
+    .render-list-title {
+      text-decoration: none;
+      font-size: 2.6rem;
+      font-weight: 600;
+      
+    }
+  
+    a:hover, :visited, :focus {
+      color: white;
+    }
+
+
+
+    
+  }
+
+  
+  #load-more {
+    margin-bottom: 2rem;
+  
+    &.hide-btn {
+      display: none;
+    }
+  
+  }
+
+  .results-div {
+    display: flex;
+    @include tablet {
+      border-left: 1px solid #E1E4E7;
+    }
+    
+  
+  
+    .site-results-list {
+  
+      #site-results {
+        list-style: none;
+        padding: 0;
+      }
+    }
+  
+  }
+
+  #results-filter-div {
+    @include tablet {
+      display: flex;
+    }
+
+    display: inline;
+    @include tablet {
+      .div-margin {
+        margin-left: 3rem;
+      }
+    }
+
+    
+  }
+
+  
+  #filter-div{
+    padding: 0 4rem 0 2rem;
+    min-width: 210px;
+
+    #filter-title{
+      color: white;
+      display: flex;
+    }
+
+    #filter-arrow {
+      display: none;
+
+      @include mobile_only {
+        display: block;
+        margin-left: 1rem;
+
+        &.active {
+          animation: fadeIn 0.5s ease-in forwards;
+          -ms-transform: rotate(90deg);
+          transform: rotate(90deg);
+        }
+
+      }
+      
+    }
+
+    #filter-box {
+      @include mobile_only {
+        display: none;
+
+        &.active {
+          display: block;
+          animation: fadeIn 0.3s ease-in forwards;
+        }
+        
+      }
+      
+      color: white;
+    }
+    
+  }
+  
+  #results-number-div{
+    padding: 0 2rem 0 5rem;
+    display: flex;
+    color: white;
+    @include mobile_only {
+      margin-top: 3rem;
+      padding-left: 2rem;
+      &.active {
+        border-top: 1px solid #E1E4E7;
+      }
+    }
+  
+  }
+
+  
+}
+
+
