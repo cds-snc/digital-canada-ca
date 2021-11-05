@@ -534,9 +534,9 @@
   &.show-modal-container{
     pointer-events: auto;
     opacity: 1;
-    position: relative;
+    position: fixed;
     background-color: rgba(0, 0, 0, 0.3);
-    display: flex;
+    display: block;
     flex-direction: row;
     align-items: center;
     justify-content: center;
@@ -545,8 +545,8 @@
     top: 0;
     left: 0;
     z-index: 1000;
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
     transition: opacity 0.3s ease;
     
   }
@@ -717,9 +717,11 @@
 
   .load-more-div {
     margin-bottom: 2rem;
+    
 
     @include mobile_only {
       padding-bottom: 6.5rem;
+      background-color: blue;
     }
   }
 
