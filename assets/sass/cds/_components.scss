@@ -715,10 +715,16 @@
     
   }
 
+  .load-more-div {
+    margin-bottom: 2rem;
+
+    @include mobile_only {
+      padding-bottom: 6.5rem;
+    }
+  }
+
   
   #load-more {
-    margin-bottom: 2rem;
-  
     &.hide-btn {
       display: none;
     }
