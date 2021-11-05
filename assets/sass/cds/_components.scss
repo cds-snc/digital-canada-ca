@@ -723,8 +723,7 @@
   .load-more-div {
     margin-bottom: 2rem;
     @include mobile_only {
-      background-color: green;
-      padding-bottom: 6.5rem;
+      padding-bottom: 5.5rem;
     }
   }
 
