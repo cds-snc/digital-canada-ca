@@ -134,7 +134,7 @@ const close = document.getElementById("close");
 
 open.addEventListener("click", () => {
   modal_container.classList.add("show-modal-container");
-  body.style.overflow = "hidden";
+  // body.style.overflow = "hidden";
 
   url.searchParams.set("q", "");
   window.history.pushState({}, "", url);
