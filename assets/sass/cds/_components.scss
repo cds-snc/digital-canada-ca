@@ -534,9 +534,9 @@
   &.show-modal-container{
     pointer-events: auto;
     opacity: 1;
-    position: relative;
+    position: fixed;
     background-color: rgba(0, 0, 0, 0.3);
-    display: flex;
+    display: block;
     flex-direction: row;
     align-items: center;
     justify-content: center;
