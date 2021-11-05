@@ -4,7 +4,7 @@ type: section
 title: 'Responsable d’équipe, développement commercial des partenariats'
 description: >-
   Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Nous sommes ici pour améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie.
-archived: false
+archived: true
 translationKey: team-lead-business-development
 leverId: 4ca0af95-2836-4070-afb1-e9c61b6b1a74
 ---
