@@ -718,8 +718,7 @@
   .load-more-div {
     margin-bottom: 2rem;
     @include mobile_only {
-      background-color: pink;
-      // padding-bottom: 3.5rem;
+      padding-bottom: 3.5rem;
     }
   }
 

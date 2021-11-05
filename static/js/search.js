@@ -134,7 +134,7 @@ const close = document.getElementById("close");
 
 open.addEventListener("click", () => {
   modal_container.classList.add("show-modal-container");
-  // body.style.overflow = "hidden";
+  body.style.overflow = "hidden";
 
   url.searchParams.set("q", "");
   window.history.pushState({}, "", url);
@@ -278,7 +278,6 @@ function renderSearchResult(items) {
   items.sort(function(a, b) {
     return new Date(b.date) - new Date(a.date);
   })
-  console.log('items', items)
 
   let paginatedItems = items.slice(start, end);
   items.length <= 5
