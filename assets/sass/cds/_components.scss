@@ -548,7 +548,12 @@
     height: 100vh;
     width: 100vw;
     transition: opacity 0.3s ease;
-    
+    @include mobile_only {
+      position: fixed;
+      display: block;
+      height: 100%;
+      width: 100%;
+    }
   }
 
 }
