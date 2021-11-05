@@ -156,6 +156,7 @@ close.addEventListener("click", () => {
   keysForDel.forEach((k) => {
     url.searchParams.delete(k);
   });
+  searchedResults = results
   window.history.pushState({}, "", location.origin);
   renderSearchResult(results);
   renderFilterButtons();
@@ -279,7 +280,7 @@ function renderSearchResult(items) {
   })
 
   let paginatedItems = items.slice(start, end);
-  paginatedItems.length < 5
+  items.length <= 5
     ? loadMoreBtn.classList.add("hide-btn")
     : loadMoreBtn.classList.remove("hide-btn");
 
@@ -343,8 +344,8 @@ function searchSite(query) {
 
 function queriedSearch(query_string) {
   return searchIndex.query(function(q) {
-    q.term(query_string, { usePipeline: true, boost: 100 });
-    q.term(query_string, { usePipeline: false, boost: 10, wildcard: lunr.Query.wildcard.TRAILING });
+    q.term(query_string.toLowerCase(), { usePipeline: true, boost: 100 });
+    q.term(query_string.toLowerCase(), { usePipeline: false, boost: 10, wildcard: lunr.Query.wildcard.TRAILING });
   }).map(function(result) {
     return pagesIndex.filter(function(page) {
       return page.href === result.ref;

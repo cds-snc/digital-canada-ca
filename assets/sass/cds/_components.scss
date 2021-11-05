@@ -548,7 +548,12 @@
     height: 100vh;
     width: 100vw;
     transition: opacity 0.3s ease;
-    
+    @include mobile_only {
+      position: fixed;
+      display: block;
+      height: 100%;
+      width: 100%;
+    }
   }
 
 }
@@ -715,10 +720,16 @@
     
   }
 
+  .load-more-div {
+    margin-bottom: 2rem;
+    @include mobile_only {
+      padding-bottom: 5.5rem;
+    }
+  }
+
   
   #load-more {
-    margin-bottom: 2rem;
-  
+    
     &.hide-btn {
       display: none;
     }
