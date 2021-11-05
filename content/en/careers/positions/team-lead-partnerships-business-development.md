@@ -5,7 +5,7 @@ title: 'Team Lead, Partnerships Business Development'
 description: >-
   The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital services. We’re here to improve people’s lives by changing how the government builds technology. 
 
-archived: false
+archived: true
 translationKey: team-lead-business-development
 leverId: 4ca0af95-2836-4070-afb1-e9c61b6b1a74
 ---
