@@ -29,6 +29,8 @@ async function initSearchIndex() {
     
 
     searchIndex = lunr(function () {
+      this.pipeline.remove(lunr.stemmer)
+      this.searchPipeline.remove(lunr.stemmer)
       this.field("title");
       this.field("description");
       this.field("date");
@@ -319,7 +321,9 @@ function getQueryVariable() {
     return "";
   } else {
     return decodeURIComponent(
-      location.search.slice(1).split("&")[0].split("=")[1].replace(/\+/g, "%20")
+      location.search.slice(1).split("&")[0].split("=")[1].replace(/\+/g, "%20").toLowerCase()
+
+
     );
   }
 }
@@ -343,14 +347,23 @@ function searchSite(query) {
 
 
 function queriedSearch(query_string) {
+  
   return searchIndex.query(function(q) {
-    q.term(query_string.toLowerCase(), { usePipeline: true, boost: 100 });
-    q.term(query_string.toLowerCase(), { usePipeline: false, boost: 10, wildcard: lunr.Query.wildcard.TRAILING });
+  // look for an exact match and apply a large positive boost
+  q.term(lunr.tokenizer(query_string), { usePipeline: false, boost: 100 })
+
+  // look for terms that match the beginning of this queryTerm and apply a medium boost
+  q.term(query_string + "*", { usePipeline: false, boost: 10 })
+
+  // look for terms that match with an edit distance of 1 and apply a small boost
+  q.term(query_string, { usePipeline: false, editDistance: 1, boost: 1 })
   }).map(function(result) {
     return pagesIndex.filter(function(page) {
       return page.href === result.ref;
     })[0];
   });
+
+  
 }
 
 /**
