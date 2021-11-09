@@ -12,7 +12,7 @@ const body = document.querySelector("body");
 const filterArrow = document.getElementById("filter-arrow");
 const filterBox = document.getElementById("filter-box");
 const resultsNumberDiv = document.getElementById("results-number-div");
-const  focusableElements = 'button:not([disabled]), a[href], input, [tabindex]:not([tabindex="-1"])';
+const  focusableElements = 'button:not([disabled]), [href], input';
 const open = document.getElementById("open");
 const modal_container = document.getElementById("modal_container");
 const close = document.getElementById("close");
@@ -20,7 +20,8 @@ const innerModal = document.getElementById("inner-modal")
 
 const firstFocusableElement = innerModal.querySelectorAll(focusableElements)[0]; // get first element to be focused inside modal
 const focusableContent = innerModal.querySelectorAll(focusableElements);
-const lastFocusableElement = focusableContent[focusableContent.length - 1];    
+let lastFocusableElement;   
+
 
 
 /**
@@ -70,7 +71,7 @@ function showMobileFilters() {
 }
 
 function keepFocus() {
-  console.log(document.activeElement)
+  
   document.addEventListener('keydown', function(e) {
     let isTabPressed = e.key === 'Tab' || e.keyCode === 9;
     
@@ -80,19 +81,33 @@ function keepFocus() {
     
   
     if (e.shiftKey) { 
-      //if shift and tab are pressed on the first element, it goes to the last element
+      
       if (document.activeElement === firstFocusableElement) {
         lastFocusableElement.focus();
         e.preventDefault();
       }
     } else { // if tab key is pressed
+      console.log(document.activeElement)
       
+      if (searchResults.childNodes.length > 0) {
+        loadMoreBtn.disabled == true ? 
+        lastFocusableElement = searchResults.lastElementChild.getElementsByTagName('a')[0] : 
+        lastFocusableElement = loadMoreBtn;
+        
+      } 
+      if (filterBox.lastElementChild.getElementsByTagName('button').length <= 1) {
+        lastFocusableElement = filterBox.lastElementChild.getElementsByTagName('button')[0]
+      } 
+      else if (filterBox.lastElementChild.getElementsByTagName('button').length > 1 && searchResults.childNodes.length === 0) {
+        lastFocusableElement = filterBox.lastElementChild.getElementsByTagName('button')[filterBox.lastElementChild.getElementsByTagName('button').length - 1]
+      }
       if (document.activeElement === lastFocusableElement) {
-        // console.log(document.activeElement)
+        
         // add focus for the first focusable element
         firstFocusableElement.focus(); 
         e.preventDefault();
       } 
+
     }
   });
   
