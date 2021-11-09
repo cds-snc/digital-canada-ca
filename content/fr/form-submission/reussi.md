@@ -2,7 +2,7 @@
 title: 'Réussi!'
 description: "Merci d’avoir soumis votre candidature au SNC."
 image: our-team.jpg
-type: form-submission
+type: section
 layout: page
 url: /reussi/
 translationKey: formSuccess

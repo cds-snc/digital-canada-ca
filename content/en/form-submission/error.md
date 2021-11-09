@@ -2,7 +2,7 @@
 title: 'Error'
 description: "To apply, please email"
 image: our-team.jpg
-type: form-submission
+type: section
 layout: page
 url: /error/
 translationKey: recruitmentError
