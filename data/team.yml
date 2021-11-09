@@ -819,3 +819,11 @@ team:
     imagehash: victoria_chan_639fffb1c6
     email: victoria.chan@tbs-sct.gc.ca
     linkedin: victoriakaychan
+  - archived: false
+    name: Yael Berger
+    title:
+      en: Product Management
+      fr: Gestion de produits
+    imagehash: small_yael_berger_943a498d3a
+    email: yael.berger@tbs-sct.gc.ca
+    twitter: /yaelberger
