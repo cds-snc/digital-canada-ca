@@ -12,6 +12,15 @@ const body = document.querySelector("body");
 const filterArrow = document.getElementById("filter-arrow");
 const filterBox = document.getElementById("filter-box");
 const resultsNumberDiv = document.getElementById("results-number-div");
+const  focusableElements = 'button:not([disabled]), [href], input, select, textarea, [tabindex]:not([tabindex="-1"])';
+const open = document.getElementById("open");
+const modal_container = document.getElementById("modal_container");
+const close = document.getElementById("close");
+const innerModal = document.getElementById("inner-modal")
+
+const firstFocusableElement = innerModal.querySelectorAll(focusableElements)[0]; // get first element to be focused inside modal
+const focusableContent = innerModal.querySelectorAll(focusableElements);
+const lastFocusableElement = focusableContent[focusableContent.length - 1];    
 
 
 /**
@@ -46,6 +55,9 @@ async function initSearchIndex() {
   
 
   results = searchSite(getQueryVariable())
+  keepFocus();
+  
+  
   
   renderSearchResult(results);
   renderFilterButtons();
@@ -56,6 +68,37 @@ function showMobileFilters() {
   filterBox.classList.toggle("active");
   resultsNumberDiv.classList.toggle("active");
 }
+
+function keepFocus() {
+  document.addEventListener('keydown', function(e) {
+    let isTabPressed = e.key === 'Tab' || e.keyCode === 9;
+  
+    if (!isTabPressed) {
+      return;
+    }
+    
+  
+    if (e.shiftKey) { 
+      //if shift and tab are pressed on the first element, it goes to the last element
+      if (document.activeElement === firstFocusableElement) {
+        lastFocusableElement.focus();
+        e.preventDefault();
+      }
+    } else { // if tab key is pressed
+      console.log(document.activeElement)
+      if (document.activeElement === lastFocusableElement) {
+        // add focus for the first focusable element
+        firstFocusableElement.focus(); 
+        e.preventDefault();
+      } 
+    }
+  });
+  
+  firstFocusableElement.focus();
+}
+
+
+
 
 /**
  * Filters out null descriptions
@@ -126,9 +169,7 @@ function initTranslations() {
 
 initSearchSite();
 
-const open = document.getElementById("open");
-const modal_container = document.getElementById("modal_container");
-const close = document.getElementById("close");
+
 
 /**
  * Event listeners to open and close the search modal
@@ -282,9 +323,9 @@ function renderSearchResult(items) {
   })
 
   let paginatedItems = items.slice(start, end);
-  items.length <= 5
-    ? loadMoreBtn.classList.add("hide-btn")
-    : loadMoreBtn.classList.remove("hide-btn");
+  items.length <= 5 || paginatedItems.length === items.length
+    ? loadMoreBtn.disabled = true
+    : loadMoreBtn.disabled = false;
 
   let resultList = "";
 
@@ -347,6 +388,7 @@ function searchSite(query) {
 
 
 function queriedSearch(query_string) {
+  
   
   return searchIndex.query(function(q) {
   // look for an exact match and apply a large positive boost

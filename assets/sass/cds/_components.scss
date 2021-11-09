@@ -725,16 +725,14 @@
     @include mobile_only {
       padding-bottom: 5.5rem;
     }
+    button:disabled,
+    button[disabled] {
+      display: none;
+    }
   }
 
   
-  #load-more {
-    
-    &.hide-btn {
-      display: none;
-    }
-  
-  }
+
 
   .results-div {
     display: flex;
