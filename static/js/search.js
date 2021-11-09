@@ -12,7 +12,7 @@ const body = document.querySelector("body");
 const filterArrow = document.getElementById("filter-arrow");
 const filterBox = document.getElementById("filter-box");
 const resultsNumberDiv = document.getElementById("results-number-div");
-const  focusableElements = 'button:not([disabled]), [href], input, select, textarea, [tabindex]:not([tabindex="-1"])';
+const  focusableElements = 'button:not([disabled]), a[href], input, [tabindex]:not([tabindex="-1"])';
 const open = document.getElementById("open");
 const modal_container = document.getElementById("modal_container");
 const close = document.getElementById("close");
@@ -70,9 +70,10 @@ function showMobileFilters() {
 }
 
 function keepFocus() {
+  console.log(document.activeElement)
   document.addEventListener('keydown', function(e) {
     let isTabPressed = e.key === 'Tab' || e.keyCode === 9;
-  
+    
     if (!isTabPressed) {
       return;
     }
@@ -85,8 +86,9 @@ function keepFocus() {
         e.preventDefault();
       }
     } else { // if tab key is pressed
-      console.log(document.activeElement)
+      
       if (document.activeElement === lastFocusableElement) {
+        // console.log(document.activeElement)
         // add focus for the first focusable element
         firstFocusableElement.focus(); 
         e.preventDefault();
