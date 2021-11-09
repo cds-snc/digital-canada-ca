@@ -2,7 +2,7 @@
 title: 'Erreur!'
 description: "Veuillez postuler par courriel à"
 image: our-team.jpg
-type: form-submission
+type: section
 layout: page
 url: /erreur/
 translationKey: formError
