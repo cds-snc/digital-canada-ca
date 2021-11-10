@@ -1,0 +1,20 @@
+name: Posted positions active in Lever
+
+on:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: npm install
+      working-directory: .github/tasks/positions_public_check
+      run: |
+        npm install
+
+      - name: Validate all positions are active
+      working-directory: .github/tasks/positions_public_check
+      run: |
+        node index.js
