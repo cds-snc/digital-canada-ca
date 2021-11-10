@@ -17,7 +17,6 @@ const open = document.getElementById("open");
 const modal_container = document.getElementById("modal_container");
 const close = document.getElementById("close");
 const innerModal = document.getElementById("inner-modal")
-
 const firstFocusableElement = innerModal.querySelectorAll(focusableElements)[0]; // get first element to be focused inside modal
 const focusableContent = innerModal.querySelectorAll(focusableElements);
 let lastFocusableElement;   
@@ -58,8 +57,6 @@ async function initSearchIndex() {
   results = searchSite(getQueryVariable())
   keepFocus();
   
-  
-  
   renderSearchResult(results);
   renderFilterButtons();
 }
@@ -69,6 +66,10 @@ function showMobileFilters() {
   filterBox.classList.toggle("active");
   resultsNumberDiv.classList.toggle("active");
 }
+
+/**
+ * Trapping focus for the modal when open
+ */
 
 function keepFocus() {
   
@@ -113,9 +114,6 @@ function keepFocus() {
   
   firstFocusableElement.focus();
 }
-
-
-
 
 /**
  * Filters out null descriptions
