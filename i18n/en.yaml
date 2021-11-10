@@ -330,8 +330,8 @@ footer-links:
   other: "Footer links"
 filter-search:
   other: "Filter by type"      
-open:
-  other: "Open" 
+search:
+  other: "Search" 
 enter-search:
   other: "Enter your search"
 load-more:

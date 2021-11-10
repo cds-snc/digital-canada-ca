@@ -12,7 +12,7 @@ const body = document.querySelector("body");
 const filterArrow = document.getElementById("filter-arrow");
 const filterBox = document.getElementById("filter-box");
 const resultsNumberDiv = document.getElementById("results-number-div");
-const  focusableElements = 'button:not([disabled]), [href], input';
+const  focusableElements = 'button:not([disabled]), [href], input, text';
 const open = document.getElementById("open");
 const modal_container = document.getElementById("modal_container");
 const close = document.getElementById("close");
@@ -88,17 +88,19 @@ function keepFocus() {
         e.preventDefault();
       }
     } else { // if tab key is pressed
-      console.log(document.activeElement)
       
+      // if there are search results but the button is disabled, 
       if (searchResults.childNodes.length > 0) {
         loadMoreBtn.disabled == true ? 
         lastFocusableElement = searchResults.lastElementChild.getElementsByTagName('a')[0] : 
         lastFocusableElement = loadMoreBtn;
         
       } 
+      //if there are no results at all
       if (filterBox.lastElementChild.getElementsByTagName('button').length <= 1) {
         lastFocusableElement = filterBox.lastElementChild.getElementsByTagName('button')[0]
       } 
+      //if there are no results for that specific tab but there are for others
       else if (filterBox.lastElementChild.getElementsByTagName('button').length > 1 && searchResults.childNodes.length === 0) {
         lastFocusableElement = filterBox.lastElementChild.getElementsByTagName('button')[filterBox.lastElementChild.getElementsByTagName('button').length - 1]
       }
@@ -355,7 +357,7 @@ function renderSearchResult(items) {
       <div class="filter-number-${paginatedItems[i].type}" style="display: flex; align-items: stretch; line-height: 1.3em; padding: 0 0.5rem 0 0.5rem; background-color: ${renderFilterValueColour(paginatedItems[i].type)}; font-size: 2rem;">
         ${i18next.t(paginatedItems[i].type).toUpperCase()}
       </div> 
-      <div>${paginatedItems[i].description}</div>
+      <div tabIndex="0">${paginatedItems[i].description}</div>
       
     </div>
   </li>`;
