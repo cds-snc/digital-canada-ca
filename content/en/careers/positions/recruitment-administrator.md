@@ -4,7 +4,7 @@ type: section
 title: 'Recruitment Administrator'
 description: >-
   We’re hiring a Recruitment Administrator to provide scheduling and administrative support to the recruitment team, classified as AS-01 or AS-02 in the Administrative Services group. This position is English Essential and will report to the Talent Acquisition Lead. 
-archived: false
+archived: true
 translationKey: recruitment-administrator
 leverId: 82a8c993-9749-46ee-8f3e-b41fac71d7a4
 ---
