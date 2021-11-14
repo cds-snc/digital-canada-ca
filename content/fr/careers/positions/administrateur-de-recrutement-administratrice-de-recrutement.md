@@ -4,7 +4,7 @@ type: section
 title: 'Administrateur de recrutement / Administratrice de recrutement'
 description: >-
   Nous sommes à la recherche d’un administrateur de recrutement / d’une administratrice de recrutement qui soutiendra l’équipe de recrutement en matière de planification et de tâches administratives. Ce rôle est classé AS-01 ou AS-02 dans le groupe services administratifs. Il est désigné « anglais essentiel » et relèvera du responsable de l'acquisition de talent. 
-archived: false
+archived: true
 translationKey: recruitment-administrator
 leverId: 82a8c993-9749-46ee-8f3e-b41fac71d7a4
 ---
