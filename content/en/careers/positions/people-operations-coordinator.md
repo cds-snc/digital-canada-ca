@@ -4,7 +4,7 @@ type: section
 title: 'People Operations Coordinator'
 description: >-
   The People Operations Coordinator's mandate is to go above and beyond to deliver high-quality experiences for employees, managers and candidates.
-archived: false
+archived: true
 translationKey: people-operations-coordinator
 leverId: 272a1ae2-b8ca-4fec-b954-2da30b0f24a7
 ---
