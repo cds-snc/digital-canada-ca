@@ -343,4 +343,6 @@ close:
 results:
   other: "résultats"
 search-site:
-  other: "Rechercher sur le site"             
+  other: "Rechercher sur le site"
+how-we-can-help:
+  other: "Comment nous pouvons vous aider"               

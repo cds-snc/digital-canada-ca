@@ -144,6 +144,76 @@
       }
     }
   }
+  &--orange {
+    border-color: $action-orange;
+    justify-content: flex-end;
+
+    .cta__link a {
+      background: linear-gradient(
+        180deg,
+        $action-orange 0%,
+        $action-orange 30%,
+        $action-orange 60%,
+        $action-orange 100%
+      );
+      &:hover {
+        background: linear-gradient(
+          180deg,
+          darken($action-orange, 15) 0%,
+          darken($action-orange, 10) 30%,
+          darken($action-orange, 10) 60%,
+          $action-orange 100%
+        );
+      }
+    }
+  }
+
+  &--resources-green {
+    border-color: $resources-green;
+    justify-content: flex-end;
+
+    .cta__link a {
+      background: linear-gradient(
+        180deg,
+        $resources-green 0%,
+        $resources-green 30%,
+        $resources-green 60%,
+        $resources-green 100%
+      );
+      &:hover {
+        background: linear-gradient(
+          180deg,
+          darken($resources-green, 15) 0%,
+          darken($resources-green, 10) 30%,
+          darken($resources-green, 10) 60%,
+          $resources-green 100%
+        );
+      }
+    }
+  }
+
+  &--dark-career-brown{
+    border-color: $dark-career-brown;
+
+    .cta__link a {
+      background: linear-gradient(
+        180deg,
+        $dark-career-brown 0%,
+        $dark-career-brown 30%,
+        $dark-career-brown 60%,
+        $dark-career-brown 100%
+      );
+      &:hover {
+        background: linear-gradient(
+          180deg,
+          darken($dark-career-brown, 15) 0%,
+          darken($dark-career-brown, 10) 30%,
+          darken($dark-career-brown, 10) 60%,
+          $dark-career-brown 100%
+        );
+      }
+    }
+  }
 }
 
 .cta__content {

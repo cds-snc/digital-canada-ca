@@ -48,12 +48,49 @@
   border-top: 1px solid $black;
 
   h1 {
-    font-size: 3rem;
+    font-size: 4.5rem;
+    width: 40%;
 
     @include mobile_only {
       font-size: 2.5rem;
     }
   }
+
+  .header {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
+
+.homepage--how-we-can-help {
+  // margin: 0 5rem;
+  h4, p {
+    width: 80%;
+  }
+  .partner-tools-and-resources {
+    display: flex;
+    justify-content: space-between;
+
+    .partner-div {
+      width: 80%;
+    }
+  }
+}
+
+.homepage--blog-posts {
+
+  .posts {
+    display: flex;
+    justify-content: space-between;
+
+    h2 {
+      width: 80%;
+    }
+    img {
+      width: 80%;
+    }
+  }
+
 }
 
 .homepage--what-we-do {
