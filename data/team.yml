@@ -214,7 +214,7 @@ team:
     email: blaise.hebert@tbs-sct.gc.ca
     linkedin: blaise-h%C3%A9bert-08294a16/
     twitter: BlaiseHebert
-  - archived: false
+  - archived: true
     name: Brian Hendrick
     title:
       en: Design
@@ -583,7 +583,7 @@ team:
     github: lchski
     linkedin: lchski
     twitter: lchski
-  - archived: false
+  - archived: true
     name: Lyn Elliott
     title:
       en: Outreach
