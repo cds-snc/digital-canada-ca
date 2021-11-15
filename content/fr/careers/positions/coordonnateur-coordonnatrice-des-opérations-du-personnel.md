@@ -5,7 +5,7 @@ title: 'Coordonnateur/Coordonnatrice des opérations du personnel'
 description: >-
   Coordonnateur des opérations du personnel très organisé et flexible. Les personnes sont au cœur de ce que nous faisons, donc nous avons besoin que vous vous surpassiez pour offrir une expérience de grande qualité aux employés, aux gestionnaires et aux candidats.
 
-archived: false
+archived: true
 translationKey: people-operations-coordinator
 leverId: 272a1ae2-b8ca-4fec-b954-2da30b0f24a7
 ---

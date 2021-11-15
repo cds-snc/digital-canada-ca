@@ -4,7 +4,7 @@ type: section
 title: 'People & Culture Coordinator'
 description: >-
   This role will support our Diversity, Equity and Inclusion Program Manager by undertaking the management and administration of the CDS Orientation program, in addition to assisting in the planning and delivery of various in-house training sessions for managers, and supporting event administration.
-archived: false
+archived: true
 translationKey: people-culture-coordinator
 leverId: 4c5991c8-ae19-4b71-8799-0032d82ee179
 ---
