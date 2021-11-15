@@ -5,7 +5,7 @@ title: 'Coordonnateur/Coordonnatrice du personnel et de la culture'
 description: >-
   Coordonnateur/Coordonnatrice du personnel est un(e) solutionniste ingénieux/ingénieuse qui résout les problèmes et qui a une connaissance approfondie des procédures et des politiques des ressources humaines; est passionné(e) et déterminé(e) à créer une expérience exceptionnelle pour les employés.
 
-archived: false
+archived: true
 translationKey: people-culture-coordinator
 leverId: 4c5991c8-ae19-4b71-8799-0032d82ee179
 ---
