@@ -71,24 +71,55 @@
     display: flex;
     justify-content: space-between;
 
-    .partner-div {
-      width: 80%;
-    }
   }
 }
 
 .homepage--blog-posts {
 
+
   .posts {
-    display: flex;
-    justify-content: space-between;
+    
+    // background-color: blue;
+    
 
     h2 {
-      width: 80%;
+      width: 90%;
     }
     img {
-      width: 80%;
+      width: 90%;
     }
+    p{
+      width: 70%;
+    }
+  }
+  .range-posts {
+    
+
+    div {
+      display: flex;
+      
+      margin-bottom: 3rem;
+
+      img {
+
+        width: 40%;
+      }
+
+      p {
+        font-size: 18px;
+        padding-left: 2rem;
+        align-content: flex-end;
+
+      }
+      span {
+        font-size: 18px;
+
+        padding-left: 1.5rem;
+
+      }
+    
+    }
+
   }
 
 }

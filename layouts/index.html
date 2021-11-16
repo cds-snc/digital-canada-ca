@@ -71,11 +71,11 @@
   {{$first := index $posts 0 }}
   <section class="section">
     <div class="row">
-      <div class="posts">
-        <div >
+      <div style="display: flex;">
+        <div class="posts">
           <img src="{{$first.Params.thumb}}"/>
           <h2>{{$first.Params.title}}</h2>
-          <p>{{$first.Params.description}}</p>
+          <p >{{$first.Params.description}}</p>
           <div class="date">
             {{ if eq .Lang "en"}}
               {{ .Date.Format "Jan 2, 2006" }}
@@ -86,9 +86,25 @@
           </div>
 
         </div>
-        <div>
+        <div class="range-posts">
           {{range first 4 (after 1 $posts) }}
-            <p> {{.Params.title}}</p>
+          <div >
+            <img src="{{.Params.thumb}}"/>
+            <span> <h4>{{.Params.title}}</h4>
+              <div class="date">
+                {{ if eq .Lang "en"}}
+                  {{ .Date.Format "Jan 2, 2006" }}
+                {{end}}
+                {{ if eq .Lang "fr" }}
+                  {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                {{ end }}
+              </div>
+            </span>
+
+            
+          </div>
+
+            
           {{end}}
         </div>
       </div>
