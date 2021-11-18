@@ -69,21 +69,28 @@
   }
   .partner-tools-and-resources {
     display: flex;
-    justify-content: space-between;
+    // justify-content: flex-end;
+    // align-items: flex-end;
 
   }
 }
 
 .homepage--blog-posts {
-
+  a {
+    text-decoration: none;
+  }
 
   .posts {
-    
-    // background-color: blue;
-    
 
     h2 {
       width: 90%;
+      margin-top: 2rem;
+      font-size: 2.4rem;
+    }
+    span {
+      // width: 90%;
+      margin-top: 2rem;
+      font-size: 3rem;
     }
     img {
       width: 90%;
@@ -97,7 +104,6 @@
 
     div {
       display: flex;
-      
       margin-bottom: 3rem;
 
       img {
@@ -106,15 +112,16 @@
       }
 
       p {
-        font-size: 18px;
         padding-left: 2rem;
         align-content: flex-end;
 
       }
       span {
-        font-size: 18px;
+        font-size: 1.8rem;
 
         padding-left: 1.5rem;
+
+
 
       }
     
