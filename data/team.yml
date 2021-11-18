@@ -214,7 +214,7 @@ team:
     email: blaise.hebert@tbs-sct.gc.ca
     linkedin: blaise-h%C3%A9bert-08294a16/
     twitter: BlaiseHebert
-  - archived: false
+  - archived: true
     name: Brian Hendrick
     title:
       en: Design
@@ -583,7 +583,7 @@ team:
     github: lchski
     linkedin: lchski
     twitter: lchski
-  - archived: false
+  - archived: true
     name: Lyn Elliott
     title:
       en: Outreach
@@ -652,6 +652,13 @@ team:
       fr: Partenariats
     imagehash: small_muoyo_popo_633a0e0687
     email: muoyo.popo@tbs-sct.gc.ca
+  - archived: false
+    name: Nafissa Hassan
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: small_nafissa_hassan_faa67f46a4
+    email: Nafissa.Hassan@tbs-sct.gc.ca
   - archived: false
     name: Nick Makuch
     title:
