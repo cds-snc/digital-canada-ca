@@ -70,7 +70,7 @@
   {{$first := index $posts 0 }}
   <section class="section">
     <div class="row">
-      <div style="display: flex;">
+      <div class="blog">
         {{range first 1 $posts}}
         <div class="posts">
           <img src="{{.Params.thumb}}"/>
@@ -91,8 +91,8 @@
           {{range first 4 (after 1 $posts) }}
           <div >
             <img src="{{.Params.thumb}}"/>
-            <span><a href="{{.RelPermalink}}">{{.Params.title}}</a>
-              <div class="date">
+            <span class="max-height"><a href="{{.RelPermalink}}">{{.Params.title}}</a>
+              <div class="date max-height">
                 {{ if eq .Lang "en"}}
                   {{ .Date.Format "Jan 2, 2006" }}
                 {{end}}
@@ -119,6 +119,10 @@
       </div>
     
   </section>
+
+  <!-- <section class="section section--mailing-list">
+    {{ partial "mailing-list.html" }}
+  </section> -->
 </div>
 
 

@@ -76,6 +76,10 @@
     .flex {
       flex: 1;
     }
+    h3, h4 {
+      // font-size: 1.5rem;
+      // flex-wrap: nowrap;
+    }
     
 
   }
@@ -84,6 +88,14 @@
 .homepage--blog-posts {
   a {
     text-decoration: none;
+  }
+
+  .blog {
+    display: flex;
+
+    @include mobile_only {
+      display: block;
+    }
   }
 
   .posts {
@@ -104,6 +116,14 @@
     p{
       width: 70%;
     }
+
+    @include mobile_only {
+      h2, img, p {
+        width: 100%;
+      }
+
+      margin-bottom: 2rem;
+    }
   }
   .range-posts {
     
@@ -111,10 +131,14 @@
     div {
       display: flex;
       margin-bottom: 3rem;
+      @include mobile_only {
+        // display: block;
+      }
 
       img {
 
         width: 40%;
+        // height: max-content;
       }
 
       p {
@@ -125,7 +149,12 @@
       span {
         font-size: 1.8rem;
         padding-left: 1.5rem;
+        // height: max-content;
 
+      }
+
+      .max-height {
+        // height: max-content;
       }
     
     }
