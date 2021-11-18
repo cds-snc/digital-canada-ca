@@ -63,14 +63,20 @@
 }
 
 .homepage--how-we-can-help {
-  // margin: 0 5rem;
-  h4, p {
-    width: 80%;
-  }
+
+
   .partner-tools-and-resources {
     display: flex;
-    // justify-content: flex-end;
-    // align-items: flex-end;
+    justify-content: space-between;
+    img{
+      
+      width: 80%;
+    }
+
+    .flex {
+      flex: 1;
+    }
+    
 
   }
 }
@@ -118,10 +124,7 @@
       }
       span {
         font-size: 1.8rem;
-
         padding-left: 1.5rem;
-
-
 
       }
     
