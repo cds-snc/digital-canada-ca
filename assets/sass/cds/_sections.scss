@@ -76,10 +76,6 @@
     .flex {
       flex: 1;
     }
-    h3, h4 {
-      // font-size: 1.5rem;
-      // flex-wrap: nowrap;
-    }
     
 
   }
@@ -106,7 +102,6 @@
       font-size: 2.4rem;
     }
     span {
-      // width: 90%;
       margin-top: 2rem;
       font-size: 3rem;
     }
@@ -131,14 +126,12 @@
     div {
       display: flex;
       margin-bottom: 3rem;
-      @include mobile_only {
-        // display: block;
-      }
+
 
       img {
 
         width: 40%;
-        // height: max-content;
+        height: max-content;
       }
 
       p {
@@ -149,13 +142,9 @@
       span {
         font-size: 1.8rem;
         padding-left: 1.5rem;
-        // height: max-content;
 
       }
 
-      .max-height {
-        // height: max-content;
-      }
     
     }
 
