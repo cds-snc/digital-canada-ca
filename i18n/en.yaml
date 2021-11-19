@@ -342,6 +342,8 @@ results:
   other: "results"
 search-site:
   other: "Search on the website"  
+header-img-alt:
+  other: "Four people at a table, working together on a digital project."  
 how-we-can-help:
   other: "How we can help"
 partner-with-us-title:
@@ -349,13 +351,17 @@ partner-with-us-title:
 partner-with-us-subtitle:
   other: "If you need advice on what to focus on to improve your service."
 partner-with-us-description:
-  other: "Tell us about your specific service delivery challenges, and we’ll provide guidance based on past experiences."  
+  other: "Tell us about your specific service delivery challenges, and we’ll provide guidance based on past experiences." 
+partner-with-us-img-alt:
+  other: "Three people in a room discussing ideas and problems together."     
 use-our-tools-and-resources-title:
   other: "Use our tools and resources"
 use-our-tools-and-resources-subtitle:
   other: "If you need a specific tool or guide to solve a specific problem."
 use-our-tools-and-resources-description:
   other: "Integrate our common components into your existing systems, or read up on best practices for service delivery." 
+use-our-tools-and-resources-img-alt:
+  other: "One person using multiple digital tools with different functions to run an online service."  
 learn-more:
   other: "Learn more"
 join-our-team:
@@ -365,4 +371,4 @@ join-our-team-description:
 job-postings:
   other: "Job postings"
 read-our-blog-posts:
-  other: "Read our blog posts"                     
+  other: "Read our blog posts"                       
