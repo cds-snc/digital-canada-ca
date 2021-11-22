@@ -1,16 +1,81 @@
 {{ define "title" }}
-  {{ partial "menu.html" . }}
+{{ partial "menu.html" . }}
 {{ end }}
 
 {{ define "index" }}
 
 <div class="container homepage--how-we-can-help">
   <section class="section">
-    <div class="row" >
+    <div class="row">
       <h2>{{ i18n "how-we-can-help" }}</h2>
+
       <div class="partner-tools-and-resources">
-        <div style="padding-right: 2rem;" class="flex">
-          <h3 >{{i18n "partner-with-us-title" }}</h3>
+        <div  style="background-color: pink;">
+          <div class="title-container">
+            <div class="col-sm-offset-1 col-xs-9" style="background-color: green;">
+              <h3>{{i18n "partner-with-us-title" }}</h3>
+            </div>
+            <div class="col-sm-offset-1 col-xs-9" style="background-color: yellow;">
+              <h3>{{i18n "use-our-tools-and-resources-title" }}</h3>
+            </div>
+          </div>
+          <div class="title-container">
+            <div class="col-sm-offset-1 col-xs-9">
+              <h4>{{ i18n "partner-with-us-subtitle" }}</h4>
+            </div>
+            <div class="col-sm-offset-1 col-xs-9">
+              <h4>{{ i18n "use-our-tools-and-resources-subtitle" }}</h4>
+            </div>
+
+
+          </div>
+          <div class="title-container">
+            <div class="col-sm-offset-1 col-xs-9">
+              <img src="/img/cds/homepage-partnership.svg" alt="{{i18n " partner-with-us-img-alt" }}" />
+            </div>
+            <div class="col-sm-offset-1 col-xs-9">
+              <img src="/img/cds/homepage-tools-and-resources.svg" alt="{{i18n "use-our-tools-and-resources-img-alt"}}" />
+            </div>
+          </div>
+
+          <div class="title-container">
+            <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+              <p>{{ i18n "partner-with-us-description" }}</p>
+            </div>
+            <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+              <p>{{ i18n "use-our-tools-and-resources-description" }}</p>
+            </div>
+          </div>
+          <div class="title-container" style="justify-content: space-between;">
+            <div class="col-sm-10 col-sm-offset-1 col-xs-12" style="background-color: yellow;">
+              <div class="cta-wrapper">
+                <div class="cta cta--orange">
+                  <div class="cta__link">
+                    <a href="/partnerships/">{{ i18n "learn-more" }}<svg width="16" height="16" viewBox="0 0 16 16"
+                        xmlns="http://www.w3.org/2000/svg">
+                        <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+                      </svg></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-sm-10 col-sm-offset-1 col-xs-12" style="background-color: green;">
+              <div class="cta-wrapper">
+                <div class="cta cta--resources-green">
+                  <div class="cta__link">
+                    <a href="/tools-and-resources/">{{ i18n "learn-more" }}<svg width="16" height="16"
+                        viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+                      </svg></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <!-- <div style="padding-right: 2rem;" class="flex">
+          
           <h4>{{ i18n "partner-with-us-subtitle" }}</h4>
           <img src="/img/cds/homepage-partnership.svg" alt="{{i18n "partner-with-us-img-alt" }}" />
           <div ><p>{{ i18n "partner-with-us-description" }}</p></div>
@@ -40,9 +105,9 @@
               </div>
             </div>
           </div>
-        </div>
-        
-        
+        </div> -->
+
+
       </div>
     </div>
 
@@ -73,31 +138,31 @@
       <div class="blog">
         {{range first 1 $posts}}
         <div class="posts">
-          <img src="{{.Params.thumb}}"/>
+          <img src="{{.Params.thumb}}" />
           <h2><a href="{{.RelPermalink}}">{{.Params.title}}</a></h2>
-          <p >{{.Params.description}}</p>
-          
+          <p>{{.Params.description}}</p>
+
           <div class="date">
             {{ if eq .Lang "en"}}
-              {{ .Date.Format "Jan 2, 2006" }}
+            {{ .Date.Format "Jan 2, 2006" }}
             {{end}}
             {{ if eq .Lang "fr" }}
-              {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+            {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
             {{ end }}
           </div>
         </div>
         {{end}}
         <div class="range-posts">
           {{range first 4 (after 1 $posts) }}
-          <div >
-            <img src="{{.Params.thumb}}"/>
+          <div>
+            <img src="{{.Params.thumb}}" />
             <span class="max-height"><a href="{{.RelPermalink}}">{{.Params.title}}</a>
               <div class="date max-height">
                 {{ if eq .Lang "en"}}
-                  {{ .Date.Format "Jan 2, 2006" }}
+                {{ .Date.Format "Jan 2, 2006" }}
                 {{end}}
                 {{ if eq .Lang "fr" }}
-                  {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
                 {{ end }}
               </div>
             </span>
@@ -106,18 +171,18 @@
         </div>
       </div>
     </div>
-    
-      <div class="cta-wrapper">
-        <div class="cta cta--light-blog-pink">
-          <div class="cta__link" >
-            <a href="/blog/">{{ i18n "read-our-blog-posts" }}<svg width="16" height="16" viewBox="0 0 16 16"
-                xmlns="http://www.w3.org/2000/svg">
-                <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
-              </svg></a>
-          </div>
+
+    <div class="cta-wrapper">
+      <div class="cta cta--light-blog-pink">
+        <div class="cta__link">
+          <a href="/blog/">{{ i18n "read-our-blog-posts" }}<svg width="16" height="16" viewBox="0 0 16 16"
+              xmlns="http://www.w3.org/2000/svg">
+              <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+            </svg></a>
         </div>
       </div>
-    
+    </div>
+
   </section>
 </div>
 
