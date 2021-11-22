@@ -8,6 +8,6 @@ phase: beta
 status: in-flight
 onhomepage: false
 contact:
-  - email: bryan.willey@tbs-sct.gc.ca
-    name: Bryan Willey
+  - email: yael.berger@tbs-sct.gc.ca 
+    name: Yael Berger
 ---
