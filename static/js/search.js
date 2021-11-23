@@ -357,7 +357,7 @@ function renderSearchResult(items) {
       <div class="filter-number-${paginatedItems[i].type}" style="display: flex; align-items: stretch; line-height: 1.3em; padding: 0 0.5rem 0 0.5rem; background-color: ${renderFilterValueColour(paginatedItems[i].type)}; font-size: 2rem;">
         ${i18next.t(paginatedItems[i].type).toUpperCase()}
       </div> 
-      <div tabIndex="0">${paginatedItems[i].description}</div>
+      <div>${paginatedItems[i].description}</div>
       
     </div>
   </li>`;
@@ -485,6 +485,7 @@ function deletePostType(postType) {
  */
 if (window.location.href.indexOf("?q=") != -1) {
   document.getElementById("modal_container").classList.add("show-modal-container")
+  body.style.overflow = "hidden";
 }
 
 const colourFilter = {
