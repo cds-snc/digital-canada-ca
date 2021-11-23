@@ -66,8 +66,11 @@
 
 
   .partner-tools-and-resources {
-    // display: flex;
-    // justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+    @include mobile_only {
+      flex-direction: column;
+    }
     img{
       
       width: 80%;

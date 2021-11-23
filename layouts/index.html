@@ -14,45 +14,38 @@
       <h2>{{ i18n "how-we-can-help" }}</h2>
 
       <div class="partner-tools-and-resources">
-        <div class="row equal">
-          <div class="col-lg-2 col-md-6 col-xs-12">
-              <div style="height: 110%;">
-                <h3>{{i18n "partner-with-us-title" }}</h3>
-                <h4>{{ i18n "partner-with-us-subtitle" }}</h4>
-                <img src="/img/cds/homepage-partnership.svg" alt="{{i18n " partner-with-us-img-alt" }}" />
-                <div style="padding-bottom: 2rem;"><p>{{ i18n "use-our-tools-and-resources-description" }}</p></div>
-                <div class="cta-wrapper">
-                  <div class="cta cta--orange">
-                    <div class="cta__link">
-                      <a href="/partnerships/">{{ i18n "learn-more" }}<svg width="16" height="16" viewBox="0 0 16 16"
-                          xmlns="http://www.w3.org/2000/svg">
-                          <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
-                        </svg></a>
-                    </div>
-                  </div>
-                </div>
+        <div style="display: flex; flex-direction: column; margin-right: 2rem;" class="flex">
+          <h3>{{i18n "partner-with-us-title" }}</h3>
+          <h4>{{ i18n "partner-with-us-subtitle" }}</h4>
+          <img src="/img/cds/homepage-partnership.svg" alt="{{i18n " partner-with-us-img-alt" }}" />
+          <div style="margin-top: auto;"><p>{{ i18n "partner-with-us-description" }}</p></div>
+          <div class="cta-wrapper">
+            <div class="cta cta--orange">
+              <div class="cta__link">
+                <a href="/partnerships/">{{ i18n "learn-more" }}<svg width="16" height="16" viewBox="0 0 16 16"
+                    xmlns="http://www.w3.org/2000/svg">
+                    <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+                  </svg></a>
               </div>
+            </div>
           </div>
-    
-          <div class="col-lg-2 col-md-6 col-xs-12">
-              <div style="height: 110%;">
-                <h3>{{i18n "use-our-tools-and-resources-title" }}</h3>
-                <h4>{{ i18n "use-our-tools-and-resources-subtitle" }}</h4>
-                <img src="/img/cds/homepage-tools-and-resources.svg" alt="{{i18n "use-our-tools-and-resources-img-alt"}}" />
-                <div style="padding-bottom: 2rem;"><p>{{ i18n "use-our-tools-and-resources-description" }}</p></div>
-                <div class="cta-wrapper">
-                  <div class="cta cta--resources-green">
-                    <div class="cta__link">
-                      <a href="/tools-and-resources/">{{ i18n "learn-more" }}<svg width="16" height="16"
-                          viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-                          <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
-                        </svg></a>
-                    </div>
-                  </div>
-                </div>
+        </div>
+        <div class="flex" style="display: flex; flex-direction: column;">
+          <h3>{{i18n "use-our-tools-and-resources-title" }}</h3>
+          <h4>{{ i18n "use-our-tools-and-resources-subtitle" }}</h4>
+          <img src="/img/cds/homepage-tools-and-resources.svg" alt="{{i18n "use-our-tools-and-resources-img-alt"}}" />
+          <div style="margin-top: auto;"><p>{{ i18n "use-our-tools-and-resources-description" }}</p></div>
+          <div class="cta-wrapper">
+            <div class="cta cta--resources-green">
+              <div class="cta__link">
+                <a href="/tools-and-resources/">{{ i18n "learn-more" }}<svg width="16" height="16"
+                    viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+                  </svg></a>
               </div>
+            </div>
           </div>
-      </div>
+        </div>
       </div>
     </div>
 
@@ -99,7 +92,7 @@
         {{end}}
         <div class="range-posts">
           {{range first 4 (after 1 $posts) }}
-          <div>
+          <div style="border-bottom: 1px solid #D2D3D4;">
             <img src="{{.Params.thumb}}" />
             <span class="max-height"><a href="{{.RelPermalink}}">{{.Params.title}}</a>
               <div class="date max-height">
