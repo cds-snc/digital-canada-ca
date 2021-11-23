@@ -15,11 +15,11 @@
 
       <div class="partner-tools-and-resources">
         <div style="display: flex; flex-direction: column; margin-right: 2rem;" class="flex">
-          <h3>{{i18n "partner-with-us-title" }}</h3>
-          <h4>{{ i18n "partner-with-us-subtitle" }}</h4>
+          <h3 >{{i18n "partner-with-us-title" }}</h3>
+          <h4 >{{ i18n "partner-with-us-subtitle" }}</h4>
           <img src="/img/cds/homepage-partnership.svg" alt="{{i18n " partner-with-us-img-alt" }}" />
-          <div style="margin-top: auto;"><p>{{ i18n "partner-with-us-description" }}</p></div>
-          <div class="cta-wrapper">
+          <div style=" width: 80%;"><p>{{ i18n "partner-with-us-description" }}</p></div>
+          <div class="cta-wrapper" style="margin-top: auto;">
             <div class="cta cta--orange">
               <div class="cta__link">
                 <a href="/partnerships/">{{ i18n "learn-more" }}<svg width="16" height="16" viewBox="0 0 16 16"
@@ -31,11 +31,11 @@
           </div>
         </div>
         <div class="flex" style="display: flex; flex-direction: column;">
-          <h3>{{i18n "use-our-tools-and-resources-title" }}</h3>
-          <h4>{{ i18n "use-our-tools-and-resources-subtitle" }}</h4>
+          <h3 >{{i18n "use-our-tools-and-resources-title" }}</h3>
+          <h4 >{{ i18n "use-our-tools-and-resources-subtitle" }}</h4>
           <img src="/img/cds/homepage-tools-and-resources.svg" alt="{{i18n "use-our-tools-and-resources-img-alt"}}" />
-          <div style="margin-top: auto;"><p>{{ i18n "use-our-tools-and-resources-description" }}</p></div>
-          <div class="cta-wrapper">
+          <div style=" width: 80%;"><p>{{ i18n "use-our-tools-and-resources-description" }}</p></div>
+          <div class="cta-wrapper" style="margin-top: auto;">
             <div class="cta cta--resources-green">
               <div class="cta__link">
                 <a href="/tools-and-resources/">{{ i18n "learn-more" }}<svg width="16" height="16"
@@ -76,9 +76,13 @@
       <div class="blog">
         {{range first 1 $posts}}
         <div class="posts">
-          <img src="{{.Params.thumb}}" alt='{{ index .Params "image-alt" }}'/>
-          <h2><a href="{{.RelPermalink}}">{{.Params.title}}</a></h2>
-          <p>{{.Params.description}}</p>
+          <a href="{{.RelPermalink}}">
+            <img src="{{.Params.thumb}}" alt='{{ index .Params "image-alt" }}'/>
+          </a>
+          
+          <h2><a style="font-size: 4rem;" href="{{.RelPermalink}}">{{.Params.title}}</a></h2>
+          
+          <div style="width: 90%; margin-bottom: 1rem;">{{.Params.description}}</div>
 
           <div class="date">
             {{ if eq .Lang "en"}}
@@ -92,10 +96,13 @@
         {{end}}
         <div class="range-posts">
           {{range first 4 (after 1 $posts) }}
-          <div style="border-bottom: 1px solid #D2D3D4;">
-            <img src="{{.Params.thumb}}" alt='{{ index .Params "image-alt" }}'/>
-            <span class="max-height"><a href="{{.RelPermalink}}">{{.Params.title}}</a>
-              <div class="date max-height">
+          <div style="border-bottom: 1px solid #D2D3D4; display: flex ;">
+            <a href="{{.RelPermalink}}">
+              <img src="{{.Params.thumb}}" alt='{{ index .Params "image-alt" }}'/>
+            </a>
+            
+            <span ><a style="font-size: 1.6rem; margin-top: 0;" href="{{.RelPermalink}}">{{.Params.title}}</a>
+              <div class="blog-date">
                 {{ if eq .Lang "en"}}
                 {{ .Date.Format "Jan 2, 2006" }}
                 {{end}}
@@ -113,7 +120,7 @@
     <div class="cta-wrapper">
       <div class="cta cta--light-blog-pink">
         <div class="cta__link">
-          <a href="/blog/">{{ i18n "read-our-blog-posts" }}<svg width="16" height="16" viewBox="0 0 16 16"
+          <a href="/blog/" style="color: black !important;">{{ i18n "read-our-blog-posts" }}<svg style="fill: black;" width="16" height="16" viewBox="0 0 16 16"
               xmlns="http://www.w3.org/2000/svg">
               <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
             </svg></a>
