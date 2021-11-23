@@ -76,7 +76,7 @@
       <div class="blog">
         {{range first 1 $posts}}
         <div class="posts">
-          <img src="{{.Params.thumb}}" />
+          <img src="{{.Params.thumb}}" alt='{{ index .Params "image-alt" }}'/>
           <h2><a href="{{.RelPermalink}}">{{.Params.title}}</a></h2>
           <p>{{.Params.description}}</p>
 
@@ -93,7 +93,7 @@
         <div class="range-posts">
           {{range first 4 (after 1 $posts) }}
           <div style="border-bottom: 1px solid #D2D3D4;">
-            <img src="{{.Params.thumb}}" />
+            <img src="{{.Params.thumb}}" alt='{{ index .Params "image-alt" }}'/>
             <span class="max-height"><a href="{{.RelPermalink}}">{{.Params.title}}</a>
               <div class="date max-height">
                 {{ if eq .Lang "en"}}
