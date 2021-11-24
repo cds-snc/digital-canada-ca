@@ -48,12 +48,130 @@
   border-top: 1px solid $black;
 
   h1 {
-    font-size: 3rem;
+    font-size: 4rem;
+    margin-top: 4rem;
+    padding-right: 4rem;
 
     @include mobile_only {
       font-size: 2.5rem;
+      width: 100%;
+      margin-top: 0;
     }
   }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    @include mobile_only {
+      flex-direction: column;
+    }
+  }
+}
+
+.homepage--how-we-can-help {
+
+
+  .partner-tools-and-resources {
+    display: flex;
+    justify-content: space-between;
+    @include mobile_only {
+      flex-direction: column;
+    }
+    img{
+      
+      width: 90%;
+    }
+
+    .flex {
+      flex: 1;
+    }
+
+    h3 {
+      margin-bottom: 1rem;
+      margin-top: 0;
+    }
+    h4 {
+      margin-top: 1rem;
+      width: 90%;
+    }
+    
+
+  }
+}
+
+.homepage--blog-posts {
+  a {
+    text-decoration: none;
+  }
+
+  .blog {
+    display: flex;
+
+    @include mobile_only {
+      display: block;
+    }
+  }
+
+  .posts {
+    h2 {
+      width: 95%;
+      margin-top: 2rem;
+    }
+    span {
+      margin-top: 2rem;
+      font-size: 3rem;
+    }
+    img {
+      width: 90%;
+    }
+    p{
+      width: 70%;
+    }
+
+    @include mobile_only {
+      h2, img, p {
+        width: 100%;
+      }
+
+      margin-bottom: 2rem;
+    }
+  }
+  .range-posts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    line-height: 2.4rem;
+    margin-bottom: 4rem;
+    
+    div {
+      margin-bottom: 2rem;
+      
+
+
+      img {
+        width: 15.6rem;
+        
+
+        @include mobile_only {
+          padding-bottom: 2rem;
+        }
+      }
+
+      span {
+        padding-left: 1.5rem;
+
+      }
+
+    
+    }
+
+    .blog-date {
+      font-size: 1.4rem;
+    }
+
+  }
+
 }
 
 .homepage--what-we-do {
@@ -335,7 +453,6 @@
 // PRODUCT DASHBOARD
 //
 ////////////////////////////////////////////////////
-
 .row.equal {
   @include desktop {
     display: flex;
