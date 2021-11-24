@@ -1,0 +1,11 @@
+{
+    "i18n-ally.localesPaths": [
+        "i18n",
+        "static/js/locale",
+        "public/en/js/locale",
+        "public/fr/js/locale",
+        "static/lib-cds/gcweb-dist/wet-boew/js/i18n",
+        "public/en/lib-cds/gcweb-dist/wet-boew/js/i18n",
+        "public/fr/lib-cds/gcweb-dist/wet-boew/js/i18n"
+    ]
+}
