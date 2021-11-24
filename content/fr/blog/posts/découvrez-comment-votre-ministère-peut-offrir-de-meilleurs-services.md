@@ -10,7 +10,6 @@ image-alt: Une carte pleine de symboles numériques. Au centre, il y a un ordina
 thumb: https://de2an9clyit2x.cloudfront.net/small_exporation_map_b1482d69bd.jpeg
 translationKey: blog-questions-we-explore
 ---
-# Découvrez comment votre ministère peut offrir de meilleurs services
 Comme nous l’avons vu dans [Explorer les conditions de la prestation de services numériques](https://numerique.canada.ca/2021/04/07/explorer-les-conditions-de-la-prestation-de-services-num%C3%A9riques/), la prestation de meilleurs services numériques, c’est un peu comme le jardinage. « Plantez toutes les fleurs que vous voudrez; si les conditions ne sont pas propices à la croissance, les graines ne germeront pas et le jardin ne fleurira pas. » 
 
 Mais quelles sont les conditions nécessaires pour offrir de meilleurs services? Quels changements votre ministère peut-il apporter pour cultiver et faire croître les personnes, l’infrastructure et le soutien dont les services numériques ont besoin? Qu’est-ce qui limite votre croissance?
