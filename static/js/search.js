@@ -12,16 +12,14 @@ const body = document.querySelector("body");
 const filterArrow = document.getElementById("filter-arrow");
 const filterBox = document.getElementById("filter-box");
 const resultsNumberDiv = document.getElementById("results-number-div");
-const  focusableElements = 'button:not([disabled]), [href], input, text';
+const focusableElements = "button:not([disabled]), [href], input, text";
 const open = document.getElementById("open");
 const modal_container = document.getElementById("modal_container");
 const close = document.getElementById("close");
-const innerModal = document.getElementById("inner-modal")
+const innerModal = document.getElementById("inner-modal");
 const firstFocusableElement = innerModal.querySelectorAll(focusableElements)[0]; // get first element to be focused inside modal
 const focusableContent = innerModal.querySelectorAll(focusableElements);
-let lastFocusableElement;   
-
-
+let lastFocusableElement;
 
 /**
  * Initializes the search index
@@ -31,15 +29,14 @@ async function initSearchIndex() {
     const response = await fetch("/index.json");
 
     pagesIndex = await response.json();
-    
-    replaceValue('type', 'engagement', 'report')
-    replaceValue('type', 'roadmap', 'report')
-    replaceValue('type', 'section', 'other')
-    
+
+    replaceValue("type", "engagement", "report");
+    replaceValue("type", "roadmap", "report");
+    replaceValue("type", "section", "other");
 
     searchIndex = lunr(function () {
-      this.pipeline.remove(lunr.stemmer)
-      this.searchPipeline.remove(lunr.stemmer)
+      this.pipeline.remove(lunr.stemmer);
+      this.searchPipeline.remove(lunr.stemmer);
       this.field("title");
       this.field("description");
       this.field("date");
@@ -52,11 +49,10 @@ async function initSearchIndex() {
     console.log(e);
   }
   if (!inputVal.value) inputVal.value = getQueryVariable();
-  
 
-  results = searchSite(getQueryVariable())
+  results = searchSite(getQueryVariable());
   keepFocus();
-  
+
   renderSearchResult(results);
   renderFilterButtons();
 }
@@ -72,48 +68,57 @@ function showMobileFilters() {
  */
 
 function keepFocus() {
-  
-  document.addEventListener('keydown', function(e) {
-    let isTabPressed = e.key === 'Tab' || e.keyCode === 9;
-    
+  document.addEventListener("keydown", function (e) {
+    let isTabPressed = e.key === "Tab" || e.keyCode === 9;
+
     if (!isTabPressed) {
       return;
     }
-    
-  
-    if (e.shiftKey) { 
-      
+
+    if (e.shiftKey) {
       if (document.activeElement === firstFocusableElement) {
         lastFocusableElement.focus();
         e.preventDefault();
       }
-    } else { // if tab key is pressed
-      
-      // if there are search results but the button is disabled, 
-      if (searchResults.childNodes.length > 0) {
-        loadMoreBtn.disabled == true ? 
-        lastFocusableElement = searchResults.lastElementChild.getElementsByTagName('a')[0] : 
+    } else {
+      // if tab key is pressed
+
+      //if the load more button is pressed and new results are generated, the focus will be on the first new result
+      loadMoreBtn.addEventListener("click", () => {
+        searchResults.childNodes[rows - 5].getElementsByTagName("a")[0].focus();
         lastFocusableElement = loadMoreBtn;
-        
-      } 
+      });
+
+      // if there are search results but the button is disabled,
+      loadMoreBtn.disabled == true
+        ? (lastFocusableElement =
+            searchResults.lastElementChild.getElementsByTagName("a")[0])
+        : (lastFocusableElement = loadMoreBtn);
       //if there are no results at all
-      if (filterBox.lastElementChild.getElementsByTagName('button').length <= 1) {
-        lastFocusableElement = filterBox.lastElementChild.getElementsByTagName('button')[0]
-      } 
+      if (
+        filterBox.lastElementChild.getElementsByTagName("button").length <= 1
+      ) {
+        lastFocusableElement =
+          filterBox.lastElementChild.getElementsByTagName("button")[0];
+      }
       //if there are no results for that specific tab but there are for others
-      else if (filterBox.lastElementChild.getElementsByTagName('button').length > 1 && searchResults.childNodes.length === 0) {
-        lastFocusableElement = filterBox.lastElementChild.getElementsByTagName('button')[filterBox.lastElementChild.getElementsByTagName('button').length - 1]
+      else if (
+        filterBox.lastElementChild.getElementsByTagName("button").length > 1 &&
+        searchResults.childNodes.length === 0
+      ) {
+        lastFocusableElement =
+          filterBox.lastElementChild.getElementsByTagName("button")[
+            filterBox.lastElementChild.getElementsByTagName("button").length - 1
+          ];
       }
       if (document.activeElement === lastFocusableElement) {
-        
         // add focus for the first focusable element
-        firstFocusableElement.focus(); 
+        firstFocusableElement.focus();
         e.preventDefault();
-      } 
-
+      }
     }
   });
-  
+
   firstFocusableElement.focus();
 }
 
@@ -123,7 +128,11 @@ function keepFocus() {
 function removeNull(items) {
   let arr = [];
   for (var prop in items) {
-    if (items[prop].description !== null && items[prop].archived !== true && items[prop].type !== 'form-submission') {
+    if (
+      items[prop].description !== null &&
+      items[prop].archived !== true &&
+      items[prop].type !== "form-submission"
+    ) {
       arr.push(items[prop]);
     }
   }
@@ -131,17 +140,16 @@ function removeNull(items) {
   return arr;
 }
 
-
 /**
  * Suggestions from outreach team to change some of the "type" names
  */
 function replaceValue(field, oldValue, newValue) {
-  for( var k = 0; k < pagesIndex.length; ++k ) {
-    if( oldValue == pagesIndex[k][field] ) {
-      pagesIndex[k][field] = newValue ;
+  for (var k = 0; k < pagesIndex.length; ++k) {
+    if (oldValue == pagesIndex[k][field]) {
+      pagesIndex[k][field] = newValue;
     }
-}
-return pagesIndex;
+  }
+  return pagesIndex;
 }
 
 function initSearchSite() {
@@ -156,37 +164,34 @@ function initSearchSite() {
 
 function initTranslations() {
   i18next.init({
-    lng: document.querySelector('html').lang,
+    lng: document.querySelector("html").lang,
     debug: false,
     resources: {
       en: {
         translation: {
-          "accessibility": "Accessibility",
-          "all_results": "All Results",
-          "blog": "Blog",
-          "other": "Other",
-          "report": "Report",
-          "job_post": "Job Posting"
-        }
+          accessibility: "Accessibility",
+          all_results: "All Results",
+          blog: "Blog",
+          other: "Other",
+          report: "Report",
+          job_post: "Job Posting",
+        },
       },
       fr: {
         translation: {
-          "accessibility": "Accessibilité",
-          "all_results": "Tous les résultats",
-          "blog": "Blogue",
-          "other": "Autre",
-          "report": "Rapport",
-          "job_post": "Offre d'emploi"
-        }
+          accessibility: "Accessibilité",
+          all_results: "Tous les résultats",
+          blog: "Blogue",
+          other: "Autre",
+          report: "Rapport",
+          job_post: "Offre d'emploi",
+        },
       },
-    }
-  
+    },
   });
 }
 
 initSearchSite();
-
-
 
 /**
  * Event listeners to open and close the search modal
@@ -206,7 +211,7 @@ close.addEventListener("click", () => {
   modal_container.classList.remove("show-modal-container");
 
   inputVal.value = "";
-  rows = 5
+  rows = 5;
 
   body.style.overflow = "auto";
   let keysForDel = [];
@@ -216,11 +221,10 @@ close.addEventListener("click", () => {
   keysForDel.forEach((k) => {
     url.searchParams.delete(k);
   });
-  searchedResults = results
+  searchedResults = results;
   window.history.pushState({}, "", location.origin);
   renderSearchResult(results);
   renderFilterButtons();
-  
 });
 loadMoreBtn.addEventListener("click", () => {
   current_page++;
@@ -242,13 +246,14 @@ function keyUp(ev) {
  */
 
 function returnOccurences() {
-
-  let ind = queriedSearch(getQueryVariable())
+  let ind = queriedSearch(getQueryVariable());
   ind = removeNull(ind);
 
-  const occurences = ind.map(x => x.type).reduce(function (acc, curr) {
-    return acc[curr] ? ++acc[curr] : (acc[curr] = 1), acc;
-  }, {});
+  const occurences = ind
+    .map((x) => x.type)
+    .reduce(function (acc, curr) {
+      return acc[curr] ? ++acc[curr] : (acc[curr] = 1), acc;
+    }, {});
 
   let btn = document.getElementsByClassName("content-types");
 
@@ -267,7 +272,7 @@ function returnOccurences() {
 
 /**
  * Renders bottom border colour of a selected filter
- * 
+ *
  */
 function renderButtonBorderColour() {
   let btns = document.getElementsByClassName("content-types");
@@ -276,14 +281,17 @@ function renderButtonBorderColour() {
 
   for (const val of btns) {
     post_type.includes(val.name)
-      ? (val.style.borderBottom = `3px solid ${renderFilterValueColour(val.name)}`)
+      ? (val.style.borderBottom = `3px solid ${renderFilterValueColour(
+          val.name
+        )}`)
       : (val.style.borderBottom = "none");
   }
   post_type.length > 0
     ? (allResultsBtn.style.borderBottom = "none")
-    : (allResultsBtn.style.borderBottom = `3px solid ${renderFilterValueColour(allResultsBtn.name)}`);
+    : (allResultsBtn.style.borderBottom = `3px solid ${renderFilterValueColour(
+        allResultsBtn.name
+      )}`);
 }
-
 
 /**
  * Renders the filter buttons
@@ -294,8 +302,12 @@ const renderFilterButtons = () => {
   for (const [key, value] of Object.entries(returnOccurences())) {
     totalItems += `
     
-    <button id=${key} class="content-types" onClick="checkboxClicked(this)" name=${key}>${i18next.t(key)}
-      <span class="filter-number-${key}" style="background-color:${renderFilterValueColour(key)}; margin-left: 1.5rem; padding: 0 0.2rem 0 0.2rem;">(${value})</span>
+    <button id=${key} class="content-types" onClick="checkboxClicked(this)" name=${key}>${i18next.t(
+      key
+    )}
+      <span class="filter-number-${key}" style="background-color:${renderFilterValueColour(
+      key
+    )}; margin-left: 1.5rem; padding: 0 0.2rem 0 0.2rem;">(${value})</span>
     </button>
 
     `;
@@ -303,17 +315,17 @@ const renderFilterButtons = () => {
   }
 
   typeTotal.innerHTML =
-    `<button id="results" onClick="renderAllResults()" class="content-types" name="results">${i18next.t('all_results')}<span style="background-color: #F5CC33; margin-left: 1.5rem; color: black; padding: 0 0.2rem 0 0.2rem;">(${
+    `<button id="results" onClick="renderAllResults()" class="content-types" name="results">${i18next.t(
+      "all_results"
+    )}<span style="background-color: #F5CC33; margin-left: 1.5rem; color: black; padding: 0 0.2rem 0 0.2rem;">(${
       removeNull(searchedResults).length
     })</span></button>` + totalItems;
 
   renderButtonBorderColour();
-  
 };
 
-
 /**
- * Renders all results after user presses all results button 
+ * Renders all results after user presses all results button
  */
 function renderAllResults() {
   url.searchParams.delete("post_type");
@@ -331,18 +343,17 @@ function capitalizeFirstLetter(string) {
  * @param $items
  */
 function renderSearchResult(items) {
-
   let start = 0;
   let end = start + rows;
 
-  items.sort(function(a, b) {
+  items.sort(function (a, b) {
     return new Date(b.date) - new Date(a.date);
-  })
+  });
 
   let paginatedItems = items.slice(start, end);
   items.length <= 5 || paginatedItems.length === items.length
-    ? loadMoreBtn.disabled = true
-    : loadMoreBtn.disabled = false;
+    ? (loadMoreBtn.disabled = true)
+    : (loadMoreBtn.disabled = false);
 
   let resultList = "";
 
@@ -350,11 +361,19 @@ function renderSearchResult(items) {
     resultList += `<li>
     <div class="rendered-list">
       <div style="margin: 1rem 0 1rem 0">
-        <a href='${paginatedItems[i].href}' target="_blank" class="render-list-title" aria-label='${paginatedItems[i].title}'>
+        <a href='${
+          paginatedItems[i].href
+        }' target="_blank" class="render-list-title" aria-label='${
+      paginatedItems[i].title
+    }'>
           <span>${paginatedItems[i].title}<span>
         </a>
       </div>
-      <div class="filter-number-${paginatedItems[i].type}" style="display: flex; align-items: stretch; line-height: 1.3em; padding: 0 0.5rem 0 0.5rem; background-color: ${renderFilterValueColour(paginatedItems[i].type)}; font-size: 2rem;">
+      <div class="filter-number-${
+        paginatedItems[i].type
+      }" style="display: flex; align-items: stretch; line-height: 1.3em; padding: 0 0.5rem 0 0.5rem; background-color: ${renderFilterValueColour(
+      paginatedItems[i].type
+    )}; font-size: 2rem;">
         ${i18next.t(paginatedItems[i].type).toUpperCase()}
       </div> 
       <div>${paginatedItems[i].description}</div>
@@ -365,8 +384,6 @@ function renderSearchResult(items) {
 
   searchResults.innerHTML = resultList;
   resultNumber.innerHTML = ` ${items.length} `;
-  
-  
 }
 
 /**
@@ -375,13 +392,19 @@ function renderSearchResult(items) {
  */
 
 function getQueryVariable() {
-  if (location.search.slice(1).split("&")[0].split("=")[1] == undefined || location.search.slice(1).split("&")[0].split("=")[1] == "") {
+  if (
+    location.search.slice(1).split("&")[0].split("=")[1] == undefined ||
+    location.search.slice(1).split("&")[0].split("=")[1] == ""
+  ) {
     return "";
   } else {
     return decodeURIComponent(
-      location.search.slice(1).split("&")[0].split("=")[1].replace(/\+/g, "%20").toLowerCase()
-
-
+      location.search
+        .slice(1)
+        .split("&")[0]
+        .split("=")[1]
+        .replace(/\+/g, "%20")
+        .toLowerCase()
     );
   }
 }
@@ -403,26 +426,23 @@ function searchSite(query) {
     : [];
 }
 
-
 function queriedSearch(query_string) {
-  
-  
-  return searchIndex.query(function(q) {
-  // look for an exact match and apply a large positive boost
-  q.term(lunr.tokenizer(query_string), { usePipeline: false, boost: 100 })
+  return searchIndex
+    .query(function (q) {
+      // look for an exact match and apply a large positive boost
+      q.term(lunr.tokenizer(query_string), { usePipeline: false, boost: 100 });
 
-  // look for terms that match the beginning of this queryTerm and apply a medium boost
-  q.term(query_string + "*", { usePipeline: false, boost: 10 })
+      // look for terms that match the beginning of this queryTerm and apply a medium boost
+      q.term(query_string + "*", { usePipeline: false, boost: 10 });
 
-  // look for terms that match with an edit distance of 1 and apply a small boost
-  q.term(query_string, { usePipeline: false, editDistance: 1, boost: 1 })
-  }).map(function(result) {
-    return pagesIndex.filter(function(page) {
-      return page.href === result.ref;
-    })[0];
-  });
-
-  
+      // look for terms that match with an edit distance of 1 and apply a small boost
+      q.term(query_string, { usePipeline: false, editDistance: 1, boost: 1 });
+    })
+    .map(function (result) {
+      return pagesIndex.filter(function (page) {
+        return page.href === result.ref;
+      })[0];
+    });
 }
 
 /**
@@ -432,7 +452,7 @@ function queriedSearch(query_string) {
  */
 function getSearchResults(type, query_string) {
   let filteredResults;
-  searchedResults = queriedSearch(query_string)
+  searchedResults = queriedSearch(query_string);
 
   if (type.length === 0 || type === undefined) {
     filteredResults = searchedResults;
@@ -441,10 +461,9 @@ function getSearchResults(type, query_string) {
       return type.indexOf(content.type) != -1;
     });
   }
-  
+
   return removeNull(filteredResults);
 }
-
 
 /**
  * Renders the results based on which filter was selected
@@ -481,10 +500,12 @@ function deletePostType(postType) {
 }
 
 /**
- * Presents modal if url has query search parameter 
+ * Presents modal if url has query search parameter
  */
 if (window.location.href.indexOf("?q=") != -1) {
-  document.getElementById("modal_container").classList.add("show-modal-container")
+  document
+    .getElementById("modal_container")
+    .classList.add("show-modal-container");
   body.style.overflow = "hidden";
 }
 
@@ -495,7 +516,7 @@ const colourFilter = {
   accessibility: "#004986",
   report: "#AE5817",
   results: "#F5CC33",
-  job_post: "#6b3c19" 
+  job_post: "#6b3c19",
 };
 function renderFilterValueColour(param) {
   for (const [key, value] of Object.entries(colourFilter)) {
