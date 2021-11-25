@@ -1,63 +1,53 @@
-<div class='newsletter-subscribe'>
-  <div class='container'>
-    <div class='row'>
-      <div class='newsletter-container'>
-        <div class='col-md-5 col-xs-12'>
-          <h2 class="major">{{ i18n "subscribe-title" }}</h2>
-          <p>{{ i18n "subscribe-note" }}</p>
-        </div>
-        <div class='col-md-6 col-xs-12'>
-          <!-- Begin MailChimp Signup Form -->
-          <div id="mc_embed_signup" class='row'>
-            <form
-              action="{{ i18n "subscribe-id" }}"
-                  method="post" id="mc-embedded-subscribe-form"
-                  name="mc-embedded-subscribe-form" class="validate" novalidate>
-              <div id="mc_embed_signup_scroll" class='col-xs-12'>
-                <div class="mc-field-group form-group col-xs-12 col-sm-8">
-                  <label for="mce-EMAIL">{{ i18n "email-address" }}</label>
-                  <input type="email" value="" name="EMAIL"
-                        class="required email form-control" id="mce-EMAIL">
-                </div>
-
-                <div id="mce-responses">
-                  <div class="response" id="mce-error-response"
-                      style="display:none"></div>
-                  <div class="response" id="mce-success-response"
-                      style="display:none"></div>
-                </div>
-
-                <!-- real people should not fill this in and expect good things -
-                    do not remove this or risk form bot signups-->
-                <div style="position: absolute; left: -5000px;" aria-hidden="true">
-                  <label>
-                    <span style="display:none">hidden</span>
-                    <input aria-hidden="true" type="text"
-                          name="b_729a207773f7324e217a1d945_eb357181d2"
-                          tabindex="-1"
-                          value="">
-                  </label>
-                </div>
-
-                <div class="submit-button-container col-xs-12 col-sm-4">
-                  <button type="submit" 
-                        id="mc-embedded-subscribe"
-                        class="button">{{ i18n "subscribe" }} <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8 9H0V7H8V0L16 8L8 16V9Z"/></svg></button>
-                </div>
+<div class='container'>
+  <div class='newsletter-subscribe row'>
+    <div class='newsletter-container'>
+      <div class='col-md-5 col-xs-12'>
+        <h2 class="major">{{ i18n "subscribe-title" }}</h2>
+        <p>{{ i18n "subscribe-note" }}</p>
+      </div>
+      <div class='col-md-6 col-xs-12'>
+        <!-- Begin MailChimp Signup Form -->
+        <div id="mc_embed_signup" class='row'>
+          <form action="{{ i18n " subscribe-id" }}" method="post" id="mc-embedded-subscribe-form"
+            name="mc-embedded-subscribe-form" class="validate" novalidate>
+            <div id="mc_embed_signup_scroll" class='col-xs-12'>
+              <div class="mc-field-group form-group col-xs-12 col-sm-8">
+                <label for="mce-EMAIL">{{ i18n "email-address" }}</label>
+                <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL">
               </div>
-              <div class="row">
-                <div class="mce-privacy col-xs-12">
+
+              <div id="mce-responses">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>
+
+              <!-- real people should not fill this in and expect good things -
+                    do not remove this or risk form bot signups -->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                <label>
+                  <span style="display:none">hidden</span>
+                  <input aria-hidden="true" type="text" name="b_729a207773f7324e217a1d945_eb357181d2" tabindex="-1"
+                    value="">
+                </label>
+              </div>
+
+              <div class="submit-button-container col-xs-12 col-sm-4">
+                <button type="submit" id="mc-embedded-subscribe" class="button">{{ i18n "subscribe" }} <svg width="16"
+                    height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+                  </svg></button>
+              </div>
+            </div>
+            <div class="row">
+              <div class="mce-privacy col-xs-12">
                 <a href={{ i18n "all-newsletter-past" }}>{{ i18n "all-newsletter-link" }}</a>
-                  <a href="#privacy-notice-modal"
-                    aria-controls="privacy-notice-modal"
-                    class="overlay-lnk light-link wb-lbx"
-                    aria-label="Privacy Statement Link">{{ i18n "view-privacy-notice" }}</a>
-                </div>
+                <a href="#privacy-notice-modal" aria-controls="privacy-notice-modal"
+                  class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">{{ i18n "view-privacy-notice" }}</a>
               </div>
-            </form>
-          </div>
-          <!--End mc_embed_signup-->
+            </div>
+          </form>
         </div>
+        <!-- End mc_embed_signup -->
       </div>
     </div>
   </div>
@@ -68,7 +58,9 @@
     <header class="modal-header">
       <div class="modal-header-container">
         <h2 class="modal-title">{{ i18n "privacy-notice" }}</h2>
-        <button type="button" class="mfp-close" title="Close: Privacy Notice (escape key)">×<span class="wb-inv"> Close: Privacy Notice (escape key)</span><span class="wb-inv"> Close: Privacy Notice (escape key)</span></button>
+        <button type="button" class="mfp-close" title="Close: Privacy Notice (escape key)">×<span class="wb-inv">
+            Close:
+            Privacy Notice (escape key)</span><span class="wb-inv"> Close: Privacy Notice (escape key)</span></button>
       </div>
     </header>
     <div class="modal-body">
