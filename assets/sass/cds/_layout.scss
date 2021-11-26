@@ -429,8 +429,9 @@ td {
   }
 
   .brown-padding {
-    @media (max-width: 976px) {
+    @media screen and (max-width: 991px) {
       padding: 0 !important; 
+      
     }
   }
 }

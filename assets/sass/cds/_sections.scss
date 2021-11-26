@@ -1236,7 +1236,6 @@ article.post {
     height: 48px;
     font-weight: 100;
     font-size: 2rem;
-    // width: 80%;
     width: 100%;
 
     &:focus {
@@ -1334,8 +1333,7 @@ article.post {
   @include mobile_only {
     margin: 0 3rem;
   }
-
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
   background-color: $primary-color;
 
 
