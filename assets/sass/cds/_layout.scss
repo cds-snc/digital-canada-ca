@@ -422,6 +422,11 @@ td {
   }
   a {color: $white;}
   li {list-style: none;}
+
+  .nopadding {
+    padding: 0 !important; 
+    margin: 0 !important
+  }
 }
 
 .social-links-footer ul {
@@ -470,7 +475,6 @@ td {
 .social-links-footer li:first-child { margin-left:0; }
 
 .social-links-footer .contact-info li {
-  margin-top: 3rem;
   margin-bottom: 1rem;
 
   @include mobile_only {
