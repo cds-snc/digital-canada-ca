@@ -25,6 +25,7 @@ let lastFocusableElement;
  * Initializes the search index
  */
 async function initSearchIndex() {
+  lunr.tokenizer.separator = /\s+/
   try {
     const response = await fetch("/index.json");
 
