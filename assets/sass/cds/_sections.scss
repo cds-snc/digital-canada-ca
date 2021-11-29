@@ -109,6 +109,11 @@
     
 
   }
+
+  .visually-hidden {
+    color: transparent;
+    font-size: 0.01px;
+  }
 }
 
 .homepage--blog-posts {
