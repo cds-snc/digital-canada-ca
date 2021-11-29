@@ -724,15 +724,10 @@
     @include mobile_only {
       padding-bottom: 5.5rem;
     }
-  }
-
-  
-  #load-more {
-    
-    &.hide-btn {
+    button:disabled,
+    button[disabled] {
       display: none;
     }
-  
   }
 
   .results-div {

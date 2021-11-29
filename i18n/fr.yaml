@@ -332,8 +332,8 @@ footer-links:
   other: "Liens en bas de page"
 filter-search:
   other: "Filtrer par type"      
-open:
-  other: "Ouvert"
+search:
+  other: "Rechercher"
 enter-search:
   other: "Que recherchez-vous"   
 load-more:
