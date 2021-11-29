@@ -4,7 +4,7 @@ type: section
 title: 'Executive Assistant'
 description: >-
   We’re hiring an Executive Assistant to provide administrative and operational support to senior leaders, classified as AS-02 in the Administrative Services group. This position will report to the Chief of Staff to the CEO.
-archived: true
+archived: false
 translationKey: executive-assistant-cos
 leverId: de6ae5bc-d267-4539-89b4-c4d1497ccbf0
 ---
