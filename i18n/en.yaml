@@ -371,4 +371,8 @@ join-our-team-description:
 job-postings:
   other: "Job postings"
 read-our-blog-posts:
-  other: "Read our blog posts"                       
+  other: "Read our blog posts"   
+about-partnerships:
+  other: " about Partnerships"
+about-tools-and-resources:
+  other: " about Tools and Resources"                        
