@@ -60,10 +60,22 @@
   }
 
   .header {
+    h1 {
+      text-align: center;
+      
+    }
     display: flex;
     justify-content: space-between;
     @include mobile_only {
       flex-direction: column;
+
+      h1 {
+        font-size: 3.5rem;
+      }
+      img {
+        width: 90%;
+        align-self: center;
+      }
     }
   }
 }
