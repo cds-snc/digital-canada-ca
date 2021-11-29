@@ -4,7 +4,7 @@ type: section
 title: 'Adjoint (e) de direction '
 description: >-
   Nous souhaitons embaucher un adjoint ou une adjointe à la direction pour offrir un soutien administratif et opérationnel aux cadres supérieurs, classés AS-02 dans le groupe Services administratifs. Ce poste relèvera du chef de cabinet auprès du premier dirigeant.
-archived: false
+archived: true
 translationKey: executive-assistant-cos
 leverId: de6ae5bc-d267-4539-89b4-c4d1497ccbf0
 ---
