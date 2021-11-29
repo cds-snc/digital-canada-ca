@@ -1,55 +1,67 @@
-<nav class="social-links-footer" aria-label='{{i18n "contact-us"}}' >
-
+<nav class="social-links-footer" aria-label='{{i18n "contact-us"}}'>
   <span id="contact-us-links"></span>
-  <div class="row equal">
-    <div class="col-md-4 div-margin" >
-      <div class="border-green">
-        <ul class="ul-margin"><li><a href="{{ i18n "accessibility-link" }}">{{i18n "accessibility"}}</a></li></ul>
+  <div class="container">
+    <div class="row equal">
+      <div class="col-md-4 nopadding">
+        <div class="border-green">
+          <ul class="ul-margin">
+            <li><a href="{{ i18n " accessibility-link" }}">{{i18n "accessibility"}}</a></li>
+          </ul>
+        </div>
       </div>
-      <div class="border-gray">
-        <ul class="ul-margin"><li><a href="{{ i18n "roadmap-link" }}">{{i18n "roadmap"}}</a></li></ul>
-        <ul><li><a href="{{ i18n "beginning-the-conversation-link" }}">{{i18n "beginning-the-conversations"}}</a></li></ul>
-      </div>
+      <div class="col-md-4 brown-padding">
+        <div class="border-brown">
+          <ul class="ul-margin">
+            <li><a href="{{ with $.Site.GetPage " meet-the-team" }}{{.Permalink}}{{ end }}">{{i18n "meet-the-team"}}</a>
+            </li>
+          </ul>
+          <ul>
+            <li><a href="{{ i18n " our-values-link" }}">{{i18n "our-values"}}</a></li>
+          </ul>
+        </div>
 
+      </div>
+      <div class="col-md-4 nopadding" >
+        <div class="border-yellow">
+          <ul class="ul-margin">
+            <li><a href="mailto:{{ .Site.Data.contact.email }}">{{i18n "contact-us-footer"}}</a></li>
+          </ul>
+          <ul>
+            <li><a href="{{ i18n " newsletter-link" }}">{{i18n "newsletter"}}</a></li>
+          </ul>
+          <ul class="contact-info contact-info-social">
+            <li>
+              <div class="contact-icon">
+                <a title="Twitter" href="https://twitter.com/{{ i18n " twitter" }}">
+                  <i class="icon-twitter"></i>
+                </a>
+              </div>
+            </li>
+            <li>
+              <div class="contact-icon">
+                <a title="LinkedIn" href="https://linkedin.com/company/{{$.Site.Data.contact.linkedin}}">
+                  <i class="icon-linkedin"></i>
+                </a>
+              </div>
+            </li>
+            <li>
+              <div class="contact-icon">
+                <a title="Github" href="https://github.com/{{.Site.Data.contact.github}}">
+                  <i class="icon-github"></i>
+                </a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
-    <div class="col-md-4 div-margin">
-      <div class="border-brown">
-        <ul class="ul-margin"><li><a href="{{ with $.Site.GetPage "meet-the-team" }}{{.Permalink}}{{ end }}">{{i18n "meet-the-team"}}</a></li></ul>
-        <ul><li><a href="{{ i18n "our-values-link" }}">{{i18n "our-values"}}</a></li></ul>
+    <div class="row equal" >
+      <div class="col-md-4 nopadding" >
+        <div class="border-gray">
+          <ul class="ul-margin"><li><a href="{{ i18n "roadmap-link" }}">{{i18n "roadmap"}}</a></li></ul>
+          <ul><li><a href="{{ i18n "beginning-the-conversation-link" }}">{{i18n "beginning-the-conversations"}}</a></li></ul>
+        </div>
       </div>
-
-    </div>
-    <div class="col-md-4 div-margin">
-      <div class="border-yellow">
-        <ul class="ul-margin"><li><a href="mailto:{{ .Site.Data.contact.email }}">{{i18n "contact-us-footer"}}</a></li></ul>
-        <ul><li><a href="{{ i18n "newsletter-link" }}">{{i18n "newsletter"}}</a></li></ul>
-        <ul class="contact-info contact-info-social">
-          <li>
-            <div class="contact-icon">
-              <a title="Twitter" href="https://twitter.com/{{ i18n "twitter" }}">
-                <i class="icon-twitter"></i>
-              </a>
-            </div>
-          </li>
-          <li>
-            <div class="contact-icon">
-              <a title="LinkedIn"
-                  href="https://linkedin.com/company/{{$.Site.Data.contact.linkedin}}">
-                <i class="icon-linkedin"></i>
-              </a>
-            </div>
-          </li>
-          <li>
-            <div class="contact-icon">
-              <a title="Github"
-                  href="https://github.com/{{.Site.Data.contact.github}}">
-                <i class="icon-github"></i>
-              </a>
-            </div>
-          </li>
-        </ul>
-      </div>
-
     </div>
   </div>
 </nav>

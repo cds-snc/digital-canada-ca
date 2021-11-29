@@ -1309,6 +1309,7 @@ article.post {
     }
   }
 
+
   #mc-embedded-subscribe {
     @include mobile_only {
       width: 100%;
@@ -1320,11 +1321,13 @@ article.post {
     margin: 0;
     align-self: flex-end;
     height: 48px;
-    padding-left: 3rem;
-    padding-right: 3rem;
+    padding-left: 1rem;
+    padding-right: 2rem;
     display: flex;
     align-items: center;
     justify-content: center;
+    
+    
     @include label;
 
     svg {
@@ -1338,29 +1341,23 @@ article.post {
   }
 }
 
-
-
 .newsletter-subscribe {
   @include mobile_only {
     margin: 0 3rem;
   }
-  margin: 0 5rem;
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
   background-color: $primary-color;
 
-  & > .container {
-    //little math so container width is the same as main container
-    width: calc(70% + 5rem);
-  }
 
   .newsletter-container {
-    //negative margin to counteract the padding on container above
-    margin: 0 -15px;
+    
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
     align-items: center;
+
+    @media screen and (min-width: 1355px) {
+      justify-content: space-between;
+    }
   }
 
   h2 {

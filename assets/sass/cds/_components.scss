@@ -99,22 +99,19 @@
   margin: 0;
   padding: 0;
 
-  @include mobile_only {
-    margin: 0 2rem;
-  }
 
   li {
     margin: 2rem 0 2rem 2rem;
   }
 
   i {
-    padding: 1.8rem;
+    padding: 1rem;
     display: inline-block;
     color: $white;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.8rem;
     transition: all 0.3s ease-in-out;
-    border: $dark-grey 2px solid;
+    
 
     &:hover {
       background: $primary-color;

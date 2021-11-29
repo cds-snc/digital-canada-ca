@@ -378,10 +378,11 @@ td {
   nav { padding: 0.5rem 0 0 0 !important; }
 }
 
+
 .goc-footer--links {
   ul {
     margin: 0;
-    padding-left: 20px;
+    padding-left: 0px;
     text-align: center;
 
     @include tablet { text-align : left; }
@@ -390,7 +391,7 @@ td {
   li {
     list-style: none;
     display: inline-block;
-    padding: 0.7em 2em 0.7em 0.7em;
+    padding: 0.7em 2em 0.7em 0em;
   }
 
   a { color: $white; }
@@ -422,6 +423,17 @@ td {
   }
   a {color: $white;}
   li {list-style: none;}
+
+  .nopadding {
+    padding: 0 !important; 
+  }
+
+  .brown-padding {
+    @media screen and (max-width: 991px) {
+      padding: 0 !important; 
+      
+    }
+  }
 }
 
 .social-links-footer ul {
@@ -470,7 +482,6 @@ td {
 .social-links-footer li:first-child { margin-left:0; }
 
 .social-links-footer .contact-info li {
-  margin-top: 3rem;
   margin-bottom: 1rem;
 
   @include mobile_only {
