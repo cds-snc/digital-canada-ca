@@ -42,6 +42,7 @@ async function initSearchIndex() {
       this.field("date");
       this.field("type");
       this.field("archived");
+      this.field("content");
       this.ref("href");
       pagesIndex.forEach((page) => this.add(page));
     });
