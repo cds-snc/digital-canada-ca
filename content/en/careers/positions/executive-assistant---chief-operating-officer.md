@@ -4,7 +4,7 @@ type: section
 title: 'Executive Assistant - Chief Operating Officer'
 description: >-
   The Chief Operating Officer’s office is the administrative and operational hub of CDS. The COO and their teams have two main responsibilities: to ensure that the rest of the organization has what it needs to perform at an optimal level — and to make it easier for others across government to adopt similar tools and practices. We are looking for an Executive Assistant who will thrive at managing multiple priorities in a rapidly changing environment, as they work alongside our Chief Operating Officer (COO) and their teams.
-archived: false
+archived: true
 translationKey: executive-assistant-coo2
 leverId: 7c3b9da6-720e-4454-b7a3-9dd635b3a889
 ---
