@@ -4,7 +4,7 @@ type: section
 title: 'Adjoint·e exécutif·ve'
 description: >-
   Le bureau du directeur des opérations est le cœur administratif et opérationnel du SNC. Le directeur des opérations et ses équipes ont deux responsabilités principales : d’une part, veiller à ce que le reste de l’organisation dispose du nécessaire pour fonctionner à un niveau optimal et, d’autre part, simplifier l’adoption d’outils et de pratiques similaires par d’autres au sein du gouvernement. 
-archived: false
+archived: true
 translationKey: executive-assistant-coo
 leverId: 7c3b9da6-720e-4454-b7a3-9dd635b3a889
 ---
