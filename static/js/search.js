@@ -25,6 +25,7 @@ let lastFocusableElement;
  * Initializes the search index
  */
 async function initSearchIndex() {
+  lunr.tokenizer.separator = /\s+/
   try {
     const response = await fetch("/index.json");
 
@@ -42,6 +43,7 @@ async function initSearchIndex() {
       this.field("date");
       this.field("type");
       this.field("archived");
+      this.field("content");
       this.ref("href");
       pagesIndex.forEach((page) => this.add(page));
     });
