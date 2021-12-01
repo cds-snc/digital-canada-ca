@@ -250,8 +250,7 @@
   }
 
   &.hiding {
-    animation: fadeOut 0.3s ease-in-out !important;
-    animation-fill-mode: forwards;
+    animation: fadeOut 0.3s ease-in-out forwards;
   }
 
   #js-mobileNav--button {
@@ -262,6 +261,7 @@
     position: fixed;
     right: 20rem;
     top: 6rem;
+    z-index: 1;
 
     &:focus {
       outline: none;
