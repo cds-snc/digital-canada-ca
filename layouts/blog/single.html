@@ -51,28 +51,32 @@
         </article>
         <div class="previous-next-nav">
           <div class="container">
-            <div class="pull-left text-left">
+            <div class="row">
+              <div class="col-xs-6 pull-left text-left">
+                {{with .NextInSection }}
+                <a href="{{ .RelPermalink }}"><span class="wb-inv">:</span>
+                  <span class="fas fa-arrow-circle-left"></span>
+                  {{i18n "next-post"}}
+                  <div class="nav-post-title nav-post-title-right">{{ .Params.title | markdownify }}</div>
+                </a>
+                {{ end }}
+              </div>
+    
+              <div class="col-xs-6 pull-right text-right">
                 {{with .PrevInSection }}
                 <a href="{{ .RelPermalink }}">
-                  <span class="fas fa-arrow-circle-left"></span>
-                  {{i18n "previous-post"}}<span class="wb-inv">:</span>
+                  {{i18n "previous-post"}}
+                  <span class="fas fa-arrow-circle-right"></span>
+                  <span class="wb-inv">:</span>
                   <div class="nav-post-title nav-post-title-left">{{ .Params.title | markdownify }}</div>
                 </a>
                 {{end}}
               </div>
-
-              <div class="pull-right text-right">
-                {{with .NextInSection }}
-                <a href="{{ .RelPermalink }}">{{i18n "next-post"}}<span class="wb-inv">:</span>
-                  <span class="fas fa-arrow-circle-right"></span>
-                  <div class="nav-post-title nav-post-title-right">{{ .Params.title | markdownify }}</div>
-                </a>
-                {{ end }}
-                </div>
-              </div>
-              </div>
             </div>
+  
+  
           </div>
+        </div>
         </section>
   <!-- </div> -->
 {{ end }}
