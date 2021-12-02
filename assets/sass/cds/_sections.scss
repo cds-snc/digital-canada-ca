@@ -1368,9 +1368,6 @@ article.post {
 }
 
 .newsletter-subscribe {
-  @include mobile_only {
-    margin: 0 3rem;
-  }
   padding-bottom: 2rem;
   background-color: $primary-color;
 
