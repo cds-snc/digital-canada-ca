@@ -1249,7 +1249,18 @@ article.post {
 #mc_embed_signup {
   .email {
     border-radius: 0;
-    border: 2px solid $dark-grey;
+    border-top: 2px solid $dark-grey;
+    border-right: 1px solid $dark-grey;
+    border-bottom: 2px solid $dark-grey;
+    border-left: 2px solid $dark-grey;
+
+    @include mobile_only {
+      border-top: 2px solid $dark-grey;
+      border-right: 2px solid $dark-grey;
+      border-bottom: 1px solid $dark-grey;
+      border-left: 2px solid $dark-grey;
+    }
+
     height: 48px;
     font-weight: 100;
     font-size: 2rem;
@@ -1322,7 +1333,10 @@ article.post {
     background-color: transparent;
     color: $dark-grey;
     border-radius: 0;
-    border: 2px solid $dark-grey;
+    border-top: 2px solid $dark-grey;
+    border-right: 2px solid $dark-grey;
+    border-bottom: 2px solid $dark-grey;
+    border-left: 1px solid $dark-grey;
     margin: 0;
     align-self: flex-end;
     height: 48px;
@@ -1331,6 +1345,13 @@ article.post {
     display: flex;
     align-items: center;
     justify-content: center;
+    
+    @include mobile_only {
+      border-top: 1px solid $dark-grey;
+      border-right: 2px solid $dark-grey;
+      border-bottom: 2px solid $dark-grey;
+      border-left: 2px solid $dark-grey;
+    }
     
     
     @include label;
@@ -1347,9 +1368,6 @@ article.post {
 }
 
 .newsletter-subscribe {
-  @include mobile_only {
-    margin: 0 3rem;
-  }
   padding-bottom: 2rem;
   background-color: $primary-color;
 
