@@ -223,8 +223,9 @@ close.addEventListener("click", () => {
   keysForDel.forEach((k) => {
     url.searchParams.delete(k);
   });
-  searchedResults = results;
   window.history.pushState({}, "", location.origin);
+  searchedResults = results;
+  results = searchSite(getQueryVariable());
   renderSearchResult(results);
   renderFilterButtons();
 });
