@@ -287,6 +287,15 @@ team:
     linkedin: /charlynelefebvrepaille/
     twitter: /CharLefPai
   - archived: false
+    name: Ciara Cronin
+    title:
+      en: Outreach 
+      fr: Liaison et diffusion
+    imagehash: small_ciara_cronin_e7d8435a53
+    email: ciara.cronin@tbs-sct.gc.ca
+    linkedin: /ciara-cronin-80402b41
+    twitter: /ciaralcronin
+  - archived: false
     name: Clementine Hahn
     title:
       en: Product Management
