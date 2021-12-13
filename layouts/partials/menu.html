@@ -24,7 +24,7 @@
               {{ $title := .Params.title }}
               {{ range $menu := .Site.Menus.main }}
                 <li class="top-nav--link{{ if eq $title .Identifier }} active{{end}}">
-                  <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                  <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
                 </li>
               {{end}}
               <li class="top-nav--link" >
