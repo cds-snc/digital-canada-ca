@@ -32,7 +32,7 @@ Powered by [Strapi](https://strapi.io/). The Strapi instance for this website ca
 
 Please visit our [contribution guidelines](CONTRIBUTING.md) to learn how to best make updates to CMS managed content.
 
-## ---------------------------------------------------------------------
+## --------------------------------------------------------------------
 
 # Site Web du Service numérique canadien : [numerique.canada.ca](https://numerique.canada.ca)
 
