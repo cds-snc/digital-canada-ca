@@ -375,4 +375,12 @@ read-our-blog-posts:
 about-partnerships:
   other: " sur les Partenariats"
 about-tools-and-resources:
-  other: " plus sur les Outils et les Ressources"   
+  other: " plus sur les Outils et les Ressources"
+partnership-tag:
+  other: "partenariats-tag"  
+careers-tag:
+  other: "carrieres-tag" 
+tools-and-resources-tag:
+  other: "outils-tag"
+read-our-blog-tag:
+  other: "blogue-tag"      
