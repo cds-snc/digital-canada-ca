@@ -223,7 +223,7 @@ close.addEventListener("click", () => {
   keysForDel.forEach((k) => {
     url.searchParams.delete(k);
   });
-  window.history.pushState({}, "", location.origin);
+  window.history.pushState({}, "", location.origin + location.pathname);
   searchedResults = results;
   results = searchSite(getQueryVariable());
   renderSearchResult(results);
@@ -364,12 +364,8 @@ function renderSearchResult(items) {
     resultList += `<li>
     <div class="rendered-list">
       <div style="margin: 1rem 0 1rem 0">
-        <a href='${
-          paginatedItems[i].href
-        }' target="_blank" class="render-list-title" aria-label='${
-      paginatedItems[i].title
-    }'>
-          <span>${paginatedItems[i].title}<span>
+        <a href='${paginatedItems[i].href}' target="_blank" class="render-list-title" aria-label='${paginatedItems[i].title}'>
+          ${paginatedItems[i].title}
         </a>
       </div>
       <div class="filter-number-${
