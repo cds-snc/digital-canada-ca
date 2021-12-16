@@ -223,7 +223,7 @@ close.addEventListener("click", () => {
   keysForDel.forEach((k) => {
     url.searchParams.delete(k);
   });
-  window.history.pushState({}, "", location.origin);
+  window.history.pushState({}, "", location.origin + location.pathname);
   searchedResults = results;
   results = searchSite(getQueryVariable());
   renderSearchResult(results);
