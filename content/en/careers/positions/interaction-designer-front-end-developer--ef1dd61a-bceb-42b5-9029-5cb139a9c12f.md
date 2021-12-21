@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: 'Interaction Designer/Front-End Developer'
 description: >-
-  We are looking for a Design Researcher and Interaction Designer to join our Learning Resources team in our Partnerships Business Unit. 
+  We are looking for an Interaction Designer to join our Learning Resources team in our Partnerships Business Unit. 
 archived: false
 translationKey: interaction-designer-december-2021
 leverId: ef1dd61a-bceb-42b5-9029-5cb139a9c12f
@@ -14,7 +14,7 @@ leverId: ef1dd61a-bceb-42b5-9029-5cb139a9c12f
 
 The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital services. We’re here to improve people’s lives by changing how the government builds technology. We do this by putting people’s needs and concerns front and centre. Every experience Canadians have with their government should be safe, fast, easy, transparent, and accessible. We are working in the open to help everyone across the government improve service delivery. We need you.
 
-To support this important mission, we are looking for a Design Researcher and Interaction Designer to join our Learning Resources team in our Partnerships Business Unit. 
+To support this important mission, we are looking for an Interaction Designer to join our Learning Resources team in our Partnerships Business Unit. 
 
 ## About the Learning Resources team
 
