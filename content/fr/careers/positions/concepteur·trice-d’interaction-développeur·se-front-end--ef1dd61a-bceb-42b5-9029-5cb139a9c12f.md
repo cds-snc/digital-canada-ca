@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: 'Concepteur·trice d’interaction / développeur·se front-end'
 description: >-
-  Nous sommes à la recherche d’un·e chercheur·se en conception et concepteur·trice d’interaction qui se joindra à l’équipe des ressources d’apprentissage au sein de notre unité opérationnelle des partenariats. 
+  Nous sommes à la recherche d’un·e concepteur·trice d’interaction qui se joindra à l’équipe des ressources d’apprentissage au sein de notre unité opérationnelle des partenariats. 
 
 archived: false
 translationKey: interaction-designer-december-2021
@@ -14,7 +14,7 @@ leverId: ef1dd61a-bceb-42b5-9029-5cb139a9c12f
 
 Le Service numérique canadien (SNC) change la façon dont le gouvernement fédéral conçoit et offre les services numériques. Notre mission est d’améliorer la vie des gens en changeant la façon dont le gouvernement développe la technologie. Pour ce faire, nous plaçons les besoins et les préoccupations des personnes au premier plan. Chaque interaction entre les Canadiens et Canadiennes et le gouvernement devrait être sécuritaire, rapide, facile, transparente et accessible. Nous travaillons ouvertement dans le but d’aider tout le monde au sein du gouvernement à améliorer la prestation de services. Et nous avons besoin de vous.
 
-Pour soutenir cette importante mission, nous sommes à la recherche d’un·e chercheur·se en conception et concepteur·trice d’interaction qui se joindra à l’équipe des ressources d’apprentissage au sein de notre unité opérationnelle des partenariats.
+Pour soutenir cette importante mission, nous sommes à la recherche d’un·e concepteur·trice d’interaction qui se joindra à l’équipe des ressources d’apprentissage au sein de notre unité opérationnelle des partenariats.
 
 ## À propos de l’équipe des ressources d’apprentissage
 
