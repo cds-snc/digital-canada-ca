@@ -3,10 +3,10 @@
   <div class="container topbar" id="site--topbar">
     <div class="row">
       <div class="col-xs-4 col-sm-3">
-        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo" 
+        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo {{.Site.Language.Lang}}" 
            aria-label="{{ i18n "aria-cds-website" }}"></a>
         <!-- mobile screen wordless logo -->
-        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo-mobile"
+        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo-mobile {{.Site.Language.Lang}}"
         aria-label="{{ i18n "aria-cds-website" }}"></a>
       </div>
 
