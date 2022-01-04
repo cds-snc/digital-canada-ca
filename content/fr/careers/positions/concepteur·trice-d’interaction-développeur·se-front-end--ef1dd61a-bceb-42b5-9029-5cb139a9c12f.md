@@ -6,7 +6,7 @@ description: >-
   Nous sommes à la recherche d’un·e concepteur·trice d’interaction qui se joindra à l’équipe des ressources d’apprentissage au sein de notre unité opérationnelle des partenariats. 
 
 archived: true
-translationKey: interaction-designer-december-2021
+translationKey: interaction-designer-december-2021-archived
 leverId: ef1dd61a-bceb-42b5-9029-5cb139a9c12f
 ---
 
