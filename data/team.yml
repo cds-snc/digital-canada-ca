@@ -111,7 +111,7 @@ exec:
       fr: Cheffe de l'expérience client
     imagehash: mithula_naik_baacaf3e0b
     email: Mithula.Naik@tbs-sct.gc.ca
-  - archived: false
+  - archived: true
     name: Paul Joseph
     title:
       en: Head of Internal Operations
