@@ -24,7 +24,7 @@ Nous répondons également à des questions et demandes qui se recoupent, ce qui
 
 En organisant et partageant nos apprentissages de manière transparente, plus délibérée et stratégique, nous offrirons aux ministères les outils qu’ils veulent et dont ils ont besoin pour plaider plus efficacement en faveur du changement et développer les capacités numériques au sein de leurs propres organisations.
 
-Concepteur·trice principal·e d’interaction doté·e de solides compétences en développement front-end [(CS-04)](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#tocxx327633) Les concepteur·trice·s d’interaction déterminent la meilleure façon de laisser les utilisateur·trice·s interagir avec les services, aussi bien du point de vue du flux global que de celui des éléments de conception individuels.
+Concepteur·trice principal·e d’interaction doté·e de solides compétences en développement front-end [(CS-04)](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#tocxx327633) Ce poste est classé comme IT-4, anciennement CS-4. Les concepteur·trice·s d’interaction déterminent la meilleure façon de laisser les utilisateur·trice·s interagir avec les services, aussi bien du point de vue du flux global que de celui des éléments de conception individuels.
 
 Nous cherchons des concepteur·trice·s d’interaction doté·e·s de solides compétences en développement front-end et passionnés par l’accessibilité et la conception d’information.
 
