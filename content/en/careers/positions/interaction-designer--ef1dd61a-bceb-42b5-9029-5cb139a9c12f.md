@@ -25,8 +25,8 @@ We also field questions and inquiries that overlap quite a bit, potentially dupl
 By curating and sharing our learnings in the open more deliberately and strategically, we'll give departments the tools they need and want, to more effectively make the case for change and build digital capacity within their 
 own organizations
 
-Senior Interaction Designer, with strong front-end dev skills [(CS-04)](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#tocxx327633)
-Interaction designers work out the best way to let users interact with services, both in terms of overall flow and at the level of individual design elements.
+Senior Interaction Designer, with strong front-end dev skills [(CS-04)](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#tocxx327633) This role classified as an IT-4, previously 
+CS-4. Interaction designers work out the best way to let users interact with services, both in terms of overall flow and at the level of individual design elements.
 
 We’re looking for experienced Interaction designers with strong front-end development skills – who are passionate about accessibility and information design.
 
