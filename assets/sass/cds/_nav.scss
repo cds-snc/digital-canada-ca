@@ -33,7 +33,6 @@
 ////////////////////////////////////////////////////////////
 
 .cds-logo {
-  background-image: url("../img/cds/cds-lockup-ko-en.svg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -62,13 +61,16 @@
   }
 
   // BILINGUAL SPECIFIC CDS LOGO
-  .fr & {
+  &.en {
+    background-image: url("../img/cds/cds-lockup-ko-en.svg");
+  }
+  &.fr {
     background-image: url("../img/cds/cds-lockup-ko-fr.svg");
   }
 }
 
 .cds-logo-mobile {
-    background-image: url("../img/cds/cds-logo-en-v2.svg");
+    
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -82,7 +84,10 @@
     }
 
   // BILINGUAL SPECIFIC CDS LOGO - MOBILE SCREEN
-  .fr & {
+  &.en {
+    background-image: url("../img/cds/cds-logo-en-v2.svg");
+  }
+  &.fr {
     background-image: url("../img/cds/cds-logo-fr-v2.svg") !important;
   }
 }
@@ -114,7 +119,7 @@
   border: 2px solid white;
   background-color: transparent;
   padding: 1rem 1rem;
-  #search-icon {
+  .search-button-icon {
     color: white;
   }
 }

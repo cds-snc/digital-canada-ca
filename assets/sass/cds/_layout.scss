@@ -14,7 +14,6 @@
   }
 
   .logo {
-    background-image: url("../img/cds/goc--header-logo.svg");
     background-repeat: no-repeat;
     background-size: contain;
     display: block;
@@ -22,7 +21,10 @@
     height : 1.5rem;
 
     // BILINGUAL SPECIFIC CDS LOGO
-    .fr & {
+    &.en {
+      background-image: url("../img/cds/goc--header-logo.svg");
+    }
+    &.fr {
       background-image: url("../img/cds/goc--header-logo-fr.svg");
     }
 

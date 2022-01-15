@@ -9,7 +9,7 @@ about-this-site:
 aria-canada-website:
   other: "Government of Canada"
 aria-cds-website:
-  other: "Accéder à la page d'accueil"
+  other: "Go to the homepage"
 blog:
   other: "Read the blog"
 canada-ca:
@@ -373,4 +373,12 @@ read-our-blog-posts:
 about-partnerships:
   other: " about Partnerships"
 about-tools-and-resources:
-  other: " about Tools and Resources"                        
+  other: " about Tools and Resources"
+partnership-tag:
+  other: "partnership-tag"  
+careers-tag:
+  other: "careers-tag" 
+tools-and-resources-tag:
+  other: "tools-and-resources-tag"
+read-our-blog-tag:
+  other: "read-our-blog-tag"                             

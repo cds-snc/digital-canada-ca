@@ -3,10 +3,10 @@
   <div class="container topbar" id="site--topbar">
     <div class="row">
       <div class="col-xs-4 col-sm-3">
-        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo" 
+        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo {{.Site.Language.Lang}}" 
            aria-label="{{ i18n "aria-cds-website" }}"></a>
         <!-- mobile screen wordless logo -->
-        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo-mobile"
+        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo-mobile {{.Site.Language.Lang}}"
         aria-label="{{ i18n "aria-cds-website" }}"></a>
       </div>
 
@@ -24,11 +24,11 @@
               {{ $title := .Params.title }}
               {{ range $menu := .Site.Menus.main }}
                 <li class="top-nav--link{{ if eq $title .Identifier }} active{{end}}">
-                  <a href="{{ .URL | absLangURL }}">{{ .Name }}</a>
+                  <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
                 </li>
               {{end}}
-              <li class="top-nav--link" >
-                <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i class="fa fa-search" id="search-icon"></i></button>
+              <li class="top-nav--link">
+                <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i class="fa fa-search search-button-icon"></i></button>
               </li>
               
             </ul>
