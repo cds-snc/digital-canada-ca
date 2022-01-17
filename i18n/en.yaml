@@ -216,6 +216,10 @@ our-values-link:
   other: "/our-values/"
 roadmap-link:
   other: "/roadmap-2025/"
+security-notice-link:
+  other: /legal/security-notice
+security-notice:
+  other: "Security Notice"  
 beginning-the-conversation-link:
   other: "/beginning-the-conversation/"
 top-of-page:
