@@ -1,25 +1,17 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
-Contact: mailto:security@cds-snc.ca
+Contact: mailto:security+securite@cds-snc.ca
 Expires: 2023-01-01T04:55:00.000Z
 Preferred-Languages: en,fr
 Canonical: https://digital.canada.ca/.well-known/security.txt
-Policy: https://digital.canada.ca/vulnerability-disclosure-policy
-
+Policy: https://digital.canada.ca/legal/security-notice
+Encryption: https://digital.canada.ca/.well-known/pub.asc
+Hiring: https://digital.canada.ca/careers/
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEE0xxdNPBIX9jexPs34rym0IU/YSYFAmGv/zQACgkQ4rym0IU/
-YSZ6gw/+M2cg/d60+o3XIUHEwtaNkst4oBUFc7OfaXpX4uEA33FPrJjNXW6EetZk
-dKKMyHO4Ccl9r9VE/xpVMgXqVcveclb4W4jhGyMb3PaeRFNW0LSnSb1g+RM7dAZU
-vh8GkcQhoF5xmKm7hWb1sJE6ccoCbER+9HXLc+KerEZ26FYgvptNs6M1yrDHe6GL
-LgZuIxNqFwo8AYEhYmCW17wJP3Ibq3PHuYAchqw8VjDP6anaVIasjXJcNLtdfn9P
-ikFNdMjbXfsza+ha4vUlyW1/XrKcGHgQiZK3laA0y+BAK/Ys1rq1+Xx+qGpCinxi
-OgI7t1TqBeZiIFBIi/CiNy2bquFMY6xJG1pipyutY/Z4XSe4EIZKlfCIh7R1E2d3
-5TEjkG4jsZRxc8O8RrTFE2fGUWgBeNRWexddNeRwUwcnT+o4iqxRfsL7vOu8ZQfw
-bPZbZ+16TC3KyVD6BiPzW/OBW46diuNkqVbQuZd6U1Fk71mcXzCn1IYJGoj6xocy
-4MgzPhZ/ECYoscUNYRI+69H+XRm6zh448tMHoj+X2JAX73pxqedKRUAoaljgAQXW
-cvWREzvALe2sstbBIvh94hu+SyttWfmz9QtVm0fDgL94zPaooCDy8jszoetp7ZTH
-6FRF1RxWVzx9ur5czNZLKxpGZchH8unw4PY4qQOJqexFR65TaTg=
-=a7tw
+iHUEARYKAB0WIQTQEkFfgTqNT7WpE5wywfM+1DsrvwUCYebbzwAKCRAywfM+1Dsr
+v/D8AQD1E2JiaWJA3P/thldGLeddUTHIcZuVSeRNYB3QvzY52gD8DVTWCACIbyks
+wWyvehnI7rkQJEWmjfUcuv2iSIM0Pwg=
+=xJ9l
 -----END PGP SIGNATURE-----
