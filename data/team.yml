@@ -853,6 +853,14 @@ team:
     email: victoria.chan@tbs-sct.gc.ca
     linkedin: victoriakaychan
   - archived: false
+    name: Wanpeng Yang
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_wanpeng_yang_da38652443
+    email: wanpeng.yang@tbs-sct.gc.ca
+    github: /wanpeng-cds
+  - archived: false
     name: Yael Berger
     title:
       en: Product Management
