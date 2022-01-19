@@ -10,8 +10,43 @@
         aria-label="{{ i18n "aria-cds-website" }}"></a>
       </div>
 
+      <!-- <div id="js-mobileNav">
+        <div id="js-mobileNav--closeContainer">
+          <button id="js-mobileNav--button">
+            <span class="text">{{ i18n "close" }}</span>
+            <span class="fas fa-times close-icon"></span>
+          </button>
+        </div>
+
       <div class="nav-container">
-        <div id="js-mobileNav">
+        <div class="navbar">
+          <div class="dropdown">
+            <button class="dropbtn" onclick="showDropdown()">How We Can Help
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="content" id="dropdownContent">
+              <a href="">Coaching and Advice</a>
+              <a href="">Product Suite</a>
+              <a href="">Guides</a>
+            </div>
+          </div>
+          <div>
+            <a href="">Careers</a>
+            <a href="">Blog</a>
+            <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i class="fa fa-search search-button-icon"></i></button>
+          </div>
+        </div>
+      </div>
+
+      <button class="main-nav-button" id="js-mainNavButton">
+        <span class="main-nav-button--text">Menu</span>
+        <span class="main-nav-button--button">
+        <span class="fas fa-bars"></span>
+      </span>    
+    </button> -->
+
+      <div class="nav-container">
+        <div id="js-mobileNav" class="">
           <div id="js-mobileNav--closeContainer">
             <button id="js-mobileNav--button">
               <span class="text">{{ i18n "close" }}</span>
@@ -19,8 +54,87 @@
             </button>
           </div>
 
-          <div class="mobile-lang">{{ partial "langSwitch.html" . }}</div>
-            <ul class="top-nav">
+          <div class="mobile-lang" >{{ partial "langSwitch.html" . }}</div>
+          <!-- <div class="navbar">
+            <div class="dropdown">
+              <ul>
+                <li>
+                  <button class="dropbtn" onclick="showDropdown()">How We Can Help
+                    <i class="fa fa-caret-down"></i>
+                  </button>
+                </li>
+              </ul>
+
+              <div class="content" id="dropdownContent">
+                <ul>
+                  <li>
+                    <a href="" style="color: white;">Coaching and Advice</a>
+                  </li>
+                  <li>
+                    <a href="">Product Suite</a>
+                  </li>
+                  <li>
+                    <a href="">Guides</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <ul>
+              <li>
+                <a href="">Careers</a>
+              </li>
+              <li>
+                <a href="">Blog</a>
+              </li>
+              <li>
+                <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i class="fa fa-search search-button-icon"></i></button>
+              </li>
+            </ul>
+            <div>
+
+
+            </div>
+          </div> -->
+          <div class="navbar">
+            <div class="dropdown">
+              <ul class="top-nav">
+                <li class="top-nav--link">
+                  <button class="dropbtn" onclick="showDropdown()">How We Can Help
+                    <i class="fa fa-caret-down"></i>
+                  </button>
+                </li>
+              </ul>
+              <div class="content" id="dropdownContent">
+                <ul class="top-nav">
+                  <li >
+                    <a href="/partnerships/">Coaching and Advice</a>
+                  </li>
+                  <li >
+                    <a href="/tools-and-resources/">Product Suite</a>
+                  </li>
+                  <li >
+                    <a href="">Guides</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div>
+              <ul class="top-nav">
+                <li class="top-nav--link">
+                  <a href="">Careers</a>
+                </li>
+                <li class="top-nav--link">
+                  <a href="">Blog</a>
+                </li>
+                <li class="top-nav--link">
+                  <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i class="fa fa-search search-button-icon"></i></button>
+                </li>
+              </ul>
+            </div>
+
+
+          </div>
+            <!-- <ul class="top-nav">
               {{ $title := .Params.title }}
               {{ range $menu := .Site.Menus.main }}
                 <li class="top-nav--link{{ if eq $title .Identifier }} active{{end}}">
@@ -31,8 +145,8 @@
                 <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i class="fa fa-search search-button-icon"></i></button>
               </li>
               
-            </ul>
-          </div>
+            </ul> -->
+        </div>
           <button class="main-nav-button" id="js-mainNavButton">
             <span class="main-nav-button--text">Menu</span>
             <span class="main-nav-button--button">
@@ -43,3 +157,19 @@
     </div>
   </div>
 </nav>
+
+<script>
+  function showDropdown() {
+    document.getElementById("dropdownContent").classList.toggle("show")
+  }
+
+
+  window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.getElementById("dropdownContent");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
+}
+</script>

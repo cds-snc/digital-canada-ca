@@ -141,9 +141,9 @@
     position: relative;
 
     // Hide 'Home' Link for tablet and above
-    &:first-child {
-      display: none;
-    }
+    // &:first-child {
+    //   display: none;
+    // }
   }
 
   @include desktop {
@@ -217,8 +217,8 @@
 #js-mobileNav {
   display: none;
   position: relative;
-  -webkit-backface-visibility: none;
-  -webkit-transform-style: preserve-3d;
+  // -webkit-backface-visibility: none;
+  // -webkit-transform-style: preserve-3d;
 
   // below used to be @include tablet
   @include menu_break {
@@ -229,6 +229,7 @@
     display: block;
     position: fixed;
     background: rgba(0, 0, 0, 0.95);
+    // background-color: blue;
     height: 100%;
     width: 100%;
     z-index: 10;
@@ -492,4 +493,55 @@
   100% {
     top: 0;
   }
+}
+
+.navbar {
+  display: flex;
+  // @include mobile_only {
+  //   display: block;
+  //   // background-color: darkgreen;
+  // }
+
+  // li {
+  //   display: inline;
+  // }
+
+  a { 
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .dropdown {
+
+    button {
+      cursor: pointer;
+      font-size: 16px;  
+      border: none;
+      outline: none;
+      color: white;
+      padding: 14px 16px;
+      background-color: inherit;
+      margin: 0;
+    }
+  }
+
+  .content {
+    display: none;
+    position: absolute;
+    background-color: #000;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+
+    a {
+      display: block;
+      text-align: left;
+    }
+  }
+
+  .show {
+    display: block;
+  }
+
 }
