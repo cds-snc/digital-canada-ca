@@ -5,13 +5,13 @@ title: 'Senior Policy Advisor'
 description: >-
   The policy team are CDS’s bureaucracy hackers and government navigators, enabling digital delivery with our partners and beyond. 
 archived: false
-translationKey: Senior-Policy-Advisor
+translationKey: Senior-Policy-Advisor-winter2022
 leverId: 289adf15-22f1-44fb-885c-3b2ea720183b
 ---
 
 The Policy Team are CDS’s bureaucracy hackers and government navigators, enabling digital delivery with our partners and beyond. Our analysts form part of CDS’s multidisciplinary product teams, working alongside product managers, engineers, designers, and design researchers. We work through legislative, regulatory, and policy issues in product development. We dig into processes to find creative solutions. We build tools that turn one-time fixes into replicable solutions. We drive lessons from delivery into policy and standards-setting, advocating for changes that make it easier to do the right thing. Our goal is to scale modern service design and development practices across government — to produce better outcomes for the public — by changing the relationship between policy and delivery. 
 
-This role is classified as **EC-06**  in the [Economics and Social Science Services group](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=4) in the Treasury Board Secretariat of the Government of Canada.
+This role is classified as **EC-06/07**  in the [Economics and Social Science Services group](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=4) in the Treasury Board Secretariat of the Government of Canada.
  
 In this role, you’ll have the opportunity to work with colleagues with diverse skills and experience. You’ll flex your problem-solving abilities on issues like privacy, user research, and cloud procurement. You’ll help architect CDS’s engagements with Cabinet, ministers, and senior officials.
 
