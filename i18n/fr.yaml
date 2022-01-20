@@ -389,4 +389,24 @@ careers-tag:
 tools-and-resources-tag:
   other: "outils-tag"
 read-our-blog-tag:
-  other: "blogue-tag"      
+  other: "blogue-tag"
+product-suite-description:
+  other: "Building government solutions so you don’t have to."
+product-suite-intro:
+  other: "We provide tools that public servants can use to modernize their service delivery, cut down on procurement costs, and deliver a great user experience. Think of these tools as small interconnected services that you can plug right into your current systems." 
+product-suite-checklist-title:
+  other: "All of our products are:"
+product-suite-checklist-item-one:
+  other: "Adapted for Government of Canada use"
+product-suite-checklist-item-two:
+  other: "Easy for departments to integrate"
+product-suite-checklist-item-three:
+  other: "Supported by our in-house teams"
+product-suite-checklist-item-four:
+  other: "Secure"
+product-suite-checklist-item-five:
+  other: "Accessible"
+product-suite-checklist-item-six:
+  other: "Bilingual"
+product-suite-checklist-item-seven:
+  other: "Free to use"        
