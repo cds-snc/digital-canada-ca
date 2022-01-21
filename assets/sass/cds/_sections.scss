@@ -1657,3 +1657,20 @@ article.post {
     padding-bottom: 1rem;
   }
 }
+
+
+.product-resources-cards {
+  background-color: $white;
+  margin-bottom: 2em;
+  box-shadow: 5px 8px 5px $medium-grey;
+  height: 100%;
+
+  .positioned {
+    @include desktop {
+      position: absolute; 
+      bottom: 0; 
+      right: 0;
+    }
+  }
+  // padding: 10px 10px 20px 10px;
+}

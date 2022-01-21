@@ -192,6 +192,30 @@
     }
   }
 
+  &--resources-blue {
+    border-color: $alpha-color;
+    justify-content: flex-end;
+
+    .cta__link a {
+      background: linear-gradient(
+        180deg,
+        $alpha-color 0%,
+        $alpha-color 30%,
+        $alpha-color 60%,
+        $alpha-color 100%
+      );
+      &:hover {
+        background: linear-gradient(
+          180deg,
+          darken($alpha-color, 15) 0%,
+          darken($alpha-color, 10) 30%,
+          darken($alpha-color, 10) 60%,
+          $alpha-color 100%
+        );
+      }
+    }
+  }
+
   &--dark-career-brown{
     border-color: $dark-career-brown;
 
