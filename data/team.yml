@@ -127,6 +127,13 @@ exec:
     imagehash: sage_cram_b9d6d4ed1f
     email: sage.cram@tbs-sct.gc.ca
   - archived: false
+    name: Stephanie Gauthier
+    title:
+      en: Issues Manager
+      fr: Gestionnaire des enjeux
+    imagehash: stephanie_gauthier_810f99aeb6
+    email: Stephanie.Gauthier@tbs-sct.gc.ca
+  - archived: false
     name: Wendy Luciani
     title:
       en: Executive Director of Partnerships
@@ -795,13 +802,6 @@ team:
     imagehash: small_sharlychan_9acdadbbc8
     email: sharly.chan@tbs-sct.gc.ca
     twitter: SharlyChan
-  - archived: false
-    name: Stephanie Gauthier
-    title:
-      en: Talent
-      fr: Talent
-    imagehash: stephanie_gauthier_810f99aeb6
-    email: Stephanie.Gauthier@tbs-sct.gc.ca
   - archived: false
     name: Stephen McMurtry
     title:
