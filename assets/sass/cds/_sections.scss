@@ -1604,27 +1604,56 @@ article.post {
   }
 }
 
-.bg-yellow-full {
+.bg-full {
   padding-top: 5rem;
   padding-bottom: 2.5rem;
-  background-color: $primary-color;
 
   p {
     font-weight: 900;
-    color: $black;
   }
 
   a {
     padding: 10px 30px;
-    border: 2.5px solid $black;
+    border: 2.5px solid;
     text-decoration: none;
-    color: $black;
     font-weight: 600;
     transition: all 0.3s ease-in-out;
 
-    &:hover {
-      background: $black;
+  }
+
+  &--yellow {
+    background-color: $primary-color;
+
+    p {
+      color: $black;
+    }
+
+    a {
+      border-color: $black;
+      color: $black;
+
+      &:hover {
+        background: $black;
+        color: $white;
+      }
+    }
+  }
+
+  &--blue {
+    background-color: $alpha-color;
+
+    p {
       color: $white;
+    }
+
+    a {
+      border-color: $white;
+      color: $white;
+
+      &:hover {
+        background-color: $white;
+        color: $black;
+      }
     }
   }
 }
