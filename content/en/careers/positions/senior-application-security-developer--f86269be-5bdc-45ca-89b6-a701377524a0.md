@@ -15,6 +15,8 @@ We believe every experience Canadians have with their government should meet or 
 
 This position reports to the Lead Security Developer of the Infrastructure, Security and Technical Support (ISTS) team. We work in small multidisciplinary agile teams utilizing a modern, forward-thinking approach to security. We focus on self-service tooling, proactive security monitoring and providing the education required to solve cross-cutting cyber security challenges across CDS. Senior Application Security Developers are classified as IT-04 (previously CS-04) in the Computer Systems group.
 
+
+
 **You’ll need to accomplish the following things:**
 
 As a Senior Application Security Developer you’ll play a leading role in driving the direction of our security engineering capability and shape the tools that we create, ensuring they’re reliable, supportable, maintainable and aligned to industry best standards.
