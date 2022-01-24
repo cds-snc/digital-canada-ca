@@ -20,6 +20,7 @@ Ce poste relèvera du développeur en chef de la sécurité de l’équipe de l�
 
 
 
+
 **Les responsabilités du poste comprennent :**
 
 À titre de développeur principal ou de développeuse principale de la sécurité des applications, vous jouerez un rôle de premier plan dans l’orientation de notre capacité d’ingénierie de la sécurité, en veillant à ce que les outils que nous créons soient fiables, viables, exploitables et conformes aux meilleures normes de l’industrie.
