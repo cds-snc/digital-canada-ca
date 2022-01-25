@@ -10,41 +10,6 @@
         aria-label="{{ i18n "aria-cds-website" }}"></a>
       </div>
 
-      <!-- <div id="js-mobileNav">
-        <div id="js-mobileNav--closeContainer">
-          <button id="js-mobileNav--button">
-            <span class="text">{{ i18n "close" }}</span>
-            <span class="fas fa-times close-icon"></span>
-          </button>
-        </div>
-
-      <div class="nav-container">
-        <div class="navbar">
-          <div class="dropdown">
-            <button class="dropbtn" onclick="showDropdown()">How We Can Help
-              <i class="fa fa-caret-down"></i>
-            </button>
-            <div class="content" id="dropdownContent">
-              <a href="">Coaching and Advice</a>
-              <a href="">Product Suite</a>
-              <a href="">Guides</a>
-            </div>
-          </div>
-          <div>
-            <a href="">Careers</a>
-            <a href="">Blog</a>
-            <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i class="fa fa-search search-button-icon"></i></button>
-          </div>
-        </div>
-      </div>
-
-      <button class="main-nav-button" id="js-mainNavButton">
-        <span class="main-nav-button--text">Menu</span>
-        <span class="main-nav-button--button">
-        <span class="fas fa-bars"></span>
-      </span>    
-    </button> -->
-
       <div class="nav-container">
         <div id="js-mobileNav" class="">
           <div id="js-mobileNav--closeContainer">
@@ -56,7 +21,7 @@
 
           <div class="mobile-lang" >{{ partial "langSwitch.html" . }}</div>
           <div class="navbar">
-            <div class="dropdown">
+            <!-- <div>
               <ul class="top-nav">
                 <li class="top-nav--link">
                   <button class="dropbtn" onclick="showDropdown()">How We Can Help
@@ -77,14 +42,33 @@
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> -->
             <div>
+
               <ul class="top-nav">
                 <li class="top-nav--link">
-                  <a href="">Careers</a>
+                  <button class="dropbtn" onclick="showDropdown()">How We Can Help
+                    <i class="fa fa-caret-down"></i>
+                  </button>
+                  <div class="content" id="dropdownContent">
+                    <ul class="top-nav">
+                      <li >
+                        <a href="/coaching-and-advice/">Coaching and Advice</a>
+                      </li>
+                      <li >
+                        <a href="/product-suite/">Product Suite</a>
+                      </li>
+                      <li >
+                        <a href="/guides/">Guides</a>
+                      </li>
+                    </ul>
+                  </div>
                 </li>
                 <li class="top-nav--link">
-                  <a href="">Blog</a>
+                  <a href="/careers/">Careers</a>
+                </li>
+                <li class="top-nav--link">
+                  <a href="/blog/">Blog</a>
                 </li>
                 <li class="top-nav--link">
                   <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i class="fa fa-search search-button-icon"></i></button>

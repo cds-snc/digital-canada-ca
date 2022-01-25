@@ -512,18 +512,31 @@
     padding: 14px 16px;
     text-decoration: none;
   }
-  .dropdown {
+  // .dropdown {
 
-    button {
-      cursor: pointer;
-      font-size: 16px;  
-      border: none;
-      outline: none;
-      color: white;
-      padding: 14px 16px;
-      background-color: inherit;
-      margin: 0;
-    }
+  //   button {
+  //     cursor: pointer;
+  //     font-size: 17px;  
+  //     border: none;
+  //     outline: none;
+  //     color: white;
+  //     // font-family: "SourceSansPro", sans-serif !important;
+  //     padding-top: 13px;
+  //     background-color: inherit;
+  //     margin: 0;
+  //   }
+  // }
+
+  .dropbtn {
+    cursor: pointer;
+    font-size: 17px;  
+    border: none;
+    outline: none;
+    color: white;
+    // font-family: "SourceSansPro", sans-serif !important;
+    padding-top: 13px;
+    background-color: inherit;
+    margin: 0;
   }
 
   .content {
