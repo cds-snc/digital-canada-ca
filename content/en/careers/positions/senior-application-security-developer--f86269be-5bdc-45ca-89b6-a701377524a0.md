@@ -13,7 +13,7 @@ The Canadian Digital Service (CDS) is tasked with changing how the federal gover
 
 We believe every experience Canadians have with their government should meet or exceed their reasonable modern expectations that digital services be safe, fast, easy, transparent, and accessible. Working in the open, we’re building capacity across the government for better service delivery. And we need you. We’re hiring a Senior Application Security Developer. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
 
-This position reports to the Lead Security Developer of the Infrastructure, Security and Technical Support (ISTS) team. We work in small multidisciplinary agile teams utilizing a modern, forward-thinking approach to security. We focus on self-service tooling, proactive security monitoring and providing the education required to solve cross-cutting cyber security challenges across CDS. Senior Application Security Developers are classified as IT-04 (previously CS-04) in the Computer Systems group.
+This position reports to the Lead Security Developer of the Infrastructure, Security and Technical Support (ISTS) team. We work in small multidisciplinary agile teams utilizing a modern, forward-thinking approach to security. We focus on self-service tooling, proactive security monitoring and providing the education required to solve cross-cutting cyber security challenges across CDS. Senior Application Security Developers are classified as [IT-04 (previously CS-04](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#tocxx327633) in the Computer Systems group.
 
 
 
