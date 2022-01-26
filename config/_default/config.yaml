@@ -18,26 +18,14 @@ languages:
     weight: 1
     menu:
       main:
-        - identifier: home
-          name: Home
-          url: /
-          weight: 1
-        - identifier: partnerships
-          name: Partnerships
-          url: /partnerships/
-          weight: 2
-        - identifier: Tools and resources
-          name: Tools and resources
-          url: /tools-and-resources/
-          weight: 3
         - identifier: careers
           name: Careers
           url: /careers/
-          weight: 4
+          weight: 1
         - identifier: blog
           name: Blog
           url: /blog/
-          weight: 5
+          weight: 2
   fr:
     baseUrl: https://numerique.canada.ca/
     contentDir: content/fr
@@ -53,26 +41,14 @@ languages:
       work-with-us: /:title
     menu:
       main:
-        - identifier: accueil
-          name: Accueil
-          url: /
-          weight: 1
-        - identifier: partenariats
-          name: Partenariats
-          url: /partenariats/
-          weight: 2
-        - identifier: outils
-          name: Outils et ressources
-          url: /outils-et-ressources/
-          weight: 3
         - identifier: carrieres
           name: Carrières
           url: /carrieres/
-          weight: 4
+          weight: 1
         - identifier: blogue
           name: Blogue
           url: /blogue/
-          weight: 5
+          weight: 2
 outputs:
   home : [HTML, RSS, JSON]
   page : HTML         

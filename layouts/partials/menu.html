@@ -1,13 +1,11 @@
-<nav role="navigation" id="wb-sm" data-trgt="mb-pnl"
-     class="cds-menu" typeof="SiteNavigationElement" aria-label="{{ i18n "menu"}}">
+<nav role="navigation" id="wb-sm" data-trgt="mb-pnl" class="cds-menu" typeof="SiteNavigationElement"
+  aria-label="{{ i18n " menu"}}">
   <div class="container topbar" id="site--topbar">
     <div class="row">
       <div class="col-xs-4 col-sm-3">
-        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo {{.Site.Language.Lang}}" 
-           aria-label="{{ i18n "aria-cds-website" }}"></a>
+        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo {{.Site.Language.Lang}}" aria-label="{{ i18n "aria-cds-website" }}"></a>
         <!-- mobile screen wordless logo -->
-        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo-mobile {{.Site.Language.Lang}}"
-        aria-label="{{ i18n "aria-cds-website" }}"></a>
+        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo-mobile {{.Site.Language.Lang}}" aria-label="{{ i18n "aria-cds-website" }}"></a>
       </div>
 
       <div class="nav-container">
@@ -19,66 +17,53 @@
             </button>
           </div>
 
-          <div class="mobile-lang" >{{ partial "langSwitch.html" . }}</div>
+          <div class="mobile-lang">{{ partial "langSwitch.html" . }}</div>
           <div class="navbar">
-            <!-- <div>
-              <ul class="top-nav">
-                <li class="top-nav--link">
-                  <button class="dropbtn" onclick="showDropdown()">How We Can Help
-                    <i class="fa fa-caret-down"></i>
-                  </button>
-                </li>
-              </ul>
-              <div class="content" id="dropdownContent">
-                <ul class="top-nav">
-                  <li >
-                    <a href="/coaching-and-advice/">Coaching and Advice</a>
-                  </li>
-                  <li >
-                    <a href="/product-suite/">Product Suite</a>
-                  </li>
-                  <li >
-                    <a href="/guides/">Guides</a>
-                  </li>
-                </ul>
-              </div>
-            </div> -->
-            <div>
 
-              <ul class="top-nav">
-                <li class="top-nav--link">
-                  <button class="dropbtn" onclick="showDropdown()">How We Can Help
-                    <i class="fa fa-caret-down"></i>
-                  </button>
-                  <div class="content" id="dropdownContent">
-                    <ul class="top-nav">
-                      <li >
-                        <a href="/coaching-and-advice/">Coaching and Advice</a>
-                      </li>
-                      <li >
-                        <a href="/product-suite/">Product Suite</a>
-                      </li>
-                      <li >
-                        <a href="/guides/">Guides</a>
-                      </li>
-                    </ul>
-                  </div>
+            <ul class="top-nav">
+              <li style="display: inline-block; position: relative;">
+                <button class="dropbtn" onclick="showDropdown()">How We Can Help
+                  <i class="fa fa-caret-down"></i>
+                </button>
+              </li>
+              <!-- add top-nav--link to these lis when in mobile, carees li, add margintop -->
+              <ul class="top-nav content" id="dropdownContent" >
+                <li class="mobile-layout">
+                  <a href="/coaching-and-advice/">Coaching and Advice</a>
                 </li>
-                <li class="top-nav--link">
-                  <a href="/careers/">Careers</a>
+                <li class="mobile-layout">
+                  <a href="/product-suite/">Product Suite</a>
                 </li>
-                <li class="top-nav--link">
-                  <a href="/blog/">Blog</a>
-                </li>
-                <li class="top-nav--link">
-                  <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i class="fa fa-search search-button-icon"></i></button>
+                <li class="mobile-layout">
+                  <a href="/guides/">Guides</a>
                 </li>
               </ul>
-            </div>
+
+              <!-- <li class="top-nav--link mobile-margin" >
+                <a href="/careers/">Careers</a>
+              </li>
+              <li class="top-nav--link" >
+                <a href="/blog/">Blog</a>
+              </li>
+              <li class="top-nav--link" >
+                <button type="button" class="search-button" id="open" aria-label="{{ i18n " search" }}"><i
+                    class="fa fa-search search-button-icon"></i></button>
+              </li> -->
+              {{ $title := .Params.title }}
+              {{ range $menu := .Site.Menus.main }}
+                <li class="top-nav--link{{ if eq $title .Identifier }} active{{end}}">
+                  <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
+                </li>
+              {{end}}
+              <li class="top-nav--link">
+                <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i class="fa fa-search search-button-icon"></i></button>
+              </li>
+            </ul>
+
 
 
           </div>
-            <!-- <ul class="top-nav">
+          <!-- <ul class="top-nav">
               {{ $title := .Params.title }}
               {{ range $menu := .Site.Menus.main }}
                 <li class="top-nav--link{{ if eq $title .Identifier }} active{{end}}">
@@ -91,11 +76,11 @@
               
             </ul> -->
         </div>
-          <button class="main-nav-button" id="js-mainNavButton">
-            <span class="main-nav-button--text">Menu</span>
-            <span class="main-nav-button--button">
+        <button class="main-nav-button" id="js-mainNavButton">
+          <span class="main-nav-button--text">Menu</span>
+          <span class="main-nav-button--button">
             <span class="fas fa-bars"></span>
-          </span>    
+          </span>
         </button>
       </div>
     </div>
@@ -105,15 +90,16 @@
 <script>
   function showDropdown() {
     document.getElementById("dropdownContent").classList.toggle("show")
+    
   }
 
 
-  window.onclick = function(e) {
-  if (!e.target.matches('.dropbtn')) {
-  var myDropdown = document.getElementById("dropdownContent");
-    if (myDropdown.classList.contains('show')) {
-      myDropdown.classList.remove('show');
+  window.onclick = function (e) {
+    if (!e.target.matches('.dropbtn')) {
+      var myDropdown = document.getElementById("dropdownContent");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
     }
   }
-}
 </script>
