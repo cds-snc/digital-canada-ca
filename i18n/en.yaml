@@ -417,4 +417,23 @@ coaching-and-advice-title:
 coaching-and-advice-subtitle:
   other: "If you need feedback or support to improve your service."
 coaching-and-advice-description:
-  other: "Tell us about your service delivery challenges, and we’ll provide tailored help based on past experiences."  
+  other: "Tell us about your service delivery challenges, and we’ll provide tailored help based on past experiences."
+product-suite-title:
+  other: "Product suite"
+product-suite-subtitle:
+  other: "If you need a specific technical solution to make your service more efficient."
+product-suite-description:
+  other: "Integrate our ready-to-use tools into your existing systems."
+guides-title:
+  other: "Guides"
+guides-subtitle:
+  other: "If you want to learn more about user-centred service delivery."
+guides-description:
+  other: "Read our digital government guides and resources that we’ve created based on our past work."    
+coaching-and-advice-button-text:
+  other: "Get tailored help"
+product-suite-button-text:
+  other: "Use our products"
+guides-button-text:
+  other: "Read our guides"    
+  

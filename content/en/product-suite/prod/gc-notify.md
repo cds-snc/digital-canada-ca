@@ -1,5 +1,5 @@
 ---
-title: 'Send automated emails and text notifications '
+title: 'Send automated emails and text notifications'
 subtitle: 'GC Notify'
 translationKey: gc-notify
 description: >-
@@ -9,3 +9,4 @@ buttonText: 'Visit the GC Notify Website'
 buttonAria: 'Contact us to learn more about GC Forms.'
 url: ''    
 ---
+

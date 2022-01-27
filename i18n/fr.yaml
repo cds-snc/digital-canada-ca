@@ -391,34 +391,52 @@ tools-and-resources-tag:
 read-our-blog-tag:
   other: "blogue-tag"
 product-suite-description:
-  other: "Building government solutions so you don’t have to."
+  other: "Nous construisons des solutions gouvernementales pour vous faciliter la tâche."
 product-suite-intro:
-  other: "We provide tools that public servants can use to modernize their service delivery, cut down on procurement costs, and deliver a great user experience. Think of these tools as small interconnected services that you can plug right into your current systems." 
+  other: "Nous fournissons des outils qui permettent aux fonctionnaires de moderniser la prestation de leurs services, de réduire les coûts liés à l’approvisionnement et d’offrir une excellente expérience pour les utilisateurs. Imaginez une série de petits services interreliés qui s’intègrent directement à vos systèmes actuels. " 
 product-suite-checklist-title:
-  other: "All of our products are:"
+  other: "Tous nos produits sont :"
 product-suite-checklist-item-one:
-  other: "Adapted for Government of Canada use"
+  other: "Adaptés aux besoins du gouvernement du Canada"
 product-suite-checklist-item-two:
-  other: "Easy for departments to integrate"
+  other: "Faciles à intégrer pour les ministères"
 product-suite-checklist-item-three:
-  other: "Supported by our in-house teams"
+  other: "Appuyés par nos équipes de soutien internes"
 product-suite-checklist-item-four:
-  other: "Secure"
+  other: "Sécurisés"
 product-suite-checklist-item-five:
-  other: "Accessible"
+  other: "Accessibles"
 product-suite-checklist-item-six:
-  other: "Bilingual"
+  other: "Bilingues"
 product-suite-checklist-item-seven:
-  other: "Free to use"
+  other: "Offerts gratuitement"
 guides-intro:
-  other: "Grounded in our work, we’ve created guides and curated reading materials to help federal public servants improve how they deliver services. "
+  other: "Ces guides, fondés sur nos diverses expériences, rassemblent conseils et lectures qui visent à aider les fonctionnaires fédéraux dans la prestation de leurs services. "
 guides-help:
-  other: "Didn't find what you're looking for?"
+  other: "Vous ne trouvez pas ce que vous cherchez?"
 guides-contact-us:
-  other: "Contact the guides and learning resources team."  
+  other: "Communiquer avec l’équipe des guides et des ressources d’apprentissage."  
 coaching-and-advice-title:
-  other: "Coaching and Advice"  
+  other: "Encadrement et conseil"  
 coaching-and-advice-subtitle:
-  other: "If you need feedback or support to improve your service."
+  other: "Lorsque vous avez besoin de conseils ou de soutien pour améliorer un service."
 coaching-and-advice-description:
-  other: "Tell us about your service delivery challenges, and we’ll provide tailored help based on past experiences."             
+  other: "Parlez-nous de vos défis en matière de prestation de services et nous vous conseillerons sur la base de nos expériences."
+product-suite-title:
+  other: "Suite de produits"
+product-suite-subtitle:
+  other: "Lorsque vous recherchez une solution technique précise qui améliorera votre service."
+product-suite-description:
+  other: "Intégrez nos outils prêts à utiliser dans vos systèmes actuels."
+guides-title:
+  other: "Guides"
+guides-subtitle:
+  other: "Pour en savoir plus sur la prestation de services axés sur l’utilisateur."
+guides-description:
+  other: "Consultez nos guides et nos ressources sur le gouvernement numérique fondés sur l’expérience de nos équipes."
+coaching-and-advice-button-text:
+  other: "Obtenez de l’aide personnalisée"
+product-suite-button-text:
+  other: "Utilisez nos produits"
+guides-button-text:
+  other: "Consultez nos guides"                   
