@@ -22,7 +22,7 @@
       </div>
       {{$products := where .Site.Pages ".File.Dir" "==" "product-suite/prod/"}}
       <div class='row equal'>
-        {{ range $elem_index, $elem_val := $products }}
+        {{ range $elem_index, $elem_val := $products.ByWeight }}
         {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
       </div>
 

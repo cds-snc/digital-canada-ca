@@ -155,8 +155,18 @@
         width: 100%;
         border-width: 1px;
       }
-    } 
+    }
+
   }
+
+  .underline {
+    @include tablet {
+      border-bottom: $primary-color 4px solid;
+    }
+    
+  }
+
+
 
   .dropdown {
     position: relative;

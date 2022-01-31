@@ -20,16 +20,18 @@
           <div class="mobile-lang">{{ partial "langSwitch.html" . }}</div>
           <div class="menu-items">
             <div class="dropdown">
-              <button>How We Can Help <i class="fa fa-caret-down"></i></button>
+              <button>{{ i18n "how-we-can-help"}} <i class="fa fa-caret-down"></i></button>
                 
                 <div class="dropdown-content">
-                  <a href="/coaching-and-advice/" class="mobile-spaced">Coaching and Advice</a>
-                  <a href="/product-suite/" class="mobile-spaced">Product Suite</a>
-                  <a href="/guides/" class="mobile-spaced">Guides</a>
+                  <a href="/coaching-and-advice/" class="">{{ i18n "coaching-and-advice-title" }}</a>
+                  <a href="/product-suite/" class="">{{ i18n "product-suite-title" }}</a>
+                  <a href="/guides/" class="">{{ i18n "guides-title" }}</a>
                 </div>
             </div>
-            <a href="" class="mobile-spaced">Career</a>
-            <a href="" class="mobile-spaced">Blog</a>
+            {{ $title := .Params.title }}
+            {{ range $menu := .Site.Menus.main }}
+            <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag" class="{{ if eq $title .Identifier }} underline{{end}}">{{ .Name }}</a>
+            {{ end }}
             <button type="button" class="search-button" id="open" aria-label="{{ i18n " search" }}"><i
               class="fa fa-search search-button-icon"></i></button>
           </div>
@@ -47,78 +49,3 @@
   </div>
 
 </nav>
-
-<script>
-  function showDropdown() {
-    document.getElementById("dropdownContent").classList.toggle("show")
-
-  }
-
-
-  window.onclick = function (e) {
-    if (!e.target.matches('.dropbtn')) {
-      var myDropdown = document.getElementById("dropdownContent");
-      if (myDropdown.classList.contains('show')) {
-        myDropdown.classList.remove('show');
-      }
-    }
-  }
-</script>
-
-<!-- <div class="navbar">
-
-  <ul class="top-nav">
-    <li style="display: inline-block; position: relative;">
-      <button class="dropbtn" onclick="showDropdown()">How We Can Help
-        <i class="fa fa-caret-down"></i>
-      </button>
-    </li>
-    <ul class="top-nav content" id="dropdownContent">
-      <li class="mobile-layout">
-        <a href="/coaching-and-advice/">Coaching and Advice</a>
-      </li>
-      <li class="mobile-layout">
-        <a href="/product-suite/">Product Suite</a>
-      </li>
-      <li class="mobile-layout">
-        <a href="/guides/">Guides</a>
-      </li>
-    </ul>
-
-    <li class="top-nav--link mobile-margin" >
-        <a href="/careers/">Careers</a>
-      </li>
-      <li class="top-nav--link" >
-        <a href="/blog/">Blog</a>
-      </li>
-      <li class="top-nav--link" >
-        <button type="button" class="search-button" id="open" aria-label="{{ i18n " search" }}"><i
-            class="fa fa-search search-button-icon"></i></button>
-      </li>
-    {{ $title := .Params.title }}
-    {{ range $menu := .Site.Menus.main }}
-    <li class="top-nav--link{{ if eq $title .Identifier }} active{{end}}">
-      <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
-    </li>
-    {{end}}
-    <li class="top-nav--link">
-      <button type="button" class="search-button" id="open" aria-label="{{ i18n " search" }}"><i
-          class="fa fa-search search-button-icon"></i></button>
-    </li>
-  </ul>
-
-
-
-</div>
-<ul class="top-nav">
-      {{ $title := .Params.title }}
-      {{ range $menu := .Site.Menus.main }}
-        <li class="top-nav--link{{ if eq $title .Identifier }} active{{end}}">
-          <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
-        </li>
-      {{end}}
-      <li class="top-nav--link">
-        <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i class="fa fa-search search-button-icon"></i></button>
-      </li>
-      
-    </ul> -->
