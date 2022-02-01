@@ -194,7 +194,7 @@ team:
     github: AntoineAugusti
     linkedin: AntoineAugusti
     twitter: AntoineAugusti
-  - archived: false
+  - archived: true
     name: Ashar Ahmed
     title:
       en: Development
