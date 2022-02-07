@@ -4,7 +4,7 @@ type: section
 title: 'Conseiller(ère) principal(e) en politique'
 description: >-
   Les membres de l’équipe des politiques sont les pirates bureaucratiques et les navigateurs gouvernementaux du SNC, assurant la prestation numérique avec nos partenaires et autres intervenants.
-archived: false
+archived: true
 translationKey: Senior-Policy-Advisor-winter2022
 leverId: 289adf15-22f1-44fb-885c-3b2ea720183b
 ---

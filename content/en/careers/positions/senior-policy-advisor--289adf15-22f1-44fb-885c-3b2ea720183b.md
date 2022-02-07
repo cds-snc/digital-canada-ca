@@ -4,7 +4,7 @@ type: section
 title: 'Senior Policy Advisor'
 description: >-
   The policy team are CDS’s bureaucracy hackers and government navigators, enabling digital delivery with our partners and beyond. 
-archived: false
+archived: true
 translationKey: Senior-Policy-Advisor-winter2022
 leverId: 289adf15-22f1-44fb-885c-3b2ea720183b
 ---
