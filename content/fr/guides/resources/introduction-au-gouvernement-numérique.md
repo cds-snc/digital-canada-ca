@@ -1,9 +1,10 @@
 ---
-title: 'Introduction au gouvernement numérique '
-description: >-
-    Une liste de lecture sur la prestation de services numériques et la modernisation des technologies.
-buttonText: 'En savoir plus'
-buttonAria: 'Pour en savoir plus sur Introduction au gouvernement numérique.'
-url: ''
-weight: 2  
+Title: Introduction au gouvernement numérique
+TranslationKey: digital-government-guides
+Description: >-
+  Une liste de lecture sur la prestation de services numériques et la modernisation des technologies.
+ButtonText: En savoir plus
+ButtonAria: Pour en savoir plus sur Introduction au gouvernement numérique.
+Weight: 2
+LinkToGuide: https://numerique.canada.ca/outils-et-ressources/liste-lecture-concernant/
 ---

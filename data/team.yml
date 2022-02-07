@@ -12,8 +12,8 @@ exec:
   - archived: false
     name: Alex MacEachern
     title:
-      en: Chief of Staff
-      fr: Cheffe de cabinet
+      en: Director of Strategic Engagement
+      fr: Directrice de l'engagement stratégique
     imagehash: alex_maceachern_0d6ca2eb31
     email: Alex.MacEachern@tbs-sct.gc.ca
     linkedin: alexandra-maceachern-4b0209b2
@@ -127,6 +127,13 @@ exec:
     imagehash: sage_cram_b9d6d4ed1f
     email: sage.cram@tbs-sct.gc.ca
   - archived: false
+    name: Stephanie Gauthier
+    title:
+      en: Issues Manager
+      fr: Gestionnaire des enjeux
+    imagehash: stephanie_gauthier_810f99aeb6
+    email: Stephanie.Gauthier@tbs-sct.gc.ca
+  - archived: false
     name: Wendy Luciani
     title:
       en: Executive Director of Partnerships
@@ -187,7 +194,7 @@ team:
     github: AntoineAugusti
     linkedin: AntoineAugusti
     twitter: AntoineAugusti
-  - archived: false
+  - archived: true
     name: Ashar Ahmed
     title:
       en: Development
@@ -795,13 +802,6 @@ team:
     imagehash: small_sharlychan_9acdadbbc8
     email: sharly.chan@tbs-sct.gc.ca
     twitter: SharlyChan
-  - archived: false
-    name: Stephanie Gauthier
-    title:
-      en: Talent
-      fr: Talent
-    imagehash: stephanie_gauthier_810f99aeb6
-    email: Stephanie.Gauthier@tbs-sct.gc.ca
   - archived: false
     name: Stephen McMurtry
     title:

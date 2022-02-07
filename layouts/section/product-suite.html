@@ -20,7 +20,7 @@
             <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-seven" }}</li>
         </ul>
       </div>
-      {{$products := where .Site.Pages ".File.Dir" "==" "product-suite/prod/"}}
+      {{$products := where .Site.Pages ".File.Dir" "==" "product-suite/product/"}}
       <div class='row equal'>
         {{ range $elem_index, $elem_val := $products.ByWeight }}
         {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
