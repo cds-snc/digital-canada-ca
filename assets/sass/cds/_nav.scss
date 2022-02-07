@@ -205,9 +205,23 @@
           text-align: center;
           padding-bottom: 3rem;
         }
+
+        &::after {
+          display: block;
+          position: absolute;
+          content: "";
+          background: $white;
+          border: $white 0px solid;
+          width: 0%;
+          height: 0.25px;
+        }
       }
-      a:not(:nth-last-child(1)) {
-        border-bottom: 1px solid white;
+      :not(.dropdown-content a:nth-last-child(1)):after {
+        @include tablet {
+          width: 85%;
+          border-width: 0.25px;
+        }
+
       }
     }
   }
