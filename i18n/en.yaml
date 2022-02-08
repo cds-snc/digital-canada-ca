@@ -391,7 +391,7 @@ product-suite-description:
 product-suite-intro:
   other: "We provide tools that public servants can use to modernize their service delivery, cut down on procurement costs, and deliver a great user experience. Think of these tools as small interconnected services that you can plug right into your current systems." 
 product-suite-checklist-title:
-  other: "All of our products are:"
+  other: "Our products are:"
 product-suite-checklist-item-one:
   other: "Adapted for Government of Canada use"
 product-suite-checklist-item-two:
@@ -413,7 +413,7 @@ guides-help:
 guides-contact-us:
   other: "Contact the guides and learning resources team."  
 coaching-and-advice-title:
-  other: "Coaching and Advice"  
+  other: "Coaching and advice"  
 coaching-and-advice-subtitle:
   other: "If you need feedback or support to improve your service."
 coaching-and-advice-description:
@@ -429,7 +429,7 @@ guides-title:
 guides-subtitle:
   other: "If you want to learn more about user-centred service delivery."
 guides-description:
-  other: "Read our digital government guides and resources that we’ve created based on our past work."    
+  other: "Read our digital government guides and resources."    
 coaching-and-advice-button-text:
   other: "Get tailored help"
 product-suite-button-text:

@@ -395,7 +395,7 @@ product-suite-description:
 product-suite-intro:
   other: "Nous fournissons des outils qui permettent aux fonctionnaires de moderniser la prestation de leurs services, de réduire les coûts liés à l’approvisionnement et d’offrir une excellente expérience pour les utilisateurs. Imaginez une série de petits services interreliés qui s’intègrent directement à vos systèmes actuels. " 
 product-suite-checklist-title:
-  other: "Tous nos produits sont :"
+  other: "Nos produits sont :"
 product-suite-checklist-item-one:
   other: "Adaptés aux besoins du gouvernement du Canada"
 product-suite-checklist-item-two:
@@ -433,7 +433,7 @@ guides-title:
 guides-subtitle:
   other: "Pour en savoir plus sur la prestation de services axés sur l’utilisateur."
 guides-description:
-  other: "Consultez nos guides et nos ressources sur le gouvernement numérique fondés sur l’expérience de nos équipes."
+  other: "Consultez nos guides et nos ressources sur le gouvernement numérique."
 coaching-and-advice-button-text:
   other: "Obtenez de l’aide personnalisée"
 product-suite-button-text:
