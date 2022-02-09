@@ -1,5 +1,5 @@
 <nav role="navigation" id="wb-sm" data-trgt="mb-pnl" class="cds-menu" typeof="SiteNavigationElement"
-  aria-label="{{ i18n " menu"}}">
+  aria-label="{{ i18n "menu"}}">
   <div class="container topbar" id="site--topbar">
     <div class="row">
       <div class="col-xs-4 col-sm-3">
@@ -10,7 +10,7 @@
 
       <div class="nav-container">
 
-        <div id="js-mobileNav" class="">
+        <div id="js-mobileNav">
           <div id="js-mobileNav--closeContainer">
             <button id="js-mobileNav--button">
               <span class="text">{{ i18n "close" }}</span>
@@ -23,9 +23,9 @@
               <button>{{ i18n "how-we-can-help"}} <i class="fa fa-caret-down"></i></button>
                 
                 <div class="dropdown-content">
-                  <a href="/coaching-and-advice/" class="">{{ i18n "coaching-and-advice-title" }}</a>
-                  <a href="/product-suite/" class="">{{ i18n "product-suite-title" }}</a>
-                  <a href="/guides/" class="">{{ i18n "guides-title" }}</a>
+                  <a href="{{ i18n "coaching-and-advice-url" }}">{{ i18n "coaching-and-advice-title" }}</a>
+                  <a href="{{ i18n "product-suite-url" }}">{{ i18n "product-suite-title" }}</a>
+                  <a href="{{ i18n "guides-url" }}">{{ i18n "guides-title" }}</a>
                 </div>
             </div>
             {{ $title := .Params.title }}

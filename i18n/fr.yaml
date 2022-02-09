@@ -441,4 +441,10 @@ product-suite-button-text:
 guides-button-text:
   other: "Consultez nos guides"
 guides-img-alt: 
-  other: "Une personne assise sur son bureau entourée de différentes options d’écrans et de documents."                       
+  other: "Une personne assise sur son bureau entourée de différentes options d’écrans et de documents."
+coaching-and-advice-url:
+  other: "/encadrement-et-conseils/"
+product-suite-url:
+  other: "/suite-de-produits/"
+guides-url:
+  other: "/guides/"                          

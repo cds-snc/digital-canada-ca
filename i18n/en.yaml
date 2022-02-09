@@ -437,4 +437,10 @@ product-suite-button-text:
 guides-button-text:
   other: "Read our guides"    
 guides-img-alt: 
-  other: "One person sitting on a desk surrounded by different options of screens and documents."  
+  other: "One person sitting on a desk surrounded by different options of screens and documents."
+coaching-and-advice-url:
+  other: "/coaching-and-advice/"
+product-suite-url:
+  other: "/product-suite/"
+guides-url:
+  other: "/guides/"        
