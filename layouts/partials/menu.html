@@ -23,12 +23,15 @@
               <button>{{ i18n "how-we-can-help"}} <i class="fa fa-caret-down"></i></button>
                 
                 <div class="dropdown-content">
-                  <a href="{{ i18n "coaching-and-advice-url" }}">{{ i18n "coaching-and-advice-title" }}</a>
+                  {{ range $dropdown := .Site.Menus.dropdown}}
+                  <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
+                  {{ end }}
+                  <!-- <a href="{{ i18n "coaching-and-advice-url" }}">{{ i18n "coaching-and-advice-title" }}</a>
                   <a href="{{ i18n "product-suite-url" }}">{{ i18n "product-suite-title" }}</a>
-                  <a href="{{ i18n "guides-url" }}">{{ i18n "guides-title" }}</a>
+                  <a href="{{ i18n "guides-url" }}">{{ i18n "guides-title" }}</a> -->
                 </div>
             </div>
-            {{ $title := .Params.title }}
+            <!-- {{ $title := .Params.title }} -->
             {{ range $menu := .Site.Menus.main }}
             <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag" class="{{ if eq $title .Identifier }} underline{{end}}">{{ .Name }}</a>
             {{ end }}

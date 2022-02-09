@@ -26,6 +26,19 @@ languages:
           name: Blog
           url: /blog/
           weight: 2
+      dropdown:
+        - identifier: coaching-and-advice
+          name: Coaching and advice
+          url: /coaching-and-advice/
+          weight: 1
+        - identifier: product-suite
+          name: Product suite
+          url: /product-suite/
+          weight: 2
+        - identifier: guides
+          name: Guides
+          url: /guides/
+          weight: 3      
   fr:
     baseUrl: https://numerique.canada.ca/
     contentDir: content/fr
@@ -49,6 +62,19 @@ languages:
           name: Blogue
           url: /blogue/
           weight: 2
+      dropdown:
+          - identifier: encadrement-et-conseils
+            name: Encadrement et conseil
+            url: /encadrement-et-conseils/
+            weight: 1
+          - identifier: suite-de-produits
+            name: Suite de produits
+            url: /suite-de-produits/
+            weight: 2
+          - identifier: guides
+            name: Guides
+            url: /guides/
+            weight: 3       
 outputs:
   home : [HTML, RSS, JSON]
   page : HTML         
