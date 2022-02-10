@@ -6,6 +6,7 @@ Description: >-
 ButtonText: En savoir plus
 ButtonAria: Pour en savoir plus sur le manuel d’accessibilité
 Weight: 1
+TagID: null
 LinkToGuide: https://numerique.canada.ca/a11y/
 ---
 
