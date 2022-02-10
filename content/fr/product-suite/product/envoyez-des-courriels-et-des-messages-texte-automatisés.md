@@ -10,6 +10,7 @@ ButtonText: Site Web de GC Notification
 ButtonAria: Aller au site Web de GC Notification
 Weight: 1
 LinkToProductSuite: https://notification.canada.ca/
+TagID: null
 ---
 
 undefined
