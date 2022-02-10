@@ -6,5 +6,6 @@ Description: >-
 ButtonText: Learn more
 ButtonAria: Learn more about the accessibility handbook.
 Weight: 1
+TagID: accessibility-handbook-guides-tag-en
 LinkToGuide: https://digital.canada.ca/a11y/
 ---

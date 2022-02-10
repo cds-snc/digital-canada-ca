@@ -6,5 +6,6 @@ Description: >-
 ButtonText: En savoir plus
 ButtonAria: Pour en savoir plus sur la documentation de la prise de rendez-vous au gouvernement.
 Weight: 3
+TagID: government-appointment-guides-tag-fr
 LinkToGuide: https://cds-snc.github.io/booking-documentation/contexte/
 ---

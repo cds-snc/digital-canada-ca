@@ -6,5 +6,6 @@ Description: >-
 ButtonText: En savoir plus
 ButtonAria: Pour en savoir plus sur le cadre d’évaluation de produits.
 Weight: 4
+TagID: evaluation-guides-tag-fr
 LinkToGuide: https://numerique.canada.ca/outils-et-ressources/cadre-devaluation/
 ---

@@ -6,5 +6,6 @@ Description: >-
 ButtonText: Learn more
 ButtonAria: Learn more about documentation for booking a government appointment.
 Weight: 3
+TagID: government-appointment-guides-tag-en
 LinkToGuide: https://cds-snc.github.io/booking-documentation/
 ---

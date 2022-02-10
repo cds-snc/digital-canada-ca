@@ -10,4 +10,6 @@ ButtonText: GC Notify website
 ButtonAria: Visit the GC Notify Website
 Weight: 1
 LinkToProductSuite: https://notification.canada.ca/
+TagID: gc-notify-tag-en
 ---
+

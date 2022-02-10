@@ -6,5 +6,6 @@ Description: >-
 ButtonText: En savoir plus
 ButtonAria: Pour en savoir plus sur le guide des tests d’utilisabilité.
 Weight: 6
+TagID: usability-testing-guide-tag-fr
 LinkToGuide: https://numerique.canada.ca/outils-et-ressources/guide-tests-d-utilisabilite/
 ---
