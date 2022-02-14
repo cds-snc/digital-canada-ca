@@ -4,7 +4,7 @@ title: 'Are you the Canadian Digital Service’s next CEO?'
 description: >-
   The Canadian Digital Service is going to be hiring a new CEO. Learn more about the role and when applications will open. 
 author: 'Brock Higgins, Talent'
-date: '2022-02-11T17:00:00.000Z'
+date: '2022-02-14T17:00:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/blog_next_ceo_banner_en_7617774f94.jpg
 image-alt: A smartphone beside a book that reads “The next chapter” for the Canadian Digital Service.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_next_ceo_banner_en_7617774f94.jpg
