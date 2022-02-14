@@ -4,7 +4,7 @@ type: section
 title: 'Interaction Designer'
 description: >-
   We are looking for an Interaction Designer to join our Learning Resources team in our Partnerships Business Unit. 
-archived: false
+archived: true
 translationKey: interaction-designer-december-2021
 leverId: ef1dd61a-bceb-42b5-9029-5cb139a9c12f
 ---
