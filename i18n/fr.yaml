@@ -205,7 +205,7 @@ past-projects:
 our-values:
   other: "Nos valeurs"
 contact-us-footer:
-  other: "Communiquez avec nous"
+  other: "Contactez-nous"
 newsletter:
   other: "Infolettre"
 roadmap:
@@ -297,7 +297,7 @@ email-address:
 subscribe:
   other: "S’inscrire"
 view-privacy-notice:
-  other: "Voir l’Avis de confidentialité"
+  other: "Consulter l’avis de confidentialité"
 privacy-notice:
   other: "Avis de confidentialité"
 privacy-notice-pt-1:
