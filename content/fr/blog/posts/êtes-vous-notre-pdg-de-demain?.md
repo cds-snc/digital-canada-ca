@@ -4,7 +4,7 @@ title: 'Êtes-vous notre PDG de demain?'
 description: >-
   Le Service numérique canadien recrute son ou sa PDG de demain. Apprenez-en davantage sur ce rôle et sur la période de candidature correspondante.
 author: 'Brock Higgins, Talent'
-date: '2022-02-11T17:00:00.000Z'
+date: '2022-02-14T17:00:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/blog_next_ceo_banner_fr_d6defdafec.jpg
 image-alt: Un téléphone intelligent posé à côté d’un livre indiquant « Le  chapitre suivant » pour le Service numérique canadien.
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_next_ceo_banner_fr_d6defdafec.jpg
