@@ -31,7 +31,7 @@ We need someone fearless to lead us through our next phase of growth and impact.
 
 This person will empower the team to do its best work, including our [partnership](https://digital.canada.ca/coaching-and-advice/) and [platform](https://digital.canada.ca/product-suite/) business units. They’ll help us scale our growth, continuously experiment and improve, and build a more diverse and inclusive organization and practice.  They’ll build relationships with leaders across government and the private sector. And because they live the [CDS Values](https://digital.canada.ca/our-values/), they’ll coach and inspire leaders along the way. 
 
-The cliffhanger 
+## The cliffhanger 
 In coming weeks, the job posting will go live on [our website](https://digital.canada.ca/careers/) and [jobs.gc.ca](https://www.canada.ca/en/services/jobs/opportunities/government.html) and we’ll accept applications. Until then, feel free to [reach out to me](mailto:brock.higgins@tbs-sct.gc.ca) with any questions about the role. 
 
 We can’t wait to write the next chapter of our story with you!
