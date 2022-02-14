@@ -1,5 +1,5 @@
 ---
-Title: 'Documentation: book a government appointment'
+Title: Documentation book a government appointment
 TranslationKey: government-appointment-guides
 Description: >-
   Research documentation to understand the need for a service that helps people book government appointments.
@@ -9,3 +9,4 @@ Weight: 3
 TagID: government-appointment-guides-tag-en
 LinkToGuide: https://cds-snc.github.io/booking-documentation/
 ---
+
