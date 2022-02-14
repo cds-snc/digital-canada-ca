@@ -390,6 +390,12 @@ tools-and-resources-tag:
   other: "outils-tag"
 read-our-blog-tag:
   other: "blogue-tag"
+coaching-and-advice-tag:
+  other: "encadrement-et-conseil-tag"
+product-suite-tag:
+  other: "suite-de-produits-tag"
+guides-tag:
+  other: "guides-tag"   
 product-suite-description:
   other: "Nous construisons des solutions gouvernementales pour vous faciliter la tâche."
 product-suite-intro:

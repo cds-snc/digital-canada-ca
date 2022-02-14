@@ -386,6 +386,12 @@ tools-and-resources-tag:
   other: "tools-and-resources-tag"
 read-our-blog-tag:
   other: "read-our-blog-tag"
+coaching-and-advice-tag:
+  other: "coaching-and-advice-tag"
+product-suite-tag:
+  other: "product-suite-tag"
+guides-tag:
+  other: "guides-tag"      
 product-suite-description:
   other: "Building government solutions so you don’t have to."
 product-suite-intro:
