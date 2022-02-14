@@ -205,7 +205,7 @@ past-projects:
 our-values:
   other: "Nos valeurs"
 contact-us-footer:
-  other: "Communiquez avec nous"
+  other: "Contactez-nous"
 newsletter:
   other: "Infolettre"
 roadmap:
@@ -297,7 +297,7 @@ email-address:
 subscribe:
   other: "S’inscrire"
 view-privacy-notice:
-  other: "Voir l’Avis de confidentialité"
+  other: "Consulter l’avis de confidentialité"
 privacy-notice:
   other: "Avis de confidentialité"
 privacy-notice-pt-1:
@@ -358,7 +358,7 @@ partner-with-us-subtitle:
   other: "Si vous avez besoin de conseils pour savoir sur quoi mettre l’accent pour améliorer votre service."
 partner-with-us-description:
   other: "Parlez-nous des défis auxquels vous faites face en matière de prestation de services et nous vous conseillerons sur la base de nos expériences passées." 
-partner-with-us-img-alt:
+coaching-and-advice-image-alt:
   other: "Trois personnes discutant d’idées et de problèmes dans une pièce."     
 use-our-tools-and-resources-title:
   other: "Utilisez nos outils et ressources"
@@ -366,7 +366,7 @@ use-our-tools-and-resources-subtitle:
   other: "Si vous avez besoin d’un outil ou d’un guide spécifique pour résoudre un problème particulier."
 use-our-tools-and-resources-description:
   other: "Intégrez nos composants communs dans vos systèmes ou découvrez nos meilleures pratiques de prestation de services." 
-use-our-tools-and-resources-img-alt:
+product-suite-image-alt:
   other: "Une personne utilisant plusieurs outils numériques offrant différentes fonctionnalités pour faire fonctionner un service en ligne."  
 learn-more:
   other: "En savoir plus"
@@ -389,4 +389,68 @@ careers-tag:
 tools-and-resources-tag:
   other: "outils-tag"
 read-our-blog-tag:
-  other: "blogue-tag"      
+  other: "blogue-tag"
+coaching-and-advice-tag:
+  other: "encadrement-et-conseil-tag"
+product-suite-tag:
+  other: "suite-de-produits-tag"
+guides-tag:
+  other: "guides-tag"   
+product-suite-description:
+  other: "Nous construisons des solutions gouvernementales pour vous faciliter la tâche."
+product-suite-intro:
+  other: "Nous fournissons des outils qui permettent aux fonctionnaires de moderniser la prestation de leurs services, de réduire les coûts liés à l’approvisionnement et d’offrir une excellente expérience pour les utilisateurs. Imaginez une série de petits services interreliés qui s’intègrent directement à vos systèmes actuels. " 
+product-suite-checklist-title:
+  other: "Nos produits sont :"
+product-suite-checklist-item-one:
+  other: "Adaptés aux besoins du gouvernement du Canada"
+product-suite-checklist-item-two:
+  other: "Faciles à intégrer pour les ministères"
+product-suite-checklist-item-three:
+  other: "Appuyés par nos équipes de soutien internes"
+product-suite-checklist-item-four:
+  other: "Sécurisés"
+product-suite-checklist-item-five:
+  other: "Accessibles"
+product-suite-checklist-item-six:
+  other: "Bilingues"
+product-suite-checklist-item-seven:
+  other: "Offerts gratuitement"
+guides-intro:
+  other: "Ces guides, fondés sur nos diverses expériences, rassemblent conseils et lectures qui visent à aider les fonctionnaires fédéraux dans la prestation de leurs services. "
+guides-help:
+  other: "Vous ne trouvez pas ce que vous cherchez?"
+guides-contact-us:
+  other: "Communiquer avec l’équipe des guides et des ressources d’apprentissage."  
+coaching-and-advice-title:
+  other: "Encadrement et conseil"  
+coaching-and-advice-subtitle:
+  other: "Lorsque vous avez besoin de conseils ou de soutien pour améliorer un service."
+coaching-and-advice-description:
+  other: "Parlez-nous de vos défis en matière de prestation de services et nous vous conseillerons sur la base de nos expériences."
+product-suite-title:
+  other: "Suite de produits"
+product-suite-subtitle:
+  other: "Lorsque vous recherchez une solution technique précise qui améliorera votre service."
+product-suite-homepage-description:
+  other: "Intégrez nos outils prêts à utiliser dans vos systèmes actuels."
+guides-title:
+  other: "Guides"
+guides-subtitle:
+  other: "Pour en savoir plus sur la prestation de services axés sur l’utilisateur."
+guides-description:
+  other: "Consultez nos guides et nos ressources sur le gouvernement numérique."
+coaching-and-advice-button-text:
+  other: "Obtenez de l’aide personnalisée"
+product-suite-button-text:
+  other: "Utilisez nos produits"
+guides-button-text:
+  other: "Consultez nos guides"
+guides-img-alt: 
+  other: "Une personne assise sur son bureau entourée de différentes options d’écrans et de documents."
+coaching-and-advice-url:
+  other: "/encadrement-et-conseils/"
+product-suite-url:
+  other: "/suite-de-produits/"
+guides-url:
+  other: "/guides/"                          

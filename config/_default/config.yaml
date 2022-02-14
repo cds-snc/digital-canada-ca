@@ -18,26 +18,27 @@ languages:
     weight: 1
     menu:
       main:
-        - identifier: home
-          name: Home
-          url: /
-          weight: 1
-        - identifier: partnerships
-          name: Partnerships
-          url: /partnerships/
-          weight: 2
-        - identifier: Tools and resources
-          name: Tools and resources
-          url: /tools-and-resources/
-          weight: 3
         - identifier: careers
           name: Careers
           url: /careers/
-          weight: 4
+          weight: 1
         - identifier: blog
           name: Blog
           url: /blog/
-          weight: 5
+          weight: 2
+      dropdown:
+        - identifier: coaching-and-advice
+          name: Coaching and advice
+          url: /coaching-and-advice/
+          weight: 1
+        - identifier: product-suite
+          name: Product suite
+          url: /product-suite/
+          weight: 2
+        - identifier: guides
+          name: Guides
+          url: /guides/
+          weight: 3      
   fr:
     baseUrl: https://numerique.canada.ca/
     contentDir: content/fr
@@ -53,26 +54,27 @@ languages:
       work-with-us: /:title
     menu:
       main:
-        - identifier: accueil
-          name: Accueil
-          url: /
-          weight: 1
-        - identifier: partenariats
-          name: Partenariats
-          url: /partenariats/
-          weight: 2
-        - identifier: outils
-          name: Outils et ressources
-          url: /outils-et-ressources/
-          weight: 3
         - identifier: carrieres
           name: Carrières
           url: /carrieres/
-          weight: 4
+          weight: 1
         - identifier: blogue
           name: Blogue
           url: /blogue/
-          weight: 5
+          weight: 2
+      dropdown:
+          - identifier: encadrement-et-conseils
+            name: Encadrement et conseil
+            url: /encadrement-et-conseils/
+            weight: 1
+          - identifier: suite-de-produits
+            name: Suite de produits
+            url: /suite-de-produits/
+            weight: 2
+          - identifier: guides
+            name: Guides
+            url: /guides/
+            weight: 3       
 outputs:
   home : [HTML, RSS, JSON]
   page : HTML         

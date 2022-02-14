@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{ .Content }}
+<section>
+    
+  <div class="container">
+    <div class="row product-suite">
+      <div class="col-xs-12">
+        <p><em>{{ i18n "product-suite-description" }}</em></p>
+        <p>{{ i18n "product-suite-intro" }}</p>
+      </div>
+      <div class="col-xs-12">
+        <h2><strong>{{ i18n "product-suite-checklist-title" }}</strong></h2>
+        <ul >
+            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-one" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-two" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-three" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-four" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-five" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-six" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-seven" }}</li>
+        </ul>
+      </div>
+      {{$products := where .Site.Pages ".File.Dir" "==" "product-suite/product/"}}
+      <div class='row equal'>
+        {{ range $elem_index, $elem_val := $products.ByWeight }}
+        {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+      </div>
+
+      <div class='row equal'>
+        {{ end }}
+        <div class='col-md-6 col-xs-12'>
+            {{ partial "product-suite-items" $elem_val}}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--mailing-list">
+    {{ partial "mailing-list.html" }}
+</section>
+{{ end }}

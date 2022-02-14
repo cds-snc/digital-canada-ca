@@ -511,6 +511,19 @@
 
 }
 
+.guides-contact-us {
+  margin: auto;
+  text-align: center;
+  @include tablet {
+    display: flex;
+    justify-content: center;
+  
+    div {
+      margin-right: 4rem;
+    }
+  }
+}
+
 ////////////////////////////////////////////////////
 //
 // Site Wide Search
