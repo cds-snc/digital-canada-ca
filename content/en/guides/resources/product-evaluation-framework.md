@@ -7,6 +7,6 @@ ButtonText: Learn more
 ButtonAria: Learn more about the product evaluation framework.
 Weight: 4
 TagID: evaluation-guides-tag-en
-LinkToGuide: https://digital.canada.ca/tools-and-resources/evaluation-framework/
+LinkToGuide: https://digital.canada.ca/guides/evaluation-framework/
 ---
 
