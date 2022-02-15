@@ -1,5 +1,5 @@
 ---
-Title: Documentation prendre rendez-vous pour un service gouvernemental
+Title: Instructions pour obtenir un rendez-vous auprès d’un service gouvernemental
 TranslationKey: government-appointment-guides
 Description: >-
   Documents de recherche pour comprendre le besoin d’un service qui aide les gens à prendre des rendez-vous pour un service gouvernemental.
