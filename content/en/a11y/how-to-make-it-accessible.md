@@ -109,11 +109,11 @@ As well, ensure your Beta service meets the standards of our Priority Check 2 li
   - [Here are some ways that you can test non text contrast](https://www.w3.org/WAI/GL/low-vision-a11y-tf/wiki/Testing_Non-Text_Contrast)
 - Ensure people can override text spacing to improve their reading experience using [t](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html)[ext spacing](https://www.w3.org/WAI/WCAG21/Understanding/text-spacing.html)
   - [Additional details on testing for text spacing](https://knowbility.org/blog/2018/WCAG21-1412TextSpacing/)
-- [Hover and focus events](https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html)should not obscure content and should be dismissible
+- [Hover and focus events](https://www.w3.org/WAI/WCAG21/Understanding/content-on-hover-or-focus.html) should not obscure content and should be dismissible
   - [Additional details on hover and focus events](https://www.boia.org/wcag2/cp/1.4.13)
 - If a keyboard shortcut is implemented in content using only letters, refer to [character key shortcuts](https://www.w3.org/WAI/WCAG21/Understanding/character-key-shortcuts.html#intent)
   - Additional details on [character key shortcuts](https://knowbility.org/blog/2018/WCAG21-214CharacterKeyShortcuts/)
-- Content can be operated using simple inputs on a wide range of pointing devices using [p](https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html)[inter gesture techniques](https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html)
+- Content can be operated using simple inputs on a wide range of pointing devices using [pointer gesture techniques](https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html)
   - Additional details on [pointer gesture](https://knowbility.org/blog/2018/WCAG21-251PointerGestures/)
 - Functions that emulate a keyboard or numeric keypad key press are considered essential using [pointer cancellation techniques](https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html)
   - Additional details on [pointer cancellation](https://knowbility.org/blog/2018/WCAG21-252PointerCancellation/)
