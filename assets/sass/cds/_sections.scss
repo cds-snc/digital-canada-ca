@@ -86,6 +86,21 @@
     color: transparent;
     font-size: 0.01px;
   }
+
+  img {
+    margin-bottom: 3rem;
+
+    @include mobile_only {
+      width: 90%;
+    }
+  }
+
+  .div-img {
+    @include desktop {
+      text-align: right; 
+      padding-right: 0;
+    }
+  }
 }
 
 .homepage--blog-posts {
