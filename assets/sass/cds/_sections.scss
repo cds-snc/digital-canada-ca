@@ -1509,6 +1509,16 @@ article.post {
 // PRODUCT SUITE
 //
 ////////////////////////////////////////////////////
+.card-title {
+  div {
+    padding: 2rem 0 2rem 0;
+  }
+  h2 {
+    font-weight: 400;
+    font-size: 3.75rem;
+  }
+
+}
 
 .product-suite {
   ul {
@@ -1539,6 +1549,10 @@ article.post {
       bottom: 0; 
       right: 0;
     }
+  }
+  .guides-title {
+    font-weight: 400;
+    font-size: 3.75rem;
   }
   // padding: 10px 10px 20px 10px;
 }

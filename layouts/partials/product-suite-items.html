@@ -1,9 +1,12 @@
 <section class="product-resources-cards" style="position: relative; border-bottom: 3px solid #066169;">
   <div class="row">
-      <div class="col-sm-10 col-sm-offset-1 col-xs-12" >
-          <h3 class='{{ if eq (string (.Site.Language)) "fr" }}fr{{end}}'>
-              {{ .Params.title }}
-            </h3>
+      <div class="col-sm-10 col-sm-offset-1 col-xs-12 card-title" >
+        <div>
+          <h2 class='{{ if eq (string (.Site.Language)) "fr" }}fr{{end}}'>
+            {{ .Params.title }}
+          </h2>
+        </div>
+
       </div>
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
         <div >
