@@ -3,55 +3,36 @@
 <section class='partnerships-info'>
   <div class="container">
     <!-- Partnerships intro -->
-    <div class="row">
+    <div class="row checklist">
       <div class="col-xs-12">
-        <p>{{ i18n "partnerships-intro" | safeHTML }}</p>
+        <p>{{ i18n "coaching-and-advice-intro" | safeHTML }}</p>
       </div>
-    </div>
-  </div>
-</section>
-<section class="partnerships-info bg-med-grey">
-  <div class="container">
-    <div class="row">
       <div class="col-xs-12">
-        <h2 class="partnership-title">{{i18n "partnerships-what-we-can-help-title"}}</h2>
-        <p> {{i18n "partnerships-what-we-can-help-1st"}}</p>
-        <ul>
-          <li>{{i18n "partnerships-what-we-can-help-list-1"}}</li>
-          <li>{{i18n "partnerships-what-we-can-help-list-2"}}</li>
-          <li>{{i18n "partnerships-what-we-can-help-list-3"}}</li>
-          <li>{{i18n "partnerships-what-we-can-help-list-4"}}</li>
+        <h2><strong>{{ i18n "coaching-and-advice-checklist-title" }}</strong></h2>
+        <ul class="coaching-and-advice">
+          <li><i class="fas fa-check"></i>{{ i18n "coaching-and-advice-checklist-item-one" }}</li>
+          <li><i class="fas fa-check"></i>{{ i18n "coaching-and-advice-checklist-item-two" }}</li>
+          <li><i class="fas fa-check"></i>{{ i18n "coaching-and-advice-checklist-item-three" }}</li>
+          <li><i class="fas fa-check"></i>{{ i18n "coaching-and-advice-checklist-item-four" }}</li>
+          <li><i class="fas fa-check"></i>{{ i18n "coaching-and-advice-checklist-item-five" }}</li>
         </ul>
-
-        <h2>{{i18n "partnerships-three-ways-heading"}}</h2>
-        <!-- Consultation -->
-        <h3><strong>{{i18n "partnerships-consultation"}}</strong></h3>
-        <h4>{{i18n "partnerships-time-commitment"}}</h4>
-        <p>{{i18n "partnerships-consultation-time-commitment"}}</p>
-        <h4>{{i18n "partnerships-how-it-works"}}</h4>
-        <p>{{i18n "partnerships-consultation-description"}}</p>
-
-        <!-- Exploration -->
-        <h3><strong>{{i18n "partnerships-exploration"}}</strong></h3>
-        <h4>{{i18n "partnerships-time-commitment"}}</h4>
-        <p>{{i18n "partnerships-exploration-time-commitment"}}</p>
-        <h4>{{i18n "partnerships-how-it-works"}}</h4>
-        <p>{{i18n "partnerships-exploration-description"}}</p>
-
-        <!-- Embedded Teams -->
-        <h3><strong>{{i18n "partnerships-embedded-team"}}</strong></h3>
-        <h4>{{i18n "partnerships-time-commitment"}}</h4>
-        <p>{{i18n "partnerships-embedded-team-time-commitment"}}</p>
-        <h4>{{i18n "partnerships-how-it-works"}}</h4>
-        <p>{{i18n "partnerships-embedded-team-description"}}</p>
-
       </div>
     </div>
   </div>
 </section>
 
-<section class='bg-full bg-full--yellow'>
-  <div class="partnerships-contact">
+
+<section class='bg-full bg-full--orange'>
+  <div class="container">
+    <div class="col-xs-12">
+      <h2><strong>{{ i18n "coaching-and-advice-contact-us-title" }}</strong></h2>
+      <p class="description">{{ i18n "coaching-and-advice-contact-us-description" }}</p>
+      <a href={{ i18n "partnerships-contact-us-link" }} id="partnerships-contact-us-link">
+        {{ i18n "partnerships-contact-us" }}
+      </a>
+    </div>
+  </div>
+  <!-- <div class="partnerships-contact">
     <div>
       <p>{{ i18n "partnerships-interested-in-chatting" }}</p>
     </div>
@@ -60,7 +41,7 @@
         {{ i18n "partnerships-contact-us" }}
       </a>
     </div>
-  </div>
+  </div> -->
 </section>
 
 <section class='partnership-products' id='partnership-products' name='partnership-products'>

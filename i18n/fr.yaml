@@ -395,7 +395,25 @@ coaching-and-advice-tag:
 product-suite-tag:
   other: "suite-de-produits-tag"
 guides-tag:
-  other: "guides-tag"   
+  other: "guides-tag"
+coaching-and-advice-intro:
+  other: "Nous offrons un soutien gratuit aux fonctionnaires du gouvernement fédéral pour les aider à mieux concevoir, construire et offrir les services publics gouvernementaux. Nos praticien·ne·s du gouvernement numérique collaborent avec les équipes gouvernementales pour comprendre leurs besoins et leur contexte. Ils offrent une aide sur mesure sous la forme d’encadrement, de conseils et de soutien pratique pour permettre à ces équipes de surmonter les obstacles qu’elles rencontrent."        
+coaching-and-advice-checklist-title:
+  other: "Nous pouvons aider votre équipe à :"  
+coaching-and-advice-checklist-item-one:
+  other: " Offrir des services numériques modernes"
+coaching-and-advice-checklist-item-two:
+  other: " Répondre aux besoins des personnes qui utilisent vos services"
+coaching-and-advice-checklist-item-three:
+  other: " Développer et entretenir la capacité interne"
+coaching-and-advice-checklist-item-four:
+  other: " Optimiser l’utilisation du financement et des contrats"
+coaching-and-advice-checklist-item-five:
+  other: " Plaider en faveur du changement"
+coaching-and-advice-contact-us-title:
+  other: "Par où commencer?"
+coaching-and-advice-contact-us-description:
+  other: "Parlez-nous de votre travail et nous vous dirons comment nous pouvons vous aider."      
 product-suite-description:
   other: "Nous construisons des solutions gouvernementales pour vous faciliter la tâche."
 product-suite-intro:

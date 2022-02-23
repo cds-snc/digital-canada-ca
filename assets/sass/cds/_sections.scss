@@ -1473,6 +1473,25 @@ article.post {
     }
   }
 
+  &--orange {
+    background-color: $action-orange;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+    p {
+      color: $black;
+      font-weight: 400;
+    }
+    a {
+      border-color: $black;
+      color: $black;
+
+      &:hover {
+        background: $black;
+        color: $white;
+      }
+    }
+  }
+
   &--blue {
     background-color: $alpha-color;
 
@@ -1520,21 +1539,33 @@ article.post {
 
 }
 
-.product-suite {
+.checklist {
   ul {
     padding: 0; 
     list-style-type: none;
+     li {
+       padding-bottom: 1rem;
+       
+     }
   }
-
-  li {
-    padding-bottom: 1rem;
-    i {
-      color: #066169;
-    }
-    
-  }
-
 }
+.product-suite {
+  li {
+    i {
+      color: $secondary-color;
+    }
+  }
+}
+
+.coaching-and-advice {
+  li {
+    i {
+      color: $action-orange;
+    }
+  }
+}
+
+
 
 
 .product-resources-cards {

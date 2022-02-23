@@ -391,7 +391,25 @@ coaching-and-advice-tag:
 product-suite-tag:
   other: "product-suite-tag"
 guides-tag:
-  other: "guides-tag"      
+  other: "guides-tag"
+coaching-and-advice-intro:
+  other: "At no cost, we provide support to help federal public servants improve how they design, build, and deliver public-facing government services. Our digital government practitioners work with government teams to understand their needs and contexts. They provide tailored help in the form of coaching, advice, and hands-on support to enable those teams to overcome their specific hurdles."        
+coaching-and-advice-checklist-title:
+  other: "We can help your team:"  
+coaching-and-advice-checklist-item-one:
+  other: " Deliver modern digital services"
+coaching-and-advice-checklist-item-two:
+  other: " Meet the needs of the people who use your services"
+coaching-and-advice-checklist-item-three:
+  other: " Build and sustain in-house capacity"
+coaching-and-advice-checklist-item-four:
+  other: " Make better use of funding and contracts"
+coaching-and-advice-checklist-item-five:
+  other: " Make the case for change"
+coaching-and-advice-contact-us-title:
+  other: "So, where do we start?"
+coaching-and-advice-contact-us-description:
+  other: "Tell us a bit about your work and we’ll let you know how we can help."              
 product-suite-description:
   other: "Building government solutions so you don’t have to."
 product-suite-intro:
