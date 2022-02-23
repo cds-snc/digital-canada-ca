@@ -1477,6 +1477,9 @@ article.post {
     background-color: $action-orange;
     padding-top: 2rem;
     padding-bottom: 5rem;
+    h2 {
+      color: $black;
+    }
     p {
       color: $black;
       font-weight: 400;
