@@ -63,9 +63,9 @@ languages:
           url: /blogue/
           weight: 2
       dropdown:
-          - identifier: encadrement-et-conseils
+          - identifier: encadrement-et-conseil
             name: Encadrement et conseil
-            url: /encadrement-et-conseils/
+            url: /encadrement-et-conseil/
             weight: 1
           - identifier: suite-de-produits
             name: Suite de produits
