@@ -4,7 +4,7 @@ type: section
 title: 'Chief Executive Officer'
 description: >-
   The Canadian Digital Service (CDS) was established in 2017 with an ambitious mandate to help change how the federal government designs and delivers services to the public. We work with partners across government, and beyond, to put people’s needs at the centre of those services.
-archived: false
+archived: true
 translationKey: ceo-feb-22
 leverId: 5368b30c-eb29-405f-a449-78208c0a79bc
 ---
