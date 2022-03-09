@@ -3,8 +3,8 @@ layout: job-posting
 type: section
 title: 'Présidente-directrice générale ou président-directeur général'
 description: >-
-  Créé en 2017, le Service numérique canadien (SNC) a pour ambitieux mandat de changer la façon dont le gouvernement fédéral conçoit et offre ses services au public. Nous collaborons avec des partenaires dans l’ensemble du gouvernement et ailleurs pour placer les besoins des gens au centre même de ces services.
-archived: true
+  Créé en 2017, le Service numérique canadien (SNC) a pour ambitieux mandat de changer la façon dont le gouvernement fédéral conçoit et offre ses services au public.  Nous collaborons avec des partenaires dans l’ensemble du gouvernement et ailleurs pour placer les besoins des gens au centre même de ces services.
+archived: false
 translationKey: ceo-feb-22
 leverId: 5368b30c-eb29-405f-a449-78208c0a79bc
 ---
