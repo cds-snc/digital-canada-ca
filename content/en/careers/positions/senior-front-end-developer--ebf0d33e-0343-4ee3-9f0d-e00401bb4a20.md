@@ -4,7 +4,7 @@ type: section
 title: 'Senior Front-End Developer'
 description: >-
   We’re hiring a Senior Front-End Software Developer. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada.
-archived: false
+archived: true
 translationKey: Senior Front-End Software Developer-january 2022
 leverId: ebf0d33e-0343-4ee3-9f0d-e00401bb4a20
 ---
