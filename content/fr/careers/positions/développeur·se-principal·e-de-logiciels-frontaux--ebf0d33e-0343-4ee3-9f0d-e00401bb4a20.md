@@ -4,7 +4,7 @@ type: section
 title: 'Développeur·se principal·e de logiciels frontaux'
 description: >-
   Nous sommes à la recherche d’un·e développeur·se principal·e de logiciels frontaux. Nous comptons des bureaux à Ottawa, Montréal, Toronto et Kitchener, mais nous sommes répartis sur l’ensemble du territoire et nous acceptons également les candidatures provenant d’autres régions du Canada.
-archived: false
+archived: true
 translationKey: Senior Front-End Software Developer-january 2022
 leverId: ebf0d33e-0343-4ee3-9f0d-e00401bb4a20
 ---
