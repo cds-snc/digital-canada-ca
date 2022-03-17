@@ -25,7 +25,7 @@ You would be joining a team that currently has 16 members. The role would be for
 ## We’re interested in people who:
 
 * Have strong multimedia skills.
-*Are curious, creative and interested in how to share stories using different techniques and channels. 
+* Are curious, creative and interested in how to share stories using different techniques and channels. 
 * Are open, friendly, and collaborative.
 * Like to learn new things and help people out.
 * Are organized, detail-oriented, and like to get stuff done.
