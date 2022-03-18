@@ -34,6 +34,8 @@ Nous cherchons à recruter un·e étudiant·e qui rejoindra notre équipe de lia
 * est à l’aise avec la technologie et a de l’expérience dans l’utilisation d’outils collaboratifs basés sur le Web comme Google Docs, Trello, Slack, etc.;
 * sait apporter une touche d’humour à son environnement de travail.
 
+La date de début de ce poste concordera avec le début de la saison estivale. Il n’y a pas de date de clôture officielle pour cette offre d'emploi. Nous communiquerons avec les candidats après avoir étudié leurs demandes de candidature.
+
 *Un bassin de personnes qualifiées PEUT être créé et PEUT être utilisé à la suite de ce processus pour pourvoir des postes similaires avec des profils linguistiques (anglais essentiel, bilingue impératif BBB/BBB, bilingue impératif CBC/CBC), ainsi que des mandats (indéterminé, déploiement, intérim, affectation, détachement, période déterminée) qui peuvent varier selon le poste à doter.
 
 Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons. C’est avec fierté et passion que nous nous efforçons activement de rendre le SNC plus représentatif et plus inclusif de la société que nous servons. Notre capacité à fournir des services publics améliorés — des services accessibles et inclusifs — ne peut être réalisée que si nous pouvons reconnaître et exploiter l’éventail le plus diversifié de pensées, d’expériences et de compétences. Nous travaillons fort pour créer un environnement où les différentes perspectives et expériences sont valorisées, et nous nous engageons à aider les talents de tout type à s’épanouir.
