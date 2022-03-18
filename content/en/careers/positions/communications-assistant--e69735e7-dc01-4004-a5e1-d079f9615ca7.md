@@ -34,6 +34,8 @@ You would be joining a team that currently has 16 members. The role would be for
 * Are comfortable with technology and have experience with web-based collaboration tools such as Google Docs, Trello, Slack, etc.
 * Bring a sense of humour to work.
 
+The start date for this role will line up with the summer semester. There is no official closing date for this job posting. We will be reaching out to candidates as applications come in.
+
 *A pool of qualified persons resulting from this process MAY be created and MAY be used to fill similar positions, with linguistic profiles (english essential, bilingual imperative BBB/BBB, bilingual imperative CBC/CBC, as well as tenures (indeterminate, deployment, acting, assignment, secondment, specified period) which may vary according to the position being staffed.
 
 At CDS, we don’t just accept difference - we celebrate it. We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we can recognize and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
