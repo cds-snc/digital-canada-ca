@@ -4,7 +4,7 @@ type: section
 title: 'Assistant ou assistante en communications'
 description: >-
   À ce poste, vous rejoindriez une équipe de 16 personnes pendant la durée du trimestre d’été. Nous cherchons une personne possédant de solides compétences communicationnelles en anglais ou en français . Si vous êtes bilingue, il s’agit assurément d’un atout, mais n’hésitez pas à soumettre votre candidature quel que soit votre niveau d’apprentissage linguistique. 
-archived: false
+archived: true
 translationKey: communications-assistant-march2022
 leverId: e69735e7-dc01-4004-a5e1-d079f9615ca7
 ---

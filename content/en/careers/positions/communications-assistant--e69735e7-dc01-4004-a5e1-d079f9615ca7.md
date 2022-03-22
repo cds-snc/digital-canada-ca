@@ -4,7 +4,7 @@ type: section
 title: 'Communications Assistant'
 description: >-
   You would be joining a team that currently has 16 members. The role would be for the summer term. We are looking for a candidate with strong communication skills in either English or French. If you are bilingual, that would definitely be an asset, but please apply regardless of where you are in your language learning journey.
-archived: false
+archived: true
 translationKey: communications-assistant-march2022
 leverId: e69735e7-dc01-4004-a5e1-d079f9615ca7
 ---
