@@ -474,7 +474,7 @@ team:
     imagehash: jeana_frost_b05678fb7f
     email: jeana.frost@tbs-sct.gc.ca
     linkedin: jeanafrost
-  - archived: false
+  - archived: true
     name: Jeff Maher
     title:
       en: Partnerships
