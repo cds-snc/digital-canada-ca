@@ -57,7 +57,7 @@ It was while working with a procurement officer to find the exact policy that ex
 
 ## Disclaimer on contracting
  
-Now may be a good time to remind readers that just because you can enter into a sole source contract, it doesn’t mean that you automatically should. In government contracting, competition is still the norm. Remember your public service value of _[Stewardship](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049)_ and work with your procurement teams to see what’s out there. You may be pleasantly surprised at your options.“
+Now may be a good time to remind readers that just because you can enter into a sole source contract, it doesn’t mean that you automatically should. In government contracting, competition is still the norm. Remember your public service value of _[Stewardship](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049)_ and work with your procurement teams to see what’s out there. You may be pleasantly surprised at your options."
 
 ## A little help from our friends 
 
