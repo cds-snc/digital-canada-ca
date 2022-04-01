@@ -53,13 +53,9 @@ Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
 
 Le SNC accepte tous les candidats et candidates, peu importe leur race, leur origine ethnique, leur religion, leur orientation sexuelle, leur identité ou leur expression de genre, leur origine nationale, leur handicap, leur âge, leur statut d’ancien combattant, leur situation matrimoniale, leur grossesse ou leurs obligations familiales. Nous sommes aussi engagés à instaurer un milieu de travail inclusif et exempt d’obstacles, dès le processus de sélection. Si vous avez besoin de mesures d’adaptation à une étape ou une autre du processus d’évaluation, veuillez envoyer un message aux coordonnées indiquées dans le lien ci-dessous pour en faire la demande. Tout renseignement concernant les mesures d’adaptation sera traité confidentiellement.
 
-[Mesures d’adaptation en matière d’évaluation](https://www.canada.ca/fr/commission-fonction-publique/services/mesures-d-adaptation-matiere-evaluation.html)
-
 ## Politique relative à la vaccination contre la COVID-19
 
 Tou·te·s les fonctionnaires de l’administration publique centrale doivent être entièrement vacciné·e·s contre le COVID-19, à moins que des mesures d’adaptation ne soient prises en raison d’une contre-indication médicale, de la religion ou d’un autre motif de distinction illicite prévu par la *Loi canadienne sur les droits de la personne*. 
 
-
-*Par mesure de précaution, toutes les entrevues dans un avenir proche seront menées par vidéo ou téléconférence.
 
 
