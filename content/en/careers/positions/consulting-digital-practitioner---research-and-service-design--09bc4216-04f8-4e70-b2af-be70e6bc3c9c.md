@@ -53,12 +53,7 @@ At CDS, we don’t just accept difference - we celebrate it. We proudly, passion
 
 CDS invites all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments. We are committed to providing an inclusive and barrier-free work environment, starting with the hiring process. If you need to be accommodated during any phase of the evaluation process, please use the Contact information below to request specialized accommodation. All information received in relation to accommodation will be kept confidential.
 
-[Assessment accommodation](https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html)
-
 ## COVID-19 Vaccination Policy
 
 All employees of the core public administration are required to be fully vaccinated against COVID-19 and attest to their vaccination status unless accommodated based on a medical contraindication, religion, or another prohibited ground for discrimination as defined under the *Canadian Human Rights Act*.
-
-
-*Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future.
 
