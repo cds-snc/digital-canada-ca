@@ -41,7 +41,6 @@ You will also:
 - can effectively operate at a strategic level in setting goals and long­-term roadmaps, as well as in a technical hands-on capacity
 
 
-
 **We’ll evaluate you based on:**
 
 We will be looking at your experience, career history and achievements that are relevant to the specific job role. We may assess your ability, strength, experience, technical/specialist skills and behaviors.
@@ -62,7 +61,6 @@ At CDS, we don’t just accept difference - we celebrate it. We proudly, passion
 CDS welcomes all applicants regardless of race, ethnicity, religion, sexual orientation, gender identity or expression, national origin, disability, age, veteran status, marital status, pregnancy or family commitments. We are committed to providing an inclusive and barrier-free work environment, starting with the hiring process. If you need to be accommodated during any phase of the evaluation process, please use the Contact information below to request specialized accommodation. All information received in relation to accommodation will be kept confidential.
 Assessment accommodation
 
-*Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future.
 
 
 
