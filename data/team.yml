@@ -71,6 +71,13 @@ exec:
     imagehash: small_emily_kuret_dcd8f527da
     email: emily.kuret@tbs-sct.gc.ca
   - archived: false
+    name: Jennifer Stephan
+    title:
+      en: Head of Internal Operations
+      fr: Chef des opérations internes
+    imagehash: jennifer_stephan_324e6090d3
+    email: jennifer.stephan@tbs-sct.gc.caje
+  - archived: false
     name: John Millons
     title:
       en: Director of Policy & Internal SRE
