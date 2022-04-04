@@ -327,7 +327,7 @@ team:
     github: craigzour
     linkedin: janinclement
     twitter: craigzour
-  - archived: false
+  - archived: true
     name: Courtney Claessens
     title:
       en: Product Management
