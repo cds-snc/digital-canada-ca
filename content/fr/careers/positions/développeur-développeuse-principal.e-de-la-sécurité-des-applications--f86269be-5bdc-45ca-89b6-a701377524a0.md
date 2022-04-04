@@ -19,8 +19,6 @@ Nous sommes à la recherche d’un développeur principal ou d’une développeu
 Ce poste relèvera du développeur en chef de la sécurité de l’équipe de l’infrastructure, de la sécurité et du soutien technique. Nous travaillons au sein de petites équipes agiles et multidisciplinaires, en adoptant une approche moderne et proactive à la sécurité. Nous privilégions les outils en libre-service, la surveillance proactive de la sécurité et la transmission des connaissances nécessaires pour surmonter les défis en matière de cybersécurité visant tout le SNC. Le poste de développeur principal ou de développeuse principale de la sécurité des applications est classé au niveau [IT-04 (anciennement CS-04)](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#tocxx327633) du groupe systèmes d’ordinateurs.
 
 
-
-
 **Les responsabilités du poste comprennent :**
 
 À titre de développeur principal ou de développeuse principale de la sécurité des applications, vous jouerez un rôle de premier plan dans l’orientation de notre capacité d’ingénierie de la sécurité, en veillant à ce que les outils que nous créons soient fiables, viables, exploitables et conformes aux meilleures normes de l’industrie.
@@ -69,7 +67,6 @@ Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons.
 Le SNC accepte tous les candidat·e·s, peu importe leur race, leur origine ethnique, leur religion, leur orientation sexuelle, leur identité ou leur expression de genre, leur origine nationale, leur handicap, leur âge, leur statut d’ancien·ne combattant·e, leur situation matrimoniale, leur grossesse ou leurs obligations familiales. Nous nous engageons également à offrir un milieu de travail inclusif et libre d’obstacles, dès le processus d’embauche. Si vous avez besoin de mesures d’adaptation à une étape ou une autre du processus d’évaluation, veuillez envoyer un message aux coordonnées indiquées dans le lien ci-dessous pour en faire la demande. Les renseignements reçus au sujet de mesures d’adaptation seront traités confidentiellement.
 Mesures d’adaptation en matière d’évaluation
 
-Par mesure de précaution, toutes les entrevues dans un avenir proche seront menées par vidéo ou téléconférence.
 
 
 

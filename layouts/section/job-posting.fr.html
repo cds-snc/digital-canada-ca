@@ -4,7 +4,6 @@
     <section class="padding">
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-          <h1>{{ .Params.title}}</h1>
           {{ if and (.Params.leverId) (eq .Params.archived false) }}
             <a href="#apply-now">Postulez maintenant</a>
           {{end}}
