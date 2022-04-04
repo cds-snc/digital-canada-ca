@@ -309,7 +309,7 @@ team:
     email: ciara.cronin@tbs-sct.gc.ca
     linkedin: /ciara-cronin-80402b41
     twitter: /ciaralcronin
-  - archived: false
+  - archived: true
     name: Clementine Hahn
     title:
       en: Product Management
@@ -327,7 +327,7 @@ team:
     github: craigzour
     linkedin: janinclement
     twitter: craigzour
-  - archived: false
+  - archived: true
     name: Courtney Claessens
     title:
       en: Product Management
