@@ -4,7 +4,7 @@ type: section
 title: 'Développeur-développeuse principal.e de la sécurité des applications'
 description: >-
   Ce poste relèvera du développeur en chef de la sécurité de l’équipe de l’infrastructure, de la sécurité et du soutien technique. Nous travaillons au sein de petites équipes agiles et multidisciplinaires, en adoptant une approche moderne et proactive à la sécurité. Nous privilégions les outils en libre-service, la surveillance proactive de la sécurité et la transmission des connaissances nécessaires pour surmonter les défis en matière de cybersécurité visant tout le SNC.
-archived: false
+archived: true
 translationKey: sr-security-developer
 leverId: f86269be-5bdc-45ca-89b6-a701377524a0
 ---
