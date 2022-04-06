@@ -14,7 +14,7 @@ Dans ce rôle, vous aurez l’occasion de travailler avec vos collègues de l’
 
 Vous aiderez à articuler la stratégie globale du SNC, à élaborer des stratégies d'engagement avec les acteurs externes et, au besoin, à aider les collègues du SNC dans leurs échanges avec les intervenants. Cette équipe veille à ce que l'équipe rame dans la même direction, trouve des alliés et identifie de nouvelles opportunités où le SNC peut aider à changer le gouvernement pour mieux servir les gens.
 
-Ce rôle appartient au groupe et niveaux **EC-07** du groupe Économique et services de sciences sociales du Secrétariat du Conseil du Trésor du gouvernement du Canada. **Veuillez noter que ce rôle est situé dans la région de la Capitale-Nationale.**
+Ce rôle appartient au groupe et niveaux **EC-07** du groupe Économique et services de sciences sociales du Secrétariat du Conseil du Trésor du gouvernement du Canada. **Important : Étant donné la nature des tâches à réaliser, ce poste exige que vous travailliez de la région de la capitale nationale (Ottawa).**
 
 ## ​​Votre travail consistera à :
 
