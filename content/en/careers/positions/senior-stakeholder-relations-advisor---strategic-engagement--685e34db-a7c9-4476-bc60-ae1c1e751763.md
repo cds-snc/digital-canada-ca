@@ -13,7 +13,7 @@ In this role, you will work with colleagues on the Strategic Engagement team. Th
 
 You will help to articulate CDS’s overall strategy, build engagement strategies with external players, and where needed assist CDS colleagues in their exchanges with stakeholders. This team helps ensure that all of CDS  is rowing in the same direction, finds allies, and identifies new opportunities where CDS can help empower the Government to serve people better. 
 
-This role reports to the Director of Strategic Engagement, and is **classified as EC-07** in the Economics and Social Science Services group in the Treasury Board Secretariat of the Government of Canada. **Note that this role is located in the National Capital Region**. 
+This role reports to the Director of Strategic Engagement, and is **classified as EC-07** in the Economics and Social Science Services group in the Treasury Board Secretariat of the Government of Canada. **Important note: due to the nature of work, this specific role requires you to work in the National Capital Region (Ottawa).** 
 
 
 ## Your job will be to:
