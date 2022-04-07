@@ -80,8 +80,8 @@ exec:
   - archived: false
     name: John Millons
     title:
-      en: Director of Policy & Internal SRE
-      fr: Directeur des politiques et SRE internes
+      en: Director of Policy & Internal Site Reliability Engineering (SRE)
+      fr: Directeur des politiques et de l’ingénierie de fiabilité des sites interne
     imagehash: john_millons_64f6b29b6e
     email: John.Millons@tbs-sct.gc.ca
     twitter: JohnMillons
@@ -106,8 +106,8 @@ exec:
   - archived: false
     name: Max Neuvians
     title:
-      en: Head of Internal SRE
-      fr: Chef des SRE internes
+      en: Head of Internal Site Reliability Engineering (SRE)
+      fr: Chef de l’ingénierie de fiabilité des sites interne
     imagehash: max_neuvians_75b0928209
     github: maxneuvians
     linkedin: maxneuvians
@@ -268,8 +268,8 @@ team:
   - archived: false
     name: Calvin Rodo
     title:
-      en: Development
-      fr: Développement
+      en: Internal Site Reliability Engineering (SRE)
+      fr: Ingénierie de fiabilité des sites interne
     imagehash: small_calvin_rodo_b56b0d044a
     email: calvin.rodo@tbs-sct.gc.ca
     github: CalvinRodo
@@ -362,8 +362,8 @@ team:
   - archived: false
     name: Dee Nguyen
     title:
-      en: Internal Operations
-      fr: Opérations internes
+      en: Internal Site Reliability Engineering (SRE)
+      fr: Ingénierie de fiabilité des sites interne
     imagehash: dee_nguyen_4dd02d00c6
     email: dee.nguyen@tbs-sct.gc.ca
     github: dnngyn 
@@ -412,8 +412,8 @@ team:
   - archived: false
     name: Francois Moisan
     title:
-      en: Internal Operations
-      fr: Opérations internes
+      en: Internal Site Reliability Engineering (SRE)
+      fr: Ingénierie de fiabilité des sites interne
     imagehash: francois_moisan_2335ae913c
     email: francois.moisan@tbs-sct.gc.ca
   - archived: false
@@ -862,8 +862,8 @@ team:
   - archived: false
     name: Wanpeng Yang
     title:
-      en: Development
-      fr: Développement
+      en: Internal Site Reliability Engineering (SRE)
+      fr: Ingénierie de fiabilité des sites interne
     imagehash: small_wanpeng_yang_da38652443
     email: wanpeng.yang@tbs-sct.gc.ca
     github: /wanpeng-cds
