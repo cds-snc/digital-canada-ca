@@ -565,7 +565,7 @@ team:
     imagehash: small_kaira_bakkestad_Legare_26502862da
     email: kaira.bakkestad-legare@tbs-sct.gc.ca
     linkedin: kaira-bakkestad-legare-a21b3678
-  - archived: false
+  - archived: true
     name: Kate Wilhelm
     title:
       en: Design
