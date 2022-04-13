@@ -4,7 +4,7 @@ type: section
 title: 'Senior Application Security Developer'
 description: >-
   This position reports to the Lead Security Developer of the Infrastructure, Security and Technical Support (ISTS) team. We work in small multidisciplinary agile teams utilizing a modern, forward-thinking approach to security. We focus on self-service tooling, proactive security monitoring and providing the education required to solve cross-cutting cyber security challenges across CDS.
-archived: false
+archived: true
 translationKey: sr-security-developer
 leverId: f86269be-5bdc-45ca-89b6-a701377524a0
 ---
