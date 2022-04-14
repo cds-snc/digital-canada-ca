@@ -31,6 +31,21 @@ $(document).ready(function () {
       $("#js-mobileNav").removeClass("active hiding").removeAttr("class");
     }, 305);
   });
+  $("#scroll-button").on("click touchup", function () {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  });
+  window.onscroll = function() {scrollFunction()}
+  function scrollFunction() {
+    console.log(document.documentElement.scr);
+    if (document.documentElement.scrollTop > 80 || document.documentElement.scrollTop > 80) {
+      $("#scroll-button").addClass("active");
+      $("#scroll-button").removeClass("hiding");
+      
+    } else {
+      $("#scroll-button").addClass("hiding")
+    }
+  }
 
   // Add target=_blank to external links
   // Thanks to http://css-tricks.com/snippets/jquery/open-external-links-in-new-window/

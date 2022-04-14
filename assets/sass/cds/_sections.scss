@@ -1590,3 +1590,37 @@ article.post {
   }
   // padding: 10px 10px 20px 10px;
 }
+
+#scroll-button {
+  display: none;
+  position: fixed;
+  right: 50px;
+  top: 40%;
+  
+  // bottom: 50%;
+  // margin-bottom: 50px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+  &.active {
+    display: block;
+  }
+  &.hiding {
+    display: none;
+  }
+
+  // @include mobile_only {
+  //   position: fixed;
+  //   display: block;
+  //   bottom: ;
+  //   right: 0;
+  //   background-color: blue;
+  //   img {
+  //     display: none;
+  //   }
+  // }
+}
