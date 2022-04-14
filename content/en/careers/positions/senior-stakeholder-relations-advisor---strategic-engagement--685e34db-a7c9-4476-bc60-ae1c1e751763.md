@@ -4,7 +4,7 @@ type: section
 title: 'Senior Stakeholder Relations Advisor - Strategic Engagement'
 description: >-
   In this role, you will work with colleagues on the Strategic Engagement team. This small but mighty team works horizontally across CDS’s business units to develop and execute on plans to meet with stakeholders and build lasting allies to help CDS’s mission. You will help to articulate CDS’s overall strategy, build engagement strategies with external players, and where needed assist CDS colleagues in their exchanges with stakeholders. This team helps ensure that all of CDS  is rowing in the same direction, finds allies, and identifies new opportunities where CDS can help empower the Government to serve people better. 
-archived: false
+archived: true
 translationKey: sr-stakeholder-relations-advisor-april-2022
 leverId: 685e34db-a7c9-4476-bc60-ae1c1e751763
 ---
