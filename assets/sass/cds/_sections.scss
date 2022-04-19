@@ -1594,18 +1594,12 @@ article.post {
 #scroll-button {
   display: none;
   position: fixed;
-  right: 50px;
+  right: 5%;
   top: 40%;
   
-  // bottom: 50%;
-  // margin-bottom: 50px;
   z-index: 99;
   font-size: 18px;
-  border: none;
-  outline: none;
   cursor: pointer;
-  padding: 15px;
-  border-radius: 4px;
   &.active {
     display: block;
   }
@@ -1613,14 +1607,42 @@ article.post {
     display: none;
   }
 
-  // @include mobile_only {
-  //   position: fixed;
-  //   display: block;
-  //   bottom: ;
-  //   right: 0;
-  //   background-color: blue;
-  //   img {
-  //     display: none;
-  //   }
-  // }
+  @include mobile_only {
+    img {
+      display: none;
+    }
+    p {
+      display: none;
+    }
+  }
+}
+
+.scroll-btn {
+  
+  position: sticky;
+  top: 30%;
+}
+
+#scroll-button-mobile {
+  display: none;
+  @include mobile_only {
+    display: block;
+    position: sticky; 
+    // position: -webkit-sticky; /* Safari */ 
+  bottom: 0; 
+  background-color: #004986; 
+  text-align: center;
+
+  button {
+    background-color: inherit; 
+    border: none; 
+    outline: none; 
+    color: #FFF;
+  }
+
+  img {
+    height: 40px; 
+    width: 40px;
+  }
+  }
 }

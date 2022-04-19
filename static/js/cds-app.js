@@ -32,9 +32,11 @@ $(document).ready(function () {
     }, 305);
   });
   $("#scroll-button").on("click touchup", function () {
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
+    scrollToTop()
   });
+  $("#scroll-button-mobile").on("click touchup", function () {
+    scrollToTop()
+  })
   window.onscroll = function() {scrollFunction()}
   function scrollFunction() {
     console.log(document.documentElement.scr);
@@ -45,6 +47,11 @@ $(document).ready(function () {
     } else {
       $("#scroll-button").addClass("hiding")
     }
+  }
+
+  function scrollToTop() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
   }
 
   // Add target=_blank to external links
