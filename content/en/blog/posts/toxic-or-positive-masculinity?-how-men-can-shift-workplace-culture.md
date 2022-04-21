@@ -42,7 +42,7 @@ We had so many insights to start working on. We first met to run a retrospective
 
 In that meeting, we also decided on some core principles:
 
-- Consult with other marginalized communities to check our approach.
+- Consult with marginalized communities to check our approach.
 - Talking isn’t enough, action is what counts. 
 - Measure our progress. 
 - Continuously reflect on the reality and changing needs of the organization.
