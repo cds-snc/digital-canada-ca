@@ -5,7 +5,7 @@ title: 'Conseiller(ère) principal(e) en relations avec les parties prenantes'
 description: >-
   Dans ce rôle, vous aurez l’occasion de travailler avec vos collègues de l’équipe de l’engagement stratégique. Petite, mais puissante, cette équipe travaille horizontalement dans toutes les unités d’affaires du SNC afin d’élaborer et d’exécuter des plans pour rencontrer les parties prenantes et créer des alliances durables pour aider la mission du SNC. Vous aiderez à articuler la stratégie globale du SNC, à élaborer des stratégies d'engagement avec les acteurs externes et, au besoin, à aider les collègues du SNC dans leurs échanges avec les intervenants. Cette équipe veille à ce que l'équipe rame dans la même direction, trouve des alliés et identifie de nouvelles opportunités où le SNC peut aider à changer le gouvernement pour mieux servir les gens.
 
-archived: false
+archived: true
 translationKey: sr-stakeholder-relations-advisor-april-2022
 leverId: 685e34db-a7c9-4476-bc60-ae1c1e751763
 ---
