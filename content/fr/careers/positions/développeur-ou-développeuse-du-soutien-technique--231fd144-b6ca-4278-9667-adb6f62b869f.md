@@ -13,7 +13,6 @@ Le Service numérique canadien (SNC) change la façon dont le gouvernement féd�
 
 Pour appuyer cette importante mission, nous sommes à la recherche d’un(e) développeur de soutien. Alors que nos bureaux sont situés à Ottawa, à Montréal, à Toronto et à Kitchener, notre travail se fait de façon répartie la plupart du temps, et nous prenons les candidatures provenant d’autres régions du Canada au même titre que celles mentionnées.
 
-
 Ce poste relève du Responsable de l'infrastructure, de la sécurité et du support.  Ce rôle fait partie de l'équipe plateformes, une équipe servant à créer et à exploiter des services de logiciels réutilisables. Vos activités quotidiennes vont varier en fonction de l’unité opérationnelle à laquelle vous êtes affecté et, au fil du temps, de la nature évolutive de votre travail au SNC. Par exemple, certains jours nécessiteront un encadrement plus stratégique plutôt qu’un codage pratique. Le poste nécessitera un mélange d'excellence technique, de solides compétences en communication, de service à la clientèle et de connaissances des processus de gestion des services informatiques. 
 
 Les développeurs de soutien sont classés [CS-02 ou CS-03](https://www.tbs-sct.gc.ca/agreements-conventions/view-visualiser-fra.aspx?id=1#toc12259212260/) dans le groupe des Systèmes d’ordinateurs.
