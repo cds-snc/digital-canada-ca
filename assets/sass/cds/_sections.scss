@@ -1588,17 +1588,13 @@ article.post {
     font-weight: 400;
     font-size: 3.75rem;
   }
-  // padding: 10px 10px 20px 10px;
+  
 }
 
 #scroll-button {
   display: none;
-  position: fixed;
-  right: 5%;
-  top: 40%;
-  
-  z-index: 99;
-  font-size: 18px;
+  flex: 1; 
+  margin-left: 30px;
   cursor: pointer;
   &.active {
     display: block;
@@ -1607,6 +1603,13 @@ article.post {
     display: none;
   }
 
+
+}
+
+.scroll-btn {
+  
+  position: sticky;
+  top: 30%;
   @include mobile_only {
     img {
       display: none;
@@ -1615,12 +1618,6 @@ article.post {
       display: none;
     }
   }
-}
-
-.scroll-btn {
-  
-  position: sticky;
-  top: 30%;
 }
 
 #scroll-button-mobile {
