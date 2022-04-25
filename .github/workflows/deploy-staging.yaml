@@ -8,7 +8,7 @@ on:
 env:
   GITHUB_SHA: ${{ github.sha }}
   IMAGE: website-staging
-  REGISTRY: 773858180673.dkr.ecr.ca-central-1.amazonaws.com/
+  REGISTRY: 773858180673.dkr.ecr.ca-central-1.amazonaws.com
   ROLE_ARN: arn:aws:iam::773858180673:role/website-staging-execution-role
 
 jobs:
