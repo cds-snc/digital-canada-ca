@@ -3,10 +3,11 @@ layout: job-posting
 type: section
 title: 'Visual Storytelling Advisor'
 description: >-
-  As the Outreach Team, we are the storytellers of the Canadian Digital Service. We tell the stories that help public servants improve government services and make people’s lives better. If you’re ready to help us use fewer words and more pictures, then this is the role for you. This role is classified as a IS-02 in the Information Services  group and represents the IS qualification standards.
+  As the Outreach Team, we are the storytellers of the Canadian Digital Service. We tell the stories that help public servants improve government services and make people’s lives better. If you’re ready to help us use fewer words and more pictures, then this is the role for you.
+This role is classified as a IS-02 in the Information Services  group and represents the IS qualification standards.
 
 archived: false
-translationKey: visual-storytelling-advisor-apr-2022
+translationKey: Visual-storytelling-advisor-Apr-2022
 leverId: 79bcb51a-f5dc-4a33-be6e-66a53130c25e
 ---
 
@@ -18,11 +19,13 @@ This role is classified as a [IS-02 in the Information Services  group](https://
 
 
 **You will:**
+
 - Help us tell better stories, visually — whether that’s with photos, illustrations, animations, or video. We don’t need you to be an expert at all the things. We’re looking for someone who is really good at one or two of these things and interested in getting better at the rest.
 - Craft great visual content to make our blog, social media accounts, presentations, website, and posters more engaging and more memorable.
 - Help us cultivate a brand that resonates with our values.
 
 **An excellent candidate will:**
+
 - Have front end web development skills
 - Have experience with Figma
 - Live by these questions: “Who is the audience?”, “What do they need to know?” and “How will this make them feel?” 
