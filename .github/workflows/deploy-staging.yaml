@@ -55,6 +55,5 @@ jobs:
               --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
 
               aws lambda wait function-active --function-name website-staging-$PR_NUMBER
-              sleep 30
-              aws lambda create-function-url-config --region ca-central-1 --function-name website-staging-$PR_NUMBER --auth-type NONE
+              aws lambda create-function-url-config --function-name website-staging-$PR_NUMBER --auth-type NONE
           fi
