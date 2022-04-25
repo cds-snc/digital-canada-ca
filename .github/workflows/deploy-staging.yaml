@@ -13,14 +13,15 @@ jobs:
   deploy-staging:
     runs-on: ubuntu-latest
     steps:
+      - name: Set envs
+        run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")"
       - name: Checkout
         uses: actions/checkout@v2
 
       - name: Build container
         run: |
           docker build \
-          --build-arg git_sha=$GITHUB_SHA \
-          -t $REGISTRY/$IMAGE:$GITHUB_SHA \
+          -t $REGISTRY/$IMAGE:$PR_NUMBER \
           -t $REGISTRY/$IMAGE:latest .
 
       - name: Configure AWS credentials
@@ -37,5 +38,5 @@ jobs:
 
       - name: Push containers to ECR
         run: |
-          docker push $REGISTRY/$IMAGE:$GITHUB_SHA
+          docker push $REGISTRY/$IMAGE:$PR_NUMBER
           docker push $REGISTRY/$IMAGE:latest
