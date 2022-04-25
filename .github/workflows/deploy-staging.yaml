@@ -22,7 +22,6 @@ jobs:
         run: |
           docker build \
           -t $REGISTRY/$IMAGE:$PR_NUMBER \
-          -t $REGISTRY/$IMAGE:latest .
 
       - name: Configure AWS credentials
         id: aws-creds
@@ -39,4 +38,26 @@ jobs:
       - name: Push containers to ECR
         run: |
           docker push $REGISTRY/$IMAGE:$PR_NUMBER
-          docker push $REGISTRY/$IMAGE:latest
+
+      - name: Logout of Amazon ECR
+        run: docker logout $REGISTRY
+
+      - name: Deploy lambda function
+        run: aws lambda get-function --function-name website-staging-$PR_NUMBER
+        on-success:
+          - name: If lambda function exists, update it
+            if: $? -eq 0
+            run: |
+              aws lambda update-function-code \
+              --function-name website-staging-$PR_NUMBER \
+              --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
+          - name: If lambda function does not exist, create it
+            if: $? -ne 0
+            run: |
+              aws lambda create-function \
+              --function-name website-staging-$PR_NUMBER \
+              --package-type Image
+              --role $ROLE_ARN \
+              --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
+              aws lambda wait function-active --function-name website-staging-$PR_NUMBER
+              aws lambda create-function-url-config --region ca-central-1 --function-name website-staging-$PR_NUMBER --auth-type NONE
