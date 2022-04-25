@@ -7,8 +7,6 @@ on:
 
 env:
   GITHUB_SHA: ${{ github.sha }}
-  AWS_ACCESS_KEY_ID: ${{ secrets.STAGING_AWS_ACCESS_KEY_ID }}
-  AWS_SECRET_ACCESS_KEY: ${{ secrets.STAGING_AWS_SECRET_ACCESS_KEY }}
   IMAGE: cds-website
   REGISTRY: 773858180673.dkr.ecr.ca-central-1.amazonaws.com/website-staging
   ROLE_ARN: arn:aws:iam::773858180673:role/website-staging-execution-role
@@ -31,8 +29,8 @@ jobs:
         id: aws-creds
         uses: aws-actions/configure-aws-credentials@v1
         with:
-          aws-access-key-id: $AWS_ACCESS_KEY_ID
-          aws-secret-access-key: $AWS_SECRET_ACCESS_KEY
+          aws-access-key-id: ${{ secrets.STAGING_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.STAGING_AWS_SECRET_ACCESS_KEY }}
           aws-region: ca-central-1
 
       - name: Login to ECR
