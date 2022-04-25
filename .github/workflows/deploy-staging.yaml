@@ -42,22 +42,17 @@ jobs:
       - name: Logout of Amazon ECR
         run: docker logout $REGISTRY
 
-      - name: Deploy lambda function
-        run: aws lambda get-function --function-name website-staging-$PR_NUMBER
-        on-success:
-          - name: If lambda function exists, update it
-            if: $? -eq 0
-            run: |
-              aws lambda update-function-code \
-              --function-name website-staging-$PR_NUMBER \
-              --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
-          - name: If lambda function does not exist, create it
-            if: $? -ne 0
-            run: |
-              aws lambda create-function \
+      - name: Create lambda function
+        run: |
+          aws lambda get-function --function-name website-staging-$PR_NUMBER || {
+            aws lambda create-function \
               --function-name website-staging-$PR_NUMBER \
               --package-type Image
               --role $ROLE_ARN \
               --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
-              aws lambda wait function-active --function-name website-staging-$PR_NUMBER
-              aws lambda create-function-url-config --region ca-central-1 --function-name website-staging-$PR_NUMBER --auth-type NONE
+            aws lambda update-function-code \
+              --function-name website-staging-$PR_NUMBER \
+              --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
+          }
+          aws lambda wait function-active --function-name website-staging-$PR_NUMBER
+          aws lambda create-function-url-config --region ca-central-1 --function-name website-staging-$PR_NUMBER --auth-type NONE
