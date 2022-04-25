@@ -51,7 +51,7 @@ jobs:
           else
             aws lambda create-function \
               --function-name website-staging-$PR_NUMBER \
-              --package-type Image
+              --package-type Image \
               --role $ROLE_ARN \
               --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
           fi
