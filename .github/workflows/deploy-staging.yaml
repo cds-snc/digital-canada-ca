@@ -1,0 +1,45 @@
+name: Staging review apps
+
+on:
+  push:
+    branches-ignore:
+      - main
+
+env:
+  GITHUB_SHA: ${{ github.sha }}
+  AWS_ACCESS_KEY_ID: ${{ secrets.STAGING_AWS_ACCESS_KEY_ID }}
+  AWS_SECRET_ACCESS_KEY: ${{ secrets.STAGING_AWS_SECRET_ACCESS_KEY }}
+  IMAGE: cds-website
+  REGISTRY: 773858180673.dkr.ecr.ca-central-1.amazonaws.com/website-staging
+  ROLE_ARN: arn:aws:iam::773858180673:role/website-staging-execution-role
+
+jobs:
+  deploy-staging:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Build container
+        run: |
+          docker build \
+          --build-arg git_sha=$GITHUB_SHA \
+          -t $REGISTRY/$IMAGE:$GITHUB_SHA \
+          -t $REGISTRY/$IMAGE:latest .
+
+      - name: Configure AWS credentials
+        id: aws-creds
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ca-central-1
+
+      - name: Login to ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+
+      - name: Push containers to ECR
+        run: |
+          docker push $REGISTRY/$IMAGE:$GITHUB_SHA
+          docker push $REGISTRY/$IMAGE:latest
