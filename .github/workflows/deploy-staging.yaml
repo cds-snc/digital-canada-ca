@@ -4,6 +4,7 @@ on:
   - pull_request
 
 env:
+  FUNCTION_NAME: "website-staging"
   GITHUB_SHA: ${{ github.sha }}
   IMAGE: website-staging
   REGISTRY: 773858180673.dkr.ecr.ca-central-1.amazonaws.com
@@ -43,20 +44,19 @@ jobs:
 
       - name: Create lambda function
         run: |
-          if aws lambda get-function --function-name website-staging-$PR_NUMBER > /dev/null 2>&1; then
+          if aws lambda get-function --function-name $FUNCTION_NAME-$PR_NUMBER > /dev/null 2>&1; then
             aws lambda update-function-code \
-              --function-name website-staging-$PR_NUMBER \
+              --function-name $FUNCTION_NAME-$PR_NUMBER \
               --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
 
-            aws lambda get-function-url-config --function-name website-staging-$PR_NUMBER
+            aws lambda get-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER
           else
             aws lambda create-function \
-              --function-name website-staging-$PR_NUMBER \
+              --function-name $FUNCTION_NAME-$PR_NUMBER \
               --package-type Image \
               --role $ROLE_ARN \
               --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
 
-              aws lambda wait function-active --function-name website-staging-$PR_NUMBER
-              aws lambda create-function-url-config --function-name website-staging-$PR_NUMBER --auth-type NONE
-              aws lambda update-function-url-config --function-name website-staging-$PR_NUMBER --auth-type NONE
+              aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER
+              aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --auth-type NONE
           fi
