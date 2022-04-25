@@ -47,6 +47,8 @@ jobs:
             aws lambda update-function-code \
               --function-name website-staging-$PR_NUMBER \
               --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
+
+            aws lambda get-function-url-config --function-name website-staging-$PR_NUMBER
           else
             aws lambda create-function \
               --function-name website-staging-$PR_NUMBER \
