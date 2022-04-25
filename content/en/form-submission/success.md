@@ -1,5 +1,5 @@
 ---
-title: 'Success!'
+title: 'Thank you!'
 description: "Thank you for applying."
 image: our-team.jpg
 type: section
@@ -7,7 +7,8 @@ layout: page
 url: /success/
 translationKey: formSuccess
 ---
+Thanks for your interest in the Canadian Digital Service!
 
-Your application has been received. We will be in touch if a position becomes available that matches your experience and skill set.
+You should receive an email shortly confirming that your application has been received. If you don’t, please email [cdsrecruitment.recrutementsnc@tbs-sct.gc.ca](mailto:cdsrecruitment.recrutementsnc@tbs-sct.gc.ca).
 
 [Back to home](/).
