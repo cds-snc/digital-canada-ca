@@ -54,6 +54,8 @@ jobs:
               --package-type Image \
               --role $ROLE_ARN \
               --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
+
+              aws lambda wait function-active --function-name website-staging-$PR_NUMBER
+              sleep 5
+              aws lambda create-function-url-config --region ca-central-1 --function-name website-staging-$PR_NUMBER --auth-type NONE
           fi
-          aws lambda wait function-active --function-name website-staging-$PR_NUMBER
-          aws lambda create-function-url-config --region ca-central-1 --function-name website-staging-$PR_NUMBER --auth-type NONE
