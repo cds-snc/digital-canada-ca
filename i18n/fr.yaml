@@ -473,4 +473,6 @@ product-suite-url:
 guides-url:
   other: "/guides/"
 cds-strategy-url:
-  other: "/strategie-cds/"                             
+  other: "/strategie-cds/"
+our-approach:
+  other: "Notre approche"                                
