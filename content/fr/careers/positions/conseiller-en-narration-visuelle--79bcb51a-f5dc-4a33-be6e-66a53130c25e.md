@@ -16,6 +16,7 @@ En tant que membres de l’équipe de liaison et diffusion, nous sommes les narr
 Ce rôle est classé [IS-02 dans le groupe des Services d’information et est soumis aux normes de qualification IS](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=15#toc993929944).
 
 **Vos responsabilités :**
+
 - Aider l’équipe à raconter de meilleures histoires sur le plan visuel, que ce soit à l’aide de photos, d’illustrations, d’animations ou de vidéos. Nous n’avons pas besoin que vous soyez un·e expert·e dans tous les domaines. Nous recherchons une personne qui maîtrise un ou deux de ces aspects et qui souhaite s’améliorer dans les autres domaines.
 - Créer du contenu visuel de qualité pour rendre nos blogues, nos comptes de médias sociaux, nos présentations, notre site Web et nos affiches plus attrayants et plus marquants.
 - Aider l’équipe à développer une marque qui résonne avec nos valeurs.
