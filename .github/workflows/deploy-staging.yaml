@@ -43,10 +43,9 @@ jobs:
 
       - name: Create lambda function
         run: |
-          if aws lambda get-function --function-name website-staging-$PR_NUMBER; then
+          if aws lambda get-function --function-name website-staging-$PR_NUMBER > /dev/null 2>&1; then
             aws lambda update-function-code \
               --function-name website-staging-$PR_NUMBER \
-              --role $ROLE_ARN \
               --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
           else
             aws lambda create-function \
