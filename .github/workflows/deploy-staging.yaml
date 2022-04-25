@@ -39,10 +39,15 @@ jobs:
         run: |
           docker push $REGISTRY/$IMAGE:$PR_NUMBER
 
+      - name: Delete old images
+        run: |
+          IMAGES_TO_DELETE=$( aws ecr list-images --region ca-central-1 --repository-name $IMAGE --filter "tagStatus=UNTAGGED" --query 'imageIds[*]' --output json )
+          aws ecr batch-delete-image --region ca-central-1 --repository-name $IMAGE --image-ids "$IMAGES_TO_DELETE" || true
+
       - name: Logout of Amazon ECR
         run: docker logout $REGISTRY
 
-      - name: Create lambda function
+      - name: Create/Update lambda function
         run: |
           if aws lambda get-function --function-name $FUNCTION_NAME-$PR_NUMBER > /dev/null 2>&1; then
             aws lambda update-function-code \
