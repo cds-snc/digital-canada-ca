@@ -1,9 +1,7 @@
 name: Staging review apps
 
 on:
-  push:
-    branches-ignore:
-      - main
+  - pull_request
 
 env:
   GITHUB_SHA: ${{ github.sha }}
