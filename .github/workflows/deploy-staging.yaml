@@ -63,6 +63,5 @@ jobs:
               --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
 
               aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER
-              sleep 10
-              aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --qualifier $FUNCTION_NAME-$PR_NUMBER --auth-type NONE
+              aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --auth-type NONE
           fi
