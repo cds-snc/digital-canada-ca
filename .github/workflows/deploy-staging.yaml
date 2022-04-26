@@ -64,5 +64,5 @@ jobs:
 
               aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER
               aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --auth-type NONE
-              aws lambda add-permission --function_name $FUNCTION_NAME-$PR_NUMBER --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal * --function-url-auth-type NONE
+              aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal * --function-url-auth-type NONE
           fi
