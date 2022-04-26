@@ -60,7 +60,7 @@ jobs:
               --function-name $FUNCTION_NAME-$PR_NUMBER \
               --package-type Image \
               --role $ROLE_ARN \
-              --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
+              --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1 \
               --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER" 
 
               aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER
