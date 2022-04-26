@@ -39,7 +39,6 @@ $(document).ready(function () {
   })
   window.onscroll = function() {scrollFunction()}
   function scrollFunction() {
-    console.log(document.documentElement.scr);
     if (document.documentElement.scrollTop > 80 || document.documentElement.scrollTop > 80) {
       $("#scroll-button").addClass("active");
       $("#scroll-button").removeClass("hiding");
