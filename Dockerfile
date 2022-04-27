@@ -24,7 +24,4 @@ FROM scratch
 COPY --from=build /site/public /var/www/html
 COPY --from=build /lambda-static-server /lambda-static-server
 
-ARG CONTENT_DIR=/var/www/html/en
-ENV CONTENT_DIR=$CONTENT_DIR
-
 ENTRYPOINT [ "/lambda-static-server" ]
