@@ -32,4 +32,5 @@ jobs:
       - name: Delete lambda function
         run: |
           aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
+          aws lambda delete-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
           aws lambda delete-function --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
