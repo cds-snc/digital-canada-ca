@@ -54,7 +54,7 @@ jobs:
               --function-name $FUNCTION_NAME-$PR_NUMBER \
               --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
 
-            URL=$(aws lambda get-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER | jq .FunctionUrl )
+            aws lambda get-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER
           else
             aws lambda create-function \
               --function-name $FUNCTION_NAME-$PR_NUMBER \
@@ -63,10 +63,20 @@ jobs:
               --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1 \
               --description "$GITHUB_REPOSITORY" 
 
-              aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER
-              echo "URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --auth-type NONE | jq .FunctionUrl )"
-              aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE > /dev/null 2>&1
-
-
+            aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER
+            echo "URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --auth-type NONE | jq .FunctionUrl)" >> $GITHUB_ENV
+            aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE > /dev/null 2>&1
           fi
-          echo $URL
+
+      - name: Update PR
+        if: env.URL != ''
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: 'Deployed staging URL (XX): ' + context.env.URL
+            })
