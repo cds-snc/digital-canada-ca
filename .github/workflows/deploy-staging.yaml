@@ -64,7 +64,7 @@ jobs:
               --description "$GITHUB_REPOSITORY" 
 
             aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER
-            echo "URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --auth-type NONE | jq .FunctionUrl)" >> $GITHUB_ENV
+            echo URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --auth-type NONE | jq .FunctionUrl) >> $GITHUB_ENV
             aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE > /dev/null 2>&1
           fi
 
