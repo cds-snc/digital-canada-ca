@@ -4,16 +4,16 @@
 
 {{ define "main" }}
 
-<section style="padding-top: 5rem;">
+<section class="strategy-top-section">
     <div class="container">
         <div class="row">
-            <div style="display: flex; justify-content: center;">
-                <img style="width: 90%;" src="/img/cds/cds-strategy-header.svg" /> 
+            <div class="header-div">
+                <img src="/img/cds/cds-strategy-img.svg" /> 
             </div>
             <h2 style="font-size: 45px;">Our approach</h2>
             <h2>Empower government to serve people better</h2>
         </div>
-        <ul>
+        <ul id="table-of-contents">
             <li><a href="#what-am-I-reading">What am I reading?</a></li>
             <li><a href="#why-now">Why now?</a></li>
             <li><a href="#how-we-got-here">How we got here?</a></li>
@@ -26,7 +26,7 @@
     </div>
 </section>
 <section class="bg-med-grey">
-    <div class="container">
+    <div class="container what-am-i-reading">
         <h3 id="what-am-I-reading">What am I reading?</h3>
         <p>
             We’re sharing our thinking about the ways we are currently trying to advance our mandate, including our
@@ -45,8 +45,8 @@
 <section>
     <div class="container">
         <div class="row">
-            <div style="display: flex;">
-                <div style="flex: 0 0 100%">
+            <div class="cds-strategy-content">
+                <div class="content">
 
                     <h3 id="why-now">Why now?</h3>
                     <p>
@@ -438,13 +438,17 @@
                             agency is approaching and structuring a procurement in a way that will reduce risk and yield
                             the best digital advice, services, or tools.</li>
                     </ul>
-                    <h2 id="feedback">We’d love to hear from you!</h2>
-                    <p>Do you have thoughts about what you’ve read here? Please don’t be shy. You can start a
-                        conversation in the open (on <a href="https://twitter.com/cds_gc">Twitter</a> or <a
-                            href="https://www.linkedin.com/company/cds-snc/mycompany/">LinkedIn</a>) or write to us
-                        privately at <a href="mailto:cds-snc@tbs-sct.gc.ca">cds-snc@tbs-sct.gc.ca</a>. Changing how we
-                        serve people in government is challenging work, and we want to get better at it and have more
-                        impact at scale. We welcome your feedback.</p>
+                    
+                    <div class="feedback-div">
+                        <h2 id="feedback">We’d love to hear from you!</h2>
+                        <p>Do you have thoughts about what you’ve read here? Please don’t be shy. You can start a
+                            conversation in the open (on <a href="https://twitter.com/cds_gc">Twitter</a> or <a
+                                href="https://www.linkedin.com/company/cds-snc/mycompany/">LinkedIn</a>) or write to us
+                            privately at <a href="mailto:cds-snc@tbs-sct.gc.ca">cds-snc@tbs-sct.gc.ca</a>. Changing how we
+                            serve people in government is challenging work, and we want to get better at it and have more
+                            impact at scale. We welcome your feedback.</p>
+                    </div>
+
                     <div id="scroll-button-mobile">
                         <button>scroll to top <img src="/img/cds/scroll-top-arrow.svg" /></button>
                     </div>

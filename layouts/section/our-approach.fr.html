@@ -3,16 +3,16 @@
 {{ end }}
 
 {{ define "main" }}
-<section style="padding-top: 5rem;">
+<section class="strategy-top-section">
     <div class="container">
         <div class="row">
-            <div style="display: flex; justify-content: center;">
-                <img style="width: 90%;" src="/img/cds/cds-strategy-header.svg" />
+            <div class="header-div">
+                <img src="/img/cds/cds-strategy-img.svg" />
             </div>
             <h2 style="font-size: 45px;">Notre approche :</h2>
             <h2>Habiliter le gouvernement à mieux servir les gens</h2>
         </div>
-        <ul>
+        <ul id="table-of-contents">
             <li><a href="#en-quoi-consiste-ce-document">En quoi consiste ce document? </a></li>
             <li><a href="#pourquoi-maintenant">Pourquoi maintenant?</a></li>
             <li><a href="#notre-parcours">Notre parcours</a></li>
@@ -25,7 +25,7 @@
     </div>
 </section>
 <section class="bg-med-grey">
-    <div class="container">
+    <div class="container what-am-i-reading">
         <h3 id="en-quoi-consiste-ce-document">En quoi consiste ce document?</h3>
         <p>
             Nous nous penchons ici sur les manières dont nous essayons actuellement de remplir notre mandat, y compris
@@ -50,8 +50,8 @@
 <section>
     <div class="container">
         <div class="row">
-            <div style="display: flex;">
-                <div style="flex: 0 0 100%">
+            <div class="cds-strategy-content">
+                <div class="content">
 
                     <h3 id="pourquoi-maintenant">Pourquoi maintenant?</h3>
                     <p>
@@ -533,15 +533,18 @@
                             ministère ou un organisme aborde et structure un approvisionnement de façon à réduire les
                             risques et à obtenir les meilleurs conseils, services ou outils numériques.</li>
                     </ul>
-                    <h2 id="feedback">Faites-nous part de votre point de vue!</h2>
-                    <p>Avez-vous des commentaires sur ce document? Ne soyez pas timide. Vous pouvez entamer une
-                        conversation publique (sur <a href="https://twitter.com/SNC_GC">Twitter</a> ou <a
-                            href="https://www.linkedin.com/company/cds-snc/mycompany/">LinkedIn</a>) ou nous envoyer un
-                        message privé à
-                        l’adresse <a href="mailto:cds-snc@tbs-sct.gc.ca">cds-snc@tbs-sct.gc.ca</a>. Ce n’est pas chose
-                        simple de changer la manière dont le
-                        gouvernement sert les gens; nous souhaitons nous améliorer et accroître nos résultats à grande
-                        échelle. Vos commentaires sont les bienvenus.</p>
+                    <div class="feedback-div">
+                        <h2 id="feedback">Faites-nous part de votre point de vue!</h2>
+                        <p>Avez-vous des commentaires sur ce document? Ne soyez pas timide. Vous pouvez entamer une
+                            conversation publique (sur <a href="https://twitter.com/SNC_GC">Twitter</a> ou <a
+                                href="https://www.linkedin.com/company/cds-snc/mycompany/">LinkedIn</a>) ou nous envoyer un
+                            message privé à
+                            l’adresse <a href="mailto:cds-snc@tbs-sct.gc.ca">cds-snc@tbs-sct.gc.ca</a>. Ce n’est pas chose
+                            simple de changer la manière dont le
+                            gouvernement sert les gens; nous souhaitons nous améliorer et accroître nos résultats à grande
+                            échelle. Vos commentaires sont les bienvenus.</p>
+                    </div>
+
                     <div id="scroll-button-mobile">
                         <button>scroll to top <img src="/img/cds/scroll-top-arrow.svg" /></button>
                     </div>

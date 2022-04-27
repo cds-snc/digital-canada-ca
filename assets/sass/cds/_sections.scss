@@ -1575,6 +1575,7 @@ article.post {
   display: none;
   flex: 1;
   margin-left: 30px;
+  scroll-behavior: smooth;
   cursor: pointer;
   &.active {
     display: block;
@@ -1615,6 +1616,53 @@ article.post {
     img {
       height: 40px;
       width: 40px;
+    }
+  }
+}
+
+.strategy-top-section {
+  // padding-top: 5rem;
+
+  .header-div {
+    display: flex; 
+    justify-content: center;
+    margin: 2rem 0 2rem 0;
+
+    @include desktop {
+      margin: 5rem 0 8rem 0;
+    }
+
+    img {
+      width: 95%;
+    }
+  }
+
+  #table-of-contents {
+    margin-bottom: 5rem;
+  }
+}
+
+.cds-strategy-content {
+  display: flex;
+
+  .content {
+    flex: 0 0 100%;
+    @include desktop {
+      flex: 0 0 70%;
+    }
+    
+  }
+
+  .feedback-div {
+    margin-bottom: 5rem;
+  }
+}
+
+.what-am-i-reading {
+  p {
+    width: 100%;
+    @include desktop {
+      width: 70%;
     }
   }
 }

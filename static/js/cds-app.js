@@ -49,8 +49,9 @@ $(document).ready(function () {
   }
 
   function scrollToTop() {
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
+    // document.body.scrollTop = 0;
+    // document.documentElement.scrollTop = 0;
+    document.getElementById("table-of-contents").scrollIntoView();
   }
 
   // Add target=_blank to external links
