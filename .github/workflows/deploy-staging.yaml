@@ -54,7 +54,7 @@ jobs:
               --function-name $FUNCTION_NAME-$PR_NUMBER \
               --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
 
-            aws lambda get-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER
+            echo "URL=(aws lambda get-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER | jq .FunctionUrl )"
           else
             aws lambda create-function \
               --function-name $FUNCTION_NAME-$PR_NUMBER \
@@ -64,6 +64,9 @@ jobs:
               --description "$GITHUB_REPOSITORY" 
 
               aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER
-              aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --auth-type NONE
-              aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE
+              echo "URL=(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --auth-type NONE | jq .FunctionUrl )"
+              aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE > /dev/null 2>&1
+
+
           fi
+          echo $URL
