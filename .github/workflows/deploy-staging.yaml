@@ -11,11 +11,12 @@ env:
   ROLE_ARN: arn:aws:iam::773858180673:role/website-staging-execution-role
 
 jobs:
-  deploy-staging:
+  build-and-push-staging-container:
     runs-on: ubuntu-latest
     steps:
       - name: Set envs
         run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+
       - name: Checkout
         uses: actions/checkout@v2
 
@@ -47,26 +48,43 @@ jobs:
       - name: Logout of Amazon ECR
         run: docker logout $REGISTRY
 
+  deploy-staging-images:
+    strategy:
+      matrix:
+        lang: ["fr", "en"]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set envs
+        run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+
+      - name: Configure AWS credentials
+        id: aws-creds
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.STAGING_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.STAGING_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ca-central-1
+
       - name: Create/Update lambda function
         run: |
-          if aws lambda get-function --function-name $FUNCTION_NAME-$PR_NUMBER > /dev/null 2>&1; then
+          if aws lambda get-function --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} > /dev/null 2>&1; then
             aws lambda update-function-code \
-              --function-name $FUNCTION_NAME-$PR_NUMBER \
+              --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
               --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
 
-            aws lambda get-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER
+            aws lambda get-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
           else
             aws lambda create-function \
-              --function-name $FUNCTION_NAME-$PR_NUMBER \
+              --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
               --package-type Image \
               --role $ROLE_ARN \
               --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1 \
               --environment Variables={CONTENT_DIR=/var/www/html/en} \
               --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER" \
 
-            aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER
-            echo URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --auth-type NONE | jq .FunctionUrl) >> $GITHUB_ENV
-            aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE > /dev/null 2>&1
+            aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
+            echo URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --auth-type NONE | jq .FunctionUrl) >> $GITHUB_ENV
+            aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE > /dev/null 2>&1
           fi
 
       - name: Update PR
@@ -79,5 +97,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: `Deployed staging URL (EN): ${process.env.URL.slice(1, -1)}`
+              body: `Deployed staging URL (${{ matrix.lang }}): ${process.env.URL.slice(1, -1)}`
             })
