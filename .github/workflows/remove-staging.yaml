@@ -34,3 +34,20 @@ jobs:
           aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
           aws lambda delete-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
           aws lambda delete-function --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
+
+  delete-image:
+    steps:
+      - name: Set envs
+        run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+
+      - name: Configure AWS credentials
+        id: aws-creds
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.STAGING_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.STAGING_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ca-central-1
+
+      - name: Delete old images
+        run: |
+          aws ecr batch-delete-image --region ca-central-1 --repository-name $IMAGE --image-ids imageTag=$PR_NUMBER
