@@ -54,7 +54,7 @@ jobs:
               --function-name $FUNCTION_NAME-$PR_NUMBER \
               --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
 
-            echo "URL=$(aws lambda get-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER | jq .FunctionUrl )"
+            URL=$(aws lambda get-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER | jq .FunctionUrl )
           else
             aws lambda create-function \
               --function-name $FUNCTION_NAME-$PR_NUMBER \
