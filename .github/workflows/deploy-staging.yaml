@@ -61,7 +61,7 @@ jobs:
               --package-type Image \
               --role $ROLE_ARN \
               --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1 \
-              --environment Variables={CONTENT_DIR=/var/www/html/en}
+              --environment Variables={CONTENT_DIR=/var/www/html/en} \
               --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER" \
 
             aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER
