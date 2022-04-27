@@ -61,7 +61,7 @@ jobs:
               --package-type Image \
               --role $ROLE_ARN \
               --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1 \
-              --description "$GITHUB_REPOSITORY" 
+              --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER" \
 
             aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER
             echo URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER --auth-type NONE | jq .FunctionUrl) >> $GITHUB_ENV
@@ -78,5 +78,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: 'Deployed staging URL (XX): ' + process.env.URL
+              body: `Deployed staging URL (XX): ${process.env.URL}`
             })
