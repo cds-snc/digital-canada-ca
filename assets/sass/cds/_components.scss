@@ -122,6 +122,11 @@
   .contact-icon {
     display: inline-block;
     background: #333333;
+    a {
+      i {
+        color: $white;
+      }
+    }
   }
 
   .text {
