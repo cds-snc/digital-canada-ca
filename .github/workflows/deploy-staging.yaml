@@ -49,6 +49,7 @@ jobs:
         run: docker logout $REGISTRY
 
   deploy-staging-images:
+    needs: build-and-push-staging-container
     strategy:
       matrix:
         lang: ["fr", "en"]
