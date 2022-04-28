@@ -206,8 +206,8 @@ newsletter:
   other: "Newsletter"
 roadmap:
   other: "Roadmap to 2025"
-beginning-the-conversations:
-  other: "Beginning the conversation"
+how-cds-started:
+  other: "How CDS started"
 terms-link:
   other: "/legal/terms/"
 accessibility-link:
@@ -220,8 +220,8 @@ security-notice-link:
   other: /legal/security-notice
 security-notice:
   other: "Security Notice"  
-beginning-the-conversation-link:
-  other: "/beginning-the-conversation/"
+how-cds-started-link:
+  other: "/how-cds-started/"
 top-of-page:
   other: "Top of Page"
 trans-abbr-switch:
