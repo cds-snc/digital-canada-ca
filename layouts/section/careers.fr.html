@@ -23,6 +23,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-xs-12">
+                <a href="#jobs">Careers</a>
                 <div>
                     {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
                         <h3>Ce que nous recherchons</h3>
@@ -40,6 +41,7 @@
                         </div>
                     {{end}}
                 </div>
+                <p>Jobs</p>
             </div>
         </div>
     </div>
