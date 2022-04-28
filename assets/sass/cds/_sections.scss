@@ -1587,6 +1587,7 @@ article.post {
 .scroll-btn {
   position: sticky;
   top: 30%;
+  text-align: center;
   @include mobile_only {
     img {
       display: none;
