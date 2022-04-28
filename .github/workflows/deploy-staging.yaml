@@ -78,7 +78,7 @@ jobs:
               --role $ROLE_ARN \
               --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER \
               --environment Variables={CONTENT_DIR=/var/www/html/${{ matrix.lang }}} \
-              --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER" > /dev/null 2>&1
+              --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER"
 
             aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
             echo URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --auth-type NONE | jq .FunctionUrl) >> $GITHUB_ENV
