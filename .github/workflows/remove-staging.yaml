@@ -36,6 +36,7 @@ jobs:
           aws lambda delete-function --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
 
   delete-image:
+    runs-on: ubuntu-latest
     steps:
       - name: Set envs
         run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
