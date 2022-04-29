@@ -11,7 +11,7 @@ image-alt: The homepage of the Impact Canada Challenge Platform
 translationKey: always-a-challenge
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_always_a_challenge_2017_dc42cb6789.jpg
 ---
-During our [engagement sessions](/beginning-the-conversation/full-report/), people told us that the government needed to identify ways to enable non-traditional players to work with government and co-create solutions.
+During our [engagement sessions](/how-cds-started/full-report/), people told us that the government needed to identify ways to enable non-traditional players to work with government and co-create solutions.
 
 Challenge platforms like [Challenge.gov](https://www.challenge.gov/list/) have proven successful at engaging folks from coast-to-coast in civic problem solving. Teams compete for the cash prize, the opportunity to grow a business or a market, and the satisfaction that comes from solving important problems, which creates an incentive for additional private and nonprofit sector investment. For example, the $10 Million Ansari X PRIZE was won in 2004 by Burt Rutan and SpaceShipOne, after the 26 competing teams spent more than $100 million attempting to win the prize.
 

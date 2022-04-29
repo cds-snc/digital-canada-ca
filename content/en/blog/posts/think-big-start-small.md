@@ -22,7 +22,7 @@ Our friends at Code for Canada published [a really nice blog post](https://mediu
 
 Open source code developed and shared by these teams is also a great resource - we’re already using 18F’s [laptop install tools](https://github.com/18F/laptop) to set up our development computers more quickly, and we’re seeing what we can re-use and learn from other projects these teams have built.  
 
-Late last year and early this year, our team travelled across Canada to learn from the technology community, academic researchers, provincial and municipal governments, students, and entrepreneurs about their perspectives on digital government. Hearing first-hand from people’s experiences both working with government, and using government services, was a really valuable source of insights and inspiration as CDS was being created. You can read [all about what we learned here](/beginning-the-conversation/full-report/).
+Late last year and early this year, our team travelled across Canada to learn from the technology community, academic researchers, provincial and municipal governments, students, and entrepreneurs about their perspectives on digital government. Hearing first-hand from people’s experiences both working with government, and using government services, was a really valuable source of insights and inspiration as CDS was being created. You can read [all about what we learned here](/how-cds-started/full-report/).
 
 ## Do good work
 

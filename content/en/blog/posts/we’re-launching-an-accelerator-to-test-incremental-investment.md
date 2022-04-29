@@ -13,7 +13,7 @@ thumb: https://de2an9clyit2x.cloudfront.net/small_blog_up_to_speed_030a3f5cc5.jp
 ---
 In countries making significant progress with digital government, work with the private sector is an important part of the puzzle. Government can’t do it alone. Contracting helps scale modern technology and design methods across the public sector. Businesses bring specialized expertise, flexible surge capacity, scale, and experience with the cutting edge of technology and practice.
 
-But too often, good companies and good public sector ideas can’t find each other. In 2017, [we travelled](https://digital.canada.ca/beginning-the-conversation/full-report/)
+But too often, good companies and good public sector ideas can’t find each other. In 2017, [we travelled](https://digital.canada.ca/how-cds-started/full-report/)
 to 20 cities across Canada to talk with people about the potential for digital government.
 
 > **“One thing we heard was that “existing procurement practices [are] preventing small scale, iterative development with the private sector and making it difficult for start-ups and non-traditional players to work with government.”**

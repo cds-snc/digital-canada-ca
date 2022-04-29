@@ -19,7 +19,7 @@ For example, if we want to go cloud first, buying cloud needs to be as easy as b
 
 ## Understand people’s needs
 
-[In our 2016 consultations](https://digital.canada.ca/beginning-the-conversation/), we heard it was essential to put user needs at the heart of everything that we do. It’s just as relevant today. There’s no point building somebody a Cadillac when what they really need is a skateboard.
+[In our 2016 consultations](https://digital.canada.ca/how-cds-started/), we heard it was essential to put user needs at the heart of everything that we do. It’s just as relevant today. There’s no point building somebody a Cadillac when what they really need is a skateboard.
 
 ## Connect decisions and people
 

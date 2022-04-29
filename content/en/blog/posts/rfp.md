@@ -17,7 +17,7 @@ Today we (the Canadian Digital Service) launched a [Request for Proposals](https
 
 Do you want to support us in our mandate to improve services for newcomers to Canada, Veterans, seniors, and others? Help us implement and scale digital government in Canada by providing **strategic advice**, finding great **people**, and providing **training** to strengthen the government's digital capacity.
 
-In our early [cross-Canada engagement](https://digital.canada.ca/beginning-the-conversation/full-report/#top), we weren't surprised to hear that it's challenging for businesses to figure out how to apply for government contracts. To make the process easier, we've created a flexible way to get involved and are providing guidance on how to apply. If you want to make a big impact, this RFP is for you. The deadline for submitting a bid is Wednesday , October 10, 2018 at 15:00 EDT.
+In our early [cross-Canada engagement](https://digital.canada.ca/how-cds-started/full-report/#top), we weren't surprised to hear that it's challenging for businesses to figure out how to apply for government contracts. To make the process easier, we've created a flexible way to get involved and are providing guidance on how to apply. If you want to make a big impact, this RFP is for you. The deadline for submitting a bid is Wednesday , October 10, 2018 at 15:00 EDT.
 
 At the risk of going full BuzzFeed, here are eight things you need to know about bidding and how to apply. If we don't cover your question, fear not. You can get more information at our open-house (details to follow) or email [Neil.Charbonneau@tbs-sct.gc.ca](mailto:Neil.Charbonneau@tbs-sct.gc.ca) and [zzTBSCONT@tbs-sct.gc.ca](mailto:zzTBSCONT@tbs-sct.gc.ca) with inquiries.
 
