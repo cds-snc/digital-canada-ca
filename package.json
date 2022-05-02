@@ -14,7 +14,6 @@
     "dev": "hugo server -D",
     "build": "hugo",
     "build:stage": "hugo --environment staging",
-    "heroku-postbuild": "./bin/hugo --environment staging",
     "stage-server": "node stage-server.js",
     "snyk-protect": "snyk protect",
     "prepare": "npm run snyk-protect"

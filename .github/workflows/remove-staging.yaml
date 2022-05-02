@@ -1,0 +1,54 @@
+name: Staging review apps tear down
+
+on:
+  pull_request:
+    types: [closed]
+
+env:
+  FUNCTION_NAME: "website-staging"
+  GITHUB_SHA: ${{ github.sha }}
+  IMAGE: website-staging
+  REGISTRY: 773858180673.dkr.ecr.ca-central-1.amazonaws.com
+  ROLE_ARN: arn:aws:iam::773858180673:role/website-staging-execution-role
+
+jobs:
+  remove-staging-containers:
+    strategy:
+      matrix:
+        lang: ["fr", "en"]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set envs
+        run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+
+      - name: Configure AWS credentials
+        id: aws-creds
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.STAGING_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.STAGING_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ca-central-1
+
+      - name: Delete lambda function
+        run: |
+          aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
+          aws lambda delete-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
+          aws lambda delete-function --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
+
+  delete-image:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set envs
+        run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+
+      - name: Configure AWS credentials
+        id: aws-creds
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.STAGING_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.STAGING_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ca-central-1
+
+      - name: Delete old images
+        run: |
+          aws ecr batch-delete-image --region ca-central-1 --repository-name $IMAGE --image-ids imageTag=$PR_NUMBER
