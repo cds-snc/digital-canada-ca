@@ -168,7 +168,7 @@ team:
     email: Adrianne.Lee@tbs-sct.gc.ca
     linkedin: adriannehlee
     twitter: adriannehlee
-  - archived: true
+  - archived: false
     name: Alexa Davidson
     title:
       en: Talent
