@@ -168,7 +168,7 @@ team:
     email: Adrianne.Lee@tbs-sct.gc.ca
     linkedin: adriannehlee
     twitter: adriannehlee
-  - archived: true
+  - archived: false
     name: Alexa Davidson
     title:
       en: Talent
@@ -265,6 +265,14 @@ team:
     email: Bryan.Willey@tbs-sct.gc.ca
     github: willeybryan
     linkedin: bryan-willey
+  - archived: false
+    name: Caitlin Tom
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: small_caitlin_tom_5d3d233ee2
+    email: caitlin.tom@tbs-sct.gc.ca
+    linkedin: caitlinmtom
   - archived: false
     name: Calvin Rodo
     title:
