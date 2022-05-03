@@ -16,7 +16,7 @@ La collaboration avec le secteur privé joue un rôle important dans les pays qu
 
 Mais trop souvent, les bonnes entreprises et les bonnes idées du secteur public ne se rencontrent pas.
 
-En 2017, [nous avons visité](https://numerique.canada.ca/les-debuts-du-snc/rapport-complet/) 20 villes canadiennes pour discuter avec les gens du potentiel du gouvernement numérique.
+En 2017, [nous avons visité](https://numerique.canada.ca/commencement-de-la-conversation/rapport-complet/) 20 villes canadiennes pour discuter avec les gens du potentiel du gouvernement numérique.
 
 > **Une chose que nous avons entendue est que « les pratiques d’approvisionnement existantes empêchent le développement itératif à petite échelle avec le secteur privé et rendent la collaboration avec le gouvernement difficile pour les entreprises en démarrage et les acteurs non traditionnels ».**
 

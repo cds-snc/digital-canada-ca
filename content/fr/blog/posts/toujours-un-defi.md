@@ -12,7 +12,7 @@ image-alt: La page d’accueil de la plateforme de défis Impact Canada.
 translationKey: always-a-challenge
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_toujours_un_defi_2017_930e45d8f0.jpg
 ---
-Au cours de nos [séances de mobilisation](/les-debuts-du-snc/rapport-complet/), les gens nous ont dit que le gouvernement devait trouver des façons de permettre aux joueurs non traditionnels de s’impliquer et de co-créer des solutions avec le gouvernement.
+Au cours de nos [séances de mobilisation](/commencement-de-la-conversation/rapport-complet/), les gens nous ont dit que le gouvernement devait trouver des façons de permettre aux joueurs non traditionnels de s’impliquer et de co-créer des solutions avec le gouvernement.
 
 Lorsque vient le temps de régler des problèmes d’ordre civique, les plateformes de défis comme [Challenge.gov](https://www.challenge.gov/list/) donnent de bons résultats sur le plan de la mobilisation citoyenne, d’un océan à l’autre. Les équipes se font compétition afin d’obtenir un prix en argent, ont la chance de développer une entreprise ou un marché, et tirent satisfaction d’avoir résolu des problèmes importants. La compétition elle-même favorise les investissements supplémentaires du secteur privé et du secteur à but non lucratif. Par exemple, en 2004, Burt Rutan et SpaceShipOne ont remporté l’Ansari X PRIZE de 10 millions de dollars, alors que les 26 équipes en compétition ont dépensé plus de 100 millions de dollars à tenter de gagner le prix.
 
