@@ -1,0 +1,100 @@
+name: Staging review apps
+
+on:
+  - pull_request
+
+env:
+  FUNCTION_NAME: "website-staging"
+  GITHUB_SHA: ${{ github.sha }}
+  IMAGE: website-staging
+  REGISTRY: 773858180673.dkr.ecr.ca-central-1.amazonaws.com
+  ROLE_ARN: arn:aws:iam::773858180673:role/website-staging-execution-role
+
+jobs:
+  build-and-push-staging-container:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set envs
+        run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Build container
+        run: |
+          docker build -t $REGISTRY/$IMAGE:$PR_NUMBER .
+
+      - name: Configure AWS credentials
+        id: aws-creds
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.STAGING_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.STAGING_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ca-central-1
+
+      - name: Login to ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+
+      - name: Push containers to ECR
+        run: |
+          docker push $REGISTRY/$IMAGE:$PR_NUMBER
+
+      - name: Delete old images
+        run: |
+          IMAGES_TO_DELETE=$( aws ecr list-images --region ca-central-1 --repository-name $IMAGE --filter "tagStatus=UNTAGGED" --query 'imageIds[*]' --output json )
+          aws ecr batch-delete-image --region ca-central-1 --repository-name $IMAGE --image-ids "$IMAGES_TO_DELETE" || true
+
+      - name: Logout of Amazon ECR
+        run: docker logout $REGISTRY
+
+  deploy-staging-images:
+    needs: build-and-push-staging-container
+    strategy:
+      matrix:
+        lang: ["fr", "en"]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set envs
+        run: echo "PR_NUMBER=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")" >> $GITHUB_ENV
+
+      - name: Configure AWS credentials
+        id: aws-creds
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.STAGING_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.STAGING_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ca-central-1
+
+      - name: Create/Update lambda function
+        run: |
+          if aws lambda get-function --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} > /dev/null 2>&1; then
+            aws lambda update-function-code \
+              --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
+              --image-uri $REGISTRY/$IMAGE:$PR_NUMBER > /dev/null 2>&1
+          else
+            aws lambda create-function \
+              --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} \
+              --package-type Image \
+              --role $ROLE_ARN \
+              --code ImageUri=$REGISTRY/$IMAGE:$PR_NUMBER \
+              --environment Variables={CONTENT_DIR=/var/www/html/${{ matrix.lang }}} \
+              --description "$GITHUB_REPOSITORY/pull/$PR_NUMBER"
+
+            aws lambda wait function-active --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
+            echo URL=$(aws lambda create-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --auth-type NONE | jq .FunctionUrl) >> $GITHUB_ENV
+            aws lambda add-permission --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }} --statement-id FunctionURLAllowPublicAccess --action lambda:InvokeFunctionUrl --principal "*" --function-url-auth-type NONE > /dev/null 2>&1
+          fi
+
+      - name: Update PR
+        if: env.URL != ''
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `## :test_tube: Review environment (${{ matrix.lang }})\n${process.env.URL.slice(1, -1)}`
+            })
