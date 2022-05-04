@@ -162,9 +162,9 @@ $(document).ready(function () {
       },
       success: function () {
         if (pageLanguage == "en") {
-          window.location.href = "/success/";
+          window.location.href = "/thank-you/";
         } else {
-          window.location.href = "/reussi/";
+          window.location.href = "/merci/";
         }
       },
       error: function (xhr, textStatus, errorThrown) {
