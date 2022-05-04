@@ -168,7 +168,7 @@ team:
     email: Adrianne.Lee@tbs-sct.gc.ca
     linkedin: adriannehlee
     twitter: adriannehlee
-  - archived: true
+  - archived: false
     name: Alexa Davidson
     title:
       en: Talent
@@ -239,8 +239,8 @@ team:
   - archived: false
     name: Brock Higgins
     title:
-      en: Talent
-      fr: Talent
+      en: Partnerships
+      fr: Partenariats
     imagehash: brock_higgins_d1788c9fab
     email: brock.higgins@tbs-sct.gc.ca
     github: brockhigg10
@@ -265,6 +265,14 @@ team:
     email: Bryan.Willey@tbs-sct.gc.ca
     github: willeybryan
     linkedin: bryan-willey
+  - archived: false
+    name: Caitlin Tom
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: small_caitlin_tom_5d3d233ee2
+    email: caitlin.tom@tbs-sct.gc.ca
+    linkedin: caitlinmtom
   - archived: false
     name: Calvin Rodo
     title:
@@ -522,7 +530,7 @@ team:
     imagehash: johanna_button_15e5de8ace
     email: johanna.button@tbs-sct.gc.ca
     linkedin: johanna-button-097825143
-    twitter: buttonjohanna
+    twitter: Jo_Buttonn
   - archived: true
     name: John Kenney
     title:
@@ -851,6 +859,14 @@ team:
       fr: Développement
     imagehash: tim_arney_e07fe1ef06
     email: Tim.Arney@tbs-sct.gc.ca
+  - archived: false
+    name: Vanessa Brazeau
+    title:
+      en: Internal Operations
+      fr: Opérations internes
+    imagehash: small_vanessa_brazeau_ced38c6e81
+    email: vanessa.brazeau@tbs-sct.gc.ca
+    linkedin: vanessa-brazeau-1a2692189
   - archived: false
     name: Victoria Chan
     title:
