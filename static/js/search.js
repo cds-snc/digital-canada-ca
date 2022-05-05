@@ -44,6 +44,7 @@ async function initSearchIndex() {
       this.field("type");
       this.field("archived");
       this.field("content");
+      this.field("translationKey");
       this.ref("href");
       pagesIndex.forEach((page) => this.add(page));
     });
@@ -133,7 +134,9 @@ function removeNull(items) {
     if (
       items[prop].description !== null &&
       items[prop].archived !== true &&
-      items[prop].type !== "form-submission"
+      items[prop].type !== "form-submission" &&
+      items[prop].translationKey !== "formError" &&
+      items[prop].translationKey !== "thankYou"
     ) {
       arr.push(items[prop]);
     }
@@ -141,7 +144,11 @@ function removeNull(items) {
 
   return arr;
 }
-
+// function printForm(items) {
+//   for (var prop in items) {
+//     if (items[prop].type == "section")
+//   }
+// }
 /**
  * Suggestions from outreach team to change some of the "type" names
  */
