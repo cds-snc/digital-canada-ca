@@ -40,6 +40,7 @@ Support Developers are classified as [CS-02 or CS-03](https://www.tbs-sct.gc.ca/
 * Working in highly variable, multi-stakeholder environments
 * Experience working within a 24x7 technical support environment
 * Promoting inclusive delivery and upholding impact, openness, integrity and fairness.
+* Ideally, you’re fluent in French and English, at a government-tested level of at least BBB*.
 
 At CDS, we don’t just accept difference - we celebrate it. We proudly, passionately, and actively strive to make CDS more reflective and inclusive of the society that we serve. Our ability to deliver better public services — accessible, inclusive services — can only be realized if we can recognize and harness the most diverse range of thoughts, experiences, and skills. We work hard to create an environment where different perspectives and experiences are valued. We are committed to helping diverse talent thrive.
 
