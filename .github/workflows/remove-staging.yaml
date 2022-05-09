@@ -31,9 +31,7 @@ jobs:
 
       - name: Delete lambda function
         run: |
-          for run in {1..6}; do 
-            aws lambda wait function-exists --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
-          done
+          sleep 4m
           aws lambda delete-function-url-config --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
           aws lambda delete-function --function-name $FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
           aws logs delete-log-group --log-group-name /aws/lambda/$FUNCTION_NAME-$PR_NUMBER-${{ matrix.lang }}
