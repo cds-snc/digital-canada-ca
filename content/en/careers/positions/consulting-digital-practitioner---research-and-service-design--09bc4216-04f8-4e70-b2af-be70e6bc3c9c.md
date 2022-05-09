@@ -4,7 +4,7 @@ type: section
 title: 'Consulting Digital Practitioner - Research and Service Design'
 description: >-
   To support this important mission, we are looking for 2 Consulting Digital Practitioners - Research and Service Design, to join the Consulting team under CDS’s Partnerships unit. The Consulting team meets departments where they are in terms of their needs and context, takes stock, and delivers the specific help needed by providing guidance or hands-on assistance to change how departments serve people using technology. 
-archived: false
+archived: true
 translationKey: research-and-service-design-march-2022
 leverId: 09bc4216-04f8-4e70-b2af-be70e6bc3c9c
 ---

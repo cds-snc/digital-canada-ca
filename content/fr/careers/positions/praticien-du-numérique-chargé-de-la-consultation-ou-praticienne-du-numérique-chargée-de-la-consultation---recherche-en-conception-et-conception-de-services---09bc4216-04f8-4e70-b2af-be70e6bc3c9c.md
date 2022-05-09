@@ -4,7 +4,7 @@ type: section
 title: 'Praticien du numérique chargé de la consultation ou praticienne du numérique chargée de la consultation - Recherche en conception et conception de services '
 description: >-
   Pour soutenir cette importante mission, nous recherchons deux praticien·ne·s du numérique chargé·e·s de la consultation, recherche en conception et conception de services, pour se joindre à l’équipe du conseil de l’unité des partenariats du SNC. L’équipe du conseil du SNC fournit des conseils d’experts et une aide pratique aux fonctionnaires qui créent de nouveaux services ou améliorent les services existants afin de servir le public. Par conséquent, en tant que membre de cette équipe, vous devrez posséder une attitude axée sur les résultats, être capable de jouer plusieurs rôles et accepter de vous familiariser avec la bureaucratie gouvernementale pour faire avancer les choses.
-archived: false
+archived: true
 translationKey: research-and-service-design-march-2022
 leverId: 09bc4216-04f8-4e70-b2af-be70e6bc3c9c
 ---
