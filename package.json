@@ -25,5 +25,8 @@
   "author": "",
   "license": "ISC",
   "homepage": "https://github.com/cds-snc/digital-canada-ca#readme",
-  "snyk": true
+  "snyk": true,
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
