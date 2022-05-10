@@ -377,6 +377,13 @@ team:
     github: dnngyn 
     linkedin: dnguyen420
   - archived: false
+    name: Dylan Zheng
+    title:
+      en: Design
+      fr: Conception
+    imagehash: small_dylan_zheng_040acd2115
+    email: dylan.zheng@tbs-sct.gc.ca
+  - archived: false
     name: Edwin Imidy
     title:
       en: Internal Operations
