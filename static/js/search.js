@@ -20,6 +20,7 @@ const innerModal = document.getElementById("inner-modal");
 const firstFocusableElement = innerModal.querySelectorAll(focusableElements)[0]; // get first element to be focused inside modal
 const focusableContent = innerModal.querySelectorAll(focusableElements);
 let lastFocusableElement;
+var test;
 
 /**
  * Initializes the search index
