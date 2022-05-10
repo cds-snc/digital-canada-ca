@@ -144,11 +144,6 @@ function removeNull(items) {
 
   return arr;
 }
-// function printForm(items) {
-//   for (var prop in items) {
-//     if (items[prop].type == "section")
-//   }
-// }
 /**
  * Suggestions from outreach team to change some of the "type" names
  */
