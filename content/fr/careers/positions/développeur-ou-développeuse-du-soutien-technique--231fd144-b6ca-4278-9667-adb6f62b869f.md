@@ -40,6 +40,7 @@ Les développeurs de soutien sont classés [CS-02 ou CS-03](https://www.tbs-sct.
 * Capacité de travailler dans des environnements multi-intervenants hautement variables
 * Expérience de travail dans un environnement de soutien technique ouvert 24 heures sur 24, 7 jours sur 7
 * Promotion de la prestation inclusive, de l’efficacité, de l’ouverture, de l’intégrité et de l’équité
+* Idéalement, vous maîtrisez le français et l’anglais, au niveau BBB* testé par le gouvernement ou supérieur.
 
 Nous savons que chacun(e) contribue des compétences et des expériences, et que tout le monde « ne coche pas toutes les cases ». Postulez quand même! Dites-nous pourquoi vous êtes la bonne/ le bon candidat(e) pour ce poste.
 
