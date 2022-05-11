@@ -133,10 +133,7 @@ function removeNull(items) {
   for (var prop in items) {
     if (
       items[prop].description !== null &&
-      items[prop].archived !== true &&
-      items[prop].type !== "form-submission" &&
-      items[prop].translationKey !== "formError" &&
-      items[prop].translationKey !== "thankYou"
+      items[prop].archived !== true
     ) {
       arr.push(items[prop]);
     }
