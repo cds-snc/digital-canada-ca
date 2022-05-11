@@ -46,7 +46,13 @@ async function initSearchIndex() {
       this.field("content");
       this.field("translationKey");
       this.ref("href");
-      pagesIndex.forEach((page) => this.add(page));
+      pagesIndex.forEach((page) => {
+        
+        if (page.translationKey !== 'thankYou' && page.translationKey !== 'formError') {
+          this.add(page)
+        }
+        
+      });
     });
   } catch (e) {
     console.log(e);
