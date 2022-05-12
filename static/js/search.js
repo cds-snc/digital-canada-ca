@@ -48,11 +48,10 @@ async function initSearchIndex() {
       this.ref("href");
       pagesIndex.forEach((page) => {
         
-        if (page.translationKey !== 'thankYou' && page.translationKey !== 'formError') {
+        
+        if (page.translationKey === 'thankYou' || page.translationKey === 'formError') {
           this.add(page)
-        } else {
-          console.log(page);
-        }
+        } 
         
       });
     });
