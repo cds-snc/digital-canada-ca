@@ -47,13 +47,7 @@ async function initSearchIndex() {
       this.field("translationKey");
       this.ref("href");
       pagesIndex.forEach((page) => {
-        
-        
-        // if (page.translationKey !== 'thankYou' && page.translationKey !== 'formError') {
-          
-        // } 
         this.add(page)
-        
       });
     });
   } catch (e) {
