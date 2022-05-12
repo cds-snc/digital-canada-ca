@@ -140,8 +140,7 @@ function removeNull(items) {
   let arr = [];
   for (var prop in items) {
     if (
-      items[prop].description !== null &&
-      items[prop].archived !== true
+      items[prop].description !== null
     ) {
       arr.push(items[prop]);
     }
