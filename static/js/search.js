@@ -50,6 +50,8 @@ async function initSearchIndex() {
         
         if (page.translationKey !== 'thankYou' && page.translationKey !== 'formError') {
           this.add(page)
+        } else {
+          console.log(page);
         }
         
       });
