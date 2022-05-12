@@ -49,7 +49,7 @@ async function initSearchIndex() {
       pagesIndex.forEach((page) => {
         
         
-        if (page.translationKey === 'thankYou' || page.translationKey === 'formError') {
+        if (page.translationKey === 'thankYou' && page.translationKey === 'formError') {
           this.add(page)
         } 
         
