@@ -56,6 +56,8 @@ jobs:
       - name: test
         run: |
           htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow-hash-href --empty_alt_ignore --check-favicon --check-html --disable-external --file-ignore=/lib/,/admin/
+      - name: npm init
+        run: npm init -y
       - name: uuid-test
         run: |
           npm install --include=dev
