@@ -58,7 +58,8 @@ jobs:
           htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow-hash-href --empty_alt_ignore --check-favicon --check-html --disable-external --file-ignore=/lib/,/admin/
       - name: uuid-test
         run: |
-          npm install --save-dev jest && npm run uuid
+          npm install --include=dev
+        working-directory: client  
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     needs: test
