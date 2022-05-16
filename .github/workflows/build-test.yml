@@ -60,7 +60,7 @@ jobs:
         run: npm init -y
       - name: uuid-test
         run: |
-          npm install --include=dev
+          npm install --include=dev && npm run uuid
   deploy:
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     needs: test
