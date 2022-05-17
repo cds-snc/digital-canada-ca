@@ -16,7 +16,8 @@
     "build:stage": "hugo --environment staging",
     "stage-server": "node stage-server.js",
     "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "prepare": "npm run snyk-protect",
+    "uuid": "jest -- uuid.test.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,8 @@
   "author": "",
   "license": "ISC",
   "homepage": "https://github.com/cds-snc/digital-canada-ca#readme",
-  "snyk": true
+  "snyk": true,
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
