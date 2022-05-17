@@ -59,7 +59,7 @@ jobs:
       - name: npm init
         run: npm init -y
       - name: uuid-test
-        uses: action/checkout
+        uses: actions/checkout@v2
         run: |
           npm install --include=dev && npm run uuid
   deploy:
