@@ -1,5 +1,26 @@
 {{ define "main" }}
-{{ .Content }}
+<section>
+  <div class="meet-us-container container">
+    <div class="row">
+      <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+        <p>{{ i18n "meet-the-team-intro" }}</p>
+        <div class="cta-wrapper">
+          <div class="cta cta--grey-bg cta--purple col-sm-12">
+            <div class="cta__content">
+              <h2 class="cta__content-title">{{ i18n "meet-the-team-interested" }}</h2>
+            </div>
+            <div class="cta__link">
+              <a href={{ i18n "careers-link" }}>{{ i18n "current-openings" }}<svg width="16" height="16" viewBox="0 0 16 16"
+                  xmlns="http://www.w3.org/2000/svg">
+                  <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+                </svg></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>
+</section>
 <section class="section our-team--listing">
 
   <div class="meet-us-container container">

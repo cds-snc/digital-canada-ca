@@ -74,7 +74,13 @@ links:
   other: "Links"
 meet-the-full-team:
   other: "The full team"
-next-post:
+meet-the-team-intro:
+  other: "We are a team of passionate people committed to making it easier to access and use government services. We all bring something different to CDS, whether that’s experiences from inside or outside government."
+meet-the-team-interested:
+  other: "Interested in joining us?"
+current-openings:
+  other: "Current openings"
+  next-post:
   other: "Next post"
 meet-the-team:
   other: "Meet the team"
@@ -382,6 +388,8 @@ partnership-tag:
   other: "partnership-tag"  
 careers-tag:
   other: "careers-tag" 
+careers-link:
+  other: "/careers/"  
 tools-and-resources-tag:
   other: "tools-and-resources-tag"
 read-our-blog-tag:

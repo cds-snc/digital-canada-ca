@@ -72,6 +72,12 @@ links:
   other: "Liens"
 meet-the-full-team:
   other: "Toute l’équipe"
+meet-the-team-intro:
+  other: "Nous sommes une équipe de personnes passionnées et déterminées à rendre les services gouvernement aux accessibles et faciles à utiliser. Nous apportons tous quelque chose de différent au SNC, qu’il s’agisse d’expériences internes ou externes au gouvernement."
+meet-the-team-interested:
+  other: "Vous aimeriez vous joindre à nous?"
+current-openings:
+  other: "Postes à pourvoir"
 next-post:
   other: "Billet suivant"
 meet-the-team:
@@ -385,7 +391,10 @@ about-tools-and-resources:
 partnership-tag:
   other: "partenariats-tag"  
 careers-tag:
-  other: "carrieres-tag" 
+  other: "carrieres-tag"
+  other: "careers-tag" 
+careers-link:
+  other: "/carrieres/"    
 tools-and-resources-tag:
   other: "outils-tag"
 read-our-blog-tag:
