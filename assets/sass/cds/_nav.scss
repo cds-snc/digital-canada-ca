@@ -168,14 +168,19 @@
       @include tablet {
         margin-right: 2rem;
       }
-      
+
+      transition: outline 0.3s ease-in-out;
       background-color: inherit;
       border: none;
+      border-top: 2px solid transparent;
       outline: none;
       color: $white;
       font-size: 2rem;
       @include mobile_only {
         display: none;
+      }
+      &:focus {
+        border-top-color: $primary-color;
       }
     }
     .dropdown-content {
@@ -225,7 +230,7 @@
       }
     }
   }
-  .dropdown:hover .dropdown-content {display: block;}
+  .dropdown:hover .dropdown-content, .dropdown:focus-within .dropdown-content {display: block;}
 }
 
 .top-nav {
