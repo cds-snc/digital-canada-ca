@@ -20,9 +20,9 @@
           <div class="mobile-lang">{{ partial "langSwitch.html" . }}</div>
           <div class="menu-items">
             <div class="dropdown">
-              <button>{{ i18n "how-we-can-help"}} <i class="fa fa-caret-down"></i></button>
+              <button id="how-can-we-help-button" aria-controls="how-we-can-help-dropdown">{{ i18n "how-we-can-help"}} <i class="fa fa-caret-down"></i></button>
                 
-                <div class="dropdown-content">
+                <div class="dropdown-content" id="how-we-can-help-dropdown" aria-labelledby="how-can-we-help-button">
                   {{ range $dropdown := .Site.Menus.dropdown}}
                   <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
                   {{ end }}
