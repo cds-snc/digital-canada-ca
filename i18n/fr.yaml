@@ -339,7 +339,7 @@ filter-search:
 search:
   other: "Rechercher"
 enter-search:
-  other: "Que recherchez-vous"   
+  other: "Que recherchez-vous?"   
 load-more:
   other: "Afficher plus de résultats" 
 close:
