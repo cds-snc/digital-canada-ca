@@ -15,7 +15,7 @@ The words we use as public servants to name government services and programs are
 We learned from this and are sharing a few tips in this blog post! 
 
 ## What to do when expectations don’t line up…
-The first product team I joined at CDS, as Content Designer, was called the Pre-Discovery team. Pre-Discoveries were [digital analyses](https://github.com/cds-snc/exploration-documentation) of government programs to help public servants scale or build a digital service within their own teams. They were first conceived as a way for CDS to gauge a partner’s potential for an ongoing engagement. 
+The first product team I joined at CDS, as a Content Designer, was called the Pre-Discovery team. Pre-Discoveries were [digital analyses](https://github.com/cds-snc/exploration-documentation) of government programs to help public servants scale or build a digital service within their own teams. They were first conceived as a way for CDS to gauge a partner’s potential for an ongoing engagement. 
 
 But, as we started to support digital teams across the government, we kept hitting the same problem: Our stakeholders were asking questions we didn’t have the answers to — like, “When will we move from Pre-Discovery to Discovery?” or “Did we pass the test, will you continue to partner with us?”
 
