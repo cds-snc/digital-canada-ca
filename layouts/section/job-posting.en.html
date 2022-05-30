@@ -7,6 +7,12 @@
         {{ if and (.Params.leverId) (eq .Params.archived false) }}
           <a href="#apply-now">Apply now</a>
         {{end}}
+        {{ if and (.Params.leverId) (eq .Params.archived true) }}
+        <div class="job-posting-banner">
+          <p>We're no longer accepting applications for this position. To see a list of active job postings, please visit our <a style="color: black;" href="/careers/">Careers page</a>.</p>
+        </div>
+        
+        {{ end }}
         <div class="content">
           {{.Content}}
         </div>
