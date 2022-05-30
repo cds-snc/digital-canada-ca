@@ -159,12 +159,15 @@
 }
 .job-posting-banner {
   background: #fdf3cd;
-  padding: 1rem 1rem 0.2rem 1rem;
+  padding: 1rem 1rem 1rem 1rem;
   color: black;
   
   a {
     font-weight: bold;
     text-decoration: none;
+  }
+  p {
+    margin-bottom: 0;
   }
 }
 
