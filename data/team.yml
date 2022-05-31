@@ -883,6 +883,16 @@ team:
     email: victoria.chan@tbs-sct.gc.ca
     linkedin: victoriakaychan
   - archived: false
+    name: Vivian Nobrega
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: small_vivian_0a54fc0337
+    email: vivian.nobrega@tbs-sct.gc.ca
+    github: https://github.com/ShadeWyrm
+    linkedin: https://www.linkedin.com/in/vivian-nobrega-782481160/
+    twitter: https://twitter.com/ShadeWyrm/
+  - archived: false
     name: Wanpeng Yang
     title:
       en: Internal Site Reliability Engineering (SRE)
