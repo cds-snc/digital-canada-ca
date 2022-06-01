@@ -637,6 +637,14 @@ team:
     imagehash: small_lyn_elliot_6a2dfe52e8
     email: lyn.elliott@tbs-sct.gc.ca
   - archived: false
+    name: Marika Thibault
+    title:
+      en: Talent
+      fr: Talent
+    imagehash: small_IMG_1928_a70c2da673
+    email: marika.thibault@tbs-sct.gc.ca
+    linkedin: https://www.linkedin.com/in/marika-thibault-14621415b
+  - archived: false
     name: Mario Garneau
     title:
       en: Product Management
@@ -882,6 +890,16 @@ team:
     imagehash: victoria_chan_639fffb1c6
     email: victoria.chan@tbs-sct.gc.ca
     linkedin: victoriakaychan
+  - archived: false
+    name: Vivian Nobrega
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: small_vivian_0a54fc0337
+    email: vivian.nobrega@tbs-sct.gc.ca
+    github: https://github.com/ShadeWyrm
+    linkedin: https://www.linkedin.com/in/vivian-nobrega-782481160/
+    twitter: https://twitter.com/ShadeWyrm/
   - archived: false
     name: Wanpeng Yang
     title:
