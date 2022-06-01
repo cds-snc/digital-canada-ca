@@ -77,7 +77,7 @@ Interested in exploring your digital readiness? We can help! [See how](https://d
 —————
 
 
-Curious to discover other word mapping techniques? Well, we have a few suggestions for you: 
+Curious to discover other content design techniques? Well, we have a few suggestions for you: 
 
 - The book *Everyday Information Architecture* by Lisa Maria Martin is a fantastic primer to get you started with analyzing content, categorizing and organizing information, while growing your awareness of how people understand words and information. 
 

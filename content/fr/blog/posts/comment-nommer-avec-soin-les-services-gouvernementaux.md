@@ -78,7 +78,7 @@ Vous souhaitez explorer votre disposition au numérique? Nous pouvons vous aider
 
 ——————
 
-Envie de découvrir d’autres techniques pour créer des schémas de mots? Voici quelques suggestions pour vous : 
+Souhaitez-vous en apprendre davantage sur les techniques de conception de contenu? Ça tombe bien, nous avons quelques suggestions pour vous : 
 
 - Le livre *Everyday Information Architecture* (« Architecture de l’information quotidienne »), par Lisa Maria Martin, est un excellent premier ouvrage pour vous lancer dans l’analyse de contenu ainsi que dans la catégorisation et l’organisation de l’information. Il vous permettra également d’en apprendre davantage sur la façon dont les gens comprennent les mots et les renseignements. 
 
