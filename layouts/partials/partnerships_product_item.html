@@ -50,6 +50,17 @@
   <!-- End Partner -->
 
     <div class="col-sm-10 col-sm-offset-1 col-xs-12">
+      <!-- In progress team -->
+      <div class="work-in-progress--team">
+        <p class='leader'>Contact:</p>
+        {{ range .Params.contact }}
+          <p><a class="contact-link" href='mailto:{{.email}}'>{{.name}}</a></p>
+        {{ end }}
+      </div>
+      <!-- End in progress team -->
+    </div>
+
+    <div class="col-sm-10 col-sm-offset-1 col-xs-12">
       <!-- In progress -->
       <div class="work-in-progress--links">
         {{with .Params.links }}
