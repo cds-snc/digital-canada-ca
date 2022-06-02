@@ -5,7 +5,7 @@ title: 'Visual Storytelling Advisor'
 description: >-
   As the Outreach Team, we are the storytellers of the Canadian Digital Service. We tell the stories that help public servants improve government services and make people’s lives better. If you’re ready to help us use fewer words and more pictures, then this is the role for you. This role is classified as a IS-02 in the Information Services  group and represents the IS qualification standards.
 
-archived: false
+archived: true
 translationKey: visual-storytelling-advisor-apr-2022
 leverId: 79bcb51a-f5dc-4a33-be6e-66a53130c25e
 ---
