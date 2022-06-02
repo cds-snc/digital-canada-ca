@@ -4,7 +4,7 @@ type: section
 title: 'Conseiller en narration visuelle'
 description: >-
   En tant que membres de l’équipe de liaison et diffusion, nous sommes les narrateur·rice·s du Service numérique canadien. Nous racontons les histoires qui aident les fonctionnaires à améliorer les services publics et à rendre la vie des gens meilleure. Si vous souhaitez nous aider à utiliser moins de mots et plus d’images, ce poste est fait pour vous. Ce rôle est classé IS-02 dans le groupe des Services d’information et est soumis aux normes de qualification IS.
-archived: false
+archived: true
 translationKey: visual-storytelling-advisor-apr-2022
 leverId: 79bcb51a-f5dc-4a33-be6e-66a53130c25e
 ---
