@@ -4,7 +4,7 @@ type: section
 title: 'Technical Support Developer'
 description: >-
   We’re hiring a Technical Support Developer. While we have locations in Ottawa, Montreal, Toronto, and Kitchener; we largely work distributedly and equally value candidates in other parts of Canada. 
-archived: false
+archived: true
 translationKey: technical-support-dev-apr-2022
 leverId: 231fd144-b6ca-4278-9667-adb6f62b869f
 ---
