@@ -393,11 +393,11 @@ product-suite-tag:
 guides-tag:
   other: "guides-tag"
 coaching-and-advice-intro:
-  other: "At no cost, we provide support to help federal public servants improve how they design, build, and deliver public-facing government services. Our digital government practitioners work with government teams to understand their needs and contexts. They provide tailored help in the form of coaching, advice, and hands-on support to enable those teams to overcome their specific hurdles."        
+  other: "As federal public servants ourselves, we know how complicated digital service delivery in government can be. Our team of digital practioners is here to help."        
 coaching-and-advice-checklist-title:
-  other: "We can help your team:"  
+  other: "We can help empower your team to:"
 coaching-and-advice-checklist-item-one:
-  other: " Deliver modern digital services"
+  other: " Deliver modern public-facing digital services"
 coaching-and-advice-checklist-item-two:
   other: " Meet the needs of the people who use your services"
 coaching-and-advice-checklist-item-three:
@@ -406,10 +406,18 @@ coaching-and-advice-checklist-item-four:
   other: " Make better use of funding and contracts"
 coaching-and-advice-checklist-item-five:
   other: " Make the case for change"
+coaching-and-advice-checklist-two-title:
+  other: "How it works:"
+coaching-and-advice-checklist-two-item-one:
+  other: " Tailored coaching, advice and hands-on support to meet your specific needs"
+coaching-and-advice-checklist-two-item-two:
+  other: " For government, by government"
+coaching-and-advice-checklist-two-item-three:
+  other: " No cost to your team"          
 coaching-and-advice-contact-us-title:
-  other: "So, where do we start?"
+  other: "Let’s get started"
 coaching-and-advice-contact-us-description:
-  other: "Tell us a bit about your work and we’ll let you know how we can help."              
+  other: "Reach out to learn more about how we can support your team’s service delivery."
 product-suite-description:
   other: "Building government solutions so you don’t have to."
 product-suite-intro:
