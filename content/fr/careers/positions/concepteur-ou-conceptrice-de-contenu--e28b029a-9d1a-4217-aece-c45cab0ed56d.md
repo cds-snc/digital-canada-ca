@@ -51,5 +51,3 @@ Dans le cadre de tous nos engagements, nous travaillons avec des dirigeant·e·s
 
 Nous sommes conscients que tout le monde apporte des compétences et des expériences différentes, et que personne ne répond exactement aux exigences. Postulez quand même! Dites-nous pourquoi vous êtes le ou la bon·ne candidat·e.
 
-**Par mesure de précaution, toutes les entrevues dans un avenir proche seront menées par vidéo ou téléconférence.*
-
