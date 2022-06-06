@@ -157,6 +157,22 @@
     color: #245269;
   }
 }
+.job-posting-banner {
+  background: #fdf3cd;
+  padding: 1rem 1rem 1rem 1rem;
+  color: black;
+  
+  a {
+    font-weight: bold;
+    
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  p {
+    margin-bottom: 0;
+  }
+}
 
 ///// TEAM LISTING
 .heading {

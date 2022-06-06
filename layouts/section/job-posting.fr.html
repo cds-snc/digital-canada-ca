@@ -5,8 +5,14 @@
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-xs-12">
           {{ if and (.Params.leverId) (eq .Params.archived false) }}
-            <a href="#apply-now">Postulez maintenant</a>
+          <a href="#apply-now">Postulez maintenant</a>
           {{end}}
+          {{ if and (.Params.leverId) (eq .Params.archived true) }}
+          <div class="job-posting-banner">
+              <p>Nous n’acceptons plus de candidatures pour ce poste. Pour consulter une liste des postes actifs, veuillez vous rendre sur notre <a href="/carrieres/" style="color: black;">page carrières</a>.</p>
+          </div>
+
+          {{ end }}
           <div class="content">
             {{.Content}}
           </div>
@@ -59,7 +65,7 @@
 
         <div class="cta__link black">
           <a href="/careers/">En savoir plus sur notre processus de recrutement<img
-              src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/></a>
+              src="/img/icons/arrow-right-white.svg" role="presentation" alt="" /></a>
         </div>
       </div>
     </div>
@@ -128,17 +134,20 @@
         </div>
         <textarea class="form-control" id="samples" name="samples" rows="5"></textarea>
       </div>
-       <!-- How did you hear about this job-->
-       <div class="form-group">
-          <label style="margin-bottom: 1rem;" for="talent_tracking">Comment avez-vous entendu parler de ce poste?</label>
-          <input type="text" class="form-control validate-required" name="talent_tracking" id="talent_tracking" aria-required="true" aria-describedby="talent-tracking-required"/>
-          <span id="talent-tracking-required" class="error-message validate-required-message" style="display: none;">Ce champ est
-            obligatoire</span>
-        </div>
+      <!-- How did you hear about this job-->
+      <div class="form-group">
+        <label style="margin-bottom: 1rem;" for="talent_tracking">Comment avez-vous entendu parler de ce poste?</label>
+        <input type="text" class="form-control validate-required" name="talent_tracking" id="talent_tracking"
+          aria-required="true" aria-describedby="talent-tracking-required" />
+        <span id="talent-tracking-required" class="error-message validate-required-message" style="display: none;">Ce
+          champ est
+          obligatoire</span>
+      </div>
       <!-- Submit-->
       <div>
         <button type="submit" class="submit-button" id="submit-btn">
-          <span class="submit-button-text">Soumettre<img src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/></span>
+          <span class="submit-button-text">Soumettre<img src="/img/icons/arrow-right-white.svg" role="presentation"
+              alt="" /></span>
         </button>
       </div>
       <div class="privacy-link">
