@@ -42,7 +42,7 @@ Once you’ve identified the main ideas, analyze the meanings of those words, wh
  
 Then go a little deeper: What are the connotations associated with those words or those services and do they support the meaning you want to convey? Are they neutral or do they conflict with the meaning?
 
-## 2. Try *word* mapping 
+## 2. Try *word mapping* 
 
 A word map is a fun, visual way to throw a bunch of words together that people are using to describe a service (like a semantic field) and then sort them into common themes. I like to put each word in a shape, like a little word bubble. 
 
