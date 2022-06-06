@@ -51,5 +51,3 @@ You'll join the Partnerships Business Unit, which grows our relationships with o
 In all of our engagements, we work with public service leadership, service owners, and our colleagues to make the case for change, introduce new ways of working, and deliver the greatest public value. This means that regardless of your title and position, you'll need to be outcome focused, able to wear multiple hats, and ready to navigate government bureaucracy to get things done. Common themes for engagements include: change management, procurement (i.e. buying software or services), human-centred design, and leveraging commodity solutions (i.e. cloud, etc.).
 
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
-
-**Out of an abundance of caution, all interviews will be conducted via video or teleconference for the foreseeable future.*
