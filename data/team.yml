@@ -744,9 +744,9 @@ team:
     title:
       en: Policy
       fr: Politiques
-    imagehash: small_1611350066290_1_b93107d64e
-    email: Nourhan.hegazy@tbs-sct.gc.ca
-    linkedin: https://www.linkedin.com/in/nourhan-hegazy-1468347a/
+    imagehash: small_nourhan_hegazy_80964aa18c
+    email: nourhan.hegazy@tbs-sct.gc.ca
+    linkedin: nourhan-hegazy-1468347a/
   - archived: false
     name: Omar Nasr
     title:
@@ -903,11 +903,11 @@ team:
     title:
       en: Partnerships
       fr: Partenariats
-    imagehash: small_vivian_0a54fc0337
+    imagehash: small_vivian_nobrega_b9e225e371
     email: vivian.nobrega@tbs-sct.gc.ca
-    github: https://github.com/ShadeWyrm
-    linkedin: https://www.linkedin.com/in/vivian-nobrega-782481160/
-    twitter: https://twitter.com/ShadeWyrm/
+    github: ShadeWyrm
+    linkedin: vivian-nobrega-782481160
+    twitter: ShadeWyrm
   - archived: false
     name: Wanpeng Yang
     title:
