@@ -27,7 +27,7 @@ exec:
     email: Anatole.Papadopoulos@tbs-sct.gc.ca
     linkedin: anatole-papadopoulos-845a431
     twitter: anatolep
-  - archived: false
+  - archived: true
     name: Andrea Gilbrook
     title:
       en: Director of Talent & Operations
@@ -48,7 +48,7 @@ exec:
     name: Chelsea Novak
     title:
       en: Director of Outreach
-      fr: Directrice de liaison et diffusion
+      fr: Directrice de la liaison et diffusion
     imagehash: chelsea_novak_05ac9ef7d7
     email: chelsea.novak@tbs-sct.gc.ca
     github: chelseanovak
@@ -74,14 +74,14 @@ exec:
     name: Jennifer Stephan
     title:
       en: Head of Internal Operations
-      fr: Chef des opérations internes
+      fr: Cheffe des opérations internes
     imagehash: jennifer_stephan_324e6090d3
     email: jennifer.stephan@tbs-sct.gc.ca
   - archived: false
     name: John Millons
     title:
-      en: Director of Policy & Internal Site Reliability Engineering (SRE)
-      fr: Directeur des politiques et de l’ingénierie de fiabilité des sites interne
+      en: Acting Chief Operating Officer & Executive Director 
+      fr: Directeur des opérations par intérim et directeur exécutif
     imagehash: john_millons_64f6b29b6e
     email: John.Millons@tbs-sct.gc.ca
     twitter: JohnMillons
@@ -97,8 +97,8 @@ exec:
   - archived: false
     name: Leanne Labelle
     title:
-      en: Head of Growth & Notify
-      fr: Cheffe de la croissance et de Notification
+      en: Acting Executive Director of Platform
+      fr: Directrice exécutive de la plateforme par intérim
     imagehash: leane_labelle_54635926a6
     email: leanne.labelle@tbs-sct.gc.ca
     linkedin: leannelabelle
@@ -440,7 +440,7 @@ team:
     email: gabe.sawhney@tbs-sct.gc.ca
     linkedin: gabesawhney
     twitter: gggg
-  - archived: false
+  - archived: true
     name: Gillian Massel
     title:
       en: Design
@@ -516,8 +516,8 @@ team:
   - archived: false
     name: Jessica Loadenthal
     title:
-      en: Outreach
-      fr: Liaison et diffusion
+      en: Talent
+      fr: Talent
     imagehash: jessica_loadenthal_eeb5d01c0e
     email: Jessica.Loadenthal@tbs-sct.gc.ca
   - archived: false
