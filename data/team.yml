@@ -48,7 +48,7 @@ exec:
     name: Chelsea Novak
     title:
       en: Director of Outreach
-      fr: Directrice de liaison et diffusion
+      fr: Directrice de la liaison et diffusion
     imagehash: chelsea_novak_05ac9ef7d7
     email: chelsea.novak@tbs-sct.gc.ca
     github: chelseanovak
@@ -74,7 +74,7 @@ exec:
     name: Jennifer Stephan
     title:
       en: Head of Internal Operations
-      fr: Chef des opérations internes
+      fr: Cheffe des opérations internes
     imagehash: jennifer_stephan_324e6090d3
     email: jennifer.stephan@tbs-sct.gc.ca
   - archived: false
