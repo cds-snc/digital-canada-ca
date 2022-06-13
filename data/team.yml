@@ -109,6 +109,7 @@ exec:
       en: Head of Internal Site Reliability Engineering (SRE)
       fr: Chef de l’ingénierie de fiabilité des sites interne
     imagehash: max_neuvians_75b0928209
+    email: max.neuvians@cds-snc.ca
     github: maxneuvians
     linkedin: maxneuvians
   - archived: false
