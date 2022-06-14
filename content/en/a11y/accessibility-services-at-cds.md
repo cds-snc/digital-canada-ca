@@ -1,7 +1,7 @@
 ---
 type: a11y
 layout: default
-title: Accessibility Services for CDS teams
+title: Accessibility services for CDS teams
 translationKey: accessibility-services-for-cds-teams
 ---
 
@@ -9,7 +9,7 @@ CDS provides  Accessibility Services specifically for CDS teams.
 
 If you work at CDS,  you can use our internal Accessibility Services.  These include:
 
-- High-level report that reviews baseline compliance, as well as whether your product meets CDS’s accessibility commitment. We adapted a checklist from 18F, updated it to reference WCAG 2.1 AA standards, and revised the 18F check points to better meet the needs of Canadians. You can learn more about Priority Checks in [“How to Make it Accessible”] (/a11y/how-to-make-it-accessible/).
+- High-level report that reviews baseline compliance, as well as whether your product meets CDS’s accessibility commitment. We adapted a checklist from 18F, updated it to reference WCAG 2.1 AA standards, and revised the 18F check points to better meet the needs of Canadians. You can learn more about Priority Checks in [“How to make it accessible”] (/a11y/how-to-make-it-accessible/).
 
 - Detailed accessibility audit with full report on the issues identified, how these relate to accessibility, and your next steps to fix these and any related issues.
 

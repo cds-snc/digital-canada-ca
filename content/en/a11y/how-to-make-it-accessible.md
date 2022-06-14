@@ -1,7 +1,7 @@
 ---
 type: a11y
 layout: default
-title: How to make it Accessible
+title: How to make it accessible
 translationKey: how-to-make-it-accessible
 ---
 
@@ -42,7 +42,7 @@ Incorporate accessibility considerations in your research artifacts (for example
 
 In Alpha, ensure your service meets the standards of our Priority Check 1 checklist.
 
-### Priority Check 1 - Critical (WCAG 2.1 A, AA)
+### Priority check 1: critical (WCAG 2.1 A, AA)
 
 Check that your service includes all the following:
 
@@ -90,7 +90,7 @@ You must get an accessibility audit - and fix any issues - before your service m
 
 As well, ensure your Beta service meets the standards of our Priority Check 2 list.
 
-### Priority Check 2 - Less critical, but essential (WCAG 2.1, A, AA)
+### Priority check 2: less critical, but essential (WCAG 2.1, A, AA)
 
 - [Frames are named](https://accessibility.18f.gov/iframes/) and have a name element
 - [Flashing elements are compliant](https://accessibility.18f.gov/flashing/): any elements that flash on screen do so at a rate of less than 3 Hz
@@ -128,7 +128,7 @@ As well, ensure your Beta service meets the standards of our Priority Check 2 li
 
 As you prepare to make your service live, and after launch, strive to ensure your service meets the standards of our Priority Check 3 list.
 
-### Priority Check 3 - Ideal (WCAG 2.1 AAA)
+### Priority check 3: Ideal (WCAG 2.1 AAA)
 
 - [In content implemented using markup languages, the purpose of UI, icons and regions can be programmatically determined.](https://www.w3.org/TR/WCAG21/#identify-purpose)
 - Timeouts
