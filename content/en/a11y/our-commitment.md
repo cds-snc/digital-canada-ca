@@ -1,7 +1,7 @@
 ---
 type: a11y
 layout: default
-title: Our Commitment
+title: Our commitment
 translationKey: our-commitment
 ---
 
@@ -25,7 +25,7 @@ The following guidelines aim to help everyone at CDS, including our partners, cr
 
 In creating these guidelines, we have drawn from the work of the Government Digital Service in the United Kingdom, 18F in the United States, Digital Transformation Agency in Australia and the Ontario Digital Service and adapted it to meet our needs and priorities. We will regularly add to and improve this guide.
 
-## Principles of Accessibility
+## Principles of accessibility
 
 - Put people first; follow inclusive design principles to provide equal access by providing a comparable experience to humans with diverse abilities
 - Include accessibility from the start of service design
