@@ -33,7 +33,4 @@ To further this important mission, we are looking for a Technical Recruiter to s
 - Communicate in both French and English (in government terms, this position is BBB or CBC).
 
 We recognize that everyone brings skills and experiences to the table and that not everyone “checks all the boxes”. Apply anyway! Tell us why you’re the right fit for the job.
-### COVID-19 Vaccination Policy
-All employees of the core public administration are required to be fully vaccinated against COVID-19 and attest to their vaccination status unless accommodated based on a medical contraindication, religion, or another prohibited ground for discrimination as defined under the Canadian Human Right Act.
-
 
