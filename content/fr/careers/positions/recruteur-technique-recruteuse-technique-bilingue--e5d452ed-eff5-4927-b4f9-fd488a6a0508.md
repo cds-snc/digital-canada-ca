@@ -33,7 +33,4 @@ Pour faire avancer cette importante mission, nous recherchons un(e) recruteur(se
 - Communiquer en français et en anglais (ce rôle est un rôle BBB ou CBC) 
  
 Nous sommes conscients que tout le monde apporte des compétences et des expériences différentes, et que personne ne répond exactement aux exigences. Postulez quand même! Dites-nous pourquoi vous êtes le ou la bon·ne candidat·e.
-### Politique relative à la vaccination contre la COVID-19
-Tou·te·s les fonctionnaires de l’administration publique centrale doivent être entièrement vacciné·e·s contre le COVID-19, à moins que des mesures d’adaptation ne soient prises en raison d’une contre-indication médicale, de la religion ou d’un autre motif de distinction illicite prévu par la Loi canadienne sur les droits de la personne.
-
 
