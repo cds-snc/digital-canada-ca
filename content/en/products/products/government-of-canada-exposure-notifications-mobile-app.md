@@ -28,4 +28,6 @@ links:
     url: https://github.com/cds-snc/covid-shield-mobile
   - name: COVID Alert Healthcare Portal Github
     url: https://github.com/cds-snc/covid-healthcare-portal
+  - name: Documentation
+    url: https://articles.alpha.canada.ca/covid-alert-alerte-covid/
 ---
