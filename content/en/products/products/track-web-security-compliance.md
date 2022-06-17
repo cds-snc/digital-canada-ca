@@ -3,7 +3,7 @@ title: 'Track web security compliance'
 translationKey: secure-web-tool
 description: >-
   An online tool to check which government sites and web services are meeting good security practices, such as requiring privacy-protecting Hypertext Transfer Protocol Secure (HTTPS) connections.
-phase: beta
+phase: null
 status: past
 onhomepage: false
 contact:
