@@ -3,7 +3,7 @@ title: 'Aider les Canadiennes et les Canadiens à recevoir des prestations d’i
 translationKey: esdc-product
 description: >-
   Réflexions sur la façon d’améliorer les services offerts aux Canadiennes et aux Canadiens ayant une invalidité et à leurs enfants lors d’une demande de prestations du Régime de pensions du Canada (RPC).
-phase: alpha
+phase: null
 status: in-flight
 onhomepage: true
 contact:
