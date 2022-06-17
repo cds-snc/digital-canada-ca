@@ -4,7 +4,7 @@ translationKey: open-call
 description: >-
   Open Call is a curated catalogue of free, open-source tools that governments can use to support people during COVID-19.
 product-url: https://opencall-appelouvert.alpha.canada.ca/#/
-phase: alpha
+phase: null
 status: past
 onhomepage: false
 contact:
