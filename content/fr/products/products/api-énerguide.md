@@ -3,7 +3,7 @@ title: 'API ÉnerGuide'
 translationKey: nrcan-energuide-api
 description: >-
   Une interface de programmation d’application (API) publique pour ouvrir l’accès aux données ÉnerGuide sur les cotes d’énergie résidentielle de manière transparente et utile.
-phase: alpha
+phase: null
 status: past
 onhomepage: false
 contact:
