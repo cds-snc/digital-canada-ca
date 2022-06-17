@@ -3,7 +3,7 @@ title: 'Report a cybercrime'
 translationKey: report-cybercrime
 description: >-
   Iterating on a service that makes it easier for victims of cybercrime to report an incident and get guidance on what they can do to protect themselves.
-phase: beta
+phase: null
 status: in-flight
 onhomepage: true
 contact:
