@@ -4,7 +4,7 @@ translationKey: benefits-finder
 description: >-
   Outil en ligne permettant aux personnes de trouver et de comprendre rapidement à quelle aide financière elles sont admissibles pendant la pandémie de COVID-19.
 product-url: https://covid-prestations.alpha.canada.ca/fr/debut
-phase: alpha
+phase: null
 status: past
 onhomepage: false
 contact:
