@@ -3,7 +3,7 @@ title: 'E-Briefing App'
 translationKey: tbs-e-briefing
 description: >-
   An application to replace internal paper-based briefing binders.
-phase: alpha
+phase: null
 status: past
 onhomepage: false
 contact:

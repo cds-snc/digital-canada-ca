@@ -3,7 +3,7 @@ title: 'EnerGuide API'
 translationKey: nrcan-energuide-api
 description: >-
   A public-facing application programming interface (API) to open up access to EnerGuide Home Energy Ratings data in a transparent and reusable way.
-phase: alpha
+phase: null
 status: past
 onhomepage: false
 contact:
