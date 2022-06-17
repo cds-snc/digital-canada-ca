@@ -4,7 +4,7 @@ translationKey: pco-impact-canada
 description: >-
   A scalable, reusable platform that creates new opportunities for innovators and entrepreneurs to help solve Canada’s biggest challenges.
 product-url: https://impact.canada.ca/
-phase: beta
+phase: null
 status: past
 onhomepage: false
 contact:
