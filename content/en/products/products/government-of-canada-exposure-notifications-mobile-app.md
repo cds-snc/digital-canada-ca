@@ -4,7 +4,7 @@ translationKey: exposure-notifications
 description: >-
   A federal mobile app to help stop the spread of COVID-19 in Canada by notifying Canadians of exposure, while fully protecting their privacy.
 product-url: https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/covid-alert.html
-phase: live
+phase: null
 status: in-flight
 onhomepage: true
 contact:
