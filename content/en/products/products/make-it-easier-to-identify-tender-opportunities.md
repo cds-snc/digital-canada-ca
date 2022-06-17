@@ -3,7 +3,7 @@ title: 'Make it easier to identify tender opportunities'
 translationKey: pspc-product
 description: >-
   Exploring a service to create a modern, single point of access to all tenders across governments, including publicly funded academic, social, and health institutions.
-phase: discovery
+phase: null
 status: past
 onhomepage: false
 contact:
