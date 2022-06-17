@@ -4,7 +4,7 @@ translationKey: low-income-file-taxes
 description: >-
   Explorer l’idée d’un service pour aider les Canadiens à faible revenu à recevoir les prestations et les remboursements auxquels ils ont droit en facilitant la production de leur déclaration de revenus.
 product-url: https://claim-tax-benefits.herokuapp.com/start?lang=fr
-phase: beta
+phase: null
 status: past
 onhomepage: false
 contact:
