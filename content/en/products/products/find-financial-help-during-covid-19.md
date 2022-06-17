@@ -4,7 +4,7 @@ translationKey: benefits-finder
 description: >-
   An online tool to help individuals quickly find and understand what financial help is available to them during the COVID-19 pandemic.
 product-url: https://covid-benefits.alpha.canada.ca/en/start
-phase: alpha
+phase: null
 status: past
 onhomepage: false
 contact:
