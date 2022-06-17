@@ -3,7 +3,7 @@ title: 'Help Canadians access the CPP Disability Benefit'
 translationKey: esdc-product
 description: >-
   Exploring how to improve service delivery for Canadians with disabilities and their children who apply for Canada Pension Plan (CPP) benefits.
-phase: alpha
+phase: null
 status: in-flight
 onhomepage: true
 contact:
