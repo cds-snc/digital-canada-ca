@@ -3,7 +3,7 @@ title: 'Signaler un crime informatique'
 translationKey: report-cybercrime
 description: >-
   Itération d'un service qui permet aux victimes de la cybercriminalité de signaler plus facilement un incident et d'obtenir des conseils sur ce qu'elles peuvent faire pour se protéger.
-phase: beta
+phase: null
 status: in-flight
 onhomepage: true
 contact:
