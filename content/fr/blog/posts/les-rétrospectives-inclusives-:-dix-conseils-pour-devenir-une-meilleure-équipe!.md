@@ -16,7 +16,7 @@ Au SNC, nous sommes partisans des rétrospectives sans reproche. Elles nous perm
 
 Je m’appelle Clémentine et, en tant que gestionnaire de produit au SNC (au sein de plusieurs équipes depuis 2019), j’ai réalisé beaucoup de rétrospectives et appris bien des leçons que j’aimerais vous partager. 
 
-Continuez la lecture des **conseils utiles sur les rétrospectives d’équipe** et des **conseils pour les animateur·rice·s de rétrospectives**. Vous pouvez également cliquer sur cette [présentation](https://docs.google.com/presentation/d/1obvWb0pWFi0i8wv3U-a5TTtFDeqAtRyh_i6xu7tjsQw/edit#slide=id.g9a3f8c03cd_0_7), dans laquelle je transmets d’autres conseils utiles sur l’organisation de rétrospectives inclusives et efficaces!
+Continuez la lecture des **conseils utiles sur les rétrospectives d’équipe** et des **conseils pour les animateur·rice·s de rétrospectives**. 
 
 ## **Conseils utiles sur les rétrospectives d’équipe** 
 
@@ -53,7 +53,7 @@ Si vous animez une activité de rétrospective, il vous incombe de concevoir une
 **En tant qu’animateur·rice de la rétrospective, vous pouvez façonner et améliorer les expériences des participants!**
 
 1. **Définissez les attentes pour la réunion, dans l’invitation et au début de l’activité**.
-Joignez l’ordre du jour de la réunion à l’invitation pour qu’il soit facile à trouver. Donnez aux gens les moyens de répondre à vos attentes ; veillez à ce que chacun dispose de tous les documents et informations pertinents et de suffisamment de temps pour les examiner et y réfléchir. 
+Joignez l’ordre du jour de la réunion à l’invitation pour qu’il soit facile à trouver.  Donnez aux gens les moyens de répondre à vos attentes ; veillez à ce que chacun dispose de tous les documents et informations pertinents et de suffisamment de temps pour les examiner et y réfléchir. 
 
 2. **Soyez conscient du contexte dans lequel vous faites la rétrospective.** 
 Soyez sincère et compréhensif, vous pourrez ainsi avoir des conversations plus honnêtes et remonter le moral de l’équipe pendant la réunion.
