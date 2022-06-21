@@ -2,7 +2,7 @@
 layout: blog
 title: 'A faster way to create privacy and consent notices in government'
 description: >-
-  To make better government services, we need to research with users a little and often. Which means we need to create a lot of privacy and consent notices.  To help with that, we made a tool that generates quick and compliant notices for researchers in the Government of Canada.
+  To make better government services, we need to research with users a little and often. Which means we need to create a lot of privacy and consent notices. To help with that, we made a tool that generates quick and compliant notices for researchers in the Government of Canada.
 author: 'Stevie-Ray Talbot, Product Management and Policy'
 date: '2021-06-30T14:00:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/en_banner_consent_generator_ecbab1db1c.jpeg
