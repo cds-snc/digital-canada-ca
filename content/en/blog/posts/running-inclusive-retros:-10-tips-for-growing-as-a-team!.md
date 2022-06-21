@@ -61,9 +61,7 @@ Adding the planned agenda to the meeting invite makes it easy to find. Give peop
 Being authentic and open can lead to more genuine conversations and improve team morale during the meeting.
 
 3. **Know your people and engage with them.**
-Use [virtual collaboration tools](https://busrides-trajetsenbus.csps-efpc.gc.ca/en/ep-74-en) to help the team learn from their experiences, with a view to inspire them and shape their ways of working. 
-
-Make sure the “quiet ones” have an opportunity to speak up. You don’t just want to hear from the loudest voices in the room. Ensure there are multiple ways to participate — group activities and the in-meeting chat are some great options. We’re not sprinting to perfection – it’s more like a marathon of continuous team nurturing and growth.
+Use [virtual collaboration tools](https://busrides-trajetsenbus.csps-efpc.gc.ca/en/ep-74-en) to help the team learn from their experiences, with a view to inspire them and shape their ways of working. Make sure the “quiet ones” have an opportunity to speak up. You don’t just want to hear from the loudest voices in the room. Ensure there are multiple ways to participate — group activities and the in-meeting chat are some great options. We’re not sprinting to perfection – it’s more like a marathon of continuous team nurturing and growth.
 
 4. **Create space for feedback – it’s a gift.**
 If people are brave enough to speak up, we need to be humble enough to listen and respect what they have to say. We do not have to understand or agree, but we need to care. 
