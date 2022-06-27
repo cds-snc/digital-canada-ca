@@ -4,7 +4,7 @@ type: section
 title: 'Conseiller·ère principal·e en services de projet '
 description: >-
   Nous sommes notamment à la recherche d’un·e conseiller·ère principal·e en approvisionnement d’expérience pour le SNC. Vous nous aiderez à obtenir les services de cabinets d’ingénierie et de conception pour appuyer nos efforts. Vous traiterez les entreprises en tant qu’utilisateurs et trouverez des moyens de les aider à naviguer dans le processus d’approvisionnement du gouvernement fédéral. Votre travail permettra ainsi aux petites entreprises de participer aux marchés publics. En collaboration avec nos équipes de produits et nos partenaires, vous faciliterez la tâche de nos équipes en leur permettant d’accéder à une expertise externe et vous gérerez tous les approvisionnements au sein du SNC. Ce rôle est classé AS-04, et le bilinguisme est un atout.  
-archived: false
+archived: true
 translationKey: sr-project-services-may-2022
 leverId: df2507ec-8d24-487e-9617-2aec5097a456
 ---

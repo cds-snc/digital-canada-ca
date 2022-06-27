@@ -4,7 +4,7 @@ type: section
 title: 'Senior Project Services Advisor'
 description: >-
   We’re hiring a Senior Procurement Advisor to bring procurement expertise into CDS. You’ll help bring engineering and design firms in to support us in our work. You’ll treat businesses as users, finding ways to make it easier for them to navigate the federal procurement process. Your work will create room for the smaller firms to become engaged with government procurement. Working with our product teams and partners, you’ll enable our teams by providing pathways to outside expertise and manage all procurement within CDS. This role is classified as AS-04, and bilingualism is an asset.
-archived: false
+archived: true
 translationKey: sr-project-services-may-2022
 leverId: df2507ec-8d24-487e-9617-2aec5097a456
 ---
