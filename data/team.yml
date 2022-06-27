@@ -185,6 +185,13 @@ exec:
     twitter: wmoussa_cds
 team:
   - archived: false
+    name: Abbie Chapman
+    title:
+      en: Abbie Chapman
+      fr: Abbie Chapman
+    imagehash: small_15_minutes_meetings_91e0181bab
+    email: abigail.chapman@cds-snc.ca
+  - archived: false
     name: Adrianne Lee
     title:
       en: Design Research
