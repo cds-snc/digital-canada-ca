@@ -184,7 +184,7 @@ exec:
     linkedin: wmoussa
     twitter: wmoussa_cds
 team:
-  - archived: false
+  - archived: true
     name: Abbie Chapman
     title:
       en: Abbie Chapman
