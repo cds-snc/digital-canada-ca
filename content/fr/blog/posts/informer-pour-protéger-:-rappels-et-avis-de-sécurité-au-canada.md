@@ -4,7 +4,7 @@ title: 'Informer pour protéger : rappels et avis de sécurité au Canada'
 description: >-
   Un entretien avec Eric Chouinard dans le cadre de notre série « Les gens au cœur de vos services ». Lisez le récit de son expérience comme chef de projet chargé de la refonte et du lancement du service par abonnement « Rappels et avis de sécurité » à Santé Canada.
 author: 'Eric Chouinard, Santé Canada'
-date: '2022-07-05T16:00:00.000Z'
+date: '2022-06-29T16:00:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/A_FR_Blog_Post_image_224f4374e1.jpg
 image-alt: Portrait d’Eric Chouinard, gestionnaire du projet de rappels et d’avis de sécurité à Santé Canada. Son entrevue est présentée au sein de la série « Les gens au cœur de vos services » du SNC.
 thumb: https://de2an9clyit2x.cloudfront.net/small_A_FR_Blog_Post_image_224f4374e1.jpg
