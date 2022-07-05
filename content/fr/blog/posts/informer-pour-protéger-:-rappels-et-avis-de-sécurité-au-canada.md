@@ -54,7 +54,7 @@ Il s’agit d’une amélioration considérable, car elle permet aux visiteurs d
 
 Prenons l’exemple récent de [l’avis public](https://recalls-rappels.canada.ca/fr/avis-rappel/penurie-preparations-pour-nourrissons-souffrant-allergies-alimentaires-ce-que-vous) que Rappels et avis de sécurité a envoyé au sujet des pénuries de préparations pour les nourrissons et pour lequel Santé Canada [a publié des directives sur Twitter](https://recalls-rappels.canada.ca/fr/avis-rappel/penurie-preparations-pour-nourrissons-souffrant-allergies-alimentaires-ce-que-vous). Dans ce cas, un ensemble d’autorités réglementaires au sein de divers ministères se sont mobilisées pour assurer la sécurité de la population au Canada en fournissant des mises à jour en ligne. 
 
-#### **Options de fréquence pour les notifications**
+#### **Des options de fréquence pour les notifications**
 
 Les personnes abonnées au service ont l’option de recevoir des notifications immédiates (dès qu’elles sont publiées sur le site Web) ou une notification unique et quotidienne, selon leurs préférences. Cela leur permet de recevoir des notifications pertinentes, adaptées à leurs besoins, et ce, directement dans leur boîte de réception courriel.
 
@@ -78,12 +78,12 @@ Par le passé, l’affichage des rappels sur notre site Web et l’émission d�
 
 Non seulement pouvons-nous envoyer des notifications sur les nouveaux rappels, les avis de sécurité et les avis, mais aussi sur les mises à jour des rappels et des avis!
 
-#### **Meilleures expériences utilisateur**
+#### **En offrant de meilleures expériences aux utilisateurs**
 Ce fut ma première expérience d’utilisation et de création d’un compte sur Notification GC. J’ai trouvé l’outil très convivial et sécurisé. Il comprend une fonction d’authentification à deux facteurs; une fonction indispensable pour ce genre de système. 
 
 Notre fournisseur a mis à la disposition du public le [module Drupal](https://www.drupal.org/project/message_gcnotify) que nous avons utilisé pour intégrer Notification GC, permettant ainsi à tous les ministères de s’en servir.
 
-#### **Portée accrue des notifications**
+#### **En renforçant la portée des notifications**
 
 Plus le nombre de canaux que nous pouvons utiliser pour communiquer avec les gens est élevé, plus il est facile d’envoyer des notifications de façon plus efficace. 
 
