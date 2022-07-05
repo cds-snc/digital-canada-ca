@@ -4,7 +4,7 @@ title: 'Empower to protect: Recalls & safety alerts in Canada'
 description: >-
   We interviewed Eric Chouinard for our ‘People behind the service’ series. Read about his experiences (as Project Manager) re-designing and launching the ‘Recall and safety alerts’ subscription service at Health Canada.
 author: 'Eric Chouinard, Health Canada'
-date: '2022-06-29T16:00:00.000Z'
+date: '2022-07-05T16:00:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/A_EN_Blog_Post_image_jpg_bdb43ff50e.jpg
 image-alt: Photograph of Eric Chouinard, RSA Project Manager at Health Canada. They’re being featured in CDS’s "people behind the service" series.
 thumb: https://de2an9clyit2x.cloudfront.net/small_A_EN_Blog_Post_image_jpg_bdb43ff50e.jpg
