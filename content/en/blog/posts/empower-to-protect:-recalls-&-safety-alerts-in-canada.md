@@ -16,7 +16,7 @@ They have been issued by the [Recalls and Safety Alerts (RSA)](https://recalls-r
 
 A team dedicated to bringing you some peace of mind when it comes to the ‘safety’ of products you (and millions of people in Canada) consume daily.
 
-One of the key ways the Government of Canada works to protect their health and safety is by regulating the products they use and consume daily. Everything from food, health products, medical equipment, consumer products, vehicles, and cannabis.
+One of the key ways the Government of Canada works to protect your health and safety is by regulating the products you use and consume daily. Everything from food, health products, medical equipment, consumer products, vehicles, and cannabis.
 
 If these products become unsafe (for any reason), regulatory groups at various departments play a vital role in notifying the public. Together, they help keep people in Canada updated and safe by posting the information online, via the RSA website.
 
