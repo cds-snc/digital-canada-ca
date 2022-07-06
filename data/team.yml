@@ -383,6 +383,15 @@ team:
     imagehash: small_daine_trinidad_c24e142482
     github: daine
     linkedin: daine
+  - archived: false
+    name: Dan Monafu
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: small_dan_monafu_5be13e7f20
+    email: dan.monafu@tbs-sct.gc.ca
+    linkedin: danmonafu
+    twitter: danutfm
   - archived: true
     name: Dan Sinclair
     title:
