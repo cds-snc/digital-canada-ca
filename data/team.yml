@@ -383,6 +383,15 @@ team:
     imagehash: small_daine_trinidad_c24e142482
     github: daine
     linkedin: daine
+  - archived: false
+    name: Dan Monafu
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: small_dan_monafu_8cd894efc3
+    email: dan.monafu@tbs-sct.gc.ca
+    linkedin: danmonafu
+    twitter: danutfm
   - archived: true
     name: Dan Sinclair
     title:
@@ -703,6 +712,13 @@ team:
     email: meghan.hellstern@tbs-sct.gc.ca
     linkedin: mhellstern
     twitter: mhellstern
+  - archived: false
+    name: Melanie Tremblay
+    title:
+      en: Internal Operations
+      fr: Opérations internes
+    imagehash: small_melanie_tremblay_ca6233ad64
+    email: melanie.tremblay2@tbs-sct.gc.ca
   - archived: true
     name: Mel Banyard
     title:
