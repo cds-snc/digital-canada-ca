@@ -43,7 +43,7 @@ Les candidat·e·s pourront être évalué·e·s, tout au long du processus d’
 
 Si vous ne répondez pas aux critères exigés pour ce poste, il est tout de même possible qu’il existe des possibilités d’emploi — présentes ou à venir — qui vous conviendraient. N’hésitez pas à poser votre candidature et à vous présenter : nous sommes toujours enthousiastes à l’idée de rencontrer de nouveaux·elles leaders et technologues du numérique.   
 
-Le SNC est une équipe entièrement décentralisée. Ce rôle peut être assumé de n’importe où au Canada, quoique des déplacements occasionnels à Ottawa pourraient être demandés.
+Le SNC est une équipe entièrement décentralisée. Ce rôle peut être assumé de n’importe où au Canada.
 
 Au SNC, nous n’acceptons pas seulement les différences, nous les célébrons. C’est avec fierté et passion que nous nous efforçons activement de rendre le SNC plus représentatif et plus inclusif de la société que nous servons. Notre capacité à fournir des services publics améliorés — des services accessibles et inclusifs — ne peut être réalisée que si nous pouvons reconnaître et exploiter l’éventail le plus diversifié de pensées, d’expériences et de compétences. Nous travaillons fort pour créer un environnement où les différentes perspectives et expériences sont valorisées, et nous nous engageons à aider les talents de tout type à s’épanouir.
 
