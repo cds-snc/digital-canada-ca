@@ -9,7 +9,7 @@ translationKey: 2022-july-sr-content-designer
 leverId: a3772e8b-c531-4177-9227-1b1b0790243a
 ---
 
- ## About the Canadian Digital Service
+## About the Canadian Digital Service
 
 The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital services. We’re here to improve people’s lives by changing how the government builds technology. We do this by putting people’s needs and concerns front and centre. Every experience Canadians have with their government should be safe, fast, easy, transparent, and accessible. We are working in the open to help everyone across the government improve service delivery. We need you.
 
