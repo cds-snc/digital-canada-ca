@@ -4,7 +4,7 @@ type: section
 title: 'Concepteur ou conceptrice de contenu'
 description: >-
   À titre de concepteur·rice de contenu, vous travaillerez directement avec le ou la responsable de la conception de contenu, ainsi qu’avec le reste de l’équipe de l’expérience utilisateur·rice affectée aux ressources d’apprentissage au sein de l’unité des partenariats. Vous serez chargé·e de répondre aux besoins en matière d’information des fonctionnaires, ainsi que d’autres créateur·rice·s de contenu du SNC. Vous chercherez les meilleurs moyens d’organiser et de présenter des renseignements exploitables en anglais et en français. Vous serez également appelé·e à promouvoir la lisibilité et l’accessibilité de l’information pour tou·te·s les utilisateur·rice·s, en cherchant toujours des possibilités de réduire ou d’éliminer la charge cognitive. Ce poste vous mettra au défi de composer avec différents types de contenu et d’établir des gabarits, de meilleures pratiques, et des lignes directrices pour les prochain·e·s créateur·rice·s de contenu du SNC.
-archived: false
+archived: true
 translationKey: 2022-june-content-designer
 leverId: e28b029a-9d1a-4217-aece-c45cab0ed56d
 ---
