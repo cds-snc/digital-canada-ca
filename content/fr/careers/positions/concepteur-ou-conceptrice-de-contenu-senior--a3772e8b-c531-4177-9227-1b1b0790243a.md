@@ -1,12 +1,12 @@
 ---
 layout: job-posting
 type: section
-title: 'Concepteur ou conceptrice de contenu'
+title: 'Concepteur ou conceptrice de contenu senior'
 description: >-
   À titre de concepteur·rice de contenu, vous travaillerez directement avec le ou la responsable de la conception de contenu, ainsi qu’avec le reste de l’équipe de l’expérience utilisateur·rice affectée aux ressources d’apprentissage au sein de l’unité des partenariats. Vous serez chargé·e de répondre aux besoins en matière d’information des fonctionnaires, ainsi que d’autres créateur·rice·s de contenu du SNC. Vous chercherez les meilleurs moyens d’organiser et de présenter des renseignements exploitables en anglais et en français. Vous serez également appelé·e à promouvoir la lisibilité et l’accessibilité de l’information pour tou·te·s les utilisateur·rice·s, en cherchant toujours des possibilités de réduire ou d’éliminer la charge cognitive. Ce poste vous mettra au défi de composer avec différents types de contenu et d’établir des gabarits, de meilleures pratiques, et des lignes directrices pour les prochain·e·s créateur·rice·s de contenu du SNC.
-archived: true
-translationKey: 2022-june-content-designer
-leverId: e28b029a-9d1a-4217-aece-c45cab0ed56d
+archived: false
+translationKey: 2022-july-sr-content-designer
+leverId: a3772e8b-c531-4177-9227-1b1b0790243a
 ---
 
 ## À propos du Service numérique canadien
@@ -26,7 +26,7 @@ Nous sommes à la recherche d’un·e concepteur·rice de contenu chevronné·e,
 
 À titre de concepteur·rice de contenu, vous travaillerez directement avec le ou la responsable de la conception de contenu, ainsi qu’avec le reste de l’équipe de l’expérience utilisateur·rice affectée aux ressources d’apprentissage au sein de l’unité des partenariats. Vous serez chargé·e de répondre aux besoins en matière d’information des fonctionnaires, ainsi que d’autres créateur·rice·s de contenu du SNC. Vous chercherez les meilleurs moyens d’organiser et de présenter des renseignements exploitables en anglais et en français. Vous serez également appelé·e à promouvoir la lisibilité et l’accessibilité de l’information pour tou·te·s les utilisateur·rice·s, en cherchant toujours des possibilités de réduire ou d’éliminer la charge cognitive. Ce poste vous mettra au défi de composer avec différents types de contenu et d’établir des gabarits, de meilleures pratiques, et des lignes directrices pour les prochain·e·s créateur·rice·s de contenu du SNC.
 
-Ce rôle est un poste à durée déterminée de 2 ans et est classé soit au groupe et niveau [IT-03 ou IT-04](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-fra.aspx?id=1#toc27633227634) du groupe systèmes d’ordinateurs. Le SNC est une équipe entièrement décentralisée. Ce rôle peut être assumé de n’importe où au Canada. À l’avenir, des déplacements occasionnels à Ottawa pourraient être nécessaires. Le bilinguisme est exigé pour ce poste à pourvoir. Une connaissance ou une expérience du travail que réalise le gouvernement est un atout pour ce poste.
+Ce rôle est un poste à durée déterminée de 2 ans et est classé soit au groupe et niveau [IT-04 ou IT-05](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-fra.aspx?id=1) du groupe systèmes d’ordinateurs. Le SNC est une équipe entièrement décentralisée. Ce rôle peut être assumé de n’importe où au Canada. À l’avenir, des déplacements occasionnels à Ottawa pourraient être nécessaires. Le bilinguisme est exigé pour ce poste à pourvoir. Une connaissance ou une expérience du travail que réalise le gouvernement est un atout pour ce poste.
 
 ### Vos missions :
 
@@ -36,15 +36,14 @@ Ce rôle est un poste à durée déterminée de 2 ans et est classé soit au gro
 - Repérer, atténuer ou communiquer les risques liés à la conception de contenu et à la conception en général au sein de l’équipe.
 
 ### Ce poste est fait pour vous si :
-
 - Vous avez de l’expérience dans la conception de contenu pour un produit ou un service, dans la promotion de l’inclusivité, de l’accessibilité et de l’utilisation d’un langage simple, et dans l’initiation de changements organisationnels pour améliorer les services pour les utilisateur·rice·s.
 - Vous êtes doué·e pour communiquer avec des personnes qui ne connaissent pas la conception de contenu, vous êtes à l’aise de travailler aux côtés des membres de l’équipe et des parties prenantes pendant le processus de conception, et vous êtes ravi de travailler avec des personnes sur la recherche et les tests.
 - Vous êtes passionné·e par la conception de contenu de qualité, privilégiant la clarté à l’esthétique et les règles de style ou de grammaire lorsque nécessaire.
 - Votre candidature elle-même montre de grandes compétences en conception de contenu. 
-- La priorité sera donnée aux candidat·e·s qui peuvent communiquer et écrire en français et en anglais (en termes gouvernementaux, au niveau CCC).
+- Ce rôle impliquera principalement la création de contenu francophone. La priorité sera donnée aux candidat·e·s qui peuvent communiquer et écrire en français et en anglais (en termes gouvernementaux, au niveau BBB, CBC ou CCC).
 - Une priorité encore plus grande sera accordée aux candidat·e·s qui peuvent créer un contenu tout aussi bon dans les deux langues officielles, comme le démontrent des échantillons de travaux antérieurs. 
 
-#### Informations générales sur le processus
+## Informations générales sur le processus
 Vous vous joindrez à l’unité opérationnelle des partenariats. Cette unité nous permet de renforcer nos relations avec d’autres ministères et d’aider à améliorer la façon dont ils conçoivent et offrent des services numériques.  
 
 Dans le cadre de tous nos engagements, nous travaillons avec des dirigeant·e·s de la fonction publique, des responsables de services et nos collègues pour promouvoir le changement, présenter de nouvelles façons de travailler et offrir la plus grande valeur publique. Par conséquent, peu importe votre titre et votre poste, vous devrez posséder une attitude axée sur les résultats, être capable de jouer plusieurs rôles et accepter de vous familiariser avec la bureaucratie gouvernementale pour faire avancer les choses. Parmi les thèmes communs des engagements figurent la gestion du changement, l’approvisionnement (c.‑à‑d. l’achat de logiciels ou de services), la conception centrée sur l’humain, et l’exploitation des solutions de base (c.‑à‑d. l’informatique en nuage, etc.).
