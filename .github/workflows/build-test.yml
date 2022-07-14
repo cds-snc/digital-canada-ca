@@ -55,7 +55,7 @@ jobs:
         run: gem install html-proofer
       - name: test
         run: |
-          htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow_hash_href --ignore_empty_alt --disable_external --ignore_files=/lib/,/admin/ --checks=favicon
+          htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow_hash_href --ignore_empty_alt --disable_external --ignore_files=/lib/,/admin/ --checks=favicon,html
       - name: Checkout
         uses: actions/checkout@v2
       - name: npm init
