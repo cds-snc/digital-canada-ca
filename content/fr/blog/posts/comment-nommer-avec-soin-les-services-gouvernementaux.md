@@ -10,7 +10,7 @@ image-alt: Les lettres du mot « service » sous forme de pièces de casse-tête
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_blog_naming_gov_services_3e9945e4af.jpeg
 translationKey: blog-naming-gov-services
 ---
-Les mots que nous utilisons en tant que fonctionnaires pour nommer les services et programmes gouvernementaux sont importants. Ils façonnent les attentes du public. Quand on y pense, ces mots, qui dans un monde idéal ont été soigneusement choisis, montrent aux gens que nous servons que nous pouvons leur offrir des solutions et ressources répondant à leurs besoins. Un nom mal choisi peut prêter à confusion et conduire à des malentendus.   
+--Les mots que nous utilisons en tant que fonctionnaires pour nommer les services et programmes gouvernementaux sont importants. Ils façonnent les attentes du public. Quand on y pense, ces mots, qui dans un monde idéal ont été soigneusement choisis, montrent aux gens que nous servons que nous pouvons leur offrir des solutions et ressources répondant à leurs besoins. Un nom mal choisi peut prêter à confusion et conduire à des malentendus.   
 
 Nous avons tiré des leçons de ce genre d’exercice et allons vous transmettre dans ce billet de blogue quelques astuces! 
 
@@ -76,7 +76,7 @@ Pour résumer, si le nom d’un service n’est pas adapté et vous laisse perpl
 
 Vous souhaitez explorer votre disposition au numérique? Nous pouvons vous aider! [Découvrez comment](https://numerique.canada.ca/encadrement-et-conseil/).
 
-——————
+---
 
 Souhaitez-vous en apprendre davantage sur les techniques de conception de contenu? Ça tombe bien, nous avons quelques suggestions pour vous : 
 
