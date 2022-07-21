@@ -41,7 +41,7 @@ Here are the steps you can take to set up your search function:
 
 ![Screenshot of code for the index.json file.](https://de2an9clyit2x.cloudfront.net/img2_blog_website_searchbar_d303e02f95.jpg)
 <br>
-3.  Now, for the the main step, which is to create the Lunr search index — the fields included in the [async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) are the ones we want to be searchable and that we’ll use to build an index. The variable “pagesIndex” will contain the JSON page data from index.json, and the variable “searchIndex” will contain the Lunr search index.
+3.  Now, for the main step, which is to create the Lunr search index — the fields included in the [async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) are the ones we want to be searchable and that we’ll use to build an index. The variable “pagesIndex” will contain the JSON page data from index.json, and the variable “searchIndex” will contain the Lunr search index.
 
 ![Lines of code containing the Lunr search index variable.](https://de2an9clyit2x.cloudfront.net/img3_blog_website_searchbar_574e13f106.jpg)
 
