@@ -18,7 +18,9 @@ Pour soutenir cette importante mission, nous sommes à la recherche d’une prat
 Nous sommes une équipe de conseil gouvernementale numérique. Nous travaillons pour le gouvernement, au sein du gouvernement. Nous sommes là pour offrir notre aide et notre expertise appuyées sur une expérience pratique en livraison à grande échelle au sein des secteurs privé et public. Nous conseillons et accompagnons les ministères pour les aider à prendre des décisions rapides en matière de conception et de technologie et développer leurs capacités numériques internes afin qu’ils puissent venir à bout d’obstacles particuliers et améliorer leurs performances par rapport aux normes numériques du gouvernement du Canada. 
 
 ## Praticienne du numérique chargée de la consultation ou praticien du numérique chargé de la consultation: Conception de contenu
+
 **Vos responsabilités :**
+
 - Nouer des relations avec les membres de la fonction publique (y compris les cadres), reposant sur l’empathie, la confiance et une compréhension partagée de leurs besoins et du contexte.
 - Fournir des conseils pragmatiques reposant sur vos compétences et vos forces aux collègues de l’ensemble de la fonction publique, et ce, en vue de contribuer à améliorer leurs connaissances en matière de conception de contenu et de solutions numériques, ainsi que leur capacité à concevoir et fournir de meilleurs services de bout en bout. 
 - Démontrer un leadership en matière de conception de contenu et une expertise en stratégie fondés sur les meilleures pratiques de l'industrie pour soutenir des équipes multidisciplinaires ayant des niveaux de maturité numérique diverses et faisant face à des problèmes complexes.
