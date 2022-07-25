@@ -24,13 +24,13 @@
                 
                 <div class="dropdown-content">
                   {{ range $dropdown := .Site.Menus.dropdown}}
-                  <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
+                  <a href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
                   {{ end }}
                 </div>
             </div>
             {{ $title := .Params.title }}
             {{ range $menu := .Site.Menus.main }}
-            <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag" class="{{ if eq $title .Identifier }} underline{{end}}">{{ .Name }}</a>
+            <a href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag" class="{{ if eq $title .Identifier }} underline{{end}}">{{ .Name }}</a>
             {{ end }}
             <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i
               class="fa fa-search search-button-icon"></i></button>
