@@ -3,9 +3,9 @@
   <div class="container topbar" id="site--topbar">
     <div class="row">
       <div class="col-xs-4 col-sm-3">
-        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo {{.Site.Language.Lang}}" aria-label="{{ i18n "aria-cds-website" }}"></a>
+        <a href={{ .Site.BaseURL | relLangURL }} class="cds-logo {{.Site.Language.Lang}}" aria-label="{{ i18n "aria-cds-website" }}"></a>
         <!-- mobile screen wordless logo -->
-        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo-mobile {{.Site.Language.Lang}}" aria-label="{{ i18n "aria-cds-website" }}"></a>
+        <a href={{ .Site.BaseURL | relLangURL }} class="cds-logo-mobile {{.Site.Language.Lang}}" aria-label="{{ i18n "aria-cds-website" }}"></a>
       </div>
 
       <div class="nav-container">
@@ -24,14 +24,13 @@
                 
                 <div class="dropdown-content">
                   {{ range $dropdown := .Site.Menus.dropdown}}
-                  <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
+                  <a href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
                   {{ end }}
                 </div>
-                <!-- // -->
             </div>
             {{ $title := .Params.title }}
             {{ range $menu := .Site.Menus.main }}
-            <a href="{{ .URL | absLangURL }}" id="{{.Identifier}}-nav-tag" class="{{ if eq $title .Identifier }} underline{{end}}">{{ .Name }}</a>
+            <a href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag" class="{{ if eq $title .Identifier }} underline{{end}}">{{ .Name }}</a>
             {{ end }}
             <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i
               class="fa fa-search search-button-icon"></i></button>
