@@ -4,9 +4,9 @@ title: 'Building for learning and iteration with our web search bar'
 description: >-
   After releasing a web search bar to help people find our resources more easily, we needed to test with users (design research) to learn how to make it better.
 author: 'Charlotte Pedersen, Content Design'
-date: '2022-07-28T13:30:00.000Z'
+date: '2022-07-28T13:00:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/EN_Search_bar_iteration_cb9d810c68.jpg
-image-alt: Graphic illustration of a team iterating on and improving a website search bar together.
+image-alt: Graphic illustration of a team iterating on and improving a website search bar together. 
 thumb: https://de2an9clyit2x.cloudfront.net/small_EN_Search_bar_iteration_cb9d810c68.jpg
 translationKey: blog-website-searchbar-feedback
 ---
