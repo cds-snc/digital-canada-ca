@@ -4,7 +4,7 @@ title: 'Créer avec l’intention d’apprendre et de s’améliorer : le cas de
 description: >-
   Après avoir lancé notre barre de recherche Web pour aider les gens à trouver plus facilement les ressources qu’ils recherchaient, nous avons dû réaliser des tests auprès des utilisateur·rice·s (recherche en conception) pour découvrir comment améliorer l’outil. 
 author: 'Charlotte Pedersen, conception de contenu'
-date: '2022-07-28T13:30:00.000Z'
+date: '2022-07-28T13:00:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/FR_Search_bar_iteration_e2f89d87f4.jpg
 image-alt: Illustration graphique d’une équipe modifiant et améliorant conjointement la barre de recherche d’un site Web.
 thumb: https://de2an9clyit2x.cloudfront.net/small_FR_Search_bar_iteration_e2f89d87f4.jpg
