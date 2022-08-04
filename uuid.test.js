@@ -2,7 +2,7 @@ const fs = require("fs");
 const filesEN = fs.readdirSync("./content/en/careers/positions/");
 const filesFR = fs.readdirSync("./content/fr/careers/positions/")
 const archFalse = /archived: false/i;
-const UUIDRegex =/[a-f0-9]{8}-[a-f0-9]{4}-4[a-f0-9]{3}-[89aAbB][a-f0-9]{3}-[a-f0-9]{12}/;
+const UUIDRegex =/[a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12}/;
 
 test("UUID in correct format EN", () => {
   filesEN.forEach((element) => {
