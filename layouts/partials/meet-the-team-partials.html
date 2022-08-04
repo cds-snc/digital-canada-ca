@@ -12,7 +12,7 @@
                 {{ if and (ne $member.imagehash nil) (ne $member.imagehash "") }}
                 <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
                     data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
-                { {else }}
+                {{ else }}
                 <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $member.image }}"
                     data-srcset="{{ $member.image }}" alt="{{ index $member " name" }}" />
                 {{ end }}
