@@ -1,65 +1,62 @@
+
+
 {{ $baseURL := "https://de2an9clyit2x.cloudfront.net/" }}
 
 <div>
     {{$lang := .lang}}
     {{ $member := .team }}
-    {{ $v1 := not (isset $member "archived") }}
-    {{ if or ($v1) (eq $member.archived false) }}
+        {{ $v1 := not (isset $member "archived") }}
+        {{ if or ($v1) (eq $member.archived false) }}
 
-    <div class="col-xs-12 col-md-6 col-lg-3">
-        <div class="team-member">
-            <div class="photo-container">
-                {{ if and (ne $member.imagehash nil) (ne $member.imagehash "") }}
-                <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
-                    data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
-                {{ else }}
-                <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $member.image }}"
-                    data-srcset="{{ $member.image }}" alt="{{ index $member " name" }}" />
-                {{ end }}
-            </div>
+        <div class="col-xs-12 col-md-6 col-lg-3">
+            <div class="team-member">
+                <div class="photo-container">
+                    {{ if and (ne $member.imagehash nil) (ne $member.imagehash "") }}
+                    <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+                        data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
+                    {{ else }}
+                    <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $member.image }}" data-srcset="{{ $member.image }}" alt="{{ index $member " name" }}" />
+                    {{ end }}
+                </div>
 
-            <div class="text">
-                <span class="name">{{ $member.name }}</span>
-                <span class="title">{{ index $member.title (string ( $lang) ) }}</span>
-                <div class="social-links contact-info-social">
-                    {{ if and (ne $member.email nil) (ne $member.email "") }}
-                    <span class="social-icons">
-                        <a href="mailto:{{ $member.email }}" aria-label="{{if eq $lang " en"}} Link to {{ $member.name
-                            }}'s Email {{else}} Lien vers l’adresse courriel de {{$member.name}} {{end}}">
-                            <i class="icon-envelope" aria-hidden="true"></i>
-                        </a>
-                    </span>
-                    {{ end }}
-                    {{ if and (ne $member.twitter nil) (ne $member.twitter "") }}
-                    <span class="social-icons">
-                        <a href="https://twitter.com/{{ $member.twitter }}" aria-label="{{if eq $lang " en"}} Link to {{
-                            $member.name }}'s Twitter Account {{else}} Lien vers le compte Twitter de {{$member.name}}
-                            {{end}}">
-                            <i class="icon-twitter" aria-hidden="true"></i>
-                        </a>
-                    </span>
-                    {{ end }}
-                    {{ if and (ne $member.linkedin nil) (ne $member.linkedin "") }}
-                    <span class="social-icons">
-                        <a href="https://linkedin.com/in/{{ $member.linkedin }}" aria-label="{{if eq $lang " en"}} Link
-                            to {{ $member.name }}'s LinkedIn Profile {{else}} Lien vers le profil LinkedIn de
-                            {{$member.name}} {{end}}">
-                            <i class="icon-linkedin" aria-hidden="true"></i>
-                        </a>
-                    </span>
-                    {{ end }}
-                    {{ if and (ne $member.github nil) (ne $member.github "") }}
-                    <span class="social-icons">
-                        <a href="https://github.com/{{ $member.github }}" aria-label="{{if eq $lang " en"}} Link to {{
-                            $member.name }}'s GitHub Profile {{else}} Lien vers le profil GitHub de {{$member.name}}
-                            {{end}}">
-                            <i class="icon-github" aria-hidden="true"></i>
-                        </a>
-                    </span>
-                    {{ end }}
+                <div class="text">
+                    <span class="name">{{ $member.name }}</span>
+                    <span class="title">{{ index $member.title (string ( $lang) ) }}</span>
+                    <div class="social-links contact-info-social">
+                        {{ if and (ne $member.email nil) (ne $member.email "") }}
+                        <span class="social-icons">
+                            <a href="mailto:{{ $member.email }}" aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s Email {{else}} Lien vers l’adresse courriel de {{$member.name}} {{end}}">
+                                <i class="icon-envelope" aria-hidden="true"></i>
+                            </a>
+                        </span>
+                        {{ end }}
+                        {{ if and (ne $member.twitter nil) (ne $member.twitter "") }}
+                        <span class="social-icons">
+                            <a href="https://twitter.com/{{ $member.twitter }}"
+                                aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s Twitter Account {{else}} Lien vers le compte Twitter de {{$member.name}} {{end}}">
+                                <i class="icon-twitter" aria-hidden="true"></i>
+                            </a>
+                        </span>
+                        {{ end }}
+                        {{ if and (ne $member.linkedin nil) (ne $member.linkedin "") }}
+                        <span class="social-icons">
+                            <a href="https://linkedin.com/in/{{ $member.linkedin }}"
+                                aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s LinkedIn Profile {{else}} Lien vers le profil LinkedIn de {{$member.name}} {{end}}">
+                                <i class="icon-linkedin" aria-hidden="true"></i>
+                            </a>
+                        </span>
+                        {{ end }}
+                        {{ if and (ne $member.github nil) (ne $member.github "") }}
+                        <span class="social-icons">
+                            <a href="https://github.com/{{ $member.github }}"
+                                aria-label="{{if eq $lang "en"}} Link to {{ $member.name }}'s GitHub Profile {{else}} Lien vers le profil GitHub de {{$member.name}} {{end}}">
+                                <i class="icon-github" aria-hidden="true"></i>
+                            </a>
+                        </span>
+                        {{ end }}
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-    {{ end }}
+        {{ end }}
 </div>
