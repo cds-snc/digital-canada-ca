@@ -12,10 +12,10 @@
             <div class="team-member">
                 <div class="photo-container">
                     {{ if and (ne $member.imagehash nil) (ne $member.imagehash "") }}
-                    <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
+                    <img class="lazy" src="{{ $baseURL}}{{ $member.imagehash }}.jpg" data-src="{{ $baseURL}}{{ $member.imagehash }}.jpg"
                         data-srcset="{{ $baseURL}}{{ $member.imagehash }}.jpg" alt="{{ index $member " name" }}">
                     {{ else }}
-                    <img class="lazy" src="/img/cds/placeholder.gif" data-src="{{ $member.image }}" data-srcset="{{ $member.image }}" alt="{{ index $member " name" }}" />
+                    <img class="lazy" src="{{ $member.image }}" data-src="{{ $member.image }}" data-srcset="{{ $member.image }}" alt="{{ index $member " name" }}" />
                     {{ end }}
                 </div>
 
