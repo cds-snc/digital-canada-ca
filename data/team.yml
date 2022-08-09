@@ -882,6 +882,14 @@ team:
     email: sharly.chan@tbs-sct.gc.ca
     twitter: SharlyChan
   - archived: false
+    name: Sophie Ngo
+    title:
+      en: Talent
+      fr: Talent
+    imagehash: small_Sophie_Ngo_cd99e736fa
+    email: sophie.ngo@tbs-sct.gc.ca
+    linkedin: sophiemlngo
+  - archived: false
     name: Stephen McMurtry
     title:
       en: Development
