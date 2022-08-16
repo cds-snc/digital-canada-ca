@@ -46,11 +46,11 @@ Ce poste est classé au niveau [IT-02](https://www.tbs-sct.canada.ca/agreements-
 
 ### Nos attentes :
 
-- Familiarité avec le dépannage technique, l’analyse, la gestion des appareils et les outils de contrôle à distance.
-- Capacité à faire preuve d’équilibre entre professionnalisme et convivialité dans toutes les communications
-- Capacité à travailler de manière transparente dans un environnement très variable et très visible comptant de multiples parties prenantes
-- Application d’une approche axée sur les données de la résolution de problèmes : vous aimez trouver un sens aux tendances et utiliser les renseignements disponibles pour améliorer l’expérience utilisateur de nos collègues du SNC.
-- Promotion d’une prestation inclusive, d’une incidence durable et d’un travail transparent, intègre et équitable.
+- Familiarité avec le dépannage technique, l’analyse, la gestion des appareils et les outils de contrôle à distance;
+- Capacité à faire preuve d’équilibre entre professionnalisme et convivialité dans toutes les communications;
+- Capacité à travailler de manière transparente dans un environnement très variable et très visible comptant de multiples parties prenantes;
+- Application d’une approche axée sur les données de la résolution de problèmes : vous aimez trouver un sens aux tendances et utiliser les renseignements disponibles pour améliorer l’expérience utilisateur de nos collègues du SNC;
+- Promotion d’une prestation inclusive, d’une incidence durable et d’un travail transparent, intègre et équitable;
 - Capacité à communiquer dans les deux langues officielles, c’est-à-dire en anglais et en français.
 
 Nous sommes conscients que tout le monde apporte des compétences et des expériences différentes, et que personne ne répond exactement aux exigences. Postulez quand même! Dites-nous pourquoi vous êtes le ou la bon·ne candidat·e.
