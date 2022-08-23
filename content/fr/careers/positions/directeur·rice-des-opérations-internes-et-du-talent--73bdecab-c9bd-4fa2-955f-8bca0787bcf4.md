@@ -4,7 +4,7 @@ type: section
 title: 'Directeur·rice des opérations internes et du talent'
 description: >-
   Ce rôle, classé au niveau EX-01 dans le groupe de la direction, respecte les normes de qualification EX et relève du ou de la directeur·rice des opérations. 
-archived: false
+archived: true
 translationKey: director-talent-internal-ops-july-2022
 leverId: 73bdecab-c9bd-4fa2-955f-8bca0787bcf4
 ---
