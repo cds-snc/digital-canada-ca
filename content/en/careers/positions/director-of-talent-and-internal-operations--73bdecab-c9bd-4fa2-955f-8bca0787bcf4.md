@@ -4,7 +4,7 @@ type: section
 title: 'Director of Talent and Internal Operations'
 description: >-
   This role reports to the Chief Operating Officer (COO), is classified as an EX-01 in the Executive group, and represents the EX qualification standards.
-archived: false
+archived: true
 translationKey: director-talent-internal-ops-july-2022
 leverId: 73bdecab-c9bd-4fa2-955f-8bca0787bcf4
 ---
