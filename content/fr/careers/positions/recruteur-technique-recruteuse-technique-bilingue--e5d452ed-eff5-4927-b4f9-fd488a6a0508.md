@@ -4,7 +4,7 @@ type: section
 title: 'Recruteur technique / Recruteuse technique bilingue'
 description: >-
   Pour faire avancer cette importante mission, nous recherchons un(e) recruteur(se) technique qui viendra faire croître notre équipe. Au programme, une vaste gamme de responsabilités à impact élevé : prendre en charge du recrutement tout au long du cycle, piloter la stratégie d’embauche et offrir au candidat la meilleure expérience possible. Vous devez avoir le profil de l’entrepreneur qui s’épanouit dans un milieu d’apprentissage sans craindre de remettre en question nos façons de faire, de mobiliser des partenaires à l’échelle du gouvernement ou de recevoir des suggestions sur des moyens d’améliorer nos processus. Il s’agit d’un poste de niveau AS-05 dans le groupe des Services administratifs.
-archived: false
+archived: true
 translationKey: 2022-june-bilingual-technical-recruiter
 leverId: e5d452ed-eff5-4927-b4f9-fd488a6a0508
 ---
