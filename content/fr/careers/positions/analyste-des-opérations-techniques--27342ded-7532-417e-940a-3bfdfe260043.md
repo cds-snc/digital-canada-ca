@@ -4,7 +4,7 @@ type: section
 title: 'Analyste des opérations techniques'
 description: >-
   Ce poste est classé au niveau IT-02 du groupe systèmes d’ordinateurs et relève de la personne responsable de l’équipe des opérations techniques et de la sécurité. Veuillez aussi noter que le travail se réalise de façon décentralisée.
-archived: false
+archived: true
 translationKey: 2022-aug-tech-ops-analyst
 leverId: 27342ded-7532-417e-940a-3bfdfe260043
 ---

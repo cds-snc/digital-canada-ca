@@ -4,7 +4,7 @@ type: section
 title: 'Technical Operations Analyst'
 description: >-
   This position is classified as IT-02 in the Computer Systems group, will report to the Technical Operations and Security Team Lead, and is distributed.
-archived: false
+archived: true
 translationKey: 2022-aug-tech-ops-analyst
 leverId: 27342ded-7532-417e-940a-3bfdfe260043
 ---
