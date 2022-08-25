@@ -4,7 +4,7 @@ type: section
 title: 'Bilingual Technical Recruiter'
 description: >-
   To further this important mission, we are looking for a Technical Recruiter to scale our team. You can expect high impact and wide-ranging responsibility: owning full-cycle recruiting, supporting hiring strategy, and delivering best-in-class candidate experience. You must be a builder who thrives in a learning environment—unafraid to challenge the way we’ve been doing things, engage partners across government and welcome suggestions for how we can iterate on our processes. This role is classified as an AS-05 in the Administrative Services group.
-archived: false
+archived: true
 translationKey: 2022-june-bilingual-technical-recruiter
 leverId: e5d452ed-eff5-4927-b4f9-fd488a6a0508
 ---
