@@ -746,7 +746,7 @@ team:
     email: michael.karlin@tbs-sct.gc.ca
     linkedin: michael-karlin-73052a4/
     twitter: supergovernance
-  - archived: false
+  - archived: true
     name: Mohamed Nur
     title:
       en: Development
