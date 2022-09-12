@@ -5,9 +5,9 @@ description: >-
   « Bouchées de sécurité » est une initiative du SNC visant à améliorer l’ensemble des pratiques en matière de sécurité informatique. Il s’agit de courtes présentations, contribuant à réduire les incidents liés à la sécurité en rappelant régulièrement au personnel ses responsabilités en la matière sur le lieu de travail.
 author: 'Cheyenne Arrowsmith, ingénieure principale, Fiabilité des sites'
 date: '2022-08-31T12:30:00.000Z'
-image: https://de2an9clyit2x.cloudfront.net/banner_security_snack_time_8b58d0e3e7.jpeg
+image: https://de2an9clyit2x.cloudfront.net/banner_security_snack_time_a5cd2fbf11.jpg
 image-alt: Un beigne partiellement mangé, un cadenas, une tasse de café et une souris d’ordinateur.
-thumb: https://de2an9clyit2x.cloudfront.net/small_banner_security_snack_time_8b58d0e3e7.jpeg
+thumb: https://de2an9clyit2x.cloudfront.net/small_banner_security_snack_time_a5cd2fbf11.jpg
 translationKey: blog-security-snack-time
 ---
 Qu’est-ce qui vous vient à l’esprit lorsque vous entendez « formation en sécurité informatique »? 
