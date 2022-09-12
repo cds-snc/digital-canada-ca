@@ -5,9 +5,9 @@ description: >-
   Security Snack Time is a new initiative at CDS to improve CDS’s overall security practice. These are small, bite-sized presentations that’ll help minimize safety incidents by regularly reminding employees of their responsibilities towards safety in the workplace. 
 author: 'Cheyenne Arrowsmith, Senior Site Reliability Engineer'
 date: '2022-08-31T12:00:00.000Z'
-image: https://de2an9clyit2x.cloudfront.net/banner_security_snack_time_8b58d0e3e7.jpeg
+image: https://de2an9clyit2x.cloudfront.net/banner_security_snack_time_a5cd2fbf11.jpg
 image-alt: A partially eaten donut, a lock, a cup of coffee, and a computer mouse.
-thumb: https://de2an9clyit2x.cloudfront.net/small_banner_security_snack_time_8b58d0e3e7.jpeg
+thumb: https://de2an9clyit2x.cloudfront.net/small_banner_security_snack_time_a5cd2fbf11.jpg
 translationKey: blog-security-snack-time
 ---
 What comes to mind when somebody says ‘security training’? 
