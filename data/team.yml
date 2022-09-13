@@ -113,6 +113,13 @@ exec:
     github: maxneuvians
     linkedin: maxneuvians
   - archived: false
+    name: Melanie Tremblay
+    title:
+      en: Executive Assistant to the COO
+      fr: Adjointe exécutive au Directeur des opérations
+    imagehash: small_melanie_tremblay_ca6233ad64
+    email: melanie.tremblay2@tbs-sct.gc.ca
+  - archived: false
     name: Mithula Naik
     title:
       en: Head of Client Experience & Acting Head of Growth
@@ -721,13 +728,6 @@ team:
     email: meghan.hellstern@tbs-sct.gc.ca
     linkedin: mhellstern
     twitter: mhellstern
-  - archived: false
-    name: Melanie Tremblay
-    title:
-      en: Internal Operations
-      fr: Opérations internes
-    imagehash: small_melanie_tremblay_ca6233ad64
-    email: melanie.tremblay2@tbs-sct.gc.ca
   - archived: true
     name: Mel Banyard
     title:
