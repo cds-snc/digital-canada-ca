@@ -4,7 +4,7 @@ type: section
 title: 'Senior Content Designer'
 description: >-
   As a Content Designer, you’ll work directly with our Lead Content Designer and the rest of the UX team on Learning Resources within the Partnerships Business unit. You will be focused on meeting the information needs of public servants, as well as CDS content creators. You’ll work towards finding better ways of organizing and presenting actionable information in English and French. You will also be expected to champion the readability and accessibility of information for all people, with a particular lens on finding opportunities to reduce or eliminate cognitive load. This work presents the interesting challenge of navigating through different content types, and establishing some templates, best practices, and guidelines for future content creators at CDS.
-archived: false
+archived: true
 translationKey: 2022-july-sr-content-designer
 leverId: a3772e8b-c531-4177-9227-1b1b0790243a
 ---
