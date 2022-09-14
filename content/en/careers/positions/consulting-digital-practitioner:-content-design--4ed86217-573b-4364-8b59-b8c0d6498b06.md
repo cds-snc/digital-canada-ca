@@ -4,7 +4,7 @@ type: section
 title: 'Consulting Digital Practitioner: Content Design'
 description: >-
   We are a digital government consulting team, inside government, for government, that brings hands-on delivery experience at scale from the public and private sectors. We help departments make timely design and technology decisions, build their in-house digital capabilities, and adopt new ways of working, so they can continually improve how they deliver public services. 
-archived: false
+archived: true
 translationKey: 2022-july-cdp-content-designer
 leverId: 4ed86217-573b-4364-8b59-b8c0d6498b06
 ---
