@@ -365,7 +365,7 @@ team:
     email: ciara.cronin@tbs-sct.gc.ca
     linkedin: /ciara-cronin-80402b41
     twitter: /ciaralcronin
-  - archived: true
+  - archived: false
     name: Clementine Hahn
     title:
       en: Product Management
