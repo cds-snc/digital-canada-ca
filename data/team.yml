@@ -949,6 +949,13 @@ team:
     linkedin: victoriakaychan
     twitter: vchanimal
   - archived: false
+    name: Victoria Woodworth-Lynas
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: small_victoria_woodworth_lynas_493b5d5eba
+    email: Victoria.Woodworth-Lynas@tbs-sct.gc.ca
+  - archived: false
     name: Vivian Nobrega
     title:
       en: Partnerships
