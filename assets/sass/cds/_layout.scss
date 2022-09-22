@@ -192,6 +192,8 @@ th {
 }
 
 table {
+  display: table;
+  width: 100%;
   margin: 25px 0;
 }
 
@@ -209,7 +211,6 @@ td, th {
 td {
   font-weight: 100;
   color: $icon-grey;
-  width: 50%;
 }
 
 th,
