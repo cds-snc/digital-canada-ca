@@ -215,6 +215,15 @@ team:
     imagehash: alexa_davidson_4fd32774b7
     email: Alexa.Davidson@tbs-sct.gc.ca
   - archived: false
+    name: Alvaro Scheid
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_Alvaro_Scheid_860d42349c
+    email: alvaro.scheid@tbs-sct.gc.ca
+    github: ascheid
+    linkedin: alvaroscheid
+  - archived: false
     name: Amy Morris
     title:
       en: Design
