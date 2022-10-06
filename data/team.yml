@@ -95,6 +95,14 @@ exec:
     linkedin: boardom
     twitter: boardom_ca
   - archived: false
+    name: Josh Ruihley
+    title:
+      en: Head of GC Notify and GC Forms
+      fr: Chef de GC Notification et Formulaires GC
+    imagehash: josh_ruihley_f0432d66a3
+    email: Joshua.Ruihley@tbs-sct.gc.ca
+    github: jroo
+  - archived: false
     name: Leanne Labelle
     title:
       en: Acting Executive Director of Platform
@@ -620,14 +628,6 @@ team:
     imagehash: jose_jimenez_105407e800
     email: jose.jimenez@cds-snc.ca
     twitter: curious_jose
-  - archived: false
-    name: Josh Ruihley
-    title:
-      en: Product Management
-      fr: Gestion de produits
-    imagehash: josh_ruihley_f0432d66a3
-    email: Joshua.Ruihley@tbs-sct.gc.ca
-    github: jroo
   - archived: true
     name: Julianna Rowsell
     title:
