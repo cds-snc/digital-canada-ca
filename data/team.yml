@@ -98,7 +98,7 @@ exec:
     name: Josh Ruihley
     title:
       en: Head of GC Notify and GC Forms
-      fr: Chef des GC Notification et Formulaires GC
+      fr: Chef des GC Notification et GC Formulaires
     imagehash: josh_ruihley_f0432d66a3
     email: Joshua.Ruihley@tbs-sct.gc.ca
     github: jroo
@@ -192,8 +192,8 @@ exec:
   - archived: false
     name: Wissam Moussa
     title:
-      en: Head of Infrastructure, Security, & Technical Support
-      fr: Chef de l'infrastructure, de la sécurité et du soutien technique
+      en: Head of Platform Core Services
+      fr: Chef des services de base de la plateforme
     imagehash: wissam_moussa_b63ffe10f4
     email: wissam.moussa@tbs-sct.gc.ca
     linkedin: wmoussa
