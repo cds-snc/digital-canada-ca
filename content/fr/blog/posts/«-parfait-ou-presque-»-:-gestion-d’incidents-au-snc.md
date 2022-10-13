@@ -14,7 +14,7 @@ translationKey: security-incident-management-cds
 
 Cette citation de l’auteure [Heidi Waterhouse](https://twitter.com/wiredferret) est l’une de mes préférées : après plus de 15 ans à travailler en tant que développeur de logiciels sur divers services gouvernementaux, je constate que [Heidi Waterhouse avait raison (en anglais)](https://increment.com/reliability/failure-is-okay/), tout est un peu brisé.
 
-Créer des logiciels n’est pas chose facile. Exécuter des systèmes conçus par d’autres non plus. ous sommes toutes et tous humain·e·s et nous faisons des erreurs. Il est donc parfaitement logique de bien se préparer aux défaillances, car elles finiront par se produire, tôt ou tard.
+Créer des logiciels n’est pas chose facile. Exécuter des systèmes conçus par d’autres non plus. Nous sommes toutes et tous humain·e·s et nous faisons des erreurs. Il est donc parfaitement logique de bien se préparer aux défaillances, car elles finiront par se produire, tôt ou tard.
 
 Dans ce billet de blogue, je reviens sur un incident qui a mobilisé toute notre équipe, sur l’approche novatrice qui nous a permis d’y remédier (et de nous assurer que cela ne se reproduise plus) et surtout, je partage avec vous les enseignements tirés de cette expérience, dans l’espoir qu’ils vous soient utiles. 
 

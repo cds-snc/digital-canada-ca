@@ -10,7 +10,7 @@ image-alt: A laptop with an alarming red screen, surrounded by hazard signs, san
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_a_percentage_of_perfection_incident_management_at_cds_f2f8ea5925.jpeg
 translationKey: security-incident-management-cds
 ---
-> *‘’Accepting that imperfect things still work is fundamental to preventing failures from becoming catastrophes.’’*
+> *“Accepting that imperfect things still work is fundamental to preventing failures from becoming catastrophes.’’*
 
 This quote from writer [Heidi Waterhouse](https://twitter.com/wiredferret) is one of my favorite quotes. After spending over 15 years working as a software developer on various government services, I’ve come to realize, as [Heidi Waterhouse states](https://increment.com/reliability/failure-is-okay/), that everything is a little bit broken.
 
