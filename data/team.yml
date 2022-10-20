@@ -78,6 +78,12 @@ exec:
     imagehash: jennifer_stephan_324e6090d3
     email: jennifer.stephan@tbs-sct.gc.ca
   - archived: false
+    name: Jessie Adcock
+    title:
+      en: Chief Executive Officer
+      fr: Présidente-directrice générale
+    imagehash: small_jessie_adcock_257ca0e0ea
+  - archived: false
     name: John Millons
     title:
       en: Acting Chief Operating Officer & Executive Director 
@@ -98,7 +104,7 @@ exec:
     name: Josh Ruihley
     title:
       en: Head of GC Notify and GC Forms
-      fr: Chef des GC Notification et GC Formulaires
+      fr: Chef de GC Notification et GC Formulaires
     imagehash: josh_ruihley_f0432d66a3
     email: Joshua.Ruihley@tbs-sct.gc.ca
     github: jroo
