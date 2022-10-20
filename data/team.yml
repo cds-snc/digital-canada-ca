@@ -77,7 +77,7 @@ exec:
       fr: Cheffe des opérations internes
     imagehash: jennifer_stephan_324e6090d3
     email: jennifer.stephan@tbs-sct.gc.ca
-  - archived: false
+  - archived: true
     name: Jessie Adcock
     title:
       en: Chief Executive Officer
