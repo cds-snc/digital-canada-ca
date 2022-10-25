@@ -4,7 +4,7 @@ type: section
 title: 'Praticien du numérique chargé de la consultation ou praticienne du numérique chargée de la consultation - Sécurité des opérations de développement'
 description: >-
   Pour soutenir cette importante mission, nous recherchons un·e praticien·ne· du numérique chargé·e· de la consultation, sécurité des opérations de développement, pour se joindre à l’équipe du conseil de l’unité des partenariats du SNC. L’équipe du conseil du SNC fournit des conseils d’experts et une aide pratique aux fonctionnaires qui créent de nouveaux services ou améliorent les services existants afin de servir le public. Par conséquent, en tant que membre de cette équipe, vous devrez posséder une attitude axée sur les résultats, être capable de jouer plusieurs rôles et accepter de vous familiariser avec la bureaucratie gouvernementale pour faire avancer les choses.
-archived: false
+archived: true
 translationKey: consulting-digital-practitioner-devsecops-march-2022
 leverId: c00d0402-56cd-49b3-9d37-525b9fd31cfd
 ---
