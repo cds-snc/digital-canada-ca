@@ -4,7 +4,7 @@ type: section
 title: 'Consulting Digital Practitioner - DevSecOps'
 description: >-
   To support this important mission, we are looking for a Consulting Digital Practitioner - DevSecOps, to join the Consulting team under CDS’s Partnerships unit. CDS’s Consulting team provides expert advice and hands-on help to public servants establishing new services or improving existing ones to serve the public. This means that, as a member of this team, you'll need to be outcome focused, able to wear multiple hats, and ready to navigate government bureaucracy to get things done.
-archived: false
+archived: true
 translationKey: consulting-digital-practitioner-devsecops-march-2022
 leverId: c00d0402-56cd-49b3-9d37-525b9fd31cfd
 ---
