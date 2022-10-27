@@ -212,6 +212,8 @@ roadmap:
   other: "Feuille de route vers 2025"
 how-cds-started:
   other: "Les débuts du SNC"
+past-projects:
+  other: "(FR) Past Projects"   
 terms-link:
   other: "/transparence/avis/"
 accessibility-link:
@@ -222,6 +224,8 @@ roadmap-link:
   other: "https://numerique.canada.ca/feuille-de-route-2025/"
 how-cds-started-link:
   other: "https://numerique.canada.ca/les-debuts-du-snc/"
+past-projects-link:
+  other: "/past-projects-fr/"  
 tools-and-resources-platform-title:
   other: "Outils de plateforme"
 tools-and-resources-platform-description-1st:

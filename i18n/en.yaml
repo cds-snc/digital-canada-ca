@@ -208,6 +208,8 @@ roadmap:
   other: "Roadmap to 2025"
 how-cds-started:
   other: "How CDS started"
+past-projects:
+  other: "Past Projects"  
 terms-link:
   other: "/legal/terms/"
 accessibility-link:
@@ -222,6 +224,8 @@ security-notice:
   other: "Security Notice"  
 how-cds-started-link:
   other: "/how-cds-started/"
+past-projects-link:
+  other: "/past-projects/"  
 top-of-page:
   other: "Top of Page"
 trans-abbr-switch:
