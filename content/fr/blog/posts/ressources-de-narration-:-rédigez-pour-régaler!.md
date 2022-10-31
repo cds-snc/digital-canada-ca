@@ -67,6 +67,10 @@ translationKey: blog-brainstorm-activity
 
 
 
+<p></p>
+
+
+
 <p>Ce n’est qu’avec de la pratique que l’on parvient à « rédiger pour régaler ». Plus vous écrirez, plus vous développerez et affinerez vos techniques de rédaction. Impossible de savoir quel genre de repas vous allez préparer avec votre liste d’ingrédients : les possibilités sont infinies.</p>
 
 
