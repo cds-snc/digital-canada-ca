@@ -59,15 +59,11 @@ translationKey: blog-brainstorm-activity
 
 
 
-<p></p>
+<div class="wp-block-file"><a id="wp-block-file--media-af692eb6-5d6c-455a-bd22-b4506848723a" href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Téléchargez-le-gabarit-dactivité-pour-les-remue-méninges-liés-à-vos-billets-de-blogue-🧠-⚡️.pdf">Téléchargez le gabarit d’activité pour les remue-méninges liés à vos billets de blogue! 🧠 ⚡️</a><a href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Téléchargez-le-gabarit-dactivité-pour-les-remue-méninges-liés-à-vos-billets-de-blogue-🧠-⚡️.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-af692eb6-5d6c-455a-bd22-b4506848723a">Download</a></div>
 
 
 
-<div class="wp-block-file"><object class="wp-block-file__embed" data="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Téléchargez-le-gabarit-dactivité-pour-les-remue-méninges-liés-à-vos-billets-de-blogue-🧠-⚡️.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Téléchargez le gabarit d’activité pour les remue-méninges liés à vos billets de blogue! 🧠 ⚡️."></object><a id="wp-block-file--media-af692eb6-5d6c-455a-bd22-b4506848723a" href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Téléchargez-le-gabarit-dactivité-pour-les-remue-méninges-liés-à-vos-billets-de-blogue-🧠-⚡️.pdf">Téléchargez le gabarit d’activité pour les remue-méninges liés à vos billets de blogue! 🧠 ⚡️</a><a href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Téléchargez-le-gabarit-dactivité-pour-les-remue-méninges-liés-à-vos-billets-de-blogue-🧠-⚡️.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-af692eb6-5d6c-455a-bd22-b4506848723a">Download</a></div>
-
-
-
-<p></p>
+<figure class="wp-block-image size-full"><img loading="lazy" width="763" height="443" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/fr-final-activity-brainstorming-screenshot.png" alt="Capture d’écran du gabarit d’activité montrant les dix ingrédients cités ci-dessus et présentant des sections pour les sous-titres / points principaux." class="wp-image-551" /></figure>
 
 
 
