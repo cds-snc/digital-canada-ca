@@ -396,6 +396,56 @@ product-suite-tag:
   other: "suite-de-produits-tag"
 guides-tag:
   other: "guides-tag"
+coaching-and-advice-what-we-do-title:
+  other: "What we Do"  
+coaching-and-advice-what-we-do-c1:
+  other: " Provide personalized guidance based on our service delivery experience"
+coaching-and-advice-what-we-do-c2:
+  other: " Facilitate exercises and workshops to help your team identify and solve problems"
+coaching-and-advice-what-we-do-c3:
+  other: " Provide personalized guidance based on our service delivery experience"
+coaching-and-advice-what-we-dont-do-c1:
+  other: " Build technology for you"
+coaching-and-advice-what-we-dont-do-c2:
+  other: " Join your team as an extra delivery resource" 
+coaching-and-advice-what-we-dont-title:
+  other: "What we won't do"
+coaching-and-advice-our-advice-title:
+  other: "Some of the things we can advise on:"
+coaching-and-advice-our-advice-c1:
+  other: " Conducting user research"
+coaching-and-advice-our-advice-c2:
+  other: " Agile sotware development and ways of working" 
+coaching-and-advice-our-advice-c3:
+  other: " Team compositions for delivery work" 
+coaching-and-advice-our-advice-c4:
+  other: " What problems to start with" 
+coaching-and-advice-our-advice-c5:
+  other: " Navigating vendor relationships" 
+coaching-and-advice-our-advice-c6:
+  other: " Shifting from project to product mindset" 
+coaching-and-advice-our-advice-c7:
+  other: " Requests for proposals " 
+coaching-and-advice-our-advice-c8:
+  other: " Working in the open"
+coaching-and-advice-eligible-title:
+  other: "You’re eligible for coaching and advice if you:"
+coaching-and-advice-eligible-c1:
+  other: " Are a federal public servant"
+coaching-and-advice-eligible-c2:
+  other:  " Work on a public-facing service"
+coaching-and-advice-eligible-c3:
+  other: " Have a digital service delivery problem"
+coaching-and-advice-how-it-works:
+  other: "How it works:"
+coaching-and-advice-how-it-works-c1:
+  other: "1. Complete the request form to tell us about the service delivery problem you’re trying to solve."
+coaching-and-advice-how-it-works-c2:
+  other: "2. We’ll set up an introductory call to learn more." 
+coaching-and-advice-how-it-works-c3:
+  other: "3. If it’s a problem we can help solve, we’ll assign our digital advisors to lend their expertise. "
+request-coaching-and-advice-button:
+  other: "Request coaching and advice"                
 coaching-and-advice-intro:
   other: "En tant que fonctionnaires du système fédéral, nous savons à quel point la prestation de services numériques peut être complexe au sein du gouvernement. Notre équipe de praticien·ne·s du numérique est là pour vous aider."
 coaching-and-advice-checklist-title:
