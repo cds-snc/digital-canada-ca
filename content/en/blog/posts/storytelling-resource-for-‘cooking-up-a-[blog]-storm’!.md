@@ -63,7 +63,11 @@ translationKey: blog-brainstorm-activity
 
 
 
-<div class="wp-block-file"><object class="wp-block-file__embed" data="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Download-the-activity-template-for-blog-brainstorming-🧠⚡️.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Download the activity template for blog brainstorming! 🧠⚡️."></object><a id="wp-block-file--media-042477c2-82b0-45a1-85e5-fef6c1fd83b7" href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Download-the-activity-template-for-blog-brainstorming-🧠⚡️.pdf">Download the activity template for blog brainstorming! 🧠⚡️</a><a href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Download-the-activity-template-for-blog-brainstorming-🧠⚡️.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-042477c2-82b0-45a1-85e5-fef6c1fd83b7">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-042477c2-82b0-45a1-85e5-fef6c1fd83b7" href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Download-the-activity-template-for-blog-brainstorming-🧠⚡️.pdf">Download the activity template for blog brainstorming! 🧠⚡️</a><a href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Download-the-activity-template-for-blog-brainstorming-🧠⚡️.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-042477c2-82b0-45a1-85e5-fef6c1fd83b7">Download</a></div>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="761" height="468" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/final-activity-brainstorming-screenshot-1.png" alt="Screenshot of activity template, showing the 10 ingredients listed above and sections for subheadings/main points.]" class="wp-image-554" /></figure>
 
 
 
