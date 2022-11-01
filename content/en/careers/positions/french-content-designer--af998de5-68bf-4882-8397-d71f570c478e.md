@@ -4,7 +4,7 @@ type: section
 title: 'French Content Designer'
 description: >-
   This position resides in the Platform Business Unit which works towards empowering government to serve people better by delivering self-serve products to create and run high quality public services for Canadians.
-archived: false
+archived: true
 translationKey: french-content-designer-sept-2022
 leverId: af998de5-68bf-4882-8397-d71f570c478e
 ---
