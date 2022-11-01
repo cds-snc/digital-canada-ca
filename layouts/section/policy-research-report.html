@@ -1,0 +1,27 @@
+{{ define "main"}}
+{{ .Content }}
+<section class='partnership-products' id='partnership-products' name='partnership-products'>
+    <div class='container'>
+        <div class='row'>
+            <div class='col-xs-12'>
+                <h2><strong>{{ i18n "coaching-and-advice-past-work" }}</strong></h2>
+            </div>
+        </div>
+    </div>
+
+    {{ $products := where .Site.Pages ".File.Dir" "==" "products/products/" }}
+    <div class='container'>
+        <div class='row equal'>
+            {{ range $elem_index, $elem_val := $products }}
+            {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
+        </div>
+        <div class='row equal'>
+            {{ end }}
+            <div class='col-md-6 col-xs-12'>
+                {{ partial "partnerships_product_item" $elem_val }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{end}}
