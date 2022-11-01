@@ -1,27 +1,42 @@
+{{ define "title" }}
+{{ partial "menu.html" . }}
+{{ end }}
 {{ define "main"}}
-{{ .Content }}
-<section class='partnership-products' id='partnership-products' name='partnership-products'>
-    <div class='container'>
-        <div class='row'>
-            <div class='col-xs-12'>
-                <h2><strong>{{ i18n "coaching-and-advice-past-work" }}</strong></h2>
-            </div>
-        </div>
-    </div>
+<div class="container">
+    <section class="section">
+        <div class="row">
+            <div class="col-md-6" >
+                <h2>{{ i18n "policy-research-report-title" }}</h2>
 
-    {{ $products := where .Site.Pages ".File.Dir" "==" "products/products/" }}
-    <div class='container'>
-        <div class='row equal'>
-            {{ range $elem_index, $elem_val := $products }}
-            {{ if and (ne $elem_index 0) (eq (mod $elem_index 2) 0) }}
-        </div>
-        <div class='row equal'>
-            {{ end }}
-            <div class='col-md-6 col-xs-12'>
-                {{ partial "partnerships_product_item" $elem_val }}
             </div>
-            {{ end }}
+            <div class="col-md-6" style="border-left: 2px solid red;">
+                <div>
+                    <span>Short tagline about the report and its content</span>
+
+                </div>
+                <div class="button-arrow">
+                    <a href="/meet-the-team/">Download the full PDF Report <svg width="16" height="16" viewBox="0 0 16 16"
+                            xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                            <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+                        </svg></a>
+                </div>
+            </div>
+            
         </div>
+    </section>
+    <img src="/img/cds/policy-research-report.svg" />
+</div>
+{{ .Content }}
+<section class='bg-full bg-full--blue' style="margin-bottom: 5rem">
+    <div class="guides-contact-us">
+      <div>
+        <p>{{ i18n "guides-help" }}</p>
+      </div>
+      <div>
+        <a href="mailto:resources-ressources@cds-snc.ca" id="guides-contact-us-id" aria-label="{{ i18n "guides-contact-us" }}">
+          {{ i18n "coaching-and-advice-contact-us" }}
+        </a>
+      </div>
     </div>
 </section>
 {{end}}
