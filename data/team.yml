@@ -481,6 +481,14 @@ team:
     email: elise.cossette@tbs-sct.gc.ca
     linkedin: élise-cossette-590b56ab
   - archived: false
+    name: Ella Edache
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    imagehash: small_ella_edache_8ea4e55fa2
+    email: elaine.edache@tbs-sct.gc.ca
+    linkedin: elaine-edache-40367293
+  - archived: false
     name: Emma Wootton
     title:
       en: Design
@@ -752,6 +760,13 @@ team:
     email: meghan.hellstern@tbs-sct.gc.ca
     linkedin: mhellstern
     twitter: mhellstern
+  - archived: false
+    name: Melanie Boeckmann
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_melanie_boeckmann_710595cd39
+    email: melanie.boeckmann@tbs-sct.gc.ca
   - archived: true
     name: Mel Banyard
     title:
