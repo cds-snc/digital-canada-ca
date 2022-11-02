@@ -7,7 +7,7 @@ author: 'Jo Button, Storytelling team'
 date: '2022-10-31T10:43:30'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2022/10/new-en-cooking_up_a_storm_blog_banner.jpeg
 image-alt: People creating content on devices, around the word blog. There are cooking elements, like utensils and dishes, to signify ‘cooking up a [blog] storm’.
-thumb: https://articles.alpha.canada.ca/uploads/sites/25/2022/10/new-en-cooking_up_a_storm_blog_banner-1024x507.jpeg
+thumb: https://articles.alpha.canada.ca/uploads/sites/25/2022/10/new-en-cooking_up_a_storm_blog_banner.jpeg
 translationKey: blog-brainstorm-activity
 ---
 
