@@ -878,7 +878,7 @@ team:
     imagehash: small_rashi_khilnani_e366db9cda
     email: Rashi.Khilnani@tbs-sct.gc.ca
     linkedin: rashikhilnani/
-  - archived: false
+  - archived: true
     name: Sabine Runciman
     title:
       en: Design Research
