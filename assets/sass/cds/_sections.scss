@@ -1570,21 +1570,12 @@ article.post {
 }
 
 .coaching-and-advice {
-  .advise {
+  &.advise {
     @include icon-color($action-orange)
   }
-  .what-we-do {
+  &.how-we-can-help {
     @include icon-color(#008D17)
   }
-  .what-we-dont-do {
-    @include icon-color(#FF0000)
-  }
-
-  // li {
-  //   i {
-  //     color: #028d17;
-  //   }
-  // }
 }
 
 

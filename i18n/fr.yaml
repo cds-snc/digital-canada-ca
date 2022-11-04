@@ -396,58 +396,56 @@ product-suite-tag:
   other: "suite-de-produits-tag"
 guides-tag:
   other: "guides-tag"
-coaching-and-advice-what-we-do-title:
-  other: "What we Do"  
-coaching-and-advice-what-we-do-c1:
-  other: " Provide personalized guidance based on our service delivery experience"
-coaching-and-advice-what-we-do-c2:
-  other: " Facilitate exercises and workshops to help your team identify and solve problems"
-coaching-and-advice-what-we-do-c3:
-  other: " Provide personalized guidance based on our service delivery experience"
-coaching-and-advice-what-we-dont-do-c1:
-  other: " Build technology for you"
-coaching-and-advice-what-we-dont-do-c2:
-  other: " Join your team as an extra delivery resource" 
-coaching-and-advice-what-we-dont-title:
-  other: "What we won't do"
+coaching-and-advice-how-we-can-help-title:
+  other: "Ce que nous vous offrons"  
+coaching-and-advice-how-we-can-help-c1:
+  other: " Des conseils personnalisés basés sur notre expérience en prestation de services"
+coaching-and-advice-how-we-can-help-c2:
+  other: " L’animation d’exercices et d’ateliers pour aider votre équipe à définir les problèmes et à trouver des solutions"
+coaching-and-advice-how-we-can-help-c3:
+  other: " Des mises en relation avec des collègues ayant fait face à des problèmes similaires" 
 coaching-and-advice-our-advice-title:
-  other: "Some of the things we can advise on:"
+  other: "Quelques sujets sur lesquels nous offrons des conseils"
 coaching-and-advice-our-advice-c1:
-  other: " Conducting user research"
+  other: " Recherche sur les utilisateurs"
 coaching-and-advice-our-advice-c2:
-  other: " Agile sotware development and ways of working" 
+  other: " Développement de logiciels et méthodes de travail agiles" 
 coaching-and-advice-our-advice-c3:
-  other: " Team compositions for delivery work" 
+  other: " Composition d’équipes à des fins de prestation"
 coaching-and-advice-our-advice-c4:
-  other: " What problems to start with" 
+  other: " Adoption de pratiques numériques modernes"   
 coaching-and-advice-our-advice-c5:
-  other: " Navigating vendor relationships" 
+  other: " Priorités en matière de résolution de problèmes" 
 coaching-and-advice-our-advice-c6:
-  other: " Shifting from project to product mindset" 
+  other: " Entretien de relations avec les fournisseurs"
 coaching-and-advice-our-advice-c7:
-  other: " Requests for proposals " 
+  other: " Prise de décisions en matière de conception et de technologie"   
 coaching-and-advice-our-advice-c8:
-  other: " Working in the open"
+  other: " Passage d’un état d’esprit axé sur le projet à un état d’esprit axé sur le produit" 
+coaching-and-advice-our-advice-c9:
+  other: " Demandes de propositions" 
+coaching-and-advice-our-advice-c10:
+  other: " Travail ouvert"
 coaching-and-advice-eligible-title:
-  other: "You’re eligible for coaching and advice if you:"
+  other: "Vous êtes admissible à l’encadrement et au conseil si vous :"
 coaching-and-advice-eligible-c1:
-  other: " Are a federal public servant"
+  other: " êtes fonctionnaire du gouvernement fédéral"
 coaching-and-advice-eligible-c2:
-  other:  " Work on a public-facing service"
+  other:  " Travaillez sur un service destiné au public"
 coaching-and-advice-eligible-c3:
-  other: " Have a digital service delivery problem"
+  other: " Rencontrez un problème lié à la prestation de services numériques"
 coaching-and-advice-how-it-works:
-  other: "How it works:"
+  other: "Processus :"
 coaching-and-advice-how-it-works-c1:
-  other: "1. Complete the request form to tell us about the service delivery problem you’re trying to solve."
+  other: "1. Remplissez le formulaire de demande pour nous en dire plus sur le problème que vous rencontrez en matière de prestation de services."
 coaching-and-advice-how-it-works-c2:
-  other: "2. We’ll set up an introductory call to learn more." 
+  other: "2. Nous organiserons un appel pour en apprendre davantage." 
 coaching-and-advice-how-it-works-c3:
-  other: "3. If it’s a problem we can help solve, we’ll assign our digital advisors to lend their expertise. "
+  other: "3. Si nous sommes en mesure de vous aider à résoudre le problème, nous chargerons un·e conseiller·ère en numérique de vous apporter son expertise.  "
 request-coaching-and-advice-button:
-  other: "Request coaching and advice"                
+  other: "Demandez de l’encadrement et des conseils"
 coaching-and-advice-intro:
-  other: "En tant que fonctionnaires du système fédéral, nous savons à quel point la prestation de services numériques peut être complexe au sein du gouvernement. Notre équipe de praticien·ne·s du numérique est là pour vous aider."
+  other: "Nous offrons encadrement et conseil afin d’aider les fonctionnaires à développer leurs compétences internes concernant l’amélioration des services numériques. Ces conseils sont destinés au gouvernement et offerts par le gouvernement afin que nous puissions mieux répondre aux besoins du public."
 coaching-and-advice-checklist-title:
   other: "Nous pouvons aider à outiller votre équipe pour :"
 coaching-and-advice-checklist-item-one:
