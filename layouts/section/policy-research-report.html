@@ -3,40 +3,49 @@
 {{ end }}
 {{ define "main"}}
 <div class="container">
-    <section class="section">
-        <div class="row">
-            <div class="col-md-6" >
-                <h2>{{ i18n "policy-research-report-title" }}</h2>
+  <section class="section">
+    <div class="row">
+      <div style="display: flex; justify-content: space-between;">
+        <div>
+          <h2>{{ i18n "policy-research-report-title" }}</h2>
 
-            </div>
-            <div class="col-md-6" style="border-left: 2px solid red;">
-                <div>
-                    <span>Short tagline about the report and its content</span>
-
-                </div>
-                <div class="button-arrow">
-                    <a href="/meet-the-team/">Download the full PDF Report <svg width="16" height="16" viewBox="0 0 16 16"
-                            xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
-                            <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
-                        </svg></a>
-                </div>
-            </div>
-            
         </div>
-    </section>
-    <img src="/img/cds/policy-research-report.svg" />
-</div>
-{{ .Content }}
-<section class='bg-full bg-full--blue' style="margin-bottom: 5rem">
-    <div class="guides-contact-us">
-      <div>
-        <p>{{ i18n "guides-help" }}</p>
+        <span style="border-left: 2px solid red;"></span>
+        <div>
+          <div>
+            <span>Short tagline about the report and its content inside</span>
+
+          </div>
+          <div class="button-arrow">
+            <a href="/meet-the-team/">Download the full PDF Report <svg width="16" height="16" viewBox="0 0 16 16"
+                xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+              </svg></a>
+          </div>
+        </div>
       </div>
-      <div>
-        <a href="mailto:resources-ressources@cds-snc.ca" id="guides-contact-us-id" aria-label="{{ i18n "guides-contact-us" }}">
-          {{ i18n "coaching-and-advice-contact-us" }}
-        </a>
-      </div>
+
     </div>
+  </section>
+  <div class="col-xs-12">
+    <img src="/img/cds/policy-research-report.svg" />
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    {{ .Content }}
+  </div>
+</div>
+<section class='bg-full bg-full--blue' style="margin-bottom: 5rem">
+  <div class="guides-contact-us">
+    <div>
+      <p>{{ i18n "guides-help" }}</p>
+    </div>
+    <div>
+      <a href="mailto:resources-ressources@cds-snc.ca" id="guides-contact-us-id" aria-label="{{ i18n "guides-contact-us" }}">
+        {{ i18n "coaching-and-advice-contact-us" }}
+      </a>
+    </div>
+  </div>
 </section>
 {{end}}
