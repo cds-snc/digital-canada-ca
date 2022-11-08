@@ -356,8 +356,6 @@ partner-with-us-title:
   other: "Collaborez avec nous"
 partner-with-us-subtitle:
   other: "Si vous avez besoin de conseils pour savoir sur quoi mettre l’accent pour améliorer votre service."
-partner-with-us-description:
-  other: "Parlez-nous des défis auxquels vous faites face en matière de prestation de services et nous vous conseillerons sur la base de nos expériences passées." 
 coaching-and-advice-image-alt:
   other: "Trois personnes discutant d’idées et de problèmes dans une pièce."     
 use-our-tools-and-resources-title:
@@ -500,24 +498,18 @@ guides-contact-us:
   other: "Communiquer avec l’équipe des guides et des ressources d’apprentissage."  
 coaching-and-advice-title:
   other: "Encadrement et conseil"  
-coaching-and-advice-subtitle:
-  other: "Lorsque vous avez besoin de conseils ou de soutien pour améliorer un service."
 coaching-and-advice-description:
-  other: "Parlez-nous de vos défis en matière de prestation de services et nous vous conseillerons sur la base de nos expériences."
+  other: "Obtenez des conseils personnalisés sur un problème lié à la prestation de services."
 product-suite-title:
   other: "Suite de produits"
-product-suite-subtitle:
-  other: "Lorsque vous recherchez une solution technique précise qui améliorera votre service."
 product-suite-homepage-description:
-  other: "Intégrez nos outils prêts à utiliser dans vos systèmes actuels."
+  other: "Intégrez nos outils technologiques dans vos systèmes actuels."
 guides-title:
   other: "Guides"
-guides-subtitle:
-  other: "Pour en savoir plus sur la prestation de services axés sur l’utilisateur."
 guides-description:
-  other: "Consultez nos guides et nos ressources sur le gouvernement numérique."
+  other: "Consultez nos guides et ressources sur le gouvernement numérique pour en savoir plus sur la prestation de services centrée sur les utilisateur·rice·s."
 coaching-and-advice-button-text:
-  other: "Obtenez de l’aide personnalisée"
+  other: "Obtenir de l’aide personnalisée"
 product-suite-button-text:
   other: "Utilisez nos produits"
 guides-button-text:
