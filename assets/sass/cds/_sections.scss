@@ -1560,21 +1560,11 @@ article.post {
   }
 }
 
-@mixin icon-color($color) {
+.coaching-and-advice {
   li {
     i {
-      color: $color;
+      color: #115740;
     }
-  }
-  
-}
-
-.coaching-and-advice {
-  &.advise {
-    @include icon-color($action-orange)
-  }
-  &.how-we-can-help {
-    @include icon-color(#008D17)
   }
 }
 
