@@ -1548,33 +1548,11 @@ article.post {
     list-style-type: none;
      li {
        padding-bottom: 1rem;
+       i {
+        color: #115740;
+       }
        
      }
-  }
-}
-.product-suite {
-  li {
-    i {
-      color: $secondary-color;
-    }
-  }
-}
-
-@mixin icon-color($color) {
-  li {
-    i {
-      color: $color;
-    }
-  }
-  
-}
-
-.coaching-and-advice {
-  &.advise {
-    @include icon-color($action-orange)
-  }
-  &.how-we-can-help {
-    @include icon-color(#008D17)
   }
 }
 
