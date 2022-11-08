@@ -351,9 +351,7 @@ how-we-can-help:
 partner-with-us-title:
   other: "Partner with us"
 partner-with-us-subtitle:
-  other: "If you need advice on what to focus on to improve your service."
-partner-with-us-description:
-  other: "Tell us about your service delivery challenges, and we’ll provide guidance based on past experiences." 
+  other: "If you need advice on what to focus on to improve your service." 
 coaching-and-advice-image-alt:
   other: "Three people in a room discussing ideas and problems together."     
 use-our-tools-and-resources-title:
@@ -496,24 +494,18 @@ guides-contact-us:
   other: "Contact the guides and learning resources team."  
 coaching-and-advice-title:
   other: "Coaching and advice"  
-coaching-and-advice-subtitle:
-  other: "If you need feedback or support to improve your service."
 coaching-and-advice-description:
-  other: "Tell us about your service delivery challenges, and we’ll provide tailored help based on past experiences."
+  other: "Get tailored guidance on a service delivery challenge."
 product-suite-title:
   other: "Product suite"
-product-suite-subtitle:
-  other: "If you need a specific technical solution to make your service more efficient."
 product-suite-homepage-description:
-  other: "Integrate our ready-to-use tools into your existing systems."
+  other: "Integrate our tech tools into your existing systems."
 guides-title:
   other: "Guides"
-guides-subtitle:
-  other: "If you want to learn more about user-centred service delivery."
 guides-description:
-  other: "Read our digital government guides and resources."    
+  other: "Read our digital government guides and resources to learn more about user-centred service delivery."
 coaching-and-advice-button-text:
-  other: "Get tailored help"
+  other: "Get tailored guidance"
 product-suite-button-text:
   other: "Use our products"
 guides-button-text:
