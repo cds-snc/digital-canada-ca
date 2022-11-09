@@ -51,7 +51,7 @@ CDS now offers a digital government consulting team, inside government, for gove
  
 Through [Consulting](https://digital.canada.ca/coaching-and-advice/), we’re now providing guidance and feedback, sharing resources, and making connections to help government teams overcome their specific hurdles and improve their performance against the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html). 
 
-Through [Learning Resources](https://en.learning-resources.cdssandbox.xyz/), we’re in the early stages of experimenting with how to create, curate, and publish practical examples and resources that help public servants build their in-house digital capabilities and make the case for change within their departments. 
+Through [Learning Resources](https://resources.alpha.canada.ca/), we’re in the early stages of experimenting with how to create, curate, and publish practical examples and resources that help public servants build their in-house digital capabilities and make the case for change within their departments. 
 
 And this fall, we’re exploring how we might design a new type of service, focussed on enabling the conditions for change, by dedicating a team to partner directly with a department, help them build their digital capabilities, and adopt new ways of working. We don't quite know what shape this will take, but like everything at CDS, we'll share our experiences and lessons learned along the way.
  
