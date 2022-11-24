@@ -8,7 +8,7 @@ date: '2022-11-24T10:56:58'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2022/11/221025_FearlessAdviceWorkingConsultingTeamCDS_Blog_Post.png
 image-alt: The CDS consulting team working with partners across the federal government to improve services for people in Canada. L’équipe de conseil du SNC travaille avec les partenaires de l’ensemble de l’administration fédérale pour améliorer les services offerts aux personnes habitant au Canada.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2022/11/221025_FearlessAdviceWorkingConsultingTeamCDS_Blog_Post.png
-translationKey: blog-24-nov-22
+translationKey: blog-nov-24-22
 ---
 
 <p><em>« Si seulement j’avais connu le SNC plus tôt! »&nbsp;</em></p>
