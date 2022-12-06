@@ -22,7 +22,7 @@ This position resides in the Platform Business Unit which works towards empoweri
 
 We're looking for a Senior Infrastructure Developer who will design, build, configure, and improve our infrastructure as code for various internal tools and products to enable deploying rapidly, scaling gracefully, and keeping system data safe.
 
-This role is classified as an [IT-04 or IT-05](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260/) in the Computer Systems group. This role can be performed from anywhere in Canada. In the future, occasional travel to Ottawa may be required.
+This role is classified as an [IT-04 or IT-05](https://www.tbs-sct.canada.ca/agreements-conventions/view-visualiser-eng.aspx?id=1#toc12259212260/) in the Computer Systems group. This position is English essential and can be performed from anywhere in Canada. In the future, occasional travel to Ottawa may be required.
 
 ### What you’ll do
 
