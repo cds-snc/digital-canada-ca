@@ -521,4 +521,6 @@ coaching-and-advice-url:
 product-suite-url:
   other: "/suite-de-produits/"
 guides-url:
-  other: "/guides/"                          
+  other: "/guides/"
+privacy-page-url:
+  other: "/transparence/confidentialite/"                             
