@@ -67,7 +67,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="761" height="468" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/final-activity-brainstorming-screenshot-1.png" alt="Screenshot of activity template, showing the 10 ingredients listed above and sections for subheadings/main points.]" class="wp-image-554" /></figure>
+<figure class="wp-block-image"><img loading="lazy" width="761" height="468" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/final-activity-brainstorming-screenshot-1.png" alt="Screenshot of activity template, showing the 10 ingredients listed above and sections for subheadings/main points.]" class="wp-image-554" style="max-width: 100%;height: auto" /></figure>
 
 
 
