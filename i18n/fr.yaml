@@ -200,8 +200,6 @@ resources:
   other: "Ressources"
 accessibility:
   other: "Accessibilité"
-past-projects:
-  other: "Projets antérieurs"
 our-values:
   other: "Nos valeurs"
 contact-us-footer:
@@ -212,6 +210,8 @@ roadmap:
   other: "Feuille de route vers 2025"
 how-cds-started:
   other: "Les débuts du SNC"
+past-projects:
+  other: "Anciens projets"   
 terms-link:
   other: "/transparence/avis/"
 accessibility-link:
@@ -222,6 +222,8 @@ roadmap-link:
   other: "https://numerique.canada.ca/feuille-de-route-2025/"
 how-cds-started-link:
   other: "https://numerique.canada.ca/les-debuts-du-snc/"
+past-projects-link:
+  other: "/anciens-projets/"  
 tools-and-resources-platform-title:
   other: "Outils de plateforme"
 tools-and-resources-platform-description-1st:
@@ -468,8 +470,6 @@ coaching-and-advice-contact-us-title:
   other: "Passons à la pratique"
 coaching-and-advice-contact-us-description:
   other: "Contactez-nous pour en savoir plus sur la manière dont nous pouvons soutenir vos équipes en matière de prestation de services."
-coaching-and-advice-past-work:
-  other: "Nous nous appuyons sur nos expériences passées pour mieux vous soutenir :"
 product-suite-description:
   other: "Nous construisons des solutions gouvernementales pour vous faciliter la tâche."
 product-suite-intro:

@@ -207,7 +207,7 @@ newsletter:
 roadmap:
   other: "Roadmap to 2025"
 how-cds-started:
-  other: "How CDS started"
+  other: "How CDS started" 
 terms-link:
   other: "/legal/terms/"
 accessibility-link:
@@ -222,6 +222,8 @@ security-notice:
   other: "Security Notice"  
 how-cds-started-link:
   other: "/how-cds-started/"
+past-projects-link:
+  other: "/past-projects/"  
 top-of-page:
   other: "Top of Page"
 trans-abbr-switch:
@@ -463,9 +465,7 @@ request-coaching-and-advice-button:
 coaching-and-advice-contact-us-title:
   other: "Let’s get started"
 coaching-and-advice-contact-us-description:
-  other: "Reach out to learn more about how we can support your team’s service delivery."
-coaching-and-advice-past-work:
-  other: "Drawing from our past experiences to support you better:"  
+  other: "Reach out to learn more about how we can support your team’s service delivery." 
 product-suite-description:
   other: "Building government solutions so you don’t have to."
 product-suite-intro:
