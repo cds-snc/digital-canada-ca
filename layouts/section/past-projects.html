@@ -1,13 +1,6 @@
 {{ define "main"}}
 {{ .Content }}
 <section class='partnership-products' id='partnership-products' name='partnership-products'>
-    <div class='container'>
-        <div class='row'>
-            <div class='col-xs-12'>
-                <h2><strong>{{ i18n "coaching-and-advice-past-work" }}</strong></h2>
-            </div>
-        </div>
-    </div>
 
     {{ $products := where .Site.Pages ".File.Dir" "==" "products/products/" }}
     <div class='container'>
