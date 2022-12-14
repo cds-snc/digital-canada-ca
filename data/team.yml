@@ -197,7 +197,6 @@ exec:
     imagehash: small_wendy_luciani_67e4e819d7
     email: Wendy.Luciani@tbs-sct.gc.ca
     linkedin: wmluciani
-    twitter: wmluciani
   - archived: false
     name: Wissam Moussa
     title:
@@ -482,6 +481,14 @@ team:
     email: elise.cossette@tbs-sct.gc.ca
     linkedin: élise-cossette-590b56ab
   - archived: false
+    name: Ella Edache
+    title:
+      en: Outreach
+      fr: Liaison et diffusion
+    imagehash: small_ella_edache_8ea4e55fa2
+    email: elaine.edache@tbs-sct.gc.ca
+    linkedin: elaine-edache-40367293
+  - archived: false
     name: Emma Wootton
     title:
       en: Design
@@ -753,6 +760,13 @@ team:
     email: meghan.hellstern@tbs-sct.gc.ca
     linkedin: mhellstern
     twitter: mhellstern
+  - archived: false
+    name: Melanie Boeckmann
+    title:
+      en: Development
+      fr: Développement
+    imagehash: small_melanie_boeckmann_9519b933ef
+    email: melanie.boeckmann@tbs-sct.gc.ca
   - archived: true
     name: Mel Banyard
     title:
@@ -864,7 +878,7 @@ team:
     imagehash: small_rashi_khilnani_e366db9cda
     email: Rashi.Khilnani@tbs-sct.gc.ca
     linkedin: rashikhilnani/
-  - archived: false
+  - archived: true
     name: Sabine Runciman
     title:
       en: Design Research

@@ -360,8 +360,6 @@ partner-with-us-title:
   other: "Collaborez avec nous"
 partner-with-us-subtitle:
   other: "Si vous avez besoin de conseils pour savoir sur quoi mettre l’accent pour améliorer votre service."
-partner-with-us-description:
-  other: "Parlez-nous des défis auxquels vous faites face en matière de prestation de services et nous vous conseillerons sur la base de nos expériences passées." 
 coaching-and-advice-image-alt:
   other: "Trois personnes discutant d’idées et de problèmes dans une pièce."     
 use-our-tools-and-resources-title:
@@ -400,8 +398,56 @@ product-suite-tag:
   other: "suite-de-produits-tag"
 guides-tag:
   other: "guides-tag"
+coaching-and-advice-how-we-can-help-title:
+  other: "Ce que nous vous offrons"  
+coaching-and-advice-how-we-can-help-c1:
+  other: " Des conseils personnalisés basés sur notre expérience en prestation de services"
+coaching-and-advice-how-we-can-help-c2:
+  other: " L’animation d’exercices et d’ateliers pour aider votre équipe à définir les problèmes et à trouver des solutions"
+coaching-and-advice-how-we-can-help-c3:
+  other: " Des mises en relation avec des collègues ayant fait face à des problèmes similaires" 
+coaching-and-advice-our-advice-title:
+  other: "Quelques sujets sur lesquels nous offrons des conseils :"
+coaching-and-advice-our-advice-c1:
+  other: " Recherche sur les utilisateurs"
+coaching-and-advice-our-advice-c2:
+  other: " Développement de logiciels et méthodes de travail agiles" 
+coaching-and-advice-our-advice-c3:
+  other: " Composition d’équipes à des fins de prestation"
+coaching-and-advice-our-advice-c4:
+  other: " Adoption de pratiques numériques modernes"   
+coaching-and-advice-our-advice-c5:
+  other: " Priorités en matière de résolution de problèmes" 
+coaching-and-advice-our-advice-c6:
+  other: " Entretien de relations avec les fournisseurs"
+coaching-and-advice-our-advice-c7:
+  other: " Prise de décisions en matière de conception et de technologie"   
+coaching-and-advice-our-advice-c8:
+  other: " Passage d’un état d’esprit axé sur le projet à un état d’esprit axé sur le produit" 
+coaching-and-advice-our-advice-c9:
+  other: " Demandes de propositions" 
+coaching-and-advice-our-advice-c10:
+  other: " Travail ouvert"
+coaching-and-advice-eligible-title:
+  other: "Vous êtes admissible à l’encadrement et au conseil si vous :"
+coaching-and-advice-eligible-c1:
+  other: " êtes fonctionnaire du gouvernement fédéral"
+coaching-and-advice-eligible-c2:
+  other:  " travaillez sur un service destiné au public"
+coaching-and-advice-eligible-c3:
+  other: " rencontrez un problème lié à la prestation de services numériques"
+coaching-and-advice-how-it-works:
+  other: "Processus :"
+coaching-and-advice-how-it-works-c1:
+  other: "1. Remplissez le formulaire de demande pour nous en dire plus sur le problème que vous rencontrez en matière de prestation de services."
+coaching-and-advice-how-it-works-c2:
+  other: "2. Nous organiserons un appel pour en apprendre davantage." 
+coaching-and-advice-how-it-works-c3:
+  other: "3. Si nous sommes en mesure de vous aider à résoudre le problème, nous chargerons un·e conseiller·ère en numérique de vous apporter son expertise.  "
+request-coaching-and-advice-button:
+  other: "Demandez de l’encadrement et des conseils"
 coaching-and-advice-intro:
-  other: "En tant que fonctionnaires du système fédéral, nous savons à quel point la prestation de services numériques peut être complexe au sein du gouvernement. Notre équipe de praticien·ne·s du numérique est là pour vous aider."
+  other: "Nous offrons encadrement et conseil afin d’aider les fonctionnaires à développer leurs compétences internes concernant l’amélioration des services numériques. Ces conseils sont destinés au gouvernement et offerts par le gouvernement afin que nous puissions mieux répondre aux besoins du public."
 coaching-and-advice-checklist-title:
   other: "Nous pouvons aider à outiller votre équipe pour :"
 coaching-and-advice-checklist-item-one:
@@ -456,24 +502,18 @@ guides-contact-us:
   other: "Communiquer avec l’équipe des guides et des ressources d’apprentissage."  
 coaching-and-advice-title:
   other: "Encadrement et conseil"  
-coaching-and-advice-subtitle:
-  other: "Lorsque vous avez besoin de conseils ou de soutien pour améliorer un service."
 coaching-and-advice-description:
-  other: "Parlez-nous de vos défis en matière de prestation de services et nous vous conseillerons sur la base de nos expériences."
+  other: "Obtenez des conseils personnalisés sur un problème lié à la prestation de services."
 product-suite-title:
   other: "Suite de produits"
-product-suite-subtitle:
-  other: "Lorsque vous recherchez une solution technique précise qui améliorera votre service."
 product-suite-homepage-description:
-  other: "Intégrez nos outils prêts à utiliser dans vos systèmes actuels."
+  other: "Intégrez nos outils technologiques dans vos systèmes actuels."
 guides-title:
   other: "Guides"
-guides-subtitle:
-  other: "Pour en savoir plus sur la prestation de services axés sur l’utilisateur."
 guides-description:
-  other: "Consultez nos guides et nos ressources sur le gouvernement numérique."
+  other: "Consultez nos guides et ressources sur le gouvernement numérique pour en savoir plus sur la prestation de services centrée sur les utilisateur·rice·s."
 coaching-and-advice-button-text:
-  other: "Obtenez de l’aide personnalisée"
+  other: "Obtenir de l’aide personnalisée"
 product-suite-button-text:
   other: "Utilisez nos produits"
 guides-button-text:
@@ -485,4 +525,6 @@ coaching-and-advice-url:
 product-suite-url:
   other: "/suite-de-produits/"
 guides-url:
-  other: "/guides/"                          
+  other: "/guides/"
+privacy-page-url:
+  other: "/transparence/confidentialite/"                             

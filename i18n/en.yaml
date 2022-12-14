@@ -355,9 +355,7 @@ how-we-can-help:
 partner-with-us-title:
   other: "Partner with us"
 partner-with-us-subtitle:
-  other: "If you need advice on what to focus on to improve your service."
-partner-with-us-description:
-  other: "Tell us about your service delivery challenges, and we’ll provide guidance based on past experiences." 
+  other: "If you need advice on what to focus on to improve your service." 
 coaching-and-advice-image-alt:
   other: "Three people in a room discussing ideas and problems together."     
 use-our-tools-and-resources-title:
@@ -397,7 +395,7 @@ product-suite-tag:
 guides-tag:
   other: "guides-tag"
 coaching-and-advice-intro:
-  other: "As federal public servants ourselves, we know how complicated digital service delivery in government can be. Our team of digital practitioners is here to help."        
+  other: "We provide coaching and advice to help public servants grow in-house capabilities for improving their digital services. It’s guidance for government, by government so we can better meet the public’s needs."
 coaching-and-advice-checklist-title:
   other: "We can help empower your team to:"
 coaching-and-advice-checklist-item-one:
@@ -405,19 +403,67 @@ coaching-and-advice-checklist-item-one:
 coaching-and-advice-checklist-item-two:
   other: " Meet the needs of the people who use your services"
 coaching-and-advice-checklist-item-three:
-  other: " Build and sustain in-house capacity"
+  other: " Build and sustain in-house capacity"      
 coaching-and-advice-checklist-item-four:
   other: " Make better use of funding and contracts"
 coaching-and-advice-checklist-item-five:
-  other: " Make the case for change"
-coaching-and-advice-checklist-two-title:
-  other: "How it works:"
+  other: " Make the case for change"       
 coaching-and-advice-checklist-two-item-one:
   other: " Tailored coaching, advice and hands-on support to meet your specific needs"
 coaching-and-advice-checklist-two-item-two:
   other: " For government, by government"
 coaching-and-advice-checklist-two-item-three:
-  other: " No cost to your team"          
+  other: " No cost to your team"
+# From here:   
+coaching-and-advice-how-we-can-help-title:
+  other: "How we can help"  
+coaching-and-advice-how-we-can-help-c1:
+  other: " Provide personalized guidance based on our service delivery experience"
+coaching-and-advice-how-we-can-help-c2:
+  other: " Facilitate exercises and workshops to help your team identify and solve problems"
+coaching-and-advice-how-we-can-help-c3:
+  other: " Connect you with peers who have tackled similar problems" 
+coaching-and-advice-our-advice-title:
+  other: "Some of the things we can advise on:"
+coaching-and-advice-our-advice-c1:
+  other: " Conducting user research"
+coaching-and-advice-our-advice-c2:
+  other: " Agile software development and ways of working" 
+coaching-and-advice-our-advice-c3:
+  other: " Team compositions for delivery work"
+coaching-and-advice-our-advice-c4:
+  other: " Adopting modern digital practices"   
+coaching-and-advice-our-advice-c5:
+  other: " What problems to start with" 
+coaching-and-advice-our-advice-c6:
+  other: " Navigating vendor relationships"
+coaching-and-advice-our-advice-c7:
+  other: " Making design and tech decisions"   
+coaching-and-advice-our-advice-c8:
+  other: " Shifting from project to product mindset" 
+coaching-and-advice-our-advice-c9:
+  other: " Requests for proposals " 
+coaching-and-advice-our-advice-c10:
+  other: " Working in the open"
+coaching-and-advice-eligible-title:
+  other: "You’re eligible for coaching and advice if you:"
+coaching-and-advice-eligible-c1:
+  other: " Are a federal public servant"
+coaching-and-advice-eligible-c2:
+  other:  " Work on a public-facing service"
+coaching-and-advice-eligible-c3:
+  other: " Have a digital service delivery problem"
+coaching-and-advice-how-it-works:
+  other: "How it works:"
+coaching-and-advice-how-it-works-c1:
+  other: "1. Complete the request form to tell us about the service delivery problem you’re trying to solve."
+coaching-and-advice-how-it-works-c2:
+  other: "2. We’ll set up an introductory call to learn more." 
+coaching-and-advice-how-it-works-c3:
+  other: "3. If it’s a problem we can help solve, we’ll assign our digital advisors to lend their expertise. "
+request-coaching-and-advice-button:
+  other: "Request coaching and advice"  
+# To Here                                                 
 coaching-and-advice-contact-us-title:
   other: "Let’s get started"
 coaching-and-advice-contact-us-description:
@@ -452,24 +498,18 @@ guides-contact-us:
   other: "Contact the guides and learning resources team."  
 coaching-and-advice-title:
   other: "Coaching and advice"  
-coaching-and-advice-subtitle:
-  other: "If you need feedback or support to improve your service."
 coaching-and-advice-description:
-  other: "Tell us about your service delivery challenges, and we’ll provide tailored help based on past experiences."
+  other: "Get tailored guidance on a service delivery challenge."
 product-suite-title:
   other: "Product suite"
-product-suite-subtitle:
-  other: "If you need a specific technical solution to make your service more efficient."
 product-suite-homepage-description:
-  other: "Integrate our ready-to-use tools into your existing systems."
+  other: "Integrate our tech tools into your existing systems."
 guides-title:
   other: "Guides"
-guides-subtitle:
-  other: "If you want to learn more about user-centred service delivery."
 guides-description:
-  other: "Read our digital government guides and resources."    
+  other: "Read our digital government guides and resources to learn more about user-centred service delivery."
 coaching-and-advice-button-text:
-  other: "Get tailored help"
+  other: "Get tailored guidance"
 product-suite-button-text:
   other: "Use our products"
 guides-button-text:
@@ -481,4 +521,6 @@ coaching-and-advice-url:
 product-suite-url:
   other: "/product-suite/"
 guides-url:
-  other: "/guides/"        
+  other: "/guides/"
+privacy-page-url:
+  other: "/legal/privacy"          
