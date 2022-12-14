@@ -44,8 +44,8 @@
                   <a href={{ i18n "all-newsletter-past" }}>{{ i18n "all-newsletter-link" }}</a>
                 </div>
                 <div class="col-xs-6">
-                  <a href="#privacy-notice-modal" aria-controls="privacy-notice-modal"
-                  class="overlay-lnk light-link wb-lbx" aria-label="Privacy Statement Link">{{ i18n "view-privacy-notice" }}</a>
+                  <a href={{ i18n "privacy-page-url" }}
+                  aria-label="Privacy Statement Link">{{ i18n "view-privacy-notice" }}</a>
                 </div>
 
               </div>
@@ -57,24 +57,3 @@
     </div>
   </div>
 </div>
-
-<section id="privacy-notice-modal" class="mfp-hide wb-overlay modal-content overlay-def wb-popup-mid">
-  <div class="modal-container">
-    <header class="modal-header">
-      <div class="modal-header-container">
-        <h2 class="modal-title">{{ i18n "privacy-notice" }}</h2>
-        <button type="button" class="mfp-close" title="Close: Privacy Notice (escape key)">×<span class="wb-inv">
-            Close:
-            Privacy Notice (escape key)</span><span class="wb-inv"> Close: Privacy Notice (escape key)</span></button>
-      </div>
-    </header>
-    <div class="modal-body">
-      <p>{{ i18n "privacy-notice-pt-1" | safeHTML }}</p>
-      <p>{{ i18n "privacy-notice-pt-2" | safeHTML }}</p>
-      <p>{{ i18n "privacy-notice-pt-3" | safeHTML }}</p>
-      <p>{{ i18n "privacy-notice-pt-4" | safeHTML }}</p>
-      <hr>
-      <button class="btn btn-primary popup-modal-dismiss" type="button">Close</button>
-    </div>
-  </div>
-</section>

@@ -4,7 +4,7 @@ type: section
 title: 'Concepteur ou conceptrice de contenu en français'
 description: >-
   Nous sommes à la recherche d’un·e concepteur·rice de contenu en français passionné·e par la création de contenu au sein d’équipes agiles pour répondre aux besoins des utilisateur·rice·s.
-archived: false
+archived: true
 translationKey: french-content-designer-sept-2022
 leverId: af998de5-68bf-4882-8397-d71f570c478e
 ---

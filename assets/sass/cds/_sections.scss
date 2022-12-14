@@ -1548,23 +1548,11 @@ article.post {
     list-style-type: none;
      li {
        padding-bottom: 1rem;
+       i {
+        color: #115740;
+       }
        
      }
-  }
-}
-.product-suite {
-  li {
-    i {
-      color: $secondary-color;
-    }
-  }
-}
-
-.coaching-and-advice {
-  li {
-    i {
-      color: $action-orange;
-    }
   }
 }
 
