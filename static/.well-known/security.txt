@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Contact: mailto:security+securite@cds-snc.ca
-Expires: 2023-01-01T04:55:00.000Z
+Expires: 2025-01-01T04:55:00.000Z
 Preferred-Languages: en,fr
 Canonical: https://digital.canada.ca/.well-known/security.txt
 Policy: https://digital.canada.ca/legal/security-notice
@@ -10,8 +10,8 @@ Encryption: https://digital.canada.ca/.well-known/pub.asc
 Hiring: https://digital.canada.ca/careers/
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTQEkFfgTqNT7WpE5wywfM+1DsrvwUCYebbzwAKCRAywfM+1Dsr
-v/D8AQD1E2JiaWJA3P/thldGLeddUTHIcZuVSeRNYB3QvzY52gD8DVTWCACIbyks
-wWyvehnI7rkQJEWmjfUcuv2iSIM0Pwg=
-=xJ9l
+iHUEARYKAB0WIQTQEkFfgTqNT7WpE5wywfM+1DsrvwUCY5n2dQAKCRAywfM+1Dsr
+v2bXAQCtytF8e24GD27aVSRZ0BCm2/j/PNUQjPsPgoz7GDx++wD/QLI2WBrMwGHR
+fsfB8j0cw2pAquVHzamLJ+4i/Ub4zA0=
+=ry03
 -----END PGP SIGNATURE-----
