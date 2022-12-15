@@ -2,7 +2,7 @@
 layout: blog
 title: 'Exploring the conditions for digital service delivery'
 description: >-
-  Our Exploration service is working with other Government of Canada departments to explore the conditions for digital service delivery. They want to enable departments to introduce digital practices in their work, such as tools, collaboration, and ways of working. Explorations are a collaborative 4-week process.
+  Our Exploration service is working with other Government of Canada departments to explore the conditions for digital service delivery. They want to enable departments to introduce digital practices in their work, such as tools, collaboration, and ways of working. Explorations are a collaborative 4-week process. 
 author: 'John Kenney, Policy'
 date: '2021-04-07T13:30:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/digital_gardeners_65c51a0b12.jpeg
