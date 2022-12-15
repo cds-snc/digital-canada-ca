@@ -1,9 +1,9 @@
 ---
 Title: Publiez et gérez des formulaires en ligne
-Subtitle: GC Formulaires
+Subtitle:  Formulaires GC
 TranslationKey: gc-forms
 Description: >-
-  Recueillez des renseignements du public à l’aide de formulaires en ligne.
+  Recueillez des renseignements du public à l’aide de formulaires en ligne. 
 SecondDescription: >-
   Cet outil fait actuellement l’objet d’un projet pilote à petite échelle. Contactez-nous si vous souhaitez faire l’essai de l’outil dans votre service.
 ButtonText: Contactez-nous
