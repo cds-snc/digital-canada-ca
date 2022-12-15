@@ -191,5 +191,5 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>Our teams are happy to chat with you and see how they can help (including demos). Contact: <a href="https://forms-formulaires.alpha.canada.ca/id/1">GC Forms</a> and/or <a href="https://notification.canada.ca/contact">GC Notif</a>y!</p>
+<p>Our teams are happy to chat with you and see how they can help (including demos). Contact: <a href="https://forms-formulaires.alpha.canada.ca/id/1">GC Forms</a> and/or <a href="http://notification.canada.ca/contact(opens in a new tab)">GC Notify</a>!</p>
 
