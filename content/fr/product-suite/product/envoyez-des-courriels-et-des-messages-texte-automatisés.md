@@ -1,6 +1,6 @@
 ---
 Title: Envoyez des courriels et des messages texte automatisés
-Subtitle: GC Notification
+Subtitle: Notification GC
 TranslationKey: gc-notify
 Description: >-
   Communiquez avec le public au moyen de mises à jour et de messages personnalisés.
