@@ -7,7 +7,7 @@ Description: >-
 SecondDescription: >-
   Cet outil fait actuellement l’objet d’un projet pilote à petite échelle. Contactez-nous si vous souhaitez faire l’essai de l’outil dans votre service.
 ButtonText: Contactez-nous
-ButtonAria: Contactez-nous pour en savoir plus sur GC Formulaires
+ButtonAria: Contactez-nous pour en savoir plus sur Formulaires GC
 Weight: 2
 LinkToProductSuite: https://forms-formulaires.alpha.canada.ca/fr/id/1
 TagID: gc-forms-tag-fr
