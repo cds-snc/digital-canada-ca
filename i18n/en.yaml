@@ -86,86 +86,6 @@ coaching-and-advice-contact-us:
     other: "Contact us"
 coaching-and-advice-contact-us-link:
     other: "https://forms-formulaires.alpha.canada.ca/id/3"
-partnerships-intro:
-  other: "We provide free support for federal public servants to improve their public facing services. Through advice and feedback, we enable your team to design, develop, buy, and maintain a service on their own. Instead of building the products for you, we empower you to build them."
-partnerships-how-it-works:
-  other: "How it works"
-partnerships-what-we-can-help-title:
-  other: "What we can help your team with"
-partnerships-what-we-can-help-1st:
-  other: "We can work together on things like:"
-partnerships-what-we-can-help-list-1:
-  other: "Improving usability and accessibility of your service."
-partnerships-what-we-can-help-list-2:
-  other: "Optimizing service delivery and change management processes."
-partnerships-what-we-can-help-list-3:
-  other: "Setting up effective procurements for services or software."
-partnerships-what-we-can-help-list-4:
-  other: "Hiring digital practitioners."
-partnerships-three-ways-heading:
-  other: "The three different ways we can work together"
-partnerships-time-commitment:
-  other: "Time commitment"
-partnerships-consultation:
-  other: "Consultation"
-partnerships-consultation-time-commitment:
-  other: "1-hour meetings as needed"
-partnerships-consultation-description:
-  other: "We’ll meet with you to learn more about your specific service delivery challenges. We’ll share knowledge and documentation from our past work to help you solve similar problems." 
-partnerships-exploration:
-  other: "Exploration" 
-partnerships-exploration-time-commitment:
-  other: "About 4 weeks"
-partnerships-exploration-description:
-  other: "We’ll conduct a deep dive into your team to learn about your current service delivery conditions. From there, we’ll create a roadmap and final report with recommended next steps to improve your service and processes." 
-partnerships-embedded-team:
-  other: "Embedded team"
-partnerships-embedded-team-time-commitment:
-  other: "4 months – 1.5 years"
-partnerships-embedded-team-description:
-  other: "One of our teams will work alongside you, full-time, coaching your team to optimize practices and remove delivery obstacles. To inform how we do that, we’ll first run an Exploration to learn more about your current service delivery conditions."       
-partnerships-how-we-do-it-1st:
-  other: "We work with our partners in the open, regularly sharing progress via public platforms. This creates a culture of learning and fosters best practices. It means non-partner departments can apply our work and <a href=\"https://digital.canada.ca/tools-and-resources/\">use our resources</a> to develop their own services."
-partnerships-how-we-do-it-2nd:
-  other: "Together, we form a team that follows the <a class='term' href=\"https://digital.canada.ca/2018/11/29/from-build-first-to-users-first/#the-details\">'Agile software development methodology'</a>. This means we begin with an intensive <span class='term'>'Discovery'</span> research phase to explore user needs and possible solutions to meeting those needs. After that, we move into a prototyping <span class='term'>'Alpha'</span> phase to find and test ways to meet user needs. Next comes the <span class='term'>'Beta'</span> phase, where we release the solution to the public and intensively test it. Lastly, there is a <span class='term'>'Live'</span> phase, where the service is fully released and continues to be monitored and improved upon."
-partnerships-how-we-do-it-3d:
-  other: "Between the <span class='term'>Beta</span> and <span class='term'>Live</span> phases, our team members step back from the service, and the partner team in the department continues the maintenance and development. We can help partners recruit their service team from both internal and external sources."
-partnerships-how-we-do-it-4th:
-  other: "Before each phase begins, CDS and the partner sign a partnership agreement which outlines the goal and outcomes for the coming phase, how we’ll get there, and a commitment to get them done."
-partnerships-team:
-  other: "Who is on the team"
-partnerships-team-blurb:
-  other: "Each team has a mix of members from CDS and the partner department so we can share our ways of working, and get a shared understanding of the problem we’re trying to solve together."
-partnerships-cds:
-  other: "From CDS:"
-partnerships-cds-pm:
-  other: "A <a class=\"dark-bg\" href=\"https://digital.canada.ca/2019/07/23/so-what-exactly-is-a-product-manager-anyway/\">product manager</a> &mdash; they form the vision of the service, and set priorities for the team"
-partnerships-cds-researcher:
-  other: "A researcher &mdash; they work with people who will use the service to learn about their needs"
-partnerships-cds-designers:
-  other: "Designers &mdash; they design solutions to meet the needs of people who will use the service"
-partnerships-cds-developers:
-  other: "Developers &mdash; they write the code to build the service"
-partnerships-cds-support:
-  other: "Support from the Partnership, Policy and Outreach teams"
-partnerships-from-partner:
-  other: "The people and disciplines we need from a partner department varies, but in most cases the partner provides"
-partnerships-partner-owner:
-  other: "A service owner throughout"
-partnerships-partner-experts:
-  other: "Experts from relevant service areas"
-partnerships-partner-for-beta:
-  other: "Research, design, developer and policy staff, to match those on the CDS side (for the <span class='term'>Alpha</span> and <span class='term'>Beta</span> phases)"
-partnerships-partner-for-live:
-  other: "A full time autonomous multi-disciplinary team to continuously improve the service (for the <span class='term'>Live</span> phase)"
-partnerships-interested-in-chatting:
-  other: "Want to work with us?"
-partnerships-partner-overview:
-  other: "Check out the overview of CDS partnerships below! To learn how we choose our partnerships, read this"
-partnerships-past:
-  other: "Past partnerships"
-partnerships-inflight:
-  other: "In flight partnerships"
 blog-post:
   other: "blog post"
 past-products:
@@ -263,19 +183,9 @@ tools-and-resources-resources-description:
 the-platform-team:
   other: "The Platform Team"
 version-history:
-  other: "Version history"
-roadmap-show-less:
-  other: "Show less"
-roadmap-show-all:
-  other: "Show all"
-roadmap-next-steps:
-  other: "Next steps"
+  other: "Version history" 
 roadmap-date-modified:
-  other: "Date modified:"
-products-btn:
-  other: "Products"
-developer-tools-btn:
-  other: "Tools and resources"
+  other: "Date modified:" 
 website-usability-testing:
   other: "Website usability testing"
 spa-research:
@@ -299,25 +209,9 @@ subscribe:
 view-privacy-notice:
   other: "View Privacy Notice"
 privacy-notice:
-  other: "Privacy Notice"
-how-we-work:
-  other: "We work in agile, multi-disciplinary teams to build digital products like these."
-great-team:
-  other: "We've got a great team"
-say-hello:
-  other: "Say hello to the designers, developers, researchers, policy hackers, communicators who make up CDS."
-cds-team:
-  other: "CDS Team"
-but-need-help:
-  other: "but we need your help"
-product-impact:
-  other: "Our products will impact people's everyday lives. It's an exciting thing to be part of. And we need you."
+  other: "Privacy Notice" 
 apply-now:
   other: "Apply now"
-who-is-on-the-team:
-  other: "Who is on the team"
-options-below:
-  other: "using one of the options below"
 skip-links:
   other: "Skip Navigation Links"
 menu:
