@@ -2,7 +2,7 @@
 layout: blog
 title: 'Improving client communications using GC Forms and GC Notify'
 description: >-
-  In May 2021, Rachel Mutson was offered a demo to try GC Forms and GC Notify. Intrigued, she quickly realized that both products could help with client communications for a pilot project she was leading at ESDC.
+  In May 2021, Rachel Muston was offered a demo to try GC Forms and GC Notify. Intrigued, she quickly realized that both products could help with client communications for a pilot project she was leading at ESDC.
 author: 'Rachel Muston, Free Agent'
 date: '2022-12-15T13:34:42'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Blog_RachelMuston_PBS_EN-1.jpeg
