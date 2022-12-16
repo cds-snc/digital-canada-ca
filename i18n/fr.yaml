@@ -302,14 +302,6 @@ view-privacy-notice:
   other: "Consulter l’avis de confidentialité"
 privacy-notice:
   other: "Avis de confidentialité"
-privacy-notice-pt-1:
-  other: "Notre fonction Bulletin de nouvelles fait appel &agrave;&nbsp;<a href=\"https://mailchimp.com/\">Mailchimp</a>, une application tierce.&nbsp;L&rsquo;adh&eacute;sion est libre et est assujettie aux&nbsp;<a href=\"https://mailchimp.com/legal/terms/\">Conditions d&rsquo;utilisation</a>&nbsp;associ&eacute;es &agrave; la plateforme Mailchimp.&nbsp;&nbsp;Au moment de l&rsquo;adh&eacute;sion, le syst&egrave;me enregistre votre adresse &eacute;lectronique et votre langue de pr&eacute;f&eacute;rence (anglais ou fran&ccedil;ais).&nbsp;Aucun autre renseignement personnel n&rsquo;est recueilli."
-privacy-notice-pt-2:
-  other: "La collecte et l&rsquo;utilisation de vos renseignements personnels sont autoris&eacute;es par la&nbsp;<em>Loi sur la gestion des finances publiques</em>. La collecte et l&rsquo;utilisation de vos renseignements personnels aux fins du pr&eacute;sent site sont conformes &agrave; la&nbsp;<em>Loi f&eacute;d&eacute;rale sur la protection des renseignements personnels</em>. Vos&nbsp;renseignements personnels&nbsp;peuvent servir &agrave; r&eacute;pondre &agrave; vos demandes de renseignements, au besoin, et &agrave; &eacute;valuer l&rsquo;efficacit&eacute; avec laquelle les programmes du Secr&eacute;tariat du Conseil du Tr&eacute;sor&nbsp;(SCT)&nbsp;r&eacute;pondent aux besoins des clients. &nbsp;Dans des cas exceptionnels (p. ex., le cas de quelqu&rsquo;un qui fait des remarques inappropri&eacute;es ou des menaces), les renseignements personnels peuvent &ecirc;tre divulgu&eacute;s sans votre consentement conform&eacute;ment au paragraphe 8(2) de la&nbsp;<em>Loi sur la protection des renseignements personnels</em>."
-privacy-notice-pt-3:
-  other: "Tout renseignement personnel&nbsp;qui pourra &ecirc;tre&nbsp;recueilli&nbsp;est&nbsp;d&eacute;crit&nbsp;dans&nbsp;le Fichier de renseignement personnel ordinaire intitul&eacute;&nbsp;<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements/fichiers-renseignements-personnels-ordinaires.html#pou938\">Activit&eacute;s de sensibilisation, POU 938</a> qui figure sur&nbsp;la page Web&nbsp;du SCT&nbsp;intitul&eacute;e&nbsp;<a href=\"https://www.canada.ca/fr/secretariat-conseil-tresor/services/acces-information-protection-reseignements-personnels/acces-information/renseignements-programmes-fonds-renseignements/fichiers-renseignements-personnels-ordinaires.html\"><em>Renseignements sur les programmes et les fonds de renseignements</em></a>."
-privacy-notice-pt-4:
-  other: "Pour transmettre vos questions, commentaires ou pr&eacute;occupations concernant le pr&eacute;sent avis, vos droits en mati&egrave;re de protection des renseignements personnels ou la&nbsp;<em>Loi sur la protection des renseignements personnels</em>, communiquez avec le coordonnateur de l&rsquo;acc&egrave;s &agrave; l&rsquo;information et de la protection des renseignements personnels du SCT, &agrave;&nbsp;<a href=\"mailto:atip.aiprp@tbs-sct.gc.ca\">atip.aiprp@tbs-sct.gc.ca</a>, ou en composant le&nbsp;1-866-312-1511. Vous pouvez aussi communiquer avec le Commissariat &agrave; la protection de la vie priv&eacute;e du Canada par courriel, &agrave;&nbsp;<a href=\"mailto:info@priv.gc.ca\">info@priv.gc.ca</a>, ou par t&eacute;l&eacute;phone, au&nbsp;1-800-282-1376. Vous avez &eacute;galement la possibilit&eacute; de d&eacute;poser une plainte aupr&egrave;s du Commissariat &agrave; la protection de la vie priv&eacute;e du Canada quant &agrave; la fa&ccedil;on dont le SCT traite vos renseignements personnels."
 how-we-work:
   other: "Nous travaillons au sein d’équipes agiles et multidisciplinaires pour construire des produits numériques comme ceux-ci."
 great-team:
@@ -354,18 +346,8 @@ header-img-alt:
   other: "Quatre personnes assises autour d’une table, collaborant sur un projet numérique."   
 how-we-can-help:
   other: "Comment nous pouvons vous aider"
-partner-with-us-title:
-  other: "Collaborez avec nous"
-partner-with-us-subtitle:
-  other: "Si vous avez besoin de conseils pour savoir sur quoi mettre l’accent pour améliorer votre service."
 coaching-and-advice-image-alt:
   other: "Trois personnes discutant d’idées et de problèmes dans une pièce."     
-use-our-tools-and-resources-title:
-  other: "Utilisez nos outils et ressources"
-use-our-tools-and-resources-subtitle:
-  other: "Si vous avez besoin d’un outil ou d’un guide spécifique pour résoudre un problème particulier."
-use-our-tools-and-resources-description:
-  other: "Intégrez nos composants communs dans vos systèmes ou découvrez nos meilleures pratiques de prestation de services." 
 product-suite-image-alt:
   other: "Une personne utilisant plusieurs outils numériques offrant différentes fonctionnalités pour faire fonctionner un service en ligne."  
 learn-more:
@@ -378,10 +360,6 @@ job-postings:
   other: "Offres d’emploi"
 read-our-blog-posts:
   other: "Lire tous les billets"
-about-partnerships:
-  other: " sur les Partenariats"
-about-tools-and-resources:
-  other: " plus sur les Outils et les Ressources"
 partnership-tag:
   other: "partenariats-tag"  
 careers-tag:
@@ -446,30 +424,8 @@ request-coaching-and-advice-button:
   other: "Demandez de l’encadrement et des conseils"
 coaching-and-advice-intro:
   other: "Nous offrons encadrement et conseil afin d’aider les fonctionnaires à développer leurs compétences internes concernant l’amélioration des services numériques. Ces conseils sont destinés au gouvernement et offerts par le gouvernement afin que nous puissions mieux répondre aux besoins du public."
-coaching-and-advice-checklist-title:
-  other: "Nous pouvons aider à outiller votre équipe pour :"
-coaching-and-advice-checklist-item-one:
-  other: " Offrir des services publics numériques modernes"
-coaching-and-advice-checklist-item-two:
-  other: " Répondre aux besoins des personnes qui utilisent vos services"
-coaching-and-advice-checklist-item-three:
-  other: " Développer et entretenir la capacité interne"
-coaching-and-advice-checklist-item-four:
-  other: " Optimiser l’utilisation du financement et des contrats"
-coaching-and-advice-checklist-item-five:
-  other: " Plaider en faveur du changement"
-coaching-and-advice-checklist-two-title:
-  other: "Voici un aperçu de ce que nous pouvons offrir..."
-coaching-and-advice-checklist-two-item-one:
-  other: " Un encadrement, des conseils et une aide pratique répondant à vos besoins spécifiques"
-coaching-and-advice-checklist-two-item-two:
-  other: " Un service pour le gouvernement, par le gouvernement"
-coaching-and-advice-checklist-two-item-three:
-  other: " Pas de frais pour votre équipe"
 coaching-and-advice-contact-us-title:
   other: "Passons à la pratique"
-coaching-and-advice-contact-us-description:
-  other: "Contactez-nous pour en savoir plus sur la manière dont nous pouvons soutenir vos équipes en matière de prestation de services."
 product-suite-description:
   other: "Nous construisons des solutions gouvernementales pour vous faciliter la tâche."
 product-suite-intro:

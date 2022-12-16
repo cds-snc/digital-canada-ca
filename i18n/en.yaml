@@ -300,14 +300,6 @@ view-privacy-notice:
   other: "View Privacy Notice"
 privacy-notice:
   other: "Privacy Notice"
-privacy-notice-pt-1:
-  other: "Our newsletter feature uses <a href=\"https://mailchimp.com/\">Mailchimp</a>, a third-party application. Sign-up is voluntary and subject to the <a href=\"https://mailchimp.com/legal/terms/\">Terms of Use</a> for the Mailchimp platform.  When you sign up, your email address and language preference (English or French) is collected. No other personal information is collected."
-privacy-notice-pt-2:
-  other: "The collection and use of your personal information is authorized by the <em>Financial Administration Act</em>. Collection and use of your personal information for this site is in accordance with the federal <em>Privacy Act</em>. Your personal information may be used to respond to your inquiries, if applicable, and to help evaluate the effectiveness of Treasury Board of Canada Secretariat (TBS) programs in responding to client needs. In exceptional circumstances (e.g., individuals who make inappropriate remarks or threats), personal information may be disclosed without your consent pursuant to subsection 8(2) of the <em>Privacy Act</em>."
-privacy-notice-pt-3:
-  other: "Any personal information that may be collected is described in the Standard Personal Information Bank entitled <a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings/standard-personal-information-banks.html#psu938\"> Outreach Activities, PSU 938</a>, which can be found in the TBS webpage <a href=\"https://www.canada.ca/en/treasury-board-secretariat/services/access-information-privacy/access-information/information-about-programs-information-holdings.html\">Information about programs and information holdings</a>."
-privacy-notice-pt-4:
-  other: "Any questions, comments, concerns or complaints you may have regarding this Statement, your privacy rights and the Privacy Act may be directed to the TBS Access to Information and Privacy Coordinator by email at <a href=\"mailto:ATIP.AIPRP@TBS-SCT.gc.ca\">ATIP.AIPRP@tbs-sct.gc.ca</a> or by telephone at 1-866-312-1511. You may also wish to contact the Office of the Privacy Commissioner of Canada by email at <a href=\"mailto:info@priv.gc.ca\">info@priv.gc.ca</a> or by telephone at 1-800-282-1376. You have the right to complain to the Office of the Privacy Commissioner of Canada about the handling of your personal information by TBS."
 how-we-work:
   other: "We work in agile, multi-disciplinary teams to build digital products like these."
 great-team:
@@ -349,19 +341,9 @@ search-site:
 header-img-alt:
   other: "Four people at a table, working together on a digital project."  
 how-we-can-help:
-  other: "How we can help"
-partner-with-us-title:
-  other: "Partner with us"
-partner-with-us-subtitle:
-  other: "If you need advice on what to focus on to improve your service." 
+  other: "How we can help" 
 coaching-and-advice-image-alt:
   other: "Three people in a room discussing ideas and problems together."     
-use-our-tools-and-resources-title:
-  other: "Use our tools and resources"
-use-our-tools-and-resources-subtitle:
-  other: "If you need a specific tool or guide to solve a specific problem."
-use-our-tools-and-resources-description:
-  other: "Integrate our common components into your existing systems, or read up on best practices for service delivery." 
 product-suite-image-alt:
   other: "One person using multiple digital tools with different functions to run an online service."  
 learn-more:
@@ -374,10 +356,6 @@ job-postings:
   other: "Job postings"
 read-our-blog-posts:
   other: "Read our blog posts"   
-about-partnerships:
-  other: " about Partnerships"
-about-tools-and-resources:
-  other: " about Tools and Resources"
 partnership-tag:
   other: "partnership-tag"  
 careers-tag:
@@ -394,24 +372,6 @@ guides-tag:
   other: "guides-tag"
 coaching-and-advice-intro:
   other: "We provide coaching and advice to help public servants grow in-house capabilities for improving their digital services. It’s guidance for government, by government so we can better meet the public’s needs."
-coaching-and-advice-checklist-title:
-  other: "We can help empower your team to:"
-coaching-and-advice-checklist-item-one:
-  other: " Deliver modern public-facing digital services"
-coaching-and-advice-checklist-item-two:
-  other: " Meet the needs of the people who use your services"
-coaching-and-advice-checklist-item-three:
-  other: " Build and sustain in-house capacity"      
-coaching-and-advice-checklist-item-four:
-  other: " Make better use of funding and contracts"
-coaching-and-advice-checklist-item-five:
-  other: " Make the case for change"       
-coaching-and-advice-checklist-two-item-one:
-  other: " Tailored coaching, advice and hands-on support to meet your specific needs"
-coaching-and-advice-checklist-two-item-two:
-  other: " For government, by government"
-coaching-and-advice-checklist-two-item-three:
-  other: " No cost to your team"
 # From here:   
 coaching-and-advice-how-we-can-help-title:
   other: "How we can help"  
@@ -463,9 +423,7 @@ request-coaching-and-advice-button:
   other: "Request coaching and advice"  
 # To Here                                                 
 coaching-and-advice-contact-us-title:
-  other: "Let’s get started"
-coaching-and-advice-contact-us-description:
-  other: "Reach out to learn more about how we can support your team’s service delivery." 
+  other: "Let’s get started" 
 product-suite-description:
   other: "Building government solutions so you don’t have to."
 product-suite-intro:
