@@ -2,7 +2,7 @@
 layout: blog
 title: 'Améliorer les communications avec vos clients grâce à Formulaires GC et Notification GC'
 description: >-
-  En mai 2021, Rachel Mutson a eu accès à une version d’essai de Formulaires GC et Notification GC. Elle a rapidement compris que ces deux produits pouvaient l’aider à communiquer avec ses clients dans le cadre d’un projet pilote qu’elle dirigeait à EDSC.
+  En mai 2021, Rachel Muston a eu accès à une version d’essai de Formulaires GC et Notification GC. Elle a rapidement compris que ces deux produits pouvaient l’aider à communiquer avec ses clients dans le cadre d’un projet pilote qu’elle dirigeait à EDSC.
 author: 'Rachel Muston, agente libre'
 date: '2022-12-15T13:35:27'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2022/12/Blog_RachelMuston_PBS_FR-1.jpeg
