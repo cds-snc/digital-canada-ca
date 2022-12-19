@@ -28,6 +28,8 @@ email:
   other: "email"
 ga:
   other: 'UA-102484926-1'
+ga4:
+  other: 'G-3WTCYDQ14P'  
 goc:
   other: "Government of Canada"
 goc-symbol:
