@@ -107,7 +107,7 @@ translationKey: blog-nov-24-22
 
 
 
-<p>We recently worked with another team at the Treasury Board of Canada Secretariat (TBS) who were interested in improving the experience of people using the&nbsp; <a href="https://search.open.canada.ca/nap5/">Open Government National Action Plan Tracker (NAP).</a> The National Action Plan on Open Government commits to making the Government of Canada more transparent and accountable. The tracker monitors progress on commitments made in the plan.&nbsp; Working with the team at TBS, we helped identify and prioritise usability issues in order to improve the user experience of the tracker tool. We provided the Open Government team with a report prioritizing 29 issues that could impact the usability of the tool, supported with suggestions on how to improve the experience for the different users who access the tracker.&nbsp;</p>
+<p>We recently worked with another team at the Treasury Board of Canada Secretariat (TBS) who were interested in improving the experience of people using the  <a href="https://search.open.canada.ca/nap5/">Open Government National Action Plan Tracker (NAP).</a> The National Action Plan on Open Government commits to making the Government of Canada more transparent and accountable. The tracker monitors progress on commitments made in the plan.  Working with the team at TBS, we helped identify and prioritize usability issues in order to improve the user experience of the tracker tool. We provided the Open Government team with a report prioritizing 29 issues that could impact the usability of the tool, supported with suggestions on how to improve the experience for the different users who access the tracker. </p>
 
 
 
