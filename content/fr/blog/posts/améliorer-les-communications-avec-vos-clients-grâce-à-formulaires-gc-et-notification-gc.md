@@ -183,5 +183,5 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<p>Nos équipes se feront un plaisir d’en discuter avec vous et de voir la manière de vous aider. Nous offrons même des séances de démonstration. Contactez : <a href="https://forms-formulaires.alpha.canada.ca/fr/welcome-bienvenue">Formulaires GC</a> ou <a href="https://notification.canada.ca/contact">Notification GC</a>!</p>
+<p>Nos équipes se feront un plaisir d’en discuter avec vous et de voir la manière de vous aider. Nous offrons même des séances de démonstration. Contactez : <a href="https://forms-formulaires.alpha.canada.ca/fr/id/1">Formulaires GC</a> ou <a href="https://notification.canada.ca/contact">Notification GC</a>!</p>
 
