@@ -12,7 +12,7 @@ leverId: 6ac6d7f7-d80a-4f8c-9661-7ad35c3120f5
 ## CX Team 
 **About the Canadian Digital Service**
 
-The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital services. We’re here to improve people’s lives by changing how the government builds technology. We do this by putting people’s needs and concerns front and center. Every experience Canadians have with their government should be safe, fast, easy, transparent, and accessible. We are working in the open to help everyone across the government improve service delivery. 
+The Canadian Digital Service (CDS) is changing how the federal government designs and delivers digital services. We’re here to improve people’s lives by changing how the government builds  technology. We do this by putting people’s needs and concerns front and center. Every experience Canadians have with their government should be safe, fast, easy, transparent, and accessible. We are working in the open to help everyone across the government improve service delivery. 
 
 To support this important mission, we are looking for a Research Operations Coordinator to join our Platform Business Unit. 
 
@@ -33,7 +33,7 @@ CDS is a fully distributed team. This role can be performed from anywhere in Can
 ## Areas of responsibility
 - Manage participant recruitment for research studies, including but not limited to: recruiting diverse participants from multiple sources within government and externally, outreach, filtering and screening, consent agreements, privacy, and incentives management.
 - Help to grow, foster, and administer a diverse participant panel following appropriate government procedures for the CX team.
-- Collaborate with researchers to develop  the CX research operations handbook with date procedures and reusable templates. Manage and update this handbook for the team.
+- Collaborate with researchers to develop the CX research operations handbook with up-to-date procedures and reusable templates. Manage and update this handbook for the team.
 - Work with the team to develop research repositories to ensure easily accessible CX data across Platform teams. Manage and update the repository as needed.
 - Liaison with the Growth, Policy and the Internal Operations teams to monitor progress of CX research operations and report back on progress to different stakeholders.
 - Continuously examine, experiment, and measure improvements to our research operations and processes.
