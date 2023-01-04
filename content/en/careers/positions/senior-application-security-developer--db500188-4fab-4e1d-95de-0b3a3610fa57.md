@@ -4,7 +4,7 @@ type: section
 title: 'Senior Application Security Developer'
 description: >-
   This position reports to the Head of Platform Core Services. We work in small multidisciplinary agile teams utilizing a modern, forward-thinking approach to security. We focus on self-service tooling, proactive security monitoring and providing the education required to solve cross-cutting cyber security challenges across CDS. Senior Application Security Developers are classified as IT-04 or IT-05 (previously CS-04/CS-05).
-archived: false
+archived: true
 translationKey: 2022-aug-sr-app-sec-dev
 leverId: db500188-4fab-4e1d-95de-0b3a3610fa57
 ---
