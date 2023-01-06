@@ -708,7 +708,7 @@ team:
     imagehash: small_lesley_wheldrake_d7d498fdef
     email: Lesley.Wheldrake@tbs-sct.gc.ca
     linkedin: lwheldrake
-  - archived: false
+  - archived: true
     name: Lucas Cherkewski
     title:
       en: Policy
