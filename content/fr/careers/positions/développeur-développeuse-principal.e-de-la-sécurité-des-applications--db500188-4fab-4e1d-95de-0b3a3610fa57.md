@@ -4,7 +4,7 @@ type: section
 title: 'Développeur-développeuse principal.e de la sécurité des applications'
 description: >-
   Ce poste relèvera du chef des services centraux de la plateforme. Nous travaillons au sein de petites équipes agiles et multidisciplinaires, en adoptant une approche moderne et proactive à la sécurité. Nous privilégions les outils en libre-service, la surveillance proactive de la sécurité et la transmission des connaissances nécessaires pour surmonter les défis en matière de cybersécurité visant tout le SNC. Le poste de développeur principal ou de développeuse principale de la sécurité des applications est classé au niveau IT-04 ou IT-05 (anciennement CS-04/CS-05).
-archived: false
+archived: true
 translationKey: 2022-aug-sr-app-sec-dev
 leverId: db500188-4fab-4e1d-95de-0b3a3610fa57
 ---

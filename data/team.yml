@@ -708,7 +708,7 @@ team:
     imagehash: small_lesley_wheldrake_d7d498fdef
     email: Lesley.Wheldrake@tbs-sct.gc.ca
     linkedin: lwheldrake
-  - archived: false
+  - archived: true
     name: Lucas Cherkewski
     title:
       en: Policy
@@ -819,7 +819,7 @@ team:
     imagehash: small_nourhan_hegazy_80964aa18c
     email: nourhan.hegazy@tbs-sct.gc.ca
     linkedin: nourhan-hegazy-1468347a/
-  - archived: false
+  - archived: true
     name: Omar Nasr
     title:
       en: Development
@@ -838,7 +838,7 @@ team:
     email: omar.tehsin@tbs-sct.gc.ca
     github: omartehsin1
     linkedin: omar-tehsin
-  - archived: false
+  - archived: true
     name: Paul Craig
     title:
       en: Development
