@@ -4,6 +4,7 @@
 {{ $titleKey := .Params.title }}
 
 <head>
+  {{ partial "analytics.html" }}
   <!-- Google Tag Manager DO NOT REMOVE OR MODIFY - NE PAS SUPPRIMER OU MODIFIER -->
   <!-- EN -->
   <script>
@@ -143,7 +144,7 @@
 
 
     <!-- Google Analytics -->
-    {{ partial "analytics.html" }}
+    
     {{ end }}
   </body>
 
