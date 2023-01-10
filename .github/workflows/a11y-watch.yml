@@ -10,7 +10,7 @@ jobs:
   a11y-watch:
     runs-on: ubuntu-latest
     steps:
-      - uses: a11ywatch/github-action@v1.12.2
+      - uses: a11ywatch/github-action@v1.12.1
         with:
           WEBSITE_URL: https://digital.canada.ca
           SUBDOMAINS: true
