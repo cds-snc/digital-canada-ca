@@ -1,0 +1,21 @@
+name: A11y-watch
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  a11y-watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: a11ywatch/github-action@v1.12.2
+        with:
+          WEBSITE_URL: https://digital.canada.ca
+          SUBDOMAINS: true
+          TLD: true
+          FAIL_ERRORS_COUNT: 15
+          LIST: true
+          FIX: true
+          UPGRADE: false
