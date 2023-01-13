@@ -369,6 +369,13 @@
   #mobile-lng {
     display: none;
   }
+  .mobile-btns {
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between; 
+    padding: 2rem;
+
+  }
 
   &.active {
     display: block;
