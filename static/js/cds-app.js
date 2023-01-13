@@ -21,8 +21,37 @@ function validateEmail($email) {
 }
 
 $(document).ready(function () {
+  const focusedElementMobileModal = "button:not([disabled]), [href], input, text";
+  const mobileNav = document.getElementById("js-mobileNav")
+  const firstfocusedElement = mobileNav.querySelectorAll(focusedElementMobileModal)[0]
+  const lastFocusedElement = mobileNav.querySelectorAll(focusedElementMobileModal)[mobileNav.querySelectorAll(focusedElementMobileModal).length - 1]
+  mobileNav.addEventListener("keydown", function(e) {
+    if (mobileNav.classList == "active" && document.activeElement == lastFocusedElement) {
+      firstfocusedElement.focus();
+      e.preventDefault();
+    }
+  })
+
+  document.addEventListener("keydown", function(e) {
+    if (document.activeElement == document.getElementById("guides-nav-tag")) {
+      document.getElementById("dropdwn-cnt").style.display = "none"
+      e.preventDefault();
+    }
+  })
+  document.addEventListener("keyup", function (e) {
+    if (document.activeElement == document.getElementById("how-we-can")) {
+      document.getElementById("dropdwn-cnt").style.display = "block"
+      e.preventDefault();
+    }
+  })
+
+
   $("#js-mainNavButton").on("click touchup", function () {
     $("#js-mobileNav").addClass("active");
+    $("#js-mobileNav--button").focus()
+
+
+    
   });
 
   $("#js-mobileNav--button").on("click touchup", function () {

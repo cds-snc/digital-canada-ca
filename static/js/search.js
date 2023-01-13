@@ -18,7 +18,10 @@ const modal_container = document.getElementById("modal_container");
 const close = document.getElementById("close");
 const innerModal = document.getElementById("inner-modal");
 const firstFocusableElement = innerModal.querySelectorAll(focusableElements)[0]; // get first element to be focused inside modal
-const focusableContent = innerModal.querySelectorAll(focusableElements);
+const jsMobileNav = document.getElementById("js-mobileNav")
+const firstFocusableElementMobileModal = jsMobileNav.querySelectorAll(focusableElements)[0]
+const lastFocusableElementMobileModal = jsMobileNav.querySelectorAll(focusableElements)[jsMobileNav.querySelectorAll(focusableElements).length - 1]
+
 let lastFocusableElement;
 
 /**
@@ -61,6 +64,29 @@ async function initSearchIndex() {
   renderSearchResult(results);
   renderFilterButtons();
 }
+
+// jsMobileNav.addEventListener("keydown", function (e) {
+//   if (document.activeElement === lastFocusableElementMobileModal) {
+//     firstFocusableElementMobileModal.focus()
+//     e.preventDefault();
+//   }
+// })
+
+// document.addEventListener("keydown", function(e) {
+//   if (document.activeElement == document.getElementById("guides-nav-tag")) {
+//     document.getElementById("dropdwn-cnt").style.display = "none"
+//     e.preventDefault();
+//   }
+// })
+// document.addEventListener("keyup", function (e) {
+//   // console.log(document.activeElement);
+//   if (document.activeElement == document.getElementById("how-we-can")) {
+//     document.getElementById("dropdwn-cnt").style.display = "block"
+//     e.preventDefault();
+//   }
+// })
+
+
 
 function showMobileFilters() {
   filterArrow.classList.toggle("active");

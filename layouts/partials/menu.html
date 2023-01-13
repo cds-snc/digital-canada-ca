@@ -11,29 +11,31 @@
       <div class="nav-container">
 
         <div id="js-mobileNav">
-          <div id="js-mobileNav--closeContainer">
-            <button id="js-mobileNav--button">
-              <span class="text">{{ i18n "close" }}</span>
-              <span class="fas fa-times close-icon"></span>
-            </button>
-          </div>
-          <div class="mobile-lang">{{ partial "langSwitch.html" . }}</div>
-          <div class="menu-items">
-            <div class="dropdown">
-              <button>{{ i18n "how-we-can-help"}} <i class="fa fa-caret-down"></i></button>
-                
-                <div class="dropdown-content">
-                  {{ range $dropdown := .Site.Menus.dropdown}}
-                  <a href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
-                  {{ end }}
-                </div>
+          <div style="display: flex; flex-direction: row; justify-content: space-between; padding: 2rem;">
+            <div class="mobile-btns" style="display: flex;">
+              <button id="js-mobileNav--button">
+                <span class="text">{{ i18n "close" }}</span>
+                <span class="fas fa-times close-icon"></span>
+              </button>
+              <div id="mobile-lng" class="mobile-lang">{{ partial "langSwitch.html" . }}</div>
             </div>
-            {{ $title := .Params.title }}
-            {{ range $menu := .Site.Menus.main }}
-            <a href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag" class="{{ if eq $title .Identifier }} underline{{end}}">{{ .Name }}</a>
-            {{ end }}
-            <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i
-              class="fa fa-search search-button-icon"></i></button>
+            <div class="menu-items">
+              <div class="dropdown">
+                <button class="how-we-can-help-btn" id="how-we-can">{{ i18n "how-we-can-help"}} <i class="fa fa-caret-down"></i></button>
+                  
+                  <div class="dropdown-content" id="dropdwn-cnt">
+                    {{ range $dropdown := .Site.Menus.dropdown}}
+                    <a href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
+                    {{ end }}
+                  </div>
+              </div>
+              {{ $title := .Params.title }}
+              {{ range $menu := .Site.Menus.main }}
+              <a href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag" class="{{ if eq $title .Identifier }} underline{{end}}">{{ .Name }}</a>
+              {{ end }}
+              <button type="button" class="search-button" id="open" aria-label="{{ i18n "search" }}"><i
+                class="fa fa-search search-button-icon"></i></button>
+            </div>
           </div>
         </div>
         
