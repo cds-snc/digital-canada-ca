@@ -3,21 +3,25 @@
   <div class="container topbar" id="site--topbar">
     <div class="row">
       <div class="col-xs-4 col-sm-3">
-        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo {{.Site.Language.Lang}}" aria-label="{{ i18n "aria-cds-website" }}"></a>
+        <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo {{.Site.Language.Lang}}" aria-label="{{ i18n "aria-cds-website" }}" id="cds-logo"></a>
         <!-- mobile screen wordless logo -->
         <a href={{ .Site.BaseURL | absLangURL }} class="cds-logo-mobile {{.Site.Language.Lang}}" aria-label="{{ i18n "aria-cds-website" }}"></a>
       </div>
 
       <div class="nav-container">
 
-        <div id="js-mobileNav">
+        <div id="js-mobileNav" >
           <div class="mobile-btns">
             <div  style="display: flex;">
               <button id="js-mobileNav--button">
                 <span class="text">{{ i18n "close" }}</span>
                 <span class="fas fa-times close-icon"></span>
               </button>
-              <div id="mobile-lng" class="mobile-lang">{{ partial "langSwitch.html" . }}</div>
+              <div id="mobile-lng" class="mobile-lang">
+                {{ range .Translations }}
+                <a id="langSwitch" href="{{ .Permalink }}" lang="{{.Language}}" >{{ i18n "lang-switch-label"}}</a>
+                {{ end }}
+              </div>
             </div>
             <div class="menu-items">
               <div class="dropdown">
@@ -28,7 +32,18 @@
                     <a href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
                     {{ end }}
                   </div>
+                  <!-- <ul class="drowndown-menu">
+                    <li class="dropdown-menu-items">
+                      <button class="how-we-can-help-btn" id="how-we-can">{{ i18n "how-we-can-help"}} <i class="fa fa-caret-down"></i></button>
+                      <ul class="dropdown-content" id="dropdwn-cnt">
+                        {{ range $dropdown := .Site.Menus.dropdown}}
+                        <li class="submenu-item"><a class="submenu-link" href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a></li>
+                        {{ end }}
+                      </ul>
+                    </li>
+                  </ul> -->
               </div>
+
               {{ $title := .Params.title }}
               {{ range $menu := .Site.Menus.main }}
               <a href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag" class="{{ if eq $title .Identifier }} underline{{end}}">{{ .Name }}</a>

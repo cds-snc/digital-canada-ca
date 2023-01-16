@@ -21,29 +21,74 @@ function validateEmail($email) {
 }
 
 $(document).ready(function () {
-  const focusedElementMobileModal = "button:not([disabled]), [href], input, text";
+  const focusedElementMobileModal = "button:not([disabled]), [href], input, text, li, ul, span, a";
   const mobileNav = document.getElementById("js-mobileNav")
   const firstfocusedElement = mobileNav.querySelectorAll(focusedElementMobileModal)[0]
   const lastFocusedElement = mobileNav.querySelectorAll(focusedElementMobileModal)[mobileNav.querySelectorAll(focusedElementMobileModal).length - 1]
   mobileNav.addEventListener("keydown", function(e) {
-    if (mobileNav.classList == "active" && document.activeElement == lastFocusedElement) {
-      firstfocusedElement.focus();
-      e.preventDefault();
+    let isTabPressed = e.key === "Tab" || e.keyCode === 9;
+    if (!isTabPressed) {
+      return;
     }
-  })
+    if (mobileNav.classList == "active") {
+      
+      if (e.shiftKey) {
+        if (document.activeElement === firstfocusedElement) {
+          lastFocusedElement.focus();
+          e.preventDefault();
+        }
 
-  document.addEventListener("keydown", function(e) {
-    if (document.activeElement == document.getElementById("guides-nav-tag")) {
-      document.getElementById("dropdwn-cnt").style.display = "none"
-      e.preventDefault();
+      } else if (document.activeElement == lastFocusedElement) {
+        firstfocusedElement.focus();
+        
+        e.preventDefault();
+      }
+
     }
+
+  })
+  
+  document.addEventListener("keydown", function(e) {
+    let isTabPressed = e.key === "Tab" || e.keyCode === 9;
+    if (!isTabPressed) {
+      return;
+    }
+
+
+    if (e.shiftKey) {
+      if (document.activeElement == document.getElementById("careers-nav-tag")) {
+        document.getElementById("dropdwn-cnt").style.display = "block"
+      }
+      else if (document.activeElement == document.getElementById("coaching-and-advice-nav-tag")) {
+        if (mobileNav.classList == "active") {
+          
+          document.getElementById("langSwitch").focus();
+          document.getElementById("dropdwn-cnt").style.display = "none"
+        } else {
+          document.getElementById("cds-logo").focus();
+          document.getElementById("dropdwn-cnt").style.display = "none"
+        }
+        
+        
+        e.preventDefault()
+      } 
+    }
+    else {
+      if (document.activeElement == document.getElementById("guides-nav-tag")) {
+        document.getElementById("dropdwn-cnt").style.display = "none"
+        
+      }
+    }
+
+  })
+  document.getElementById("how-we-can").addEventListener('focus', function() {
+    document.getElementById("dropdwn-cnt").style.display = "block"
+    document.getElementById("coaching-and-advice-nav-tag").focus();
   })
   document.addEventListener("keyup", function (e) {
-    if (document.activeElement == document.getElementById("how-we-can")) {
-      document.getElementById("dropdwn-cnt").style.display = "block"
-      e.preventDefault();
-    }
+    console.log(document.activeElement)
   })
+
 
 
   $("#js-mainNavButton").on("click touchup", function () {
