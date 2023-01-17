@@ -50,5 +50,5 @@ Notify est une plateforme SaaS qui permet aux organisations d’envoyer des avis
 
 ## Autres renseignements
 
-* [Site Web de GC Notification](https://notification.alpha.canada.ca)
-* [Répertoire Github de GC Notification](https://github.com/cds-snc/notification-api)
+* [Site Web de Notification GC](https://notification.alpha.canada.ca)
+* [Répertoire Github de Notification GC](https://github.com/cds-snc/notification-api)
