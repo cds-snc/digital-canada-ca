@@ -95,3 +95,11 @@ jobs:
         run: |
           aws s3 sync ~/cds-website-dist/${{ matrix.lang }} s3://${{ matrix.bucket }}/ --delete
           aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"${{ matrix.dist-id}}\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
+      - name: Report deployment to Sentinel
+        uses: cds-snc/sentinel-forward-data-action@main
+        with:
+          input_data: '{"product": "${{ matrix.bucket }}", "version": "${{ github.sha }}", "repository": "${{ github.repository }}", "environment": "production"}'
+          log_type: CDS_Product_Deployment_Data
+          log_analytics_workspace_id: ${{ secrets.LOG_ANALYTICS_WORKSPACE_ID }}
+          log_analytics_workspace_key: ${{ secrets.LOG_ANALYTICS_WORKSPACE_KEY }}
+          
