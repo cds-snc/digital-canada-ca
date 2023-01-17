@@ -32,16 +32,6 @@
                     <a href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a>
                     {{ end }}
                   </div>
-                  <!-- <ul class="drowndown-menu">
-                    <li class="dropdown-menu-items">
-                      <button class="how-we-can-help-btn" id="how-we-can">{{ i18n "how-we-can-help"}} <i class="fa fa-caret-down"></i></button>
-                      <ul class="dropdown-content" id="dropdwn-cnt">
-                        {{ range $dropdown := .Site.Menus.dropdown}}
-                        <li class="submenu-item"><a class="submenu-link" href="{{ .URL | relLangURL }}" id="{{.Identifier}}-nav-tag">{{ .Name }}</a></li>
-                        {{ end }}
-                      </ul>
-                    </li>
-                  </ul> -->
               </div>
 
               {{ $title := .Params.title }}
