@@ -99,8 +99,6 @@
 ////////////////////////////////////////////////////////////
 
 .menu-items {
-  // display: flex;
-  // margin: 0.5rem auto 0.5rem auto;
   padding: 0;
   text-align: right;
   @include mobile_only {
@@ -178,13 +176,6 @@
       @include mobile_only {
         display: none;
       }
-    }
-    li {
-      list-style: none;
-    }
-    .submenu-item {
-      left: 0;
-      padding: 0;
     }
     .dropdown-content {
       display: none;
