@@ -47,7 +47,7 @@ translationKey: blog-work-open-community
 
 
 
-<p><strong>Travailler ouvertement multiplie les chances que d’autres réutilisent notre travail, voire collaborent avec nous.</strong> Par exemple, si un fonctionnaire ou un membre du public découvrait un bogue dans GC Notification, cette personne pourrait se rendre sur le répertoire du projet et le signaler. L’équipe serait alors mise au courant et pourrait régler le problème rapidement. Rappelons aussi qu’il existe un formulaire Web à cette fin.</p>
+<p><strong>Travailler ouvertement multiplie les chances que d’autres réutilisent notre travail, voire collaborent avec nous.</strong> Par exemple, si un fonctionnaire ou un membre du public découvrait un bogue dans Notification GC, cette personne pourrait se rendre sur le répertoire du projet et le signaler. L’équipe serait alors mise au courant et pourrait régler le problème rapidement. Rappelons aussi qu’il existe un formulaire Web à cette fin.</p>
 
 
 
