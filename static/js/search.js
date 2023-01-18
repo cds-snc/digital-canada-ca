@@ -12,13 +12,13 @@ const body = document.querySelector("body");
 const filterArrow = document.getElementById("filter-arrow");
 const filterBox = document.getElementById("filter-box");
 const resultsNumberDiv = document.getElementById("results-number-div");
-const focusableElements = "button:not([disabled]), [href], input, text";
+const focusableElements = "button:not([disabled]), [href], input, text, p, li";
 const open = document.getElementById("open");
 const modal_container = document.getElementById("modal_container");
 const close = document.getElementById("close");
 const innerModal = document.getElementById("inner-modal");
 const firstFocusableElement = innerModal.querySelectorAll(focusableElements)[0]; // get first element to be focused inside modal
-const focusableContent = innerModal.querySelectorAll(focusableElements);
+
 let lastFocusableElement;
 
 /**
@@ -61,6 +61,7 @@ async function initSearchIndex() {
   renderSearchResult(results);
   renderFilterButtons();
 }
+
 
 function showMobileFilters() {
   filterArrow.classList.toggle("active");
