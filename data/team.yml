@@ -197,7 +197,7 @@ exec:
     imagehash: small_wendy_luciani_67e4e819d7
     email: Wendy.Luciani@tbs-sct.gc.ca
     linkedin: wmluciani
-  - archived: false
+  - archived: true
     name: Wissam Moussa
     title:
       en: Head of Platform Core Services
