@@ -17,7 +17,7 @@ Les membres de l’équipe des politiques sont les pirates bureaucratiques et le
 
 Les conseillers (ères) en politiques font partie des équipes de produits multidisciplinaires du SNC, travaillant aux côtés de gestionnaires, de développeurs et de concepteurs de produits, ainsi que de chercheurs en conception. Nous contribuons à la création et à l’amélioration des services gouvernementaux en travaillant sur des questions législatives, réglementaires et stratégiques dans le développement de produits. Nous approfondissons les processus pour trouver des solutions créatives. 
 
-Nous contribuons également à la création de produits et de services qui transforment les correctifs ponctuels en solutions permanentes, comme [Notification GC](https://notification.canada.ca/), le service de notification du gouvernement du Canada (GC). Nous appliquons les leçons tirées de la prestation numérique à l’établissement de politiques et de normes, en préconisant des changements qui facilitent la prise de bonnes décisions. 
+Nous contribuons également à la création de produits et de services qui transforment les correctifs ponctuels en solutions permanentes, comme [GC Notification](https://notification.canada.ca/), le service de notification du gouvernement du Canada (GC). Nous appliquons les leçons tirées de la prestation numérique à l’établissement de politiques et de normes, en préconisant des changements qui facilitent la prise de bonnes décisions. 
 
 Les conseillers (ères) en politiques sont classés EC-04 et EC-05 dans le groupe Économique et services de sciences sociales du Secrétariat du Conseil du Trésor du gouvernement du Canada.
 
