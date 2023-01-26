@@ -16,7 +16,7 @@ This quote from writer [Heidi Waterhouse](https://twitter.com/wiredferret) is on
 
 Building software is hard, running systems designed by others can be challenging, and on top of that: we all make mistakes. So it makes sense to get good at responding when things break, because they will.
 
-In this blog, I’ll talk about a serious incident that mobilized our whole team, the innovative approach we took to address it (and make sure it doesn’t happen again), and -  most importantly - what we learned. 
+In this blog, I’ll talk about a serious incident that mobilized our whole team, the innovative approach we took to address it (and make sure it doesn’t happen again), and -  most importantly - what we learned.
 
 ## The incident
 
