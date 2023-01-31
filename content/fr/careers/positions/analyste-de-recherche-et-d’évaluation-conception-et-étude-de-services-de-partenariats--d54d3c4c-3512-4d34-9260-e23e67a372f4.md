@@ -23,7 +23,6 @@ La gestion de portefeuille est un groupe de services répondant aux besoins de l
 ### Le rôle 
 En tant qu’analyste au sein de l’équipe de conception et étude de services, vous travaillerez en étroite collaboration avec votre équipe et d’autres membres de l’équipe de gestion de portefeuille pour représenter les partenaires au sein de l’unité opérationnelle. Votre poste relèvera de la responsable d’équipe, conception et étude de services, relevant elle-même de la cheffe de la gestion de portefeuille dont le poste dépendra de la directrice exécutive des partenariats. Ce rôle est classé EC-05 au sein du groupe économique et services de sciences sociales. 
 
-
 ### Nous sommes à la recherche d’une personne capable :
 
 - de nous aider à mesurer l’influence de nos produits et services pour faire des recommandations sur la méthode à suivre pour accroître leur valeur ajoutée;
