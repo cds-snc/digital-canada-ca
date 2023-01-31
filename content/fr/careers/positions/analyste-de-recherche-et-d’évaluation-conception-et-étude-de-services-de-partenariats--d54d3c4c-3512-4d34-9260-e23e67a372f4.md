@@ -3,7 +3,7 @@ layout: job-posting
 type: section
 title: 'Analyste de recherche et d’évaluation, conception et étude de services de partenariats'
 description: >-
-  En tant qu’analyste au sein de l’équipe de conception et étude de services, vous travaillerez en étroite collaboration avec votre équipe et d’autres membres de l’équipe de gestion de portefeuille pour représenter les partenaires au sein de l’unité opérationnelle. 
+  En tant qu’analyste au sein de l’équipe de conception et étude de services, vous travaillerez en étroite collaboration avec votre équipe et d’autres membres de l’équipe de gestion de portefeuille pour représenter les partenaires au sein de l’unité opérationnelle.  
 archived: true
 translationKey: research-evaluation-partnerships-service-design-insight
 leverId: d54d3c4c-3512-4d34-9260-e23e67a372f4
