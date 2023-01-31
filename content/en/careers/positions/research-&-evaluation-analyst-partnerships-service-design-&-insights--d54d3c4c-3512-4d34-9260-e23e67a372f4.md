@@ -15,7 +15,6 @@ The Canadian Digital Service (CDS) is tasked with changing how the federal gover
 **As a part of CDS’s commitment to the Call to Action on Anti-Racism, Equity and Inclusion in the Federal Public Service, in this hiring process, we will only be considering candidates who choose to self declare as an Indigenous person or as a member of a racialized group. Candidates will have an opportunity to self-declare at a later point in the application process.**
 
 
-
 ### Partnerships
 The Partnerships business unit is composed of service groups that work together to establish and grow relationships with other government departments with the goal of helping them improve how they design and deliver their public services.  
 
