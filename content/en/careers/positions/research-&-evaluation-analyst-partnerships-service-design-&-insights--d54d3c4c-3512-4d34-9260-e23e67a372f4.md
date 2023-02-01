@@ -4,7 +4,7 @@ type: section
 title: 'Research & Evaluation Analyst, Partnerships Service Design & Insights'
 description: >-
   As an Analyst on the Service Design and Insights team, you’ll work closely with your team and other members of Portfolio Management to be the “Voice of the Partner” for the business unit. 
-archived: true
+archived: false
 translationKey: research-evaluation-partnerships-service-design-insight
 leverId: d54d3c4c-3512-4d34-9260-e23e67a372f4
 ---
