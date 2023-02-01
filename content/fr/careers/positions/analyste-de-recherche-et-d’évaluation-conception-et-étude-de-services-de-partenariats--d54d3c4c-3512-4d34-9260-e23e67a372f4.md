@@ -4,7 +4,7 @@ type: section
 title: 'Analyste de recherche et d’évaluation, conception et étude de services de partenariats'
 description: >-
   En tant qu’analyste au sein de l’équipe de conception et étude de services, vous travaillerez en étroite collaboration avec votre équipe et d’autres membres de l’équipe de gestion de portefeuille pour représenter les partenaires au sein de l’unité opérationnelle.  
-archived: true
+archived: false
 translationKey: research-evaluation-partnerships-service-design-insight
 leverId: d54d3c4c-3512-4d34-9260-e23e67a372f4
 ---
@@ -42,6 +42,6 @@ En tant qu’analyste au sein de l’équipe de conception et étude de services
 - avez le don de cultiver des relations pour atteindre des objectifs communs; 
 - réagissez rapidement et communiquez efficacement.
 
-* La personne idéale communique couramment en français et en anglais; elle possède au minimum un niveau BBB* selon les normes gouvernementales. 
+*La personne idéale communique couramment en français et en anglais; elle possède au minimum un niveau BBB* selon les normes gouvernementales. 
 
 
