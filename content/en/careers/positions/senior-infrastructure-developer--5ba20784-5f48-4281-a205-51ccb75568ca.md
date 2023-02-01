@@ -5,7 +5,7 @@ title: 'Senior Infrastructure Developer'
 description: >-
   We're looking for a Senior Infrastructure Developer who will design, build, configure, and improve our infrastructure as code for various internal tools and products to enable deploying rapidly, scaling gracefully, and keeping system data safe.This role is classified as an IT-04 or IT-05 in the Computer Systems group. This role can be performed from anywhere in Canada. In the future, occasional travel to Ottawa may be required.
 
-archived: false
+archived: true
 translationKey: 2022-nov-sr-infra-dev
 leverId: 5ba20784-5f48-4281-a205-51ccb75568ca
 ---
