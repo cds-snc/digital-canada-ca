@@ -4,7 +4,7 @@ type: section
 title: 'Research & Evaluation Analyst, Partnerships Service Design & Insights'
 description: >-
   As an Analyst on the Service Design and Insights team, you’ll work closely with your team and other members of Portfolio Management to be the “Voice of the Partner” for the business unit. 
-archived: true
+archived: false
 translationKey: research-evaluation-partnerships-service-design-insight
 leverId: d54d3c4c-3512-4d34-9260-e23e67a372f4
 ---
@@ -44,5 +44,5 @@ As an Analyst on the Service Design and Insights team, you’ll work closely wit
 - You’re good at cultivating relationships to achieve common goals 
 - You’re prompt to respond and communicate effectively
 
-* Ideally, you’re fluent in French and English, at a government-tested level of at least BBB*. 
+*Ideally, you’re fluent in French and English, at a government-tested level of at least BBB*. 
 
