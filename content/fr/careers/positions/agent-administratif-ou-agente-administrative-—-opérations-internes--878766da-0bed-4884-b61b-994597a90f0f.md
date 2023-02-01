@@ -4,7 +4,7 @@ type: section
 title: 'Agent administratif ou agente administrative — opérations internes'
 description: >-
   Vous feriez partie d’une équipe qui compte quatre autres membres. Il s’agit d’un poste à période déterminée, classé AS-02 dans le groupe Services administratifs.
-archived: false
+archived: true
 translationKey: 2023-Jan-AdministrativeOfficer
 leverId: 878766da-0bed-4884-b61b-994597a90f0f
 ---
