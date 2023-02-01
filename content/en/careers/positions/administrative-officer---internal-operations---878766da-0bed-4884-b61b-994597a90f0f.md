@@ -4,7 +4,7 @@ type: section
 title: 'Administrative Officer - Internal Operations '
 description: >-
   You would join a team that includes four other members. This role is a term role and is classified as an AS-02 in the Administrative Services group.
-archived: false
+archived: true
 translationKey: 2023-Jan-AdministrativeOfficer
 leverId: 878766da-0bed-4884-b61b-994597a90f0f
 ---
