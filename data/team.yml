@@ -18,7 +18,7 @@ exec:
     email: Alex.MacEachern@tbs-sct.gc.ca
     linkedin: alexandra-maceachern-4b0209b2
     twitter: amaceachern123
-  - archived: false
+  - archived: true
     name: Anatole Papadopoulos
     title:
       en: Acting Chief Executive Officer
