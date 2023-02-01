@@ -4,7 +4,7 @@ type: section
 title: 'Développeur principal ou développeuse principale de l’infrastructure'
 description: >-
   Nous sommes à la recherche d’un·e développeur·euse principal·e de l’infrastructure ayant comme mandat de concevoir, construire, configurer et améliorer l’infrastructure en tant que code que nous utilisons dans plusieurs outils et produits internes, afin de les déployer plus rapidement, de les mettre à l’échelle aisément et de garantir la sécurité des données du système. Ce rôle est classé au groupe et niveau IT-04 ou IT-05 des systèmes d’ordinateurs. Ce rôle peut être assumé de n’importe où au Canada. À l’avenir, des déplacements occasionnels à Ottawa pourraient être nécessaires.
-archived: false
+archived: true
 translationKey: 2022-nov-sr-infra-dev
 leverId: 5ba20784-5f48-4281-a205-51ccb75568ca
 ---
