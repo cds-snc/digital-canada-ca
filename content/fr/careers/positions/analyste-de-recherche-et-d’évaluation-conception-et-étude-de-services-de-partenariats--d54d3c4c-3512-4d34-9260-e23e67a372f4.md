@@ -16,7 +16,6 @@ Le Service numérique canadien (SNC) a le mandat de changer la façon dont le go
 ### Partenariats 
 L’unité opérationnelle des partenariats se compose de groupes de service collaborant pour établir et cultiver des relations avec d’autres ministères dans le but de les aider à améliorer la conception et la prestation de leurs services publics.  
 
-
 La gestion de portefeuille est un groupe de services répondant aux besoins de l’unité opérationnelle des partenariats. Ce groupe comprend deux équipes : l’équipe de réception des demandes et l’équipe de conception et étude de services. La première a pour mandat d’étudier les occasions de partenariat pour en établir les priorités, tandis que la deuxième contribue au travail de conception et d’évaluation de services de partenariat dans le respect des valeurs du SNC. 
   
 
