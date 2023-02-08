@@ -169,9 +169,3 @@ translationKey: blog-brainstorm-activity
 
 <p><strong>Then, let us know if you found them helpful!</strong> We’d love to hear from you (<a href="https://twitter.com/CDS_GC">Twitter</a> or <a href="https://www.linkedin.com/company/cds-snc">LinkedIn</a>).</p>
 
-
-
-<details class="wp-block-cds-snc-accordion"><summary>Y</summary>
-<p>x</p>
-</details>
-
