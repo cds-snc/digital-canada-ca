@@ -63,11 +63,11 @@ translationKey: blog-brainstorm-activity
 
 
 
-<div class="wp-block-file"><a id="wp-block-file--media-042477c2-82b0-45a1-85e5-fef6c1fd83b7" href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Download-the-activity-template-for-blog-brainstorming-🧠⚡️.pdf">Download the activity template for blog brainstorming! 🧠⚡️</a><a href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Download-the-activity-template-for-blog-brainstorming-🧠⚡️.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-042477c2-82b0-45a1-85e5-fef6c1fd83b7">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-042477c2-82b0-45a1-85e5-fef6c1fd83b7" href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Download-the-activity-template-for-blog-brainstorming-🧠⚡️.pdf">Download the activity template for blog brainstorming! 🧠⚡️</a><a href="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/Download-the-activity-template-for-blog-brainstorming-🧠⚡️.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-042477c2-82b0-45a1-85e5-fef6c1fd83b7">Download</a></div>
 
 
 
-<figure class="wp-block-image"><img decoding="async" loading="lazy" width="761" height="468" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/final-activity-brainstorming-screenshot-1.png" alt="Screenshot of activity template, showing the 10 ingredients listed above and sections for subheadings/main points.]" class="wp-image-554" style="max-width: 100%;height: auto" /></figure>
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="761" height="468" src="https://articles.alpha.canada.ca/uploads/sites/25/2022/10/final-activity-brainstorming-screenshot-1.png" alt="Screenshot of activity template, showing the 10 ingredients listed above and sections for subheadings/main points.]" class="wp-image-554" style="max-width: 100%;height: auto"></figure>
 
 
 
@@ -83,7 +83,45 @@ translationKey: blog-brainstorm-activity
 
 
 
-<ol><li>The main takeaways for readers.</li><li>Key explanation points for the main takeaways.</li><li>Relatable feelings and experiences that make the story memorable.</li><li>Evidence to support the main points.</li><li>Thinking of who else is connected to the story (give credit where it’s due).</li><li>Potential collaborations (like getting testimonials or input from other teams).</li><li>Potential work to publish in the open (like presentations or documents related to the story that the reader can dive into for deeper context).</li><li>Impactful thoughts (like quotes or analogies that make the story more memorable to the reader).</li><li>Flag(s) to raise to either yourself when writing, or to the reader on the topic.</li><li>Call(s) to action (CTAs) for the reader (what you want them to do next!).</li></ol>
+<ol>
+<li>The main takeaways for readers.</li>
+
+
+
+<li>Key explanation points for the main takeaways.</li>
+
+
+
+<li>Relatable feelings and experiences that make the story memorable.</li>
+
+
+
+<li>Evidence to support the main points.</li>
+
+
+
+<li>Thinking of who else is connected to the story (give credit where it’s due).</li>
+
+
+
+<li>Potential collaborations (like getting testimonials or input from other teams).</li>
+
+
+
+<li>Potential work to publish in the open (like presentations or documents related to the story that the reader can dive into for deeper context).</li>
+
+
+
+<li>Impactful thoughts (like quotes or analogies that make the story more memorable to the reader).</li>
+
+
+
+<li>Flag(s) to raise to either yourself when writing, or to the reader on the topic.</li>
+
+
+
+<li>Call(s) to action (CTAs) for the reader (what you want them to do next!).</li>
+</ol>
 
 
 
@@ -103,7 +141,17 @@ translationKey: blog-brainstorm-activity
 
 
 
-<ol><li><strong>Identify tasty, memorable quotes and use them for social media promotion.</strong> This can help make the blog appealing to potential readers and increase the content’s reach. For bilingual Government of Canada Twitter accounts, English quotes need to be around 220 characters (max), so the French translation fits too (280 characters max).</li><li><strong>Design the meal to look appealing.</strong> Think about what would be helpful and relevant to include on the topic, such as: adding resources, incorporating audio or video, making sure the visual is impactful and meaningful (read my coworker Philippe Tardif’s <a href="https://digital.canada.ca/2020/01/28/7-steps-to-great-visual-storytelling/">blog</a> for tips on telling stories through visuals!). This will help you craft a blog that is memorable.</li><li><strong>Measure and analyze the performance of blogs so you can improve, but don’t be discouraged by metrics!</strong> There are many factors that can impact blog performance – consider them before changing your approach. One factor is that your blog will attract various audiences. Some people will read your text carefully from start to finish, and others may just scan it – that’s okay. Not everyone will be interested in the topic you’re covering and maybe the length or visuals won’t appeal to all. Or maybe your target audience didn’t see it and the blog could use amplification on social media.</li></ol>
+<ol>
+<li><strong>Identify tasty, memorable quotes and use them for social media promotion.</strong> This can help make the blog appealing to potential readers and increase the content’s reach. For bilingual Government of Canada Twitter accounts, English quotes need to be around 220 characters (max), so the French translation fits too (280 characters max).</li>
+
+
+
+<li><strong>Design the meal to look appealing.</strong> Think about what would be helpful and relevant to include on the topic, such as: adding resources, incorporating audio or video, making sure the visual is impactful and meaningful (read my coworker Philippe Tardif’s <a href="https://digital.canada.ca/2020/01/28/7-steps-to-great-visual-storytelling/">blog</a> for tips on telling stories through visuals!). This will help you craft a blog that is memorable.</li>
+
+
+
+<li><strong>Measure and analyze the performance of blogs so you can improve, but don’t be discouraged by metrics!</strong> There are many factors that can impact blog performance – consider them before changing your approach. One factor is that your blog will attract various audiences. Some people will read your text carefully from start to finish, and others may just scan it – that’s okay. Not everyone will be interested in the topic you’re covering and maybe the length or visuals won’t appeal to all. Or maybe your target audience didn’t see it and the blog could use amplification on social media.</li>
+</ol>
 
 
 
@@ -120,4 +168,10 @@ translationKey: blog-brainstorm-activity
 
 
 <p><strong>Then, let us know if you found them helpful!</strong> We’d love to hear from you (<a href="https://twitter.com/CDS_GC">Twitter</a> or <a href="https://www.linkedin.com/company/cds-snc">LinkedIn</a>).</p>
+
+
+
+<details class="wp-block-cds-snc-accordion"><summary>Y</summary>
+<p>x</p>
+</details>
 
