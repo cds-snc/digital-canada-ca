@@ -4,16 +4,14 @@ type: section
 title: 'Research & Evaluation Analyst, Partnerships Service Design & Insights'
 description: >-
   As an Analyst on the Service Design and Insights team, you’ll work closely with your team and other members of Portfolio Management to be the “Voice of the Partner” for the business unit. 
-archived: false
+archived: true
 translationKey: research-evaluation-partnerships-service-design-insight
 leverId: d54d3c4c-3512-4d34-9260-e23e67a372f4
 ---
 
 The Canadian Digital Service (CDS) is tasked with changing how the federal government designs and delivers accessible digital services, to reduce the risk of product failure, lower costs, ensure user privacy and system security, and, above all, improves people’s lives by putting their needs and concerns front and center. We believe every experience Canadians have with their government should meet or exceed their reasonable modern expectations that digital services be safe, fast, easy, transparent, and accessible. Working in the open, we’re building capacity across the government for better service delivery. And we need you.
 
-
 **As a part of CDS’s commitment to the Call to Action on Anti-Racism, Equity and Inclusion in the Federal Public Service, in this hiring process, we will only be considering candidates who choose to self declare as an Indigenous person or as a member of a racialized group. Candidates will have an opportunity to self-declare at a later point in the application process.**
-
 
 ### Partnerships
 The Partnerships business unit is composed of service groups that work together to establish and grow relationships with other government departments with the goal of helping them improve how they design and deliver their public services.  
