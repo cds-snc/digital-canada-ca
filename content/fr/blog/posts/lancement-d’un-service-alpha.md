@@ -14,7 +14,7 @@ image: https://de2an9clyit2x.cloudfront.net/get_updates_c19_phone_fr_963f308dbc.
 image-alt: >-
   Une personne en train de s’abonner au service «Obtenir les nouvelles sur la
   COVID-19» sur son téléphone mobile.
-translationKey: launch-of-the-canadian-digital-service
+translationKey: get-updates-blog-2
 thumb: https://de2an9clyit2x.cloudfront.net/small_get_updates_c19_phone_fr_963f308dbc.jpg
 ---
 *Marcel Saulnier et Jennifer Hollington sont tous deux sous-ministres adjoints à Santé Canada. M. Saulnier a supervisé la conception et le lancement du service de notification par courriel « [Obtenir les nouvelles sur la COVID-19](https://www.canada.ca/covid19nouvelles) » dans le cadre de sa participation au groupe de travail sur la COVID-19. L’équipe des communications de Mme Hollington a repris le service alors que celui-ci s’inscrit dans la fonction de communication de Santé Canada.*
