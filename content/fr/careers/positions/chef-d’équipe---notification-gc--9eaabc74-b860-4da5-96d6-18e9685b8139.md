@@ -4,7 +4,7 @@ type: section
 title: 'Chef d’équipe - Notification GC'
 description: >-
   Ce poste est d’une durée déterminée de 2 ans et est classé IT-04 ou IT-05 dans le groupe des systèmes d’ordinateurs. Le SNC est une équipe entièrement décentralisée. Ce rôle peut être assumé de n’importe où au Canada. À l’avenir, des déplacements occasionnels à Ottawa pourraient être nécessaires. Le bilinguisme est exigé pour ce poste. 
-archived: false
+archived: true
 translationKey: 2022-dec-team-lead-notify
 leverId: 9eaabc74-b860-4da5-96d6-18e9685b8139
 ---
