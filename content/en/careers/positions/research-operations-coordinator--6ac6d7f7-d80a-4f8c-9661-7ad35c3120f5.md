@@ -4,7 +4,7 @@ type: section
 title: 'Research Operations Coordinator'
 description: >-
   This position reports to the Head of Platform Client Experience (CX). In the CX Team, we are tasked with creating a cohesive, consistent end-to-end journey experience for our clients from awareness, onboarding to sustained usage. We do this by building in continuous learning about client needs, expectations and interactions with our services. We put mixed-methods research at the heart of decision-making to create a high quality client experience. This role is a 2 year-term position and is classified as an EC-04 in the Economics and Social Science Services (EC) group.
-archived: false
+archived: true
 translationKey: 2022-dec-research-ops
 leverId: 6ac6d7f7-d80a-4f8c-9661-7ad35c3120f5
 ---
