@@ -4,7 +4,7 @@ type: section
 title: 'Coordonnateur·rice des opérations de recherche'
 description: >-
   Ce poste relève de la cheffe de l’expérience client de la plateforme. Cette équipe est chargée de créer une expérience globalement cohérente et uniforme pour notre clientèle. Cela va de la sensibilisation à l’utilisation soutenue en passant par l’intégration. Pour ce faire, nous misons sur un apprentissage continu portant sur les besoins et attentes de la clientèle ainsi que sur ses interactions avec nos services. Nous plaçons la recherche basée sur des méthodes mixtes au centre de la prise de décision afin de créer une expérience exceptionnelle pour la clientèle. Ce rôle est à pouvoir pour une période de deux ans. Il est classé EC-04 au sein du groupe économique et services de sciences sociales (EC).
-archived: false
+archived: true
 translationKey: 2022-dec-research-ops
 leverId: 6ac6d7f7-d80a-4f8c-9661-7ad35c3120f5
 ---
