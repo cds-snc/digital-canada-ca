@@ -846,6 +846,13 @@ team:
     email: paul.craig@tbs-sct.gc.ca
     github: pcraig3
   - archived: false
+    name: Peter Thiessen
+    title:
+      en: Development
+      fr: Développement
+    imagehash: peter_thiessen_d353b3fcf1
+    email: peter.thiessen@tbs-sct.gc.ca
+  - archived: false
     name: Philippe Caron
     title:
       en: Design
