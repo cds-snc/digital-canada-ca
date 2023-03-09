@@ -136,6 +136,15 @@ exec:
     imagehash: small_melanie_tremblay_ca6233ad64
     email: melanie.tremblay2@tbs-sct.gc.ca
   - archived: false
+    name: Michael Karlin
+    title:
+      en: Acting Director of Policy
+      fr: Directeur des politiques par intérim
+    imagehash: michaelkarlin_b06df6ba55
+    email: michael.karlin@tbs-sct.gc.ca
+    linkedin: michael-karlin-73052a4/
+    twitter: supergovernance
+  - archived: false
     name: Mithula Naik
     title:
       en: Head of Client Experience & Acting Head of Growth
@@ -149,15 +158,6 @@ exec:
       fr: Adjointe exécutive au PDG par intérim
     imagehash: small_nafissa_hassan_faa67f46a4
     email: Nafissa.Hassan@tbs-sct.gc.ca
-  - archived: false
-    name: Nisa Malli
-    title:
-      en: Acting Director of Policy
-      fr: Directrice intérimaire des politiques
-    imagehash: small_nisa_malli_9eea3a1643
-    email: nisa.malli@tbs-sct.gc.ca
-    linkedin: /nisa-malli-8b9702b/
-    twitter: /nisamalli
   - archived: true
     name: Paul Joseph
     title:
@@ -775,15 +775,6 @@ team:
     email: melissa.banyard@tbs-sct.gc.ca
     linkedin: melbanyard
     twitter: melbanyard
-  - archived: false
-    name: Michael Karlin
-    title:
-      en: Policy
-      fr: Politiques
-    imagehash: michaelkarlin_b06df6ba55
-    email: michael.karlin@tbs-sct.gc.ca
-    linkedin: michael-karlin-73052a4/
-    twitter: supergovernance
   - archived: true
     name: Mohamed Nur
     title:
@@ -810,6 +801,15 @@ team:
     email: nick.makuch@tbs-sct.gc.ca
     github: nmakuch
     twitter: makuch_nick
+  - archived: false
+    name: Nisa Malli
+    title:
+      en: Policy
+      fr: Politiques
+    imagehash: small_nisa_malli_9eea3a1643
+    email: nisa.malli@tbs-sct.gc.ca
+    linkedin: /nisa-malli-8b9702b/
+    twitter: /nisamalli
   - archived: false
     name: Nourhan Hegazy
     title:
