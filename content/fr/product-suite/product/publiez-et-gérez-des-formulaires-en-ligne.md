@@ -3,13 +3,13 @@ Title: Publiez et gérez des formulaires en ligne
 Subtitle:  Formulaires GC
 TranslationKey: gc-forms
 Description: >-
-  Recueillez des renseignements du public à l’aide de formulaires en ligne. 
+  Recueillez des renseignements auprès du public à l’aide de formulaires en ligne.
 SecondDescription: >-
-  Cet outil fait actuellement l’objet d’un projet pilote à petite échelle. Contactez-nous si vous souhaitez faire l’essai de l’outil dans votre service.
-ButtonText: Contactez-nous
-ButtonAria: Contactez-nous pour en savoir plus sur Formulaires GC
+  Cet outil est actuellement utilisé pour les données protégées de type A. Vous pouvez créer un compte, commencer à utiliser cet outil ou nous contacter en visitant le site Web de Formulaires GC.
+ButtonText: Site web de Formulaires GC
+ButtonAria: Aller au site Web de Formulaires GC
 Weight: 2
-LinkToProductSuite: https://forms-formulaires.alpha.canada.ca/fr/id/1
+LinkToProductSuite: https://articles.alpha.canada.ca/forms-formulaires/fr/
 TagID: gc-forms-tag-fr
 ---
 
