@@ -4,7 +4,7 @@ type: section
 title: 'Team Lead - GC Notify'
 description: >-
   This role is a 2 year-term position and is classified as an IT-04 or IT-05 in the Computer Systems group. CDS is a fully distributed team. This role can be performed from anywhere in Canada. In the future, occasional travel to Ottawa may be required. Bilingualism is required for this position. 
-archived: false
+archived: true
 translationKey: 2022-dec-team-lead-notify
 leverId: 9eaabc74-b860-4da5-96d6-18e9685b8139
 ---
