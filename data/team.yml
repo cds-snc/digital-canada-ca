@@ -465,13 +465,6 @@ team:
     imagehash: small_dylan_zheng_040acd2115
     email: dylan.zheng@tbs-sct.gc.ca
   - archived: false
-    name: Edwin Imidy
-    title:
-      en: Internal Operations
-      fr: Opérations internes
-    imagehash: edwin_imidy_2172440310
-    email: edwin.imidy@tbs-sct.gc.ca
-  - archived: false
     name: Élise Cossette
     title:
       en: Design

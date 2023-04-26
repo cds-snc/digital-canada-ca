@@ -21,7 +21,7 @@ There’s a lot involved in putting together a notice, and it can take a few wee
 
 In government, privacy notices need to be: 
 
-* In French and English 
+* In French and English
 * In plain language 
 * Specific to the location, context, and research activity
 * Policy compliant 
@@ -71,7 +71,7 @@ So what do these patterns and the framework help us do? They create a shared und
 We still need ATIP’s approval for our notices. But, we shortened the time to create the first draft of a notice from a few days to a few minutes. Some end-to-end reviews even dropped from a few weeks to a single afternoon. This meant we were spending less time navigating bureaucracy, and more time talking to the public to make government services better.
 
 ## Check out the “Generate Privacy and Consent Notices” tool
-While the tool is currently limited to internal use, you can see how we **[Generate Privacy and Consent Notices](https://privacy-statements.cds.alpha.canada.ca/)** here. 
+While the tool is currently limited to internal use, you can see how we **[Generate Privacy and Consent Notices](https://simplify-privacy-statements.alpha.canada.ca/en)** here.
 
 If you’re a federal public servant in Canada, we’re working on adapting it for wider use. This includes changing the collection authority to make it less specific to CDS's needs. So stay tuned for updates or [reach out](mailto:CDS-SNC@tbs-sct.gc.ca) to learn more about adopting it in your department!  
 
