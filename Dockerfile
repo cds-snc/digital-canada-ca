@@ -1,4 +1,4 @@
-FROM debian:stretch-slim as build 
+FROM debian:buster-slim as build 
 
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
     && apt-get -y install wget \
