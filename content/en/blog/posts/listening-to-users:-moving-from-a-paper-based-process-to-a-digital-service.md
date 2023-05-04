@@ -2,7 +2,7 @@
 layout: blog
 title: 'Listening to users: Moving from a paper-based process to a digital service'
 description: >-
-  The Canadian Firearms Digital Services Solutions team at RCMP shares their user-centred approach to converting a paper-based service online.
+  The Canadian Firearms Digital Services Solutions team at the RCMP share their user-centred approach to converting a paper-based service online.
 author: 'Canadian Firearms Digital Services Solution (CFDSS) team, RCMP'
 date: '2023-05-04T15:19:31'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/05/RCMPDigitalServicesBlog_Blog_Post-scaled.jpg
