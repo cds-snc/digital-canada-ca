@@ -11,7 +11,7 @@ thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/05/RCMPDigitalServ
 translationKey: listening-to-users-moving-from-a-paper-based-process-to-a-digital-service
 ---
 
-<p>People accessing government services often ask themselves &#8211; why is this so complicated? Outdated legacy systems and burdensome processes make it difficult for Canadians to get access to the services they need.  The scale of the problems can be daunting, but thankfully there are multidisciplinary teams working in departments across government to improve how these services are delivered. In this series, we’ll be highlighting the work of these teams, and showing what good looks like in digital service delivery. </p>
+<p>People accessing government services often ask themselves &#8211; why is this so complicated? Outdated legacy systems and burdensome processes make it difficult for Canadians to get access to the services they need.&nbsp; The scale of the problems can be daunting, but thankfully there are multidisciplinary teams working in departments across government to improve how these services are delivered. In this series, we’ll be highlighting the work of these teams, and showing what good looks like in digital service delivery.&nbsp;</p>
 
 
 
@@ -97,7 +97,7 @@ translationKey: listening-to-users-moving-from-a-paper-based-process-to-a-digita
 
 
 
-<p>This new user-centred online form has modernized the CFP’s systems and processes to increase process efficiency and effectiveness. This work has better informed digital transformation discussions in the CFP around future releases of online services, including firearm licensing applications for businesses and carriers, as well as designing a safety training portal for instructors (in collaboration with <a href="https://codefor.ca/" target="_blank" rel="noreferrer noopener">Code for Canada</a>). The team has also established feedback loops to get input on how the online application can be improved. Feedback from calls from applicants, trends in application errors, user surveys, and learnings from training new processing agents are regularly routed to the team, who use them to prioritize service improvement work. </p>
+<p>This new user-centred online form has modernized the CFP’s systems and processes to increase process efficiency and effectiveness. This work has better informed digital transformation discussions in the CFP around future releases of online services, including firearm licensing applications for businesses and carriers, as well as designing a safety training portal for instructors (in collaboration with <a href="https://codefor.ca/" target="_blank" rel="noreferrer noopener">Code for Canada</a>). The team has also established feedback loops to get input on how the online application can be improved. Feedback from calls from applicants, trends in application errors, user surveys, and learnings from training new processing agents are regularly routed to the team, who use them to prioritize service improvement work.&nbsp;</p>
 
 
 
@@ -105,5 +105,5 @@ translationKey: listening-to-users-moving-from-a-paper-based-process-to-a-digita
 
 
 
-<p>Besides listening to, learning from, and testing with users to improve its service, the team credits having <strong>a senior leader championing their work as a key condition for success</strong>. It’s fundamental to have a sponsor in senior leadership to create space for the team to experiment and learn, and to clearly articulate the value and impact of the work. The project sponsor for the RCMP is a consistent supporter, and pushed for the team to operate in an agile, multidisciplinary environment from the very start. <br><br>Are you a public servant working on improving services for people in Canada? <a href="mailto:CDS-SNC@tbs-sct.gc.ca" target="_blank" rel="noreferrer noopener">Share your story with us!</a></p>
+<p>Besides listening to, learning from, and testing with users to improve its service, the team credits having <strong>a senior leader championing their work as a key condition for success</strong>. It’s fundamental to have a sponsor in senior leadership to create space for the team to experiment and learn, and to clearly articulate the value and impact of the work. The project sponsor for the RCMP is a consistent supporter, and pushed for the team to operate in an agile, multidisciplinary environment from the very start.&nbsp;<br><br>Are you a public servant working on improving services for people in Canada? <a href="mailto:CDS-SNC@tbs-sct.gc.ca" target="_blank" rel="noreferrer noopener">Share your story with us!</a></p>
 
