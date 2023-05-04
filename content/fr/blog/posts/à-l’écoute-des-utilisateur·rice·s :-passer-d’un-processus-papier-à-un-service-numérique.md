@@ -8,7 +8,7 @@ date: '2023-05-04T15:19:18'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/05/RCMPDigitalServicesBlog_Blog_Post_FR-scaled.jpg
 image-alt: un dessin illustrant un tas de feuilles de papier qui passent d’un dossier à un système numérique dans un ordinateur portable.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/05/RCMPDigitalServicesBlog_Blog_Post_FR-scaled.jpg
-translationKey: blogue-solution-numerique-grc
+translationKey: blog-digital-solution-rcmp
 ---
 
 <p>Les personnes qui accèdent aux services publics se demandent souvent pourquoi c’est si compliqué. En effet, les utilisateur·rice·s ont du mal à accéder aux services dont ils ont besoin en raison de systèmes obsolètes et de procédures fastidieuses. L’ampleur des problèmes peut sembler décourageante, mais heureusement des équipes pluridisciplinaires travaillent au sein des ministères à améliorer la manière de livrer ces services. Dans cette série, nous expliquerons le travail mené par ces équipes et montrerons en quoi consiste une bonne prestation de services numériques.<br><br>L’article d’aujourd’hui est consacré à Emma MacNeil de l’équipe de Solution de services en ligne du Programme canadien des armes à feu (SSLPCAF) de la Gendarmerie Royale du Canada (GRC). Elle nous parle du travail réalisé par son équipe et de la façon dont leur approche centrée sur les utilisateur·rice·s a permis de convertir un processus papier en un service entièrement numérique.</p>
