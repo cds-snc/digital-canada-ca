@@ -8,7 +8,7 @@ date: '2023-05-04T15:19:31'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/05/RCMPDigitalServicesBlog_Blog_Post-scaled.jpg
 image-alt: A graphic illustration of paper files in a folder moving to a digital system on a laptop.
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/05/RCMPDigitalServicesBlog_Blog_Post-scaled.jpg
-translationKey: listening-to-users-moving-from-a-paper-based-process-to-a-digital-service
+translationKey: blog-digital-solution-rcmp
 ---
 
 <p>People accessing government services often ask themselves &#8211; why is this so complicated? Outdated legacy systems and burdensome processes make it difficult for Canadians to get access to the services they need.&nbsp; The scale of the problems can be daunting, but thankfully there are multidisciplinary teams working in departments across government to improve how these services are delivered. In this series, we’ll be highlighting the work of these teams, and showing what good looks like in digital service delivery.&nbsp;</p>
