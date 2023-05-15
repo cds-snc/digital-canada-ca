@@ -1,0 +1,44 @@
+name: "Terraform Apply Production"
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "terragrunt/**"
+      - ".github/workflows/tf_apply_production.yml"
+
+env:
+  AWS_REGION: ca-central-1
+  TERRAFORM_VERSION: 1.4.6
+  TERRAGRUNT_VERSION: 0.45.11
+  CONFTEST_VERSION: 0.42.1
+
+permissions:
+  id-token: write
+  contents: read
+  pull-requests: write
+  actions: write
+  checks: write
+  statuses: write
+  
+jobs:
+  terragrunt-apply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3.0.2
+
+      - name: setup terraform tools
+        uses: cds-snc/terraform-tools-setup@v1
+
+      - name: configure aws credentials using OIDC
+        uses: aws-actions/configure-aws-credentials@67fbcbb121271f7775d2e7715933280b06314838 # tag=v1.7.0
+        with:
+          role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-apply  # TF apply
+          role-session-name: TFApply
+          aws-region: ${{ env.AWS_REGION }}
+
+      - name: Terraform Apply
+        working-directory: terragrunt/env/production/
+        run: terragrunt apply --terragrunt-non-interactive -auto-approve           

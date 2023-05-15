@@ -1,0 +1,48 @@
+name: "Terraform Plan"
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+    - "terragrunt/**"
+    - ".github/workflows/tf_plan_production.yml"
+
+env:
+  AWS_REGION: ca-central-1
+  TERRAFORM_VERSION: 1.4.6
+  TERRAGRUNT_VERSION: 0.45.11
+  CONFTEST_VERSION: 0.42.1
+
+permissions:
+  id-token: write
+  contents: read
+  pull-requests: write
+  actions: write
+  checks: write
+  statuses: write
+
+jobs:
+  terragrunt-plan:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3.0.2
+
+    - name: set up terraform tools
+      uses: cds-snc/terraform-tools-setup@v1
+
+    - name: configure aws credentials using OIDC
+      uses: aws-actions/configure-aws-credentials@67fbcbb121271f7775d2e7715933280b06314838 # tag=v1.7.0
+      role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-plan   # TF plan
+      role-session-name: TFPlan
+      aws-region: ${{ env.AWS_REGION }}
+
+    - name: Terraform Plan
+      uses: cds-snc/terraform-plan@5dabd36aabffca551363241c9a4032f81eb6cab1 # tag=v2.2.0
+      with:
+        comment-delete: true
+        comment-title: "Production"
+        directory: terragrunt/env/production/
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        terragrunt: true   
+
