@@ -19,11 +19,11 @@ variable "billing_code" {
   type        = string
 }
 variable "domain" {
-  description = "Domain name of the simplify privacy statements app"
+  description = "Domain name of the CDS Website"
   type        = string
 }
 variable "fr_domain" {
-  description = "French domain name of the simplify privacy statements app"
+  description = "French domain name of the CDS Website"
   type        = string
 }
 variable "cbs_satellite_bucket_name" {
