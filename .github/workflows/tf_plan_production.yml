@@ -38,9 +38,10 @@ jobs:
 
     - name: configure aws credentials using OIDC
       uses: aws-actions/configure-aws-credentials@67fbcbb121271f7775d2e7715933280b06314838 # tag=v1.7.0
-      role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-plan   # TF plan
-      role-session-name: TFPlan
-      aws-region: ${{ env.AWS_REGION }}
+      with:
+        role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-plan   # TF plan
+        role-session-name: TFPlan
+        aws-region: ${{ env.AWS_REGION }}
 
     - name: Terraform Plan
       uses: cds-snc/terraform-plan@5dabd36aabffca551363241c9a4032f81eb6cab1 # tag=v2.2.0
