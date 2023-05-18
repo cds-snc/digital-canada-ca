@@ -39,6 +39,6 @@ jobs:
           role-session-name: TFApply
           aws-region: ${{ env.AWS_REGION }}
 
-      - name: Terraform Apply
-        working-directory: terragrunt/env/production/
+      - name: Terraform Apply S3
+        working-directory: terragrunt/env/production/s3
         run: terragrunt apply --terragrunt-non-interactive -auto-approve           

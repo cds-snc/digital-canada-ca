@@ -23,6 +23,11 @@ permissions:
 
 jobs:
   terragrunt-plan:
+    strategy:
+      matrix:
+        include:
+          - module: s3
+          
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
