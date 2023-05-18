@@ -23,6 +23,12 @@ permissions:
 
 jobs:
   terragrunt-plan:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - module: s3
+
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
@@ -33,16 +39,17 @@ jobs:
 
     - name: configure aws credentials using OIDC
       uses: aws-actions/configure-aws-credentials@67fbcbb121271f7775d2e7715933280b06314838 # tag=v1.7.0
-      role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-plan   # TF plan
-      role-session-name: TFPlan
-      aws-region: ${{ env.AWS_REGION }}
+      with:
+        role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-plan   # TF plan
+        role-session-name: TFPlan
+        aws-region: ${{ env.AWS_REGION }}
 
     - name: Terraform Plan
-      uses: cds-snc/terraform-plan@5dabd36aabffca551363241c9a4032f81eb6cab1 # tag=v2.2.0
+      uses: cds-snc/terraform-plan@v3.0.4
       with:
         comment-delete: true
-        comment-title: "Production"
-        directory: terragrunt/env/production/
+        comment-title: "Production: ${{ matrix.module }}"
+        directory: terragrunt/env/production/${{ matrix.module }}
         github-token: ${{ secrets.GITHUB_TOKEN }}
         terragrunt: true   
 
