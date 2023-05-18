@@ -1,7 +1,12 @@
 module "s3_buckets" {
-  source            = "github.com/cds-snc/terraform-modules?ref=v5.1.8//S3"
-  for_each          = var.buckets
-  bucket_name       = each.key
+  source      = "github.com/cds-snc/terraform-modules?ref=v5.1.8//S3"
+  for_each    = var.buckets
+  bucket_name = each.key
+
+  logging = {
+    target_bucket = module.log_bucket.s3_bucket_id
+  }
+
   billing_tag_value = var.billing_code
 }
 

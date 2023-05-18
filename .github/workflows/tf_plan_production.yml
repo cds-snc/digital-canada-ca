@@ -24,6 +24,7 @@ permissions:
 jobs:
   terragrunt-plan:
     strategy:
+      fail-fast: false
       matrix:
         include:
           - module: s3
@@ -44,7 +45,7 @@ jobs:
         aws-region: ${{ env.AWS_REGION }}
 
     - name: Terraform Plan
-      uses: cds-snc/terraform-plan@5dabd36aabffca551363241c9a4032f81eb6cab1 # tag=v2.2.0
+      uses: cds-snc/terraform-plan@v3.0.4
       with:
         comment-delete: true
         comment-title: "Production: ${{ matrix.module }}"
