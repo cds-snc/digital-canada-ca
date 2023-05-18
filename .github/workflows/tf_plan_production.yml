@@ -27,7 +27,7 @@ jobs:
       matrix:
         include:
           - module: s3
-          
+
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
@@ -46,8 +46,8 @@ jobs:
       uses: cds-snc/terraform-plan@5dabd36aabffca551363241c9a4032f81eb6cab1 # tag=v2.2.0
       with:
         comment-delete: true
-        comment-title: "Production"
-        directory: terragrunt/env/production/
+        comment-title: "Production: ${{ matrix.module }}"
+        directory: terragrunt/env/production/${{ matrix.module }}
         github-token: ${{ secrets.GITHUB_TOKEN }}
         terragrunt: true   
 
