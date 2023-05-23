@@ -28,6 +28,7 @@ jobs:
       matrix:
         include:
           - module: s3
+          - module: cloudfront
 
     runs-on: ubuntu-latest
     steps:
