@@ -35,7 +35,7 @@ translationKey: blog-work-open-community
 
 
 
-<h2 id="h-travailler-ouvertement-c-est-loin-d-etre-simple">Travailler ouvertement, c’est loin d’être simple</h2>
+<h2 class="wp-block-heading" id="h-travailler-ouvertement-c-est-loin-d-etre-simple">Travailler ouvertement, c’est loin d’être simple</h2>
 
 
 
@@ -63,7 +63,7 @@ translationKey: blog-work-open-community
 
 
 
-<h2 id="h-une-dose-d-humilite">Une dose d’humilité</h2>
+<h2 class="wp-block-heading" id="h-une-dose-d-humilite">Une dose d’humilité</h2>
 
 
 
@@ -83,7 +83,7 @@ translationKey: blog-work-open-community
 
 
 
-<h2 id="h-un-sentiment-de-communaute">Un sentiment de communauté</h2>
+<h2 class="wp-block-heading" id="h-un-sentiment-de-communaute">Un sentiment de communauté</h2>
 
 
 
@@ -107,7 +107,7 @@ translationKey: blog-work-open-community
 
 
 
-<h2 id="h-joignez-vous-au-mouvement">Joignez-vous au mouvement!</h2>
+<h2 class="wp-block-heading" id="h-joignez-vous-au-mouvement">Joignez-vous au mouvement!</h2>
 
 
 
