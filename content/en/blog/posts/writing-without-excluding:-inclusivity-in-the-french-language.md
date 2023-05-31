@@ -23,7 +23,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 id="h-the-government-of-canada-bilingualism-and-inclusivity"><strong>The Government of Canada: Bilingualism and inclusivity</strong></h2>
+<h2 class="wp-block-heading" id="h-the-government-of-canada-bilingualism-and-inclusivity"><strong>The Government of Canada: Bilingualism and inclusivity</strong></h2>
 
 
 
@@ -31,7 +31,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 id="h-french-a-gendered-binary-language"><strong>French: A gendered, binary language</strong></h2>
+<h2 class="wp-block-heading" id="h-french-a-gendered-binary-language"><strong>French: A gendered, binary language</strong></h2>
 
 
 
@@ -43,7 +43,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 id="h-potential-solutions"><strong>Potential solutions</strong></h2>
+<h2 class="wp-block-heading" id="h-potential-solutions"><strong>Potential solutions</strong></h2>
 
 
 
@@ -91,7 +91,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 id="h-cds-s-solution-a-lot-of-epicene-writing-and-some-interpuncts"><strong>CDS’s solution: A lot of epicene writing and some interpuncts</strong></h2>
+<h2 class="wp-block-heading" id="h-cds-s-solution-a-lot-of-epicene-writing-and-some-interpuncts"><strong>CDS’s solution: A lot of epicene writing and some interpuncts</strong></h2>
 
 
 
