@@ -23,7 +23,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h2 id="h-des-conseils-nourris-d-experience"><strong>Des conseils nourris d’expérience</strong></h2>
+<h2 class="wp-block-heading" id="h-des-conseils-nourris-d-experience"><strong>Des conseils nourris d’expérience</strong></h2>
 
 
 
@@ -43,7 +43,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h2><strong>Comment pouvons-nous vous aider?&nbsp;</strong></h2>
+<h2 class="wp-block-heading"><strong>Comment pouvons-nous vous aider?&nbsp;</strong></h2>
 
 
 
@@ -83,7 +83,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h2><strong>Collaborer pour offrir de meilleurs services</strong></h2>
+<h2 class="wp-block-heading"><strong>Collaborer pour offrir de meilleurs services</strong></h2>
 
 
 
@@ -91,7 +91,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h3><strong>Ressources naturelles Canada, cartographie des inondations</strong></h3>
+<h3 class="wp-block-heading"><strong>Ressources naturelles Canada, cartographie des inondations</strong></h3>
 
 
 
@@ -103,7 +103,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h3><strong>Gouvernement ouvert : Outil de suivi du plan d’action national</strong></h3>
+<h3 class="wp-block-heading"><strong>Gouvernement ouvert : Outil de suivi du plan d’action national</strong></h3>
 
 
 
@@ -111,7 +111,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h2><strong>Nous sommes là pour vous écouter et pour vous aider</strong></h2>
+<h2 class="wp-block-heading"><strong>Nous sommes là pour vous écouter et pour vous aider</strong></h2>
 
 
 
