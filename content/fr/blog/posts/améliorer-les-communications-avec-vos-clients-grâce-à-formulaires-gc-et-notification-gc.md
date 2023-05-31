@@ -31,11 +31,11 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h2 class="has-text-align-left has-luminous-vivid-amber-background-color has-background" id="h-q1-en-quoi-consistait-le-projet-pilote-d-edsc"><strong>Q1. En quoi consistait le projet pilote d’EDSC? </strong></h2>
+<h2 class="has-text-align-left has-luminous-vivid-amber-background-color has-background wp-block-heading" id="h-q1-en-quoi-consistait-le-projet-pilote-d-edsc"><strong>Q1. En quoi consistait le projet pilote d’EDSC? </strong></h2>
 
 
 
-<h3 id="h-ameliorer-les-services-publics-grace-a-des-initiatives-numeriques"><strong>Améliorer les services publics grâce à des initiatives numériques</strong></h3>
+<h3 class="wp-block-heading" id="h-ameliorer-les-services-publics-grace-a-des-initiatives-numeriques"><strong>Améliorer les services publics grâce à des initiatives numériques</strong></h3>
 
 
 
@@ -63,7 +63,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h3 id="h-surmonter-des-difficultes-grace-aux-produits-du-snc"><strong>Surmonter des difficultés grâce aux produits du SNC</strong></h3>
+<h3 class="wp-block-heading" id="h-surmonter-des-difficultes-grace-aux-produits-du-snc"><strong>Surmonter des difficultés grâce aux produits du SNC</strong></h3>
 
 
 
@@ -135,11 +135,11 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h2 class="has-text-align-left has-luminous-vivid-amber-background-color has-background" id="h-q3-selon-vous-pourquoi-vos-pairs-devraient-ils-envisager-d-utiliser-formulaires-gc-et-notification-gc"><strong>Q3. Selon vous, pourquoi vos pairs devraient-ils envisager d’utiliser Formulaires GC et Notification GC?</strong></h2>
+<h2 class="has-text-align-left has-luminous-vivid-amber-background-color has-background wp-block-heading" id="h-q3-selon-vous-pourquoi-vos-pairs-devraient-ils-envisager-d-utiliser-formulaires-gc-et-notification-gc"><strong>Q3. Selon vous, pourquoi vos pairs devraient-ils envisager d’utiliser Formulaires GC et Notification GC?</strong></h2>
 
 
 
-<h3 id="h-formulaires-gc-et-notification-gc-repondent-a-vos-besoins-et-a-ceux-du-public"><strong>Formulaires GC et Notification GC répondent à vos besoins et à ceux du public</strong></h3>
+<h3 class="wp-block-heading" id="h-formulaires-gc-et-notification-gc-repondent-a-vos-besoins-et-a-ceux-du-public"><strong>Formulaires GC et Notification GC répondent à vos besoins et à ceux du public</strong></h3>
 
 
 
@@ -155,7 +155,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h3 id="h-retroaction-pour-l-amelioration-du-produit"><strong>Rétroaction pour l’amélioration du produit</strong></h3>
+<h3 class="wp-block-heading" id="h-retroaction-pour-l-amelioration-du-produit"><strong>Rétroaction pour l’amélioration du produit</strong></h3>
 
 
 
@@ -171,7 +171,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h2 id="h-le-mot-de-la-fin"><strong>Le mot de la fin…</strong></h2>
+<h2 class="wp-block-heading" id="h-le-mot-de-la-fin"><strong>Le mot de la fin…</strong></h2>
 
 
 
