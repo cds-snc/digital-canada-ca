@@ -15,7 +15,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3 id="h-plus-qu-un-acronyme-que-fait-la-sslpcaf"><strong>Plus qu’un acronyme : que fait la SSLPCAF?</strong></h3>
+<h3 class="wp-block-heading" id="h-plus-qu-un-acronyme-que-fait-la-sslpcaf"><strong>Plus qu’un acronyme : que fait la SSLPCAF?</strong></h3>
 
 
 
@@ -23,7 +23,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3 id="h-formulaires-en-papier-timbres-postaux-et-enveloppes-le-passe"><strong>Formulaires en papier, timbres postaux et enveloppes (le passé)</strong></h3>
+<h3 class="wp-block-heading" id="h-formulaires-en-papier-timbres-postaux-et-enveloppes-le-passe"><strong>Formulaires en papier, timbres postaux et enveloppes (le passé)</strong></h3>
 
 
 
@@ -35,7 +35,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3 id="h-ecoute-apprentissage-et-tests-aupres-des-utilisateur-rice-s"><strong>Écoute, apprentissage et tests auprès des utilisateur·rice·s</strong></h3>
+<h3 class="wp-block-heading" id="h-ecoute-apprentissage-et-tests-aupres-des-utilisateur-rice-s"><strong>Écoute, apprentissage et tests auprès des utilisateur·rice·s</strong></h3>
 
 
 
@@ -61,7 +61,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3 id="h-lecons-a-tirer-des-personnes-qui-choisissent-de-ne-pas-utiliser-notre-service"><strong>Leçons à tirer des personnes qui choisissent <em>de ne pas </em>utiliser notre service</strong></h3>
+<h3 class="wp-block-heading" id="h-lecons-a-tirer-des-personnes-qui-choisissent-de-ne-pas-utiliser-notre-service"><strong>Leçons à tirer des personnes qui choisissent <em>de ne pas </em>utiliser notre service</strong></h3>
 
 
 
@@ -73,7 +73,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3 id="h-completement-numerique-simplifie-mais-responsable"><strong>Complètement numérique (simplifié, mais responsable)</strong></h3>
+<h3 class="wp-block-heading" id="h-completement-numerique-simplifie-mais-responsable"><strong>Complètement numérique (simplifié, mais responsable)</strong></h3>
 
 
 
@@ -81,7 +81,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3 id="h-quelques-mots-pour-conclure"><strong>Quelques mots pour conclure</strong></h3>
+<h3 class="wp-block-heading" id="h-quelques-mots-pour-conclure"><strong>Quelques mots pour conclure</strong></h3>
 
 
 
