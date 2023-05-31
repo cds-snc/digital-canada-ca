@@ -49,5 +49,5 @@ L’une des meilleures surprises de nos critiques : nous en apprenons davantage 
 
 Dans l’ensemble, je suis tellement ravie de nos critiques d’équipe. Si vous et votre équipe avez besoin d’un moyen rapide et efficace d’améliorer vos compétences, je vous conseille fortement une dose quotidienne de critique de contenu!
 
-N’hésitez pas à [m’écrire](mailto:kate.wilhelm@cds-snc.ca) pour en savoir plus. 
+N’hésitez pas à [nous ’écrire](mailto:CDS-SNC@tbs-sct.gc.ca) pour en savoir plus. 
 
