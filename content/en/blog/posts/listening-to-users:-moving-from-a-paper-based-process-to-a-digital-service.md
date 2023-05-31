@@ -19,7 +19,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3 id="h-untangling-an-acronym-cfdss-and-the-work-they-do"><strong>Untangling an acronym: CFDSS and the work they do&nbsp;</strong></h3>
+<h3 class="wp-block-heading" id="h-untangling-an-acronym-cfdss-and-the-work-they-do"><strong>Untangling an acronym: CFDSS and the work they do&nbsp;</strong></h3>
 
 
 
@@ -31,7 +31,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3 id="h-paper-forms-stamps-and-an-envelope-the-before"><strong>Paper forms, stamps and an envelope (the before)</strong></h3>
+<h3 class="wp-block-heading" id="h-paper-forms-stamps-and-an-envelope-the-before"><strong>Paper forms, stamps and an envelope (the before)</strong></h3>
 
 
 
@@ -43,7 +43,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3><strong>Listening to, learning from, and testing with users</strong></h3>
+<h3 class="wp-block-heading"><strong>Listening to, learning from, and testing with users</strong></h3>
 
 
 
@@ -77,7 +77,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3><strong>What we can learn from people who choose <em>not </em>to use our service</strong></h3>
+<h3 class="wp-block-heading"><strong>What we can learn from people who choose <em>not </em>to use our service</strong></h3>
 
 
 
@@ -89,7 +89,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3><strong>Digital from end- to-end (streamlined, but responsible) </strong></h3>
+<h3 class="wp-block-heading"><strong>Digital from end- to-end (streamlined, but responsible) </strong></h3>
 
 
 
@@ -101,7 +101,7 @@ translationKey: blog-digital-solution-rcmp
 
 
 
-<h3><strong>Some parting words of wisdom&nbsp;</strong></h3>
+<h3 class="wp-block-heading"><strong>Some parting words of wisdom&nbsp;</strong></h3>
 
 
 
