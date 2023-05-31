@@ -19,7 +19,7 @@ translationKey: blog-privacy-notices
 
 
 
-<h2 id="h-it-takes-a-village"><strong>It takes a village</strong></h2>
+<h2 class="wp-block-heading" id="h-it-takes-a-village"><strong>It takes a village</strong></h2>
 
 
 
@@ -57,7 +57,7 @@ translationKey: blog-privacy-notices
 
 
 
-<h2><strong>Communicating privacy in the context of services you’re building</strong></h2>
+<h2 class="wp-block-heading"><strong>Communicating privacy in the context of services you’re building</strong></h2>
 
 
 
@@ -73,7 +73,7 @@ translationKey: blog-privacy-notices
 
 
 
-<h2><strong>A stepping stone to simpler privacy notices everywhere</strong></h2>
+<h2 class="wp-block-heading"><strong>A stepping stone to simpler privacy notices everywhere</strong></h2>
 
 
 
