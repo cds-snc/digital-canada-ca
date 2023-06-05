@@ -1,5 +1,6 @@
 resource "aws_wafv2_web_acl" "cds_website_waf" {
-  provider    = aws.us-east-1
+  provider = aws.us-east-1
+
   name        = "cds_website_waf"
   description = "WAF for CDS Website"
   scope       = "CLOUDFRONT"
@@ -21,6 +22,7 @@ resource "aws_wafv2_web_acl" "cds_website_waf" {
       none {}
     }
 
+
     statement {
       managed_rule_group_statement {
         name        = "AWSManagedRulesAmazonIpReputationList"
@@ -33,8 +35,6 @@ resource "aws_wafv2_web_acl" "cds_website_waf" {
       metric_name                = "AWSManagedRulesAmazonIpReputationList"
       sampled_requests_enabled   = true
     }
-
-
   }
 
   rule {
@@ -45,18 +45,21 @@ resource "aws_wafv2_web_acl" "cds_website_waf" {
       block {}
     }
 
+
     statement {
       rate_based_statement {
         limit              = 2000
         aggregate_key_type = "IP"
       }
     }
+
+    visibility_config {
+      cloudwatch_metrics_enabled = true
+      metric_name                = "APIRateLimit"
+      sampled_requests_enabled   = true
+    }
   }
-  visibility_config {
-    cloudwatch_metrics_enabled = true
-    metric_name                = "APIRateLimit"
-    sampled_requests_enabled   = true
-  }
+
   rule {
     name     = "AWSManagedRulesCommonRuleSet"
     priority = 30
@@ -78,6 +81,7 @@ resource "aws_wafv2_web_acl" "cds_website_waf" {
       sampled_requests_enabled   = true
     }
   }
+
   rule {
     name     = "AWSManagedRulesKnownBadInputsRuleSet"
     priority = 40
@@ -122,13 +126,12 @@ resource "aws_wafv2_web_acl" "cds_website_waf" {
       sampled_requests_enabled   = true
     }
   }
-  rule {
-    name     = "APIInvalidPath"
-    priority = 5
-    action {
-      block {}
-    }
-  }
+
+#   visibility_config {
+#     cloudwatch_metrics_enabled = true
+#     metric_name                = "api"
+#     sampled_requests_enabled   = false
+#   }
 }
 
 resource "aws_cloudwatch_log_group" "cds_website_waf" {
