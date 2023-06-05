@@ -6,10 +6,11 @@ resource "aws_cloudfront_distribution" "distribution" {
   for_each            = var.s3_bucket_regional_domain_name
   default_root_object = "index.html"
   enabled             = true
+  web_acl_id          = aws_wafv2_web_acl.cds_website_waf.arn
 
   default_cache_behavior {
     target_origin_id       = each.value
-    viewer_protocol_policy = "allow-all"
+    viewer_protocol_policy = "redirect-to-https"
     allowed_methods        = ["DELETE", "GET", "HEAD", "OPTIONS", "PATCH", "POST", "PUT"]
     cached_methods = [
       "GET",
@@ -39,7 +40,16 @@ resource "aws_cloudfront_distribution" "distribution" {
   }
 
   viewer_certificate {
-    cloudfront_default_certificate = true
-    minimum_protocol_version       = "TLSv1"
+    minimum_protocol_version = "TLSv1.2_2021"
+  }
+  logging_config {
+    include_cookies = false
+    bucket          = module.log_bucket.s3_bucket_domain_name
+    prefix          = "cloudfront"
+  }
+
+  tags = {
+    CostCentre = var.billing_code
+    Terraform  = true
   }
 }
