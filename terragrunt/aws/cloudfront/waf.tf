@@ -127,11 +127,11 @@ resource "aws_wafv2_web_acl" "cds_website_waf" {
     }
   }
 
-    visibility_config {
-      cloudwatch_metrics_enabled = true
-      metric_name                = "api"
-      sampled_requests_enabled   = false
-    }
+  visibility_config {
+    cloudwatch_metrics_enabled = true
+    metric_name                = "api"
+    sampled_requests_enabled   = false
+  }
 }
 
 resource "aws_cloudwatch_log_group" "cds_website_waf" {
