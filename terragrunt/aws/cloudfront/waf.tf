@@ -38,7 +38,7 @@ resource "aws_wafv2_web_acl" "cds_website_waf" {
   }
 
   rule {
-    name     = "APIRateLimit"
+    name     = "RateLimit"
     priority = 20
 
     action {
@@ -55,7 +55,7 @@ resource "aws_wafv2_web_acl" "cds_website_waf" {
 
     visibility_config {
       cloudwatch_metrics_enabled = true
-      metric_name                = "APIRateLimit"
+      metric_name                = "RateLimit"
       sampled_requests_enabled   = true
     }
   }
@@ -101,28 +101,6 @@ resource "aws_wafv2_web_acl" "cds_website_waf" {
     visibility_config {
       cloudwatch_metrics_enabled = true
       metric_name                = "AWSManagedRulesKnownBadInputsRuleSet"
-      sampled_requests_enabled   = true
-    }
-  }
-
-  rule {
-    name     = "AWSManagedRulesLinuxRuleSet"
-    priority = 50
-
-    override_action {
-      none {}
-    }
-
-    statement {
-      managed_rule_group_statement {
-        name        = "AWSManagedRulesLinuxRuleSet"
-        vendor_name = "AWS"
-      }
-    }
-
-    visibility_config {
-      cloudwatch_metrics_enabled = true
-      metric_name                = "AWSManagedRulesLinuxRuleSet"
       sampled_requests_enabled   = true
     }
   }
