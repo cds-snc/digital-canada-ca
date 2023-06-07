@@ -3,15 +3,13 @@ resource "aws_cloudfront_origin_access_identity" "origin_access_identity" {
 }
 
 resource "aws_cloudfront_distribution" "distribution" {
-  for_each            = var.website_domains
-  aliases             = [each.value]
+  for_each            = var.s3_bucket_regional_domain_name
   default_root_object = "index.html"
   enabled             = true
   price_class         = "PriceClass_All"
   web_acl_id          = aws_wafv2_web_acl.cds_website_waf.arn
 
   default_cache_behavior {
-    for_each               = var.s3_bucket_regional_domain_name
     target_origin_id       = each.value
     viewer_protocol_policy = "redirect-to-https"
     allowed_methods        = ["GET", "HEAD", "OPTIONS"]
