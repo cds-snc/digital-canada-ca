@@ -19,7 +19,7 @@ translationKey: blog-privacy-notices
 
 
 
-<h2 id="h-un-travail-d-equipe"><strong>Un travail d’équipe</strong></h2>
+<h2 class="wp-block-heading" id="h-un-travail-d-equipe"><strong>Un travail d’équipe</strong></h2>
 
 
 
@@ -57,7 +57,7 @@ translationKey: blog-privacy-notices
 
 
 
-<h2><strong>Communiquer sur la vie privée dans le contexte des services que vous mettez en place</strong></h2>
+<h2 class="wp-block-heading"><strong>Communiquer sur la vie privée dans le contexte des services que vous mettez en place</strong></h2>
 
 
 
@@ -73,7 +73,7 @@ translationKey: blog-privacy-notices
 
 
 
-<h2 id="h-un-point-de-depart-pour-la-simplification-de-tous-les-avis-de-confidentialite"><strong>Un point de départ pour la simplification de tous les avis de confidentialité</strong></h2>
+<h2 class="wp-block-heading" id="h-un-point-de-depart-pour-la-simplification-de-tous-les-avis-de-confidentialite"><strong>Un point de départ pour la simplification de tous les avis de confidentialité</strong></h2>
 
 
 
