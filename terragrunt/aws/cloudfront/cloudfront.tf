@@ -6,6 +6,7 @@ resource "aws_cloudfront_distribution" "distribution" {
   for_each            = var.s3_bucket_regional_domain_name
   default_root_object = "index.html"
   enabled             = true
+  aliases             = [each.key]
   price_class         = "PriceClass_All"
   web_acl_id          = aws_wafv2_web_acl.cds_website_waf.arn
 
