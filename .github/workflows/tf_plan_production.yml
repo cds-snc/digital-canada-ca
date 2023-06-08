@@ -28,6 +28,7 @@ jobs:
       matrix:
         include:
           - module: s3
+          - module: hosted_zone 
 
     runs-on: ubuntu-latest
     steps:

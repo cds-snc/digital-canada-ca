@@ -41,4 +41,8 @@ jobs:
 
       - name: Terraform Apply S3
         working-directory: terragrunt/env/production/s3
-        run: terragrunt apply --terragrunt-non-interactive -auto-approve           
+        run: terragrunt apply --terragrunt-non-interactive -auto-approve
+
+      - name: Terraform Apply Hosted Zone
+        working-directory: terragrunt/env/production/hosted_zone
+        run: terragrunt apply --terragrunt-non-interactive -auto-approve
