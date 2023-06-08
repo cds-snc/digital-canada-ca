@@ -3,7 +3,7 @@ terraform {
 }
 
 dependencies {
-    paths = ["../s3"]
+    paths = ["../s3", "../hosted_zone"]
 }
 
 dependency "s3" {
@@ -14,6 +14,8 @@ dependency "s3" {
         s3_bucket_regional_domain_name = []
     }
 }
+
+
 
 inputs = {
     s3_bucket_regional_domain_name = dependency.s3.outputs.s3_bucket_regional_domain_name
