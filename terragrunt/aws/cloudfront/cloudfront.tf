@@ -18,6 +18,7 @@ resource "aws_cloudfront_distribution" "distribution" {
       "GET",
       "HEAD",
     ]
+    compress                   = true
     cache_policy_id            = local.cloudfront_cache_policy_optimized
     origin_request_policy_id   = local.cloudfront_origin_request_policy_cors_s3origin
     response_headers_policy_id = local.cloudfront_response_headers_policy_cors_preflight
