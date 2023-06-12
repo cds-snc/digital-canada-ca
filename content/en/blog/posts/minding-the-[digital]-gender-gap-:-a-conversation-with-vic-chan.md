@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'Minding the [digital] gender gap &#8211; A conversation with Vic Chan'
+title: 'Minding the [digital] gender gap : A conversation with Vic Chan'
 description: >-
   Victoria Chan, CDS website team lead shares her thoughts as a BIPOC woman in tech, on the benefits of investing in employee career development, and more.
 author: 'Vic Chan'
