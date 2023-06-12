@@ -1,14 +1,4 @@
 exec:
-  - archived: true
-    name: Aaron Snow
-    title:
-      en: Chief Executive Officer
-      fr: Président-directeur général
-    imagehash: aaron_snow2_3d68f68391
-    email: aaron.snow@tbs-sct.gc.ca
-    github: aaronsnow
-    linkedin: aaronsnow
-    twitter: aaronsnow
   - archived: false
     name: Alex MacEachern
     title:
@@ -18,14 +8,6 @@ exec:
     email: Alex.MacEachern@tbs-sct.gc.ca
     linkedin: alexandra-maceachern-4b0209b2
     twitter: amaceachern123
-  - archived: true
-    name: Anatole Papadopoulos
-    title:
-      en: Acting Chief Executive Officer
-      fr: Président-directeur général par intérim
-    imagehash: anatole_papadopoulos_b4da501172
-    email: Anatole.Papadopoulos@tbs-sct.gc.ca
-    twitter: anatolep
   - archived: true
     name: Andrea Gilbrook
     title:
