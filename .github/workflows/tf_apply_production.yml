@@ -46,3 +46,7 @@ jobs:
       - name: Terraform Apply Hosted Zone
         working-directory: terragrunt/env/production/hosted_zone
         run: terragrunt apply --terragrunt-non-interactive -auto-approve
+
+      - name: Terraform Apply Cloudfront
+        working-directory: terragrunt/env/production/cloudfront
+        run: terragrunt apply --terragrunt-non-interactive -auto-approve  
