@@ -5,6 +5,11 @@ variable "s3_bucket_regional_domain_name" {
 
 variable "website_domains" {
   description = "Website subdomains used for testing purposes"
-  type        = set(string)
+  type        = list(string)
   default     = ["digital.cdssandbox.xyz", "numerique.cdssandbox.xyz"]
+}
+
+variable "hosted_zone_id_list" {
+  description = "The hosted zone ID that holds our English and French DNS records"
+  type        = list(string)
 }
