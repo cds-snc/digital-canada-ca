@@ -1,13 +1,4 @@
 exec:
-  - archived: false
-    name: Alex MacEachern
-    title:
-      en: Director of Strategic Engagement
-      fr: Directrice de l'engagement stratégique
-    imagehash: alex_maceachern_0d6ca2eb31
-    email: Alex.MacEachern@tbs-sct.gc.ca
-    linkedin: alexandra-maceachern-4b0209b2
-    twitter: amaceachern123
   - archived: true
     name: Andrea Gilbrook
     title:
@@ -559,14 +550,6 @@ team:
     email: janice.lagiorgia@tbs-sct.gc.ca
     linkedin: janicelagiorgia/
   - archived: false
-    name: Javier Ponce de Leon
-    title:
-      en: Outreach 
-      fr: Liaison et diffusion
-    imagehash: small_javier_ponce_de_leon_46eb791680
-    email: javier.poncedeleon@tbs-sct.gc.ca
-    linkedin: /javierpdeleontranslator/
-  - archived: false
     name: Jeana Frost
     title:
       en: Design Research
@@ -724,15 +707,6 @@ team:
     github: mcman12
     twitter: mcman12
   - archived: true
-    name: Megan Beretta
-    title:
-      en: Policy
-      fr: Politiques
-    imagehash: meg_beretta_2733fad2e3
-    email: megan.beretta@tbs-sct.gc.ca
-    linkedin: meganberetta
-    twitter: megberetta
-  - archived: false
     name: Meghan Hellstern
     title:
       en: Policy
@@ -982,16 +956,6 @@ team:
       fr: Politiques
     imagehash: small_victoria_woodworth_lynas_493b5d5eba
     email: Victoria.Woodworth-Lynas@tbs-sct.gc.ca
-  - archived: false
-    name: Vivian Nobrega
-    title:
-      en: Partnerships
-      fr: Partenariats
-    imagehash: small_vivian_nobrega_b9e225e371
-    email: vivian.nobrega@tbs-sct.gc.ca
-    github: ShadeWyrm
-    linkedin: vivian-nobrega-782481160
-    twitter: ShadeWyrm
   - archived: false
     name: Wanpeng Yang
     title:
