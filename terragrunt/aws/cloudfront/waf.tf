@@ -124,7 +124,7 @@ resource "aws_cloudwatch_log_group" "cds_website_waf" {
 
 resource "aws_kinesis_firehose_delivery_stream" "cds_website_waf" {
   provider    = aws.us-east-1
-  name        = "aws-waf-log-cds-website"
+  name        = "aws-waf-logs-cds-website"
   destination = "extended_s3"
 
   server_side_encryption {
