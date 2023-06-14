@@ -1,13 +1,4 @@
 exec:
-  - archived: false
-    name: Alex MacEachern
-    title:
-      en: Director of Strategic Engagement
-      fr: Directrice de l'engagement stratégique
-    imagehash: alex_maceachern_0d6ca2eb31
-    email: Alex.MacEachern@tbs-sct.gc.ca
-    linkedin: alexandra-maceachern-4b0209b2
-    twitter: amaceachern123
   - archived: true
     name: Andrea Gilbrook
     title:
