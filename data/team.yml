@@ -17,6 +17,16 @@ exec:
     email: andreanne.trudeau@tbs-sct.gc.ca
     linkedin: andreannetrudeau
   - archived: false
+    name: Calvin Rodo
+    title:
+      en: Director of Core Services
+      fr: Directeur par intérim des services de base
+    imagehash: small_calvin_rodo_b56b0d044a
+    email: calvin.rodo@tbs-sct.gc.ca
+    github: CalvinRodo
+    linkedin: calvin-rodo-54396710
+    twitter: CalvinR
+  - archived: false
     name: Chelsea Novak
     title:
       en: Director of Outreach
@@ -318,16 +328,6 @@ team:
     imagehash: small_caitlin_tom_5d3d233ee2
     email: caitlin.tom@tbs-sct.gc.ca
     linkedin: caitlinmtom
-  - archived: false
-    name: Calvin Rodo
-    title:
-      en: Internal Site Reliability Engineering (SRE)
-      fr: Ingénierie de fiabilité des sites interne
-    imagehash: small_calvin_rodo_b56b0d044a
-    email: calvin.rodo@tbs-sct.gc.ca
-    github: CalvinRodo
-    linkedin: calvin-rodo-54396710
-    twitter: CalvinR
   - archived: true
     name: Cayce Fischer
     title:
