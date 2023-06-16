@@ -39,8 +39,8 @@ exec:
   - archived: false
     name: Eman El-Fayomi
     title:
-      en: Head of Learning Resources
-      fr: Cheffe des ressources d'apprentissage
+      en: Head of Service Design
+      fr: Cheffe de la conception des services
     imagehash: eman_elfayomi_f0738a4ba5
     email: Eman.El-Fayomi@tbs-sct.gc.ca
     linkedin: eelfayomi
@@ -208,8 +208,8 @@ team:
   - archived: false
     name: Alexa Davidson
     title:
-      en: Talent
-      fr: Talent
+      en: Outreach
+      fr: Outreach
     imagehash: alexa_davidson_4fd32774b7
     email: Alexa.Davidson@tbs-sct.gc.ca
   - archived: false
