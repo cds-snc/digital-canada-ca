@@ -17,6 +17,16 @@ exec:
     email: andreanne.trudeau@tbs-sct.gc.ca
     linkedin: andreannetrudeau
   - archived: false
+    name: Calvin Rodo
+    title:
+      en: Director of Core Services
+      fr: Directeur par intérim des services de base
+    imagehash: small_calvin_rodo_b56b0d044a
+    email: calvin.rodo@tbs-sct.gc.ca
+    github: CalvinRodo
+    linkedin: calvin-rodo-54396710
+    twitter: CalvinR
+  - archived: false
     name: Chelsea Novak
     title:
       en: Director of Outreach
@@ -95,8 +105,8 @@ exec:
   - archived: false
     name: Max Neuvians
     title:
-      en: Head of Internal Site Reliability Engineering (SRE)
-      fr: Chef de l’ingénierie de fiabilité des sites interne
+      en: Director of Internal Site Reliability Engineering (SRE)
+      fr: Directeur de l'ingénierie de fiabilité des sites internes
     imagehash: max_neuvians_75b0928209
     email: max.neuvians@cds-snc.ca
     github: maxneuvians
@@ -318,16 +328,6 @@ team:
     imagehash: small_caitlin_tom_5d3d233ee2
     email: caitlin.tom@tbs-sct.gc.ca
     linkedin: caitlinmtom
-  - archived: false
-    name: Calvin Rodo
-    title:
-      en: Internal Site Reliability Engineering (SRE)
-      fr: Ingénierie de fiabilité des sites interne
-    imagehash: small_calvin_rodo_b56b0d044a
-    email: calvin.rodo@tbs-sct.gc.ca
-    github: CalvinRodo
-    linkedin: calvin-rodo-54396710
-    twitter: CalvinR
   - archived: true
     name: Cayce Fischer
     title:
@@ -353,6 +353,14 @@ team:
     email: charlyne.lefebvre-paille@tbs-sct.gc.ca
     linkedin: /charlynelefebvrepaille/
     twitter: /CharLefPai
+  - archived: false
+    name: Cheng Ye
+    title:
+      en: Security and infrastructure
+      fr: Sécurité et infrastructure
+    imagehash: small_cheng_ye_5da39538a4
+    email: Cheng.Ye@tbs-sct.gc.ca
+    linkedin: cheng-gang-ye-5176a61
   - archived: false
     name: Ciara Cronin
     title:
@@ -424,8 +432,8 @@ team:
   - archived: false
     name: Dee Nguyen
     title:
-      en: Internal Site Reliability Engineering (SRE)
-      fr: Ingénierie de fiabilité des sites interne
+      en: Security and infrastructure
+      fr: Sécurité et infrastructure
     imagehash: dee_nguyen_4dd02d00c6
     email: dee.nguyen@tbs-sct.gc.ca
     github: dnngyn 
@@ -482,8 +490,8 @@ team:
   - archived: false
     name: Francois Moisan
     title:
-      en: Internal Site Reliability Engineering (SRE)
-      fr: Ingénierie de fiabilité des sites interne
+      en: Security and infrastructure
+      fr: Sécurité et infrastructure
     imagehash: francois_moisan_2335ae913c
     email: francois.moisan@tbs-sct.gc.ca
   - archived: false
@@ -974,8 +982,8 @@ team:
   - archived: false
     name: Wanpeng Yang
     title:
-      en: Internal Site Reliability Engineering (SRE)
-      fr: Ingénierie de fiabilité des sites interne
+      en: Security and infrastructure
+      fr: Sécurité et infrastructure
     imagehash: small_wanpeng_yang_da38652443
     email: wanpeng.yang@tbs-sct.gc.ca
     github: /wanpeng-cds
