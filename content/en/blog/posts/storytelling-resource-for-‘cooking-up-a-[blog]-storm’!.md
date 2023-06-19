@@ -31,7 +31,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<h2 id="h-working-in-the-open-through-blogs"><strong>‘Working in the open’ through blogs</strong></h2>
+<h2 class="wp-block-heading" id="h-working-in-the-open-through-blogs"><strong>‘Working in the open’ through blogs</strong></h2>
 
 
 
@@ -51,7 +51,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<h2 id="h-activity-brainstorming-blog-ingredients"><strong>Activity: Brainstorming blog ingredients!</strong> 🧑‍🍳 ⚡️</h2>
+<h2 class="wp-block-heading" id="h-activity-brainstorming-blog-ingredients"><strong>Activity: Brainstorming blog ingredients!</strong> 🧑‍🍳 ⚡️</h2>
 
 
 
@@ -79,7 +79,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<h3 id="h-10-ingredients-for-a-tasty-blog"><strong>10 ingredients for a <em>tasty</em> blog:</strong></h3>
+<h3 class="wp-block-heading" id="h-10-ingredients-for-a-tasty-blog"><strong>10 ingredients for a <em>tasty</em> blog:</strong></h3>
 
 
 
@@ -133,7 +133,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<h2><strong>Blog design ‘nuggets’ (tips)</strong></h2>
+<h2 class="wp-block-heading"><strong>Blog design ‘nuggets’ (tips)</strong></h2>
 
 
 
@@ -155,7 +155,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<h2><strong>Blog in the open with us!</strong></h2>
+<h2 class="wp-block-heading"><strong>Blog in the open with us!</strong></h2>
 
 
 

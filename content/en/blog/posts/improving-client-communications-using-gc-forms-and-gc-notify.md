@@ -31,11 +31,11 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h2 class="has-luminous-vivid-amber-background-color has-background" id="h-q1-what-was-the-project-about"><strong>Q1. What was the project about?</strong></h2>
+<h2 class="has-luminous-vivid-amber-background-color has-background wp-block-heading" id="h-q1-what-was-the-project-about"><strong>Q1. What was the project about?</strong></h2>
 
 
 
-<h3 id="h-impacting-government-services-through-digital-initiatives"><strong>Impacting government services through digital initiatives</strong></h3>
+<h3 class="wp-block-heading" id="h-impacting-government-services-through-digital-initiatives"><strong>Impacting government services through digital initiatives</strong></h3>
 
 
 
@@ -63,11 +63,11 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h2 class="has-text-align-left has-luminous-vivid-amber-background-color has-background" id="h-q2-how-did-gc-forms-and-gc-notify-help-improve-the-service"><strong>Q2. How did GC Forms and GC Notify help improve the service?</strong></h2>
+<h2 class="has-text-align-left has-luminous-vivid-amber-background-color has-background wp-block-heading" id="h-q2-how-did-gc-forms-and-gc-notify-help-improve-the-service"><strong>Q2. How did GC Forms and GC Notify help improve the service?</strong></h2>
 
 
 
-<h3 id="h-relieving-pain-points-using-cds-products"><strong>Relieving pain points using CDS products</strong></h3>
+<h3 class="wp-block-heading" id="h-relieving-pain-points-using-cds-products"><strong>Relieving pain points using CDS products</strong></h3>
 
 
 
@@ -143,11 +143,11 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h2 class="has-luminous-vivid-amber-background-color has-background" id="h-q3-why-do-you-think-public-servants-should-try-gc-forms-gc-notify"><strong>Q3. Why do you think public servants should try GC Forms &amp; GC Notify?</strong></h2>
+<h2 class="has-luminous-vivid-amber-background-color has-background wp-block-heading" id="h-q3-why-do-you-think-public-servants-should-try-gc-forms-gc-notify"><strong>Q3. Why do you think public servants should try GC Forms &amp; GC Notify?</strong></h2>
 
 
 
-<h3 id="h-gc-forms-gc-notify-meet-your-and-the-public-s-needs"><strong>GC Forms &amp; GC Notify meet your and the public’s needs</strong></h3>
+<h3 class="wp-block-heading" id="h-gc-forms-gc-notify-meet-your-and-the-public-s-needs"><strong>GC Forms &amp; GC Notify meet your and the public’s needs</strong></h3>
 
 
 
@@ -163,7 +163,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h3 id="h-feedback-on-product-improvement"><strong>Feedback on product improvement</strong></h3>
+<h3 class="wp-block-heading" id="h-feedback-on-product-improvement"><strong>Feedback on product improvement</strong></h3>
 
 
 
@@ -179,7 +179,7 @@ translationKey: blog-pbs-rachel-muston
 
 
 
-<h2 id="h-closing-thoughts"><strong>Closing thoughts</strong></h2>
+<h2 class="wp-block-heading" id="h-closing-thoughts"><strong>Closing thoughts</strong></h2>
 
 
 

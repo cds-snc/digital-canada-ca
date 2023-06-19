@@ -23,7 +23,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h2 id="h-advice-informed-by-experience"><strong>Advice informed by experience</strong></h2>
+<h2 class="wp-block-heading" id="h-advice-informed-by-experience"><strong>Advice informed by experience</strong></h2>
 
 
 
@@ -43,7 +43,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h2><strong>How can we help?&nbsp;</strong></h2>
+<h2 class="wp-block-heading"><strong>How can we help?&nbsp;</strong></h2>
 
 
 
@@ -83,7 +83,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h2><strong>Working together to deliver better services</strong></h2>
+<h2 class="wp-block-heading"><strong>Working together to deliver better services</strong></h2>
 
 
 
@@ -91,7 +91,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h3><strong>Natural Resources Canada- Flood mapping</strong></h3>
+<h3 class="wp-block-heading"><strong>Natural Resources Canada- Flood mapping</strong></h3>
 
 
 
@@ -103,7 +103,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h3><strong>Open Government &#8211; National Action Plan Tracker</strong></h3>
+<h3 class="wp-block-heading"><strong>Open Government &#8211; National Action Plan Tracker</strong></h3>
 
 
 
@@ -111,7 +111,7 @@ translationKey: blog-nov-24-22
 
 
 
-<h2><strong>We’re here to listen and ready to help</strong></h2>
+<h2 class="wp-block-heading"><strong>We’re here to listen and ready to help</strong></h2>
 
 
 

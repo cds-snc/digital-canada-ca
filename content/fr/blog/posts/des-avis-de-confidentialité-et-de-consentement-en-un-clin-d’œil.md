@@ -69,7 +69,7 @@ Qu’est-ce que ces tendances et le cadre fonctionnel nous permettent de faire? 
 Nos avis doivent toujours être soumis pour l’approbation de l’équipe d’AIPRP, mais nous avons fait passer de quelques jours à quelques minutes le temps nécessaire pour créer la première ébauche d’un avis. L’évaluation intégrale de certains avis est même passée de quelques semaines à un seul après-midi. Nous passons donc moins de temps à gérer des questions de bureaucratie et plus de temps à parler au public pour améliorer les services gouvernementaux.
 
 ## Essayez l’outil « Générer des avis de confidentialité et de consentement »
-Bien qu’à l’heure actuelle, l’outil soit destiné à une utilisation interne, vous pouvez en faire l’essai ici : **[Générer des avis de confidentialité et de consentement](https://privacy-statements.cds.alpha.canada.ca/fr/)**. 
+Bien qu’à l’heure actuelle, l’outil soit destiné à une utilisation interne, vous pouvez en faire l’essai ici : **[Générer des avis de confidentialité et de consentement](http://simplification-avis-confidentialite.alpha.canada.ca/)**. 
 
 Si vous êtes un fonctionnaire fédéral au Canada, nous travaillons à adapter l’outil pour une utilisation plus large. Nous prévoyons notamment en modifier les autorisations de collecte de renseignements pour en assurer l’utilité à tous les utilisateurs de la fonction publique. Restez donc à l’écoute pour toute nouvelle sur l’outil ou [écrivez-nous](mailto:CDS-SNC@tbs-sct.gc.ca) pour en savoir plus sur son adoption dans votre ministère!  
 

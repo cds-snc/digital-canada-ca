@@ -45,7 +45,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h2 id="h-q1-how-do-automated-accessibility-tests-help-with-development"><strong>Q1: How do automated accessibility tests help with development?</strong></h2>
+<h2 class="wp-block-heading" id="h-q1-how-do-automated-accessibility-tests-help-with-development"><strong>Q1: How do automated accessibility tests help with development?</strong></h2>
 
 
 
@@ -53,7 +53,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h3><strong>Automated testing isn’t perfect but it’s a start</strong></h3>
+<h3 class="wp-block-heading"><strong>Automated testing isn’t perfect but it’s a start</strong></h3>
 
 
 
@@ -153,7 +153,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h2><strong>Q2: The team also runs manual accessibility tests – why both?</strong></h2>
+<h2 class="wp-block-heading"><strong>Q2: The team also runs manual accessibility tests – why both?</strong></h2>
 
 
 
@@ -161,7 +161,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h3><strong>Manual tests help catch issues missed by automations</strong></h3>
+<h3 class="wp-block-heading"><strong>Manual tests help catch issues missed by automations</strong></h3>
 
 
 
@@ -203,7 +203,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h2><strong>Q3: How does design research improve product accessibility?</strong></h2>
+<h2 class="wp-block-heading"><strong>Q3: How does design research improve product accessibility?</strong></h2>
 
 
 
@@ -211,7 +211,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h3><strong>Design research tests our assumptions</strong></h3>
+<h3 class="wp-block-heading"><strong>Design research tests our assumptions</strong></h3>
 
 
 
@@ -228,7 +228,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Research resources: Design accessible product experiences</summary>
-<h5><strong>Guidance to help with GC design research</strong></h5>
+<h5 class="wp-block-heading"><strong>Guidance to help with GC design research</strong></h5>
 
 
 
@@ -236,7 +236,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h5><strong>How design research improved experiences using GC Forms</strong></h5>
+<h5 class="wp-block-heading"><strong>How design research improved experiences using GC Forms</strong></h5>
 
 
 
@@ -309,7 +309,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h2><strong>Q4: How do accessibility audits improve product experiences?</strong></h2>
+<h2 class="wp-block-heading"><strong>Q4: How do accessibility audits improve product experiences?</strong></h2>
 
 
 
@@ -317,7 +317,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h3><strong>Auditing for accessibility gaps</strong></h3>
+<h3 class="wp-block-heading"><strong>Auditing for accessibility gaps</strong></h3>
 
 
 
@@ -347,7 +347,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h2><strong>Share your experiences with us!</strong></h2>
+<h2 class="wp-block-heading"><strong>Share your experiences with us!</strong></h2>
 
 
 
