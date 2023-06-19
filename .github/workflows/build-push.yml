@@ -8,30 +8,30 @@ on:
 
 jobs:
   build:
-  runs-on: ubuntu-latest
-  steps:
-  - uses: actions/checkout@v2
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
 
-  - name: Load git submodules
-    run: git submodule sync && git submodule update --init
+    - name: Load git submodules
+      run: git submodule sync && git submodule update --init
 
-  - name: Install hugo
-    run: |
-      wget https://github.com/gohugoio/hugo/releases/download/v0.113.0/hugo_extended_0.113.0_Linux-64bit.tar.gz \
-      && tar -xvf hugo_extended_0.113.0_Linux-64bit.tar.gz hugo \
-      && mv  hugo /usr/local/bin \
-      && rm hugo_extended_0.113.0_Linux-64bit.tar.gz
-  - name: Build english and french sites
-    run: |
-      hugo --ignoreCache -d ~/cds-website-dist
-      chmod -R 755 ~/cds-website-dist
+    - name: Install hugo
+      run: |
+        wget https://github.com/gohugoio/hugo/releases/download/v0.113.0/hugo_extended_0.113.0_Linux-64bit.tar.gz \
+        && tar -xvf hugo_extended_0.113.0_Linux-64bit.tar.gz hugo \
+        && mv  hugo /usr/local/bin \
+        && rm hugo_extended_0.113.0_Linux-64bit.tar.gz
+    - name: Build english and french sites
+      run: |
+        hugo --ignoreCache -d ~/cds-website-dist
+        chmod -R 755 ~/cds-website-dist
 
-  - name: Cache build
-    uses: actions/cache@v2
-    with:
-      path: |
-        ~/cds-website-dist
-      key: ${{ runner.os }}-${{ github.sha }}
+    - name: Cache build
+      uses: actions/cache@v2
+      with:
+        path: |
+          ~/cds-website-dist
+        key: ${{ runner.os }}-${{ github.sha }}
   
   test:
     needs: build
