@@ -13,3 +13,8 @@ variable "hosted_zone_id_list" {
   description = "The hosted zone ID that holds our English and French DNS records"
   type        = list(string)
 }
+
+variable "s3_buckets" {
+  description = "EN and FR S3 Buckets"
+  type        = map(any)
+}
