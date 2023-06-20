@@ -6,6 +6,14 @@ on:
     branches:
       - main
 
+permissions:
+  id-token: write
+  contents: read
+  pull-requests: write
+  actions: write
+  checks: write
+  statuses: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -21,7 +29,7 @@ jobs:
         && tar -xvf hugo_extended_0.113.0_Linux-64bit.tar.gz hugo \
         && mv  hugo /usr/local/bin \
         && rm hugo_extended_0.113.0_Linux-64bit.tar.gz
-        
+
     - name: Build english and french sites
       run: |
         hugo --ignoreCache -d ~/cds-website-dist
