@@ -16,28 +16,26 @@ module "log_bucket" {
   billing_tag_value = var.billing_code
 }
 
-### This requires importing cloudfront resource value which has not been created ###
+data "aws_iam_policy_document" "website_bucket_policy_doc" {
+  for_each = module.s3_buckets
+  statement {
+    effect = "Allow"
+    principals {
+      type        = "AWS"
+      identifiers = ["${var.origin_access_identity}"]
+    }
+    actions = [
+      "s3:GetObject"
+    ]
+    resources = [
+      "${each.value.s3_bucket_arn}/*"
+    ]
+  }
 
-# data "aws_iam_policy_document" "website_bucket_policy_doc" {
-#   for_each = module.s3_buckets
-#   statement {
-#     effect = "Allow"
-#     principals {
-#       type = "AWS"
-#       identifiers = #This will be cloudfront identity once resource is created
-#     }
-#     actions = [
-#       "s3:GetObject"
-#     ]
-#     resources = [
-#       "${each.value.s3_bucket_arn}/*"
-#     ]
-#   }
+}
 
-# }
-
-# resource "aws_s3_bucket_policy" "website_bucket_policy" {
-#   for_each = module.s3_buckets
-#   bucket = each.value.s3_bucket_id
-#   policy = data.aws_iam_policy_document.website_bucket_policy_doc[each.key].json
-# }
+resource "aws_s3_bucket_policy" "website_bucket_policy" {
+  for_each = module.s3_buckets
+  bucket   = each.value.s3_bucket_id
+  policy   = data.aws_iam_policy_document.website_bucket_policy_doc[each.key].json
+}

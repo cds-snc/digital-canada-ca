@@ -9,3 +9,8 @@ variable "website_domains" {
   type        = list(string)
   default     = ["digital.cdssandbox.xyz", "numerique.cdssandbox.xyz"]
 }
+
+variable "origin_access_identity" {
+  description = "Cloudfront origin access identity"
+  type        = string
+}
