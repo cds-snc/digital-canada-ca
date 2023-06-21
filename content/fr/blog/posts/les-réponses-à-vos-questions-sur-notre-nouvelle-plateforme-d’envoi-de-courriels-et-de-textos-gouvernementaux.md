@@ -21,7 +21,7 @@ image-alt: >-
 translationKey: notify-blog2
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_notify2_89a385e31d.jpg
 ---
-*Mise à jour : Comme tout produit numérique, Notification GC fait l’objet d’améliorations constantes pour répondre aux besoins d’équipes issues de l’ensemble du gouvernement.* *Pour obtenir les derniers renseignements en date, veuillez vous référer à la page consacrée aux (fonctionnalités de Notification GC)[https://notification.canada.ca/fonctionnalites].*
+*Mise à jour : Comme tout produit numérique, Notification GC fait l’objet d’améliorations constantes pour répondre aux besoins d’équipes issues de l’ensemble du gouvernement.* *Pour obtenir les derniers renseignements en date, veuillez vous référer à la page consacrée aux [fonctionnalités de Notification GC](https://notification.canada.ca/fonctionnalites).*
 
 Depuis le lancement de notre [plateforme Notification](https://numerique.canada.ca/2019/11/26/on-vous-pr%C3%A9sente-notification/), nous avons reçu plusieurs questions de personnes qui souhaitent savoir comment elle fonctionne, qui peut l’utiliser et, surtout, si elle est gratuite. En raison de cet immense intérêt, nous avons décidé de prendre le temps de répondre à ces questions et d’encourager d’autres organisations à utiliser Notification pour leurs services.
 
