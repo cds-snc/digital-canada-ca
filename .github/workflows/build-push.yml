@@ -1,0 +1,112 @@
+name: Build-Push
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  id-token: write
+  contents: read
+  pull-requests: write
+  actions: write
+  checks: write
+  statuses: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Load git submodules
+      run: git submodule sync && git submodule update --init
+
+    - name: Install hugo
+      run: |
+        wget https://github.com/gohugoio/hugo/releases/download/v0.113.0/hugo_extended_0.113.0_Linux-64bit.tar.gz \
+        && tar -xvf hugo_extended_0.113.0_Linux-64bit.tar.gz hugo \
+        && mv  hugo /usr/local/bin \
+        && rm hugo_extended_0.113.0_Linux-64bit.tar.gz
+
+    - name: Build english and french sites
+      run: |
+        hugo --ignoreCache -d ~/cds-website-dist
+        chmod -R 755 ~/cds-website-dist
+
+    - name: Cache build
+      uses: actions/cache@v3
+      with:
+        path: |
+          ~/cds-website-dist
+        key: ${{ runner.os }}-${{ github.sha }}
+  
+  test:
+    needs: build
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        lang: ["fr", "en"]
+    steps:
+      - name: Retrieve Cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/cds-website-dist
+          key: ${{ runner.os }}-${{ github.sha }}
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+      - name: install html proofer
+        run: gem install html-proofer
+      - name: test
+        run: |
+          htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow_hash_href --ignore_empty_alt --disable_external --ignore_files=/lib/,/admin/ --checks=favicon
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: npm init
+        run: npm init -y
+      - name: uuid-test
+        run: |
+          npm install --include=dev && npm run uuid
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    needs: test
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - lang: "fr"
+            dist-id: "E3UMHCPY78GF2K" 
+            bucket: "cds-website-french-s3-bucket"
+          - lang: "en"
+            dist-id: "E1A1TVRQ8Y67DB"
+            bucket: "cds-website-english-s3-bucket"
+    steps:
+      - name: Retrieve Cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/cds-website-dist
+          key: ${{ runner.os }}-${{ github.sha }}
+      - name: configure aws credentials using OIDC              
+        uses: aws-actions/configure-aws-credentials@67fbcbb121271f7775d2e7715933280b06314838 # tag=v1.7.0
+        with:
+          role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-apply  # TF apply
+          role-session-name: cache
+          aws-region: ca-central-1
+      - name: Deploy and invalidate cache
+        run: |
+          aws s3 sync ~/cds-website-dist/${{ matrix.lang }} s3://${{ matrix.bucket }}/ --delete
+          aws cloudfront create-invalidation --cli-input-json "{\"DistributionId\":\"${{ matrix.dist-id}}\",\"InvalidationBatch\":{\"Paths\":{\"Quantity\":1,\"Items\":[\"/*\"]},\"CallerReference\":\"$(date +%s)\"}}"
+      - name: Report deployment to Sentinel
+        uses: cds-snc/sentinel-forward-data-action@main
+        with:
+          input_data: '{"product": "${{ matrix.bucket }}", "version": "${{ github.sha }}", "repository": "${{ github.repository }}", "environment": "production"}'
+          log_type: CDS_Product_Deployment_Data
+          log_analytics_workspace_id: ${{ secrets.LOG_ANALYTICS_WORKSPACE_ID }}
+          log_analytics_workspace_key: ${{ secrets.LOG_ANALYTICS_WORKSPACE_KEY }}        

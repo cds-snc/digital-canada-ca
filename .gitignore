@@ -7,6 +7,6 @@ deploy.md
 Dockerfile
 backstop_data/html_report/
 bitmaps_test/
-
+**/.terragrunt-cache
 # Specifically include these files
 !.devcontainer/Dockerfile
