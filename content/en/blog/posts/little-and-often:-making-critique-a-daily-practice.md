@@ -57,5 +57,5 @@ One of the happiest surprises of our critiques: we’re all learning more about 
 
 All in all, I am so delighted with our critique practice. If you and your team are needing a quick and effective way to improve your skills, I highly recommend a daily dose of content critique!
 
-Feel free to [reach out to me](mailto:kate.wilhelm@cds-snc.ca) if you’d like to learn more. 
+Feel free to [reach out to us](mailto:CDS-SNC@tbs-sct.gc.ca) if you’d like to learn more. 
 

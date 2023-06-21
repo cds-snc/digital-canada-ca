@@ -31,7 +31,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<h2 id="h-travailler-ouvertement-par-le-biais-des-blogues"><strong>« Travailler ouvertement » par le biais des blogues</strong></h2>
+<h2 class="wp-block-heading" id="h-travailler-ouvertement-par-le-biais-des-blogues"><strong>« Travailler ouvertement » par le biais des blogues</strong></h2>
 
 
 
@@ -51,7 +51,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<h2 id="h-activite-remue-meninges-sur-les-ingredients-d-un-billet-de-blogue"><strong>Activité : remue-méninges sur les ingrédients d’un billet de blogue!</strong> 🧑‍🍳 ⚡️</h2>
+<h2 class="wp-block-heading" id="h-activite-remue-meninges-sur-les-ingredients-d-un-billet-de-blogue"><strong>Activité : remue-méninges sur les ingrédients d’un billet de blogue!</strong> 🧑‍🍳 ⚡️</h2>
 
 
 
@@ -75,7 +75,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<h3 id="h-dix-ingredients-pour-un-billet-de-blogue-irresistible"><strong>Dix ingrédients pour un billet de blogue <em>irrésistible</em> :</strong></h3>
+<h3 class="wp-block-heading" id="h-dix-ingredients-pour-un-billet-de-blogue-irresistible"><strong>Dix ingrédients pour un billet de blogue <em>irrésistible</em> :</strong></h3>
 
 
 
@@ -91,7 +91,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<h2><strong>Astuces pour la promotion de billets de blogue.</strong></h2>
+<h2 class="wp-block-heading"><strong>Astuces pour la promotion de billets de blogue.</strong></h2>
 
 
 
@@ -103,7 +103,7 @@ translationKey: blog-brainstorm-activity
 
 
 
-<h2><strong>Bloguez ouvertement avec nous!</strong></h2>
+<h2 class="wp-block-heading"><strong>Bloguez ouvertement avec nous!</strong></h2>
 
 
 

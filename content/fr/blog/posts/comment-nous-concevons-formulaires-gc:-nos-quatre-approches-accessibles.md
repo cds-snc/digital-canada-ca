@@ -45,7 +45,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h2 id="h-q1-comment-est-ce-que-les-tests-automatises-sur-l-accessibilite-appuient-le-developpement-du-produit"><strong>Q1 : Comment est-ce que les tests automatisés sur l’accessibilité appuient le développement du produit ?</strong></h2>
+<h2 class="wp-block-heading" id="h-q1-comment-est-ce-que-les-tests-automatises-sur-l-accessibilite-appuient-le-developpement-du-produit"><strong>Q1 : Comment est-ce que les tests automatisés sur l’accessibilité appuient le développement du produit ?</strong></h2>
 
 
 
@@ -53,7 +53,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h3 id="h-les-tests-automatises-ne-sont-pas-encore-parfaits-mais-ils-representent-un-point-de-depart"><strong>Les tests automatisés ne sont pas encore parfaits, mais ils représentent un point de départ.</strong></h3>
+<h3 class="wp-block-heading" id="h-les-tests-automatises-ne-sont-pas-encore-parfaits-mais-ils-representent-un-point-de-depart"><strong>Les tests automatisés ne sont pas encore parfaits, mais ils représentent un point de départ.</strong></h3>
 
 
 
@@ -155,7 +155,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h2><strong>Q2 : L’équipe réalise aussi des tests d’accessibilité manuels. Pourquoi cette double vérification ?</strong></h2>
+<h2 class="wp-block-heading"><strong>Q2 : L’équipe réalise aussi des tests d’accessibilité manuels. Pourquoi cette double vérification ?</strong></h2>
 
 
 
@@ -163,7 +163,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h3><strong>Les tests manuels aident à déceler des problèmes que les automatisations ont manqués</strong></h3>
+<h3 class="wp-block-heading"><strong>Les tests manuels aident à déceler des problèmes que les automatisations ont manqués</strong></h3>
 
 
 
@@ -205,7 +205,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h2><strong>Q3 : Comment la recherche en conception améliore-t-elle l’accessibilité d’un produit ?</strong></h2>
+<h2 class="wp-block-heading"><strong>Q3 : Comment la recherche en conception améliore-t-elle l’accessibilité d’un produit ?</strong></h2>
 
 
 
@@ -213,7 +213,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h3><strong>La recherche en conception met à l’épreuve nos hypothèses</strong></h3>
+<h3 class="wp-block-heading"><strong>La recherche en conception met à l’épreuve nos hypothèses</strong></h3>
 
 
 
@@ -230,7 +230,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 <details class="wp-block-cds-snc-accordion"><summary>Ressources en matière de recherche : Concevoir des expériences accessibles relatives au produit</summary>
-<h5><strong>Conseils concernant la recherche en conception au sein du GC</strong></h5>
+<h5 class="wp-block-heading"><strong>Conseils concernant la recherche en conception au sein du GC</strong></h5>
 
 
 
@@ -238,7 +238,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h5><strong>Comment la recherche en conception a amélioré l’expérience offerte par Formulaires GC</strong></h5>
+<h5 class="wp-block-heading"><strong>Comment la recherche en conception a amélioré l’expérience offerte par Formulaires GC</strong></h5>
 
 
 
@@ -311,7 +311,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h2><strong>Q4 : En quoi les vérifications d’accessibilité améliorent-elles les expériences offertes par le produit ?</strong></h2>
+<h2 class="wp-block-heading"><strong>Q4 : En quoi les vérifications d’accessibilité améliorent-elles les expériences offertes par le produit ?</strong></h2>
 
 
 
@@ -319,7 +319,7 @@ translationKey: blog-gcforms-accessible-approaches
 
 
 
-<h3><strong>Nous réalisons des audits pour déceler les lacunes en matière d’accessibilité</strong></h3>
+<h3 class="wp-block-heading"><strong>Nous réalisons des audits pour déceler les lacunes en matière d’accessibilité</strong></h3>
 
 
 

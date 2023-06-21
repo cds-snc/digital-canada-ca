@@ -23,7 +23,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 class="has-large-font-size" id="h-le-gouvernement-canadien-bilinguisme-et-inclusivite"><strong>Le gouvernement canadien : bilinguisme et inclusivité</strong></h2>
+<h2 class="has-large-font-size wp-block-heading" id="h-le-gouvernement-canadien-bilinguisme-et-inclusivite"><strong>Le gouvernement canadien : bilinguisme et inclusivité</strong></h2>
 
 
 
@@ -31,7 +31,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 class="has-large-font-size"><strong>Le français : une langue genrée et binaire</strong></h2>
+<h2 class="has-large-font-size wp-block-heading"><strong>Le français : une langue genrée et binaire</strong></h2>
 
 
 
@@ -43,7 +43,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 class="has-large-font-size"><strong>Les pistes de solution</strong></h2>
+<h2 class="has-large-font-size wp-block-heading"><strong>Les pistes de solution</strong></h2>
 
 
 
@@ -99,7 +99,7 @@ translationKey: blog-ecrire-inclusivite
 
 
 
-<h2 class="has-large-font-size"><strong>Les solutions au SNC : Beaucoup de rédaction épicène et une touche de point médian</strong></h2>
+<h2 class="has-large-font-size wp-block-heading"><strong>Les solutions au SNC : Beaucoup de rédaction épicène et une touche de point médian</strong></h2>
 
 
 

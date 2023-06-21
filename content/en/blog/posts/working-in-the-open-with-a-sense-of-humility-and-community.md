@@ -35,7 +35,7 @@ translationKey: blog-work-open-community
 
 
 
-<h2 id="h-working-in-the-open-is-not-easy">Working in the open is not easy</h2>
+<h2 class="wp-block-heading" id="h-working-in-the-open-is-not-easy">Working in the open is not easy</h2>
 
 
 
@@ -71,7 +71,7 @@ translationKey: blog-work-open-community
 
 
 
-<h2 id="h-a-certain-dose-of-humility">A certain dose of humility</h2>
+<h2 class="wp-block-heading" id="h-a-certain-dose-of-humility">A certain dose of humility</h2>
 
 
 
@@ -91,7 +91,7 @@ translationKey: blog-work-open-community
 
 
 
-<h2 id="h-a-sense-of-community">A sense of community</h2>
+<h2 class="wp-block-heading" id="h-a-sense-of-community">A sense of community</h2>
 
 
 
@@ -115,7 +115,7 @@ translationKey: blog-work-open-community
 
 
 
-<h2 id="h-join-the-community">Join the community</h2>
+<h2 class="wp-block-heading" id="h-join-the-community">Join the community</h2>
 
 
 

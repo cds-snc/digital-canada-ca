@@ -11,7 +11,7 @@ thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/03/Updates_EN.jpeg
 translationKey: blog-covid-updates-3yrs
 ---
 
-<h2 id="h-where-we-started-breaking-through-the-noise"><strong>Where we started: Breaking through the noise</strong></h2>
+<h2 class="wp-block-heading" id="h-where-we-started-breaking-through-the-noise"><strong>Where we started: Breaking through the noise</strong></h2>
 
 
 
@@ -41,7 +41,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<h2><strong>What we’ve learned: Using the digital standards to create useful content</strong></h2>
+<h2 class="wp-block-heading"><strong>What we’ve learned: Using the digital standards to create useful content</strong></h2>
 
 
 
@@ -53,7 +53,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<h2><strong>Analyzing data to improve our content</strong></h2>
+<h2 class="wp-block-heading"><strong>Analyzing data to improve our content</strong></h2>
 
 
 
@@ -67,7 +67,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<h2><strong>Using GC Notify- how an open source tool helped us save time and money </strong></h2>
+<h2 class="wp-block-heading"><strong>Using GC Notify- how an open source tool helped us save time and money </strong></h2>
 
 
 
@@ -75,7 +75,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<h2><strong>Getting by with a little help from friends</strong></h2>
+<h2 class="wp-block-heading"><strong>Getting by with a little help from friends</strong></h2>
 
 
 
@@ -83,7 +83,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<h2><strong>What’s next</strong></h2>
+<h2 class="wp-block-heading"><strong>What’s next</strong></h2>
 
 
 

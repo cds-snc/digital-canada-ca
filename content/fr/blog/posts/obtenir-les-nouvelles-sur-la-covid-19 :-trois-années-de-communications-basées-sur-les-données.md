@@ -11,7 +11,7 @@ thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/03/Updates_FR.jpeg
 translationKey: blog-covid-updates-3yrs
 ---
 
-<h2 id="h-notre-point-de-depart-se-frayer-un-chemin-a-travers-le-tumulte"><strong>Notre point de départ : Se frayer un chemin à travers le tumulte</strong></h2>
+<h2 class="wp-block-heading" id="h-notre-point-de-depart-se-frayer-un-chemin-a-travers-le-tumulte"><strong>Notre point de départ : Se frayer un chemin à travers le tumulte</strong></h2>
 
 
 
@@ -41,7 +41,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<h2><strong>Ce que nous avons appris : L’utilisation des normes numériques pour la création de contenu utile</strong><br></h2>
+<h2 class="wp-block-heading"><strong>Ce que nous avons appris : L’utilisation des normes numériques pour la création de contenu utile</strong><br></h2>
 
 
 
@@ -53,7 +53,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<h2><strong>Analyse des données pour l’amélioration de notre contenu</strong></h2>
+<h2 class="wp-block-heading"><strong>Analyse des données pour l’amélioration de notre contenu</strong></h2>
 
 
 
@@ -71,7 +71,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<h2><strong>Utilisation de Notification GC : Un outil à code source ouvert pour économiser temps et argent</strong></h2>
+<h2 class="wp-block-heading"><strong>Utilisation de Notification GC : Un outil à code source ouvert pour économiser temps et argent</strong></h2>
 
 
 
@@ -79,7 +79,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<h2><strong>Collaboration avec des ami·e·s pour soutenir le service</strong></h2>
+<h2 class="wp-block-heading"><strong>Collaboration avec des ami·e·s pour soutenir le service</strong></h2>
 
 
 
@@ -87,7 +87,7 @@ translationKey: blog-covid-updates-3yrs
 
 
 
-<h2><strong>Prochaines étapes</strong></h2>
+<h2 class="wp-block-heading"><strong>Prochaines étapes</strong></h2>
 
 
 
