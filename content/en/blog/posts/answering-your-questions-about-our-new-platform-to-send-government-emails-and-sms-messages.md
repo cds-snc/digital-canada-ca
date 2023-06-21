@@ -20,6 +20,8 @@ image-alt: >-
 translationKey: notify-blog2
 thumb: https://de2an9clyit2x.cloudfront.net/small_blog_notify2_89a385e31d.jpg
 ---
+*Update: Like any digital product, GC Notify is constantly being improved to meet the needs of teams across government.* *For the most up-to-date  information, please refer to the [GC Notify features page](https://notification.canada.ca/features).*
+
 Since we introduced our [Notify platform](https://digital.canada.ca/2019/11/26/introducing-notify/), we’ve received many questions about how it works, who can use it, and most frequently, whether or not it's free. With such great interest around the platform, we wanted to take the time to answer your questions and encourage more organizations to bring their live services onto Notify.
 
 As developers, we also want to provide a clearer path forward on why Notify should be integrated with new and existing government services.
@@ -80,7 +82,7 @@ We built Notify with the goal that it will open the door for you to connect with
 
 We hope you’ll find this platform as easy and enjoyable to integrate as we did.
 
-If you have questions or would like to participate in ongoing research around Notify, [connect with us](mailto:antoine.garcia-suarez@tbs-sct.gc.ca) directly, or use the Twitter hashtag **\#notifygc** for more details, queries and assistance.
+If you have questions or would like to participate in ongoing research around Notify, [connect with us](https://notification.canada.ca/contact) directly, or use the Twitter hashtag **\#notifygc** for more details, queries and assistance.
 
 
 
