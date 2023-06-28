@@ -268,8 +268,8 @@ team:
   - archived: false
     name: Beth Fox
     title:
-      en: Strategic Engagement
-      fr: Engagement stratégique
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: small_beth_fox_2b24125ffd
     email: beth.fox@tbs-sct.gc.ca
     linkedin: beth-fox-b9619118
@@ -626,8 +626,8 @@ team:
   - archived: false
     name: Jose Jimenez
     title:
-      en: Outreach
-      fr: Liaison et diffusion
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: jose_jimenez_105407e800
     email: jose.jimenez@cds-snc.ca
     twitter: curious_jose
@@ -683,8 +683,8 @@ team:
   - archived: false
     name: Lesley Wheldrake
     title:
-      en: Talent
-      fr: Talent
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: small_lesley_wheldrake_d7d498fdef
     email: Lesley.Wheldrake@tbs-sct.gc.ca
     linkedin: lwheldrake
