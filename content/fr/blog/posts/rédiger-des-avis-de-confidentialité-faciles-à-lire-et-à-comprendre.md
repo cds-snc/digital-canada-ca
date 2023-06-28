@@ -5,9 +5,9 @@ description: >-
   La confiance du public était une priorité fondamentale pour Alerte COVID. Les avis de confidentialité, lorsqu’ils sont bien rédigés, sont d’importants outils qui contribuent à renforcer cette confiance. Voici pourquoi, au SNC, nous rédigeons des avis de confidentialité faciles à comprendre
 author: 'Lucas Cherkewski, Charlotte Pedersen, Sean Boots'
 date: '2023-01-26T11:04:59'
-image: https://articles.alpha.canada.ca/uploads/sites/25/2023/01/blog_post_privacy_statement_2-1.jpg
-image-alt: A visual representation of simplifying the complex. A tangled rope adjacent to a rope free of knots.
-thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/01/blog_post_privacy_statement_2-1.jpg
+image: https://articles.alpha.canada.ca/uploads/sites/25/2023/01/blog_post_privacy_statement_2-1_Fr.jpeg
+image-alt: Une image illustrant la simplification de choses complexes. Une corde emmêlée est représentée à côté d’une corde sans nœuds.
+thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/01/blog_post_privacy_statement_2-1_Fr.jpeg
 translationKey: blog-privacy-notices
 ---
 
