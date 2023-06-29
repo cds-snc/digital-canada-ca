@@ -19,8 +19,8 @@ exec:
   - archived: false
     name: Calvin Rodo
     title:
-      en: Director of Core Services
-      fr: Directeur par intérim des services de base
+      en: Acting Head of Core Services
+      fr: Chef par intérim des services de base
     imagehash: small_calvin_rodo_b56b0d044a
     email: calvin.rodo@tbs-sct.gc.ca
     github: CalvinRodo
@@ -156,14 +156,6 @@ exec:
       fr: Cheffe de la reception des demandes
     imagehash: sage_cram_b9d6d4ed1f
     email: sage.cram@tbs-sct.gc.ca
-  - archived: false
-    name: Sana Qureshi
-    title:
-      en: Acting Director of Talent
-      fr: Directrice intérimaire du Talent
-    imagehash: sana_qureshi_a633d68604
-    email: Sana.Qureshi@tbs-sct.gc.ca
-    linkedin: sana-qureshi-35206a11
   - archived: false
     name: Stephanie Gauthier
     title:
@@ -888,6 +880,14 @@ team:
     email: Samantha.Burton@tbs-sct.gc.ca
     linkedin: samanthaburton
     twitter: thesamburton
+  - archived: false
+    name: Sana Qureshi
+    title:
+      en: Talent
+      fr: Talent
+    imagehash: sana_qureshi_a633d68604
+    email: Sana.Qureshi@tbs-sct.gc.ca
+    linkedin: sana-qureshi-35206a11
   - archived: false
     name: Sean Boots
     title:
