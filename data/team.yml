@@ -19,8 +19,8 @@ exec:
   - archived: false
     name: Calvin Rodo
     title:
-      en: Director of Core Services
-      fr: Directeur par intérim des services de base
+      en: Acting Head of Core Services
+      fr: Chef par intérim des services de base
     imagehash: small_calvin_rodo_b56b0d044a
     email: calvin.rodo@tbs-sct.gc.ca
     github: CalvinRodo
