@@ -41,5 +41,5 @@ Si vous êtes intéressé à en savoir plus sur la façon dont le SNC utilise le
 
 Il y a beaucoup de choses à dire et à partager. Nous ne manquerons pas de poursuivre la conversation à mesure que nous recruterons plus de personnes de talent dans une foule de disciplines, en utilisant une approche polyvalente pour bâtir le SNC de la meilleure manière qui soit.
 
-Avez-vous des questions à poser ou des commentaires à faire sur nos pratiques de recrutement? À votre avis, quels genres de méthodes de recrutement et de dotation fonctionnent bien? Existe-t-il d’autres manières ingénieuses de faire du recrutement et d’embaucher dans la fonction publique? [Faites-nous-en part](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca).
+Avez-vous des questions à poser ou des commentaires à faire sur nos pratiques de recrutement? À votre avis, quels genres de méthodes de recrutement et de dotation fonctionnent bien? Existe-t-il d’autres manières ingénieuses de faire du recrutement et d’embaucher dans la fonction publique? [Faites-nous-en part](mailto:CDS-SNC@tbs-sct.gc.ca).
 
