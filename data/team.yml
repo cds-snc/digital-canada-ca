@@ -130,8 +130,8 @@ exec:
   - archived: false
     name: Mithula Naik
     title:
-      en: Head of Client Experience & Acting Head of Growth
-      fr: Cheffe de l'expérience client et cheffe Intérimaire de la croissance
+      en: Head of Client Experience and Growth
+      fr: Cheffe de l'expérience client et croissance
     imagehash: mithula_naik_baacaf3e0b
     email: Mithula.Naik@tbs-sct.gc.ca
   - archived: false
@@ -306,8 +306,8 @@ team:
   - archived: false
     name: Bryan Willey
     title:
-      en: Product Management
-      fr: Gestion de produits
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: bryan_willey_1a472f5d9b
     email: Bryan.Willey@tbs-sct.gc.ca
     github: willeybryan
