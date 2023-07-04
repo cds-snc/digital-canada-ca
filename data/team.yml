@@ -19,8 +19,8 @@ exec:
   - archived: false
     name: Calvin Rodo
     title:
-      en: Director of Core Services
-      fr: Directeur par intérim des services de base
+      en: Acting Head of Core Services
+      fr: Chef par intérim des services de base
     imagehash: small_calvin_rodo_b56b0d044a
     email: calvin.rodo@tbs-sct.gc.ca
     github: CalvinRodo
@@ -157,14 +157,6 @@ exec:
     imagehash: sage_cram_b9d6d4ed1f
     email: sage.cram@tbs-sct.gc.ca
   - archived: false
-    name: Sana Qureshi
-    title:
-      en: Acting Director of Talent
-      fr: Directrice intérimaire du Talent
-    imagehash: sana_qureshi_a633d68604
-    email: Sana.Qureshi@tbs-sct.gc.ca
-    linkedin: sana-qureshi-35206a11
-  - archived: false
     name: Stephanie Gauthier
     title:
       en: Chief of Staff
@@ -268,8 +260,8 @@ team:
   - archived: false
     name: Beth Fox
     title:
-      en: Strategic Engagement
-      fr: Engagement stratégique
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: small_beth_fox_2b24125ffd
     email: beth.fox@tbs-sct.gc.ca
     linkedin: beth-fox-b9619118
@@ -448,8 +440,8 @@ team:
   - archived: false
     name: Élise Cossette
     title:
-      en: Design
-      fr: Conception
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: elise_cossette_6140caed96
     email: elise.cossette@tbs-sct.gc.ca
     linkedin: élise-cossette-590b56ab
@@ -560,8 +552,8 @@ team:
   - archived: false
     name: Jeana Frost
     title:
-      en: Design Research
-      fr: Recherche en conception
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: jeana_frost_b05678fb7f
     email: jeana.frost@tbs-sct.gc.ca
     linkedin: jeanafrost
@@ -626,8 +618,8 @@ team:
   - archived: false
     name: Jose Jimenez
     title:
-      en: Outreach
-      fr: Liaison et diffusion
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: jose_jimenez_105407e800
     email: jose.jimenez@cds-snc.ca
     twitter: curious_jose
@@ -683,8 +675,8 @@ team:
   - archived: false
     name: Lesley Wheldrake
     title:
-      en: Talent
-      fr: Talent
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: small_lesley_wheldrake_d7d498fdef
     email: Lesley.Wheldrake@tbs-sct.gc.ca
     linkedin: lwheldrake
@@ -888,6 +880,14 @@ team:
     email: Samantha.Burton@tbs-sct.gc.ca
     linkedin: samanthaburton
     twitter: thesamburton
+  - archived: false
+    name: Sana Qureshi
+    title:
+      en: Talent
+      fr: Talent
+    imagehash: sana_qureshi_a633d68604
+    email: Sana.Qureshi@tbs-sct.gc.ca
+    linkedin: sana-qureshi-35206a11
   - archived: false
     name: Sean Boots
     title:
