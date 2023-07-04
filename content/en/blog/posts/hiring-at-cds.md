@@ -40,6 +40,6 @@ If you are interested in knowing more about how CDS is using Interchange to buil
 
 There’s a lot to talk about and a lot to share. We’ll be sure to continue this discussion as we onboard more talent from a diversity of disciplines, using a versatile approach to building CDS in the best way possible.
 
-Do you have questions or comments on our recruitment practices? What kind of recruitment and staffing approaches do you think work well? Are there other ways to be agile in recruiting and hiring in the public service? [Let us know](mailto:CDSRecruitment.RecrutementSNC@tbs-sct.gc.ca).
+Do you have questions or comments on our recruitment practices? What kind of recruitment and staffing approaches do you think work well? Are there other ways to be agile in recruiting and hiring in the public service? [Let us know](mailto:CDS-SNC@tbs-sct.gc.ca).
 
 
