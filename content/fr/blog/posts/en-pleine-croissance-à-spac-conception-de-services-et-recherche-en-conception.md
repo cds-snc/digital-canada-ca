@@ -65,7 +65,3 @@ La prise en compte de la conception de services dans les activités d’approvis
 
 Je me réjouis de voir que nous commençons à orienter nos efforts pour appliquer la conception de services aux activités du gouvernement. Nous sommes enthousiastes à l’idée de nous mettre au travail pour améliorer l’achat, montrer les résultats de nos efforts en conception de services et prouver que même les services internes comme l’approvisionnement peuvent être une expérience agréable.
 
-- - -
-
-Envie d’en savoir plus sur la façon dont le SNC embauche des chercheurs? Vous pouvez trouver des offres d’emploi pour les [chercheurs en conception](https://cds-snc.github.io/talent/chercheur-en-conception/) et les [chercheurs quantitatifs en conception](https://cds-snc.github.io/talent/chercheur-quantitatif-en-conception/) dans le [Guide de talent du SNC](https://cds-snc.github.io/talent/accueil/). De plus, n’hésitez pas à communiquer avec l’équipe du talent du SNC au <mailto:CDS-SNC@tbs-sct.gc.ca>.
-
