@@ -64,4 +64,3 @@ La prise en compte de la conception de services dans les activités d’approvis
 * Faites la promotion du travail de votre équipe et diffusez-le sans modération sur toutes les plateformes possibles.
 
 Je me réjouis de voir que nous commençons à orienter nos efforts pour appliquer la conception de services aux activités du gouvernement. Nous sommes enthousiastes à l’idée de nous mettre au travail pour améliorer l’achat, montrer les résultats de nos efforts en conception de services et prouver que même les services internes comme l’approvisionnement peuvent être une expérience agréable.
-
