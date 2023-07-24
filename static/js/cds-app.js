@@ -85,9 +85,9 @@ $(document).ready(function () {
     document.getElementById("dropdwn-cnt").style.display = "block"
     document.getElementById("coaching-and-advice-nav-tag").focus();
   })
-  document.addEventListener("keyup", function (e) {
-    console.log(document.activeElement)
-  })
+  // document.addEventListener("keyup", function (e) {
+  //   console.log(document.activeElement)
+  // })
 
 
 

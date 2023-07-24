@@ -8,6 +8,7 @@
     "i18next": "^21.3.2",
     "lunr": "^2.3.9",
     "minimist": "^1.2.5",
+    "minisearch": "^6.1.0",
     "snyk": "^1.621.0"
   },
   "scripts": {
