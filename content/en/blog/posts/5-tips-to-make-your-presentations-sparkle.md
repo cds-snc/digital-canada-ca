@@ -6,7 +6,7 @@ description: >-
 author: 'Philippe Tardif, CDS Brand lead'
 date: '2022-08-18T12:00:00.000Z'
 image: https://de2an9clyit2x.cloudfront.net/banner_making_presentations_memorable_f9e0ae0042.jpeg
-image-alt: A shining green gem in a collection of rocks. It stands out from the rest.
+image-alt: A shining green gem in a collection of rocks. It stands out from the rest. 
 thumb: https://de2an9clyit2x.cloudfront.net/small_banner_making_presentations_memorable_f9e0ae0042.jpeg
 translationKey: making-presentations-memorable
 ---
