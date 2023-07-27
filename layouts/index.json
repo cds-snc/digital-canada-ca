@@ -2,4 +2,5 @@
 {{- range $index, $page := .Site.Pages -}}
     {{- $pageIndex = $pageIndex | append (dict "index" $index "title" $page.Title  "href" $page.Permalink "description" $page.Params.description "type" $page.Type "date" $page.Params.date "archived" $page.Params.archived "translationKey" $page.Params.translationKey "content" ($page.Content | plainify)) -}}
 {{- end -}}
-{{- $pageIndex | jsonify -}}    
+{{- $pageIndex | jsonify -}}
+
