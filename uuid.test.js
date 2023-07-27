@@ -1,4 +1,4 @@
-// const fs = require("fs");
+const fs = require("fs");
 // const filesEN = fs.readdirSync("./content/en/careers/positions/");
 // const filesFR = fs.readdirSync("./content/fr/careers/positions/")
 // const archFalse = /archived: false/i;
