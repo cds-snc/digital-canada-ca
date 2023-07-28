@@ -110,6 +110,14 @@ exec:
     linkedin: leannelabelle
     twitter: leannelabelle
   - archived: false
+    name: Lesley Wheldrake
+    title:
+      en: Acting Head of Client Experience and Growth
+      fr: Cheffe par intérim de l'expérience client et croissance
+    imagehash: small_lesley_wheldrake_d7d498fdef
+    email: Lesley.Wheldrake@tbs-sct.gc.ca
+    linkedin: lwheldrake
+  - archived: false
     name: Max Neuvians
     title:
       en: Director of Internal Site Reliability Engineering (SRE)
@@ -134,7 +142,7 @@ exec:
     email: michael.karlin@tbs-sct.gc.ca
     linkedin: michael-karlin-73052a4/
     twitter: supergovernance
-  - archived: false
+  - archived: true
     name: Mithula Naik
     title:
       en: Head of Client Experience and Growth
@@ -591,14 +599,6 @@ team:
     email: jessica.fan@tbs-sct.gc.ca
     linkedin: jessicafan
   - archived: false
-    name: Jessica Fan
-    title:
-      en: Partnerships
-      fr: Partenariats
-    imagehash: small_jessica_fan_a6c7fa89db
-    email: jessica.fan@tbs-sct.gc.ca
-    linkedin: jessicafan
-  - archived: false
     name: Jessica Loadenthal
     title:
       en: Talent
@@ -688,14 +688,6 @@ team:
     imagehash: leah_finkelstein_7765f56e31
     email: leah.finkelstein@tbs-sct.gc.ca
     linkedin: leah-finkelstein
-  - archived: false
-    name: Lesley Wheldrake
-    title:
-      en: Client experience and growth
-      fr: Expérience client et croissance
-    imagehash: small_lesley_wheldrake_d7d498fdef
-    email: Lesley.Wheldrake@tbs-sct.gc.ca
-    linkedin: lwheldrake
   - archived: true
     name: Lucas Cherkewski
     title:
