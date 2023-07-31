@@ -71,7 +71,7 @@ As I started word mapping to better qualify our digital analysis services, the w
 Currently, we’re meeting new partners where they are at in their digital journey to explore their unique digital service conditions (read our blog [Exploring the conditions for digital service delivery](https://digital.canada.ca/2021/04/07/exploring-the-conditions-for-digital-service-delivery/) to learn more). Explorations don’t always lead to another partnership, and that’s okay! 
 
 A takeaway from this experience: If a service name doesn’t quite fit and has you scratching your head, don’t learn to live with it — change it! Chances are, if you’re unclear on the service’s purpose based on the name, your audience is too — whether they’re public users accessing government services or public servants looking for help bringing about digital change!
-
+<!-- COACHING AND ADVICE - need to replace -->
 Interested in exploring your digital readiness? We can help! [See how](https://digital.canada.ca/coaching-and-advice/).
 
 ---

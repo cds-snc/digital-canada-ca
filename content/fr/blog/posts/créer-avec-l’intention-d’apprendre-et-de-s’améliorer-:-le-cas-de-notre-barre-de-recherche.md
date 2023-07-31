@@ -33,6 +33,7 @@ Je savais que nous cherchions entre autres à simplifier l’accès au contenu p
 Nous avons lancé un appel auprès de notre groupe d’utilisateur·rice·s interne et, la même semaine, nous avons rencontré des collègues pour connaître leur expérience quant à l’utilisation de la barre de recherche.
 
 ## Comment obtenir de la rétroaction rapide
+<!-- GUIDES - need to replace -->
 Le lundi, notre équipe a mis sur pied un [plan de facilitation de tests d’utilisabilité](https://numerique.canada.ca/guides/guide-tests-d-utilisabilite/) épuré et adapté à notre groupe d’utilisateur·rice·s cible : les utilisateur·rice·s internes. 
 
 Le jour suivant, nous avons demandé à quelques personnes du SNC utilisant régulièrement le site Web de se joindre à nous pour des tests de 15 minutes. Durant ces séances, nous avons observé leur utilisation de la barre de recherche et leur avons posé trois questions approfondies issues du guide d’animation : 

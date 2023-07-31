@@ -48,7 +48,7 @@ A strong, resilient public service is one with the internal capacity to deliver 
 This year we’ve reset how we work with teams across government to acknowledge this complexity, and we’re staffing up to better meet departments where they are. By shifting from our initial product-focussed approach to an enablement-focus, we believe we can affect more impactful and sustained change. 
  
 CDS now offers a digital government consulting team, inside government, for government, that brings hands-on delivery experience at scale from the public and private sectors. We help departments make timely design and technology decisions, build their in-house digital capabilities, and adopt new ways of working, so they can continually improve how they deliver public services.
- 
+ <!-- COACHING AND ADVICE - need to replace -->
 Through [Consulting](https://digital.canada.ca/coaching-and-advice/), we’re now providing guidance and feedback, sharing resources, and making connections to help government teams overcome their specific hurdles and improve their performance against the [GC Digital Standards](https://www.canada.ca/en/government/system/digital-government/government-canada-digital-standards.html). 
 
 Through [Learning Resources](https://resources.alpha.canada.ca/), we’re in the early stages of experimenting with how to create, curate, and publish practical examples and resources that help public servants build their in-house digital capabilities and make the case for change within their departments. 

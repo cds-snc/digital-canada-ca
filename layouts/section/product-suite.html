@@ -5,19 +5,19 @@
   <div class="container">
     <div class="row checklist">
       <div class="col-xs-12">
-        <p><em>{{ i18n "product-suite-description" }}</em></p>
-        <p>{{ i18n "product-suite-intro" }}</p>
+        <p><em>{{ i18n "product-description" }}</em></p>
+        <p>{{ i18n "product-intro" }}</p>
       </div>
       <div class="col-xs-12">
-        <h2><strong>{{ i18n "product-suite-checklist-title" }}</strong></h2>
+        <h2><strong>{{ i18n "product-checklist-title" }}</strong></h2>
         <ul>
-            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-one" }}</li>
-            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-two" }}</li>
-            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-three" }}</li>
-            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-four" }}</li>
-            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-five" }}</li>
-            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-six" }}</li>
-            <li><i class="fas fa-check"></i> {{ i18n "product-suite-checklist-item-seven" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-checklist-item-one" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-checklist-item-two" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-checklist-item-three" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-checklist-item-four" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-checklist-item-five" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-checklist-item-six" }}</li>
+            <li><i class="fas fa-check"></i> {{ i18n "product-checklist-item-seven" }}</li>
         </ul>
       </div>
       {{$products := where .Site.Pages ".File.Dir" "==" "product-suite/product/"}}

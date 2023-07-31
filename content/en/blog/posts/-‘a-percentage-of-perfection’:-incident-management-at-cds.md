@@ -106,5 +106,5 @@ We build our services so that we can quickly and easily respond when things go w
 We treat incidents as a key learning opportunity for improving the reliability of our services, and our incident management process is an important feedback loop that we can use to capture information about what went wrong, how we fixed it, and how to learn from it.
 
 Creating a culture of blamelessness around incidents provides the psychological safety necessary for us to respond quickly and without fear when things go wrong. 
-
+<!-- COACHING AND ADVICE - need to replace -->
 If you are looking to improve how you respond to incidents when running your services, I recommend you [reach out to us](https://digital.canada.ca/coaching-and-advice/). The only thing I love more than our incident management process is talking about it!

@@ -52,6 +52,7 @@ Puis, une fois que nous avons appliqué ces propositions à notre façon de fair
 
 Voici quelques ressources et outils conçus de manière à contribuer à une culture d’appartenance et de confiance:
 
+<!-- GUIDES - need to replace -->
 * [Guides des cercles WOL](https://workingoutloud.com/wol-french)
 * [Manuel de l’utilisateur pour moi](https://numerique.canada.ca/2018/08/21/collaboration-productive/)
 * [Google Hangouts](https://tools.google.com/dlpage/hangoutplugin)

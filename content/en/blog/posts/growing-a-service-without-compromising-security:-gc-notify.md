@@ -14,7 +14,7 @@ translationKey: blog-growing-service
 <p><em>This article was previously published on <a href="https://www.linkedin.com/company/cds-snc/">CDS&#8217;s LinkedIn</a> page in May 2023. Check out the <a href="https://www.linkedin.com/pulse/growing-service-without-compromising-security-gc-notify-cds-snc%3FtrackingId=kpzRR5%252FF8vczsUsctiiRgQ%253D%253D/?trackingId=kpzRR5%2FF8vczsUsctiiRgQ%3D%3D">original post.</a></em></p>
 
 
-
+<!-- PRODUCT SUITE - need to replace -->
 <p>At CDS, we work with teams across government to improve services for people in Canada. One way we’re doing that is through&nbsp;<a href="https://digital.canada.ca/product-suite/">platform tools</a>– small interconnected services that teams can plug into their current systems to improve processing times, cut down on procurement costs, and deliver great user experiences.<strong>&nbsp;</strong></p>
 
 

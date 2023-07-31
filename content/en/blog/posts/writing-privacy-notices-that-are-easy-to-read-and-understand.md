@@ -10,7 +10,7 @@ image-alt: A visual representation of simplifying the complex. A tangled rope ad
 thumb: https://articles.alpha.canada.ca/uploads/sites/25/2023/01/blog_post_privacy_statement_2-1.jpg
 translationKey: blog-privacy-notices
 ---
-
+<!-- PRODUCT SUITE - need to replace -->
 <p>Privacy notices and website privacy policies can be long documents with confusing language that often never get read. But what if they were shorter &#8211; <strong>let’s say 80% shorter?</strong> And what if they still met legal and policy requirements and provided users with the information they needed in plain language? With the help of our content designers, as well as privacy and legal colleagues, we’re making this a reality in the <a href="https://digital.canada.ca/product-suite/">products we build</a>.</p>
 
 

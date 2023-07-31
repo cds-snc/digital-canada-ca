@@ -84,10 +84,6 @@ partner:
   other: "Partner"
 partnerships:
   other: "Partnerships"
-coaching-and-advice-contact-us:
-    other: "Contact us"
-coaching-and-advice-contact-us-link:
-    other: "https://forms-formulaires.alpha.canada.ca/id/3"
 partnerships-intro:
   other: "We provide free support for federal public servants to improve their public facing services. Through advice and feedback, we enable your team to design, develop, buy, and maintain a service on their own. Instead of building the products for you, we empower you to build them."
 partnerships-how-it-works:
@@ -355,16 +351,14 @@ how-we-can-help:
 partner-with-us-title:
   other: "Partner with us"
 partner-with-us-subtitle:
-  other: "If you need advice on what to focus on to improve your service." 
-coaching-and-advice-image-alt:
-  other: "Three people in a room discussing ideas and problems together."     
+  other: "If you need advice on what to focus on to improve your service."     
 use-our-tools-and-resources-title:
   other: "Use our tools and resources"
 use-our-tools-and-resources-subtitle:
   other: "If you need a specific tool or guide to solve a specific problem."
 use-our-tools-and-resources-description:
   other: "Integrate our common components into your existing systems, or read up on best practices for service delivery." 
-product-suite-image-alt:
+product-image-alt:
   other: "One person using multiple digital tools with different functions to run an online service."  
 learn-more:
   other: "Learn more"
@@ -388,137 +382,33 @@ tools-and-resources-tag:
   other: "tools-and-resources-tag"
 read-our-blog-tag:
   other: "read-our-blog-tag"
-coaching-and-advice-tag:
-  other: "coaching-and-advice-tag"
-product-suite-tag:
-  other: "product-suite-tag"
-guides-tag:
-  other: "guides-tag"
-coaching-and-advice-intro:
-  other: "We provide coaching and advice to help public servants grow in-house capabilities for improving their digital services. It’s guidance for government, by government so we can better meet the public’s needs."
-coaching-and-advice-checklist-title:
-  other: "We can help empower your team to:"
-coaching-and-advice-checklist-item-one:
-  other: " Deliver modern public-facing digital services"
-coaching-and-advice-checklist-item-two:
-  other: " Meet the needs of the people who use your services"
-coaching-and-advice-checklist-item-three:
-  other: " Build and sustain in-house capacity"      
-coaching-and-advice-checklist-item-four:
-  other: " Make better use of funding and contracts"
-coaching-and-advice-checklist-item-five:
-  other: " Make the case for change"       
-coaching-and-advice-checklist-two-item-one:
-  other: " Tailored coaching, advice and hands-on support to meet your specific needs"
-coaching-and-advice-checklist-two-item-two:
-  other: " For government, by government"
-coaching-and-advice-checklist-two-item-three:
-  other: " No cost to your team"
-# From here:   
-coaching-and-advice-how-we-can-help-title:
-  other: "How we can help"  
-coaching-and-advice-how-we-can-help-c1:
-  other: " Provide personalized guidance based on our service delivery experience"
-coaching-and-advice-how-we-can-help-c2:
-  other: " Facilitate exercises and workshops to help your team identify and solve problems"
-coaching-and-advice-how-we-can-help-c3:
-  other: " Connect you with peers who have tackled similar problems" 
-coaching-and-advice-our-advice-title:
-  other: "Some of the things we can advise on:"
-coaching-and-advice-our-advice-c1:
-  other: " Conducting user research"
-coaching-and-advice-our-advice-c2:
-  other: " Agile software development and ways of working" 
-coaching-and-advice-our-advice-c3:
-  other: " Team compositions for delivery work"
-coaching-and-advice-our-advice-c4:
-  other: " Adopting modern digital practices"   
-coaching-and-advice-our-advice-c5:
-  other: " What problems to start with" 
-coaching-and-advice-our-advice-c6:
-  other: " Navigating vendor relationships"
-coaching-and-advice-our-advice-c7:
-  other: " Making design and tech decisions"   
-coaching-and-advice-our-advice-c8:
-  other: " Shifting from project to product mindset" 
-coaching-and-advice-our-advice-c9:
-  other: " Requests for proposals " 
-coaching-and-advice-our-advice-c10:
-  other: " Working in the open"
-coaching-and-advice-eligible-title:
-  other: "You’re eligible for coaching and advice if you:"
-coaching-and-advice-eligible-c1:
-  other: " Are a federal public servant"
-coaching-and-advice-eligible-c2:
-  other:  " Work on a public-facing service"
-coaching-and-advice-eligible-c3:
-  other: " Have a digital service delivery problem"
-coaching-and-advice-how-it-works:
-  other: "How it works:"
-coaching-and-advice-how-it-works-c1:
-  other: "1. Complete the request form to tell us about the service delivery problem you’re trying to solve."
-coaching-and-advice-how-it-works-c2:
-  other: "2. We’ll set up an introductory call to learn more." 
-coaching-and-advice-how-it-works-c3:
-  other: "3. If it’s a problem we can help solve, we’ll assign our digital advisors to lend their expertise. "
-request-coaching-and-advice-button:
-  other: "Request coaching and advice"  
-# To Here                                                 
-coaching-and-advice-contact-us-title:
-  other: "Let’s get started"
-coaching-and-advice-contact-us-description:
-  other: "Reach out to learn more about how we can support your team’s service delivery." 
-product-suite-description:
+product-tag:
+  other: "product-tag"
+product-description:
   other: "Building government solutions so you don’t have to."
-product-suite-intro:
+product-intro:
   other: "We provide tools that public servants can use to modernize their service delivery, cut down on procurement costs, and deliver a great user experience. Think of these tools as small interconnected services that you can plug right into your current systems." 
-product-suite-checklist-title:
+product-checklist-title:
   other: "Our products are:"
-product-suite-checklist-item-one:
+product-checklist-item-one:
   other: "Adapted for Government of Canada use"
-product-suite-checklist-item-two:
+product-checklist-item-two:
   other: "Easy for departments to integrate"
-product-suite-checklist-item-three:
+product-checklist-item-three:
   other: "Supported by our in-house teams"
-product-suite-checklist-item-four:
+product-checklist-item-four:
   other: "Secure"
-product-suite-checklist-item-five:
+product-checklist-item-five:
   other: "Accessible"
-product-suite-checklist-item-six:
+product-checklist-item-six:
   other: "Bilingual"
-product-suite-checklist-item-seven:
-  other: "Free to use"
-guides-intro:
-  other: "Grounded in our work, we’ve created guides and curated reading materials to help federal public servants improve how they deliver services. " 
-guides-help:
-  other: "Didn't find what you're looking for?"
-guides-contact-us:
-  other: "Contact the guides and learning resources team."  
-coaching-and-advice-title:
-  other: "Coaching and advice"  
-coaching-and-advice-description:
-  other: "Get tailored guidance on a service delivery challenge."
-product-suite-title:
+product-checklist-item-seven:
+  other: "Free to use" 
+product-title:
   other: "Product suite"
-product-suite-homepage-description:
+product-homepage-description:
   other: "Integrate our tech tools into your existing systems."
-guides-title:
-  other: "Guides"
-guides-description:
-  other: "Read our digital government guides and resources to learn more about user-centred service delivery."
-coaching-and-advice-button-text:
-  other: "Get tailored guidance"
-product-suite-button-text:
-  other: "Use our products"
-guides-button-text:
-  other: "Read our guides"    
-guides-img-alt: 
-  other: "One person sitting on a desk surrounded by different options of screens and documents."
-coaching-and-advice-url:
-  other: "/coaching-and-advice/"
-product-suite-url:
-  other: "/product-suite/"
-guides-url:
-  other: "/guides/"
+product-url:
+  other: "/product/"
 privacy-page-url:
   other: "/legal/privacy"          

@@ -51,7 +51,7 @@ And then, once we’ve set the foundation at home:
 * Being intentional when we hire by seeking people out and not expecting them to come to us.
 
 Here are some resources and tools that came up to help foster a culture of belonging and trust:
-
+<!-- GUIDES - need to replace -->
 * [Circle guides](https://workingoutloud.com/en/circle-guides)
 * [User Manual for me](https://digital.canada.ca/2018/08/21/productive-collaboration/)
 * [Google Hangouts](https://tools.google.com/dlpage/hangoutplugin)

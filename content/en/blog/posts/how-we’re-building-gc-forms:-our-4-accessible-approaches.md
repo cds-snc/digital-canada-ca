@@ -14,7 +14,7 @@ translationKey: blog-gcforms-accessible-approaches
 <p>When building products for government, accessibility isn’t just about compliance, it&#8217;s good strategy too. Making space for this work is crucial — it supports the government in delivering improved services and removes barriers to access them.</p>
 
 
-
+<!-- PRODUCT SUITE - need to replace -->
 <p>GC Forms is one of the <a href="https://digital.canada.ca/product-suite/">tools we offer federal public servants</a> to support their digital service delivery. It’s easy to use and helps quickly create and manage online forms that are secure, bilingual, accessible, and Government of Canada branded.</p>
 
 
@@ -231,7 +231,7 @@ translationKey: blog-gcforms-accessible-approaches
 <h5 class="wp-block-heading"><strong>Guidance to help with GC design research</strong></h5>
 
 
-
+<!-- GUIDES - need to replace -->
 <p>We’ve created resources to help plan your <a href="https://digital.canada.ca/guides/guide-usability-testing/">testing methods</a> and run <a href="https://digital.canada.ca/guides/guide-interviewing/">research interviews</a>, and we also offer a service to help you <a href="https://privacy-statements.cds.alpha.canada.ca/en/">generate privacy and consent forms for research sessions</a>.</p>
 
 

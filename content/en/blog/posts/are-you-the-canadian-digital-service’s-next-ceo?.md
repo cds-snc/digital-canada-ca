@@ -28,7 +28,8 @@ This year, [Budget 2021](https://www.budget.gc.ca/2021/report-rapport/p4-en.html
 
 ## The next chapter
 We need someone fearless to lead us through our next phase of growth and impact. We’ll soon open applications for a CEO who will help us set a strategic direction to keep changing government to serve people better. 
-
+<!-- COACHING AND ADVICE - need to replace -->
+<!-- PRODUCT SUITE - need to replace -->
 This person will empower the team to do its best work, including our [partnership](https://digital.canada.ca/coaching-and-advice/) and [platform](https://digital.canada.ca/product-suite/) business units. They’ll help us scale our growth, continuously experiment and improve, and build a more diverse and inclusive organization and practice.  They’ll build relationships with leaders across government and the private sector. And because they live the [CDS Values](https://digital.canada.ca/our-values/), they’ll coach and inspire leaders along the way. 
 
 ## The cliffhanger 
