@@ -8,7 +8,7 @@ exec:
     email: Andrea.Gilbrook@tbs-sct.gc.ca
     linkedin: andreagilbrook
     twitter: andreagilbrook
-  - archived: false
+  - archived: true
     name: Andréanne Trudeau
     title:
       en: Head of Consulting
@@ -19,8 +19,8 @@ exec:
   - archived: false
     name: Calvin Rodo
     title:
-      en: Director of Core Services
-      fr: Directeur par intérim des services de base
+      en: Acting Head of Core Services
+      fr: Chef par intérim des services de base
     imagehash: small_calvin_rodo_b56b0d044a
     email: calvin.rodo@tbs-sct.gc.ca
     github: CalvinRodo
@@ -52,6 +52,13 @@ exec:
       fr: Directrice - Alerte COVID
     imagehash: small_emily_kuret_dcd8f527da
     email: emily.kuret@tbs-sct.gc.ca
+  - archived: false
+    name: Jennifer Fletcher
+    title:
+      en: Acting Head of Intake
+      fr: Cheffe par intérim de la réception des demandes
+    imagehash: jen_fletcher_c9156fb097
+    email: jennifer.fletcher@tbs-sct.gc.ca
   - archived: false
     name: Jennifer Stephan
     title:
@@ -103,6 +110,14 @@ exec:
     linkedin: leannelabelle
     twitter: leannelabelle
   - archived: false
+    name: Lesley Wheldrake
+    title:
+      en: Acting Head of Client Experience and Growth
+      fr: Cheffe par intérim de l'expérience client et croissance
+    imagehash: small_lesley_wheldrake_d7d498fdef
+    email: Lesley.Wheldrake@tbs-sct.gc.ca
+    linkedin: lwheldrake
+  - archived: false
     name: Max Neuvians
     title:
       en: Director of Internal Site Reliability Engineering (SRE)
@@ -127,11 +142,11 @@ exec:
     email: michael.karlin@tbs-sct.gc.ca
     linkedin: michael-karlin-73052a4/
     twitter: supergovernance
-  - archived: false
+  - archived: true
     name: Mithula Naik
     title:
-      en: Head of Client Experience & Acting Head of Growth
-      fr: Cheffe de l'expérience client et cheffe Intérimaire de la croissance
+      en: Head of Client Experience and Growth
+      fr: Cheffe de l'expérience client et croissance
     imagehash: mithula_naik_baacaf3e0b
     email: Mithula.Naik@tbs-sct.gc.ca
   - archived: false
@@ -149,7 +164,7 @@ exec:
     imagehash: paul_joseph_d15d7971bb
     email: Paul.Joseph@tbs-sct.gc.ca
     linkedin: lastingdiscovery
-  - archived: false
+  - archived: true
     name: Sage Cram
     title:
       en: Head of Intake
@@ -157,20 +172,20 @@ exec:
     imagehash: sage_cram_b9d6d4ed1f
     email: sage.cram@tbs-sct.gc.ca
   - archived: false
-    name: Sana Qureshi
-    title:
-      en: Acting Director of Talent
-      fr: Directrice intérimaire du Talent
-    imagehash: sana_qureshi_a633d68604
-    email: Sana.Qureshi@tbs-sct.gc.ca
-    linkedin: sana-qureshi-35206a11
-  - archived: false
     name: Stephanie Gauthier
     title:
       en: Chief of Staff
       fr: Cheffe de cabinet
     imagehash: stephanie_gauthier_810f99aeb6
     email: Stephanie.Gauthier@tbs-sct.gc.ca
+  - archived: false
+    name: Tamreen Arif
+    title:
+      en: Acting Head of Consulting
+      fr: Cheffe par intérim du conseil
+    imagehash: small_tamreen_arif_36ee328dbb
+    email: tamreen.arif@tbs-sct.gc.ca
+    linkedin: /tamreen
   - archived: false
     name: Wendy Luciani
     title:
@@ -268,8 +283,8 @@ team:
   - archived: false
     name: Beth Fox
     title:
-      en: Strategic Engagement
-      fr: Engagement stratégique
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: small_beth_fox_2b24125ffd
     email: beth.fox@tbs-sct.gc.ca
     linkedin: beth-fox-b9619118
@@ -314,8 +329,8 @@ team:
   - archived: false
     name: Bryan Willey
     title:
-      en: Product Management
-      fr: Gestion de produits
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: bryan_willey_1a472f5d9b
     email: Bryan.Willey@tbs-sct.gc.ca
     github: willeybryan
@@ -448,8 +463,8 @@ team:
   - archived: false
     name: Élise Cossette
     title:
-      en: Design
-      fr: Conception
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: elise_cossette_6140caed96
     email: elise.cossette@tbs-sct.gc.ca
     linkedin: élise-cossette-590b56ab
@@ -560,8 +575,8 @@ team:
   - archived: false
     name: Jeana Frost
     title:
-      en: Design Research
-      fr: Recherche en conception
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: jeana_frost_b05678fb7f
     email: jeana.frost@tbs-sct.gc.ca
     linkedin: jeanafrost
@@ -576,12 +591,21 @@ team:
     linkedin: jeffmaher
     twitter: plusjeff
   - archived: false
-    name: Jennifer Fletcher
+    name: Jessica Fan
     title:
       en: Partnerships
       fr: Partenariats
-    imagehash: jen_fletcher_c9156fb097
-    email: jennifer.fletcher@tbs-sct.gc.ca
+    imagehash: small_jessica_fan_a6c7fa89db
+    email: jessica.fan@tbs-sct.gc.ca
+    linkedin: jessicafan
+  - archived: false
+    name: Jessica Fan
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: small_jessica_fan_a6c7fa89db
+    email: jessica.fan@tbs-sct.gc.ca
+    linkedin: jessicafan
   - archived: false
     name: Jessica Fan
     title:
@@ -626,8 +650,8 @@ team:
   - archived: false
     name: Jose Jimenez
     title:
-      en: Outreach
-      fr: Liaison et diffusion
+      en: Client experience and growth
+      fr: Expérience client et croissance
     imagehash: jose_jimenez_105407e800
     email: jose.jimenez@cds-snc.ca
     twitter: curious_jose
@@ -680,14 +704,6 @@ team:
     imagehash: leah_finkelstein_7765f56e31
     email: leah.finkelstein@tbs-sct.gc.ca
     linkedin: leah-finkelstein
-  - archived: false
-    name: Lesley Wheldrake
-    title:
-      en: Talent
-      fr: Talent
-    imagehash: small_lesley_wheldrake_d7d498fdef
-    email: Lesley.Wheldrake@tbs-sct.gc.ca
-    linkedin: lwheldrake
   - archived: true
     name: Lucas Cherkewski
     title:
@@ -889,6 +905,14 @@ team:
     linkedin: samanthaburton
     twitter: thesamburton
   - archived: false
+    name: Sana Qureshi
+    title:
+      en: Talent
+      fr: Talent
+    imagehash: sana_qureshi_a633d68604
+    email: Sana.Qureshi@tbs-sct.gc.ca
+    linkedin: sana-qureshi-35206a11
+  - archived: false
     name: Sean Boots
     title:
       en: Policy
@@ -940,14 +964,6 @@ team:
     imagehash: stevie_ray_talbot_a27a93e939
     email: Steven.Talbot@tbs-sct.gc.ca
     twitter: StevieRayTalbot
-  - archived: false
-    name: Tamreen Arif
-    title:
-      en: Policy
-      fr: Politiques
-    imagehash: small_tamreen_arif_36ee328dbb
-    email: tamreen.arif@tbs-sct.gc.ca
-    linkedin: /tamreen
   - archived: false
     name: Tim Arney
     title:
