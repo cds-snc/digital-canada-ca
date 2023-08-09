@@ -36,7 +36,7 @@ Nos paroles ont bien plus d’impact que nous ne le pensons. C’est en prenant 
 
 Certains changements peuvent se faire assez facilement, même pour des termes que l’on utilise depuis longtemps. Les rappels cordiaux et automatiques de Slackbot m’ont permis de dire adieu à certaines expressions, à l’écrit comme à l’oral. 
 
-Pour continuer en ce sens, voici une [liste de termes habituels dans le contexte professionnel](https://cds-snc.github.io/talent/inclusive-lexicon-FR/) que nous essayons d’éliminer du vocabulaire du SNC.
+Pour continuer en ce sens, voici une [liste de termes habituels dans le contexte professionnel](https://numerique.canada.ca/lexique-du-langage-inclusif/) que nous essayons d’éliminer du vocabulaire du SNC.
 
 ## Viser le progrès, pas la perfection
 
@@ -51,7 +51,6 @@ Si vous cherchez vous aussi à mieux choisir vos mots, voici quelques-unes de no
 * Si vous réalisez que vous continuez à utiliser un terme sans le vouloir, trouvez un binôme qui vous mettra face à vos responsabilités.
 
 * Lorsque vous parlez, prêtez attention à l’impact de vos paroles sur vos interlocuteurs. Guettez les silences, les soupirs ou les tensions.
-
 
 Bien sûr, l’expression « des paroles en l’air » n’a pas tort de pointer du doigt quiconque parle à la légère. Mais nos paroles ont un poids : celui de l’histoire. Si nous ne pouvons pas changer cette dernière, nous pouvons choisir nos mots avec soin pour que chaque jour soit plus inclusif que le précédent. 
 
