@@ -36,7 +36,7 @@ Our language has more impact than we realize. If we take the time to learn about
 
 Making these changes can be relatively straightforward, no matter how long you’ve been using the previous terms. I stopped writing (and saying) “guys” pretty quickly with help of those friendly and automated prompts from Slackbot. 
 
-In an effort to be more mindful, here’s a list of [common workplace words](https://cds-snc.github.io/talent/inclusive-lexicon/) that we’re trying to take out of our vocabulary at CDS.
+In an effort to be more mindful, here’s a list of [common workplace words](https://digital.canada.ca/inclusive-language-lexicon/) that we’re trying to take out of our vocabulary at CDS.
 
 ## Progress over perfection
 
@@ -51,7 +51,6 @@ If you’re also working on being more mindful of your words, here are some stra
 * If you find that you accidentally keep using a term, find a buddy to keep you accountable.
 
 * When you speak, be more conscious of how your words are impacting people. Check for silences, sighs, or tense body language.
-
 
 There’s some wisdom in “actions speak louder than words”. Empty words don’t do anyone much good. But language is not empty; it carries the weight of history. While we can’t change history, we can thoughtfully use our words to help make today more inclusive than it was yesterday. 
 
