@@ -599,6 +599,14 @@ team:
     email: jessica.fan@tbs-sct.gc.ca
     linkedin: jessicafan
   - archived: false
+    name: Jessica Fan
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: small_jessica_fan_a6c7fa89db
+    email: jessica.fan@tbs-sct.gc.ca
+    linkedin: jessicafan
+  - archived: false
     name: Jessica Loadenthal
     title:
       en: Talent
