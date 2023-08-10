@@ -23,14 +23,16 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-xs-12">
+                <h3 style="margin-bottom: 3rem;">Postes à pourvoir</h3>
+                {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
                 <div>
-                    {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                    
                         <h3>Ce que nous recherchons</h3>
                         <p>Vous êtes passionné par les expériences des gens et souhaitez améliorer leur vie. Vous êtes curieux et votre humilité vous aide à apprendre et à grandir. Vous aimez collaborer avec des gens occupant différents rôles et avec d’autres organisations. Vous créez des structures pour mettre un sens à l’ambiguïté et vous vous frayez un chemin dans de nouveaux environnements.</p>
 
                         <div class="row">
+                            
                             {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
-                                <h3>Postes à pourvoir</h3>
                                 {{ range $p := (where .Pages ".Params.archived" "==" false) }}
                     
                                 <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
@@ -38,8 +40,14 @@
                                 {{ end }}
                             {{ end }}
                         </div>
-                    {{end}}
+                    
                 </div>
+                {{ else }}
+                <div>
+                    <p style="margin-bottom: auto;">Il n’y a pas de postes à pouvoir à l’heure actuelle. Veuillez revenir plus tard.</p>
+                    
+                </div>
+                {{end}}
             </div>
         </div>
     </div>
