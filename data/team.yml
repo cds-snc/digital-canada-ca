@@ -335,7 +335,7 @@ team:
     email: Bryan.Willey@tbs-sct.gc.ca
     github: willeybryan
     linkedin: bryan-willey
-  - archived: false
+  - archived: true
     name: Caitlin Tom
     title:
       en: Policy
