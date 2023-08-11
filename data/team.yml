@@ -335,7 +335,7 @@ team:
     email: Bryan.Willey@tbs-sct.gc.ca
     github: willeybryan
     linkedin: bryan-willey
-  - archived: false
+  - archived: true
     name: Caitlin Tom
     title:
       en: Policy
@@ -896,7 +896,7 @@ team:
     imagehash: sana_qureshi_a633d68604
     email: Sana.Qureshi@tbs-sct.gc.ca
     linkedin: sana-qureshi-35206a11
-  - archived: false
+  - archived: true
     name: Sean Boots
     title:
       en: Policy
