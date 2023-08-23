@@ -3,7 +3,6 @@ title: 'Aider les Canadiens à faible revenu à produire leur déclaration fisca
 translationKey: low-income-file-taxes
 description: >-
   Explorer l’idée d’un service pour aider les Canadiens à faible revenu à recevoir les prestations et les remboursements auxquels ils ont droit en facilitant la production de leur déclaration de revenus.
-product-url: https://claim-tax-benefits.herokuapp.com/start?lang=fr
 phase: null
 status: past
 onhomepage: false
