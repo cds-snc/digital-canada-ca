@@ -252,7 +252,7 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<li>collecte des renseignements personnels du ou de la demandeur·se (jusqu’au niveau Protégé A) ;</li>
+<li>collecte des renseignements personnels du ou de la demandeur·se (jusqu’au niveau Protégé B) ;</li>
 
 
 
