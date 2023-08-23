@@ -220,7 +220,7 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<li>Collecting applicant data (up to Protected A);</li>
+<li>Collecting applicant data (up to Protected B);</li>
 
 
 
