@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5 # v2.7.0
 
     - name: Load git submodules
       run: git submodule sync && git submodule update --init
@@ -27,7 +27,7 @@ jobs:
         chmod -R 755 ~/cds-website-dist
 
     - name: Cache build
-      uses: actions/cache@v2
+      uses: actions/cache@2b250bc32ad02700b996b496c14ac8c2840a2991 # v2.1.8
       with:
         path: |
           ~/cds-website-dist
@@ -42,13 +42,13 @@ jobs:
         lang: ["fr", "en"]
     steps:
       - name: Retrieve Cache
-        uses: actions/cache@v2
+        uses: actions/cache@2b250bc32ad02700b996b496c14ac8c2840a2991 # v2.1.8
         with:
           path: |
             ~/cds-website-dist
           key: ${{ runner.os }}-${{ github.sha }}
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@250fcd6a742febb1123a77a841497ccaa8b9e939 # v1.152.0
         with:
           ruby-version: 3.0
       - name: install html proofer
@@ -57,7 +57,7 @@ jobs:
         run: |
           htmlproofer ~/cds-website-dist/${{ matrix.lang }} --allow_hash_href --ignore_empty_alt --disable_external --ignore_files=/lib/,/admin/ --checks=favicon
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@ee0669bd1cc54295c223e0bb666b733df41de1c5 # v2.7.0
       - name: npm init
         run: npm init -y
       - name: uuid-test
@@ -79,14 +79,14 @@ jobs:
             bucket: "cds-website-english-dist"
     steps:
       - name: Retrieve Cache
-        uses: actions/cache@v2
+        uses: actions/cache@2b250bc32ad02700b996b496c14ac8c2840a2991 # v2.1.8
         with:
           path: |
             ~/cds-website-dist
           key: ${{ runner.os }}-${{ github.sha }}
       - name: Configure AWS credentials
         id: aws-creds
-        uses: aws-actions/configure-aws-credentials@v1
+        uses: aws-actions/configure-aws-credentials@67fbcbb121271f7775d2e7715933280b06314838 # v1.7.0
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
