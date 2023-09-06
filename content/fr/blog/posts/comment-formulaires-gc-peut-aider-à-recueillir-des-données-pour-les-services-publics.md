@@ -19,7 +19,7 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-1" style="background-color:#d8d8d8">
+<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-1 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
 <p><strong>Si les produits de santé naturels ne vous évoquent rien, <a href="https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/naturels-sans-ordonnance/reglement/trousse-information.html" target="_blank" rel="noreferrer noopener">la réglementation de Santé Canada</a> (qui a vu le jour en 2004) les définit comme les :</strong></p>
 
 
