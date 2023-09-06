@@ -33,7 +33,7 @@ We found that Puppeteer was easier for our devs to use then other alternatives. 
 
 Use [the accessibility checklist created by](https://accessibility.18f.gov/checklist/)[18F](https://accessibility.18f.gov/checklist/) (the US government&#39;s digital agency) to help you test for common accessibility problems, including:
 
-- lack of keyboard accessibility (important because people who use screen readers, voice recognition or have situational, temporary of permanent mobility related disabilities may rely on using a keyboard to navigate websites)
+- lack of keyboard accessibility (important because people who use screen readers, voice recognition or have situational, temporary or permanent mobility related disabilities may rely on using a keyboard to navigate websites)
 - ensure that the content is written in plain language
 - link text that&#39;s not descriptive (for example, &#39;click here&#39; and &#39;read more&#39; links)
 - lack of colour contrast for text and important graphics or lack of proper controls
