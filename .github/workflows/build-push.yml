@@ -94,7 +94,7 @@ jobs:
             ~/cds-website-dist
           key: ${{ runner.os }}-${{ github.sha }}
       - name: configure aws credentials using OIDC              
-        uses: aws-actions/configure-aws-credentials@e1e17a757e536f70e52b5a12b2e8d1d1c60e04ef # v2.0.0
+        uses: aws-actions/configure-aws-credentials@ef93a73b1313f148011965ef7361f667f371f58b # v3.0.0
         with:
           role-to-assume: arn:aws:iam::521732289257:role/digital-canada-ca-apply  # TF apply
           role-session-name: cache
