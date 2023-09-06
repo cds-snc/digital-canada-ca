@@ -15,7 +15,7 @@ translationKey: blog-conversation-vic
 
 
 
-<figure class="wp-block-pullquote"><blockquote><p>“<em>It’s easy to underestimate the impact that a learning culture can have on leveliing the playing field for people with intersecting identities.</em>” </p><cite>Vic Chan, Website Team Lead</cite></blockquote></figure>
+<figure class="wp-block-pullquote"><blockquote><p>“<em>It’s easy to underestimate the impact that a learning culture can have on leveling the playing field for people with intersecting identities.</em>” </p><cite>Vic Chan, Website Team Lead</cite></blockquote></figure>
 
 
 
@@ -71,7 +71,7 @@ translationKey: blog-conversation-vic
 
 
 
-<p>It’s easy to underestimate the impact that a learning culture can have on levelling the playing field for people with intersecting identities. From experiencing its value firsthand,&nbsp;<strong>I try to integrate mentorship and coaching into my role as a manager and collaborator because at some point, someone did the same for me.&nbsp;</strong></p>
+<p>It’s easy to underestimate the impact that a learning culture can have on leveling the playing field for people with intersecting identities. From experiencing its value firsthand, <strong>I try to integrate mentorship and coaching into my role as a manager and collaborator because at some point, someone did the same for me. </strong></p>
 
 
 
