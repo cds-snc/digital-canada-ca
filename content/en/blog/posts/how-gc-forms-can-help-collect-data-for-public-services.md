@@ -19,7 +19,7 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-1" style="background-color:#d8d8d8">
+<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-1 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
 <p><strong>For those not familiar with natural health products, <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/regulation/information-kit.html">Health Canada&#8217;s regulations</a> (which began in 2004) define them as:</strong></p>
 
 
