@@ -8,7 +8,7 @@ exec:
     email: Andrea.Gilbrook@tbs-sct.gc.ca
     linkedin: andreagilbrook
     twitter: andreagilbrook
-  - archived: true
+  - archived: false
     name: Andréanne Trudeau
     title:
       en: Head of Consulting
@@ -164,7 +164,7 @@ exec:
     imagehash: paul_joseph_d15d7971bb
     email: Paul.Joseph@tbs-sct.gc.ca
     linkedin: lastingdiscovery
-  - archived: true
+  - archived: false
     name: Sage Cram
     title:
       en: Head of Intake
