@@ -65,3 +65,5 @@ Les versions française et anglaise seront hébergées à [localhost:1314](http:
 Développé par [Strapi](https://strapi.io/). Le code d’instance Strapi utilisé par ce site Web peut être consulté à [https://github.com/cds-snc/cds-website-cms](https://github.com/cds-snc/cds-website-cms).
 
 Veuillez consulter nos [directives sur les contributions au référentiel Github](CONTRIBUTING.md) pour apprendre comment apporter des modifications au contenu géré par le SGC.
+
+2023
