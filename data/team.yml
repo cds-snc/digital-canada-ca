@@ -8,7 +8,7 @@ exec:
     email: Andrea.Gilbrook@tbs-sct.gc.ca
     linkedin: andreagilbrook
     twitter: andreagilbrook
-  - archived: true
+  - archived: false
     name: Andréanne Trudeau
     title:
       en: Head of Consulting
@@ -52,13 +52,6 @@ exec:
       fr: Directrice - Alerte COVID
     imagehash: small_emily_kuret_dcd8f527da
     email: emily.kuret@tbs-sct.gc.ca
-  - archived: false
-    name: Jennifer Fletcher
-    title:
-      en: Acting Head of Intake
-      fr: Cheffe par intérim de la réception des demandes
-    imagehash: jen_fletcher_c9156fb097
-    email: jennifer.fletcher@tbs-sct.gc.ca
   - archived: false
     name: Jennifer Stephan
     title:
@@ -164,7 +157,7 @@ exec:
     imagehash: paul_joseph_d15d7971bb
     email: Paul.Joseph@tbs-sct.gc.ca
     linkedin: lastingdiscovery
-  - archived: true
+  - archived: false
     name: Sage Cram
     title:
       en: Head of Intake
@@ -178,14 +171,6 @@ exec:
       fr: Cheffe de cabinet
     imagehash: stephanie_gauthier_810f99aeb6
     email: Stephanie.Gauthier@tbs-sct.gc.ca
-  - archived: false
-    name: Tamreen Arif
-    title:
-      en: Acting Head of Consulting
-      fr: Cheffe par intérim du conseil
-    imagehash: small_tamreen_arif_36ee328dbb
-    email: tamreen.arif@tbs-sct.gc.ca
-    linkedin: /tamreen
   - archived: false
     name: Wendy Luciani
     title:
@@ -591,6 +576,13 @@ team:
     linkedin: jeffmaher
     twitter: plusjeff
   - archived: false
+    name: Jennifer Fletcher
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: jen_fletcher_c9156fb097
+    email: jennifer.fletcher@tbs-sct.gc.ca
+  - archived: false
     name: Jessica Fan
     title:
       en: Partnerships
@@ -948,6 +940,14 @@ team:
     imagehash: stevie_ray_talbot_a27a93e939
     email: Steven.Talbot@tbs-sct.gc.ca
     twitter: StevieRayTalbot
+  - archived: false
+    name: Tamreen Arif
+    title:
+      en: Partnerships
+      fr: Partenariats
+    imagehash: small_tamreen_arif_36ee328dbb
+    email: tamreen.arif@tbs-sct.gc.ca
+    linkedin: /tamreen
   - archived: false
     name: Tim Arney
     title:
