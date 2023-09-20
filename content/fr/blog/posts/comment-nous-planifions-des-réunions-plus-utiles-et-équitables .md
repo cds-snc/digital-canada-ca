@@ -3,7 +3,7 @@ layout: blog
 title: 'Comment nous planifions des réunions plus utiles et équitables '
 description: >-
   Les principes axés sur l’action aident les fonctionnaires à planifier des réunions plus utiles et équitables. Résultat : un gain de temps et de capacité de prestation.
-author: 'Sam Burton, Rashi Khilnani, and Melissa Toutloff (Senior Policy Advisors at CDS)'
+author: 'Sam Burton, Rashi Khilnani, and Melissa Toutloff(Conseillères principales en politiques au SNC) '
 date: '2023-09-14T13:26:11'
 image: https://articles.alpha.canada.ca/uploads/sites/25/2023/09/FR-PlanningUsefulEquitableMeetings_FIP_Blog_Post.png
 image-alt: Un calendrier dont les icônes représentent la préparation de réunions. envoi de courriels offrant des éléments de contexte importants, planification, suivi du temps et collaboration.
