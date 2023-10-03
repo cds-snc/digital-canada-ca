@@ -725,9 +725,12 @@ span.livefr {
   .url {
     font-size: 2.3rem;
   }
-  input {
+  input:not([type='radio'], [type='file']) {
     width: 100%;
     border: 2px black solid;
+  }
+  input[type=radio]{
+    margin: 0 5px 5px 5px;
   }
   textarea {
     width: 100%;
@@ -741,6 +744,7 @@ span.livefr {
     background-color: black;
     margin-bottom: 2rem;
     margin-top: 1rem;
+    width: auto;
 
     div {
       cursor: pointer;
@@ -748,6 +752,7 @@ span.livefr {
       margin: 1rem;
       font-size: 2.3rem;
       font-weight: 600;
+      width: auto;
     }
 
   }
