@@ -103,11 +103,11 @@
 
       <div class="form-group">
         <p style="color: black; font-size: 2.3rem; font-weight: 600;">Preferred language for communication</p>
-        <input type="radio" id="francais" name="preferred_language" value="Francais" aria-required="true"/>
+        <input type="radio" id="francais" class="radio-control validate-required" name="preferred-language" value="Francais" aria-required="true" aria-describedby="preferred-language-required"/>
         <label for="francais">Francais</label><br>
-        <input type="radio" id="english" name="preferred_language" value="English" />
+        <input type="radio" id="english" class="radio-control validate-required" name="preferred-language" value="English" aria-required="true" aria-describedby="preferred-language-required"/>
         <label for="english">English</label><br>
-        <span id="email-required" class="error-message validate-required-message" style="display: none;">This field
+        <span id="preferred-language-required" class="error-message validate-required-message" style="display: none;">This field
           is required</span>
       </div>
 
@@ -118,14 +118,18 @@
         <label for="resume">Resume
           <div class="browse">
             <div>Browse...
-              <input class="resume" type="file" id="resume" name="resume"
-                accept="application/msword, application/pdf, text/plain" required />
+              <input class="resume form-control validate-required" type="file" id="resume" name="resume"
+                accept="application/msword, application/pdf, text/plain" aria-required="true" aria-describedby="resume" />
             </div>
 
           </div>
+
         </label>
 
         <span class="no-file-chosen" id="no-file-chosen-text">No file selected</span>
+        <span id="resume-error" class="error-message resume-validate-required-message" style="display: none;">This field
+          is required</span>
+
 
       </div>
 
@@ -139,29 +143,31 @@
 
       <div class="form-group">
         <p style="color: black; font-size: 2.3rem; font-weight: 600;">Where did you hear about this job posting?</p>
-        <input type="radio" id="cds-career-page" name="where-did-you-hear" value="CDS Career Page" aria-required="true"/>
+        <input type="radio" class="radio-control validate-required" id="cds-career-page" name="where-did-you-hear" value="CDS Career Page" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="cds-career-page">CDS Career Page</label><br>
 
-        <input type="radio" id="goc-jobs" name="where-did-you-hear" value="Jobs.gc.ca" />
+        <input type="radio" class="radio-control validate-required" id="goc-jobs" name="where-did-you-hear" value="Jobs.gc.ca" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="goc-jobs">Jobs.gc.ca</label><br>
 
-        <input type="radio" id="linkedin" name="where-did-you-hear" value="LinkedIn" />
+        <input type="radio" class="radio-control validate-required" id="linkedin" name="where-did-you-hear" value="LinkedIn" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="linkedin">LinkedIn</label><br>
 
-        <input type="radio" id="facebook-groups" name="where-did-you-hear" value="Facebook groups" />
+        <input type="radio" class="radio-control validate-required" id="facebook-groups" name="where-did-you-hear" value="Facebook groups" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="facebook-groups">Facebook groups</label><br>
 
-        <input type="radio" id="communities-queertech" name="where-did-you-hear" value="Communities - Queertech" />
+        <input type="radio" class="radio-control validate-required" id="communities-queertech" name="where-did-you-hear" value="Communities - Queertech" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="communities-queertech">Communities - Queertech</label><br>
 
-        <input type="radio" id="communities-other" name="where-did-you-hear" value="Communities - Other" />
+        <input type="radio" class="radio-control validate-required" id="communities-other" name="where-did-you-hear" value="Communities - Other" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="communities-other">Communities - Other</label><br>
 
-        <input type="radio" id="employee-ref" name="where-did-you-hear" value="Employee Referral" />
+        <input type="radio" class="radio-control validate-required" id="employee-ref" name="where-did-you-hear" value="Employee Referral" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="employee-ref">Employee Referral</label><br>
 
-        <input type="radio" id="friend-family-ref" name="where-did-you-hear" value="Friend/Family Referral" />
+        <input type="radio" class="radio-control validate-required" id="friend-family-ref" name="where-did-you-hear" value="Friend/Family Referral" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="friend-family-ref">Friend/Family Referral</label><br>
+        <span id="preferred-language-required" class="error-message validate-required-message" style="display: none;">This field
+          is required</span>
       </div>
 
       <!-- Accommodation -->
@@ -179,7 +185,7 @@
       <!-- Body -->
 
       <div class="form-group">
-        <label for="body">What should we know about yo? (300 words)</label>
+        <label for="body">What should we know about you? (300 words)</label>
         <textarea class="form-control validate-maxwords" id="body" name="body" rows="5"
           aria-required="true" aria-describedby="body-required word-count-message"></textarea>
         </span>
@@ -189,12 +195,10 @@
       </div>
 
       <!-- Submit-->
-      <div>
-        <button type="submit" class="submit-button" id="submit-btn">
-          <span class="submit-button-text">Submit<img src="/img/icons/arrow-right-white.svg" role="presentation"
-              alt="" /></span>
-        </button>
-      </div>
+      <button type="submit" class="submit-button" id="submit-btn" value="Submit">
+        <span class="submit-button-text">Submit<img src="/img/icons/arrow-right-white.svg" role="presentation"
+            alt="" /></span>
+      </button>
       <div>
         <p>In cases where the form can't be used, please send your resume to <a href="mailto: cds-snc@tbs-gct.gc.ca">cds-snc@tbs-gct.gc.ca</a></p>
       </div>

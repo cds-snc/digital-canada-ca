@@ -85,9 +85,6 @@ $(document).ready(function () {
     document.getElementById("dropdwn-cnt").style.display = "block"
     document.getElementById("coaching-and-advice-nav-tag").focus();
   })
-  document.addEventListener("keyup", function (e) {
-    console.log(document.activeElement)
-  })
 
 
 
@@ -140,6 +137,14 @@ $(document).ready(function () {
    */
   $("#contactForm #resume").on("change", function (event) {
     var file = $("#contactForm #resume")[0].files[0].name;
+    if ($("#no-file-chosen-text").hide()) {
+      $("#no-file-chosen-text").show()
+      $("#resume-error").hide();
+      $(this).removeClass("error");
+      $(this).closest(".form-group").removeClass("error");
+      
+      $(this).attr("aria-invalid", "false");
+    }
     $("#contactForm #no-file-chosen-text").html(file);
   });
 
@@ -150,6 +155,8 @@ $(document).ready(function () {
     event.preventDefault();
 
     var formData = new FormData($("#contactForm")[0]);
+    var fileLength = $("#contactForm #resume")[0].files.length;
+
     /**
      * Form Validation
      */
@@ -188,7 +195,23 @@ $(document).ready(function () {
         errors.push($this);
         valid = false;
       }
+
+      if (fileLength < 1 && $this.hasClass("validate-required")) {
+        errors.push($this);
+        $("#resume-error").show();
+        $("#no-file-chosen-text").hide();
+        valid = false;
+      }
     });
+
+    $("#contactForm .radio-control").each(function() {
+      var $this = $(this);
+
+      if ($this.attr("checked") != "checked" && $this.hasClass("validate-required")) {
+        errors.push($this);
+        valid = false;
+      }
+    })
 
     /**
      * Handle invalid items
@@ -225,37 +248,49 @@ $(document).ready(function () {
     var endpoint =
       "https://dowr6jfsw2.execute-api.ca-central-1.amazonaws.com/production/lever";
 
-    $.ajax({
-      type: "POST",
-      url: endpoint,
-      data: formData,
-      contentType: false,
-      processData: false,
-      complete: function (r) {
-        console.log(r.responseText);
-      },
-      success: function () {
-        if (pageLanguage == "en") {
-          window.location.href = "/thank-you/";
-        } else {
-          window.location.href = "/merci/";
-        }
-      },
-      error: function (xhr, textStatus, errorThrown) {
-        console.log("Error", textStatus);
-        console.log("Error", errorThrown);
-        if (pageLanguage == "en") {
-          window.location.href = "/error/";
-        } else {
-          window.location.href = "/erreur/";
-        }
-      },
-    });
+    // $.ajax({
+    //   type: "POST",
+    //   url: endpoint,
+    //   data: formData,
+    //   contentType: false,
+    //   processData: false,
+    //   complete: function (r) {
+    //     console.log(r.responseText);
+    //   },
+    //   success: function () {
+    //     if (pageLanguage == "en") {
+    //       window.location.href = "/thank-you/";
+    //     } else {
+    //       window.location.href = "/merci/";
+    //     }
+    //   },
+    //   error: function (xhr, textStatus, errorThrown) {
+    //     console.log("Error", textStatus);
+    //     console.log("Error", errorThrown);
+    //     if (pageLanguage == "en") {
+    //       window.location.href = "/error/";
+    //     } else {
+    //       window.location.href = "/erreur/";
+    //     }
+    //   },
+    // });
   });
 
   /**
    * Check if there is a validation error to be cleared
    */
+
+  $("#contactForm .radio-control").click(function (e){
+    var $this = $(this);
+    console.log($this)
+
+    if ($this.hasClass("validate-required") && $this.is(':checked')) {
+      $this.removeClass("error");
+      $this.closest(".form-group").removeClass("error");
+      $this.siblings(".error-message").hide();
+      $this.attr("aria-invalid", "false");
+    }
+  })
   $("#contactForm .form-control").keyup(function (e) {
     var $this = $(this);
 
