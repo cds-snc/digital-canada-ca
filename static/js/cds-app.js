@@ -140,6 +140,7 @@ $(document).ready(function () {
     if ($("#no-file-chosen-text").hide()) {
       $("#no-file-chosen-text").show()
       $("#resume-error").hide();
+      $("#break-id").hide();
       $(this).removeClass("error");
       $(this).closest(".form-group").removeClass("error");
       
@@ -197,8 +198,8 @@ $(document).ready(function () {
       }
 
       if (fileLength < 1 && $this.hasClass("validate-required")) {
-        errors.push($this);
         $("#resume-error").show();
+        $("#break-id").show();
         $("#no-file-chosen-text").hide();
         valid = false;
       }
