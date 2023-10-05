@@ -249,32 +249,32 @@ $(document).ready(function () {
     var endpoint =
       "https://dowr6jfsw2.execute-api.ca-central-1.amazonaws.com/production/lever";
 
-    // $.ajax({
-    //   type: "POST",
-    //   url: endpoint,
-    //   data: formData,
-    //   contentType: false,
-    //   processData: false,
-    //   complete: function (r) {
-    //     console.log(r.responseText);
-    //   },
-    //   success: function () {
-    //     if (pageLanguage == "en") {
-    //       window.location.href = "/thank-you/";
-    //     } else {
-    //       window.location.href = "/merci/";
-    //     }
-    //   },
-    //   error: function (xhr, textStatus, errorThrown) {
-    //     console.log("Error", textStatus);
-    //     console.log("Error", errorThrown);
-    //     if (pageLanguage == "en") {
-    //       window.location.href = "/error/";
-    //     } else {
-    //       window.location.href = "/erreur/";
-    //     }
-    //   },
-    // });
+    $.ajax({
+      type: "POST",
+      url: endpoint,
+      data: formData,
+      contentType: false,
+      processData: false,
+      complete: function (r) {
+        console.log(r.responseText);
+      },
+      success: function () {
+        if (pageLanguage == "en") {
+          window.location.href = "/thank-you/";
+        } else {
+          window.location.href = "/merci/";
+        }
+      },
+      error: function (xhr, textStatus, errorThrown) {
+        console.log("Error", textStatus);
+        console.log("Error", errorThrown);
+        if (pageLanguage == "en") {
+          window.location.href = "/error/";
+        } else {
+          window.location.href = "/erreur/";
+        }
+      },
+    });
   });
 
   /**
