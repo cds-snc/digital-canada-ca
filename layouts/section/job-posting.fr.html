@@ -77,7 +77,7 @@
       <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
       <!-- Pronouns -->
       <div class="form-group">
-        <label for="pronouns">Pronom(s) <span class="alt-label"> (optional)</span></label>
+        <label for="pronouns">Pronom(s)</label>
         <input type="text" class="form-control" id="pronouns" name="pronouns" />
       </div>
       <!-- Full Name -->
@@ -90,7 +90,7 @@
       </div>
       <!-- Email -->
       <div class="form-group">
-        <label for="email">Adresse Courriel</label>
+        <label for="email">Adresse courriel</label>
         <input type="email" name="email" class="form-control validate-required validate-email" id="email"
           aria-required="true" aria-describedby="email-required" />
         <span id="email-required" class="error-message validate-required-message" style="display: none;">Ce champ est
@@ -99,26 +99,32 @@
       <!-- Preferred Language -->
 
       <div class="form-group">
-        <p style="color: black; font-size: 2.3rem; font-weight: 600;">Langue de communication souhaitée</p>
-        <input type="radio" id="francais" name="francais" value="Francais" />
-        <label for="francais">Francais</label><br>
-        <input type="radio" id="english" name="english" value="English" />
+        <p style="color: black; font-size: 2.3rem; font-weight: 600;">Preferred language for communication</p>
+        <input type="radio" id="francais" class="radio-control validate-required" name="preferred-language" value="Francais" aria-required="true" aria-describedby="preferred-language-required"/>
+        <label for="francais">Français</label><br>
+        <input type="radio" id="english" class="radio-control validate-required" name="preferred-language" value="English" aria-required="true" aria-describedby="preferred-language-required"/>
         <label for="english">English</label><br>
+        <span id="preferred-language-required" class="error-message validate-required-message" style="display: none;">Ce champ est
+          obligatoire</span>
       </div>
 
       <!-- Resume -->
 
       <div class="form-group">
-        <label for="resume">CV
+        <label for="resume">Resume
           <div class="browse">
-            <div>Parcourir...
-              <input class="resume" type="file" id="resume" name="resume"
-                accept="application/msword, application/pdf, text/plain" required />
+            <div>Browse...
+              <input class="resume form-control validate-required" type="file" id="resume" name="resume"
+                accept="application/msword, application/pdf, text/plain" aria-required="true" aria-describedby="resume" />
             </div>
 
           </div>
+
         </label>
-        <span class="no-file-chosen" id="no-file-chosen-text">Aucun fichier sélectionné</span>
+
+        <span class="no-file-chosen" id="no-file-chosen-text">No file selected</span>
+        <span id="resume-error" class="error-message resume-validate-required-message" style="display: none;">Ce champ est
+          obligatoire</span>
 
 
       </div>
@@ -132,56 +138,54 @@
       <!-- How did you hear about this job-->
 
       <div class="form-group">
-        <p style="color: black; font-size: 2.3rem; font-weight: 600;">Comment avez-vous entendu parler de cette offre
-          d’emploi?</p>
-        <input type="radio" id="cds-career-page" name="cds-career-page" value="Page « Carrières » du SNC" />
-        <label for="cds-career-page">Page « Carrières » du SNCe</label><br>
+        <p style="color: black; font-size: 2.3rem; font-weight: 600;">Comment avez-vous entendu parler de cette offre d’emploi?</p>
+        <input type="radio" class="radio-control validate-required" id="cds-career-page" name="where-did-you-hear" value="Page « Carrières » du SNC" aria-required="true" aria-describedby="where-did-you-hear"/>
+        <label for="cds-career-page">Page « Carrières » du SNC</label><br>
 
-        <input type="radio" id="goc-jobs" name="goc-jobs" value="Emplois.gc.ca" />
+        <input type="radio" class="radio-control validate-required" id="goc-jobs" name="where-did-you-hear" value="Emplois.gc.ca" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="goc-jobs">Emplois.gc.ca</label><br>
 
-        <input type="radio" id="linkedin" name="linkedin" value="LinkedIn" />
+        <input type="radio" class="radio-control validate-required" id="linkedin" name="where-did-you-hear" value="LinkedIn" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="linkedin">LinkedIn</label><br>
 
-        <input type="radio" id="facebook-groups" name="facebook-groups" value="Groupes Facebook" />
+        <input type="radio" class="radio-control validate-required" id="facebook-groups" name="where-did-you-hear" value="Groupes Facebook" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="facebook-groups">Groupes Facebook</label><br>
 
-        <input type="radio" id="communities-queertech" name="communities-queertech" value="Communautés — Queertech" />
+        <input type="radio" class="radio-control validate-required" id="communities-queertech" name="where-did-you-hear" value="Communautés — Queertech" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="communities-queertech">Communautés — Queertech</label><br>
 
-        <input type="radio" id="communities-other" name="communities-other" value="Communautés — Autres" />
+        <input type="radio" class="radio-control validate-required" id="communities-other" name="where-did-you-hear" value="Communautés — Autres" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="communities-other">Communautés — Autres</label><br>
 
-        <input type="radio" id="employee-ref" name="employee-ref" value="Recommandation par un·e employé·e" />
+        <input type="radio" class="radio-control validate-required" id="employee-ref" name="where-did-you-hear" value="Recommandation par un·e employé·e" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="employee-ref">Recommandation par un·e employé·e</label><br>
 
-        <input type="radio" id="friend-family-ref" name="friend-family-ref"
-          value="Recommandation par un·e ami·e ou membre de la famille" />
+        <input type="radio" class="radio-control validate-required" id="friend-family-ref" name="where-did-you-hear" value="Recommandation par un·e ami·e ou membre de la famille" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="friend-family-ref">Recommandation par un·e ami·e ou membre de la famille</label><br>
+        <span id="preferred-language-required" class="error-message validate-required-message" style="display: none;">Ce champ est
+          obligatoire</span>
       </div>
 
       <!-- Accommodation -->
 
       <div class="form-group">
         <p style="color: black; font-size: 2.3rem; font-weight: 600;">Aurez-vous besoin de mesures d’adaptation durant le processus de recrutement?</p>
-        <input type="radio" id="yes-accommodation" name="yes-accommodation" value="Yes" />
-        <label for="yes-accommodation">Oui</label><br>
+        <input type="radio" id="yes-accommodation" name="accommodation" value="Oui" />
+        <label for="yes-accommodation">Yes</label><br>
 
-        <input type="radio" id="no-accommodation" name="no-accommodation" value="No" />
-        <label for="no-accommodation">Non</label><br>
+        <input type="radio" id="no-accommodation" name="accommodation" value="Non" />
+        <label for="no-accommodation">No</label><br>
 
       </div>
       <!-- Body -->
 
       <div class="form-group">
-        <label for="body">Que devons-nous savoir à votre sujet?* (300 mots)</label>
-        <textarea class="form-control validate-required validate-maxwords" id="body" name="body" rows="5"
+        <label for="body">Que devons-nous savoir à votre sujet? (300 mots)</label>
+        <textarea class="form-control validate-maxwords" id="body" name="body" rows="5"
           aria-required="true" aria-describedby="body-required word-count-message"></textarea>
-        <span id="body-required" class="error-message validate-required-message" style="display: none;">Ce champ est
-          obligatoire<br />
         </span>
         <span id="word-count-message" class="help-text">
-          <span id="word-count">300</span> mots restants</span>
+          <span id="word-count">300</span> words remaining</span>
 
       </div>
 
