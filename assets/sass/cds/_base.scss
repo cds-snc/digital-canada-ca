@@ -217,6 +217,20 @@ input.error {
 	border-left: 4px solid red;
 }
 
+.form-group {
+	margin-bottom: 2rem;
+
+	.radio-div {
+		margin-bottom: 1rem;
+
+		span {
+			color: black; 
+			font-size: 2.3rem; 
+			font-weight: 600;
+		}
+	}
+}
+
 .error-message {
 	color: red;
 }

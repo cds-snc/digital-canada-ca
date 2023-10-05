@@ -99,7 +99,10 @@
       <!-- Preferred Language -->
 
       <div class="form-group">
-        <p style="color: black; font-size: 2.3rem; font-weight: 600;">Preferred language for communication</p>
+        
+        <div class="radio-div">
+          <span>Preferred language for communication</span>
+        </div>
         <input type="radio" id="francais" class="radio-control validate-required" name="preferred-language" value="Francais" aria-required="true" aria-describedby="preferred-language-required"/>
         <label for="francais">Français</label><br>
         <input type="radio" id="english" class="radio-control validate-required" name="preferred-language" value="English" aria-required="true" aria-describedby="preferred-language-required"/>
@@ -111,7 +114,7 @@
       <!-- Resume -->
 
       <div class="form-group">
-        <label for="resume">CV
+        <label for="resume">Téléverser votre CV
           <div class="browse">
             <div>Parcourir...
               <input class="resume form-control validate-required" type="file" id="resume" name="resume"
@@ -138,7 +141,10 @@
       <!-- How did you hear about this job-->
 
       <div class="form-group">
-        <p style="color: black; font-size: 2.3rem; font-weight: 600;">Comment avez-vous entendu parler de cette offre d’emploi?</p>
+        <div class="radio-div">
+          <span>Comment avez-vous entendu parler de cette offre d’emploi?</span>
+        </div>
+        
         <input type="radio" class="radio-control validate-required" id="cds-career-page" name="where-did-you-hear" value="Page « Carrières » du SNC" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="cds-career-page">Page « Carrières » du SNC</label><br>
 
@@ -169,12 +175,15 @@
       <!-- Accommodation -->
 
       <div class="form-group">
-        <p style="color: black; font-size: 2.3rem; font-weight: 600;">Aurez-vous besoin de mesures d’adaptation durant le processus de recrutement?</p>
+        <div class="radio-div">
+          <span>Aurez-vous besoin de mesures d’adaptation durant le processus de recrutement?</span>
+        </div>
+        
         <input type="radio" id="yes-accommodation" name="accommodation" value="Oui" />
-        <label for="yes-accommodation">Yes</label><br>
+        <label for="yes-accommodation">Oui</label><br>
 
         <input type="radio" id="no-accommodation" name="accommodation" value="Non" />
-        <label for="no-accommodation">No</label><br>
+        <label for="no-accommodation">Non</label><br>
 
       </div>
       <!-- Body -->

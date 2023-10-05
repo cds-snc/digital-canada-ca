@@ -744,7 +744,8 @@ span.livefr {
     background-color: black;
     margin-bottom: 2rem;
     margin-top: 1rem;
-    width: auto;
+    // width: auto;
+    width: fit-content;
 
     div {
       cursor: pointer;
@@ -765,7 +766,6 @@ span.livefr {
   .no-file-chosen {
     font-size: 2.2rem;
     font-weight: 100;
-    margin-left: 2rem;
   }
   .help-text {
     font-size: 2.3rem;

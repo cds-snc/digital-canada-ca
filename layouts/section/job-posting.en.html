@@ -102,7 +102,10 @@
       <!-- Preferred Language -->
 
       <div class="form-group">
-        <p style="color: black; font-size: 2.3rem; font-weight: 600;">Preferred language for communication</p>
+        <div class="radio-div">
+          <span>Preferred language for communication</span><br>
+        </div>
+        
         <input type="radio" id="francais" class="radio-control validate-required" name="preferred-language" value="Francais" aria-required="true" aria-describedby="preferred-language-required"/>
         <label for="francais">Français</label><br>
         <input type="radio" id="english" class="radio-control validate-required" name="preferred-language" value="English" aria-required="true" aria-describedby="preferred-language-required"/>
@@ -115,7 +118,7 @@
 
 
       <div class="form-group">
-        <label for="resume">Resume
+        <label for="resume">Upload your resume
           <div class="browse">
             <div>Browse...
               <input class="resume form-control validate-required" type="file" id="resume" name="resume"
@@ -125,7 +128,6 @@
           </div>
 
         </label><br id="break-id"style="display: none;">
-
 
         <span class="no-file-chosen" id="no-file-chosen-text">No file selected</span>
         <span id="resume-error" class="error-message resume-validate-required-message" style="display: none;">This field
@@ -143,7 +145,10 @@
       <!-- How did you hear about this job-->
 
       <div class="form-group">
-        <p style="color: black; font-size: 2.3rem; font-weight: 600;">Where did you hear about this job posting?</p>
+        <div class="radio-div">
+          <span>Where did you hear about this job posting?</span>
+        </div>
+        
         <input type="radio" class="radio-control validate-required" id="cds-career-page" name="where-did-you-hear" value="CDS Career Page" aria-required="true" aria-describedby="where-did-you-hear"/>
         <label for="cds-career-page">CDS Career Page</label><br>
 
@@ -174,7 +179,10 @@
       <!-- Accommodation -->
 
       <div class="form-group">
-        <p style="color: black; font-size: 2.3rem; font-weight: 600;">Do you need accommodation during the hiring process?</p>
+        <div class="radio-div">
+          <span>Do you need accommodation during the hiring process?</span>
+        </div>
+        
         <input type="radio" id="yes-accommodation" name="accommodation" value="Yes" />
         <label for="yes-accommodation">Yes</label><br>
 
