@@ -725,7 +725,7 @@ span.livefr {
   .url {
     font-size: 2.3rem;
   }
-  input:not([type='radio'], [type='file']) {
+  input:not([type=radio], [type=file]) {
     width: 100%;
     border: 2px black solid;
   }
