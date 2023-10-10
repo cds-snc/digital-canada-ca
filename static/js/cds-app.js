@@ -205,14 +205,29 @@ $(document).ready(function () {
       }
     });
 
-    $("#contactForm .radio-control").each(function() {
-      var $this = $(this);
+    // $("#contactForm .radio-control").each(function() {
+    //   var $this = $(this);
+    //   // console.log($this)
 
-      if ($this.attr("checked") != "checked" && $this.hasClass("validate-required")) {
-        errors.push($this);
-        valid = false;
-      }
-    })
+    //   if ($this.attr("checked") != "checked" && $this.hasClass("validate-required")) {
+        
+    //     errors.push($this);
+    //     valid = false;
+    //   }
+
+    // })
+    var $preferred_language = $("input[name=preferred-language]")
+    if ($('input[name=preferred-language]:checked').length < 1 && $preferred_language.hasClass("validate-required")) {
+      errors.push($preferred_language)
+      valid = false
+    }
+
+    var $where_did_you_hear = $("input[name=where-did-you-hear]")
+
+    if ($('input[name=where-did-you-hear]:checked').length < 1 && $where_did_you_hear.hasClass("validate-required")) {
+      errors.push($where_did_you_hear)
+      valid = false
+    }
 
     /**
      * Handle invalid items
@@ -275,6 +290,9 @@ $(document).ready(function () {
         }
       },
     });
+    for (const [key, value] of formData) {
+      console.log(key, value)
+    }
   });
 
   /**
@@ -283,7 +301,6 @@ $(document).ready(function () {
 
   $("#contactForm .radio-control").click(function (e){
     var $this = $(this);
-    console.log($this)
 
     if ($this.hasClass("validate-required") && $this.is(':checked')) {
       $this.removeClass("error");
