@@ -210,7 +210,6 @@ $(document).ready(function () {
     //   // console.log($this)
 
     //   if ($this.attr("checked") != "checked" && $this.hasClass("validate-required")) {
-        
     //     errors.push($this);
     //     valid = false;
     //   }
