@@ -109,7 +109,7 @@ translationKey: blog-digital-learning
 
 
 
-<p>There are so many exciting digital trends emerging at the moment. One I am very excited about is <a href="https://contensis.uwaterloo.ca/sites/open/resources/CEL-ORR/toc/modules/extended-reality.aspx#background" target="_blank" rel="noreferrer noopener">Extended Reality</a>, which is an umbrella term that includes augmented reality, virtual reality (VR), and mixed reality. Extended reality can open many possibilities for training simulations. The use of VR to train staff has the potential to revolutionise learning. While these types of technology are still in the early stages of implementation, I’m excited to see what the future holds.</p>
+<p>There are so many exciting digital trends emerging at the moment. One I am very excited about is <a href="https://busrides-trajetsenbus.csps-efpc.gc.ca/en/ep-107-en" target="_blank" rel="noreferrer noopener">Extended Reality</a>, which is an umbrella term that includes augmented reality, virtual reality (VR), and mixed reality. Extended reality can open many possibilities for training simulations. The use of VR to train staff has the potential to revolutionise learning. While these types of technology are still in the early stages of implementation, I’m excited to see what the future holds.</p>
 
 
 

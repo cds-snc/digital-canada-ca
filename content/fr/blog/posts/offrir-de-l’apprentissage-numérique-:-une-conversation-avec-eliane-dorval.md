@@ -109,7 +109,7 @@ translationKey: blog-digital-learning
 
 
 
-<p>Il y a tellement de tendances numériques qui émergent en ce moment et que je trouve passionnantes. L’une d’entre elles est la <a href="https://contensis.uwaterloo.ca/sites/open/resources/CEL-ORR/toc/modules/extended-reality.aspx" target="_blank" rel="noreferrer noopener">réalité étendue</a> (en anglais), un terme générique qui inclut la réalité augmentée, la réalité virtuelle et la réalité mixte. La réalité étendue peut ouvrir de nombreuses possibilités pour les simulations d’entraînement. L’utilisation de la réalité virtuelle pour former le personnel a le potentiel de révolutionner l’apprentissage. Bien que la mise en œuvre de ces technologies en soit encore aux étapes embryonnaires, j’ai hâte de voir ce que l’avenir nous réserve.</p>
+<p>Il y a tellement de tendances numériques qui émergent en ce moment et que je trouve passionnantes. L’une d’entre elles est la <a href="https://contensis.uwaterloo.ca/sites/open/resources/CEL-ORR/toc/modules/extended-reality.aspx" target="_blank" rel="noreferrer noopener">réalité éten</a><a href="https://busrides-trajetsenbus.csps-efpc.gc.ca/fr/ep-107-fr" target="_blank" rel="noreferrer noopener">due</a> , un terme générique qui inclut la réalité augmentée, la réalité virtuelle et la réalité mixte. La réalité étendue peut ouvrir de nombreuses possibilités pour les simulations d’entraînement. L’utilisation de la réalité virtuelle pour former le personnel a le potentiel de révolutionner l’apprentissage. Bien que la mise en œuvre de ces technologies en soit encore aux étapes embryonnaires, j’ai hâte de voir ce que l’avenir nous réserve.</p>
 
 
 
