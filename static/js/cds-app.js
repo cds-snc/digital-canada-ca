@@ -215,15 +215,15 @@ $(document).ready(function () {
     //   }
 
     // })
-    var $preferred_language = $("input[name=preferred-language]")
-    if ($('input[name=preferred-language]:checked').length < 1 && $preferred_language.hasClass("validate-required")) {
+    var $preferred_language = $("input[name=preferred_language]")
+    if ($('input[name=preferred_language]:checked').length < 1 && $preferred_language.hasClass("validate-required")) {
       errors.push($preferred_language)
       valid = false
     }
 
-    var $where_did_you_hear = $("input[name=where-did-you-hear]")
+    var $where_did_you_hear = $("input[name=where_did_you_hear]")
 
-    if ($('input[name=where-did-you-hear]:checked').length < 1 && $where_did_you_hear.hasClass("validate-required")) {
+    if ($('input[name=where_did_you_hear]:checked').length < 1 && $where_did_you_hear.hasClass("validate-required")) {
       errors.push($where_did_you_hear)
       valid = false
     }
