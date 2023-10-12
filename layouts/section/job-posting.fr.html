@@ -9,7 +9,8 @@
           {{end}}
           {{ if and (.Params.leverId) (eq .Params.archived true) }}
           <div class="job-posting-banner">
-              <p>Nous n’acceptons plus de candidatures pour ce poste. Pour consulter une liste des postes actifs, veuillez vous rendre sur notre <a href="/carrieres/" style="color: black;">page carrières</a>.</p>
+            <p>Nous n’acceptons plus de candidatures pour ce poste. Pour consulter une liste des postes actifs, veuillez
+              vous rendre sur notre <a href="/carrieres/" style="color: black;">page carrières</a>.</p>
           </div>
 
           {{ end }}
@@ -18,7 +19,8 @@
           </div>
           <div>
             <h2 class="h2-font-weight">Travaillez de n’importe où au Canada</h2>
-            <p>Le SNC est une équipe entièrement décentralisée. Ce travail peut être effectué de n'importe où au Canada.</p>
+            <p>Le SNC est une équipe entièrement décentralisée. Ce travail peut être effectué de n'importe où au Canada.
+            </p>
             <p><a href="https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html"
                 rel="externe">Mesures
                 d’adaptation en matière d’évaluation<img src="/img/icons/assessment-accomodation.svg"
@@ -53,7 +55,10 @@
           d’adaptation à une étape ou une autre du processus d’évaluation, veuillez envoyer un message aux coordonnées
           indiquées dans le lien ci-dessous pour en faire la demande. Tout renseignement concernant les mesures
           d’adaptation sera traité confidentiellement.</p>
-          <p>Un bassin de personnes qualifiées PEUT être créé et PEUT être utilisé à la suite de ce processus pour pourvoir des postes similaires avec des profils linguistiques (anglais essentiel, bilingue impératif BBB/BBB, bilingue impératif CBC/CBC), ainsi que des mandats (indéterminé, déploiement, intérim, affectation, détachement, période déterminée) qui peuvent varier selon le poste à doter.</p>
+        <p>Un bassin de personnes qualifiées PEUT être créé et PEUT être utilisé à la suite de ce processus pour
+          pourvoir des postes similaires avec des profils linguistiques (anglais essentiel, bilingue impératif BBB/BBB,
+          bilingue impératif CBC/CBC), ainsi que des mandats (indéterminé, déploiement, intérim, affectation,
+          détachement, période déterminée) qui peuvent varier selon le poste à doter.</p>
 
         <div class="cta__link black">
           <a href="/careers/">En savoir plus sur notre processus de recrutement<img
@@ -70,6 +75,11 @@
     <h2>Postulez maintenant</h2>
     <form enctype="multipart/form-data" class="text-left" id="contactForm">
       <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
+      <!-- Pronouns -->
+      <div class="form-group">
+        <label for="pronouns">Pronom(s)</label>
+        <input type="text" class="form-control" id="pronouns" name="pronouns" />
+      </div>
       <!-- Full Name -->
       <div class="form-group">
         <label for="name">Nom complet</label>
@@ -80,67 +90,123 @@
       </div>
       <!-- Email -->
       <div class="form-group">
-        <label for="email">Courriel</label>
+        <label for="email">Adresse courriel</label>
         <input type="email" name="email" class="form-control validate-required validate-email" id="email"
           aria-required="true" aria-describedby="email-required" />
         <span id="email-required" class="error-message validate-required-message" style="display: none;">Ce champ est
+          obligatoire</span>
+      </div>
+      <!-- Preferred Language -->
+
+      <div class="form-group">
+        
+        <div class="radio-div">
+          <span>Preferred language for communication</span>
+        </div>
+        <input type="radio" id="francais" class="radio-control validate-required" name="preferred_language" value="Francais" aria-required="true" aria-describedby="preferred_language_required"/>
+        <label for="francais">Français</label><br>
+        <input type="radio" id="english" class="radio-control validate-required" name="preferred_language" value="English" aria-required="true" aria-describedby="preferred_language_required"/>
+        <label for="english">English</label><br>
+        <span id="preferred_language_required" class="error-message validate-required-message" style="display: none;">Ce champ est
           obligatoire</span>
       </div>
 
       <!-- Resume -->
 
       <div class="form-group">
-        <label for="resume">CV
+        <label for="resume">Téléverser votre CV
           <div class="browse">
             <div>Parcourir...
-              <input class="resume" type="file" id="resume" name="resume"
-                accept="application/msword, application/pdf, text/plain" required />
+              <input class="resume form-control validate-required" type="file" id="resume" name="resume"
+                accept="application/msword, application/pdf, text/plain" aria-required="true" aria-describedby="resume" />
             </div>
 
           </div>
-        </label>
-        <span class="no-file-chosen" id="no-file-chosen-text">Aucun fichier sélectionné</span>
 
+        </label><br id="break-id"style="display: none;">
+
+        <span class="no-file-chosen" id="no-file-chosen-text">Aucun fichier sélectionné</span>
+        <span id="resume-error" class="error-message resume-validate-required-message" style="display: none;">Ce champ est
+          obligatoire</span>
+
+
+      </div>
+
+      <!-- Samples of your work -->
+      <div class="form-group">
+        <label for="samples">Échantillon de travail / profil LinkedIn</label>
+
+        <textarea class="form-control" id="samples" name="samples" rows="5"></textarea>
+      </div>
+      <!-- How did you hear about this job-->
+
+      <div class="form-group">
+        <div class="radio-div">
+          <span>Comment avez-vous entendu parler de cette offre d’emploi?</span>
+        </div>
+        
+        <input type="radio" class="radio-control validate-required" id="cds-career-page" name="where_did_you_hear" value="Page « Carrières » du SNC" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="cds-career-page">Page « Carrières » du SNC</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="goc-jobs" name="where_did_you_hear" value="Emplois.gc.ca" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="goc-jobs">Emplois.gc.ca</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="linkedin" name="where_did_you_hear" value="LinkedIn" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="linkedin">LinkedIn</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="facebook-groups" name="where_did_you_hear" value="Groupes Facebook" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="facebook-groups">Groupes Facebook</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="communities-queertech" name="where_did_you_hear" value="Communautés — Queertech" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="communities-queertech">Communautés — Queertech</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="communities-other" name="where_did_you_hear" value="Communautés — Autres" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="communities-other">Communautés — Autres</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="employee-ref" name="where_did_you_hear" value="Recommandation par un·e employé·e" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="employee-ref">Recommandation par un·e employé·e</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="friend-family-ref" name="where_did_you_hear" value="Recommandation par un·e ami·e ou membre de la famille" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="friend-family-ref">Recommandation par un·e ami·e ou membre de la famille</label><br>
+        <span id="where_did_you_hear_required" class="error-message validate-required-message" style="display: none;">Ce champ est
+          obligatoire</span>
+      </div>
+
+      <!-- Accommodation -->
+
+      <div class="form-group">
+        <div class="radio-div">
+          <span>Aurez-vous besoin de mesures d’adaptation durant le processus de recrutement?</span>
+        </div>
+        
+        <input type="radio" id="yes-accommodation" name="accommodation" value="Oui" />
+        <label for="yes-accommodation">Oui</label><br>
+
+        <input type="radio" id="no-accommodation" name="accommodation" value="Non" />
+        <label for="no-accommodation">Non</label><br>
 
       </div>
       <!-- Body -->
 
       <div class="form-group">
-        <label for="body">Dites-nous, en 300 mots ou moins, pourquoi vous voulez travailler avec nous et, le cas
-          échéant, ce que l’on devrait savoir au sujet de vos échantillons de travail.</label>
-        <textarea class="form-control validate-required validate-maxwords" id="body" name="body" rows="5"
+        <label for="body">Que devons-nous savoir à votre sujet? (300 mots)</label>
+        <textarea class="form-control validate-maxwords" id="body" name="body" rows="5"
           aria-required="true" aria-describedby="body-required word-count-message"></textarea>
-        <span id="body-required" class="error-message validate-required-message" style="display: none;">Ce champ est
-          obligatoire<br />
         </span>
         <span id="word-count-message" class="help-text">
           <span id="word-count">300</span> mots restants</span>
 
       </div>
-      <!-- Samples of your work -->
-      <div class="form-group">
-        <label for="samples">Échantillons de votre travail<span class="alt-label"> (Facultatif)</span></label>
-        <div>
-          <span class="url">Liens URL SVP!</span>
 
-        </div>
-        <textarea class="form-control" id="samples" name="samples" rows="5"></textarea>
-      </div>
-      <!-- How did you hear about this job-->
-      <div class="form-group">
-        <label style="margin-bottom: 1rem;" for="talent_tracking">Comment avez-vous entendu parler de ce poste?</label>
-        <input type="text" class="form-control validate-required" name="talent_tracking" id="talent_tracking"
-          aria-required="true" aria-describedby="talent-tracking-required" />
-        <span id="talent-tracking-required" class="error-message validate-required-message" style="display: none;">Ce
-          champ est
-          obligatoire</span>
-      </div>
       <!-- Submit-->
       <div>
         <button type="submit" class="submit-button" id="submit-btn">
           <span class="submit-button-text">Soumettre<img src="/img/icons/arrow-right-white.svg" role="presentation"
               alt="" /></span>
         </button>
+      </div>
+      <div>
+        <p>Si vous êtes dans l’impossibilité d’utiliser le formulaire, veuillez envoyer votre CV par courriel à l’adresse  <a href="mailto: cds-snc@tbs-gct.gc.ca">cds-snc@tbs-gct.gc.ca</a></p>
       </div>
       <div class="privacy-link">
         <a href="/transparence/confidentialite/">Énoncé de confidentialité</a>

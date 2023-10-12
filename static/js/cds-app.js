@@ -85,9 +85,6 @@ $(document).ready(function () {
     document.getElementById("dropdwn-cnt").style.display = "block"
     document.getElementById("coaching-and-advice-nav-tag").focus();
   })
-  document.addEventListener("keyup", function (e) {
-    console.log(document.activeElement)
-  })
 
 
 
@@ -140,6 +137,15 @@ $(document).ready(function () {
    */
   $("#contactForm #resume").on("change", function (event) {
     var file = $("#contactForm #resume")[0].files[0].name;
+    if ($("#no-file-chosen-text").hide()) {
+      $("#no-file-chosen-text").show()
+      $("#resume-error").hide();
+      $("#break-id").hide();
+      $(this).removeClass("error");
+      $(this).closest(".form-group").removeClass("error");
+      
+      $(this).attr("aria-invalid", "false");
+    }
     $("#contactForm #no-file-chosen-text").html(file);
   });
 
@@ -150,6 +156,8 @@ $(document).ready(function () {
     event.preventDefault();
 
     var formData = new FormData($("#contactForm")[0]);
+    var fileLength = $("#contactForm #resume")[0].files.length;
+
     /**
      * Form Validation
      */
@@ -188,7 +196,37 @@ $(document).ready(function () {
         errors.push($this);
         valid = false;
       }
+
+      if (fileLength < 1 && $this.hasClass("validate-required")) {
+        $("#resume-error").show();
+        $("#break-id").show();
+        $("#no-file-chosen-text").hide();
+        valid = false;
+      }
     });
+
+    // $("#contactForm .radio-control").each(function() {
+    //   var $this = $(this);
+    //   // console.log($this)
+
+    //   if ($this.attr("checked") != "checked" && $this.hasClass("validate-required")) {
+    //     errors.push($this);
+    //     valid = false;
+    //   }
+
+    // })
+    var $preferred_language = $("input[name=preferred_language]")
+    if ($('input[name=preferred_language]:checked').length < 1 && $preferred_language.hasClass("validate-required")) {
+      errors.push($preferred_language)
+      valid = false
+    }
+
+    var $where_did_you_hear = $("input[name=where_did_you_hear]")
+
+    if ($('input[name=where_did_you_hear]:checked').length < 1 && $where_did_you_hear.hasClass("validate-required")) {
+      errors.push($where_did_you_hear)
+      valid = false
+    }
 
     /**
      * Handle invalid items
@@ -251,11 +289,25 @@ $(document).ready(function () {
         }
       },
     });
+    for (const [key, value] of formData) {
+      console.log(key, value)
+    }
   });
 
   /**
    * Check if there is a validation error to be cleared
    */
+
+  $("#contactForm .radio-control").click(function (e){
+    var $this = $(this);
+
+    if ($this.hasClass("validate-required") && $this.is(':checked')) {
+      $this.removeClass("error");
+      $this.closest(".form-group").removeClass("error");
+      $this.siblings(".error-message").hide();
+      $this.attr("aria-invalid", "false");
+    }
+  })
   $("#contactForm .form-control").keyup(function (e) {
     var $this = $(this);
 

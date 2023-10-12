@@ -5,13 +5,14 @@
     <div class="row">
       <div class="col-sm-10 col-sm-offset-1 col-xs-12">
         {{ if and (.Params.leverId) (eq .Params.archived false) }}
-          <a href="#apply-now">Apply now</a>
+        <a href="#apply-now">Apply now</a>
         {{end}}
         {{ if and (.Params.leverId) (eq .Params.archived true) }}
         <div class="job-posting-banner">
-          <p>We're no longer accepting applications for this position. To see a list of active job postings, please visit our <a style="color: black;" href="/careers/">Careers page</a>.</p>
+          <p>We're no longer accepting applications for this position. To see a list of active job postings, please
+            visit our <a style="color: black;" href="/careers/">Careers page</a>.</p>
         </div>
-        
+
         {{ end }}
         <div class="content">
           {{.Content}}
@@ -55,10 +56,14 @@
           barrier-free work environment, starting with the hiring process. If you need to be accommodated during any
           phase of the evaluation process, please use the Contact information below to request specialized
           accommodation. All information received in relation to accommodation will be kept confidential.</p>
-        <p>A pool of qualified persons resulting from this process MAY be created and MAY be used to fill similar positions, with linguistic profiles (english essential, bilingual imperative BBB/BBB, bilingual imperative CBC/CBC, as well as tenures (indeterminate, deployment, acting, assignment, secondment, specified period) which may vary according to the position being staffed.</p>
+        <p>A pool of qualified persons resulting from this process MAY be created and MAY be used to fill similar
+          positions, with linguistic profiles (english essential, bilingual imperative BBB/BBB, bilingual imperative
+          CBC/CBC, as well as tenures (indeterminate, deployment, acting, assignment, secondment, specified period)
+          which may vary according to the position being staffed.</p>
         <div class="cta__link black">
 
-          <a href="/careers/">More about our hiring process<img src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/></a>
+          <a href="/careers/">More about our hiring process<img src="/img/icons/arrow-right-white.svg"
+              role="presentation" alt="" /></a>
         </div>
       </div>
     </div>
@@ -72,6 +77,11 @@
     <h2>Apply now</h2>
     <form enctype="multipart/form-data" class="text-left" id="contactForm">
       <input type="hidden" id="jobId" name="jobId" value="{{.Params.leverId}}" />
+      <!-- Pronouns -->
+      <div class="form-group">
+        <label for="pronouns">Pronoun(s)</label>
+        <input type="text" class="form-control" id="pronouns" name="pronouns" />
+      </div>
       <!-- Full Name -->
       <div class="form-group">
         <label for="name">Full Name</label>
@@ -89,62 +99,117 @@
           is required</span>
       </div>
 
+      <!-- Preferred Language -->
+
+      <div class="form-group">
+        <div class="radio-div">
+          <span>Preferred language for communication</span><br>
+        </div>
+        
+        <input type="radio" id="francais" class="radio-control validate-required" name="preferred_language" value="Francais" aria-required="true" aria-describedby="preferred_language_required"/>
+        <label for="francais">Français</label><br>
+        <input type="radio" id="english" class="radio-control validate-required" name="preferred_language" value="English" aria-required="true" aria-describedby="preferred_language_required"/>
+        <label for="english">English</label><br>
+        <span id="preferred_language_required" class="error-message validate-required-message" style="display: none;">This field
+          is required</span>
+      </div>
+
       <!-- Resume -->
 
-      
+
       <div class="form-group">
-        <label for="resume">Resume
+        <label for="resume">Upload your resume
           <div class="browse">
             <div>Browse...
-              <input class="resume" type="file" id="resume" name="resume"
-                accept="application/msword, application/pdf, text/plain" required  />
+              <input class="resume form-control validate-required" type="file" id="resume" name="resume"
+                accept="application/msword, application/pdf, text/plain" aria-required="true" aria-describedby="resume" />
             </div>
 
           </div>
-        </label>
-      
+
+        </label><br id="break-id"style="display: none;">
+
         <span class="no-file-chosen" id="no-file-chosen-text">No file selected</span>
+        <span id="resume-error" class="error-message resume-validate-required-message" style="display: none;">This field
+          is required</span>
+
+
+      </div>
+
+      <!-- Samples of your work -->
+      <div class="form-group">
+        <label for="samples">Work sample / LinkedIn profile</label>
+
+        <textarea class="form-control" id="samples" name="samples" rows="5"></textarea>
+      </div>
+      <!-- How did you hear about this job-->
+
+      <div class="form-group">
+        <div class="radio-div">
+          <span>Where did you hear about this job posting?</span>
+        </div>
+        
+        <input type="radio" class="radio-control validate-required" id="cds-career-page" name="where_did_you_hear" value="CDS Career Page" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="cds-career-page">CDS Career Page</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="goc-jobs" name="where_did_you_hear" value="Jobs.gc.ca" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="goc-jobs">Jobs.gc.ca</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="linkedin" name="where_did_you_hear" value="LinkedIn" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="linkedin">LinkedIn</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="facebook-groups" name="where_did_you_hear" value="Facebook groups" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="facebook-groups">Facebook groups</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="communities-queertech" name="where_did_you_hear" value="Communities - Queertech" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="communities-queertech">Communities - Queertech</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="communities-other" name="where_did_you_hear" value="Communities - Other" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="communities-other">Communities - Other</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="employee-ref" name="where_did_you_hear" value="Employee Referral" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="employee-ref">Employee Referral</label><br>
+
+        <input type="radio" class="radio-control validate-required" id="friend-family-ref" name="where_did_you_hear" value="Friend/Family Referral" aria-required="true" aria-describedby="where_did_you_hear_required"/>
+        <label for="friend-family-ref">Friend/Family Referral</label><br>
+        <span id="where_did_you_hear_required" class="error-message validate-required-message" style="display: none;">This field
+          is required</span>
+      </div>
+
+      <!-- Accommodation -->
+
+      <div class="form-group">
+        <div class="radio-div">
+          <span>Do you need accommodation during the hiring process?</span>
+        </div>
+        
+        <input type="radio" id="yes-accommodation" name="accommodation" value="Yes" />
+        <label for="yes-accommodation">Yes</label><br>
+
+        <input type="radio" id="no-accommodation" name="accommodation" value="No" />
+        <label for="no-accommodation">No</label><br>
 
       </div>
 
       <!-- Body -->
 
       <div class="form-group">
-        <label for="body">Tell us in 300 words or less why you want to work with us and,
-          if applicable, what we should know about your
-          work samples</label>
-        <textarea class="form-control validate-required validate-maxwords" id="body" name="body" rows="5"
+        <label for="body">What should we know about you? (300 words)</label>
+        <textarea class="form-control validate-maxwords" id="body" name="body" rows="5"
           aria-required="true" aria-describedby="body-required word-count-message"></textarea>
-        <span id="body-required" class="error-message validate-required-message" style="display: none;">This field
-          is required<br />
         </span>
         <span id="word-count-message" class="help-text">
           <span id="word-count">300</span> words remaining</span>
 
       </div>
-      <!-- Samples of your work -->
-      <div class="form-group">
-        <label for="samples">Samples of your work<span class="alt-label"> (optional)</span></label>
-        <div>
-          <span class="url">URLs, please!</span>
 
-        </div>
-
-        <textarea class="form-control" id="samples" name="samples" rows="5"></textarea>
-      </div>
-
-      <!-- How did you hear about this job-->
-      <div class="form-group">
-        <label style="margin-bottom: 1rem;" for="talent_tracking">How did you hear about this job posting?</label>
-        <input type="text" class="form-control validate-required" name="talent_tracking" id="talent_tracking" aria-required="true" aria-describedby="talent-tracking-required"/>
-        <span id="talent-tracking-required" class="error-message validate-required-message" style="display: none;">This field
-          is required</span>
-      </div>
       <!-- Submit-->
+      <button type="submit" class="submit-button" id="submit-btn" value="Submit">
+        <span class="submit-button-text">Submit<img src="/img/icons/arrow-right-white.svg" role="presentation"
+            alt="" /></span>
+      </button>
       <div>
-        <button type="submit" class="submit-button" id="submit-btn">
-          <span class="submit-button-text">Submit<img src="/img/icons/arrow-right-white.svg" role="presentation" alt=""/></span>
-        </button>
+        <p>In cases where the form can't be used, please send your resume to <a href="mailto: cds-snc@tbs-gct.gc.ca">cds-snc@tbs-gct.gc.ca</a></p>
       </div>
       <div class="privacy-link">
         <a href="/legal/privacy/">Privacy Notice</a>

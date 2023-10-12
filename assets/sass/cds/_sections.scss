@@ -725,9 +725,12 @@ span.livefr {
   .url {
     font-size: 2.3rem;
   }
-  input {
+  input[type=text], [type=email] {
     width: 100%;
     border: 2px black solid;
+  }
+  input[type=radio]{
+    margin: 0 5px 5px 5px;
   }
   textarea {
     width: 100%;
@@ -741,6 +744,8 @@ span.livefr {
     background-color: black;
     margin-bottom: 2rem;
     margin-top: 1rem;
+    // width: auto;
+    width: fit-content;
 
     div {
       cursor: pointer;
@@ -748,6 +753,7 @@ span.livefr {
       margin: 1rem;
       font-size: 2.3rem;
       font-weight: 600;
+      width: auto;
     }
 
   }
@@ -760,7 +766,6 @@ span.livefr {
   .no-file-chosen {
     font-size: 2.2rem;
     font-weight: 100;
-    margin-left: 2rem;
   }
   .help-text {
     font-size: 2.3rem;
