@@ -60,4 +60,3 @@ Taking a service design lens to the business of procurement has been both a touc
 * Advocate the work that your team does and share it widely across all mediums possible.
 
 I’m encouraged to see the beginnings of a focused effort to apply service design to the business of government. For us, we’re excited to start delivering on our work to make buying better, show the results of our service design efforts, and prove that yes, even internal services like procurement can be a delightful experience.
-

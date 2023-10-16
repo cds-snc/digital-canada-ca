@@ -3,9 +3,9 @@ Title: Publiez et gérez des formulaires en ligne
 Subtitle:  Formulaires GC
 TranslationKey: gc-forms
 Description: >-
-  Recueillez des renseignements auprès du public à l’aide de formulaires en ligne.
+  Créez vous-même des formulaires en ligne sans codage, approvisionnement ou formation. 
 SecondDescription: >-
-  Cet outil est actuellement utilisé pour les données protégées de type A. Vous pouvez créer un compte, commencer à utiliser cet outil ou nous contacter en visitant le site Web de Formulaires GC.
+  Utilisez Formulaires GC pour créer des formulaires accessibles, bilingues et sécurisés jusqu’au niveau Protégé B. Essayez-le sans risque; aucun compte n’est requis.
 ButtonText: Site web de Formulaires GC
 ButtonAria: Aller au site Web de Formulaires GC
 Weight: 2
