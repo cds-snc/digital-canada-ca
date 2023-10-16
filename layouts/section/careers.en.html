@@ -30,21 +30,36 @@
                         <p>You're passionate about people's experiences and want to make people’s lives better. You're curious, and your humility helps you learn and grow. You love to collaborate across roles and organizations. You create structure out of ambiguity and forge a path in new environments.</p>
 
                         <div class="row">
-                            {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
+                            
                                 <h3>Current openings</h3>
                                 {{ range $p := (where .Pages ".Params.archived" "==" false) }}
                     
                                 <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
 
                                 {{ end }}
-                            {{ end }}
+                            
                         </div>
+                    {{ else }}
+                    <h3 style="margin-bottom: 3rem;"> Current openings </h3>
+                    <div>
+                        <p style="margin-bottom: auto;">There are no job openings at this time. Please check back later.</p>
+                    </div>    
                     {{end}}
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+<!-- <section class="work-with-us--section joinus-section bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-xs-12">
+
+            </div>
+        </div>
+    </div>
+</section> -->
 
 
 <section class="section section--mailing-list">

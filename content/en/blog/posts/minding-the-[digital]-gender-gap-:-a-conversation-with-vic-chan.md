@@ -13,9 +13,7 @@ translationKey: blog-conversation-vic
 
 <p class="has-small-font-size"><em>This article was previously published on <a href="https://www.linkedin.com/company/cds-snc/">CDS&#8217;s LinkedIn page</a> in May 2023. Check out the<a href="https://www.linkedin.com/pulse/minding-digital-gender-gap-conversation-vic-chan-cds-snc%3FtrackingId=k2s%252Fb0WsGCcb9nAgPdiDcA%253D%253D/?trackingId=k2s%2Fb0WsGCcb9nAgPdiDcA%3D%3D"> original post.</a></em></p>
 
-
-
-<figure class="wp-block-pullquote"><blockquote><p>“<em>It’s easy to underestimate the impact that a learning culture can have on leveliing the playing field for people with intersecting identities.</em>” </p><cite>Vic Chan, Website Team Lead</cite></blockquote></figure>
+<figure class="wp-block-pullquote"><blockquote><p>“<em>It’s easy to underestimate the impact that a learning culture can have on leveling the playing field for people with intersecting identities.</em>” </p><cite>Vic Chan, Website Team Lead</cite></blockquote></figure>
 
 
 
@@ -71,7 +69,8 @@ translationKey: blog-conversation-vic
 
 
 
-<p>It’s easy to underestimate the impact that a learning culture can have on levelling the playing field for people with intersecting identities. From experiencing its value firsthand,&nbsp;<strong>I try to integrate mentorship and coaching into my role as a manager and collaborator because at some point, someone did the same for me.&nbsp;</strong></p>
+
+<p>It’s easy to underestimate the impact that a learning culture can have on leveling the playing field for people with intersecting identities. From experiencing its value firsthand, <strong>I try to integrate mentorship and coaching into my role as a manager and collaborator because at some point, someone did the same for me. </strong></p>
 
 
 

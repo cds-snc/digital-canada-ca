@@ -3,9 +3,9 @@ Title: Publish and manage online forms
 Subtitle: GC Forms
 TranslationKey: gc-forms
 Description: >-
-  Collect information from the public using online forms.
+  Create online forms yourself. No coding, procurement, or training required. 
 SecondDescription: >-
-  This tool is currently being used for protected A data. You can create an account, start using this tool, or contact us by visiting the GC Forms website.
+  Use GC Forms to create accessible, bilingual, and secure forms up to Protected B. Try it out risk-free, no account required.
 ButtonText: GC Forms Website
 ButtonAria: Visit the GC Forms website
 Weight: 2
