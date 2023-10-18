@@ -4,7 +4,7 @@ type: section
 title: 'Postulez à de futures offres d’emploi '
 description: >-
   Si aucun des postes ne vous convient actuellement, vous pouvez soumettre votre candidature afin qu’elle soit prise en compte pour de futures offres d’emploi.
-archived: true
+archived: false
 translationKey: evergreen-job-posting
 leverId: 77d1c499-8722-41ad-9985-e163d76b0e39
 ---
