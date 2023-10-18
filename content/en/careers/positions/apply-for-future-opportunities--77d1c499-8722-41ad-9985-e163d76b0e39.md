@@ -3,8 +3,8 @@ layout: job-posting
 type: section
 title: 'Apply for future opportunities'
 description: >-
-  If there isn't a current job opening that is the right fit for you, you can apply to be considered for future opportunities as they come up. 
-archived: false
+  If there isn't a current job opening that is the right fit for you, you can apply to be considered for future opportunities as they come up.
+archived: true
 translationKey: evergreen-job-posting
 leverId: 77d1c499-8722-41ad-9985-e163d76b0e39
 ---
