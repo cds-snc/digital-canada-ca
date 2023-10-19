@@ -39,7 +39,7 @@
                         <h3>Postes à pourvoir</h3>
                         {{ range $p := (where .Pages ".Params.archived" "==" false) }}
 
-                        <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Params.Title }}</a></h4>
+                        <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
 
                         {{ end }}
 
@@ -59,9 +59,9 @@
                             votre profil. Dès que de nouveaux postes seront à pourvoir, les candidat·e·s qui répondent
                             aux critères seront contacté·e·s.</p>
                         {{ $c := (where .Site.Pages "Section" "==" "careers") }}
-                        {{ $positions := (where $c ".Params.translationKey" "==" "evergreen-job-posting") }}
+                        {{ $positions := (where $c ".Params.translationkey" "==" "evergreen-job-posting") }}
                         {{ range $positions }}
-                        <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
+                        <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Params.Title }}</a></h4>
                         {{ end }}
                     </div>
                 </div>
