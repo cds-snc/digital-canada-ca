@@ -58,8 +58,8 @@
                         <p>Vous pouvez nous transmettre votre c.v. si aucune offre d’emploi ne correspond actuellement à
                             votre profil. Dès que de nouveaux postes seront à pourvoir, les candidat·e·s qui répondent
                             aux critères seront contacté·e·s.</p>
-                        {{ $c := where .Site.Pages "Section" "==" "careers" }}
-                        {{ $positions := where $c ".Params.translationKey" "==" "evergreen-job-posting" }}
+                        {{ $c := (where .Site.Pages "Section" "==" "careers") }}
+                        {{ $positions := (where $c ".Params.translationKey" "==" "evergreen-job-posting") }}
                         {{ range $positions }}
                         <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
                         {{ end }}
