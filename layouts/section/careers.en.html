@@ -57,7 +57,7 @@
                         {{ $c := (where .Site.Pages "Section" "==" "careers") }}
                         {{ $positions := (where $c ".Params.translationKey" "==" "evergreen-job-posting") }}
                         {{ range $positions }}
-                        <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
+                        <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Params.Title }}</a></h4>
                         {{ end }}
                     </div>
 
