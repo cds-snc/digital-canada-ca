@@ -6,12 +6,17 @@
             <div class="col-lg-8 col-xs-12">
                 <h2 class="major mrgn-bttm-lg">Work anywhere in Canada. Make government services better.</h2>
                 <h3>Join our team</h3>
-                <p>When you join CDS, you can work from anywhere in Canada, with flexible hours to enable a strong work-life balance. We have people working from coast to coast to coast.</p>
+                <p>When you join CDS, you can work from anywhere in Canada, with flexible hours to enable a strong
+                    work-life balance. We have people working from coast to coast to coast.</p>
                 <p>We provide the latest tools and technologies to help you do great work.</p>
-                <p>You will be part of a team that does meaningful work on services that help people, alongside wonderful, highly-skilled people.</p>
-                
+                <p>You will be part of a team that does meaningful work on services that help people, alongside
+                    wonderful, highly-skilled people.</p>
+
                 <div class="button-arrow">
-                    <a href="/meet-the-team/">Meet the team <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M8 9H0V7H8V0L16 8L8 16V9Z"/></svg></a>
+                    <a href="/meet-the-team/">Meet the team <svg width="16" height="16" viewBox="0 0 16 16"
+                            xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                            <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+                        </svg></a>
                 </div>
             </div>
         </div>
@@ -26,24 +31,37 @@
             <div class="col-lg-8 col-xs-12">
                 <div>
                     {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
-                        <div class="row">
-                            
-                                <h3>Current openings</h3>
-                                {{ range $p := (where .Pages ".Params.archived" "==" false) }}
-                    
-                                <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
+                    <div class="row">
 
-                                {{ end }}
-                            
-                        </div>
+                        <h3>Current openings</h3>
+                        {{ range $p := (where .Pages ".Params.archived" "==" false) }}
+
+                        <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
+
+                        {{ end }}
+
+                    </div>
                     {{ else }}
                     <h3 style="margin-bottom: 3rem;"> Current openings </h3>
                     <div>
-                        <p style="margin-bottom: auto;">There are no job openings at this time. Please check back later.</p>
-                    </div>    
+                        <p style="margin-bottom: 4rem;">There are no job openings at this time. Please check back later.
+                        </p>
+                    </div>
                     {{end}}
-                    
-            
+
+                    <!-- Evergreen Job posting -->
+                    <div>
+                        <h4><strong>Be considered for future opportunities</strong></h4>
+                        <p>You can share your resume with us if there are no openings that are a fit. As positions
+                            become available, applicants who meet qualifications will be contacted.</p>
+                        {{ $c := where .Site.Pages "Section" "==" "careers" }}
+                        {{ $positions := where $c ".Params.translationKey" "==" "evergreen-job-posting" }}
+                        {{ range $positions }}
+                        <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
+                        {{ end }}
+                    </div>
+
+
                 </div>
             </div>
         </div>
@@ -62,7 +80,7 @@
 
 
 <section class="section section--mailing-list">
-  {{ partial "mailing-list.html" }}
+    {{ partial "mailing-list.html" }}
 </section>
 
 {{ .Content }}
