@@ -4,12 +4,12 @@
     <section class="padding">
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1 col-xs-12">
-          {{ if and (.Params.leverId) (eq .Params.archived false) }}
+          {{ if or (eq .Params.archived false) (eq .Params.translationKey "evergreen-job-posting") }}
           <a href="#apply-now">Postulez maintenant</a>
-          {{end}}
-          {{ if and (.Params.leverId) (eq .Params.archived true) }}
+          {{else}}
           <div class="job-posting-banner">
-              <p>Nous n’acceptons plus de candidatures pour ce poste. Pour consulter une liste des postes actifs, veuillez vous rendre sur notre <a href="/carrieres/" style="color: black;">page carrières</a>.</p>
+            <p>Nous n’acceptons plus de candidatures pour ce poste. Pour consulter une liste des postes actifs, veuillez
+              vous rendre sur notre <a href="/carrieres/" style="color: black;">page carrières</a>.</p>
           </div>
 
           {{ end }}
@@ -45,11 +45,14 @@
           d’adaptation à une étape ou une autre du processus d’évaluation, veuillez envoyer un message aux coordonnées
           indiquées dans le lien ci-dessous pour en faire la demande. Tout renseignement concernant les mesures
           d’adaptation sera traité confidentiellement.</p>
-          <p><a href="https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html"
+        <p><a href="https://www.canada.ca/en/public-service-commission/services/assessment-accommodation-page.html"
             rel="externe">Mesures
             d’adaptation en matière d’évaluation<img src="/img/icons/assessment-accomodation.svg"
               alt="Lien externe" /></a></p>
-          <p>Un bassin de personnes qualifiées PEUT être créé et PEUT être utilisé à la suite de nos processus pour pourvoir des postes similaires avec des profils linguistiques (anglais essentiel, bilingue impératif BBB/BBB, bilingue impératif CBC/CBC), ainsi que des mandats (indéterminé, déploiement, intérim, affectation, détachement, période déterminée) qui peuvent varier selon le poste à doter.</p>
+        <p>Un bassin de personnes qualifiées PEUT être créé et PEUT être utilisé à la suite de nos processus pour
+          pourvoir des postes similaires avec des profils linguistiques (anglais essentiel, bilingue impératif BBB/BBB,
+          bilingue impératif CBC/CBC), ainsi que des mandats (indéterminé, déploiement, intérim, affectation,
+          détachement, période déterminée) qui peuvent varier selon le poste à doter.</p>
 
         <div class="cta__link black">
           <a href="/careers/">En savoir plus sur notre processus de recrutement<img
@@ -61,7 +64,7 @@
 </div>
 
 <div id="apply-now" class="row work-with-us--apply-now container">
-  {{ if and (.Params.leverId) (eq .Params.archived false) }}
+  {{ if or (eq .Params.archived false) (eq .Params.translationKey "evergreen-job-posting") }}
   <div class="col-sm-10 col-sm-offset-1 col-xs-12">
     <h2>Postulez maintenant</h2>
     <form enctype="multipart/form-data" class="text-left" id="contactForm">

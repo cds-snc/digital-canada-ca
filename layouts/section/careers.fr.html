@@ -4,14 +4,22 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-xs-12">
-                <h2 class="major mrgn-bttm-lg">Travaillez de n’importe où au Canada. Améliorez les services gouvernementaux.</h2>
+                <h2 class="major mrgn-bttm-lg">Travaillez de n’importe où au Canada. Améliorez les services
+                    gouvernementaux.</h2>
                 <h3>Joignez-vous à notre équipe</h3>
-                <p>Au SNC, vous pouvez travailler de n'importe où au Canada, selon un horaire flexible qui vous permettra de maintenir un bon équilibre entre la vie professionnelle et privée. Nos employés se trouvent partout au pays, d'un océan à l'autre.</p>
-                <p>Nous mettons à votre disposition des outils et technologies de fine pointe pour vous aider à faire un excellent travail.</p>
-                <p>Vous ferez partie d'une équipe formidable et hautement qualifiée qui travaille à la prestation de services importants qui aident les gens.</p>
+                <p>Au SNC, vous pouvez travailler de n'importe où au Canada, selon un horaire flexible qui vous
+                    permettra de maintenir un bon équilibre entre la vie professionnelle et privée. Nos employés se
+                    trouvent partout au pays, d'un océan à l'autre.</p>
+                <p>Nous mettons à votre disposition des outils et technologies de fine pointe pour vous aider à faire un
+                    excellent travail.</p>
+                <p>Vous ferez partie d'une équipe formidable et hautement qualifiée qui travaille à la prestation de
+                    services importants qui aident les gens.</p>
 
                 <div class="button-arrow">
-                    <a href="/rencontrez-lequipe/">Rencontrer l'équipe <svg width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M8 9H0V7H8V0L16 8L8 16V9Z"/></svg></a>
+                    <a href="/rencontrez-lequipe/">Rencontrer l'équipe <svg width="16" height="16" viewBox="0 0 16 16"
+                            xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+                            <path d="M8 9H0V7H8V0L16 8L8 16V9Z" />
+                        </svg></a>
                 </div>
             </div>
         </div>
@@ -25,23 +33,37 @@
             <div class="col-lg-8 col-xs-12">
                 <div>
                     {{ if gt (len (where .Pages ".Params.archived" "==" false)) 0 }}
-                
-                        <div class="row">
-                            
-                                <h3>Postes à pourvoir</h3>
-                                {{ range $p := (where .Pages ".Params.archived" "==" false) }}
-                    
-                                <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
 
-                                {{ end }}
-                            
-                        </div>
-                        {{ else }}
-                        <h3 style="margin-bottom: 3rem;"> Postes à pourvoir </h3>
-                        <div>
-                            <p style="margin-bottom: auto;">Il n’y a pas de postes à pouvoir à l’heure actuelle. Veuillez revenir plus tard.</p>
-                        </div> 
+                    <div class="row">
+
+                        <h3>Postes à pourvoir</h3>
+                        {{ range $p := (where .Pages ".Params.archived" "==" false) }}
+
+                        <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Title }}</a></h4>
+
+                        {{ end }}
+
+                    </div>
+                    {{ else }}
+                    <h3 style="margin-bottom: 3rem;"> Postes à pourvoir </h3>
+                    <div>
+                        <p style="margin-bottom: 4rem;">Il n’y a pas de postes à pouvoir à l’heure actuelle. Veuillez
+                            revenir plus tard.</p>
+                    </div>
                     {{end}}
+
+                    <!-- Evergreen Job posting -->
+                    <div>
+                        <h4><strong>Soyez considéré·e pour des occasions d’emploi à venir</strong></h4>
+                        <p>Vous pouvez nous transmettre votre c.v. si aucune offre d’emploi ne correspond actuellement à
+                            votre profil. Dès que de nouveaux postes seront à pourvoir, les candidat·e·s qui répondent
+                            aux critères seront contacté·e·s.</p>
+                        {{ $c := (where .Site.Pages "Section" "==" "careers") }}
+                        {{ $positions := (where $c ".Params.translationkey" "==" "evergreen-job-posting") }}
+                        {{ range $positions }}
+                        <h4><a class="job-posting-link" href={{ .RelPermalink }}>{{ .Params.Title }}</a></h4>
+                        {{ end }}
+                    </div>
                 </div>
             </div>
         </div>
@@ -50,7 +72,7 @@
 
 
 <section class="section section--mailing-list">
-  {{ partial "mailing-list.html" }}
+    {{ partial "mailing-list.html" }}
 </section>
 
 {{ .Content }}
