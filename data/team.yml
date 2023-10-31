@@ -791,7 +791,7 @@ team:
     github: Moro-Code
     linkedin: ott-omar-nasr/
     twitter: thenextmusk
-  - archived: false
+  - archived: true
     name: Omar Tehsin
     title:
       en: Development
