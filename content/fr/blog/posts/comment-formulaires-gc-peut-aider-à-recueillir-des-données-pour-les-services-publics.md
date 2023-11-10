@@ -19,7 +19,7 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-1 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
+<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
 <p><strong>Si les produits de santé naturels ne vous évoquent rien, <a href="https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/naturels-sans-ordonnance/reglement/trousse-information.html" target="_blank" rel="noreferrer noopener">la réglementation de Santé Canada</a> (qui a vu le jour en 2004) les définit comme les :</strong></p>
 
 
@@ -138,7 +138,7 @@ translationKey: blog-pbs-christine-patrick
 <p></p>
 
 
-<img decoding="async" loading="lazy" width="1024" height="576" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-1024x576.jpg" alt="" class="wp-image-1176" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-1024x576.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-300x169.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-768x432.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-1536x864.jpg 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img loading="lazy" decoding="async" width="1024" height="576" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-1024x576.jpg" alt="" class="wp-image-1176" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-1024x576.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-300x169.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-768x432.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-1536x864.jpg 1536w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/Master-Mountain_French-2048x1152.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 
 <p style="font-size:12px">Alt text: La collaboration entre les équipes de la DPSNSO et de Formulaires GC s’est faite en six étapes. Première étape : évaluation des besoins. Deuxième étape : choix d’une solution (dans ce cas-ci, Formulaires GC). Troisième étape : collaboration et création du formulaire. Quatrième étape : réalisation d’un examen attentif. Cinquième étape : intégration du formulaire au service. Sixième étape : évaluation de l’utilité du formulaire et améliorations.</p>
