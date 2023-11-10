@@ -19,7 +19,7 @@ translationKey: blog-pbs-christine-patrick
 
 
 
-<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-1 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
+<div class="wp-block-group has-background is-vertical is-layout-flex wp-container-core-group-layout-1 wp-block-group-is-layout-flex" style="background-color:#d8d8d8">
 <p><strong>For those not familiar with natural health products, <a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/natural-non-prescription/regulation/information-kit.html">Health Canada&#8217;s regulations</a> (which began in 2004) define them as:</strong></p>
 
 
@@ -114,7 +114,7 @@ translationKey: blog-pbs-christine-patrick
 <h2 class="wp-block-heading" id="h-q3-can-you-describe-how-you-re-using-gc-forms"><strong>Q3: Can you describe how you’re using GC Forms?</strong></h2>
 
 
-<img decoding="async" loading="lazy" width="1920" height="1080" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic.jpg" alt="" class="wp-image-1131" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic.jpg 1920w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-300x169.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-1024x576.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-768x432.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />
+<img loading="lazy" decoding="async" width="1920" height="1080" src="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic.jpg" alt="" class="wp-image-1131" style="max-width: 100%;height: auto;" srcset="https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic.jpg 1920w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-300x169.jpg 300w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-1024x576.jpg 1024w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-768x432.jpg 768w, https://articles.alpha.canada.ca/uploads/sites/25/2023/06/EN_Mountain-Graphic-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />
 
 
 <p style="font-size:12px">Alt text: The collaboration journey of the NNHPD and GC Forms teams was 6 steps. First, assess needs. Second, find a solution (GC Forms in this case). Third, collaborate and build the form. Fourth, do a mindful review. Fifth, integrate the form into the service. Sixth, see if the form helps as needed and iterate to improve.</p>
