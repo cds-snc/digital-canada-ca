@@ -598,6 +598,15 @@ team:
     imagehash: jessica_loadenthal_eeb5d01c0e
     email: Jessica.Loadenthal@tbs-sct.gc.ca
   - archived: false
+    name: Jimmy Prince
+    title:
+      en: Client experience and growth
+      fr: Expérience client et croissance
+    imagehash: small_jimmy_prince_3915bfc899
+    email: jimmy.prince@tbs-sct.gc.ca
+    github: jprince-cds
+    linkedin: jimmy-prince 
+  - archived: false
     name: Jimmy Royer
     title:
       en: Development
