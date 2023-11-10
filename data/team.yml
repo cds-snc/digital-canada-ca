@@ -60,15 +60,6 @@ exec:
     imagehash: jennifer_stephan_324e6090d3
     email: jennifer.stephan@tbs-sct.gc.ca
   - archived: false
-    name: Jessie Adcock
-    title:
-      en: Chief Executive Officer
-      fr: Présidente-directrice générale
-    imagehash: small_jessie_adcock_257ca0e0ea
-    email: jessie.adcock@tbs-sct.gc.ca
-    linkedin: jessie-adcock-96a212/
-    twitter: jessieadcock
-  - archived: false
     name: John Millons
     title:
       en: Acting Chief Operating Officer & Executive Director 
@@ -157,6 +148,13 @@ exec:
     imagehash: paul_joseph_d15d7971bb
     email: Paul.Joseph@tbs-sct.gc.ca
     linkedin: lastingdiscovery
+  - archived: false
+    name: Paul Wagner
+    title:
+      en: Chief Executive Officer
+      fr: Président-directeur général
+    imagehash: small_paul_wagner_2a7c0e95a5
+    email: Paul.Wagner@tbs-sct.gc.ca
   - archived: false
     name: Sage Cram
     title:
@@ -597,6 +595,15 @@ team:
       fr: Talent
     imagehash: jessica_loadenthal_eeb5d01c0e
     email: Jessica.Loadenthal@tbs-sct.gc.ca
+  - archived: false
+    name: Jimmy Prince
+    title:
+      en: Client experience and growth
+      fr: Expérience client et croissance
+    imagehash: small_jimmy_prince_3915bfc899
+    email: jimmy.prince@tbs-sct.gc.ca
+    github: jprince-cds
+    linkedin: jimmy-prince 
   - archived: false
     name: Jimmy Royer
     title:
