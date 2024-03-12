@@ -1,4 +1,4 @@
-FROM debian:buster-slim@sha256:836de3c09762be6f729e0e3295dbf66de9232894d330bbbf7a78d19b704df8fa as build 
+FROM debian:buster-slim@sha256:4620251e86cea652ef2746c8abef2fcc3ea54abb5f014bfbf841159d805cd1fd as build 
 
 RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
     && apt-get -y install wget \
