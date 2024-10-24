@@ -48,7 +48,7 @@ jobs:
             ~/cds-website-dist
           key: ${{ runner.os }}-${{ github.sha }}
       - name: Setup Ruby
-        uses: ruby/setup-ruby@5311f05890856149502132d25c4a24985a00d426 # v1.153.0
+        uses: ruby/setup-ruby@7bae1d00b5db9166f4f0fc47985a3a5702cb58f0 # v1.197.0
         with:
           ruby-version: 3.0
       - name: install html proofer
